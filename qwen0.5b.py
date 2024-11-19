@@ -13,6 +13,8 @@ from transformers import (
     DataCollatorForSeq2Seq
 )
 from peft import LoraConfig, get_peft_model
+import torch
+torch.cuda.empty_cache()
 
 # 1. Load the Alpaca dataset
 def load_alpaca_format(filepath):
@@ -50,6 +52,7 @@ def main():
     model_name = "Qwen/Qwen2.5-0.5B"
     print("Loading model and tokenizer...")
     model = AutoModelForCausalLM.from_pretrained(model_name)
+    model = torch.nn.DataParallel(model, device_ids=[0, 1])
     tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
 
     # Tokenize the dataset
