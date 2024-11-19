@@ -80,23 +80,23 @@ def main():
     peft_model = get_peft_model(model, config)
 
     training_args = TrainingArguments(
-        output_dir="./qwen_finetuned",           # Output directory for saving the model
-        per_device_train_batch_size=8,           # Increased batch size per device (2 T4 GPUs)
-        per_device_eval_batch_size=8,            # Increased batch size for evaluation
-        evaluation_strategy="steps",             # Evaluate during training at intervals
-        logging_steps=500,                       # Log every 500 steps
-        save_steps=1000,                         # Save the model checkpoint every 1000 steps
-        save_total_limit=2,                      # Keep only 2 recent model checkpoints
-        learning_rate=5e-5,                      # Use a smaller learning rate for stability
-        num_train_epochs=3,                      # Number of epochs to train the model
-        weight_decay=0.01,                       # Weight decay for regularization
-        fp16=True,                               # Enable mixed precision (FP16)
-        gradient_accumulation_steps=2,           # Adjusted gradient accumulation for larger batch sizes
-        max_grad_norm=1.0,                       # Gradient clipping to prevent exploding gradients
-        push_to_hub=False,                       # Disable pushing to the hub
-        dataloader_num_workers=4,                # Number of workers to load data
-        run_name="qwen_training_run",            # Optional name for the training run
-        load_best_model_at_end=True,             # Load the best model when training finishes
+        output_dir="./qwen_finetuned",
+        per_device_train_batch_size=1,  # Reduced batch size
+        per_device_eval_batch_size=1,   # Reduced evaluation batch size
+        evaluation_strategy="steps",
+        logging_steps=500,
+        save_steps=1000,
+        save_total_limit=2,
+        learning_rate=5e-5,
+        num_train_epochs=3,
+        weight_decay=0.01,
+        fp16=True,  # Enable mixed precision
+        gradient_accumulation_steps=8,  # Accumulate gradients to simulate a larger batch
+        max_grad_norm=1.0,
+        push_to_hub=False,
+        dataloader_num_workers=2,  # Reduce number of workers
+        run_name="qwen_training_run",
+        load_best_model_at_end=True,
     )
 
     # Initialize the data collator
