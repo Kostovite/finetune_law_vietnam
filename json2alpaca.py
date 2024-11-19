@@ -3,32 +3,27 @@ import json
 def convert_to_alpaca_json(parsed_data):
     alpaca_data = []
 
-    # Iterate through content to process Chương, Mục, and Điều
+    # Iterate through content to process Điều
     for chuong in parsed_data["content"]:
-        chuong_name = chuong["chuong"]
         for muc in chuong["muc"]:
             for dieu in muc["dieu"]:
-                # Build the instruction for each Điều
-                sub_clause_texts = []  # List to hold all sub-clauses under a Điều
-                
-                # Collect the sub-clauses (Điểm a), Điểm b), Điểm c), Điểm d)) under each numbered clause
+                # Collect the sub-clauses (điểm a, điểm b, etc.)
                 for clause in dieu["content"]:
-                    # Add the numbered clause to the instruction
-                    clause_text = f"{clause['number']}. {clause['text']}"
-                    
-                    # If there are lettered sub-clauses, append them as well
+                    sub_clause_texts = []
+
                     for sub_clause in clause["sub_clauses"]:
-                        sub_clause_texts.append(f"[Điểm {sub_clause['letter']}] [Khoản {clause['number']}] [{dieu['id']}] [{chuong_name}] {sub_clause['text']}")
+                        sub_clause_texts.append(
+                            f"[điểm {sub_clause['letter']}] [khoản {clause['number']}] [{dieu['id']}] {sub_clause['text']}"
+                        )
 
-                    # Append the numbered clause and its sub-clauses to the final output
-                    if sub_clause_texts:
-                        clause_text += " " + " ".join(sub_clause_texts)
+                    # Combine everything into one output string
+                    clause_output = f"{clause['text']} {' '.join(sub_clause_texts)}"
 
-                    # Add the instruction for this Điều
+                    # Add the instruction and output for this clause
                     alpaca_item = {
-                        "instruction": f"[Khoản {clause['number']}] [{dieu['id']}] [{chuong_name}] có các điều khoản nào?", 
+                        "instruction": f"[khoản {clause['number']}] [{dieu['id']}] có các điều khoản nào?",
                         "input": "",
-                        "output": clause_text
+                        "output": clause_output.strip()
                     }
                     alpaca_data.append(alpaca_item)
 
