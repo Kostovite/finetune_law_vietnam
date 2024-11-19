@@ -79,11 +79,10 @@ def main():
     )
     peft_model = get_peft_model(model, config)
 
-    # Set up training arguments
     training_args = TrainingArguments(
         output_dir="./qwen_finetuned",           # Output directory for saving the model
-        per_device_train_batch_size=2,           # Reduce batch size for training
-        per_device_eval_batch_size=2,            # Reduce batch size for evaluation
+        per_device_train_batch_size=8,           # Increased batch size per device (2 T4 GPUs)
+        per_device_eval_batch_size=8,            # Increased batch size for evaluation
         evaluation_strategy="steps",             # Evaluate during training at intervals
         logging_steps=500,                       # Log every 500 steps
         save_steps=1000,                         # Save the model checkpoint every 1000 steps
@@ -91,8 +90,8 @@ def main():
         learning_rate=5e-5,                      # Use a smaller learning rate for stability
         num_train_epochs=3,                      # Number of epochs to train the model
         weight_decay=0.01,                       # Weight decay for regularization
-        fp16=False,                              # Disable mixed precision (FP16)
-        gradient_accumulation_steps=4,           # Simulate a larger batch size by accumulating gradients
+        fp16=True,                               # Enable mixed precision (FP16)
+        gradient_accumulation_steps=2,           # Adjusted gradient accumulation for larger batch sizes
         max_grad_norm=1.0,                       # Gradient clipping to prevent exploding gradients
         push_to_hub=False,                       # Disable pushing to the hub
         dataloader_num_workers=4,                # Number of workers to load data
@@ -114,16 +113,12 @@ def main():
         data_collator=data_collator,  # Include data collator here
     )
 
-    # Ask if the user want to train the model
-    train_model = input("Do you want to train the model? (y/n): ")
-    if train_model.lower() == "y":
-        trainer.train()
-        # Save the fine-tuned model and tokenizer
-        print("Saving model and tokenizer...")
-        trainer.save_model("./qwen_finetuned")
-        tokenizer.save_pretrained("./qwen_finetuned")
-    else:
-        print("Model training skipped")
+    print("Training the model...")
+    trainer.train()
+    # Save the fine-tuned model and tokenizer
+    print("Saving model and tokenizer...")
+    trainer.save_model("./qwen_finetuned")
+    tokenizer.save_pretrained("./qwen_finetuned")
 
     # (Optional) Evaluate with a sample input
     print("Evaluating a sample input...")
