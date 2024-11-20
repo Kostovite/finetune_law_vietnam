@@ -1,21 +1,13 @@
 # Install required libraries
-# pip install faiss-cpu transformers datasets peft accelerate
+# pip install faiss-cpu transformers datasets torch accelerate
 
-import json
 import os
+import json
 import faiss
 import numpy as np
-from datasets import Dataset
-from transformers import (
-    AutoModelForCausalLM,
-    AutoTokenizer,
-    Trainer,
-    TrainingArguments,
-    DataCollatorForSeq2Seq
-)
-from peft import LoraConfig, get_peft_model
 import torch
-torch.cuda.empty_cache()
+from datasets import Dataset
+from transformers import AutoModelForCausalLM, AutoTokenizer
 
 # 1. Load the RAG corpus
 def load_rag_corpus(filepath):
@@ -23,22 +15,44 @@ def load_rag_corpus(filepath):
         data = json.load(f)
     return Dataset.from_list(data)
 
-# 2. Index the corpus with FAISS
+# 2. Build FAISS index
 def build_faiss_index(dataset, embedding_model, tokenizer):
-    print("Building FAISS index...")
-    # Convert texts to embeddings
     corpus_embeddings = []
-    for record in dataset:
+
+    for i, record in enumerate(dataset):
         text = record['text']
+        if not text.strip():  # Check for empty text
+            print(f"Skipping empty text at index {i}.")
+            continue
+
         inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True).to(embedding_model.device)
-        with torch.no_grad():
-            embeddings = embedding_model(**inputs, output_hidden_states=True).hidden_states[-1][:, 0, :].cpu().numpy()
-        corpus_embeddings.append(embeddings)
+        inputs['input_ids'] = inputs['input_ids'].long()  # Ensure input_ids are LongTensor
+
+        if inputs['input_ids'].size(1) == 0:  # Check if input_ids is empty
+            print(f"Tokenizer produced empty input_ids for text: {text}")
+            continue
+
+        try:
+            with torch.no_grad():
+                outputs = embedding_model(**inputs, output_hidden_states=True)
+                if outputs.hidden_states is None:
+                    print(f"Model returned no hidden_states for text: {text}")
+                    continue
+                embeddings = outputs.hidden_states[-1][:, 0, :].cpu().numpy()
+            corpus_embeddings.append(embeddings)
+        except IndexError as e:
+            print(f"Error processing text at index {i}: {text}\nError: {e}")
+            continue
+
+    if not corpus_embeddings:
+        raise ValueError("No valid embeddings were generated. Please check the input data.")
 
     # Build FAISS index
-    index = faiss.IndexFlatL2(embedding_model.config.hidden_size)  # Adjust dimensions to match embedding size
+    embedding_dim = embedding_model.config.hidden_size
+    index = faiss.IndexFlatL2(embedding_dim)  # Adjust dimensions to match embedding size
     index.add(np.vstack(corpus_embeddings))
     return index
+
 
 # 3. Retrieve relevant chunks
 def retrieve(query, index, dataset, embedding_model, tokenizer, top_k=5):
@@ -50,120 +64,78 @@ def retrieve(query, index, dataset, embedding_model, tokenizer, top_k=5):
     results = [dataset[int(i)] for i in indices[0]]
     return results
 
-# 4. Main function
+# 4. Generate responses using the model and retrieved context
+def generate_with_rag(query, index, dataset, model, tokenizer, top_k=5, max_output_length=150):
+    # Retrieve relevant context
+    retrieved_docs = retrieve(query, index, dataset, model, tokenizer, top_k)
+    context = "\n".join([doc['text'] for doc in retrieved_docs])
+
+    # Add a clear instruction to generate the response in multiple languages
+    prompt_with_context = f"Context:\n{context}\n\nQuery: {query}\n\nPlease provide the answer in multiple languages."
+
+    # Tokenize the prompt
+    inputs = tokenizer(prompt_with_context, return_tensors="pt", truncation=True, padding="max_length", max_length=512).to(model.device)
+
+    # Ensure pad_token_id is set if not specified
+    if tokenizer.pad_token_id is None:
+        tokenizer.pad_token_id = tokenizer.eos_token_id
+
+    # Generate the response
+    output = model.generate(
+        inputs["input_ids"],
+        max_length=max_output_length,
+        num_beams=5,  # Beam search to improve relevance
+        temperature=0.7,  # Control randomness
+        early_stopping=True
+    )
+
+    # Decode the response
+    response = tokenizer.decode(output[0], skip_special_tokens=True)
+    
+    return response
+
+# 5. Main function
 def main():
     # Paths
-    json_path = "rag_corpus.json"  # Replace with your RAG JSON file
-    alpaca_path = "alpaca_format.json"  # Replace with your Alpaca dataset file
+    json_path = "rag_ready_data.json"  # Path to your RAG JSON file
 
-    # Check if files exist
-    if not os.path.exists(json_path) or not os.path.exists(alpaca_path):
-        print(f"Error: Required files not found.")
+    # Check if the file exists
+    if not os.path.exists(json_path):
+        print(f"Error: RAG corpus file '{json_path}' not found.")
         return
 
     # Load RAG corpus
     print("Loading RAG corpus...")
     rag_dataset = load_rag_corpus(json_path)
 
-    # Load Alpaca dataset
-    print("Loading Alpaca dataset...")
-    with open(alpaca_path, "r") as f:
-        alpaca_data = json.load(f)
-
     # Load the Qwen model and tokenizer
     model_name = "Qwen/Qwen2.5-0.5B"
     print("Loading model and tokenizer...")
     model = AutoModelForCausalLM.from_pretrained(model_name)
-    model = torch.nn.DataParallel(model, device_ids=[0, 1])
+
+    # GPU setup
+    if torch.cuda.is_available():
+        if torch.cuda.device_count() > 1:
+            print(f"Multiple GPUs detected: {torch.cuda.device_count()}")
+            model = torch.nn.DataParallel(model, device_ids=[0, 1])
+        else:
+            print(f"Using single GPU: {torch.cuda.get_device_name(0)}")
+        model = model.to("cuda")
+    else:
+        print("No GPU detected. Using CPU.")
+        model = model.to("cpu")
+
     tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
 
-    # Configure LoRA for PEFT
-    print("Configuring LoRA...")
-    config = LoraConfig(
-        r=8,
-        lora_alpha=32,
-        target_modules=["q_proj", "v_proj"],
-        lora_dropout=0.1,
-        bias="none",
-        task_type="CAUSAL_LM",
-    )
-    peft_model = get_peft_model(model, config)
-
     # Build FAISS index
+    print("Building FAISS index...")
     index = build_faiss_index(rag_dataset, model, tokenizer)
 
-    # Training arguments
-    training_args = TrainingArguments(
-        output_dir="./qwen_finetuned_rag",
-        per_device_train_batch_size=1,
-        per_device_eval_batch_size=1,
-        evaluation_strategy="steps",
-        logging_steps=500,
-        save_steps=1000,
-        save_total_limit=2,
-        learning_rate=5e-5,
-        num_train_epochs=3,
-        weight_decay=0.01,
-        fp16=True,
-        gradient_accumulation_steps=8,
-        max_grad_norm=1.0,
-        push_to_hub=False,
-        dataloader_num_workers=2,
-        run_name="qwen_rag_training_run",
-        load_best_model_at_end=True,
-    )
-
-    # Tokenize and retrieve context for Alpaca data
-    print("Retrieving and tokenizing Alpaca data...")
-    tokenized_dataset = []
-    for entry in alpaca_data:
-        query = entry['instruction']
-        if entry['input']:
-            query += f"\nInput: {entry['input']}"
-
-        # Retrieve relevant documents
-        retrieved_docs = retrieve(query, index, rag_dataset, model, tokenizer)
-        context = "\n".join([doc['text'] for doc in retrieved_docs])
-
-        # Combine context with prompt
-        prompt_with_context = f"Context:\n{context}\n\nQuery:\n{query}"
-        tokenized_dataset.append({
-            "input_ids": tokenizer(
-                prompt_with_context,
-                return_tensors="pt",
-                truncation=True,
-                padding="max_length",
-                max_length=512
-            )["input_ids"],
-            "labels": tokenizer(
-                entry["output"],
-                return_tensors="pt",
-                truncation=True,
-                padding="max_length",
-                max_length=512
-            )["input_ids"],
-        })
-
-    # Initialize the data collator
-    data_collator = DataCollatorForSeq2Seq(tokenizer, model=model, padding=True)
-
-    # Train the model
-    print("Starting training...")
-    trainer = Trainer(
-        model=peft_model,
-        args=training_args,
-        train_dataset=tokenized_dataset,
-        tokenizer=tokenizer,
-        data_collator=data_collator,
-    )
-
-    print("Training the model...")
-    trainer.train()
-
-    # Save the model and tokenizer
-    print("Saving model and tokenizer...")
-    trainer.save_model("./qwen_finetuned_rag")
-    tokenizer.save_pretrained("./qwen_finetuned_rag")
+    # Test query
+    print("Testing RAG retrieval and generation...")
+    test_query = "What is included in [Điều 42]?"
+    response = generate_with_rag(test_query, index, rag_dataset, model, tokenizer)
+    print("Generated Response:\n", response)
 
 # Run the main function
 if __name__ == "__main__":
