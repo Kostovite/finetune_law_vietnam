@@ -7,7 +7,7 @@ def detect_encoding(file_path):
     with open(file_path, 'rb') as file:
         result = chardet.detect(file.read())
         return result['encoding']
-        
+
 def parse_law_file(file_path):
     # Automatically detect the file encoding
     encoding = detect_encoding(file_path)
@@ -26,6 +26,7 @@ def parse_law_file(file_path):
     current_clause = None
     body_started = False
     last_body_line_index = None
+    footer_started = False
 
     for i, line in enumerate(lines):
         line = line.strip()
@@ -40,22 +41,19 @@ def parse_law_file(file_path):
             continue
 
         # Detect the start of the body (Chương or Điều)
-        if re.match(r"^(Chương\s+[IVXLCDM]+|Điều\s+\d+)", line):
+        if not body_started and re.match(r"^(Chương\s+[IVXLCDM]+|Điều\s+\d+)", line):
             body_started = True
-            # Stop adding to the header
-            break
 
-    # Process the remaining lines for body and footer
-    for i, line in enumerate(lines):
-        line = line.strip()
+        # Detect footer start
+        if body_started and re.match(r"^(Luật này đã được Quốc hội|CHỦ TỊCH QUỐC HỘI)", line):
+            footer_started = True
 
-        # Skip empty lines
-        if not line:
+        if footer_started:
+            data["footer"].append(line)
             continue
 
         # Detect Điều
         if re.match(r"^Điều\s+\d+", line):
-            body_started = True
             if current_dieu:
                 data["content"].append(current_dieu)
             parts = line.split(". ", 1)
@@ -65,7 +63,7 @@ def parse_law_file(file_path):
                 "content": []
             }
             current_clause = None
-            last_body_line_index = i  # Update last body line index
+            last_body_line_index = i
 
         # Detect numbered clauses (e.g., "1.", "2.")
         elif re.match(r"^\d+\.", line):
@@ -97,12 +95,6 @@ def parse_law_file(file_path):
     if current_dieu:
         data["content"].append(current_dieu)
 
-    # Capture footer content (after the last body line)
-    if last_body_line_index is not None:
-        data["footer"] = [
-            line.strip() for line in lines[last_body_line_index + 1:] if line.strip()
-        ]
-
     # Clean up the header to ensure it ends before Chương or Điều
     while data["header"] and re.match(r"^(Chương\s+[IVXLCDM]+|Điều\s+\d+)", data["header"][-1]):
         data["header"].pop()
@@ -115,7 +107,6 @@ def convert_to_json(file_path, output_path):
     with open(output_path, "w", encoding="utf-8") as json_file:
         json.dump(law_data, json_file, ensure_ascii=False, indent=4)
     print(f"Data successfully converted and saved to {output_path}")
-
 
 # Example usage
 input_file = "luat_viet_nam.txt"  # Replace with the correct file path
