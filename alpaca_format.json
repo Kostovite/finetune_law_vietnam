@@ -275,6 +275,86 @@
         "output": "Hội về dược có các trách nhiệm và quyền hạn sau đây: đ) Tham gia Hội đồng tư vấn cấp Chứng chỉ hành nghề dược. [điểm a] [khoản 4] [Điều 5] Ban hành quy tắc đạo đức nghề nghiệp trong hành nghề dược trên cơ sở nguyên tắc đạo đức hành nghề dược do Bộ trưởng Bộ Y tế ban hành; [điểm b] [khoản 4] [Điều 5] Tham gia xây dựng, tổ chức triển khai, giám sát thi hành văn bản quy phạm pháp luật về dược; [điểm c] [khoản 4] [Điều 5] Tham gia giám sát việc hành nghề dược, thực hiện đạo đức hành nghề dược và phản biện xã hội hoạt động liên quan đến dược; [điểm d] [khoản 4] [Điều 5] Tham gia đào tạo, cập nhật kiến thức chuyên môn về dược;"
     },
     {
+        "instruction": "[khoản 1] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Kinh doanh dược mà không có Giấy chứng nhận đủ điều kiện kinh doanh dược hoặc trong thời gian bị đình chỉ hoạt động hoặc trong thời gian bị tước quyền sử dụng Giấy chứng nhận đủ điều kiện kinh doanh dược."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Kinh doanh dược tại nơi không phải là địa điểm kinh doanh dược đã đăng ký."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Kinh doanh thuốc, nguyên liệu làm thuốc quy định tại khoản 26 Điều 2 của Luật này và thuốc, nguyên liệu làm thuốc khác không đúng mục đích hoặc cung cấp không đúng đối tượng mà cơ quan quản lý nhà nước có thẩm quyền cho phép."
+    },
+    {
+        "instruction": "[khoản 4] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Kinh doanh dược không thuộc phạm vi chuyên môn được ghi trong Giấy chứng nhận đủ điều kiện kinh doanh dược."
+    },
+    {
+        "instruction": "[khoản 5] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Kinh doanh dược thuộc một trong các trường hợp sau đây: đ) Thuốc, nguyên liệu làm thuốc làm mẫu để đăng ký, kiểm nghiệm, nghiên cứu khoa học, tham gia trưng bày tại triển lãm, hội chợ; [điểm a] [khoản 5] [Điều 6] Thuốc giả, nguyên liệu làm thuốc giả; [điểm b] [khoản 5] [Điều 6] Thuốc, nguyên liệu làm thuốc không đạt tiêu chuẩn chất lượng; thuốc, nguyên liệu làm thuốc đã có thông báo thu hồi của cơ quan nhà nước có thẩm quyền; thuốc, nguyên liệu làm thuốc không rõ nguồn gốc, xuất xứ; thuốc, nguyên liệu làm thuốc đã hết hạn dùng; [điểm c] [khoản 5] [Điều 6] Thuốc, nguyên liệu làm thuốc thuộc danh mục thuốc, nguyên liệu làm thuốc cấm nhập khẩu, cấm sản xuất; [điểm d] [khoản 5] [Điều 6] Thuốc thử lâm sàng; [điểm e] [khoản 5] [Điều 6] Thuốc, nguyên liệu làm thuốc chưa được phép lưu hành; [điểm g] [khoản 5] [Điều 6] Thuốc thuộc chương trình mục tiêu quốc gia, thuốc viện trợ và thuốc khác có quy định không được bán; [điểm h] [khoản 5] [Điều 6] Bán lẻ thuốc kê đơn mà không có đơn thuốc; bán lẻ vắc xin; [điểm i] [khoản 5] [Điều 6] Bán thuốc cao hơn giá kê khai, giá niêm yết."
+    },
+    {
+        "instruction": "[khoản 6] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Làm giả, sửa chữa hồ sơ, giấy tờ, tài liệu, giấy chứng nhận của cơ quan, tổ chức có thẩm quyền và tổ chức, cá nhân trong các hoạt động về dược."
+    },
+    {
+        "instruction": "[khoản 7] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Thay đổi, sửa chữa hạn dùng của thuốc, trừ trường hợp thay đổi hạn dùng của thuốc quy định tại khoản 3 Điều 61 của Luật này."
+    },
+    {
+        "instruction": "[khoản 8] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Hành nghề mà không có Chứng chỉ hành nghề dược hoặc trong thời gian bị tước quyền sử dụng Chứng chỉ hành nghề dược tại vị trí công việc quy định tại Điều 11 của Luật này."
+    },
+    {
+        "instruction": "[khoản 9] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Thuê, mượn, cho thuê, cho mượn hoặc cho người khác sử dụng Chứng chỉ hành nghề dược, Giấy chứng nhận đủ điều kiện kinh doanh dược để hành nghề hoặc kinh doanh dược."
+    },
+    {
+        "instruction": "[khoản 10] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Quảng cáo trong trường hợp sau đây: [điểm a] [khoản 10] [Điều 6] Quảng cáo thuốc khi chưa được cơ quan quản lý nhà nước có thẩm quyền xác nhận nội dung hoặc không đúng với nội dung đã được xác nhận; [điểm b] [khoản 10] [Điều 6] Sử dụng chứng nhận chưa được Bộ Y tế công nhận, sử dụng lợi ích vật chất, lợi dụng danh nghĩa của tổ chức, cá nhân, các loại biểu tượng, hình ảnh, địa vị, uy tín, thư tín, thư cảm ơn để quảng cáo thuốc; [điểm c] [khoản 10] [Điều 6] Sử dụng kết quả nghiên cứu lâm sàng, kết quả nghiên cứu tiền lâm sàng, kết quả kiểm nghiệm, kết quả thử tương đương sinh học chưa được Bộ Y tế công nhận để quảng cáo thuốc."
+    },
+    {
+        "instruction": "[khoản 11] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Khuyến mại thuốc trái quy định của pháp luật."
+    },
+    {
+        "instruction": "[khoản 12] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Lợi dụng việc kê đơn thuốc để trục lợi."
+    },
+    {
+        "instruction": "[khoản 13] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Sản xuất, pha chế, bán thuốc cổ truyền có kết hợp với dược chất khi chưa được phép của cơ quan quản lý nhà nước có thẩm quyền."
+    },
+    {
+        "instruction": "[khoản 14] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Cấp phát, bán thuốc đã hết hạn dùng, thuốc bảo quản không đúng quy định ghi trên nhãn thuốc, thuốc đã có thông báo thu hồi của cơ quan nhà nước có thẩm quyền, thuốc không rõ nguồn gốc, xuất xứ cho người sử dụng."
+    },
+    {
+        "instruction": "[khoản 15] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Thông tin, quảng cáo, tiếp thị, kê đơn, tư vấn, ghi nhãn, hướng dẫn sử dụng có nội dung dùng để phòng bệnh, chữa bệnh, chẩn đoán bệnh, điều trị bệnh, giảm nhẹ bệnh, điều chỉnh chức năng sinh lý cơ thể người đối với sản phẩm không phải là thuốc, trừ trang thiết bị y tế."
+    },
+    {
+        "instruction": "[khoản 16] [Điều 6] có các điều khoản nào?",
+        "input": "",
+        "output": "Xuất khẩu dược liệu thuộc danh mục loài, chủng loại dược liệu quý, hiếm, đặc hữu phải kiểm soát khi chưa được phép của cơ quan quản lý nhà nước có thẩm quyền. Chương II CHÍNH SÁCH CỦA NHÀ NƯỚC VỀ DƯỢC VÀ PHÁT TRIỂN CÔNG NGHIỆP DƯỢC"
+    },
+    {
         "instruction": "[khoản 1] [Điều 7] có các điều khoản nào?",
         "input": "",
         "output": "Bảo đảm cung ứng đủ, kịp thời thuốc có chất lượng, giá hợp lý cho nhu cầu phòng bệnh, chữa bệnh của Nhân dân, phù hợp với cơ cấu bệnh tật và yêu cầu quốc phòng, an ninh, phòng, chống dịch bệnh, khắc phục hậu quả thiên tai, thảm họa và thuốc hiếm."
@@ -368,6 +448,46 @@
         "instruction": "[khoản 4] [Điều 9] có các điều khoản nào?",
         "input": "",
         "output": "Việc lập, phê duyệt, quản lý quy hoạch phát triển công nghiệp dược được thực hiện theo quy định của pháp luật."
+    },
+    {
+        "instruction": "[khoản 1] [Điều 10] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ Y tế có các trách nhiệm sau đây: [điểm a] [khoản 1] [Điều 10] Chủ trì, phối hợp với bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan ban hành theo thẩm quyền hoặc trình cấp có thẩm quyền ban hành và tổ chức triển khai thực hiện văn bản quy phạm pháp luật, chiến lược, chính sách, quy hoạch, kế hoạch phát triển công nghiệp dược; [điểm b] [khoản 1] [Điều 10] Chủ trì, phối hợp với Bộ Giáo dục và Đào tạo xây dựng kế hoạch đào tạo, sử dụng nhân lực đối với hoạt động nghiên cứu, sản xuất thuốc generic, vắc xin, sinh phẩm, thuốc dược liệu, thuốc cổ truyền, thuốc hiếm; [điểm c] [khoản 1] [Điều 10] Chủ trì, phối hợp với Bộ Tài nguyên và Môi trường, Bộ Nông nghiệp và Phát triển nông thôn và các cơ quan có liên quan trong việc quy hoạch phát triển vùng nuôi trồng dược liệu, tổ chức triển khai các biện pháp bảo tồn, khai thác, sử dụng hợp lý và bền vững nguồn dược liệu; [điểm d] [khoản 1] [Điều 10] Chủ trì, phối hợp với Bộ Nông nghiệp và Phát triển nông thôn và bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan ban hành danh mục loài, chủng loại dược liệu quý, hiếm, đặc hữu phải kiểm soát."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 10] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ Công thương có trách nhiệm chủ trì, phối hợp với bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan ban hành theo thẩm quyền hoặc trình cấp có thẩm quyền ban hành và tổ chức triển khai thực hiện văn bản quy phạm pháp luật, quy hoạch, kế hoạch về phát triển công nghiệp hóa dược."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 10] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ Nông nghiệp và Phát triển nông thôn có các trách nhiệm sau đây: [điểm a] [khoản 3] [Điều 10] Chủ trì, phối hợp với Bộ Y tế, Bộ Khoa học và Công nghệ trong việc nghiên cứu khoa học trong chọn, tạo giống, nuôi trồng và thu hái dược liệu; nghiên cứu và phổ biến kỹ thuật nuôi trồng, phòng, chống bệnh hại trên cây thuốc, động vật làm thuốc; [điểm b] [khoản 3] [Điều 10] Chủ trì, phối hợp với bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan trình Chính phủ ban hành chính sách đặc thù về giống, vốn và công nghệ trong phát triển nuôi trồng, khai thác dược liệu."
+    },
+    {
+        "instruction": "[khoản 4] [Điều 10] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ Tài nguyên và Môi trường có trách nhiệm chủ trì, phối hợp với bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan trình Chính phủ ban hành chính sách về tiếp cận nguồn gen dược liệu và chia sẻ lợi ích từ việc sử dụng nguồn gen dược liệu."
+    },
+    {
+        "instruction": "[khoản 5] [Điều 10] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ Kế hoạch và Đầu tư có các trách nhiệm sau đây: [điểm a] [khoản 5] [Điều 10] Bố trí và cân đối các nguồn lực đầu tư cho phát triển công nghiệp dược, vận động các nguồn vốn nước ngoài ưu tiên dành cho phát triển công nghiệp dược; [điểm b] [khoản 5] [Điều 10] Chủ trì, phối hợp với Bộ Tài chính và bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan xây dựng và trình cấp có thẩm quyền ban hành các quy định cụ thể chính sách ưu đãi đầu tư, hỗ trợ đầu tư trong lĩnh vực dược quy định tại Điều 8 của Luật này."
+    },
+    {
+        "instruction": "[khoản 6] [Điều 10] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ Tài chính có các trách nhiệm sau đây: [điểm a] [khoản 6] [Điều 10] Chủ trì, phối hợp với bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan xây dựng cơ chế tài chính, huy động và bảo đảm nguồn lực để thực hiện quy hoạch, kế hoạch phát triển công nghiệp dược trình cấp có thẩm quyền phê duyệt; [điểm b] [khoản 6] [Điều 10] Chủ trì, phối hợp với Bộ Công Thương, Bộ Quốc phòng, Bộ Y tế, Ủy ban nhân dân cấp tỉnh nơi có cửa khẩu và biên giới trong việc quản lý, kiểm soát nhập khẩu thuốc, nguyên liệu làm thuốc chưa được phép lưu hành, nhập khẩu dược liệu chưa được phép của cơ quan nhà nước có thẩm quyền, xuất khẩu dược liệu thuộc danh mục loài, chủng loại dược liệu quý, hiếm, đặc hữu phải kiểm soát."
+    },
+    {
+        "instruction": "[khoản 7] [Điều 10] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ Khoa học và Công nghệ có các trách nhiệm sau đây: [điểm a] [khoản 7] [Điều 10] Trình cấp có thẩm quyền hoặc bố trí theo thẩm quyền kinh phí từ ngân sách nhà nước hằng năm cho hoạt động khoa học và công nghệ để triển khai nghiên cứu và đưa vào ứng dụng kết quả nghiên cứu trong sản xuất thuốc, đặc biệt đối với thuốc thuộc Danh mục sản phẩm quốc gia; [điểm b] [khoản 7] [Điều 10] Chủ trì, phối hợp với Bộ Nông nghiệp và Phát triển nông thôn, Bộ Y tế tổ chức nghiên cứu, bảo tồn nguồn gen và phát triển nguồn dược liệu quý, hiếm, đặc hữu; [điểm c] [khoản 7] [Điều 10] Chủ trì, phối hợp với Bộ Y tế xây dựng cơ chế, chính sách bảo hộ sở hữu trí tuệ đối với thuốc cổ truyền."
+    },
+    {
+        "instruction": "[khoản 8] [Điều 10] có các điều khoản nào?",
+        "input": "",
+        "output": "Ủy ban nhân dân cấp tỉnh có các trách nhiệm sau đây: Chương III HÀNH NGHỀ DƯỢC Mục 1. CHỨNG CHỈ HÀNH NGHỀ DƯỢC [điểm a] [khoản 8] [Điều 10] Lập, phê duyệt quy hoạch, kế hoạch phát triển công nghiệp dược, phát triển dược liệu (bao gồm cả việc khai thác và bảo tồn nguồn dược liệu tự nhiên) của địa phương phù hợp với quy hoạch, kế hoạch phát triển công nghiệp dược cấp quốc gia, mục tiêu phát triển kinh tế - xã hội và lợi thế của địa phương; [điểm b] [khoản 8] [Điều 10] Bố trí quỹ đất cho xây dựng nhà máy, khu công nghiệp dược; ưu tiên bố trí giao đất cho dự án phát triển nguồn dược liệu làm thuốc, vùng nuôi trồng dược liệu theo quy định của pháp luật về đất đai."
     },
     {
         "instruction": "[khoản 1] [Điều 11] có các điều khoản nào?",
@@ -680,6 +800,26 @@
         "output": "Đã bị xử phạt vi phạm hành chính bằng hình thức tước Chứng chỉ hành nghề dược từ 02 lần trở lên đối với một hành vi vi phạm."
     },
     {
+        "instruction": "[khoản 1] [Điều 29] có các điều khoản nào?",
+        "input": "",
+        "output": "Mỗi cá nhân chỉ được cấp một Chứng chỉ hành nghề dược. Trên Chứng chỉ hành nghề dược ghi đầy đủ phạm vi hành nghề mà người có Chứng chỉ hành nghề dược đáp ứng điều kiện và được phép hành nghề. Chứng chỉ hành nghề dược không quy định thời hạn hiệu lực và có giá trị trong phạm vi cả nước. Chứng chỉ hành nghề dược hết hiệu lực khi người hành nghề chết hoặc mất tích theo quyết định, bản án của Tòa án hoặc không có giấy xác nhận hoàn thành đào tạo, cập nhật kiến thức chuyên môn về dược trong thời hạn 03 năm kể từ ngày được cấp Chứng chỉ hành nghề dược hoặc kể từ ngày có giấy xác nhận hoàn thành chương trình đào tạo, cập nhật kiến thức chuyên môn về dược gần nhất."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 29] có các điều khoản nào?",
+        "input": "",
+        "output": "Việc thừa nhận Chứng chỉ hành nghề dược giữa các nước được thực hiện theo quy định của thỏa thuận quốc tế mà Việt Nam là một bên, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 29] có các điều khoản nào?",
+        "input": "",
+        "output": "Nội dung cơ bản của Chứng chỉ hành nghề dược bao gồm: đ) Hình thức cấp Chứng chỉ hành nghề dược theo hình thức xét duyệt hoặc hình thức thi; thời gian thi trong trường hợp cấp theo hình thức thi; [điểm a] [khoản 3] [Điều 29] Thông tin cá nhân của người hành nghề dược; [điểm b] [khoản 3] [Điều 29] Văn bằng chuyên môn; [điểm c] [khoản 3] [Điều 29] Hình thức hành nghề; [điểm d] [khoản 3] [Điều 29] Phạm vi hoạt động chuyên môn; [điểm e] [khoản 3] [Điều 29] Ngày cấp, cơ quan cấp, ngày có hiệu lực."
+    },
+    {
+        "instruction": "[khoản 4] [Điều 29] có các điều khoản nào?",
+        "input": "",
+        "output": "Chính phủ quy định chi tiết hồ sơ; thủ tục cấp, cấp lại, điều chỉnh nội dung, thu hồi và mẫu Chứng chỉ hành nghề dược; cơ sở đào tạo, chương trình, nội dung, thời gian đào tạo, cập nhật kiến thức chuyên môn về dược; chuẩn hóa văn bằng chuyên môn và các chức danh nghề nghiệp; mẫu giấy xác nhận hoàn thành đào tạo, cập nhật kiến thức chuyên môn về dược; mẫu giấy xác nhận về thời gian thực hành và cơ sở thực hành chuyên môn phù hợp; thời gian thực hành đối với người có trình độ chuyên khoa sau đại học; việc cấp Chứng chỉ hành nghề dược theo hình thức thi. Mục 2. QUYỀN VÀ NGHĨA VỤ CỦA NGƯỜI HÀNH NGHỀ DƯỢC"
+    },
+    {
         "instruction": "[khoản 1] [Điều 30] có các điều khoản nào?",
         "input": "",
         "output": "Được đào tạo, cập nhật kiến thức, trao đổi thông tin chuyên môn, pháp luật về dược."
@@ -703,6 +843,41 @@
         "instruction": "[khoản 5] [Điều 30] có các điều khoản nào?",
         "input": "",
         "output": "Từ chối thực hiện hoạt động chuyên môn trái với quy định của pháp luật hoặc đạo đức nghề nghiệp."
+    },
+    {
+        "instruction": "[khoản 1] [Điều 31] có các điều khoản nào?",
+        "input": "",
+        "output": "Tuân thủ đạo đức nghề nghiệp trong hành nghề dược."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 31] có các điều khoản nào?",
+        "input": "",
+        "output": "Người chịu trách nhiệm chuyên môn của cơ sở bán lẻ thuốc phải có mặt trong toàn bộ thời gian hoạt động của cơ sở dược, trừ trường hợp ủy quyền khi vắng mặt theo quy định tại khoản 3 Điều 30 của Luật này."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 31] có các điều khoản nào?",
+        "input": "",
+        "output": "Chỉ chịu trách nhiệm chuyên môn đối với một cơ sở kinh doanh dược và tại một địa điểm kinh doanh dược."
+    },
+    {
+        "instruction": "[khoản 4] [Điều 31] có các điều khoản nào?",
+        "input": "",
+        "output": "Hành nghề dược theo đúng phạm vi hoạt động chuyên môn ghi trong Chứng chỉ hành nghề dược và quy định chuyên môn kỹ thuật."
+    },
+    {
+        "instruction": "[khoản 5] [Điều 31] có các điều khoản nào?",
+        "input": "",
+        "output": "Chấp hành quyết định của cơ quan nhà nước có thẩm quyền trong trường hợp có dịch bệnh nguy hiểm, thiên tai, thảm họa."
+    },
+    {
+        "instruction": "[khoản 6] [Điều 31] có các điều khoản nào?",
+        "input": "",
+        "output": "Hoàn thành chương trình đào tạo, cập nhật kiến thức chuyên môn về dược trong thời hạn 03 năm kể từ ngày được cấp Chứng chỉ hành nghề dược hoặc kể từ ngày có giấy xác nhận hoàn thành chương trình đào tạo, cập nhật kiến thức chuyên môn về dược gần nhất."
+    },
+    {
+        "instruction": "[khoản 7] [Điều 31] có các điều khoản nào?",
+        "input": "",
+        "output": "Thông báo với cơ quan, người có thẩm quyền về hành vi vi phạm pháp luật, đạo đức hành nghề dược của người hành nghề dược khác và phải chịu trách nhiệm về những thông tin đã thông báo. Chương IV KINH DOANH DƯỢC Mục 1. CƠ SỞ KINH DOANH DƯỢC VÀ ĐIỀU KIỆN KINH DOANH DƯỢC"
     },
     {
         "instruction": "[khoản 1] [Điều 32] có các điều khoản nào?",
@@ -743,6 +918,21 @@
         "instruction": "[khoản 3] [Điều 34] có các điều khoản nào?",
         "input": "",
         "output": "Chính phủ quy định trình tự, thủ tục cho phép kinh doanh thuốc phải kiểm soát đặc biệt và thuốc thuộc danh mục thuốc hạn chế bán lẻ; biện pháp về an ninh, bảo đảm không thất thoát thuốc, nguyên liệu làm thuốc phải kiểm soát đặc biệt."
+    },
+    {
+        "instruction": "[khoản 1] [Điều 35] có các điều khoản nào?",
+        "input": "",
+        "output": "Cơ sở có hoạt động dược không thuộc diện cấp Giấy chứng nhận đủ điều kiện kinh doanh dược bao gồm: [điểm a] [khoản 1] [Điều 35] Cơ sở có hoạt động dược nhưng không vì mục đích thương mại; [điểm b] [khoản 1] [Điều 35] Cơ sở kinh doanh có tổ chức kệ thuốc; [điểm c] [khoản 1] [Điều 35] Cơ sở nuôi trồng, thu hái dược liệu; [điểm d] [khoản 1] [Điều 35] Cơ sở y tế thuộc lực lượng vũ trang nhân dân có hoạt động cung ứng thuốc tại vùng đồng bào dân tộc thiểu số, miền núi, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 35] có các điều khoản nào?",
+        "input": "",
+        "output": "Điều kiện hoạt động của các cơ sở tại khoản 1 Điều này được quy định như sau: [điểm a] [khoản 2] [Điều 35] Cơ sở quy định tại điểm a khoản 1 Điều này phải tuân thủ điều kiện kinh doanh quy định tại khoản 1 Ðiều 33 của Luật này; [điểm b] [khoản 2] [Điều 35] Cơ sở quy định tại điểm b khoản 1 Điều này phải là cơ sở có đăng ký kinh doanh, có điều kiện bảo quản thuốc phù hợp với điều kiện bảo quản ghi trên nhãn thuốc, có người chịu trách nhiệm chuyên môn có văn bằng chuyên môn sơ cấp dược trở lên và chỉ được bán thuốc thuộc Danh mục thuốc được bán tại kệ thuốc do Bộ trưởng Bộ Y tế quy định; [điểm c] [khoản 2] [Điều 35] Cơ sở nuôi trồng, thu hái dược liệu phải tuân thủ Thực hành tốt nuôi trồng, thu hái dược liệu; [điểm d] [khoản 2] [Điều 35] Cơ sở quy định tại điểm d khoản 1 Điều này phải có điều kiện bảo quản thuốc phù hợp với điều kiện bảo quản ghi trên nhãn thuốc và có người chịu trách nhiệm chuyên môn có văn bằng chuyên môn sơ cấp dược trở lên."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 35] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ trưởng Bộ Y tế quy định chi tiết Điều này. Mục 1. CƠ SỞ KINH DOANH DƯỢC VÀ ĐIỀU KIỆN KINH DOANH DƯỢCMục 2. GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN KINH DOANH DƯỢC"
     },
     {
         "instruction": "[khoản 1] [Điều 36] có các điều khoản nào?",
@@ -823,6 +1013,16 @@
         "instruction": "[khoản 4] [Điều 40] có các điều khoản nào?",
         "input": "",
         "output": "Không hoạt động trong thời gian 12 tháng liên tục mà không thông báo với cơ quan quản lý nhà nước về dược."
+    },
+    {
+        "instruction": "[khoản 1] [Điều 41] có các điều khoản nào?",
+        "input": "",
+        "output": "Giấy chứng nhận đủ điều kiện kinh doanh dược không quy định thời hạn hiệu lực."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 41] có các điều khoản nào?",
+        "input": "",
+        "output": "Chính phủ quy định chi tiết các nội dung sau đây: Mục 3. QUYỀN VÀ TRÁCH NHIỆM CỦA CƠ SỞ KINH DOANH DƯỢC [điểm a] [khoản 2] [Điều 41] Hồ sơ, thủ tục cấp, cấp lại, điều chỉnh, thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dược; [điểm b] [khoản 2] [Điều 41] Địa bàn và phạm vi kinh doanh đối với cơ sở bán lẻ là quầy thuốc, tủ thuốc trạm y tế xã; [điểm c] [khoản 2] [Điều 41] Lộ trình thực hiện Thực hành tốt đối với loại hình cơ sở kinh doanh dược."
     },
     {
         "instruction": "[khoản 1] [Điều 42] có các điều khoản nào?",
@@ -940,6 +1140,16 @@
         "output": "Cơ sở kinh doanh dịch vụ thử thuốc trên lâm sàng có các trách nhiệm sau đây: đ) Độc lập về kinh tế, tổ chức nhân sự đối với cơ quan, tổ chức, cá nhân có thuốc thử trên lâm sàng. [điểm a] [khoản 2] [Điều 52] Trách nhiệm quy định tại các điểm a, b, c, d, e, g, h, i, m và n khoản 2 Điều 42 của Luật này; [điểm b] [khoản 2] [Điều 52] Chịu trách nhiệm về kết quả nghiên cứu thử thuốc trên lâm sàng; [điểm c] [khoản 2] [Điều 52] Chịu trách nhiệm về sự an toàn của người tham gia thử thuốc trên lâm sàng và bồi thường thiệt hại cho người tham gia thử thuốc trên lâm sàng nếu rủi ro xảy ra do lỗi của cơ sở kinh doanh dịch vụ thử thuốc trên lâm sàng theo quy định của pháp luật; [điểm d] [khoản 2] [Điều 52] Bảo đảm trung thực, khách quan trong thử thuốc trên lâm sàng;"
     },
     {
+        "instruction": "[khoản 1] [Điều 53] có các điều khoản nào?",
+        "input": "",
+        "output": "Cơ sở kinh doanh dịch vụ thử tương đương sinh học của thuốc có các quyền sau đây: Trường hợp chỉ tiến hành giai đoạn phân tích dịch sinh học thì được ký hợp đồng hoặc liên kết với cơ sở thử thuốc trên lâm sàng đáp ứng Thực hành tốt thử thuốc trên lâm sàng để thực hiện giai đoạn nghiên cứu trên lâm sàng trong thử tương đương sinh học của thuốc; đ) Sử dụng kết quả nghiên cứu thử tương đương sinh học của thuốc theo thỏa thuận với cơ quan, tổ chức, cá nhân có thuốc thử tương đương sinh học. [điểm a] [khoản 1] [Điều 53] Quyền quy định tại điểm a và điểm b khoản 1 Điều 42 của Luật này; [điểm b] [khoản 1] [Điều 53] Tiến hành giai đoạn nghiên cứu trên lâm sàng và giai đoạn phân tích dịch sinh học trong thử tương đương sinh học của thuốc. [điểm c] [khoản 1] [Điều 53] Tiến hành hoạt động nghiên cứu thử tương đương sinh học của thuốc theo quy định; [điểm d] [khoản 1] [Điều 53] Nhập khẩu, mua hóa chất, chất chuẩn, mẫu thuốc phục vụ cho hoạt động thử tương đương sinh học của thuốc;"
+    },
+    {
+        "instruction": "[khoản 2] [Điều 53] có các điều khoản nào?",
+        "input": "",
+        "output": "Cơ sở kinh doanh dịch vụ thử tương đương sinh học của thuốc có các trách nhiệm sau đây: đ) Độc lập về kinh tế, tổ chức nhân sự đối với cơ quan, tổ chức, cá nhân có thuốc thử tương đương sinh học. Chương V ĐĂNG KÝ, LƯU HÀNH, THU HỒI THUỐC VÀ NGUYÊN LIỆU LÀM THUỐC Mục 1. ĐĂNG KÝ THUỐC, NGUYÊN LIỆU LÀM THUỐC [điểm a] [khoản 2] [Điều 53] Trách nhiệm quy định tại các điểm a, b, c, d, e, g, h, i, m và n khoản 2 Điều 42 của Luật này; [điểm b] [khoản 2] [Điều 53] Chịu trách nhiệm về kết quả nghiên cứu thử tương đương sinh học của thuốc đối với mẫu thuốc đã thử; [điểm c] [khoản 2] [Điều 53] Chịu trách nhiệm về sự an toàn của người tham gia thử tương đương sinh học và bồi thường thiệt hại cho người tham gia thử tương đương sinh học nếu rủi ro xảy ra do lỗi của cơ sở kinh doanh dịch vụ thử tương đương sinh học của thuốc theo quy định của pháp luật; [điểm d] [khoản 2] [Điều 53] Bảo đảm trung thực, khách quan trong thử tương đương sinh học của thuốc;"
+    },
+    {
         "instruction": "[khoản 1] [Điều 54] có các điều khoản nào?",
         "input": "",
         "output": "Thuốc phải đăng ký trước khi lưu hành tại Việt Nam, trừ trường hợp sau đây: [điểm a] [khoản 1] [Điều 54] Thuốc pha chế theo đơn tại nhà thuốc quy định tại điểm b khoản 1 Điều 47; thuốc sản xuất, pha chế tại cơ sở khám bệnh, chữa bệnh quy định tại Điều 85 của Luật này; [điểm b] [khoản 1] [Điều 54] Thuốc được nhập khẩu quy định tại khoản 2 Điều 60 của Luật này; [điểm c] [khoản 1] [Điều 54] Thuốc cổ truyền theo quy định tại khoản 1 và khoản 2 Điều 70 của Luật này."
@@ -1035,6 +1245,16 @@
         "output": "Cơ sở đăng ký thuốc, nguyên liệu làm thuốc có các trách nhiệm sau đây: [điểm a] [khoản 2] [Điều 57] Thông báo cho cơ quan quản lý trong trường hợp thuốc, nguyên liệu làm thuốc đã được cấp giấy đăng ký lưu hành tại Việt Nam bị thu hồi ở bất kỳ nước nào trên thế giới; ngừng sản xuất, ngừng cung cấp hoặc nguy cơ và tình trạng thiếu thuốc, nguyên liệu làm thuốc; thay đổi cơ sở đăng ký thuốc, nguyên liệu làm thuốc trong thời gian giấy đăng ký lưu hành còn thời hạn hiệu lực; [điểm b] [khoản 2] [Điều 57] Lưu trữ đủ hồ sơ đăng ký thuốc, nguyên liệu làm thuốc và cung cấp hồ sơ cho cơ quan quản lý có thẩm quyền khi có yêu cầu; [điểm c] [khoản 2] [Điều 57] Thực hiện các yêu cầu về kiểm tra, đánh giá cơ sở sản xuất khi có yêu cầu của cơ quan quản lý có thẩm quyền."
     },
     {
+        "instruction": "[khoản 1] [Điều 58] có các điều khoản nào?",
+        "input": "",
+        "output": "Giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc bị thu hồi trong trường hợp sau đây: đ) Thuốc, nguyên liệu làm thuốc được sản xuất không đúng địa chỉ theo hồ sơ đăng ký; [điểm a] [khoản 1] [Điều 58] Thuốc bị thu hồi do vi phạm ở mức độ 1; [điểm b] [khoản 1] [Điều 58] Trong thời hạn 60 tháng có 02 lô thuốc bị thu hồi bắt buộc do vi phạm ở mức độ 2 hoặc 03 lô thuốc trở lên vi phạm chất lượng; [điểm c] [khoản 1] [Điều 58] Thuốc nhập khẩu bị cơ quan có thẩm quyền của nước ngoài thu hồi Giấy chứng nhận sản phẩm dược phẩm mà giấy đó là căn cứ để Bộ Y tế cấp giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc tại Việt Nam; [điểm d] [khoản 1] [Điều 58] Giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc được cấp dựa trên hồ sơ giả mạo; [điểm e] [khoản 1] [Điều 58] Dược chất, dược liệu hoặc thuốc có chứa dược chất, dược liệu được Tổ chức Y tế Thế giới, cơ quan quản lý có thẩm quyền của Việt Nam hoặc nước xuất xứ của thuốc khuyến cáo không an toàn, hiệu quả cho người sử dụng; [điểm g] [khoản 1] [Điều 58] Cơ sở sản xuất hoặc cơ sở đăng ký thuốc, nguyên liệu làm thuốc đề nghị thu hồi giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc tại Việt Nam."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 58] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ trưởng Bộ Y tế quy định chi tiết hồ sơ, thủ tục thu hồi giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc. Mục 2. LƯU HÀNH THUỐC, NGUYÊN LIỆU LÀM THUỐC"
+    },
+    {
         "instruction": "[khoản 1] [Điều 59] có các điều khoản nào?",
         "input": "",
         "output": "Các loại thuốc, nguyên liệu làm thuốc lưu hành trên thị trường bao gồm: đ) Thuốc, nguyên liệu làm thuốc nhập khẩu được phép tiếp tục lưu hành đến hết hạn dùng trong trường hợp được giao hàng tại cảng đi của nước xuất khẩu trước ngày giấy đăng ký lưu hành hết thời hạn hiệu lực; [điểm a] [khoản 1] [Điều 59] Thuốc, nguyên liệu làm thuốc đã được cấp giấy đăng ký lưu hành; [điểm b] [khoản 1] [Điều 59] Thuốc, nguyên liệu làm thuốc nhập khẩu quy định tại các khoản 1, 2, 3 và 4 Điều 60 của Luật này; [điểm c] [khoản 1] [Điều 59] Thuốc quy định tại điểm b khoản 1 Điều 47, khoản 1 và khoản 2 Điều 70, khoản 3 Điều 85 của Luật này; [điểm d] [khoản 1] [Điều 59] Thuốc, nguyên liệu làm thuốc sản xuất trong nước được phép tiếp tục lưu hành đến hết hạn dùng trong trường hợp được sản xuất trước ngày giấy đăng ký lưu hành hết thời hạn hiệu lực; [điểm e] [khoản 1] [Điều 59] Thuốc, nguyên liệu làm thuốc sản xuất trong nước hoặc thuốc nhập khẩu trước ngày giấy đăng ký lưu hành bị thu hồi theo quy định tại Điều 58 của Luật này, trừ trường hợp thuốc, nguyên liệu làm thuốc bị thu hồi theo quy định tại Điều 62 của Luật này."
@@ -1048,6 +1268,56 @@
         "instruction": "[khoản 3] [Điều 59] có các điều khoản nào?",
         "input": "",
         "output": "Nguyên liệu làm thuốc lưu hành trên thị trường phải đáp ứng các yêu cầu sau đây: [điểm a] [khoản 3] [Điều 59] Đạt tiêu chuẩn chất lượng để sản xuất thuốc và bảo đảm về an toàn, hiệu quả; [điểm b] [khoản 3] [Điều 59] Đáp ứng yêu cầu về nhãn thuốc theo quy định tại Điều 61 của Luật này và các quy định khác của pháp luật có liên quan; [điểm c] [khoản 3] [Điều 59] Vật liệu bao bì và dạng đóng gói phải đáp ứng yêu cầu bảo đảm chất lượng nguyên liệu làm thuốc."
+    },
+    {
+        "instruction": "[khoản 1] [Điều 60] có các điều khoản nào?",
+        "input": "",
+        "output": "Thuốc, nguyên liệu làm thuốc là dược chất đã có giấy đăng ký lưu hành tại Việt Nam, nguyên liệu làm thuốc là dược chất để sản xuất thuốc theo hồ sơ đăng ký thuốc đã có giấy đăng ký lưu hành thuốc tại Việt Nam được nhập khẩu mà không phải thực hiện việc cấp phép nhập khẩu, trừ thuốc, nguyên liệu làm thuốc quy định tại khoản 4 Điều này."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 60] có các điều khoản nào?",
+        "input": "",
+        "output": "Thuốc chưa có giấy đăng ký lưu hành thuốc tại Việt Nam được cấp phép nhập khẩu và chỉ được nhập khẩu không quá số lượng ghi trong giấy phép nhập khẩu trong trường hợp sau đây: đ) Thuốc có cùng tên thương mại, thành phần hoạt chất, hàm lượng hoặc nồng độ, dạng bào chế với biệt dược gốc có giấy đăng ký lưu hành thuốc tại Việt Nam, được sản xuất bởi chính nhà sản xuất biệt dược gốc hoặc bởi nhà sản xuất được ủy quyền, có giá thấp hơn so với thuốc biệt dược gốc lưu hành tại Việt Nam theo yêu cầu của Bộ trưởng Bộ Y tế; [điểm a] [khoản 2] [Điều 60] Có chứa dược chất chưa có giấy đăng ký lưu hành thuốc hoặc đã có giấy đăng ký lưu hành thuốc nhưng thuốc chưa đáp ứng đủ cho nhu cầu điều trị; [điểm b] [khoản 2] [Điều 60] Có chứa dược liệu lần đầu sử dụng làm thuốc tại Việt Nam hoặc đã từng sử dụng làm thuốc tại Việt Nam nhưng thuốc chưa đáp ứng đủ cho nhu cầu điều trị; [điểm c] [khoản 2] [Điều 60] Đáp ứng nhu cầu cấp bách cho quốc phòng, an ninh, phòng, chống dịch bệnh, khắc phục hậu quả thiên tai, thảm họa, nhu cầu điều trị đặc biệt; [điểm d] [khoản 2] [Điều 60] Thuốc hiếm; [điểm e] [khoản 2] [Điều 60] Phục vụ cho chương trình y tế của Nhà nước; [điểm g] [khoản 2] [Điều 60] Viện trợ, viện trợ nhân đạo; [điểm h] [khoản 2] [Điều 60] Thử thuốc trên lâm sàng, thử tương đương sinh học, đánh giá sinh khả dụng, làm mẫu đăng ký, mẫu kiểm nghiệm, nghiên cứu khoa học, tham gia trưng bày tại triển lãm, hội chợ; [điểm i] [khoản 2] [Điều 60] Trường hợp khác không vì mục đích thương mại."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 60] có các điều khoản nào?",
+        "input": "",
+        "output": "Nguyên liệu làm thuốc là dược chất chưa có giấy đăng ký lưu hành tại Việt Nam được cấp phép nhập khẩu và chỉ được nhập khẩu không quá số lượng ghi trong giấy phép nhập khẩu trong trường hợp sau đây: [điểm a] [khoản 3] [Điều 60] Để làm mẫu đăng ký, mẫu kiểm nghiệm, nghiên cứu thuốc, tham gia trưng bày tại triển lãm, hội chợ; [điểm b] [khoản 3] [Điều 60] Để sản xuất thuốc xuất khẩu, thuốc phục vụ yêu cầu quốc phòng, an ninh, phòng, chống dịch bệnh, khắc phục hậu quả thiên tai, thảm họa."
+    },
+    {
+        "instruction": "[khoản 4] [Điều 60] có các điều khoản nào?",
+        "input": "",
+        "output": "Thuốc phải kiểm soát đặc biệt phải thực hiện việc cấp phép xuất khẩu, nhập khẩu và chỉ được xuất khẩu, nhập khẩu không quá số lượng được ghi trong giấy phép. Tùy từng thời kỳ phát triển kinh tế - xã hội, Chính phủ quy định các loại thuốc, nguyên liệu làm thuốc phải kiểm soát nhập khẩu."
+    },
+    {
+        "instruction": "[khoản 5] [Điều 60] có các điều khoản nào?",
+        "input": "",
+        "output": "Thuốc, nguyên liệu làm thuốc được phép xuất khẩu không cần giấy phép của Bộ Y tế, trừ dược liệu thuộc danh mục loài, chủng loại dược liệu quý, hiếm, đặc hữu phải kiểm soát, thuốc phải kiểm soát đặc biệt, nguyên liệu làm thuốc là dược chất hướng thần, dược chất gây nghiện, tiền chất dùng làm thuốc do Bộ trưởng Bộ Y tế ban hành hoặc chất phóng xạ theo danh mục do Chính phủ ban hành."
+    },
+    {
+        "instruction": "[khoản 6] [Điều 60] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ Y tế có trách nhiệm công bố thông tin liên quan đến thuốc được cấp phép nhập khẩu theo quy định tại các điểm a, b, c và d khoản 2 Điều này bao gồm nhà nhập khẩu, nhà sản xuất, số lượng, tên thuốc và số giấy phép nhập khẩu; số lượng giấy đăng ký lưu hành thuốc đối với mỗi hoạt chất."
+    },
+    {
+        "instruction": "[khoản 7] [Điều 60] có các điều khoản nào?",
+        "input": "",
+        "output": "Chính phủ quy định chi tiết các nội dung sau đây: Điều 61. Nhãn thuốc, nguyên liệu làm thuốc lưu hành trên thị trường [điểm a] [khoản 7] [Điều 60] Tiêu chí, hồ sơ, thủ tục, thời gian cấp phép xuất khẩu, nhập khẩu đối với thuốc quy định tại các khoản 2, 3, 4 và 5 Điều này và danh mục thuốc, nguyên liệu làm thuốc cấm nhập khẩu, cấm sản xuất; [điểm b] [khoản 7] [Điều 60] Nhập khẩu dược liệu, tá dược, vỏ nang, bao bì tiếp xúc trực tiếp với thuốc."
+    },
+    {
+        "instruction": "[khoản 1] [Điều 60] có các điều khoản nào?",
+        "input": "",
+        "output": "Nhãn thuốc, nguyên liệu làm thuốc lưu hành trên thị trường phải thể hiện các nội dung sau đây: đ) Tên, địa chỉ của cơ sở sản xuất; [điểm a] [khoản 1] [Điều 60] Tên thuốc, nguyên liệu làm thuốc; [điểm b] [khoản 1] [Điều 60] Dạng bào chế, trừ nguyên liệu làm thuốc; [điểm c] [khoản 1] [Điều 60] Thành phần, hàm lượng, nồng độ hoặc khối lượng dược chất, dược liệu của thuốc, nguyên liệu làm thuốc; nhãn của thuốc cổ truyền thuộc Danh mục bí mật của Nhà nước và của thuốc gia truyền được phép không thể hiện một số thành phần dược liệu, hàm lượng, khối lượng dược liệu và phải có dòng chữ “Công thức sản xuất thuốc là bí mật nhà nước” hoặc “Công thức sản xuất thuốc là bí mật gia truyền”; [điểm d] [khoản 1] [Điều 60] Quy cách đóng gói; [điểm e] [khoản 1] [Điều 60] Tên, địa chỉ của cơ sở nhập khẩu đối với thuốc, nguyên liệu làm thuốc nhập khẩu; [điểm g] [khoản 1] [Điều 60] Số giấy đăng ký lưu hành hoặc số giấy phép nhập khẩu, số lô sản xuất, ngày sản xuất; [điểm h] [khoản 1] [Điều 60] Hạn dùng của thuốc, nguyên liệu làm thuốc; [điểm i] [khoản 1] [Điều 60] Điều kiện bảo quản và thông tin cần thiết khác theo quy định."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 60] có các điều khoản nào?",
+        "input": "",
+        "output": "Tờ hướng dẫn sử dụng thuốc là một phần không thể tách rời của nhãn thuốc và có đầy đủ thông tin quy định tại các điểm a, b, c, d, đ, h và i khoản 1 Điều này và được thể hiện bằng tiếng Việt, trừ trường hợp thông tin không thể dịch ra tiếng Việt hoặc dịch ra tiếng Việt không có nghĩa."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 60] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ trưởng Bộ Y tế quy định chi tiết việc ghi nhãn thuốc, nguyên liệu làm thuốc, tờ hướng dẫn sử dụng thuốc; quyết định việc thay đổi hạn dùng của thuốc đã ghi trên nhãn thuốc trong trường hợp vì lý do quốc phòng, an ninh, phòng, chống dịch bệnh, khắc phục hậu quả thiên tai, thảm họa. Mục 3. THU HỒI THUỐC, NGUYÊN LIỆU LÀM THUỐC"
     },
     {
         "instruction": "[khoản 1] [Điều 62] có các điều khoản nào?",
@@ -1105,6 +1375,26 @@
         "output": "Đài truyền hình Việt Nam, Đài tiếng nói Việt Nam có trách nhiệm công bố thông tin về thu hồi thuốc vi phạm ở mức độ 1 và không thu phí."
     },
     {
+        "instruction": "[khoản 1] [Điều 65] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ Y tế ra quyết định thu hồi thuốc trong trường hợp thuốc bị thu hồi bắt buộc và trường hợp thu hồi tự nguyện khi thuốc vi phạm ở mức độ 1, mức độ 2. Thời gian ra quyết định thu hồi thuốc không quá 24 giờ kể từ khi có kết luận thuốc thuộc trường hợp phải thu hồi và mức độ vi phạm của thuốc hoặc có kết luận về việc thu hồi thuốc tự nguyện không phù hợp với mức độ vi phạm của thuốc."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 65] có các điều khoản nào?",
+        "input": "",
+        "output": "Người đứng đầu cơ sở đăng ký thuốc, cơ sở sản xuất thuốc trong nước, cơ sở pha chế, chế biến, bào chế thuốc, cơ sở nhập khẩu hoặc ủy thác nhập khẩu thuốc ra quyết định thu hồi thuốc trong trường hợp thu hồi tự nguyện thuốc vi phạm ở mức độ 3 sau khi có ý kiến của Bộ Y tế. Thời gian ra quyết định thu hồi thuốc không quá 24 giờ kể từ khi có ý kiến của Bộ Y tế."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 65] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ trưởng Bộ Y tế quy định chi tiết việc kết luận thuốc thuộc trường hợp phải thu hồi, mức độ vi phạm của thuốc, thủ tục thu hồi thuốc và việc xử lý thuốc bị thu hồi."
+    },
+    {
+        "instruction": "[khoản 4] [Điều 65] có các điều khoản nào?",
+        "input": "",
+        "output": "Chính phủ quy định thẩm quyền, hình thức, thủ tục thu hồi nguyên liệu làm thuốc; biện pháp xử lý nguyên liệu làm thuốc bị thu hồi. Chương VI DƯỢC LIỆU VÀ THUỐC CỔ TRUYỀN Mục 1. DƯỢC LIỆU"
+    },
+    {
         "instruction": "[khoản 1] [Điều 66] có các điều khoản nào?",
         "input": "",
         "output": "Việc nuôi trồng, thu hái dược liệu tuân thủ Thực hành tốt nuôi trồng, thu hái dược liệu."
@@ -1128,6 +1418,21 @@
         "instruction": "[khoản 2] [Điều 67] có các điều khoản nào?",
         "input": "",
         "output": "Dược liệu lưu hành trên thị trường phải được đóng gói bằng bao bì đạt tiêu chuẩn và được ghi nhãn theo quy định của Bộ trưởng Bộ Y tế."
+    },
+    {
+        "instruction": "[khoản 1] [Điều 68] có các điều khoản nào?",
+        "input": "",
+        "output": "Dược liệu phải đạt tiêu chuẩn chất lượng, có nguồn gốc, xuất xứ rõ ràng. Khi đưa vào sản xuất, chế biến, bào chế thuốc, mức tồn dư hóa chất bảo vệ thực vật, hóa chất bảo quản, giới hạn kim loại nặng, giới hạn vi sinh vật, giới hạn độc tính của dược liệu không được vượt mức quy định."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 68] có các điều khoản nào?",
+        "input": "",
+        "output": "Tổ chức, cá nhân sản xuất, nhập khẩu, chế biến, cung ứng dược liệu phải công bố tiêu chuẩn dược liệu theo quy định của pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật trong trường hợp dược liệu chưa có giấy đăng ký lưu hành và chịu trách nhiệm về nguồn gốc, chất lượng của dược liệu; báo cáo với cơ quan quản lý nhà nước về dược về số lượng của dược liệu được nhập khẩu để kinh doanh và sử dụng để pha chế, chế biến, sản xuất thuốc."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 68] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ trưởng Bộ Y tế quy định chi tiết Điều này. Mục 2. THUỐC CỔ TRUYỀN"
     },
     {
         "instruction": "[khoản 1] [Điều 69] có các điều khoản nào?",
@@ -1195,6 +1500,21 @@
         "output": "Bộ trưởng Bộ Y tế quy định tiêu chí cụ thể để xác định trường hợp miễn một số giai đoạn thử thuốc cổ truyền trên lâm sàng hoặc phải thử lâm sàng đầy đủ các giai đoạn tại Việt Nam."
     },
     {
+        "instruction": "[khoản 1] [Điều 73] có các điều khoản nào?",
+        "input": "",
+        "output": "Thuốc cổ truyền được cân (bốc) theo bài thuốc, đơn thuốc, được bào chế, chế biến trong cơ sở khám bệnh, chữa bệnh quy định tại khoản 1 và khoản 2 Điều 70 của Luật này phải bảo đảm chất lượng do Bộ Y tế quy định."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 73] có các điều khoản nào?",
+        "input": "",
+        "output": "Thuốc cổ truyền lưu hành toàn quốc phải bảo đảm chất lượng theo quy định tại Điều 102 và Điều 103 của Luật này."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 73] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ trưởng Bộ Y tế quy định việc công nhận bài thuốc cổ truyền, bài thuốc cổ truyền quý hiếm; các bài thuốc, đơn thuốc được sử dụng để cân (bốc); hướng dẫn về phương pháp chế biến, bào chế hoặc phối ngũ theo lý luận và phương pháp của y học cổ truyền; hướng dẫn đối với các thuốc cổ truyền có dạng bào chế hiện đại. Chương VII ĐƠN THUỐC VÀ SỬ DỤNG THUỐC"
+    },
+    {
         "instruction": "[khoản 1] [Điều 74] có các điều khoản nào?",
         "input": "",
         "output": "Đơn thuốc là căn cứ để bán thuốc, cấp phát thuốc, pha chế thuốc, cân (bốc) thuốc, sử dụng thuốc và hướng dẫn sử dụng thuốc."
@@ -1203,6 +1523,21 @@
         "instruction": "[khoản 2] [Điều 74] có các điều khoản nào?",
         "input": "",
         "output": "Bộ trưởng Bộ Y tế quy định chi tiết về đơn thuốc, việc kê đơn thuốc."
+    },
+    {
+        "instruction": "[khoản 1] [Điều 75] có các điều khoản nào?",
+        "input": "",
+        "output": "Sử dụng thuốc trong các cơ sở khám bệnh, chữa bệnh được thực hiện theo quy định của pháp luật về khám bệnh, chữa bệnh."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 75] có các điều khoản nào?",
+        "input": "",
+        "output": "Sử dụng thuốc ngoài cơ sở khám bệnh, chữa bệnh được quy định như sau: [điểm a] [khoản 2] [Điều 75] Người sử dụng thuốc có quyền lựa chọn cơ sở bán lẻ thuốc để mua thuốc; thực hiện theo đúng hướng dẫn đã ghi trong đơn thuốc, tờ hướng dẫn sử dụng thuốc và hướng dẫn sử dụng thuốc của người bán lẻ thuốc; [điểm b] [khoản 2] [Điều 75] Người kê đơn thuốc có trách nhiệm hướng dẫn sử dụng các thuốc được kê trong đơn và chịu trách nhiệm về đơn thuốc đã kê; [điểm c] [khoản 2] [Điều 75] Cơ sở bán lẻ thuốc phải hướng dẫn sử dụng thuốc cho người sử dụng."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 75] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ trưởng Bộ Y tế quy định việc thành lập Hội đồng liên ngành xác định nguyên nhân và đối tượng chịu trách nhiệm trong trường hợp thuốc gây ảnh hưởng nghiêm trọng đến sức khỏe, tính mạng người sử dụng. Chương VIII THÔNG TIN THUỐC, CẢNH GIÁC DƯỢC VÀ QUẢNG CÁO THUỐC"
     },
     {
         "instruction": "[khoản 1] [Điều 76] có các điều khoản nào?",
@@ -1285,6 +1620,21 @@
         "output": "Chính phủ quy định chi tiết thẩm quyền, hồ sơ, thủ tục tiếp nhận, thẩm định và xác nhận nội dung thông tin thuốc."
     },
     {
+        "instruction": "[khoản 1] [Điều 79] có các điều khoản nào?",
+        "input": "",
+        "output": "Việc quảng cáo thuốc thực hiện theo đúng nội dung quảng cáo đã được Bộ Y tế xác nhận và theo quy định của pháp luật về quảng cáo có liên quan. Trong thời hạn 15 ngày kể từ ngày nhận đủ hồ sơ đề nghị xác nhận nội dung quảng cáo thuốc, Bộ Y tế thẩm định và cấp giấy xác nhận nội dung quảng cáo thuốc. Trường hợp không cấp giấy xác nhận nội dung quảng cáo hoặc có yêu cầu sửa đổi, bổ sung nội dung quảng cáo, Bộ Y tế phải trả lời bằng văn bản và nêu rõ lý do."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 79] có các điều khoản nào?",
+        "input": "",
+        "output": "Điều kiện đối với thuốc được quảng cáo được quy định như sau: [điểm a] [khoản 2] [Điều 79] Thuộc Danh mục thuốc không kê đơn; [điểm b] [khoản 2] [Điều 79] Không thuộc trường hợp hạn chế sử dụng hoặc sử dụng dưới sự giám sát của thầy thuốc theo khuyến cáo của cơ quan nhà nước có thẩm quyền; [điểm c] [khoản 2] [Điều 79] Giấy đăng ký lưu hành thuốc còn thời hạn hiệu lực tại Việt Nam."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 79] có các điều khoản nào?",
+        "input": "",
+        "output": "Chính phủ quy định chi tiết nội dung quảng cáo thuốc, hồ sơ, thủ tục tiếp nhận, thẩm định và xác nhận nội dung quảng cáo thuốc. Chương IX DƯỢC LÂM SÀNG"
+    },
+    {
         "instruction": "[khoản 1] [Điều 80] có các điều khoản nào?",
         "input": "",
         "output": "Tư vấn trong quá trình xây dựng danh mục thuốc tại cơ sở khám bệnh, chữa bệnh để bảo đảm mục tiêu sử dụng thuốc hợp lý, an toàn, hiệu quả."
@@ -1345,6 +1695,21 @@
         "output": "Người làm công tác dược lâm sàng tại nhà thuốc có các quyền và nghĩa vụ sau đây: [điểm a] [khoản 2] [Điều 81] Tư vấn, cung cấp thông tin về thuốc cho người mua, người sử dụng thuốc; [điểm b] [khoản 2] [Điều 81] Tư vấn, trao đổi với người kê đơn trong trường hợp phát hiện việc kê đơn thuốc không hợp lý; [điểm c] [khoản 2] [Điều 81] Tham gia theo dõi, giám sát phản ứng có hại của thuốc; [điểm d] [khoản 2] [Điều 81] Thực hiện quyền và nghĩa vụ khác theo quy định của pháp luật."
     },
     {
+        "instruction": "[khoản 1] [Điều 83] có các điều khoản nào?",
+        "input": "",
+        "output": "Đầu tư cơ sở, vật chất, trang thiết bị và nhân lực phù hợp cho hoạt động dược lâm sàng tại cơ sở khám bệnh, chữa bệnh của Nhà nước; ưu tiên tuyển dụng dược sỹ chuyên khoa dược lâm sàng tại cơ sở khám bệnh, chữa bệnh của Nhà nước."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 83] có các điều khoản nào?",
+        "input": "",
+        "output": "Đầu tư cơ sở, vật chất, trang thiết bị và nhân lực cho cơ sở đào tạo dược sỹ chuyên khoa dược lâm sàng của Nhà nước; ngân sách nhà nước hỗ trợ học phí đối với người học chuyên khoa dược lâm sàng."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 83] có các điều khoản nào?",
+        "input": "",
+        "output": "Nhà nước khuyến khích tổ chức, cá nhân tham gia đào tạo dược sĩ làm công tác dược lâm sàng, đầu tư cơ sở vật chất, trang thiết bị cho hoạt động dược lâm sàng. Chương X QUẢN LÝ THUỐC TRONG CƠ SỞ KHÁM BỆNH, CHỮA BỆNH"
+    },
+    {
         "instruction": "[khoản 1] [Điều 84] có các điều khoản nào?",
         "input": "",
         "output": "Người đứng đầu cơ sở khám bệnh, chữa bệnh có trách nhiệm bảo đảm cung ứng đủ thuốc có chất lượng phục vụ cho nhu cầu cấp cứu, khám bệnh, chữa bệnh tại cơ sở khám bệnh, chữa bệnh; tổ chức bán thuốc ban đêm tại cơ sở khám bệnh, chữa bệnh tuyến huyện trở lên."
@@ -1368,6 +1733,21 @@
         "instruction": "[khoản 5] [Điều 84] có các điều khoản nào?",
         "input": "",
         "output": "Bộ trưởng Bộ Y tế quy định về tỷ lệ hao hụt thuốc và việc thanh toán chi phí hao hụt thuốc tại cơ sở khám bệnh, chữa bệnh."
+    },
+    {
+        "instruction": "[khoản 1] [Điều 85] có các điều khoản nào?",
+        "input": "",
+        "output": "Người đứng đầu cơ sở khám bệnh, chữa bệnh có sản xuất, pha chế thuốc để sử dụng tại cơ sở khám bệnh, chữa bệnh phải chịu trách nhiệm về chất lượng và việc quản lý các loại thuốc do cơ sở mình sản xuất, pha chế."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 85] có các điều khoản nào?",
+        "input": "",
+        "output": "Cơ sở khám bệnh, chữa bệnh được phép sản xuất, pha chế để phục vụ nhu cầu điều trị của cơ sở khi đáp ứng đủ các điều kiện theo quy định của Bộ trưởng Bộ Y tế."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 85] có các điều khoản nào?",
+        "input": "",
+        "output": "Cơ sở khám bệnh, chữa bệnh sản xuất, pha chế thuốc phóng xạ, ngoài việc thực hiện quy định tại khoản 1 và khoản 2 Điều này, phải thực hiện các biện pháp về an ninh bảo đảm không thất thoát thuốc, nguyên liệu làm thuốc phóng xạ và được Bộ Khoa học và Công nghệ cấp giấy phép tiến hành công việc bức xạ theo quy định của pháp luật về năng lượng nguyên tử. Thuốc sản xuất, pha chế theo quy định tại khoản này được cung cấp cho cơ sở khám bệnh, chữa bệnh khác theo quy định của Bộ trưởng Bộ Y tế. Chương XI THỬ THUỐC TRÊN LÂM SÀNG, THỬ TƯƠNG ĐƯƠNG SINH HỌC CỦA THUỐC Mục 1. THỬ THUỐC TRÊN LÂM SÀNG"
     },
     {
         "instruction": "[khoản 1] [Điều 86] có các điều khoản nào?",
@@ -1490,6 +1870,21 @@
         "output": "Hội đồng đạo đức trong nghiên cứu y sinh học là hội đồng độc lập được thành lập ở cấp quốc gia và cấp cơ sở để bảo vệ các quyền, sự an toàn và sức khỏe của người tham gia thử thuốc. Bộ trưởng Bộ Y tế quy định việc thành lập và chức năng, nhiệm vụ, quyền hạn của Hội đồng đạo đức trong nghiên cứu y sinh học."
     },
     {
+        "instruction": "[khoản 1] [Điều 95] có các điều khoản nào?",
+        "input": "",
+        "output": "Hồ sơ thử thuốc trên lâm sàng bao gồm: đ) Lý lịch khoa học của nghiên cứu viên; [điểm a] [khoản 1] [Điều 95] Đơn đề nghị thử thuốc trên lâm sàng; [điểm b] [khoản 1] [Điều 95] Hồ sơ thông tin sản phẩm nghiên cứu; [điểm c] [khoản 1] [Điều 95] Hồ sơ pháp lý của sản phẩm nghiên cứu; [điểm d] [khoản 1] [Điều 95] Đề cương nghiên cứu thử thuốc trên lâm sàng và bản thuyết minh; [điểm e] [khoản 1] [Điều 95] Bản cung cấp thông tin và phiếu tình nguyện tham gia nghiên cứu của người tham gia thử thuốc trên lâm sàng; [điểm g] [khoản 1] [Điều 95] Biên bản đánh giá về khoa học và đạo đức trong nghiên cứu của Hội đồng đạo đức trong nghiên cứu y sinh học cấp cơ sở; [điểm h] [khoản 1] [Điều 95] Nhãn thuốc nghiên cứu."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 95] có các điều khoản nào?",
+        "input": "",
+        "output": "Quy trình thử thuốc trên lâm sàng được quy định như sau: [điểm a] [khoản 2] [Điều 95] Đăng ký nghiên cứu thử thuốc trên lâm sàng; [điểm b] [khoản 2] [Điều 95] Phê duyệt nghiên cứu thử thuốc trên lâm sàng; [điểm c] [khoản 2] [Điều 95] Tổ chức thực hiện thử thuốc trên lâm sàng; [điểm d] [khoản 2] [Điều 95] Phê duyệt kết quả thử thuốc trên lâm sàng."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 95] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ trưởng Bộ Y tế quy định chi tiết Điều này. Mục 2. THỬ TƯƠNG ĐƯƠNG SINH HỌC CỦA THUỐC"
+    },
+    {
         "instruction": "[khoản 1] [Điều 96] có các điều khoản nào?",
         "input": "",
         "output": "Thử tương đương sinh học của thuốc gồm các giai đoạn sau đây: [điểm a] [khoản 1] [Điều 96] Giai đoạn nghiên cứu lâm sàng là giai đoạn thử nghiệm thuốc đối chứng và thuốc thử tương đương sinh học đã đạt yêu cầu về an toàn, hiệu quả để so sánh sinh khả dụng của 02 thuốc trên người tình nguyện; [điểm b] [khoản 1] [Điều 96] Giai đoạn phân tích dịch sinh học của người là giai đoạn phân tích, xác định nồng độ thuốc đối chứng và thuốc thử tương đương sinh học trong mẫu sinh học của người tình nguyện sau khi được dùng ở giai đoạn nghiên cứu lâm sàng nhằm so sánh sinh khả dụng và chứng minh tính tương đương sinh học của 02 thuốc."
@@ -1543,6 +1938,21 @@
         "instruction": "[khoản 3] [Điều 100] có các điều khoản nào?",
         "input": "",
         "output": "Hội đồng đạo đức trong nghiên cứu y sinh học cấp cơ sở đánh giá về khoa học và đạo đức trong nghiên cứu của hồ sơ thử tương đương sinh học của thuốc và phê duyệt đề cương nghiên cứu."
+    },
+    {
+        "instruction": "[khoản 1] [Điều 101] có các điều khoản nào?",
+        "input": "",
+        "output": "Hồ sơ thử tương đương sinh học của thuốc bao gồm: đ) Bản cung cấp thông tin và phiếu tình nguyện tham gia nghiên cứu của người tham gia thử tương đương sinh học của thuốc; [điểm a] [khoản 1] [Điều 101] Đơn đề nghị thử tương đương sinh học; [điểm b] [khoản 1] [Điều 101] Hồ sơ thông tin về thuốc; [điểm c] [khoản 1] [Điều 101] Đề cương nghiên cứu thử tương đương sinh học và bản thuyết minh; [điểm d] [khoản 1] [Điều 101] Lý lịch khoa học của nghiên cứu viên; [điểm e] [khoản 1] [Điều 101] Nhãn thuốc."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 101] có các điều khoản nào?",
+        "input": "",
+        "output": "Quy trình thử tương đương sinh học của thuốc được quy định như sau: [điểm a] [khoản 2] [Điều 101] Đăng ký nghiên cứu thử tương đương sinh học của thuốc; [điểm b] [khoản 2] [Điều 101] Phê duyệt nghiên cứu thử tương đương sinh học của thuốc; [điểm c] [khoản 2] [Điều 101] Tổ chức thực hiện thử tương đương sinh học của thuốc; [điểm d] [khoản 2] [Điều 101] Phê duyệt kết quả thử tương đương sinh học của thuốc."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 101] có các điều khoản nào?",
+        "input": "",
+        "output": "Bộ trưởng Bộ Y tế quy định chi tiết Điều này. Chương XII QUY CHUẨN, TIÊU CHUẨN CHẤT LƯỢNG VÀ VIỆC KIỂM NGHIỆM THUỐC, NGUYÊN LIỆU LÀM THUỐC, BAO BÌ TIẾP XÚC TRỰC TIẾP VỚI THUỐC"
     },
     {
         "instruction": "[khoản 1] [Điều 102] có các điều khoản nào?",
@@ -1608,6 +2018,21 @@
         "instruction": "[khoản 5] [Điều 104] có các điều khoản nào?",
         "input": "",
         "output": "Thủ tướng Chính phủ ban hành quy hoạch hệ thống kiểm nghiệm của Nhà nước, cơ sở kinh doanh dịch vụ kiểm nghiệm thuốc, nguyên liệu làm thuốc; quy định về hệ thống tổ chức, cơ sở vật chất và hoạt động của các cơ sở kiểm nghiệm thuốc, nguyên liệu làm thuốc của Nhà nước."
+    },
+    {
+        "instruction": "[khoản 1] [Điều 105] có các điều khoản nào?",
+        "input": "",
+        "output": "Cơ sở kinh doanh dược có quyền khiếu nại về kết luận chất lượng thuốc, nguyên liệu làm thuốc, bao bì tiếp xúc trực tiếp với thuốc của cơ quan quản lý nhà nước về dược có thẩm quyền."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 105] có các điều khoản nào?",
+        "input": "",
+        "output": "Trường hợp có khiếu nại về kết luận chất lượng thuốc, nguyên liệu làm thuốc, bao bì tiếp xúc trực tiếp với thuốc, Bộ Y tế chỉ định cơ sở kiểm nghiệm thuốc, nguyên liệu làm thuốc có điều kiện tiêu chuẩn tối thiểu tương đương với cơ sở kiểm nghiệm có kết quả kiểm nghiệm gây phát sinh tranh chấp để kiểm nghiệm lại thuốc, nguyên liệu làm thuốc, bao bì tiếp xúc trực tiếp với thuốc có khiếu nại về kết luận."
+    },
+    {
+        "instruction": "[khoản 3] [Điều 105] có các điều khoản nào?",
+        "input": "",
+        "output": "Thẩm quyền, thủ tục giải quyết khiếu nại về kết luận chất lượng thuốc nguyên liệu làm thuốc, bao bì tiếp xúc trực tiếp với thuốc thực hiện theo quy định của pháp luật về khiếu nại. Chương XIII QUẢN LÝ GIÁ THUỐC"
     },
     {
         "instruction": "[khoản 1] [Điều 106] có các điều khoản nào?",
@@ -1778,6 +2203,16 @@
         "instruction": "[khoản 4] [Điều 112] có các điều khoản nào?",
         "input": "",
         "output": "Kiểm tra, thanh tra và xử phạt vi phạm pháp luật về giá thuốc trên địa bàn quản lý."
+    },
+    {
+        "instruction": "[khoản 1] [Điều 114] có các điều khoản nào?",
+        "input": "",
+        "output": "Trong thời hạn 10 ngày kể từ ngày có kết quả trúng thầu, các cơ sở thực hiện đấu thầu thuốc thuộc phạm vi quản lý của Ủy ban nhân dân cấp tỉnh phải gửi đến Sở Y tế, Bảo hiểm xã hội cấp tỉnh; các cơ sở y tế khác có thực hiện đấu thầu thuốc gửi kết quả trúng thầu thuốc đến Bộ Y tế và Bảo hiểm xã hội Việt Nam."
+    },
+    {
+        "instruction": "[khoản 2] [Điều 114] có các điều khoản nào?",
+        "input": "",
+        "output": "Trong thời hạn 10 ngày kể từ ngày có kết quả trúng thầu thuốc đối với tỉnh, thành phố trực thuộc trung ương tổ chức đấu thầu thuốc tập trung, Sở Y tế phải báo cáo kết quả trúng thầu thuốc đến Bộ Y tế và Bảo hiểm xã hội Việt Nam. Chương XIV ĐIỀU KHOẢN THI HÀNH"
     },
     {
         "instruction": "[khoản 1] [Điều 115] có các điều khoản nào?",
