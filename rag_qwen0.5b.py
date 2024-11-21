@@ -97,7 +97,7 @@ def generate_with_rag(query, index, dataset, model, tokenizer, top_k=5, max_outp
 # 5. Main function
 def main():
     # Paths
-    json_path = "rag_ready_data.json"  # Path to your RAG JSON file
+    json_path = "rag_format.json"  # Path to your RAG JSON file
 
     # Check if the file exists
     if not os.path.exists(json_path):
