@@ -1,13 +1,13 @@
-import json
-import re
 import chardet
+import re
+import json
 
 def detect_encoding(file_path):
     """Detect the encoding of the input file."""
     with open(file_path, 'rb') as file:
         result = chardet.detect(file.read())
         return result['encoding']
-
+        
 def parse_law_file(file_path):
     # Automatically detect the file encoding
     encoding = detect_encoding(file_path)
@@ -19,16 +19,13 @@ def parse_law_file(file_path):
     data = {
         "header": [],
         "content": [],
-        "footer": []  # Add a footer section
+        "footer": []
     }
-    
-    current_chuong = None
-    current_muc = None
-    current_dieu = None
-    current_clause = None  # To track the current numbered clause
 
-    # Variables to track the line index of the last body item
-    last_body_item_index = None
+    current_dieu = None
+    current_clause = None
+    body_started = False
+    last_body_line_index = None
 
     for i, line in enumerate(lines):
         line = line.strip()
@@ -36,64 +33,39 @@ def parse_law_file(file_path):
         # Skip empty lines
         if not line:
             continue
-        
-        # Detect headers (before any Chương)
-        if not current_chuong and not re.match(r"^Chương\s+[IVXLCDM]+", line):
+
+        # Detect header (before the first Điều)
+        if not body_started and not re.match(r"^Điều\s+\d+", line):
             data["header"].append(line)
             continue
-        
-        # Detect Chương
-        if re.match(r"^Chương\s+[IVXLCDM]+", line):
-            if current_chuong:
-                if current_muc:
-                    current_chuong["muc"].append(current_muc)
-                data["content"].append(current_chuong)
-            current_chuong = {
-                "chuong": line,
-                "muc": []
-            }
-            current_muc = None
-            current_dieu = None
-            current_clause = None  # Reset current clause when a new Chương is found
-        
-        # Detect Mục
-        elif re.match(r"^Mục\s+\d+", line):
-            if current_muc:
-                current_chuong["muc"].append(current_muc)
-            current_muc = {
-                "muc": line,
-                "dieu": []
-            }
-            current_dieu = None
-        
-        # Detect Điều (Numbered clause)
-        elif re.match(r"^Điều\s+\d+", line):
+
+        # Detect Điều
+        if re.match(r"^Điều\s+\d+", line):
+            body_started = True
             if current_dieu:
-                if current_muc:
-                    current_muc["dieu"].append(current_dieu)
-                elif current_chuong:
-                    current_chuong["muc"].append({"dieu": [current_dieu]})
+                data["content"].append(current_dieu)
             parts = line.split(". ", 1)
             current_dieu = {
                 "id": parts[0],
                 "title": parts[1] if len(parts) > 1 else "",
-                "content": []  # This holds the numbered and lettered sub-clauses
+                "content": []
             }
-            current_clause = current_dieu  # Track the current clause
-            
-        # Detect numbered clauses (e.g., "1.", "2.") under a Điều
+            current_clause = None
+            last_body_line_index = i  # Update last body line index
+
+        # Detect numbered clauses (e.g., "1.", "2.")
         elif re.match(r"^\d+\.", line):
             parts = line.split(". ", 1)
             clause = {
                 "number": parts[0],
                 "text": parts[1] if len(parts) > 1 else "",
-                "sub_clauses": []  # Initialize an empty list for sub-clauses (letters)
+                "sub_clauses": []
             }
             if current_dieu:
                 current_dieu["content"].append(clause)
-                current_clause = clause  # The clause becomes the current clause for sub-clauses
-        
-        # Detect lettered clauses (e.g., "a)", "b)") under the previous numbered clause
+                current_clause = clause
+
+        # Detect lettered sub-clauses (e.g., "a)", "b)")
         elif re.match(r"^[a-z]\)", line):
             parts = line.split(") ", 1)
             sub_clause = {
@@ -102,30 +74,20 @@ def parse_law_file(file_path):
             }
             if current_clause and "sub_clauses" in current_clause:
                 current_clause["sub_clauses"].append(sub_clause)
-        
-        # Handle continuation lines (for multi-line clauses)
+
+        # Handle continuation lines for clauses
         elif current_clause and "text" in current_clause:
             current_clause["text"] += f" {line}"
 
-        # Update the last body item index when we process the last item
-        if current_clause and re.match(r"^\d+\.", line):  # Ensure it's a numbered body item
-            last_body_item_index = i
-
-    # Finalize last structures
+    # Add the last Điều to the content
     if current_dieu:
-        if current_muc:
-            current_muc["dieu"].append(current_dieu)
-        elif current_chuong:
-            current_chuong["muc"].append({"dieu": [current_dieu]})
-    if current_muc:
-        current_chuong["muc"].append(current_muc)
-    if current_chuong:
-        data["content"].append(current_chuong)
+        data["content"].append(current_dieu)
 
-    # If we have a valid index for the last body item, capture everything after it as footer
-    if last_body_item_index is not None:
-        # Add all lines after the last body item to the footer, excluding empty ones
-        data["footer"] = [line.strip() for line in lines[last_body_item_index + 1:] if line.strip()]
+    # Capture footer content (after the last body line)
+    if last_body_line_index is not None:
+        data["footer"] = [
+            line.strip() for line in lines[last_body_line_index + 1:] if line.strip()
+        ]
 
     return data
 
@@ -136,7 +98,8 @@ def convert_to_json(file_path, output_path):
         json.dump(law_data, json_file, ensure_ascii=False, indent=4)
     print(f"Data successfully converted and saved to {output_path}")
 
+
 # Example usage
-input_file = "luat_viet_nam.txt"  # Update the path if needed
+input_file = "luat_viet_nam.txt"  # Replace with the correct file path
 output_file = "luat_viet_nam.json"
 convert_to_json(input_file, output_file)

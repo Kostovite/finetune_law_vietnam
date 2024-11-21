@@ -71,7 +71,7 @@ def generate_with_rag(query, index, dataset, model, tokenizer, top_k=5, max_outp
     context = "\n".join([doc['text'] for doc in retrieved_docs])
 
     # Add a clear instruction to generate the response in multiple languages
-    prompt_with_context = f"Context:\n{context}\n\nQuery: {query}\n\nPlease provide the answer in multiple languages."
+    prompt_with_context = f"Context:\n{context}\n\nQuery: {query}"
 
     # Tokenize the prompt
     inputs = tokenizer(prompt_with_context, return_tensors="pt", truncation=True, padding="max_length", max_length=512).to(model.device)
@@ -133,7 +133,7 @@ def main():
 
     # Test query
     print("Testing RAG retrieval and generation...")
-    test_query = "What is included in [Điều 42]?"
+    test_query = "Điều 42?"
     response = generate_with_rag(test_query, index, rag_dataset, model, tokenizer)
     print("Generated Response:\n", response)
 
