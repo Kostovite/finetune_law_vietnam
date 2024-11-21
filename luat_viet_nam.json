@@ -376,7 +376,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Hội về dược có các trách nhiệm và quyền hạn sau đây: đ) Tham gia Hội đồng tư vấn cấp Chứng chỉ hành nghề dược.",
+                    "text": "Hội về dược có các trách nhiệm và quyền hạn sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -393,6 +393,10 @@
                         {
                             "letter": "d",
                             "text": "Tham gia đào tạo, cập nhật kiến thức chuyên môn về dược;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Tham gia Hội đồng tư vấn cấp Chứng chỉ hành nghề dược."
                         }
                     ]
                 }
@@ -424,7 +428,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Kinh doanh dược thuộc một trong các trường hợp sau đây: đ) Thuốc, nguyên liệu làm thuốc làm mẫu để đăng ký, kiểm nghiệm, nghiên cứu khoa học, tham gia trưng bày tại triển lãm, hội chợ;",
+                    "text": "Kinh doanh dược thuộc một trong các trường hợp sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -441,6 +445,10 @@
                         {
                             "letter": "d",
                             "text": "Thuốc thử lâm sàng;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Thuốc, nguyên liệu làm thuốc làm mẫu để đăng ký, kiểm nghiệm, nghiên cứu khoa học, tham gia trưng bày tại triển lãm, hội chợ;"
                         },
                         {
                             "letter": "e",
@@ -851,7 +859,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Có văn bằng, chứng chỉ, giấy chứng nhận chuyên môn (sau đây gọi chung là văn bằng chuyên môn) được cấp hoặc công nhận tại Việt Nam phù hợp với vị trí công việc và cơ sở kinh doanh dược bao gồm: đ) Bằng tốt nghiệp đại học ngành hóa học; Việc áp dụng điều kiện về văn bằng, chứng chỉ, giấy chứng nhận quy định tại điểm l khoản này do Bộ trưởng Bộ Y tế quy định phù hợp với điều kiện phát triển kinh tế - xã hội và nhu cầu khám bệnh, chữa bệnh của Nhân dân ở từng địa phương trong từng thời kỳ.",
+                    "text": "Có văn bằng, chứng chỉ, giấy chứng nhận chuyên môn (sau đây gọi chung là văn bằng chuyên môn) được cấp hoặc công nhận tại Việt Nam phù hợp với vị trí công việc và cơ sở kinh doanh dược bao gồm: Việc áp dụng điều kiện về văn bằng, chứng chỉ, giấy chứng nhận quy định tại điểm l khoản này do Bộ trưởng Bộ Y tế quy định phù hợp với điều kiện phát triển kinh tế - xã hội và nhu cầu khám bệnh, chữa bệnh của Nhân dân ở từng địa phương trong từng thời kỳ.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -868,6 +876,10 @@
                         {
                             "letter": "d",
                             "text": "Bằng tốt nghiệp đại học ngành sinh học;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Bằng tốt nghiệp đại học ngành hóa học;"
                         },
                         {
                             "letter": "e",
@@ -1333,7 +1345,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Nội dung cơ bản của Chứng chỉ hành nghề dược bao gồm: đ) Hình thức cấp Chứng chỉ hành nghề dược theo hình thức xét duyệt hoặc hình thức thi; thời gian thi trong trường hợp cấp theo hình thức thi;",
+                    "text": "Nội dung cơ bản của Chứng chỉ hành nghề dược bao gồm:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1350,6 +1362,10 @@
                         {
                             "letter": "d",
                             "text": "Phạm vi hoạt động chuyên môn;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Hình thức cấp Chứng chỉ hành nghề dược theo hình thức xét duyệt hoặc hình thức thi; thời gian thi trong trường hợp cấp theo hình thức thi;"
                         },
                         {
                             "letter": "e",
@@ -1442,7 +1458,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hoạt động kinh doanh dược bao gồm: đ) Kinh doanh dịch vụ thử tương đương sinh học của thuốc.",
+                    "text": "Hoạt động kinh doanh dược bao gồm:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1459,12 +1475,16 @@
                         {
                             "letter": "d",
                             "text": "Kinh doanh dịch vụ thử thuốc trên lâm sàng;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Kinh doanh dịch vụ thử tương đương sinh học của thuốc."
                         }
                     ]
                 },
                 {
                     "number": "2",
-                    "text": "Cơ sở kinh doanh dược bao gồm: đ) Cơ sở bán lẻ thuốc bao gồm nhà thuốc, quầy thuốc, tủ thuốc trạm y tế xã, cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền;",
+                    "text": "Cơ sở kinh doanh dược bao gồm:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1481,6 +1501,10 @@
                         {
                             "letter": "d",
                             "text": "Cơ sở bán buôn thuốc, nguyên liệu làm thuốc;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Cơ sở bán lẻ thuốc bao gồm nhà thuốc, quầy thuốc, tủ thuốc trạm y tế xã, cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền;"
                         },
                         {
                             "letter": "e",
@@ -1504,7 +1528,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Điều kiện về cơ sở vật chất, kỹ thuật và nhân sự được quy định như sau: đ) Cơ sở kinh doanh dịch vụ kiểm nghiệm thuốc, nguyên liệu làm thuốc phải có địa điểm, phòng kiểm nghiệm hóa học, vi sinh hoặc sinh học, hệ thống phụ trợ, trang thiết bị kiểm nghiệm, hóa chất, thuốc thử, hệ thống quản lý chất lượng, tài liệu chuyên môn kỹ thuật và nhân sự đáp ứng Thực hành tốt phòng thí nghiệm đối với kiểm tra chất lượng thuốc; Trường hợp cơ sở kinh doanh dịch vụ thử tương đương sinh học của thuốc chỉ đáp ứng Thực hành tốt phòng thí nghiệm đối với phân tích dịch sinh học thì phải ký hợp đồng hoặc liên kết với cơ sở thử thuốc trên lâm sàng đáp ứng Thực hành tốt thử thuốc trên lâm sàng để thực hiện giai đoạn nghiên cứu trên lâm sàng trong thử tương đương sinh học của thuốc.",
+                    "text": "Điều kiện về cơ sở vật chất, kỹ thuật và nhân sự được quy định như sau: Trường hợp cơ sở kinh doanh dịch vụ thử tương đương sinh học của thuốc chỉ đáp ứng Thực hành tốt phòng thí nghiệm đối với phân tích dịch sinh học thì phải ký hợp đồng hoặc liên kết với cơ sở thử thuốc trên lâm sàng đáp ứng Thực hành tốt thử thuốc trên lâm sàng để thực hiện giai đoạn nghiên cứu trên lâm sàng trong thử tương đương sinh học của thuốc.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1521,6 +1545,10 @@
                         {
                             "letter": "d",
                             "text": "Cơ sở bán lẻ thuốc phải có địa điểm, khu vực bảo quản, trang thiết bị bảo quản, tài liệu chuyên môn kỹ thuật và nhân sự đáp ứng Thực hành tốt cơ sở bán lẻ thuốc; đối với cơ sở chuyên bán lẻ dược liệu, thuốc dược liệu, thuốc cổ truyền thực hiện theo quy định tại điểm b khoản 2 Điều 69 của Luật này;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Cơ sở kinh doanh dịch vụ kiểm nghiệm thuốc, nguyên liệu làm thuốc phải có địa điểm, phòng kiểm nghiệm hóa học, vi sinh hoặc sinh học, hệ thống phụ trợ, trang thiết bị kiểm nghiệm, hóa chất, thuốc thử, hệ thống quản lý chất lượng, tài liệu chuyên môn kỹ thuật và nhân sự đáp ứng Thực hành tốt phòng thí nghiệm đối với kiểm tra chất lượng thuốc;"
                         },
                         {
                             "letter": "e",
@@ -1856,7 +1884,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ sở kinh doanh dược có các quyền sau đây: đ) Tổ chức cơ sở bán lẻ thuốc lưu động tại vùng đồng bào dân tộc thiểu số, miền núi, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của Chính phủ.",
+                    "text": "Cơ sở kinh doanh dược có các quyền sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1873,12 +1901,16 @@
                         {
                             "letter": "d",
                             "text": "Thực hiện chương trình hỗ trợ thuốc miễn phí cho cơ sở khám bệnh, chữa bệnh để điều trị cho bệnh nhân theo quy định của Bộ trưởng Bộ Y tế;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Tổ chức cơ sở bán lẻ thuốc lưu động tại vùng đồng bào dân tộc thiểu số, miền núi, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của Chính phủ."
                         }
                     ]
                 },
                 {
                     "number": "2",
-                    "text": "Cơ sở kinh doanh dược có các trách nhiệm sau đây: đ) Chấp hành quyết định của cơ quan nhà nước có thẩm quyền trong trường hợp bảo đảm cung ứng thuốc, nguyên liệu làm thuốc khi xảy ra dịch bệnh nguy hiểm, thiên tai, thảm họa;",
+                    "text": "Cơ sở kinh doanh dược có các trách nhiệm sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1895,6 +1927,10 @@
                         {
                             "letter": "d",
                             "text": "Bồi thường thiệt hại cho tổ chức, cá nhân bị thiệt hại do lỗi của cơ sở theo quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Chấp hành quyết định của cơ quan nhà nước có thẩm quyền trong trường hợp bảo đảm cung ứng thuốc, nguyên liệu làm thuốc khi xảy ra dịch bệnh nguy hiểm, thiên tai, thảm họa;"
                         },
                         {
                             "letter": "e",
@@ -1960,7 +1996,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ sở sản xuất thuốc, nguyên liệu làm thuốc có các quyền sau đây: đ) Bán nguyên liệu làm thuốc đã nhập khẩu để phục vụ sản xuất thuốc của cơ sở đó cho cơ sở sản xuất thuốc khác;",
+                    "text": "Cơ sở sản xuất thuốc, nguyên liệu làm thuốc có các quyền sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1979,6 +2015,10 @@
                             "text": "Nhập khẩu, mua nguyên liệu làm thuốc để phục vụ sản xuất; nhập khẩu thuốc, nguyên liệu làm thuốc để phục vụ nghiên cứu, kiểm nghiệm, sử dụng làm mẫu đăng ký lưu hành thuốc của cơ sở;"
                         },
                         {
+                            "letter": "đ",
+                            "text": "Bán nguyên liệu làm thuốc đã nhập khẩu để phục vụ sản xuất thuốc của cơ sở đó cho cơ sở sản xuất thuốc khác;"
+                        },
+                        {
                             "letter": "e",
                             "text": "Bán buôn thuốc, nguyên liệu làm thuốc cho cơ sở bán buôn, bán lẻ thuốc và cơ sở khám bệnh, chữa bệnh;"
                         },
@@ -1990,7 +2030,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ sở sản xuất thuốc, nguyên liệu làm thuốc có các trách nhiệm sau đây: đ) Chịu trách nhiệm về số lượng thuốc, nguyên liệu làm thuốc đã nhập khẩu, mua, bán, sử dụng và báo cáo theo quy định của Bộ trưởng Bộ Y tế.",
+                    "text": "Cơ sở sản xuất thuốc, nguyên liệu làm thuốc có các trách nhiệm sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2007,6 +2047,10 @@
                         {
                             "letter": "d",
                             "text": "Theo dõi chất lượng, an toàn, hiệu quả của thuốc, nguyên liệu làm thuốc do cơ sở sản xuất trong thời gian lưu hành trên thị trường và thu hồi thuốc, nguyên liệu làm thuốc theo quy định của Luật này;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Chịu trách nhiệm về số lượng thuốc, nguyên liệu làm thuốc đã nhập khẩu, mua, bán, sử dụng và báo cáo theo quy định của Bộ trưởng Bộ Y tế."
                         }
                     ]
                 }
@@ -2018,7 +2062,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ sở xuất khẩu, nhập khẩu thuốc, nguyên liệu làm thuốc có các quyền sau đây: đ) Xuất khẩu thuốc, nguyên liệu làm thuốc quy định tại khoản 4 và khoản 5 Điều 60 của Luật này.",
+                    "text": "Cơ sở xuất khẩu, nhập khẩu thuốc, nguyên liệu làm thuốc có các quyền sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2035,6 +2079,10 @@
                         {
                             "letter": "d",
                             "text": "Bán thuốc, nguyên liệu làm thuốc nhập khẩu cho cơ sở bán buôn, cơ sở bán lẻ thuốc, cơ sở sản xuất thuốc và cơ sở khám bệnh, chữa bệnh. Trường hợp không được thực hiện quyền phân phối thuốc tại Việt Nam, cơ sở xuất khẩu, nhập khẩu được bán thuốc, nguyên liệu làm thuốc nhập khẩu theo quy định của Bộ trưởng Bộ Y tế;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Xuất khẩu thuốc, nguyên liệu làm thuốc quy định tại khoản 4 và khoản 5 Điều 60 của Luật này."
                         }
                     ]
                 },
@@ -2089,7 +2137,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ sở bán buôn thuốc, nguyên liệu làm thuốc có các quyền sau đây: đ) Xuất khẩu thuốc, nguyên liệu làm thuốc quy định tại khoản 4 và khoản 5 Điều 60 của Luật này.",
+                    "text": "Cơ sở bán buôn thuốc, nguyên liệu làm thuốc có các quyền sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2106,6 +2154,10 @@
                         {
                             "letter": "d",
                             "text": "Đăng ký lưu hành thuốc, nguyên liệu làm thuốc; chuyển sở hữu giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc; đề nghị thu hồi giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc; đề nghị thu hồi thuốc, nguyên liệu làm thuốc theo quy định của Luật này;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Xuất khẩu thuốc, nguyên liệu làm thuốc quy định tại khoản 4 và khoản 5 Điều 60 của Luật này."
                         }
                     ]
                 },
@@ -2125,7 +2177,7 @@
                 },
                 {
                     "number": "1",
-                    "text": "Cơ sở bán lẻ là nhà thuốc có các quyền sau đây: đ) Người có Bằng dược sỹ được thay thế thuốc đã kê trong đơn thuốc bằng một thuốc khác có cùng hoạt chất, đường dùng, liều lượng khi có sự đồng ý của người mua và phải chịu trách nhiệm về việc thay đổi thuốc.",
+                    "text": "Cơ sở bán lẻ là nhà thuốc có các quyền sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2142,6 +2194,10 @@
                         {
                             "letter": "d",
                             "text": "Tham gia cấp phát thuốc của bảo hiểm, chương trình, dự án y tế khi đáp ứng yêu cầu và điều kiện của bảo hiểm, chương trình, dự án đó;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Người có Bằng dược sỹ được thay thế thuốc đã kê trong đơn thuốc bằng một thuốc khác có cùng hoạt chất, đường dùng, liều lượng khi có sự đồng ý của người mua và phải chịu trách nhiệm về việc thay đổi thuốc."
                         }
                     ]
                 },
@@ -2339,7 +2395,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ sở kinh doanh dịch vụ thử thuốc trên lâm sàng có các trách nhiệm sau đây: đ) Độc lập về kinh tế, tổ chức nhân sự đối với cơ quan, tổ chức, cá nhân có thuốc thử trên lâm sàng.",
+                    "text": "Cơ sở kinh doanh dịch vụ thử thuốc trên lâm sàng có các trách nhiệm sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2356,6 +2412,10 @@
                         {
                             "letter": "d",
                             "text": "Bảo đảm trung thực, khách quan trong thử thuốc trên lâm sàng;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Độc lập về kinh tế, tổ chức nhân sự đối với cơ quan, tổ chức, cá nhân có thuốc thử trên lâm sàng."
                         }
                     ]
                 }
@@ -2367,7 +2427,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ sở kinh doanh dịch vụ thử tương đương sinh học của thuốc có các quyền sau đây: Trường hợp chỉ tiến hành giai đoạn phân tích dịch sinh học thì được ký hợp đồng hoặc liên kết với cơ sở thử thuốc trên lâm sàng đáp ứng Thực hành tốt thử thuốc trên lâm sàng để thực hiện giai đoạn nghiên cứu trên lâm sàng trong thử tương đương sinh học của thuốc; đ) Sử dụng kết quả nghiên cứu thử tương đương sinh học của thuốc theo thỏa thuận với cơ quan, tổ chức, cá nhân có thuốc thử tương đương sinh học.",
+                    "text": "Cơ sở kinh doanh dịch vụ thử tương đương sinh học của thuốc có các quyền sau đây: Trường hợp chỉ tiến hành giai đoạn phân tích dịch sinh học thì được ký hợp đồng hoặc liên kết với cơ sở thử thuốc trên lâm sàng đáp ứng Thực hành tốt thử thuốc trên lâm sàng để thực hiện giai đoạn nghiên cứu trên lâm sàng trong thử tương đương sinh học của thuốc;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2384,12 +2444,16 @@
                         {
                             "letter": "d",
                             "text": "Nhập khẩu, mua hóa chất, chất chuẩn, mẫu thuốc phục vụ cho hoạt động thử tương đương sinh học của thuốc;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Sử dụng kết quả nghiên cứu thử tương đương sinh học của thuốc theo thỏa thuận với cơ quan, tổ chức, cá nhân có thuốc thử tương đương sinh học."
                         }
                     ]
                 },
                 {
                     "number": "2",
-                    "text": "Cơ sở kinh doanh dịch vụ thử tương đương sinh học của thuốc có các trách nhiệm sau đây: đ) Độc lập về kinh tế, tổ chức nhân sự đối với cơ quan, tổ chức, cá nhân có thuốc thử tương đương sinh học. Chương V ĐĂNG KÝ, LƯU HÀNH, THU HỒI THUỐC VÀ NGUYÊN LIỆU LÀM THUỐC Mục 1. ĐĂNG KÝ THUỐC, NGUYÊN LIỆU LÀM THUỐC",
+                    "text": "Cơ sở kinh doanh dịch vụ thử tương đương sinh học của thuốc có các trách nhiệm sau đây: Chương V ĐĂNG KÝ, LƯU HÀNH, THU HỒI THUỐC VÀ NGUYÊN LIỆU LÀM THUỐC Mục 1. ĐĂNG KÝ THUỐC, NGUYÊN LIỆU LÀM THUỐC",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2406,6 +2470,10 @@
                         {
                             "letter": "d",
                             "text": "Bảo đảm trung thực, khách quan trong thử tương đương sinh học của thuốc;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Độc lập về kinh tế, tổ chức nhân sự đối với cơ quan, tổ chức, cá nhân có thuốc thử tương đương sinh học."
                         }
                     ]
                 }
@@ -2585,7 +2653,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Hồ sơ đề nghị gia hạn giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc bao gồm: đ) Báo cáo an toàn, hiệu quả đối với thuốc có yêu cầu tiếp tục theo dõi an toàn, hiệu quả;",
+                    "text": "Hồ sơ đề nghị gia hạn giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc bao gồm:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2602,6 +2670,10 @@
                         {
                             "letter": "d",
                             "text": "Báo cáo lưu hành thuốc, nguyên liệu làm thuốc;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Báo cáo an toàn, hiệu quả đối với thuốc có yêu cầu tiếp tục theo dõi an toàn, hiệu quả;"
                         },
                         {
                             "letter": "e",
@@ -2701,7 +2773,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc bị thu hồi trong trường hợp sau đây: đ) Thuốc, nguyên liệu làm thuốc được sản xuất không đúng địa chỉ theo hồ sơ đăng ký;",
+                    "text": "Giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc bị thu hồi trong trường hợp sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2718,6 +2790,10 @@
                         {
                             "letter": "d",
                             "text": "Giấy đăng ký lưu hành thuốc, nguyên liệu làm thuốc được cấp dựa trên hồ sơ giả mạo;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Thuốc, nguyên liệu làm thuốc được sản xuất không đúng địa chỉ theo hồ sơ đăng ký;"
                         },
                         {
                             "letter": "e",
@@ -2742,7 +2818,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Các loại thuốc, nguyên liệu làm thuốc lưu hành trên thị trường bao gồm: đ) Thuốc, nguyên liệu làm thuốc nhập khẩu được phép tiếp tục lưu hành đến hết hạn dùng trong trường hợp được giao hàng tại cảng đi của nước xuất khẩu trước ngày giấy đăng ký lưu hành hết thời hạn hiệu lực;",
+                    "text": "Các loại thuốc, nguyên liệu làm thuốc lưu hành trên thị trường bao gồm:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2759,6 +2835,10 @@
                         {
                             "letter": "d",
                             "text": "Thuốc, nguyên liệu làm thuốc sản xuất trong nước được phép tiếp tục lưu hành đến hết hạn dùng trong trường hợp được sản xuất trước ngày giấy đăng ký lưu hành hết thời hạn hiệu lực;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Thuốc, nguyên liệu làm thuốc nhập khẩu được phép tiếp tục lưu hành đến hết hạn dùng trong trường hợp được giao hàng tại cảng đi của nước xuất khẩu trước ngày giấy đăng ký lưu hành hết thời hạn hiệu lực;"
                         },
                         {
                             "letter": "e",
@@ -2815,7 +2895,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thuốc chưa có giấy đăng ký lưu hành thuốc tại Việt Nam được cấp phép nhập khẩu và chỉ được nhập khẩu không quá số lượng ghi trong giấy phép nhập khẩu trong trường hợp sau đây: đ) Thuốc có cùng tên thương mại, thành phần hoạt chất, hàm lượng hoặc nồng độ, dạng bào chế với biệt dược gốc có giấy đăng ký lưu hành thuốc tại Việt Nam, được sản xuất bởi chính nhà sản xuất biệt dược gốc hoặc bởi nhà sản xuất được ủy quyền, có giá thấp hơn so với thuốc biệt dược gốc lưu hành tại Việt Nam theo yêu cầu của Bộ trưởng Bộ Y tế;",
+                    "text": "Thuốc chưa có giấy đăng ký lưu hành thuốc tại Việt Nam được cấp phép nhập khẩu và chỉ được nhập khẩu không quá số lượng ghi trong giấy phép nhập khẩu trong trường hợp sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2832,6 +2912,10 @@
                         {
                             "letter": "d",
                             "text": "Thuốc hiếm;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Thuốc có cùng tên thương mại, thành phần hoạt chất, hàm lượng hoặc nồng độ, dạng bào chế với biệt dược gốc có giấy đăng ký lưu hành thuốc tại Việt Nam, được sản xuất bởi chính nhà sản xuất biệt dược gốc hoặc bởi nhà sản xuất được ủy quyền, có giá thấp hơn so với thuốc biệt dược gốc lưu hành tại Việt Nam theo yêu cầu của Bộ trưởng Bộ Y tế;"
                         },
                         {
                             "letter": "e",
@@ -2896,7 +2980,7 @@
                 },
                 {
                     "number": "1",
-                    "text": "Nhãn thuốc, nguyên liệu làm thuốc lưu hành trên thị trường phải thể hiện các nội dung sau đây: đ) Tên, địa chỉ của cơ sở sản xuất;",
+                    "text": "Nhãn thuốc, nguyên liệu làm thuốc lưu hành trên thị trường phải thể hiện các nội dung sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2913,6 +2997,10 @@
                         {
                             "letter": "d",
                             "text": "Quy cách đóng gói;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Tên, địa chỉ của cơ sở sản xuất;"
                         },
                         {
                             "letter": "e",
@@ -2950,7 +3038,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thuốc bị thu hồi trong trường hợp sau đây: đ) Có kết luận của cơ quan nhà nước có thẩm quyền về thuốc không đạt yêu cầu về an toàn, hiệu quả;",
+                    "text": "Thuốc bị thu hồi trong trường hợp sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2969,6 +3057,10 @@
                             "text": "Thuốc không đạt tiêu chuẩn chất lượng, thuốc sản xuất từ nguyên liệu làm thuốc không đạt tiêu chuẩn chất lượng;"
                         },
                         {
+                            "letter": "đ",
+                            "text": "Có kết luận của cơ quan nhà nước có thẩm quyền về thuốc không đạt yêu cầu về an toàn, hiệu quả;"
+                        },
+                        {
                             "letter": "e",
                             "text": "Thuốc không có bằng chứng đã được kiểm tra chất lượng trong quá trình sản xuất và trước khi xuất xưởng;"
                         },
@@ -2980,7 +3072,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Nguyên liệu làm thuốc lưu hành trên thị trường bị thu hồi trong trường hợp sau đây: đ) Nguyên liệu làm thuốc không có bằng chứng đã được kiểm tra chất lượng trong quá trình sản xuất và trước khi xuất xưởng;",
+                    "text": "Nguyên liệu làm thuốc lưu hành trên thị trường bị thu hồi trong trường hợp sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2997,6 +3089,10 @@
                         {
                             "letter": "d",
                             "text": "Nguyên liệu làm thuốc không đạt tiêu chuẩn chất lượng để sản xuất thuốc; nguyên liệu làm thuốc không đúng xuất xứ đã đăng ký lưu hành hoặc giấy phép nhập khẩu;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Nguyên liệu làm thuốc không có bằng chứng đã được kiểm tra chất lượng trong quá trình sản xuất và trước khi xuất xưởng;"
                         },
                         {
                             "letter": "e",
@@ -3086,7 +3182,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ sở đăng ký thuốc, cơ sở sản xuất thuốc trong nước, cơ sở có pha chế, chế biến, bào chế thuốc, cơ sở nhập khẩu, cơ sở ủy thác nhập khẩu thuốc có thuốc bị thu hồi có các trách nhiệm sau đây: đ) Báo cáo Bộ Y tế về việc thu hồi thuốc và kết quả thu hồi thuốc;",
+                    "text": "Cơ sở đăng ký thuốc, cơ sở sản xuất thuốc trong nước, cơ sở có pha chế, chế biến, bào chế thuốc, cơ sở nhập khẩu, cơ sở ủy thác nhập khẩu thuốc có thuốc bị thu hồi có các trách nhiệm sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3103,6 +3199,10 @@
                         {
                             "letter": "d",
                             "text": "Chi trả chi phí cho việc thu hồi, xử lý thuốc bị thu hồi, bồi thường thiệt hại theo quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Báo cáo Bộ Y tế về việc thu hồi thuốc và kết quả thu hồi thuốc;"
                         },
                         {
                             "letter": "e",
@@ -3270,7 +3370,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ sở sản xuất thuốc cổ truyền lưu hành toàn quốc, cơ sở bán lẻ thuốc cổ truyền phải đáp ứng các điều kiện sau đây: đ) Người chịu trách nhiệm chuyên môn về dược của cơ sở bán lẻ thuốc cổ truyền thực hiện theo quy định tại khoản 4 Điều 18 của Luật này.",
+                    "text": "Cơ sở sản xuất thuốc cổ truyền lưu hành toàn quốc, cơ sở bán lẻ thuốc cổ truyền phải đáp ứng các điều kiện sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3287,6 +3387,10 @@
                         {
                             "letter": "d",
                             "text": "Người chịu trách nhiệm chuyên môn về dược, người phụ trách về bảo đảm chất lượng thuốc của hợp tác xã, hộ kinh doanh sản xuất thuốc cổ truyền phải có một trong các văn bằng chuyên môn quy định tại điểm a, c, e, g, i hoặc l khoản 1 Điều 13 của Luật này và có 02 năm thực hành chuyên môn tại cơ sở dược phù hợp với chuyên môn của người hành nghề, trừ trường hợp quy định tại điểm c khoản 2 Điều 13 của Luật này. Người chịu trách nhiệm chuyên môn về dược của hợp tác xã, hộ kinh doanh sản xuất thuốc cổ truyền có thể đồng thời là người phụ trách về bảo đảm chất lượng thuốc của cơ sở sản xuất;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Người chịu trách nhiệm chuyên môn về dược của cơ sở bán lẻ thuốc cổ truyền thực hiện theo quy định tại khoản 4 Điều 18 của Luật này."
                         }
                     ]
                 },
@@ -3756,7 +3860,7 @@
                 },
                 {
                     "number": "1",
-                    "text": "Người làm công tác dược lâm sàng tại cơ sở khám bệnh, chữa bệnh có các quyền và nghĩa vụ sau đây: đ) Tham gia xây dựng hướng dẫn điều trị chuẩn; danh mục thuốc tại cơ sở khám bệnh, chữa bệnh; quy trình chuyên môn kỹ thuật liên quan đến thuốc;",
+                    "text": "Người làm công tác dược lâm sàng tại cơ sở khám bệnh, chữa bệnh có các quyền và nghĩa vụ sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3773,6 +3877,10 @@
                         {
                             "letter": "d",
                             "text": "Tham gia hội chẩn chuyên môn, bình bệnh án, đơn thuốc;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Tham gia xây dựng hướng dẫn điều trị chuẩn; danh mục thuốc tại cơ sở khám bệnh, chữa bệnh; quy trình chuyên môn kỹ thuật liên quan đến thuốc;"
                         },
                         {
                             "letter": "e",
@@ -4044,7 +4152,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người tham gia thử thuốc trên lâm sàng có các quyền sau đây: đ) Khiếu nại, khởi kiện, tố cáo về hành vi vi phạm pháp luật của tổ chức, cá nhân có thuốc thử lâm sàng và nhận thử thuốc.",
+                    "text": "Người tham gia thử thuốc trên lâm sàng có các quyền sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4061,6 +4169,10 @@
                         {
                             "letter": "d",
                             "text": "Không phải chịu trách nhiệm khi đơn phương chấm dứt việc tham gia thử thuốc trên lâm sàng;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Khiếu nại, khởi kiện, tố cáo về hành vi vi phạm pháp luật của tổ chức, cá nhân có thuốc thử lâm sàng và nhận thử thuốc."
                         }
                     ]
                 },
@@ -4199,7 +4311,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hồ sơ thử thuốc trên lâm sàng bao gồm: đ) Lý lịch khoa học của nghiên cứu viên;",
+                    "text": "Hồ sơ thử thuốc trên lâm sàng bao gồm:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4216,6 +4328,10 @@
                         {
                             "letter": "d",
                             "text": "Đề cương nghiên cứu thử thuốc trên lâm sàng và bản thuyết minh;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Lý lịch khoa học của nghiên cứu viên;"
                         },
                         {
                             "letter": "e",
@@ -4425,7 +4541,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hồ sơ thử tương đương sinh học của thuốc bao gồm: đ) Bản cung cấp thông tin và phiếu tình nguyện tham gia nghiên cứu của người tham gia thử tương đương sinh học của thuốc;",
+                    "text": "Hồ sơ thử tương đương sinh học của thuốc bao gồm:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4442,6 +4558,10 @@
                         {
                             "letter": "d",
                             "text": "Lý lịch khoa học của nghiên cứu viên;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Bản cung cấp thông tin và phiếu tình nguyện tham gia nghiên cứu của người tham gia thử tương đương sinh học của thuốc;"
                         },
                         {
                             "letter": "e",
@@ -4576,7 +4696,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ sở kiểm nghiệm thuốc, nguyên liệu làm thuốc của Nhà nước có các trách nhiệm sau đây: đ) Chịu trách nhiệm về kết quả kiểm nghiệm đối với mẫu thuốc, mẫu nguyên liệu làm thuốc, bao bì tiếp xúc trực tiếp với thuốc đã kiểm nghiệm.",
+                    "text": "Cơ sở kiểm nghiệm thuốc, nguyên liệu làm thuốc của Nhà nước có các trách nhiệm sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4593,6 +4713,10 @@
                         {
                             "letter": "d",
                             "text": "Bảo đảm trung thực, khách quan trong kiểm nghiệm thuốc, nguyên liệu làm thuốc, bao bì tiếp xúc trực tiếp với thuốc;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Chịu trách nhiệm về kết quả kiểm nghiệm đối với mẫu thuốc, mẫu nguyên liệu làm thuốc, bao bì tiếp xúc trực tiếp với thuốc đã kiểm nghiệm."
                         }
                     ]
                 },
