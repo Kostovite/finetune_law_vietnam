@@ -1,79 +1,78 @@
 import json
 
-def convert_to_rag_format(input_data):
+def convert_to_rag_format(parsed_data):
     """
-    Converts flattened JSON structure (Điều-focused) to a flat RAG-ready format.
+    Converts nested JSON structure into RAG-ready format with full context.
     Args:
-        input_data (dict): The original flattened JSON data with header, footer, and Điều structure.
+        parsed_data (dict): The parsed law data.
     Returns:
         list: A list of dictionaries in RAG format.
     """
     rag_data = []
 
-    # Extract the header as general context
-    header = " ".join(input_data.get("header", []))
-    footer = " ".join(input_data.get("footer", []))  # Capture footer for additional context
+    # Extract global context (header and footer)
+    header = " ".join(parsed_data.get("header", []))
+    footer = " ".join(parsed_data.get("footer", []))
 
-    for article in input_data.get("content", []):
-        article_id = article.get("id", "")
-        article_title = article.get("title", "")
+    # Build the context string
+    general_context = f"{header} {footer}".strip()
+
+    # Iterate over the content
+    for dieu in parsed_data["content"]:
+        article_id = dieu["id"]
+        article_title = dieu.get("title", "")
         
-        for clause in article.get("content", []):
+        for clause in dieu["content"]:
             clause_number = clause.get("number", "")
             clause_text = clause.get("text", "")
-            sub_clauses = clause.get("sub_clauses", [])
             
-            # Add the main clause
+            # Add the main clause to RAG format
             rag_data.append({
                 "id": f"{article_id}.{clause_number}",
                 "article": article_id,
                 "clause": clause_number,
                 "title": article_title,
                 "text": clause_text,
-                "context": header  # Include header as context
+                "context": general_context
             })
-
-            # Add any sub-clauses
-            for sub_clause in sub_clauses:
+            
+            # Add sub-clauses to RAG format
+            for sub_clause in clause.get("sub_clauses", []):
                 sub_clause_letter = sub_clause.get("letter", "")
                 sub_clause_text = sub_clause.get("text", "")
+
                 rag_data.append({
                     "id": f"{article_id}.{clause_number}{sub_clause_letter}",
                     "article": article_id,
                     "clause": f"{clause_number}{sub_clause_letter}",
                     "title": article_title,
                     "text": sub_clause_text,
-                    "context": header  # Include header as context
+                    "context": general_context
                 })
-
-    # Optionally, append the footer as a separate entry if required
-    if footer:
-        rag_data.append({
-            "id": "footer",
-            "article": None,
-            "clause": None,
-            "title": "Footer",
-            "text": footer,
-            "context": header  # Include header as context for consistency
-        })
 
     return rag_data
 
 
-# Example usage
-if __name__ == "__main__":
-    # Load your flattened JSON file
-    input_file = "luat_viet_nam.json"  # Replace with your input file name
-    output_file = "rag_format.json"  # Replace with your output file name
+def save_rag_json(parsed_data, output_path):
+    """
+    Saves the RAG-ready JSON to a file.
+    Args:
+        parsed_data (dict): Parsed law data.
+        output_path (str): File path to save the RAG JSON.
+    """
+    rag_ready_data = convert_to_rag_format(parsed_data)
+    with open(output_path, "w", encoding="utf-8") as json_file:
+        json.dump(rag_ready_data, json_file, ensure_ascii=False, indent=4)
+    print(f"RAG-ready JSON saved to {output_path}")
 
-    with open(input_file, "r", encoding="utf-8") as infile:
-        flattened_data = json.load(infile)
 
-    # Convert to RAG format
-    rag_ready_data = convert_to_rag_format(flattened_data)
+# Example usage:
+input_json_file = "luat_viet_nam.json"  # Path to the parsed law JSON
+output_rag_file = "rag_format.json"  # Output path for RAG-ready JSON
 
-    # Save to output JSON
-    with open(output_file, "w", encoding="utf-8") as outfile:
-        json.dump(rag_ready_data, outfile, ensure_ascii=False, indent=4)
+# Read the parsed law data from JSON
+with open(input_json_file, "r", encoding="utf-8") as json_file:
+    law_data = json.load(json_file)
 
-    print(f"Conversion complete! RAG-ready data saved to {output_file}.")
+# Save the RAG JSON version
+save_rag_json(law_data, output_rag_file)

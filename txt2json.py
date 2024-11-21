@@ -34,9 +34,23 @@ def parse_law_file(file_path):
         if not line:
             continue
 
-        # Detect header (before the first Điều)
-        if not body_started and not re.match(r"^Điều\s+\d+", line):
+        # Detect header (before the first Điều or Chương)
+        if not body_started and not re.match(r"^(Điều\s+\d+|Chương\s+[IVXLCDM]+)", line):
             data["header"].append(line)
+            continue
+
+        # Detect the start of the body (Chương or Điều)
+        if re.match(r"^(Chương\s+[IVXLCDM]+|Điều\s+\d+)", line):
+            body_started = True
+            # Stop adding to the header
+            break
+
+    # Process the remaining lines for body and footer
+    for i, line in enumerate(lines):
+        line = line.strip()
+
+        # Skip empty lines
+        if not line:
             continue
 
         # Detect Điều
@@ -88,6 +102,10 @@ def parse_law_file(file_path):
         data["footer"] = [
             line.strip() for line in lines[last_body_line_index + 1:] if line.strip()
         ]
+
+    # Clean up the header to ensure it ends before Chương or Điều
+    while data["header"] and re.match(r"^(Chương\s+[IVXLCDM]+|Điều\s+\d+)", data["header"][-1]):
+        data["header"].pop()
 
     return data
 
