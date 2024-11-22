@@ -66,15 +66,24 @@ def build_faiss_index(dataset, embedding_model, tokenizer):
 
 # 3. Retrieve relevant chunks
 def retrieve(query, index, dataset, embedding_model, tokenizer, top_k=5):
+    # Tokenize query and generate embedding
     inputs = tokenizer(query, return_tensors="pt", truncation=True, padding=True, max_length=512).to(embedding_model.device)
     input_ids = inputs['input_ids']
     attention_mask = inputs['attention_mask']
-    
+
+    # Generate query embedding
     with torch.no_grad():
         query_embedding = embedding_model(input_ids, attention_mask=attention_mask, output_hidden_states=True).hidden_states[-1][:, 0, :].cpu().numpy()
-    
+
+    # Perform the search in FAISS
     distances, indices = index.search(query_embedding, top_k)
     results = [dataset[int(i)] for i in indices[0]]
+
+    # Check what is being retrieved
+    print("Retrieved sections: ")
+    for result in results:
+        print(result['id'], result['text'])  # Ensure this matches the expected content
+
     return results
 
 # 4. Generate responses using the model and retrieved context
@@ -149,7 +158,7 @@ def main():
 
     # Test query
     print("Testing RAG retrieval and generation...")
-    test_query = "Điều 41 gồm những gì?"
+    test_query = "Điều 41.1:"
     response = generate_with_rag(test_query, index, rag_dataset, model, tokenizer)
     print("Generated Response:\n", response)
 
