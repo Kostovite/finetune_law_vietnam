@@ -29,16 +29,23 @@ def build_faiss_index(dataset, embedding_model, tokenizer):
         # Use the model's device from embedding_model.module if it's wrapped in DataParallel
         device = embedding_model.module.device if isinstance(embedding_model, nn.DataParallel) else embedding_model.device
         
-        inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True).to(device)
-        inputs['input_ids'] = inputs['input_ids'].long()  # Ensure input_ids are LongTensor
+        # Tokenize and create attention mask
+        inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True, max_length=512).to(device)
+        input_ids = inputs['input_ids']
+        attention_mask = inputs['attention_mask']
 
-        if inputs['input_ids'].size(1) == 0:  # Check if input_ids is empty
+        # Ensure input_ids are LongTensor and attention_mask is correctly formatted
+        input_ids = input_ids.long()  # Ensure input_ids are LongTensor
+        attention_mask = attention_mask.long()  # Ensure attention_mask is LongTensor
+
+        if input_ids.size(1) == 0:  # Check if input_ids is empty
             print(f"Tokenizer produced empty input_ids for text: {text}")
             continue
 
         try:
             with torch.no_grad():
-                outputs = embedding_model(**inputs, output_hidden_states=True)
+                # Use the model to get the embeddings
+                outputs = embedding_model(input_ids, attention_mask=attention_mask, output_hidden_states=True)
                 if outputs.hidden_states is None:
                     print(f"Model returned no hidden_states for text: {text}")
                     continue
@@ -59,9 +66,12 @@ def build_faiss_index(dataset, embedding_model, tokenizer):
 
 # 3. Retrieve relevant chunks
 def retrieve(query, index, dataset, embedding_model, tokenizer, top_k=5):
-    inputs = tokenizer(query, return_tensors="pt", truncation=True, padding=True).to(embedding_model.device)
+    inputs = tokenizer(query, return_tensors="pt", truncation=True, padding=True, max_length=512).to(embedding_model.device)
+    input_ids = inputs['input_ids']
+    attention_mask = inputs['attention_mask']
+    
     with torch.no_grad():
-        query_embedding = embedding_model(**inputs, output_hidden_states=True).hidden_states[-1][:, 0, :].cpu().numpy()
+        query_embedding = embedding_model(input_ids, attention_mask=attention_mask, output_hidden_states=True).hidden_states[-1][:, 0, :].cpu().numpy()
     
     distances, indices = index.search(query_embedding, top_k)
     results = [dataset[int(i)] for i in indices[0]]
@@ -74,20 +84,27 @@ def generate_with_rag(query, index, dataset, model, tokenizer, top_k=5, max_outp
     context = "\n".join([doc['text'] for doc in retrieved_docs])
 
     # Add a clear instruction to generate the response in multiple languages
-    prompt_with_context = f"Context:\n{context}\n\nQuery: {query}"
+    prompt_with_context = f"Context:\n{context}\n\nQuery: {query}\n\nAnswer:"
 
-    # Tokenize the prompt
-    inputs = tokenizer(prompt_with_context, return_tensors="pt", truncation=True, padding="max_length", max_length=512).to(model.device)
+    # Tokenize the prompt and ensure padding and attention_mask are included
+    inputs = tokenizer(prompt_with_context, return_tensors="pt", truncation=True, padding=True, max_length=512).to(model.device)
 
     # Ensure pad_token_id is set if not specified
     if tokenizer.pad_token_id is None:
-        tokenizer.pad_token_id = tokenizer.eos_token_id
+        tokenizer.pad_token_id = tokenizer.eos_token_id  # Set pad_token_id to eos_token_id if not set
 
-    # Generate the response
+    # If attention_mask is not already included, create it
+    attention_mask = inputs.get('attention_mask', None)
+    if attention_mask is None:
+        attention_mask = torch.ones(inputs['input_ids'].shape, device=model.device)  # Set all to 1 if no mask is present
+
+    # Generate the response with max_new_tokens instead of max_length to avoid warning
     output = model.generate(
         inputs["input_ids"],
-        max_length=max_output_length,
-        num_beams=5,  # Beam search to improve relevance
+        attention_mask=attention_mask,  # Pass attention_mask
+        pad_token_id=tokenizer.pad_token_id,  # Ensure pad_token_id is passed
+        max_new_tokens=150,  # Use max_new_tokens instead of max_length
+        num_beams=100,  # Beam search to improve relevance
         early_stopping=True
     )
 
@@ -96,10 +113,11 @@ def generate_with_rag(query, index, dataset, model, tokenizer, top_k=5, max_outp
     
     return response
 
+
 # 5. Main function
 def main():
     # Paths
-    json_path = "rag_format.json"  # Path to your RAG JSON file
+    json_path = "./finetune_law_vietnam/rag_format.json"  # Path to your RAG JSON file
 
     # Check if the file exists
     if not os.path.exists(json_path):
@@ -131,7 +149,7 @@ def main():
 
     # Test query
     print("Testing RAG retrieval and generation...")
-    test_query = "Điều 42?"
+    test_query = "Điều 41 gồm những gì?"
     response = generate_with_rag(test_query, index, rag_dataset, model, tokenizer)
     print("Generated Response:\n", response)
 
