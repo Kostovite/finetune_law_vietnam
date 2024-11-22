@@ -28,25 +28,27 @@ def parse_law_file(file_path):
     last_body_line_index = None
     footer_started = False
 
-    # Use Unicode flag for proper matching
     for i, line in enumerate(lines):
         line = line.strip()
+
+        # Normalize spaces by replacing non-breaking spaces with regular spaces
+        line = line.replace('\u00A0', ' ')
 
         # Skip empty lines
         if not line:
             continue
 
         # Detect header (before the first Điều or Chương)
-        if not body_started and not re.match(r"^(Điều\s+\d+|Chương\s+[IVXLCDM]+)", line, re.UNICODE):
+        if not body_started and not re.match(r"^(Điều\s+\d+|Chương\s+[IVXLCDM]+)", line):
             data["header"].append(line)
             continue
 
         # Detect the start of the body (Chương or Điều)
-        if not body_started and re.match(r"^(Chương\s+[IVXLCDM]+|Điều\s+\d+)", line, re.UNICODE):
+        if not body_started and re.match(r"^(Chương\s+[IVXLCDM]+|Điều\s+\d+)", line):
             body_started = True
 
         # Detect footer start
-        if body_started and re.match(r"^(Luật này đã được Quốc hội|CHỦ TỊCH QUỐC HỘI)", line, re.UNICODE):
+        if body_started and re.match(r"^(Luật này đã được Quốc hội|CHỦ TỊCH QUỐC HỘI)", line):
             footer_started = True
 
         if footer_started:
@@ -54,7 +56,7 @@ def parse_law_file(file_path):
             continue
 
         # Detect Điều
-        if re.match(r"^Điều\s+\d+", line, re.UNICODE):
+        if re.match(r"^Điều\s+\d+", line):
             if current_dieu:
                 data["content"].append(current_dieu)
             parts = line.split(". ", 1)
@@ -67,18 +69,20 @@ def parse_law_file(file_path):
             last_body_line_index = i
 
         # Detect numbered clauses (e.g., "1.", "2.")
-        elif re.match(r"^\d+\.", line, re.UNICODE):
+        elif re.match(r"^\d+\.", line):
             parts = line.split(". ", 1)
+            clause_number = parts[0].strip()
+            clause_text = parts[1] if len(parts) > 1 else ""
             clause = {
-                "number": parts[0],
-                "text": parts[1] if len(parts) > 1 else "",
+                "number": clause_number,
+                "text": clause_text,
                 "sub_clauses": []
             }
             if current_dieu:
                 current_dieu["content"].append(clause)
                 current_clause = clause
 
-        # Modify this part where sub-clause detection occurs
+        # Detect lettered sub-clauses (e.g., "a)", "b)", including "đ")
         elif re.match(r"^[a-zđ]\)", line):
             parts = line.split(") ", 1)
             sub_clause = {
@@ -97,7 +101,7 @@ def parse_law_file(file_path):
         data["content"].append(current_dieu)
 
     # Clean up the header to ensure it ends before Chương or Điều
-    while data["header"] and re.match(r"^(Chương\s+[IVXLCDM]+|Điều\s+\d+)", data["header"][-1], re.UNICODE):
+    while data["header"] and re.match(r"^(Chương\s+[IVXLCDM]+|Điều\s+\d+)", data["header"][-1]):
         data["header"].pop()
 
     return data

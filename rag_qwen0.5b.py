@@ -6,6 +6,7 @@ import json
 import faiss
 import numpy as np
 import torch
+import torch.nn as nn
 from datasets import Dataset
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
@@ -25,7 +26,10 @@ def build_faiss_index(dataset, embedding_model, tokenizer):
             print(f"Skipping empty text at index {i}.")
             continue
 
-        inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True).to(embedding_model.device)
+        # Use the model's device from embedding_model.module if it's wrapped in DataParallel
+        device = embedding_model.module.device if isinstance(embedding_model, nn.DataParallel) else embedding_model.device
+        
+        inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True).to(device)
         inputs['input_ids'] = inputs['input_ids'].long()  # Ensure input_ids are LongTensor
 
         if inputs['input_ids'].size(1) == 0:  # Check if input_ids is empty
@@ -52,7 +56,6 @@ def build_faiss_index(dataset, embedding_model, tokenizer):
     index = faiss.IndexFlatL2(embedding_dim)  # Adjust dimensions to match embedding size
     index.add(np.vstack(corpus_embeddings))
     return index
-
 
 # 3. Retrieve relevant chunks
 def retrieve(query, index, dataset, embedding_model, tokenizer, top_k=5):
@@ -85,7 +88,6 @@ def generate_with_rag(query, index, dataset, model, tokenizer, top_k=5, max_outp
         inputs["input_ids"],
         max_length=max_output_length,
         num_beams=5,  # Beam search to improve relevance
-        temperature=0.7,  # Control randomness
         early_stopping=True
     )
 
@@ -115,12 +117,8 @@ def main():
 
     # GPU setup
     if torch.cuda.is_available():
-        if torch.cuda.device_count() > 1:
-            print(f"Multiple GPUs detected: {torch.cuda.device_count()}")
-            model = torch.nn.DataParallel(model, device_ids=[0, 1])
-        else:
-            print(f"Using single GPU: {torch.cuda.get_device_name(0)}")
-        model = model.to("cuda")
+        model = model.to("cuda:0")
+        print(f"Using GPU: {torch.cuda.get_device_name(0)}")
     else:
         print("No GPU detected. Using CPU.")
         model = model.to("cpu")

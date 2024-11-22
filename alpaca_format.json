@@ -260,9 +260,9 @@
         "output": "Hội về dược là tổ chức xã hội - nghề nghiệp hoạt động trong lĩnh vực dược."
     },
     {
-        "instruction": "[khoản 2. Tổ chức, cá nhân hoạt động trong lĩnh vực dược có quyền tham gia và thành lập hội về dược.] [Điều 5] có các điều khoản nào?",
+        "instruction": "[khoản 2] [Điều 5] có các điều khoản nào?",
         "input": "",
-        "output": ""
+        "output": "Tổ chức, cá nhân hoạt động trong lĩnh vực dược có quyền tham gia và thành lập hội về dược."
     },
     {
         "instruction": "[khoản 3] [Điều 5] có các điều khoản nào?",
