@@ -33,7 +33,7 @@ def convert_to_rag_format(parsed_data):
                 "clause": clause_number,
                 "title": article_title,
                 "text": clause_text,
-                "context": general_context
+                # "context": general_context
             })
             
             # Add sub-clauses to RAG format
@@ -47,7 +47,7 @@ def convert_to_rag_format(parsed_data):
                     "clause": f"{clause_number}{sub_clause_letter}",
                     "title": article_title,
                     "text": sub_clause_text,
-                    "context": general_context
+                    # "context": general_context
                 })
 
     return rag_data
