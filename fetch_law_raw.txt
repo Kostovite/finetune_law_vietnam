@@ -1,0 +1,5 @@
+git clone https://huggingface.co/datasets/daitavan/Vietnam-Law-Raw-Data 
+cd [nhap ten thu muc]
+git sparse-checkout init --cone
+git sparse-checkout set Vietnam-Law-Raw-Data/luat_bo_luat
+git lfs pull --include="Vietnam-Law-Raw-Data/luat_bo_luat/*"
