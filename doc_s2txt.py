@@ -37,7 +37,7 @@ def convert_all_docs_to_txt(input_dir, output_dir):
             convert_doc_to_txt(input_path, output_path)
 
 # Define input and output directories
-input_directory = "./Vietnam-Law-Raw-Data/luat_bo_luat"
+input_directory = "../Vietnam-Law-Raw-Data/luat_bo_luat"
 output_directory = "./Vietnam-Law-txt"
 
 # Run the conversion
