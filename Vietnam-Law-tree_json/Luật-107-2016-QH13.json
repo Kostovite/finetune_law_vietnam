@@ -167,7 +167,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Thuế tự vệ là thuế nhập khẩu bổ sung được áp dụng trong trường hợp nhập khẩu hàng hóa quá mức vào Việt Nam gây thiệt hại nghiêm trọng hoặc đe dọa gây ra thiệt hại nghiêm trọng cho ngành sản xuất trong nước hoặc ngăn cản sự hình thành của ngành sản xuất trong nước. Chương II CĂN CỨ TÍNH THUẾ, THỜI ĐIỂM TÍNH THUẾ VÀ BIỂU THUẾ",
+                    "text": "Thuế tự vệ là thuế nhập khẩu bổ sung được áp dụng trong trường hợp nhập khẩu hàng hóa quá mức vào Việt Nam gây thiệt hại nghiêm trọng hoặc đe dọa gây ra thiệt hại nghiêm trọng cho ngành sản xuất trong nước hoặc ngăn cản sự hình thành của ngành sản xuất trong nước.",
                     "sub_clauses": []
                 }
             ]
@@ -183,7 +183,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thuế suất đối với hàng hóa xuất khẩu được quy định cụ thể cho từng mặt hàng tại biểu thuế xuất khẩu. Trường hợp hàng hóa xuất khẩu sang nước, nhóm nước hoặc vùng lãnh thổ có thỏa thuận ưu đãi về thuế xuất khẩu trong quan hệ thương mại với Việt Nam thì thực hiện theo các thỏa thuận này.",
+                    "text": "Thuế suất đối với hàng hóa xuất khẩu được quy định cụ thể cho từng mặt hàng tại biểu thuế xuất khẩu.",
                     "sub_clauses": []
                 },
                 {
@@ -249,7 +249,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thời điểm tính thuế xuất khẩu, thuế nhập khẩu là thời điểm đăng ký tờ khai hải quan. Đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng không chịu thuế, miễn thuế xuất khẩu, thuế nhập khẩu hoặc áp dụng thuế suất, mức thuế tuyệt đối trong hạn ngạch thuế quan nhưng được thay đổi về đối tượng không chịu thuế, miễn thuế, áp dụng thuế suất, mức thuế tuyệt đối trong hạn ngạch thuế quan theo quy định của pháp luật thì thời điểm tính thuế là thời điểm đăng ký tờ khai hải quan mới. Thời điểm đăng ký tờ khai hải quan thực hiện theo quy định của pháp luật về hải quan.",
+                    "text": "Thời điểm tính thuế xuất khẩu, thuế nhập khẩu là thời điểm đăng ký tờ khai hải quan.",
                     "sub_clauses": []
                 }
             ]
@@ -260,7 +260,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng chịu thuế phải nộp thuế trước khi thông quan hoặc giải phóng hàng hóa theo quy định của Luật hải quan, trừ trường hợp quy định tại khoản 2 Điều này. Trường hợp được tổ chức tín dụng bảo lãnh số thuế phải nộp thì được thông quan hoặc giải phóng hàng hóa nhưng phải nộp tiền chậm nộp theo quy định của Luật quản lý thuế kể từ ngày được thông quan hoặc giải phóng hàng hóa đến ngày nộp thuế. Thời hạn bảo lãnh tối đa là 30 ngày, kể từ ngày đăng ký tờ khai hải quan. Trường hợp đã được tổ chức tín dụng bảo lãnh nhưng hết thời hạn bảo lãnh mà người nộp thuế chưa nộp thuế và tiền chậm nộp thì tổ chức bảo lãnh có trách nhiệm nộp đủ thuế và tiền chậm nộp thay cho người nộp thuế.",
+                    "text": "Hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng chịu thuế phải nộp thuế trước khi thông quan hoặc giải phóng hàng hóa theo quy định của Luật hải quan, trừ trường hợp quy định tại khoản 2 Điều này.",
                     "sub_clauses": []
                 },
                 {
@@ -330,7 +330,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thẩm quyền áp dụng thuế chống bán phá giá, thuế chống trợ cấp, thuế tự vệ thực hiện theo quy định tại Chương III của Luật này. Chương III THUẾ CHỐNG BÁN PHÁ GIÁ, THUẾ CHỐNG TRỢ CẤP, THUẾ TỰ VỆ",
+                    "text": "Thẩm quyền áp dụng thuế chống bán phá giá, thuế chống trợ cấp, thuế tự vệ thực hiện theo quy định tại Chương III của Luật này.",
                     "sub_clauses": []
                 }
             ]
@@ -498,7 +498,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Trường hợp lợi ích của Cộng hòa xã hội chủ nghĩa Việt Nam bị xâm hại hay vi phạm, căn cứ vào các điều ước quốc tế, Chính phủ báo cáo Quốc hội quyết định áp dụng biện pháp thuế phòng vệ khác phù hợp. Chương IV MIỄN THUẾ, GIẢM THUẾ, HOÀN THUẾ",
+                    "text": "Trường hợp lợi ích của Cộng hòa xã hội chủ nghĩa Việt Nam bị xâm hại hay vi phạm, căn cứ vào các điều ước quốc tế, Chính phủ báo cáo Quốc hội quyết định áp dụng biện pháp thuế phòng vệ khác phù hợp.",
                     "sub_clauses": []
                 }
             ]
@@ -514,12 +514,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tài sản di chuyển, quà biếu, quà tặng trong định mức của tổ chức, cá nhân nước ngoài cho tổ chức, cá nhân Việt Nam hoặc ngược lại. Tài sản di chuyển, quà biếu, quà tặng có số lượng hoặc trị giá vượt quá định mức miễn thuế phải nộp thuế đối với phần vượt, trừ trường hợp đơn vị nhận là cơ quan, tổ chức được ngân sách nhà nước bảo đảm kinh phí hoạt động và được cơ quan có thẩm quyền cho phép tiếp nhận hoặc trường hợp vì mục đích nhân đạo, từ thiện.",
+                    "text": "Tài sản di chuyển, quà biếu, quà tặng trong định mức của tổ chức, cá nhân nước ngoài cho tổ chức, cá nhân Việt Nam hoặc ngược lại.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Hàng hóa mua bán, trao đổi qua biên giới của cư dân biên giới thuộc Danh mục hàng hóa và trong định mức để phục vụ cho sản xuất, tiêu dùng của cư dân biên giới. Trường hợp thu mua, vận chuyển hàng hóa trong định mức nhưng không sử dụng cho sản xuất, tiêu dùng của cư dân biên giới và hàng hóa xuất khẩu, nhập khẩu của thương nhân nước ngoài được phép kinh doanh ở chợ biên giới thì phải nộp thuế.",
+                    "text": "Hàng hóa mua bán, trao đổi qua biên giới của cư dân biên giới thuộc Danh mục hàng hóa và trong định mức để phục vụ cho sản xuất, tiêu dùng của cư dân biên giới.",
                     "sub_clauses": []
                 },
                 {
@@ -534,7 +534,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Nguyên liệu, vật tư, linh kiện nhập khẩu để gia công sản phẩm xuất khẩu; sản phẩm hoàn chỉnh nhập khẩu để gắn vào sản phẩm gia công; sản phẩm gia công xuất khẩu. Sản phẩm gia công xuất khẩu được sản xuất từ nguyên liệu, vật tư trong nước có thuế xuất khẩu thì không được miễn thuế đối với phần trị giá nguyên liệu, vật tư trong nước tương ứng cấu thành trong sản phẩm xuất khẩu. Hàng hóa xuất khẩu để gia công sau đó nhập khẩu được miễn thuế xuất khẩu và thuế nhập khẩu tính trên phần trị giá của nguyên vật liệu xuất khẩu cấu thành sản phẩm gia công. Đối với hàng hóa xuất khẩu để gia công sau đó nhập khẩu là tài nguyên, khoáng sản, sản phẩm có tổng trị giá tài nguyên, khoáng sản cộng với chi phí năng lượng chiếm từ 51% giá thành sản phẩm trở lên thì không được miễn thuế.",
+                    "text": "Nguyên liệu, vật tư, linh kiện nhập khẩu để gia công sản phẩm xuất khẩu; sản phẩm hoàn chỉnh nhập khẩu để gắn vào sản phẩm gia công; sản phẩm gia công xuất khẩu.",
                     "sub_clauses": []
                 },
                 {
@@ -580,7 +580,7 @@
                 },
                 {
                     "number": "11",
-                    "text": "Hàng hóa nhập khẩu để tạo tài sản cố định của đối tượng được hưởng ưu đãi đầu tư theo quy định của pháp luật về đầu tư, bao gồm: Việc miễn thuế nhập khẩu đối với hàng hóa nhập khẩu quy định tại khoản này được áp dụng cho cả dự án đầu tư mới và dự án đầu tư mở rộng.",
+                    "text": "Hàng hóa nhập khẩu để tạo tài sản cố định của đối tượng được hưởng ưu đãi đầu tư theo quy định của pháp luật về đầu tư, bao gồm:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -603,7 +603,7 @@
                 },
                 {
                     "number": "13",
-                    "text": "Nguyên liệu, vật tư, linh kiện trong nước chưa sản xuất được nhập khẩu để sản xuất của dự án đầu tư thuộc danh mục ngành, nghề đặc biệt ưu đãi đầu tư hoặc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật về đầu tư, doanh nghiệp công nghệ cao, doanh nghiệp khoa học và công nghệ, tổ chức khoa học và công nghệ được miễn thuế nhập khẩu trong thời hạn 05 năm, kể từ khi bắt đầu sản xuất. Việc miễn thuế nhập khẩu quy định tại khoản này không áp dụng đối với dự án đầu tư khai thác khoáng sản; dự án sản xuất sản phẩm có tổng trị giá tài nguyên, khoáng sản cộng với chi phí năng lượng chiếm từ 51% giá thành sản phẩm trở lên; dự án sản xuất, kinh doanh hàng hóa, dịch vụ thuộc đối tượng chịu thuế tiêu thụ đặc biệt.",
+                    "text": "Nguyên liệu, vật tư, linh kiện trong nước chưa sản xuất được nhập khẩu để sản xuất của dự án đầu tư thuộc danh mục ngành, nghề đặc biệt ưu đãi đầu tư hoặc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật về đầu tư, doanh nghiệp công nghệ cao, doanh nghiệp khoa học và công nghệ, tổ chức khoa học và công nghệ được miễn thuế nhập khẩu trong thời hạn 05 năm, kể từ khi bắt đầu sản xuất.",
                     "sub_clauses": []
                 },
                 {
@@ -720,7 +720,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hàng hóa xuất khẩu, nhập khẩu đang trong quá trình giám sát của cơ quan hải quan nếu bị hư hỏng, mất mát được cơ quan, tổ chức có thẩm quyền giám định chứng nhận thì được giảm thuế. Mức giảm thuế tương ứng với tỷ lệ tổn thất thực tế của hàng hóa. Trường hợp hàng hóa xuất khẩu, nhập khẩu bị hư hỏng, mất mát toàn bộ thì không phải nộp thuế.",
+                    "text": "Hàng hóa xuất khẩu, nhập khẩu đang trong quá trình giám sát của cơ quan hải quan nếu bị hư hỏng, mất mát được cơ quan, tổ chức có thẩm quyền giám định chứng nhận thì được giảm thuế.",
                     "sub_clauses": []
                 },
                 {
@@ -736,7 +736,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Các trường hợp hoàn thuế: Số tiền thuế nhập khẩu được hoàn lại xác định trên cơ sở trị giá sử dụng còn lại của hàng hóa khi tái xuất khẩu tính theo thời gian sử dụng, lưu lại tại Việt Nam. Trường hợp hàng hóa đã hết trị giá sử dụng thì không được hoàn lại thuế nhập khẩu đã nộp. Không hoàn thuế đối với số tiền thuế được hoàn dưới mức tối thiểu theo quy định của Chính phủ.",
+                    "text": "Các trường hợp hoàn thuế:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -767,7 +767,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thủ tục hoàn thuế thực hiện theo quy định của pháp luật về quản lý thuế. Chương V ĐIỀU KHOẢN THI HÀNH",
+                    "text": "Thủ tục hoàn thuế thực hiện theo quy định của pháp luật về quản lý thuế.",
                     "sub_clauses": []
                 }
             ]

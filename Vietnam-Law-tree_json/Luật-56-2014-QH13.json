@@ -13,11 +13,11 @@
     "content": [
         {
             "id": "Điều 1",
-            "title": "",
+            "title": "Không có tiêu đề",
             "content": [
                 {
                     "number": "1",
-                    "text": "Điều 13 được sửa đổi, bổ sung như sau: “Điều 13. Người có quốc tịch Việt Nam",
+                    "text": "Điều 13 được sửa đổi, bổ sung như sau:",
                     "sub_clauses": []
                 },
                 {
@@ -27,7 +27,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người Việt Nam định cư ở nước ngoài mà chưa mất quốc tịch Việt Nam theo quy định của pháp luật Việt Nam trước ngày Luật này có hiệu lực thì vẫn còn quốc tịch Việt Nam. Người Việt Nam định cư ở nước ngoài chưa mất quốc tịch Việt Nam mà không có giấy tờ chứng minh quốc tịch Việt Nam theo quy định tại Điều 11 của Luật này thì đăng ký với cơ quan đại diện Việt Nam ở nước ngoài để được xác định có quốc tịch Việt Nam và cấp Hộ chiếu Việt Nam. Chính phủ quy định chi tiết khoản này.”",
+                    "text": "Người Việt Nam định cư ở nước ngoài mà chưa mất quốc tịch Việt Nam theo quy định của pháp luật Việt Nam trước ngày Luật này có hiệu lực thì vẫn còn quốc tịch Việt Nam.",
                     "sub_clauses": []
                 },
                 {
@@ -39,7 +39,7 @@
         },
         {
             "id": "Điều 2",
-            "title": "",
+            "title": "Không có tiêu đề",
             "content": []
         }
     ],

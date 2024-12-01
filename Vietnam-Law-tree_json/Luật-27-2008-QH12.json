@@ -199,7 +199,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Đối với hàng hóa, dịch vụ dùng để trao đổi hoặc tiêu dùng nội bộ, biếu, tặng cho là giá tính thuế tiêu thụ đặc biệt của hàng hóa, dịch vụ cùng loại hoặc tương đương tại thời điểm phát sinh các hoạt động này. Giá tính thuế tiêu thụ đặc biệt đối với hàng hóa, dịch vụ quy định tại Điều này bao gồm cả khoản thu thêm, được thu (nếu có) mà cơ sở kinh doanh được hưởng. Giá tính thuế được tính bằng Đồng Việt Nam. Trường hợp người nộp thuế có doanh thu bằng ngoại tệ thì phải quy đổi ngoại tệ ra Đồng Việt Nam theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do Ngân hàng nhà nước Việt Nam công bố tại thời điểm phát sinh doanh thu để xác định giá tính thuế. Chính phủ quy định cụ thể Điều này.",
+                    "text": "Đối với hàng hóa, dịch vụ dùng để trao đổi hoặc tiêu dùng nội bộ, biếu, tặng cho là giá tính thuế tiêu thụ đặc biệt của hàng hóa, dịch vụ cùng loại hoặc tương đương tại thời điểm phát sinh các hoạt động này.",
                     "sub_clauses": []
                 }
             ]
@@ -215,7 +215,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người nộp thuế tiêu thụ đặc biệt được hoàn thuế đã nộp trong các trường hợp sau: Việc hoàn thuế tiêu thụ đặc biệt theo quy định tại điểm a và điểm b khoản này chỉ thực hiện đối với hàng hoá thực tế xuất khẩu.",
+                    "text": "Người nộp thuế tiêu thụ đặc biệt được hoàn thuế đã nộp trong các trường hợp sau:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -237,7 +237,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người nộp thuế sản xuất hàng hóa thuộc đối tượng chịu thuế tiêu thụ đặc biệt bằng nguyên liệu đã nộp thuế tiêu thụ đặc biệt nếu có chứng từ hợp pháp thì được khấu trừ số thuế đã nộp đối với nguyên liệu khi xác định số thuế tiêu thụ đặc biệt phải nộp ở khâu sản xuất. Chính phủ quy định cụ thể Điều này.",
+                    "text": "Người nộp thuế sản xuất hàng hóa thuộc đối tượng chịu thuế tiêu thụ đặc biệt bằng nguyên liệu đã nộp thuế tiêu thụ đặc biệt nếu có chứng từ hợp pháp thì được khấu trừ số thuế đã nộp đối với nguyên liệu khi xác định số thuế tiêu thụ đặc biệt phải nộp ở khâu sản xuất.",
                     "sub_clauses": []
                 }
             ]

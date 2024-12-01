@@ -14,11 +14,11 @@
     "content": [
         {
             "id": "Điều 1",
-            "title": "",
+            "title": "Không có tiêu đề",
             "content": [
                 {
                     "number": "1",
-                    "text": "Khoản 2 và khoản 5 Điều 3 được sửa đổi, bổ sung như sau: “2. Thu nhập từ tiền lương, tiền công, bao gồm: “5. Thu nhập từ chuyển nhượng bất động sản, bao gồm:",
+                    "text": "Khoản 2 và khoản 5 Điều 3 được sửa đổi, bổ sung như sau:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -48,17 +48,17 @@
                 },
                 {
                     "number": "2",
-                    "text": "Khoản 10 Điều 4 được sửa đổi, bổ sung như sau: “10. Tiền lương hưu do Quỹ bảo hiểm xã hội chi trả; tiền lương hưu do quỹ hưu trí tự nguyện chi trả hàng tháng.”",
+                    "text": "Khoản 10 Điều 4 được sửa đổi, bổ sung như sau:",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Điểm c khoản 1 Điều 7 được sửa đổi như sau: “c. Kỳ tính thuế theo từng lần chuyển nhượng hoặc theo năm đối với thu nhập từ chuyển nhượng chứng khoán.”",
+                    "text": "Điểm c khoản 1 Điều 7 được sửa đổi như sau:",
                     "sub_clauses": []
                 },
                 {
                     "number": "4",
-                    "text": "Khoản 1 Điều 19 được sửa đổi, bổ sung như sau: “1. Giảm trừ gia cảnh là số tiền được trừ vào thu nhập chịu thuế trước khi tính thuế đối với thu nhập từ kinh doanh, tiền lương, tiền công của đối tượng nộp thuế là cá nhân cư trú. Giảm trừ gia cảnh gồm hai phần sau đây: Trường hợp chỉ số giá tiêu dùng (CPI) biến động trên 20% so với thời điểm Luật có hiệu lực thi hành hoặc thời điểm điều chỉnh mức giảm trừ gia cảnh gần nhất thì Chính phủ trình Uỷ ban thường vụ Quốc hội điều chỉnh mức giảm trừ gia cảnh quy định tại khoản này phù hợp với biến động của giá cả để áp dụng cho kỳ tính thuế tiếp theo.”",
+                    "text": "Khoản 1 Điều 19 được sửa đổi, bổ sung như sau:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -72,12 +72,12 @@
                 },
                 {
                     "number": "5",
-                    "text": "Khoản 1 Điều 21 được sửa đổi, bổ sung như sau: “1. Thu nhập tính thuế đối với thu nhập từ kinh doanh, tiền lương, tiền công là tổng thu nhập chịu thuế quy định tại Điều 10 và Điều 11 của Luật này, trừ các khoản đóng góp bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm trách nhiệm nghề nghiệp đối với một số ngành, nghề phải tham gia bảo hiểm bắt buộc, quỹ hưu trí tự nguyện, các khoản giảm trừ quy định tại Điều 19 và Điều 20 của Luật này. Chính phủ quy định mức tối đa được trừ đối với khoản đóng góp quỹ hưu trí tự nguyện quy định tại khoản này.”",
+                    "text": "Khoản 1 Điều 21 được sửa đổi, bổ sung như sau:",
                     "sub_clauses": []
                 },
                 {
                     "number": "6",
-                    "text": "Điều 24 được sửa đổi, bổ sung như sau: “Điều 24. Trách nhiệm của tổ chức, cá nhân trả thu nhập và trách nhiệm của đối tượng nộp thuế là cá nhân cư trú",
+                    "text": "Điều 24 được sửa đổi, bổ sung như sau:",
                     "sub_clauses": []
                 },
                 {
@@ -108,7 +108,7 @@
         },
         {
             "id": "Điều 2",
-            "title": "",
+            "title": "Không có tiêu đề",
             "content": [
                 {
                     "number": "1",

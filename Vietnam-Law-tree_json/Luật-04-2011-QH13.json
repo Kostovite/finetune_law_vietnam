@@ -45,7 +45,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chuẩn đo lường là phương tiện kỹ thuật để thể hiện, duy trì đơn vị đo của đại lượng đo và được dùng làm chuẩn để so sánh với phương tiện đo hoặc chuẩn đo lường khác. Chất chuẩn là một loại chuẩn đo lường đặc biệt có độ đồng nhất và ổn định nhất định đối với một hoặc một số thuộc tính. Chất chuẩn được sử dụng để hiệu chuẩn, kiểm định thiết bị, phương tiện đo, đánh giá phương pháp đo hoặc để xác định giá trị về thành phần, tính chất của vật liệu hoặc chất khác.",
+                    "text": "Chuẩn đo lường là phương tiện kỹ thuật để thể hiện, duy trì đơn vị đo của đại lượng đo và được dùng làm chuẩn để so sánh với phương tiện đo hoặc chuẩn đo lường khác.",
                     "sub_clauses": []
                 },
                 {
@@ -237,7 +237,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Giả mạo, tẩy xóa, sửa chữa nội dung trên dấu định lượng, dấu kiểm định, tem kiểm định, giấy chứng nhận kiểm định. CHƯƠNG II ĐƠN VỊ ĐO, CHUẨN ĐO LƯỜNG Mục 1 ĐƠN VỊ ĐO",
+                    "text": "Giả mạo, tẩy xóa, sửa chữa nội dung trên dấu định lượng, dấu kiểm định, tem kiểm định, giấy chứng nhận kiểm định.",
                     "sub_clauses": []
                 }
             ]
@@ -355,12 +355,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đơn vị đo khác được sử dụng theo thỏa thuận trừ trường hợp quy định tại khoản 1 Điều này. Trường hợp giải quyết tranh chấp có liên quan đến sử dụng đơn vị đo khác với đơn vị đo pháp định thì phải quy đổi sang đơn vị đo pháp định.",
+                    "text": "Đơn vị đo khác được sử dụng theo thỏa thuận trừ trường hợp quy định tại khoản 1 Điều này.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này. Mục 2 CHUẨN ĐO LƯỜNG",
+                    "text": "Chính phủ quy định chi tiết Điều này.",
                     "sub_clauses": []
                 }
             ]
@@ -423,7 +423,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chuẩn quốc gia phải được định kỳ hiệu chuẩn hoặc so sánh với chuẩn quốc tế hoặc với chuẩn quốc gia của nước ngoài đã được hiệu chuẩn hoặc đã được so sánh với chuẩn quốc tế. Việc hiệu chuẩn hoặc so sánh chuẩn quốc gia do tổ chức được chỉ định giữ chuẩn quốc gia thực hiện.",
+                    "text": "Chuẩn quốc gia phải được định kỳ hiệu chuẩn hoặc so sánh với chuẩn quốc tế hoặc với chuẩn quốc gia của nước ngoài đã được hiệu chuẩn hoặc đã được so sánh với chuẩn quốc tế.",
                     "sub_clauses": []
                 },
                 {
@@ -551,7 +551,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chất chuẩn dùng trực tiếp để kiểm định phương tiện đo quy định tại khoản 2 Điều 16 phải được chứng nhận theo quy định tại khoản 7 Điều 14 của Luật này. CHƯƠNG III PHƯƠNG TIỆN ĐO",
+                    "text": "Chất chuẩn dùng trực tiếp để kiểm định phương tiện đo quy định tại khoản 2 Điều 16 phải được chứng nhận theo quy định tại khoản 7 Điều 14 của Luật này.",
                     "sub_clauses": []
                 }
             ]
@@ -567,7 +567,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Phương tiện đo được sử dụng để định lượng hàng hóa, dịch vụ trong mua bán, thanh toán, bảo đảm an toàn, bảo vệ sức khỏe cộng đồng, bảo vệ môi trường, trong thanh tra, kiểm tra, giám định tư pháp và trong các hoạt động công vụ khác (sau đây gọi là phương tiện đo nhóm 2) thuộc Danh mục phương tiện đo nhóm 2 phải được kiểm soát theo yêu cầu kỹ thuật đo lường do cơ quan quản lý nhà nước về đo lường có thẩm quyền quy định áp dụng. Bộ trưởng Bộ Khoa học và Công nghệ ban hành Danh mục phương tiện đo nhóm 2.",
+                    "text": "Phương tiện đo được sử dụng để định lượng hàng hóa, dịch vụ trong mua bán, thanh toán, bảo đảm an toàn, bảo vệ sức khỏe cộng đồng, bảo vệ môi trường, trong thanh tra, kiểm tra, giám định tư pháp và trong các hoạt động công vụ khác (sau đây gọi là phương tiện đo nhóm 2) thuộc Danh mục phương tiện đo nhóm 2 phải được kiểm soát theo yêu cầu kỹ thuật đo lường do cơ quan quản lý nhà nước về đo lường có thẩm quyền quy định áp dụng.",
                     "sub_clauses": []
                 }
             ]
@@ -657,7 +657,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Bộ trưởng Bộ Khoa học và Công nghệ quy định chi tiết các khoản 2, 3 và 4 của Điều này. CHƯƠNG IV PHÊ DUYỆT MẪU, KIỂM ĐỊNH, HIỆU CHUẨN, THỬ NGHIỆM PHƯƠNG TIỆN ĐO, CHUẨN ĐO LƯỜNG",
+                    "text": "Bộ trưởng Bộ Khoa học và Công nghệ quy định chi tiết các khoản 2, 3 và 4 của Điều này.",
                     "sub_clauses": []
                 }
             ]
@@ -673,7 +673,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc thử nghiệm mẫu phương tiện đo để phê duyệt phải được thực hiện tại tổ chức thử nghiệm được chỉ định. Mẫu phương tiện đo có thể được miễn, giảm thử nghiệm. Bộ trưởng Bộ Khoa học và Công nghệ quy định việc miễn, giảm thử nghiệm mẫu phương tiện đo.",
+                    "text": "Việc thử nghiệm mẫu phương tiện đo để phê duyệt phải được thực hiện tại tổ chức thử nghiệm được chỉ định.",
                     "sub_clauses": []
                 }
             ]
@@ -689,7 +689,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Phương tiện đo nhóm 2 phải được kiểm định ban đầu trước khi đưa vào sử dụng, kiểm định định kỳ trong quá trình sử dụng, kiểm định sau sửa chữa. Một số phương tiện đo nhóm 2 phải được kiểm định định kỳ bằng hình thức kiểm định đối chứng. Việc kiểm định đối chứng được thực hiện bởi tổ chức kiểm định khác thuộc Danh mục tổ chức kiểm định được chỉ định. Bộ trưởng Bộ Khoa học và Công nghệ quy định cụ thể việc kiểm định đối chứng và phương tiện đo nhóm 2 thuộc đối tượng phải được kiểm định đối chứng.",
+                    "text": "Phương tiện đo nhóm 2 phải được kiểm định ban đầu trước khi đưa vào sử dụng, kiểm định định kỳ trong quá trình sử dụng, kiểm định sau sửa chữa.",
                     "sub_clauses": []
                 },
                 {
@@ -841,7 +841,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chi phí kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường phải được xây dựng, niêm yết công khai và theo quy định của pháp luật về giá. CHƯƠNG V PHÉP ĐO, LƯỢNG CỦA HÀNG ĐÓNG GÓI SẴN Mục 1 PHÉP ĐO",
+                    "text": "Chi phí kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường phải được xây dựng, niêm yết công khai và theo quy định của pháp luật về giá.",
                     "sub_clauses": []
                 }
             ]
@@ -924,7 +924,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc thực hiện phép đo phải tuân thủ yêu cầu kỹ thuật đo lường do cơ quan quản lý nhà nước về đo lường có thẩm quyền quy định. Bộ trưởng Bộ Khoa học và Công nghệ quy định chi tiết về phép đo nhóm 2. Mục 2 LƯỢNG CỦA HÀNG ĐÓNG GÓI SẴN",
+                    "text": "Việc thực hiện phép đo phải tuân thủ yêu cầu kỹ thuật đo lường do cơ quan quản lý nhà nước về đo lường có thẩm quyền quy định.",
                     "sub_clauses": []
                 }
             ]
@@ -940,7 +940,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hàng đóng gói sẵn có số lượng lớn lưu thông trên thị trường hoặc có giá trị lớn, có khả năng gây tranh chấp, khiếu kiện về đo lường giữa các bên trong mua bán, thanh toán, gây ảnh hưởng lớn đến sức khỏe, môi trường (sau đây gọi là hàng đóng gói sẵn nhóm 2) thuộc Danh mục hàng đóng gói sẵn nhóm 2 phải được kiểm soát theo yêu cầu kỹ thuật đo lường do cơ quan quản lý nhà nước về đo lường có thẩm quyền quy định. Bộ trưởng Bộ Khoa học và Công nghệ ban hành Danh mục hàng đóng gói sẵn nhóm 2.",
+                    "text": "Hàng đóng gói sẵn có số lượng lớn lưu thông trên thị trường hoặc có giá trị lớn, có khả năng gây tranh chấp, khiếu kiện về đo lường giữa các bên trong mua bán, thanh toán, gây ảnh hưởng lớn đến sức khỏe, môi trường (sau đây gọi là hàng đóng gói sẵn nhóm 2) thuộc Danh mục hàng đóng gói sẵn nhóm 2 phải được kiểm soát theo yêu cầu kỹ thuật đo lường do cơ quan quản lý nhà nước về đo lường có thẩm quyền quy định.",
                     "sub_clauses": []
                 }
             ]
@@ -993,7 +993,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ trưởng Bộ Khoa học và Công nghệ quy định chi tiết yêu cầu kỹ thuật đo lường đối với lượng của hàng đóng gói sẵn nhóm 2; quy định dấu định lượng và việc cấp giấy chứng nhận đủ điều kiện sử dụng dấu định lượng trên nhãn hàng hóa quy định tại khoản 2 Điều này. CHƯƠNG VI QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN TRONG HOẠT ĐỘNG ĐO LƯỜNG",
+                    "text": "Bộ trưởng Bộ Khoa học và Công nghệ quy định chi tiết yêu cầu kỹ thuật đo lường đối với lượng của hàng đóng gói sẵn nhóm 2; quy định dấu định lượng và việc cấp giấy chứng nhận đủ điều kiện sử dụng dấu định lượng trên nhãn hàng hóa quy định tại khoản 2 Điều này.",
                     "sub_clauses": []
                 }
             ]
@@ -1316,7 +1316,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Kiến nghị cơ quan thanh tra, kiểm tra, cơ quan nhà nước có thẩm quyền xử lý, giải quyết vi phạm pháp luật về đo lường. CHƯƠNG VII KIỂM TRA, THANH TRA, XỬ LÝ VI PHẠM PHÁP LUẬT VỀ ĐO LƯỜNG Mục 1 KIỂM TRA NHÀ NƯỚC VỀ ĐO LƯỜNG",
+                    "text": "Kiến nghị cơ quan thanh tra, kiểm tra, cơ quan nhà nước có thẩm quyền xử lý, giải quyết vi phạm pháp luật về đo lường.",
                     "sub_clauses": []
                 }
             ]
@@ -1580,7 +1580,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp phát hiện tổ chức, cá nhân có hành vi vi phạm nghiêm trọng pháp luật về đo lường hoặc sau khi đã yêu cầu thực hiện các biện pháp quy định tại khoản 1 Điều này mà tổ chức, cá nhân đó vẫn tiếp tục vi phạm thì đoàn kiểm tra thực hiện các biện pháp sau đây: Hồ sơ kiểm tra gửi cơ quan có thẩm quyền gồm công văn của cơ quan thực hiện kiểm tra, biên bản kiểm tra của đoàn kiểm tra và các giấy tờ, chứng cứ có liên quan. Hồ sơ kiểm tra là một trong các cơ sở pháp lý để cơ quan nhà nước có thẩm quyền xử lý theo quy định;",
+                    "text": "Trường hợp phát hiện tổ chức, cá nhân có hành vi vi phạm nghiêm trọng pháp luật về đo lường hoặc sau khi đã yêu cầu thực hiện các biện pháp quy định tại khoản 1 Điều này mà tổ chức, cá nhân đó vẫn tiếp tục vi phạm thì đoàn kiểm tra thực hiện các biện pháp sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1628,7 +1628,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này. Mục 2 THANH TRA, XỬ LÝ VI PHẠM PHÁP LUẬT VỀ ĐO LƯỜNG",
+                    "text": "Chính phủ quy định chi tiết Điều này.",
                     "sub_clauses": []
                 }
             ]
@@ -1691,12 +1691,12 @@
                 },
                 {
                     "number": "5",
-                    "text": "Trường hợp vi phạm hành chính về đo lường có số tiền thu lợi bất chính trong suốt quá trình vi phạm lớn hơn mức phạt tiền tối đa trong lĩnh vực đo lường theo quy định của pháp luật về xử lý vi phạm hành chính thì áp dụng hình thức phạt tiền với mức bằng từ 01 đến 05 lần số tiền thu lợi bất chính đó. Số tiền thu lợi bất chính phải bị tịch thu. Cá nhân, tổ chức vi phạm còn có thể bị áp dụng hình thức xử phạt bổ sung, thực hiện biện pháp khắc phục hậu quả và thực hiện các quy định khác của pháp luật về xử lý vi phạm hành chính. Chánh thanh tra Bộ Khoa học và Công nghệ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương có thẩm quyền xử phạt đối với trường hợp vi phạm quy định tại khoản này.",
+                    "text": "Trường hợp vi phạm hành chính về đo lường có số tiền thu lợi bất chính trong suốt quá trình vi phạm lớn hơn mức phạt tiền tối đa trong lĩnh vực đo lường theo quy định của pháp luật về xử lý vi phạm hành chính thì áp dụng hình thức phạt tiền với mức bằng từ 01 đến 05 lần số tiền thu lợi bất chính đó. Số tiền thu lợi bất chính phải bị tịch thu. Cá nhân, tổ chức vi phạm còn có thể bị áp dụng hình thức xử phạt bổ sung, thực hiện biện pháp khắc phục hậu quả và thực hiện các quy định khác của pháp luật về xử lý vi phạm hành chính.",
                     "sub_clauses": []
                 },
                 {
                     "number": "6",
-                    "text": "Chính phủ quy định chi tiết các hành vi vi phạm hành chính về đo lường, mức xử phạt, cách tính số tiền thu lợi bất chính quy định tại Điều này. CHƯƠNG VIII TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ ĐO LƯỜNG",
+                    "text": "Chính phủ quy định chi tiết các hành vi vi phạm hành chính về đo lường, mức xử phạt, cách tính số tiền thu lợi bất chính quy định tại Điều này.",
                     "sub_clauses": []
                 }
             ]
@@ -1848,7 +1848,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Ủy ban nhân dân cấp xã trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm sau đây: CHƯƠNG IX ĐIỀU KHOẢN THI HÀNH",
+                    "text": "Ủy ban nhân dân cấp xã trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",

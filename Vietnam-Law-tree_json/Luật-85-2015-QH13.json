@@ -171,12 +171,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tỉnh, thành phố trực thuộc trung ương được chia thành các đơn vị bầu cử đại biểu Quốc hội. Số đơn vị bầu cử, danh sách các đơn vị bầu cử và số lượng đại biểu Quốc hội được bầu ở mỗi đơn vị bầu cử được tính căn cứ theo số dân, do Hội đồng bầu cử quốc gia ấn định theo đề nghị của Ủy ban bầu cử ở tỉnh, thành phố trực thuộc trung ương và được công bố chậm nhất là 80 ngày trước ngày bầu cử.",
+                    "text": "Tỉnh, thành phố trực thuộc trung ương được chia thành các đơn vị bầu cử đại biểu Quốc hội.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Tỉnh, thành phố trực thuộc trung ương được chia thành các đơn vị bầu cử đại biểu Hội đồng nhân dân cấp tỉnh. Huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương được chia thành các đơn vị bầu cử đại biểu Hội đồng nhân dân cấp huyện. Xã, phường, thị trấn được chia thành các đơn vị bầu cử đại biểu Hội đồng nhân dân cấp xã. Số đơn vị bầu cử đại biểu Hội đồng nhân dân cấp tỉnh, cấp huyện, cấp xã, danh sách các đơn vị bầu cử và số lượng đại biểu được bầu ở mỗi đơn vị bầu cử do Ủy ban bầu cử ở cấp đó ấn định theo đề nghị của Ủy ban nhân dân cùng cấp và được công bố chậm nhất là 80 ngày trước ngày bầu cử.",
+                    "text": "Tỉnh, thành phố trực thuộc trung ương được chia thành các đơn vị bầu cử đại biểu Hội đồng nhân dân cấp tỉnh. Huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương được chia thành các đơn vị bầu cử đại biểu Hội đồng nhân dân cấp huyện. Xã, phường, thị trấn được chia thành các đơn vị bầu cử đại biểu Hội đồng nhân dân cấp xã.",
                     "sub_clauses": []
                 },
                 {
@@ -220,7 +220,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Việc xác định khu vực bỏ phiếu do Ủy ban nhân dân cấp xã quyết định và được Ủy ban nhân dân cấp huyện phê chuẩn. Đối với huyện không có đơn vị hành chính xã, thị trấn thì việc xác định khu vực bỏ phiếu do Ủy ban nhân dân huyện quyết định. CHƯƠNG III HỘI ĐỒNG BẦU CỬ QUỐC GIA VÀ CÁC TỔ CHỨC PHỤ TRÁCH BẦU CỬ Ở ĐỊA PHƯƠNG Mục 1 HỘI ĐỒNG BẦU CỬ QUỐC GIA",
+                    "text": "Việc xác định khu vực bỏ phiếu do Ủy ban nhân dân cấp xã quyết định và được Ủy ban nhân dân cấp huyện phê chuẩn. Đối với huyện không có đơn vị hành chính xã, thị trấn thì việc xác định khu vực bỏ phiếu do Ủy ban nhân dân huyện quyết định.",
                     "sub_clauses": []
                 }
             ]
@@ -494,12 +494,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chậm nhất là 105 ngày trước ngày bầu cử, Ủy ban nhân dân cấp tỉnh sau khi thống nhất với Thường trực Hội đồng nhân dân và Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp quyết định thành lập Ủy ban bầu cử ở tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban bầu cử ở tỉnh) để thực hiện công tác bầu cử đại biểu Quốc hội và tổ chức bầu cử đại biểu Hội đồng nhân dân cấp tỉnh tại tỉnh, thành phố trực thuộc trung ương. Ủy ban bầu cử ở tỉnh có từ hai mươi mốt đến ba mươi mốt thành viên gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là đại diện Thường trực Hội đồng nhân dân, Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp và một số cơ quan, tổ chức hữu quan. Danh sách Ủy ban bầu cử ở tỉnh phải được gửi đến Hội đồng bầu cử quốc gia, Ủy ban thường vụ Quốc hội, Chính phủ, Ban thường trực Ủy ban trung ương Mặt trận Tổ quốc Việt Nam.",
+                    "text": "Chậm nhất là 105 ngày trước ngày bầu cử, Ủy ban nhân dân cấp tỉnh sau khi thống nhất với Thường trực Hội đồng nhân dân và Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp quyết định thành lập Ủy ban bầu cử ở tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban bầu cử ở tỉnh) để thực hiện công tác bầu cử đại biểu Quốc hội và tổ chức bầu cử đại biểu Hội đồng nhân dân cấp tỉnh tại tỉnh, thành phố trực thuộc trung ương.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Chậm nhất là 105 ngày trước ngày bầu cử, Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã sau khi thống nhất với Thường trực Hội đồng nhân dân và Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp quyết định thành lập Ủy ban bầu cử ở huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban bầu cử ở huyện), Ủy ban bầu cử ở xã, phường, thị trấn (sau đây gọi chung là Ủy ban bầu cử ở xã) để tổ chức bầu cử đại biểu Hội đồng nhân dân cấp huyện, cấp xã tương ứng. Ủy ban bầu cử ở huyện có từ mười một đến mười lăm thành viên; Ủy ban bầu cử ở xã có từ chín đến mười một thành viên. Thành viên Ủy ban bầu cử ở huyện, ở xã gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên là đại diện Thường trực Hội đồng nhân dân, Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp và một số cơ quan, tổ chức hữu quan. Danh sách Ủy ban bầu cử ở huyện, Ủy ban bầu cử ở xã phải được gửi đến Thường trực Hội đồng nhân dân, Ủy ban nhân dân và Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp trên trực tiếp.",
+                    "text": "Chậm nhất là 105 ngày trước ngày bầu cử, Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã sau khi thống nhất với Thường trực Hội đồng nhân dân và Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp quyết định thành lập Ủy ban bầu cử ở huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban bầu cử ở huyện), Ủy ban bầu cử ở xã, phường, thị trấn (sau đây gọi chung là Ủy ban bầu cử ở xã) để tổ chức bầu cử đại biểu Hội đồng nhân dân cấp huyện, cấp xã tương ứng.",
                     "sub_clauses": []
                 }
             ]
@@ -637,7 +637,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chậm nhất là 70 ngày trước ngày bầu cử, Ủy ban nhân dân cấp tỉnh, cấp huyện, cấp xã sau khi thống nhất với Thường trực Hội đồng nhân dân và Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp quyết định thành lập ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân cấp mình một Ban bầu cử đại biểu Hội đồng nhân dân gồm đại diện cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội. Thành phần Ban bầu cử đại biểu Hội đồng nhân dân cấp xã có thêm đại diện cử tri ở địa phương. Ban bầu cử đại biểu Hội đồng nhân dân cấp tỉnh có từ mười một đến mười ba thành viên. Ban bầu cử đại biểu Hội đồng nhân dân cấp huyện có từ chín đến mười một thành viên. Ban bầu cử đại biểu Hội đồng nhân dân cấp xã có từ bảy đến chín thành viên. Ban bầu cử gồm Trưởng ban, các Phó Trưởng ban và các Ủy viên.",
+                    "text": "Chậm nhất là 70 ngày trước ngày bầu cử, Ủy ban nhân dân cấp tỉnh, cấp huyện, cấp xã sau khi thống nhất với Thường trực Hội đồng nhân dân và Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp quyết định thành lập ở mỗi đơn vị bầu cử đại biểu Hội đồng nhân dân cấp mình một Ban bầu cử đại biểu Hội đồng nhân dân gồm đại diện cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội. Thành phần Ban bầu cử đại biểu Hội đồng nhân dân cấp xã có thêm đại diện cử tri ở địa phương.",
                     "sub_clauses": []
                 },
                 {
@@ -690,7 +690,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chậm nhất là 50 ngày trước ngày bầu cử, Ủy ban nhân dân cấp xã sau khi thống nhất với Thường trực Hội đồng nhân dân và Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp quyết định thành lập ở mỗi khu vực bỏ phiếu một Tổ bầu cử để thực hiện công tác bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp. Tổ bầu cử có từ mười một đến hai mươi mốt thành viên gồm Tổ trưởng, Thư ký và các Ủy viên là đại diện cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, đại diện cử tri ở địa phương. Đối với huyện không có đơn vị hành chính xã, thị trấn thì Ủy ban nhân dân huyện sau khi thống nhất với Thường trực Hội đồng nhân dân và Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp quyết định thành lập ở mỗi khu vực bỏ phiếu một Tổ bầu cử có từ mười một đến hai mươi mốt thành viên gồm Tổ trưởng, Thư ký và các Ủy viên là đại diện cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, đại diện cử tri ở địa phương. Đơn vị vũ trang nhân dân được xác định là khu vực bỏ phiếu riêng được thành lập một Tổ bầu cử có từ năm đến chín thành viên gồm Tổ trưởng, Thư ký và các Ủy viên là đại diện chỉ huy đơn vị và đại diện quân nhân của đơn vị vũ trang nhân dân đó. Trong trường hợp đơn vị vũ trang nhân dân và địa phương có chung một khu vực bỏ phiếu thì Ủy ban nhân dân cấp xã sau khi thống nhất với Thường trực Hội đồng nhân dân, Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp và chỉ huy đơn vị vũ trang nhân dân quyết định thành lập Tổ bầu cử có từ mười một đến hai mươi mốt thành viên gồm Tổ trưởng, Thư ký và các Ủy viên là đại diện cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, đại diện cử tri ở địa phương, đại diện chỉ huy đơn vị và đại diện quân nhân của đơn vị vũ trang nhân dân đó.",
+                    "text": "Chậm nhất là 50 ngày trước ngày bầu cử, Ủy ban nhân dân cấp xã sau khi thống nhất với Thường trực Hội đồng nhân dân và Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp quyết định thành lập ở mỗi khu vực bỏ phiếu một Tổ bầu cử để thực hiện công tác bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân các cấp. Tổ bầu cử có từ mười một đến hai mươi mốt thành viên gồm Tổ trưởng, Thư ký và các Ủy viên là đại diện cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, đại diện cử tri ở địa phương.",
                     "sub_clauses": []
                 },
                 {
@@ -778,7 +778,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ban bầu cử đại biểu Hội đồng nhân dân, Tổ bầu cử hết nhiệm vụ đối với bầu cử đại biểu Hội đồng nhân dân sau khi Ủy ban bầu cử kết thúc việc tổng kết công tác bầu cử và công bố kết quả bầu cử đại biểu Hội đồng nhân dân. CHƯƠNG IV DANH SÁCH CỬ TRI",
+                    "text": "Ban bầu cử đại biểu Hội đồng nhân dân, Tổ bầu cử hết nhiệm vụ đối với bầu cử đại biểu Hội đồng nhân dân sau khi Ủy ban bầu cử kết thúc việc tổng kết công tác bầu cử và công bố kết quả bầu cử đại biểu Hội đồng nhân dân.",
                     "sub_clauses": []
                 }
             ]
@@ -851,7 +851,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Danh sách cử tri do Ủy ban nhân dân cấp xã lập theo từng khu vực bỏ phiếu. Đối với huyện không có đơn vị hành chính xã, thị trấn thì Ủy ban nhân dân huyện có trách nhiệm lập danh sách cử tri theo từng khu vực bỏ phiếu.",
+                    "text": "Danh sách cử tri do Ủy ban nhân dân cấp xã lập theo từng khu vực bỏ phiếu.",
                     "sub_clauses": []
                 },
                 {
@@ -942,7 +942,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người ứng cử đại biểu Hội đồng nhân dân nộp một bộ hồ sơ ứng cử tại Ủy ban bầu cử ở đơn vị hành chính mà mình ứng cử. Người tự ứng cử, người được giới thiệu ứng cử đại biểu Hội đồng nhân dân của địa phương nào thì phải là người đang cư trú hoặc công tác thường xuyên ở địa phương đó. Sau khi nhận và xem xét hồ sơ của những người tự ứng cử, người được cơ quan, tổ chức, đơn vị giới thiệu ứng cử, nếu thấy hợp lệ theo quy định của Luật này thì Ủy ban bầu cử chuyển danh sách trích ngang lý lịch, bản sao tiểu sử tóm tắt và bản kê khai tài sản, thu nhập của những người ứng cử đến Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp để đưa vào danh sách hiệp thương.",
+                    "text": "Người ứng cử đại biểu Hội đồng nhân dân nộp một bộ hồ sơ ứng cử tại Ủy ban bầu cử ở đơn vị hành chính mà mình ứng cử. Người tự ứng cử, người được giới thiệu ứng cử đại biểu Hội đồng nhân dân của địa phương nào thì phải là người đang cư trú hoặc công tác thường xuyên ở địa phương đó.",
                     "sub_clauses": []
                 },
                 {
@@ -978,7 +978,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Người đang chấp hành biện pháp xử lý hành chính đưa vào cơ sở giáo dục bắt buộc, đưa vào cơ sở cai nghiện bắt buộc hoặc giáo dục tại xã, phường, thị trấn. Mục 2 HIỆP THƯƠNG, GIỚI THIỆU NGƯỜI ỨNG CỬ ĐẠI BIỂU QUỐC HỘI VÀ ĐIỀU CHỈNH CƠ CẤU, THÀNH PHẦN, SỐ LƯỢNG NGƯỜI ĐƯỢC GIỚI THIỆU ỨNG CỬ ĐẠI BIỂU QUỐC HỘI",
+                    "text": "Người đang chấp hành biện pháp xử lý hành chính đưa vào cơ sở giáo dục bắt buộc, đưa vào cơ sở cai nghiện bắt buộc hoặc giáo dục tại xã, phường, thị trấn.",
                     "sub_clauses": []
                 }
             ]
@@ -1140,12 +1140,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hội nghị cử tri ở xã, phường, thị trấn được tổ chức tại thôn, tổ dân phố nơi người ứng cử đại biểu Quốc hội cư trú thường xuyên do Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã phối hợp với Ủy ban nhân dân cùng cấp triệu tập và chủ trì. Người ứng cử đại biểu Quốc hội, đại diện cơ quan, tổ chức, đơn vị đã giới thiệu người ứng cử được mời tham dự hội nghị này.",
+                    "text": "Hội nghị cử tri ở xã, phường, thị trấn được tổ chức tại thôn, tổ dân phố nơi người ứng cử đại biểu Quốc hội cư trú thường xuyên do Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã phối hợp với Ủy ban nhân dân cùng cấp triệu tập và chủ trì.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Hội nghị cử tri ở tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội do ban lãnh đạo tổ chức triệu tập và chủ trì; hội nghị cử tri ở cơ quan nhà nước, tổ chức kinh tế, đơn vị sự nghiệp do người đứng đầu cơ quan, tổ chức, đơn vị phối hợp với ban chấp hành công đoàn cơ quan, tổ chức, đơn vị triệu tập và chủ trì; hội nghị cử tri ở đơn vị vũ trang nhân dân là hội nghị quân nhân do lãnh đạo, chỉ huy đơn vị triệu tập và chủ trì. Người ứng cử đại biểu Quốc hội được mời tham dự hội nghị này.",
+                    "text": "Hội nghị cử tri ở tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội do ban lãnh đạo tổ chức triệu tập và chủ trì; hội nghị cử tri ở cơ quan nhà nước, tổ chức kinh tế, đơn vị sự nghiệp do người đứng đầu cơ quan, tổ chức, đơn vị phối hợp với ban chấp hành công đoàn cơ quan, tổ chức, đơn vị triệu tập và chủ trì; hội nghị cử tri ở đơn vị vũ trang nhân dân là hội nghị quân nhân do lãnh đạo, chỉ huy đơn vị triệu tập và chủ trì.",
                     "sub_clauses": []
                 },
                 {
@@ -1171,7 +1171,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đối với vụ việc ở nơi công tác thì cơ quan, tổ chức, đơn vị trực tiếp quản lý người ứng cử có trách nhiệm xác minh và trả lời bằng văn bản cho Ban thường trực Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh. Trường hợp người ứng cử đại biểu Quốc hội là người đứng đầu cơ quan, tổ chức, đơn vị thì cơ quan, tổ chức, đơn vị cấp trên trực tiếp có trách nhiệm xác minh và trả lời. Nếu cơ quan, tổ chức, đơn vị không có cấp trên trực tiếp quản lý thì cơ quan có thẩm quyền ra quyết định thành lập cơ quan, tổ chức, đơn vị đó có trách nhiệm xác minh và trả lời.",
+                    "text": "Đối với vụ việc ở nơi công tác thì cơ quan, tổ chức, đơn vị trực tiếp quản lý người ứng cử có trách nhiệm xác minh và trả lời bằng văn bản cho Ban thường trực Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh.",
                     "sub_clauses": []
                 },
                 {
@@ -1233,7 +1233,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Biên bản hội nghị hiệp thương phải ghi rõ thành phần, số lượng người tham dự, diễn biến, kết quả hội nghị và được gửi ngay đến Hội đồng bầu cử quốc gia, Ủy ban thường vụ Quốc hội, Ban thường trực Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và Ủy ban bầu cử ở tỉnh. Mục 3 HIỆP THƯƠNG, GIỚI THIỆU NGƯỜI ỨNG CỬ ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN VÀ ĐIỀU CHỈNH CƠ CẤU, THÀNH PHẦN, SỐ LƯỢNG NGƯỜI ĐƯỢC GIỚI THIỆU ỨNG CỬ ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN",
+                    "text": "Biên bản hội nghị hiệp thương phải ghi rõ thành phần, số lượng người tham dự, diễn biến, kết quả hội nghị và được gửi ngay đến Hội đồng bầu cử quốc gia, Ủy ban thường vụ Quốc hội, Ban thường trực Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và Ủy ban bầu cử ở tỉnh.",
                     "sub_clauses": []
                 }
             ]
@@ -1259,7 +1259,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Biên bản hội nghị hiệp thương phải ghi rõ thành phần, số lượng người tham dự, diễn biến, kết quả hội nghị. Biên bản hội nghị hiệp thương ở cấp tỉnh được gửi ngay đến Hội đồng bầu cử quốc gia, Ủy ban thường vụ Quốc hội, Chính phủ, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và Thường trực Hội đồng nhân dân, Ủy ban bầu cử cùng cấp. Biên bản hội nghị hiệp thương ở cấp huyện, cấp xã được gửi ngay đến Thường trực Hội đồng nhân dân, Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam cấp trên trực tiếp và Thường trực Hội đồng nhân dân, Ủy ban bầu cử cùng cấp.",
+                    "text": "Biên bản hội nghị hiệp thương phải ghi rõ thành phần, số lượng người tham dự, diễn biến, kết quả hội nghị.",
                     "sub_clauses": []
                 }
             ]
@@ -1301,7 +1301,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Ban công tác Mặt trận ở thôn, tổ dân phố dự kiến người của thôn, tổ dân phố để giới thiệu ứng cử đại biểu Hội đồng nhân dân cấp xã và phối hợp với trưởng thôn, tổ trưởng tổ dân phố tổ chức hội nghị cử tri để thảo luận, giới thiệu người ứng cử đại biểu Hội đồng nhân dân cấp xã. Việc giới thiệu người ứng cử đại biểu Hội đồng nhân dân cấp xã ở thôn, tổ dân phố do Ủy ban thường vụ Quốc hội hướng dẫn;",
+                    "text": "Ban công tác Mặt trận ở thôn, tổ dân phố dự kiến người của thôn, tổ dân phố để giới thiệu ứng cử đại biểu Hội đồng nhân dân cấp xã và phối hợp với trưởng thôn, tổ trưởng tổ dân phố tổ chức hội nghị cử tri để thảo luận, giới thiệu người ứng cử đại biểu Hội đồng nhân dân cấp xã.",
                     "sub_clauses": []
                 },
                 {
@@ -1311,7 +1311,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Cơ quan, tổ chức, đơn vị giới thiệu người ứng cử đại biểu Hội đồng nhân dân phải chuyển biên bản hội nghị cử tri nơi công tác và biên bản hội nghị lãnh đạo mở rộng của cơ quan, tổ chức, đơn vị mình về việc thảo luận, giới thiệu người ứng cử đại biểu Hội đồng nhân dân đến Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tổ chức hội nghị hiệp thương. Ban công tác Mặt trận chuyển biên bản hội nghị cử tri ở thôn, tổ dân phố về việc thảo luận, giới thiệu người ứng cử đại biểu Hội đồng nhân dân cấp xã đến Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã.",
+                    "text": "Cơ quan, tổ chức, đơn vị giới thiệu người ứng cử đại biểu Hội đồng nhân dân phải chuyển biên bản hội nghị cử tri nơi công tác và biên bản hội nghị lãnh đạo mở rộng của cơ quan, tổ chức, đơn vị mình về việc thảo luận, giới thiệu người ứng cử đại biểu Hội đồng nhân dân đến Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tổ chức hội nghị hiệp thương.",
                     "sub_clauses": []
                 }
             ]
@@ -1332,7 +1332,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Biên bản hội nghị hiệp thương phải ghi rõ thành phần, số lượng người tham dự, diễn biến, kết quả hội nghị. Biên bản hội nghị hiệp thương ở cấp tỉnh được gửi ngay đến Hội đồng bầu cử quốc gia, Ủy ban thường vụ Quốc hội, Chính phủ, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và Thường trực Hội đồng nhân dân, Ủy ban bầu cử cùng cấp. Biên bản hội nghị hiệp thương ở cấp huyện, cấp xã được gửi ngay đến Thường trực Hội đồng nhân dân, Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam cấp trên trực tiếp và Thường trực Hội đồng nhân dân, Ủy ban bầu cử cùng cấp.",
+                    "text": "Biên bản hội nghị hiệp thương phải ghi rõ thành phần, số lượng người tham dự, diễn biến, kết quả hội nghị.",
                     "sub_clauses": []
                 }
             ]
@@ -1379,7 +1379,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đối với vụ việc ở nơi công tác thì cơ quan, tổ chức, đơn vị trực tiếp quản lý người ứng cử đại biểu Hội đồng nhân dân có trách nhiệm xác minh và trả lời bằng văn bản cho Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tổ chức hội nghị hiệp thương. Trường hợp người ứng cử là người đứng đầu cơ quan, tổ chức, đơn vị thì cơ quan, tổ chức, đơn vị cấp trên trực tiếp có trách nhiệm xác minh và trả lời. Nếu cơ quan, tổ chức, đơn vị không có cấp trên trực tiếp quản lý thì cơ quan có thẩm quyền ra quyết định thành lập cơ quan, tổ chức, đơn vị đó có trách nhiệm xác minh và trả lời.",
+                    "text": "Đối với vụ việc ở nơi công tác thì cơ quan, tổ chức, đơn vị trực tiếp quản lý người ứng cử đại biểu Hội đồng nhân dân có trách nhiệm xác minh và trả lời bằng văn bản cho Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tổ chức hội nghị hiệp thương.",
                     "sub_clauses": []
                 },
                 {
@@ -1415,7 +1415,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Biên bản hội nghị hiệp thương lần thứ ba phải ghi rõ thành phần, số lượng người tham dự, diễn biến và kết quả hội nghị. Biên bản hội nghị hiệp thương ở cấp tỉnh được gửi ngay đến Hội đồng bầu cử quốc gia, Ủy ban thường vụ Quốc hội, Chính phủ, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và Thường trực Hội đồng nhân dân, Ủy ban bầu cử cùng cấp. Biên bản hội nghị hiệp thương ở cấp huyện, cấp xã được gửi ngay đến Thường trực Hội đồng nhân dân, Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam cấp trên trực tiếp và Thường trực Hội đồng nhân dân, Ủy ban bầu cử cùng cấp. Mục 4 DANH SÁCH NHỮNG NGƯỜI ỨNG CỬ",
+                    "text": "Biên bản hội nghị hiệp thương lần thứ ba phải ghi rõ thành phần, số lượng người tham dự, diễn biến và kết quả hội nghị.",
                     "sub_clauses": []
                 }
             ]
@@ -1446,7 +1446,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Danh sách chính thức những người ứng cử đại biểu Quốc hội phải ghi rõ họ, tên, ngày, tháng, năm sinh, giới tính, quê quán, nơi thường trú, dân tộc, tôn giáo, trình độ học vấn, chuyên môn, nghề nghiệp, chức vụ, nơi công tác của người ứng cử. Danh sách những người ứng cử đại biểu Quốc hội theo từng đơn vị bầu cử được xếp theo vần chữ cái A, B, C... Người ứng cử đại biểu Quốc hội chỉ được ghi tên vào danh sách ứng cử đại biểu Quốc hội ở một đơn vị bầu cử.",
+                    "text": "Danh sách chính thức những người ứng cử đại biểu Quốc hội phải ghi rõ họ, tên, ngày, tháng, năm sinh, giới tính, quê quán, nơi thường trú, dân tộc, tôn giáo, trình độ học vấn, chuyên môn, nghề nghiệp, chức vụ, nơi công tác của người ứng cử. Danh sách những người ứng cử đại biểu Quốc hội theo từng đơn vị bầu cử được xếp theo vần chữ cái A, B, C...",
                     "sub_clauses": []
                 },
                 {
@@ -1472,7 +1472,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chậm nhất là 25 ngày trước ngày bầu cử, Ủy ban bầu cử phải lập và công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân theo từng đơn vị bầu cử. Việc lập danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân thực hiện theo quy định tại khoản 5 Điều 57 của Luật này.",
+                    "text": "Chậm nhất là 25 ngày trước ngày bầu cử, Ủy ban bầu cử phải lập và công bố danh sách chính thức những người ứng cử đại biểu Hội đồng nhân dân theo từng đơn vị bầu cử.",
                     "sub_clauses": []
                 },
                 {
@@ -1527,7 +1527,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời hạn 10 ngày trước ngày bầu cử, Hội đồng bầu cử quốc gia, Ủy ban bầu cử, Ban bầu cử ngừng việc xem xét, giải quyết mọi khiếu nại, tố cáo, kiến nghị về người ứng cử và việc lập danh sách những người ứng cử. Trong trường hợp những khiếu nại, tố cáo đã rõ ràng, có đủ cơ sở kết luận người ứng cử không đáp ứng đủ tiêu chuẩn của đại biểu Quốc hội, đại biểu Hội đồng nhân dân thì Hội đồng bầu cử quốc gia (đối với bầu cử đại biểu Quốc hội) hoặc Ủy ban bầu cử ở cấp tương ứng (đối với bầu cử đại biểu Hội đồng nhân dân) quyết định xóa tên người đó trong danh sách chính thức những người ứng cử trước ngày bầu cử và thông báo cho cử tri biết.",
+                    "text": "Trong thời hạn 10 ngày trước ngày bầu cử, Hội đồng bầu cử quốc gia, Ủy ban bầu cử, Ban bầu cử ngừng việc xem xét, giải quyết mọi khiếu nại, tố cáo, kiến nghị về người ứng cử và việc lập danh sách những người ứng cử.",
                     "sub_clauses": []
                 },
                 {
@@ -1537,7 +1537,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Hội đồng bầu cử quốc gia, Ủy ban bầu cử ở tỉnh, Ủy ban bầu cử ở huyện, Ủy ban bầu cử ở xã chuyển toàn bộ hồ sơ về khiếu nại, tố cáo chưa được giải quyết đến Ủy ban thường vụ Quốc hội (đối với bầu cử đại biểu Quốc hội) hoặc Thường trực Hội đồng nhân dân khóa mới ở cấp tương ứng (đối với bầu cử đại biểu Hội đồng nhân dân) để tiếp tục xem xét, giải quyết theo thẩm quyền. CHƯƠNG VI TUYÊN TRUYỀN, VẬN ĐỘNG BẦU CỬ",
+                    "text": "Hội đồng bầu cử quốc gia, Ủy ban bầu cử ở tỉnh, Ủy ban bầu cử ở huyện, Ủy ban bầu cử ở xã chuyển toàn bộ hồ sơ về khiếu nại, tố cáo chưa được giải quyết đến Ủy ban thường vụ Quốc hội (đối với bầu cử đại biểu Quốc hội) hoặc Thường trực Hội đồng nhân dân khóa mới ở cấp tương ứng (đối với bầu cử đại biểu Hội đồng nhân dân) để tiếp tục xem xét, giải quyết theo thẩm quyền.",
                     "sub_clauses": []
                 }
             ]
@@ -1621,7 +1621,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh chủ trì phối hợp với Ủy ban nhân dân ở đơn vị bầu cử tổ chức hội nghị tiếp xúc cử tri cho những người ứng cử đại biểu Quốc hội, ứng cử đại biểu Hội đồng nhân dân cấp tỉnh. Thành phần tham dự hội nghị tiếp xúc cử tri gồm đại diện các cơ quan, tổ chức, đơn vị và cử tri ở địa phương. Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp huyện, cấp xã phối hợp với Ủy ban nhân dân cấp xã tại đơn vị bầu cử tổ chức hội nghị tiếp xúc cử tri cho những người ứng cử đại biểu Hội đồng nhân dân cấp mình. Thành phần tham dự hội nghị tiếp xúc cử tri gồm đại diện các cơ quan, tổ chức, đơn vị và cử tri ở địa phương. Ủy ban nhân dân nơi tổ chức hội nghị tiếp xúc cử tri có trách nhiệm thông báo về thời gian, địa điểm tổ chức hội nghị để cử tri tham dự đông đủ.",
+                    "text": "Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh chủ trì phối hợp với Ủy ban nhân dân ở đơn vị bầu cử tổ chức hội nghị tiếp xúc cử tri cho những người ứng cử đại biểu Quốc hội, ứng cử đại biểu Hội đồng nhân dân cấp tỉnh. Thành phần tham dự hội nghị tiếp xúc cử tri gồm đại diện các cơ quan, tổ chức, đơn vị và cử tri ở địa phương.",
                     "sub_clauses": []
                 },
                 {
@@ -1704,7 +1704,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Sử dụng hoặc hứa tặng, cho, ủng hộ tiền, tài sản hoặc lợi ích vật chất để lôi kéo, mua chuộc cử tri. CHƯƠNG VII NGUYÊN TẮC VÀ TRÌNH TỰ BỎ PHIẾU",
+                    "text": "Sử dụng hoặc hứa tặng, cho, ủng hộ tiền, tài sản hoặc lợi ích vật chất để lôi kéo, mua chuộc cử tri.",
                     "sub_clauses": []
                 }
             ]
@@ -1899,7 +1899,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Mỗi loại biên bản quy định tại khoản 1 Điều này được lập thành ba bản, có chữ ký của Tổ trưởng, Thư ký Tổ bầu cử và hai cử tri được mời chứng kiến việc kiểm phiếu. Biên bản được gửi đến Ban bầu cử tương ứng và Ủy ban nhân dân, Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã chậm nhất là 03 ngày sau ngày bầu cử. Mục 2 KẾT QUẢ BẦU CỬ Ở ĐƠN VỊ BẦU CỬ",
+                    "text": "Mỗi loại biên bản quy định tại khoản 1 Điều này được lập thành ba bản, có chữ ký của Tổ trưởng, Thư ký Tổ bầu cử và hai cử tri được mời chứng kiến việc kiểm phiếu. Biên bản được gửi đến Ban bầu cử tương ứng và Ủy ban nhân dân, Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã chậm nhất là 03 ngày sau ngày bầu cử.",
                     "sub_clauses": []
                 }
             ]
@@ -1996,7 +1996,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trường hợp cuối danh sách trúng cử có nhiều người được số phiếu bầu bằng nhau và nhiều hơn số lượng đại biểu được bầu đã ấn định cho đơn vị bầu cử thì người nhiều tuổi hơn là người trúng cử. Mục 3 BẦU CỬ THÊM, BẦU CỬ LẠI",
+                    "text": "Trường hợp cuối danh sách trúng cử có nhiều người được số phiếu bầu bằng nhau và nhiều hơn số lượng đại biểu được bầu đã ấn định cho đơn vị bầu cử thì người nhiều tuổi hơn là người trúng cử.",
                     "sub_clauses": []
                 }
             ]
@@ -2285,12 +2285,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Khiếu nại về kết quả bầu cử đại biểu Quốc hội phải được gửi đến Hội đồng bầu cử quốc gia chậm nhất là 05 ngày kể từ ngày công bố kết quả bầu cử đại biểu Quốc hội. Khiếu nại về kết quả bầu cử đại biểu Hội đồng nhân dân phải được gửi đến Ủy ban bầu cử chậm nhất là 05 ngày kể từ ngày công bố kết quả bầu cử đại biểu Hội đồng nhân dân.",
+                    "text": "Khiếu nại về kết quả bầu cử đại biểu Quốc hội phải được gửi đến Hội đồng bầu cử quốc gia chậm nhất là 05 ngày kể từ ngày công bố kết quả bầu cử đại biểu Quốc hội.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Hội đồng bầu cử quốc gia có trách nhiệm xem xét, giải quyết khiếu nại về kết quả bầu cử đại biểu Quốc hội trong thời hạn 30 ngày kể từ ngày nhận được khiếu nại. Ủy ban bầu cử có trách nhiệm xem xét, giải quyết khiếu nại về kết quả bầu cử đại biểu Hội đồng nhân dân trong thời hạn 20 ngày kể từ ngày nhận được khiếu nại.",
+                    "text": "Hội đồng bầu cử quốc gia có trách nhiệm xem xét, giải quyết khiếu nại về kết quả bầu cử đại biểu Quốc hội trong thời hạn 30 ngày kể từ ngày nhận được khiếu nại.",
                     "sub_clauses": []
                 },
                 {
@@ -2311,7 +2311,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Căn cứ vào kết quả tổng kết bầu cử đại biểu Hội đồng nhân dân, kết quả giải quyết khiếu nại, tố cáo liên quan đến người trúng cử đại biểu Hội đồng nhân dân, Ủy ban bầu cử tiến hành xác nhận tư cách của người trúng cử đại biểu Hội đồng nhân dân cấp mà mình chịu trách nhiệm tổ chức bầu cử, cấp giấy chứng nhận đại biểu Hội đồng nhân dân khóa mới cho người trúng cử và báo cáo Hội đồng nhân dân khóa mới về kết quả xác nhận tư cách đại biểu Hội đồng nhân dân tại kỳ họp đầu tiên. CHƯƠNG IX BẦU CỬ BỔ SUNG ĐẠI BIỂU QUỐC HỘI, ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN",
+                    "text": "Căn cứ vào kết quả tổng kết bầu cử đại biểu Hội đồng nhân dân, kết quả giải quyết khiếu nại, tố cáo liên quan đến người trúng cử đại biểu Hội đồng nhân dân, Ủy ban bầu cử tiến hành xác nhận tư cách của người trúng cử đại biểu Hội đồng nhân dân cấp mà mình chịu trách nhiệm tổ chức bầu cử, cấp giấy chứng nhận đại biểu Hội đồng nhân dân khóa mới cho người trúng cử và báo cáo Hội đồng nhân dân khóa mới về kết quả xác nhận tư cách đại biểu Hội đồng nhân dân tại kỳ họp đầu tiên.",
                     "sub_clauses": []
                 }
             ]
@@ -2357,7 +2357,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Quốc hội thành lập Hội đồng bầu cử bổ sung để tổ chức bầu cử bổ sung đại biểu Quốc hội. Hội đồng bầu cử bổ sung có từ năm đến bảy thành viên gồm Chủ tịch, Phó Chủ tịch và Ủy viên là đại diện Ủy ban thường vụ Quốc hội, Chính phủ, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và một số cơ quan, tổ chức hữu quan. Chậm nhất là 20 ngày trước ngày bầu cử bổ sung, Ủy ban nhân dân cấp tỉnh sau khi thống nhất với Thường trực Hội đồng nhân dân và Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp quyết định thành lập Ban bầu cử bổ sung ở đơn vị bầu cử cần bầu cử bổ sung đại biểu Quốc hội. Ban bầu cử bổ sung có từ ba đến năm thành viên gồm Trưởng ban, Phó Trưởng ban và Ủy viên là đại diện chính quyền địa phương và Ủy ban Mặt trận Tổ quốc Việt Nam ở địa phương.",
+                    "text": "Quốc hội thành lập Hội đồng bầu cử bổ sung để tổ chức bầu cử bổ sung đại biểu Quốc hội. Hội đồng bầu cử bổ sung có từ năm đến bảy thành viên gồm Chủ tịch, Phó Chủ tịch và Ủy viên là đại diện Ủy ban thường vụ Quốc hội, Chính phủ, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và một số cơ quan, tổ chức hữu quan.",
                     "sub_clauses": []
                 },
                 {
@@ -2388,7 +2388,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Việc ứng cử và hồ sơ ứng cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân trong bầu cử bổ sung được thực hiện theo quy định tại Mục 1 Chương V của Luật này. Công dân ứng cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân trong bầu cử bổ sung phải nộp hồ sơ ứng cử chậm nhất là 18 ngày trước ngày bầu cử bổ sung.",
+                    "text": "Việc ứng cử và hồ sơ ứng cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân trong bầu cử bổ sung được thực hiện theo quy định tại Mục 1 Chương V của Luật này.",
                     "sub_clauses": []
                 },
                 {
@@ -2450,7 +2450,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hội đồng bầu cử quốc gia, Chính phủ, Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam trong phạm vi nhiệm vụ, quyền hạn của mình hướng dẫn thi hành Luật này. ---------------------------------------------------------------------------------------------------------------------------------",
+                    "text": "Hội đồng bầu cử quốc gia, Chính phủ, Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam trong phạm vi nhiệm vụ, quyền hạn của mình hướng dẫn thi hành Luật này.",
                     "sub_clauses": []
                 }
             ]

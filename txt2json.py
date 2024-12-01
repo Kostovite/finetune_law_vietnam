@@ -35,32 +35,29 @@ def parse_law_file(file_path):
         if not line:
             continue
 
+        # Capture the header until the body content starts
         if not body_started and not re.match(r"^(Điều\s+\d+|Chương\s+[IVXLCDM]+)", line):
             data["header"].append(line)
             continue
 
+        # Start capturing body content when a "Điều" or "Chương" is detected
         if not body_started and re.match(r"^(Chương\s+[IVXLCDM]+|Điều\s+\d+)", line):
             body_started = True
 
-        if body_started and re.match(r"^(Luật này đã được Quốc hội|CHỦ TỊCH QUỐC HỘI)", line):
-            footer_started = True
-
-        if footer_started:
-            data["footer"].append(line)
-            continue
-
+        # Process body content and clauses
         if re.match(r"^Điều\s+\d+", line):
             if current_dieu:
                 data["content"].append(current_dieu)
             parts = line.split(". ", 1)
             current_dieu = {
                 "id": parts[0],
-                "title": parts[1] if len(parts) > 1 else "",
+                "title": parts[1] if len(parts) > 1 else "Không có tiêu đề",  # If there's no title, assign a placeholder
                 "content": []
             }
             current_clause = None
 
         elif re.match(r"^\d+\.", line):
+            # For numbered clauses
             parts = line.split(". ", 1)
             clause_number = parts[0].strip()
             clause_text = parts[1] if len(parts) > 1 else ""
@@ -74,6 +71,7 @@ def parse_law_file(file_path):
                 current_clause = clause
 
         elif re.match(r"^[a-zđ]\)", line):
+            # For sub-clauses
             parts = line.split(") ", 1)
             sub_clause = {
                 "letter": parts[0],
@@ -82,12 +80,31 @@ def parse_law_file(file_path):
             if current_clause and "sub_clauses" in current_clause:
                 current_clause["sub_clauses"].append(sub_clause)
 
-        elif current_clause and "text" in current_clause:
-            current_clause["text"] += f" {line}"
+        elif current_dieu and line.startswith(current_dieu["id"]):
+            # This line is part of the content for the current "Điều"
+            if current_clause:
+                current_clause["text"] += f" {line}"
+            else:
+                # If no clause is created, we create a dummy clause with "number": "0" to capture the content
+                current_clause = {
+                    "number": "0",
+                    "text": line,
+                    "sub_clauses": []
+                }
+                current_dieu["content"].append(current_clause)
 
+        # Footer starts after the line containing "Luật này đã được..."
+        if not footer_started and "Luật này đã được" in line:
+            footer_started = True
+        
+        if footer_started:
+            data["footer"].append(line)
+
+    # If there's any remaining 'Điều' at the end of the loop, add it to content
     if current_dieu:
         data["content"].append(current_dieu)
 
+    # Ensure footer starts after the last "Điều"
     while data["header"] and re.match(r"^(Chương\s+[IVXLCDM]+|Điều\s+\d+)", data["header"][-1]):
         data["header"].pop()
 

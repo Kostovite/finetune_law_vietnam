@@ -73,7 +73,7 @@
                 },
                 {
                     "number": "10",
-                    "text": "Hệ thống chỉ tiêu thống kê là tập hợp những chỉ tiêu thống kê phản ánh các đặc điểm của hiện tượng kinh tế - xã hội. Hệ thống chỉ tiêu thống kê gồm danh mục và nội dung chỉ tiêu thống kê. Danh mục chỉ tiêu thống kê gồm mã số, nhóm, tên chỉ tiêu. Nội dung chỉ tiêu thống kê gồm khái niệm, phương pháp tính, phân tổ chủ yếu, kỳ công bố, nguồn số liệu của chỉ tiêu thống kê và cơ quan chịu trách nhiệm thu thập, tổng hợp.",
+                    "text": "Hệ thống chỉ tiêu thống kê là tập hợp những chỉ tiêu thống kê phản ánh các đặc điểm của hiện tượng kinh tế - xã hội.",
                     "sub_clauses": []
                 },
                 {
@@ -303,7 +303,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thanh tra chuyên ngành thống kê là hoạt động thanh tra của cơ quan nhà nước có thẩm quyền đối với tổ chức, cá nhân trong việc chấp hành pháp luật về thống kê, quy định về chuyên môn, nghiệp vụ thuộc lĩnh vực thống kê. Cơ quan thống kê trung ương chịu trách nhiệm chỉ đạo, tổ chức thực hiện thanh tra chuyên ngành thống kê trong phạm vi cả nước. Cơ quan thống kê tập trung tại tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cơ quan thống kê cấp tỉnh) chịu trách nhiệm tổ chức thực hiện thanh tra chuyên ngành thống kê tại địa phương.",
+                    "text": "Thanh tra chuyên ngành thống kê là hoạt động thanh tra của cơ quan nhà nước có thẩm quyền đối với tổ chức, cá nhân trong việc chấp hành pháp luật về thống kê, quy định về chuyên môn, nghiệp vụ thuộc lĩnh vực thống kê.",
                     "sub_clauses": []
                 },
                 {
@@ -518,7 +518,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Người đứng đầu cơ quan thống kê cấp tỉnh chịu trách nhiệm quản lý hệ thống thông tin thống kê cấp tỉnh. Người đứng đầu cơ quan quy định tại điểm b khoản 2 Điều này chịu trách nhiệm quản lý thông tin thống kê trong phạm vi ngành, lĩnh vực được phân công phụ trách.",
+                    "text": "Người đứng đầu cơ quan thống kê cấp tỉnh chịu trách nhiệm quản lý hệ thống thông tin thống kê cấp tỉnh.",
                     "sub_clauses": []
                 }
             ]
@@ -543,7 +543,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người đứng đầu cơ quan thống kê cấp huyện chịu trách nhiệm quản lý hệ thống thông tin thống kê cấp huyện. Người đứng đầu cơ quan quy định tại điểm b khoản 1 Điều này chịu trách nhiệm quản lý thông tin thống kê trong phạm vi ngành, lĩnh vực được phân công phụ trách.",
+                    "text": "Người đứng đầu cơ quan thống kê cấp huyện chịu trách nhiệm quản lý hệ thống thông tin thống kê cấp huyện.",
                     "sub_clauses": []
                 }
             ]
@@ -710,7 +710,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chỉ tiêu thống kê bộ, ngành được điều chỉnh, bổ sung phải được cơ quan thống kê trung ương thẩm định về chuyên môn, nghiệp vụ thống kê trước khi ban hành. Việc thẩm định được thực hiện theo quy định tại Điều 20 của Luật này.",
+                    "text": "Chỉ tiêu thống kê bộ, ngành được điều chỉnh, bổ sung phải được cơ quan thống kê trung ương thẩm định về chuyên môn, nghiệp vụ thống kê trước khi ban hành.",
                     "sub_clauses": []
                 }
             ]
@@ -721,7 +721,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hệ thống chỉ tiêu thống kê cấp tỉnh là tập hợp các chỉ tiêu thống kê để hình thành hệ thống thông tin thống kê quốc gia và hệ thống thông tin thống kê cấp tỉnh. Hệ thống chỉ tiêu thống kê cấp huyện là tập hợp các chỉ tiêu thống kê để hình thành hệ thống thông tin thống kê cấp tỉnh và hệ thống thông tin thống kê cấp huyện. Hệ thống chỉ tiêu thống kê cấp xã là tập hợp các chỉ tiêu thống kê để hình thành hệ thống thông tin thống kê cấp huyện.",
+                    "text": "Hệ thống chỉ tiêu thống kê cấp tỉnh là tập hợp các chỉ tiêu thống kê để hình thành hệ thống thông tin thống kê quốc gia và hệ thống thông tin thống kê cấp tỉnh.",
                     "sub_clauses": []
                 },
                 {
@@ -893,7 +893,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Bộ, ngành có trách nhiệm nghiên cứu, giải trình bằng văn bản gửi cơ quan thống kê trung ương, trong đó nêu rõ những nội dung tiếp thu hoặc không tiếp thu ý kiến thẩm định và chỉnh lý, ban hành phân loại thống kê ngành, lĩnh vực. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước chịu trách nhiệm về phân loại thống kê ngành, lĩnh vực do mình ban hành. Chương III THU THẬP THÔNG TIN THỐNG KÊ NHÀ NƯỚC Mục 1. ĐIỀU TRA THỐNG KÊ",
+                    "text": "Bộ, ngành có trách nhiệm nghiên cứu, giải trình bằng văn bản gửi cơ quan thống kê trung ương, trong đó nêu rõ những nội dung tiếp thu hoặc không tiếp thu ý kiến thẩm định và chỉnh lý, ban hành phân loại thống kê ngành, lĩnh vực. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước chịu trách nhiệm về phân loại thống kê ngành, lĩnh vực do mình ban hành.",
                     "sub_clauses": []
                 }
             ]
@@ -920,7 +920,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chương trình điều tra thống kê quốc gia do Thủ tướng Chính phủ quyết định, được tiến hành định kỳ nhằm thu thập thông tin chủ yếu để tổng hợp các chỉ tiêu thống kê thuộc hệ thống chỉ tiêu thống kê quốc gia. Chương trình điều tra thống kê quốc gia gồm tên cuộc điều tra, mục đích, đối tượng, đơn vị, loại điều tra, nội dung điều tra, thời kỳ, thời điểm điều tra và cơ quan chủ trì, cơ quan phối hợp thực hiện.",
+                    "text": "Chương trình điều tra thống kê quốc gia do Thủ tướng Chính phủ quyết định, được tiến hành định kỳ nhằm thu thập thông tin chủ yếu để tổng hợp các chỉ tiêu thống kê thuộc hệ thống chỉ tiêu thống kê quốc gia.",
                     "sub_clauses": []
                 },
                 {
@@ -1241,7 +1241,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Việc báo cáo kết quả điều tra thống kê cho cơ quan thuộc hệ thống tổ chức thống kê tập trung được thực hiện như sau: Mục 2. SỬ DỤNG DỮ LIỆU HÀNH CHÍNH CHO HOẠT ĐỘNG THỐNG KÊ NHÀ NƯỚC",
+                    "text": "Việc báo cáo kết quả điều tra thống kê cho cơ quan thuộc hệ thống tổ chức thống kê tập trung được thực hiện như sau:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1394,7 +1394,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Không được cung cấp cho bên thứ ba dữ liệu, thông tin từ cơ sở dữ liệu hành chính được cung cấp, trừ trường hợp có sự đồng ý của cơ quan quản lý cơ sở dữ liệu đó. Mục 3. CHẾ ĐỘ BÁO CÁO THỐNG KÊ",
+                    "text": "Không được cung cấp cho bên thứ ba dữ liệu, thông tin từ cơ sở dữ liệu hành chính được cung cấp, trừ trường hợp có sự đồng ý của cơ quan quản lý cơ sở dữ liệu đó.",
                     "sub_clauses": []
                 }
             ]
@@ -1552,7 +1552,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan, tổ chức thực hiện chế độ báo cáo thống kê có các nghĩa vụ sau đây: Chương IV PHÂN TÍCH VÀ DỰ BÁO THỐNG KÊ, CÔNG BỐ VÀ PHỔ BIẾN THÔNG TIN THỐNG KÊ NHÀ NƯỚC",
+                    "text": "Cơ quan, tổ chức thực hiện chế độ báo cáo thống kê có các nghĩa vụ sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1753,7 +1753,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết về việc phổ biến thông tin thống kê nhà nước. Chương V NGHIÊN CỨU, ỨNG DỤNG PHƯƠNG PHÁP THỐNG KÊ, CÔNG NGHỆ THÔNG TIN - TRUYỀN THÔNG VÀ HỢP TÁC QUỐC TẾ TRONG HOẠT ĐỘNG THỐNG KÊ NHÀ NƯỚC",
+                    "text": "Chính phủ quy định chi tiết về việc phổ biến thông tin thống kê nhà nước.",
                     "sub_clauses": []
                 }
             ]
@@ -1875,7 +1875,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ trưởng Bộ Kế hoạch và Đầu tư tổ chức, điều phối hoạt động hợp tác quốc tế trong hoạt động thống kê nhà nước. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Chủ tịch Ủy ban nhân dân cấp tỉnh, cấp huyện tổ chức thực hiện hoạt động hợp tác quốc tế về thống kê đối với ngành, lĩnh vực, địa bàn mình quản lý. Chương VI SỬ DỤNG CƠ SỞ DỮ LIỆU THỐNG KÊ VÀ THÔNG TIN THỐNG KÊ NHÀ NƯỚC",
+                    "text": "Bộ trưởng Bộ Kế hoạch và Đầu tư tổ chức, điều phối hoạt động hợp tác quốc tế trong hoạt động thống kê nhà nước. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Chủ tịch Ủy ban nhân dân cấp tỉnh, cấp huyện tổ chức thực hiện hoạt động hợp tác quốc tế về thống kê đối với ngành, lĩnh vực, địa bàn mình quản lý.",
                     "sub_clauses": []
                 }
             ]
@@ -2107,7 +2107,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ trưởng Bộ Kế hoạch và Đầu tư tổ chức, điều phối hoạt động và báo cáo kết quả tham khảo ý kiến người sử dụng thông tin thống kê trong hoạt động thống kê nhà nước. Chương VII TỔ CHỨC THỐNG KÊ NHÀ NƯỚC",
+                    "text": "Bộ trưởng Bộ Kế hoạch và Đầu tư tổ chức, điều phối hoạt động và báo cáo kết quả tham khảo ý kiến người sử dụng thông tin thống kê trong hoạt động thống kê nhà nước.",
                     "sub_clauses": []
                 }
             ]
@@ -2215,7 +2215,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Người làm công tác thống kê phải tuân thủ các quy định của pháp luật về thống kê, thực hiện và chịu trách nhiệm về công việc được phân công. Chương VIII HOẠT ĐỘNG THỐNG KÊ, SỬ DỤNG THÔNG TIN THỐNG KÊ NGOÀI THỐNG KÊ NHÀ NƯỚC",
+                    "text": "Người làm công tác thống kê phải tuân thủ các quy định của pháp luật về thống kê, thực hiện và chịu trách nhiệm về công việc được phân công.",
                     "sub_clauses": []
                 }
             ]
@@ -2286,7 +2286,108 @@
         {
             "id": "Điều 72",
             "title": "Quy định chi tiết",
-            "content": []
+            "content": [
+                {
+                    "number": "01",
+                    "text": "Đất đai, dân số",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "02",
+                    "text": "Lao động, việc làm và bình đẳng giới",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "03",
+                    "text": "Doanh nghiệp, cơ sở kinh tế, hành chính, sự nghiệp",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "04",
+                    "text": "Đầu tư và xây dựng",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "05",
+                    "text": "Tài khoản quốc gia",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "06",
+                    "text": "Tài chính công",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "07",
+                    "text": "Tiền tệ và bảo hiểm",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "08",
+                    "text": "Nông nghiệp, lâm nghiệp và thủy sản",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "09",
+                    "text": "Công nghiệp",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "10",
+                    "text": "Thương mại, dịch vụ",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "11",
+                    "text": "Giá cả",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "12",
+                    "text": "Giao thông vận tải",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "13",
+                    "text": "Công nghệ thông tin và truyền thông",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "14",
+                    "text": "Khoa học và công nghệ",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "15",
+                    "text": "Giáo dục",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "16",
+                    "text": "Y tế và chăm sóc sức khỏe",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "17",
+                    "text": "Văn hóa, thể thao và du lịch",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "18",
+                    "text": "Mức sống dân cư",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "19",
+                    "text": "Trật tự, an toàn xã hội và tư pháp",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "20",
+                    "text": "Bảo vệ môi trường",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": [
