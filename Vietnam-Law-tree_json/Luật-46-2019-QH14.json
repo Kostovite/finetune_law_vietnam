@@ -1,0 +1,2034 @@
+{
+    "header": [
+        "QUỐC HỘI",
+        "---------------",
+        "Luật số: 46/2019/QH14",
+        "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+        "Độc lập - Tự do - Hạnh phúc",
+        "-----------------",
+        "LUẬT",
+        "THƯ VIỆN",
+        "Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;",
+        "Quốc hội ban hành Luật Thư viện."
+    ],
+    "content": [
+        {
+            "id": "Điều 1",
+            "title": "Phạm vi điều chỉnh",
+            "content": []
+        },
+        {
+            "id": "Điều 2",
+            "title": "Đối tượng áp dụng",
+            "content": []
+        },
+        {
+            "id": "Điều 3",
+            "title": "Giải thích từ ngữ",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thư viện là thiết chế văn hóa, thông tin, giáo dục, khoa học thực hiện việc xây dựng, xử lý, lưu giữ, bảo quản, cung cấp tài nguyên thông tin phục vụ nhu cầu của người sử dụng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thư viện số là thư viện hoặc bộ phận của thư viện có tài nguyên thông tin được xử lý, lưu giữ dưới dạng số mà người sử dụng thư viện truy cập, khai thác thông qua thiết bị điện tử và không gian mạng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Tài nguyên thông tin là tập hợp các loạị hình tài liệu, dữ liệu gồm tài liệu in, tài liệu viết tay, tài liệu nghe, nhìn, tài liệu số, tài liệu vi dạng gồm vi phim, vi phiếu, tài liệu đặc biệt cho người khuyết tật và tài liệu, dữ liệu khác.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Tài nguyên thông tin mở là tài nguyên thông tin mà người sử dụng thư viện có thể tiếp cận không có rào cản về tài chính, pháp lý hoặc kỹ thuật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Tiện ích thư viện là trang thiết bị phục vụ nhu cầu của người sử dụng, người làm công tác thư viện trong việc thu thập, xử lý, lưu giữ, bảo quản, khai thác tài nguyên thông tin và phát huy giá trị của thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Dịch vụ thư viện là hoạt động do thư viện tổ chức hoặc phối hợp tổ chức nhằm phục vụ nhu cầu của người sử dụng thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Liên thông thư viện là hoạt động liên kết, hợp tác giữa các thư viện nhằm sử dụng hợp lý, hiệu quả tài nguyên thông tin, tiện ích thư viện, kết quả xử lý tài nguyên thông tin, sản phẩm thông tin thư viện và dịch vụ thư viện.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 4",
+            "title": "Chức năng, nhiệm vụ của thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Xây dựng, xử lý, lưu giữ, bảo quản, kết nối và phát triển tài nguyên thông tin phù hợp với người sử dụng thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tổ chức sử dụng chung tài nguyên thông tin, sản phẩm thông tin và dịch vụ thư viện; truyền bá tri thức, giá trị văn hóa của dân tộc và nhân loại; phục vụ nhu cầu nghiên cứu, học tập, giải trí; góp phần hình thành và phát triển kiến thức, kỹ năng, phẩm chất, năng lực của người sử dụng thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Ứng dụng thành tựu khoa học và công nghệ, hiện đại hóa thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Phát triển văn hóa đọc và góp phần tạo môi trường học tập suốt đời cho Nhân dân, xây dựng xã hội học tập, nâng cao dân trí, xây dựng con người Việt Nam toàn diện.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 5",
+            "title": "Chính sách của Nhà nước về phát triển sự nghiệp thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước đầu tư cho thư viện công lập các nội dung sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Ưu tiên đầu tư cho Thư viện Quốc gia Việt Nam, thư viện công cộng tỉnh, thành phố trực thuộc trung ương (sau đây gọi là thư viện cấp tỉnh) và thư viện có vai trò quan trọng;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Hiện đại hóa thư viện; xây dựng thư viện số, tài nguyên thông tin dùng chung, tài nguyên thông tin mở; liên thông thư viện trong nước và nước ngoài;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Sưu tầm, bảo quản và phát huy giá trị tài liệu cổ, quý hiếm, các bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Tổ chức dịch vụ thư viện lưu động, luân chuyển tài nguyên thông tin phục vụ khu vực biên giới, hải đảo, vùng đồng bào dân tộc thiểu số, vùng có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Đào tạo, bồi dưỡng nâng cao năng lực và phát triển nguồn nhân lực thư viện;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Nghiên cứu, ứng dụng thành tựu khoa học và công nghệ tiên tiến trong hoạt động thư viện."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Nhà nước hỗ trợ đầu tư các nội dung sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Cung cấp dịch vụ sự nghiệp công trong lĩnh vực thư viện, phát triển văn hóa đọc;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Duy trì và phát triển thư viện cộng đồng, thư viện tư nhân có phục vụ cộng đồng không vì mục tiêu lợi nhuận;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Cước vận chuyển tài liệu thư viện phục vụ nhiệm vụ chính trị, khu vực biên giới, hải đảo, vùng có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Hợp tác quốc tế về thư viện."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Nhà nước có chính sách khuyến khích tổ chức, cá nhân tham gia hoạt động quy định tại khoản 1 và khoản 2 Điều này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Chính phủ quy định chi tiết về thư viện có vai trò quan trọng được ưu tiên đầu tư quy định tại điểm a khoản 1 Điều này và tài liệu cổ, quý hiếm, các bộ sưu tập tài liệu có giá trị đặc biệt về lịch sử, văn hóa, khoa học quy định tại điểm c khoản 1 Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 6",
+            "title": "Xã hội hóa trong hoạt động thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Cộng đồng dân cư, tổ chức, cá nhân được tạo điều kiện để đầu tư, tài trợ, viện trợ, tặng cho, đóng góp phát triển sự nghiệp thư viện, văn hóa đọc, xây dựng và phát huy không gian đọc, phòng đọc cơ sở.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Cộng đồng dân cư, tổ chức, cá nhân tham gia hoạt động thư viện được hưởng ưu đãi theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Cộng đồng dân cư, tổ chức, cá nhân đầu tư xây dựng cơ sở vật chất, trang thiết bị cho thư viện; tài trợ, viện trợ, tặng cho, đóng góp để phát triển sự nghiệp thư viện và phát triển văn hóa đọc được ghi nhận và vinh danh theo quy định của pháp luật về thi đua, khen thưởng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Chính phủ quy định chi tiết về không gian đọc, phòng đọc cơ sở quy định tại khoản 1 Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 7",
+            "title": "Tài nguyên thông tin hạn chế sử dụng trong thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tài nguyên thông tin hạn chế sử dụng trong thư viện bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tài nguyên thông tin có nội dung thông tin nếu sử dụng rộng rãi có thể ảnh hưởng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tài nguyên thông tin thuộc bí mật nhà nước, hạn chế sử dụng, tiếp cận có điều kiện, hạn chế quyền tiếp cận theo quy định của pháp luật về bảo vệ bí mật nhà nước, tiếp cận thông tin, lưu trữ;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Bản gốc tài liệu cổ, quý hiếm, tài nguyên thông tin là di sản văn hóa đang lưu giữ trong thư viện;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Bản gốc tài liệu bị hư hỏng."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết về tài nguyên thông tin hạn chế sử dụng trong thư viện quy định tại điểm a khoản 1 Điều này; quy định nguyên tắc sử dụng tài nguyên thông tin hạn chế sử dụng trong thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Cơ quan, tổ chức, cá nhân thành lập thư viện có trách nhiệm xây dựng danh mục tài nguyên thông tin hạn chế sử dụng và việc sử dụng tài nguyên thông tin hạn chế sử dụng trong thư viện.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 8",
+            "title": "Các hành vi bị nghiêm cấm trong hoạt động thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Lợi dụng hoạt động thư viện để xuyên tạc chủ trương, chính sách, pháp luật của Nhà nước, chống lại Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; chia rẽ khối đại đoàn kết toàn dân tộc; kích động bạo lực, gây thù hằn giữa các dân tộc, tôn giáo; tuyên truyền chiến tranh xâm lược; phá hoại thuần phong mỹ tục; truyền bá mê tín; lôi kéo người sử dụng thư viện vào tệ nạn xã hội.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Cung cấp tài nguyên thông tin thuộc bí mật nhà nước, trừ trường hợp pháp luật có quy định khác.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Hạn chế quyền tiếp cận và sử dụng tài nguyên thông tin của người sử dụng thư viện trái với quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Cung cấp thông tin về người sử dụng thư viện, trừ trường hợp theo yêu cầu của cơ quan nhà nước có thẩm quyền.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Chiếm dụng, đánh tráo, hủy hoại, làm hư hỏng tài nguyên thông tin.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Xâm nhập trái phép vào hệ thống thông tin thư viện, cơ sở dữ liệu thư viện; làm sai lệch, gián đoạn hoặc phá hoại hệ thống thông tin thư viện, cơ sở dữ liệu thư viện. Chương II THÀNH LẬP THƯ VIỆN Mục 1 MẠNG LƯỚI THƯ VIỆN",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 9",
+            "title": "Các loại thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thư viện bao gồm các loại sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Thư viện Quốc gia Việt Nam;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Thư viện công cộng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thư viện chuyên ngành;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Thư viện lực lượng vũ trang nhân dân;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Thư viện cơ sở giáo dục đại học (sau đây gọi là thư viện đại học);"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác;"
+                        },
+                        {
+                            "letter": "g",
+                            "text": "Thư viện cộng đồng và thư viện tư nhân có phục vụ cộng đồng;"
+                        },
+                        {
+                            "letter": "h",
+                            "text": "Thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Thư viện được tổ chức theo các mô hình sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Thư viện công lập do Nhà nước đầu tư, bảo đảm điều kiện hoạt động và đại diện chủ sở hữu được tổ chức theo mô hình đơn vị sự nghiệp công lập hoặc phù hợp với mô hình của cơ quan, tổ chức chủ quản;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Thư viện ngoài công lập do tổ chức, cá nhân Việt Nam hoặc tổ chức, cá nhân nước ngoài, cộng đồng dân cư đầu tư, bảo đảm điều kiện hoạt động và được tổ chức theo mô hình doanh nghiệp, tổ chức sự nghiệp ngoài công lập hoặc mô hình khác."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 10",
+            "title": "Thư viện Quốc gia Việt Nam",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thư viện Quốc gia Việt Nam là thư viện trung tâm của cả nước.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thư viện Quốc gia Việt Nam thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tiếp nhận, bảo quản, lưu giữ vĩnh viễn xuất bản phẩm, ấn phẩm báo chí được xuất bản tại Việt Nam theo quy định của pháp luật; luận án tiến sĩ của công dân Việt Nam bảo vệ ở trong nước và nước ngoài; luận án tiến sĩ của người nước ngoài bảo vệ tại Việt Nam;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Bổ sung và phổ biến tài liệu về Việt Nam, tài liệu tiêu biểu của nước ngoài;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Xây dựng hệ thống thông tin thư mục quốc gia; chủ trì, phối hợp với thư viện của các Bộ, ngành và thư viện khác trong nước xây dựng Tổng mục lục Việt Nam; công bố, chia sẻ thông tin thư mục quốc gia, tài nguyên thông tin số cho thư viện có nhu cầu, trừ tài nguyên thông tin hạn chế sử dụng theo quy định của Luật này và pháp luật về bảo vệ bí mật nhà nước, tiếp cận thông tin, lưu trữ;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Nghiên cứu khoa học thông tin thư viện;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Thực hiện biên mục tập trung; chủ trì, phối hợp với các thư viện xây dựng và phát triển cơ sở dữ liệu toàn văn, thư viện số;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Hợp tác, trao đổi tài nguyên thông tin với thư viện trong nước và nước ngoài; tham gia diễn đàn, tổ chức xã hội - nghề nghiệp về thư viện theo quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "g",
+                            "text": "Hướng dẫn chuyên môn, nghiệp vụ cho các thư viện trong cả nước theo phân công và thực hiện nhiệm vụ khác do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch giao."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 11",
+            "title": "Thư viện công cộng",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thư viện công cộng là thư viện có tài nguyên thông tin tổng hợp phục vụ Nhân dân.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thư viện cấp tỉnh là thư viện trung tâm của tỉnh, thành phố trực thuộc trung ương, thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Thu thập tài liệu cổ, quý hiếm; tài nguyên thông tin về tiếng nói, chữ viết của người dân tộc thiểu số; tài nguyên thông tin của địa phương và về địa phương;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Xây dựng cơ sở dữ liệu, thư viện số về địa phương; phổ biến tài nguyên thông tin phục vụ phát triển kinh tế - xã hội địa phương;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Hỗ trợ, hướng dẫn, trang bị kỹ năng tìm kiếm, khai thác và sử dụng thông tin cho người sử dụng thư viện;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Tổ chức khu vực đọc phục vụ trẻ em, người khuyết tật;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Tham gia xây dựng thư viện công cộng huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi là thư viện cấp huyện), thư viện công cộng xã, phường, thị trấn (sau đây gọi là thư viện cấp xã);"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Tổ chức thư viện lưu động, luân chuyển tài nguyên thông tin, tiện ích thư viện;"
+                        },
+                        {
+                            "letter": "g",
+                            "text": "Tổ chức triển lãm và hoạt động khác nhằm phát triển văn hóa đọc;"
+                        },
+                        {
+                            "letter": "h",
+                            "text": "Thực hiện liên thông với thư viện trong nước và nước ngoài;"
+                        },
+                        {
+                            "letter": "i",
+                            "text": "Hướng dẫn chuyên môn, nghiệp vụ cho thư viện trên địa bàn theo phân công và thực hiện nhiệm vụ khác do cơ quan nhà nước có thẩm quyền giao."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Thư viện cấp huyện thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tiếp nhận tài nguyên thông tin, tiện ích thư viện từ thư viện cấp tỉnh;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Luân chuyển tài nguyên thông tin đến thư viện trên địa bàn;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Tổ chức hoạt động phục vụ nhu cầu học tập suốt đời của Nhân dân trên địa bàn;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Thực hiện nhiệm vụ khác do cơ quan nhà nước có thẩm quyền giao."
+                        }
+                    ]
+                },
+                {
+                    "number": "4",
+                    "text": "Thư viện cấp xã thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tiếp nhận tài nguyên thông tin, tiện ích thư viện từ thư viện cấp tỉnh, thư viện cấp huyện và các nguồn hợp pháp khác;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Luân chuyển tài nguyên thông tin đến thư viện cộng đồng, thư viện tư nhân có phục vụ cộng đồng trên địa bàn;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Tham gia xây dựng văn hóa đọc, hình thành thói quen đọc cho Nhân dân trên địa bàn;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Thực hiện nhiệm vụ khác do cơ quan nhà nước có thẩm quyền giao."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 12",
+            "title": "Thư viện chuyên ngành",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thư viện chuyên ngành là thư viện có tài nguyên thông tin chuyên sâu về một ngành, lĩnh vực hoặc nhiều ngành, lĩnh vực phục vụ cán bộ, công chức, viên chức, người lao động của cơ quan, tổ chức chủ quản. Thư viện chuyên ngành gồm thư viện của cơ quan nhà nước; thư viện của tổ chức khoa học và công nghệ; thư viện của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp; thư viện của tổ chức kinh tế.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thư viện chuyên ngành thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Phát triển tài nguyên thông tin phù hợp với chuyên ngành phục vụ; tiếp nhận, bổ sung và tổ chức khai thác tài nguyên thông tin từ hoạt động nghiên cứu, công bố khoa học, tài liệu hội nghị, hội thảo, báo cáo nghiên cứu, khảo sát của cán bộ nghiên cứu, cơ quan, tổ chức chủ quản và đề án, dự án, tạp chí chuyên ngành của cơ quan, tổ chức chủ quản;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Xây dựng cơ sở dữ liệu, thư viện số chuyên ngành nội sinh; bổ sung và mua quyền truy cập tài nguyên thông tin chuyên ngành nước ngoài;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thực hiện liên thông với thư viện trong nước và nước ngoài;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Thực hiện nhiệm vụ khác do cơ quan, tổ chức chủ quản giao."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 13",
+            "title": "Thư viện lực lượng vũ trang nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thư viện lực lượng vũ trang nhân dân là thư viện của các đơn vị Quân đội nhân dân và Công an nhân dân, có tài nguyên thông tin tổng hợp, chuyên ngành quốc phòng, an ninh phục vụ cán bộ, chiến sĩ và Nhân dân trên địa bàn, người đang chấp hành hình phạt tù, học tập, cải tạo trong cơ sở giam giữ, trường giáo dưỡng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thư viện lực lượng vũ trang nhân dân thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Phát triển tài nguyên thông tin phù hợp với yêu cầu nhiệm vụ được giao; tiếp nhận, bổ sung và tổ chức khai thác tài nguyên thông tin chuyên ngành quốc phòng, an ninh trong nước và nước ngoài; tài liệu hội nghị, hội thảo, báo cáo nghiên cứu, khảo sát và đề án, dự án, tạp chí chuyên ngành của lực lượng vũ trang nhân dân theo quy định;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Xây dựng cơ sở dữ liệu, thư viện số chuyên ngành nội sinh; bổ sung và mua quyền truy cập tài nguyên thông tin chuyên ngành quốc phòng, an ninh;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thực hiện liên thông giữa các thư viện trong cùng hệ thống, chia sẻ tài nguyên thông tin với thư viện trong nước và nước ngoài;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Thực hiện nhiệm vụ khác do cơ quan chủ quản giao."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 14",
+            "title": "Thư viện đại học",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thư viện đại học là thư viện có tài nguyên thông tin phục vụ người học và người dạy trong cơ sở giáo dục đại học.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thư viện đại học thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Phát triển tài nguyên thông tin phù hợp với mục tiêu, nội dung, chương trình, lĩnh vực, ngành đào tạo, nghiên cứu khoa học và phát triển công nghệ của cơ sở giáo dục đại học;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tiếp nhận, bổ sung và tổ chức khai thác khóa luận, đồ án, luận văn, luận án, kết quả nghiên cứu khoa học của người học và người dạy trong cơ sở giáo dục đại học; xây dụng tài liệu nội sinh, cơ sở dữ liệu học liệu, tài nguyên học liệu mở;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Tổ chức không gian đọc; hướng dẫn sử dụng sản phẩm thư viện và dịch vụ thư viện; hoàn thiện kỹ năng tìm kiếm, khai thác và sử dụng thông tin; củng cố, mở rộng kiến thức cho người học, người dạy và cán bộ quản lý;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Thực hiện liên thông với thư viện trong nước và nước ngoài;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Thực hiện nhiệm vụ khác do cơ sở giáo dục đại học giao."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 15",
+            "title": "Thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác là thư viện có tài nguyên thông tin phục vụ người học và người dạy học trong cơ sở giáo dục.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thư viện cơ sở giáo dục mầm non thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Phát triển tài nguyên thông tin phù hợp với độ tuổi, tâm lý của trẻ em mầm non; nhu cầu thông tin, tài liệu của người dạy, cán bộ quản lý và chương trình giáo dục của cơ sở giáo dục;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tổ chức hoạt động làm quen với sách và hình thành thói quen đọc của trẻ em mầm non; hướng dẫn sử dụng thư viện, trang bị kỹ năng tìm kiếm, khai thác, sử dụng thông tin cho người dạy và cán bộ quản lý;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thực hiện nhiệm vụ khác do cơ sở giáo dục giao."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Thư viện cơ sở giáo dục phổ thông thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Phát triển tài nguyên thông tin phù hợp với nhu cầu học tập, nghiên cứu của người học, người dạy, cán bộ quản lý và mục tiêu, nội dung, chương trình học tập, giảng dạy của từng cấp học, chương trình học;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tổ chức hoạt động khuyến đọc, hình thành thói quen, kỹ năng đọc của người học; hướng dẫn sử dụng thư viện, trang bị kỹ năng tìm kiếm, khai thác, sử dụng thông tin cho người học, người dạy và cán bộ quản lý;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Hỗ trợ việc học tập, giảng dạy, nghiên cứu và tổ chức các hoạt động giáo dục khác;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Thực hiện nhiệm vụ khác do cơ sở giáo dục giao."
+                        }
+                    ]
+                },
+                {
+                    "number": "4",
+                    "text": "Thư viện cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Phát triển tài nguyên thông tin phù hợp với nhu cầu học tập, nghiên cứu của người học, người dạy, cán bộ quản lý và mục tiêu, nội dung, chương trình đào tạo của cơ sở giáo dục;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tổ chức hoạt động khuyến đọc; hướng dẫn sử dụng thư viện, trang bị kỹ năng tìm kiếm, khai thác, sử dụng thông tin cho người học, người dạy và cán bộ quản lý;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thực hiện nhiệm vụ khác do cơ sở giáo dục giao."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 16",
+            "title": "Thư viện cộng đồng và thư viện tư nhân có phục vụ cộng đồng",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thư viện cộng đồng là thư viện có tài nguyên thông tin tổng hợp do cộng đồng dân cư thành lập tại trung tâm học tập cộng đồng, trung tâm văn hóa, thể thao xã, phường, thị trấn; điểm bưu điện văn hóa xã; nhà văn hóa thôn, ấp, bản, làng, buôn, phum, sóc; khu chung cư; nơi sinh hoạt chung của cộng đồng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thư viện tư nhân có phục vụ cộng đồng là thư viện có tài nguyên thông tin tổng hợp hoặc chuyên ngành do tổ chức, cá nhân Việt Nam thành lập, tự bảo đảm kinh phí hoạt động.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Thư viện cộng đồng và thư viện tư nhân có phục vụ cộng đồng thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Cung cấp tài nguyên thông tin cho Nhân dân trên địa bàn; tiếp nhận tài nguyên thông tin luân chuyển từ thư viện công cộng các cấp để phục vụ Nhân dân;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tổ chức hoạt động thư viện theo nội dung đã thông báo cho cơ quan nhà nước có thẩm quyền;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Xây dựng và tham gia phát triển văn hóa đọc cho Nhân dân trên địa bàn."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 17",
+            "title": "Thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam là thư viện có tài nguyên thông tin tổng hợp, chuyên ngành do tổ chức, cá nhân nước ngoài thành lập tại Việt Nam; tự bảo đảm kinh phí hoạt động; hoạt động theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây: Mục 2 THÀNH LẬP, SÁP NHẬP, HỢP NHẤT, CHIA, TÁCH, GIẢI THỂ THƯ VIỆN",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tổ chức hoạt động thư viện theo nội dung đã thông báo cho cơ quan nhà nước có thẩm quyền;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tham gia phát triển văn hóa đọc."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 18",
+            "title": "Điều kiện thành lập thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thư viện được thành lập khi có đủ các điều kiện sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Mục tiêu, đối tượng phục vụ xác định;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tài nguyên thông tin phù hợp với chức năng, nhiệm vụ, đối tượng phục vụ của thư viện;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Cơ sở vật chất, trang thiết bị bảo đảm phục vụ hoạt động thư viện;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Người làm công tác thư viện có chuyên môn, nghiệp vụ phù hợp với hoạt động thư viện;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Người đại diện theo pháp luật của thư viện có năng lực hành vi dân sự đầy đủ."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Chính phủ quy định chi tiết các điểm a, b, c và d khoản 1 Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 19",
+            "title": "Thành lập thư viện công lập",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Đối với thư viện là đơn vị sự nghiệp công lập, thẩm quyền, trình tự, thủ tục thành lập thư viện thực hiện theo quy định của pháp luật về đơn vị sự nghiệp công lập.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Đối với thư viện không thuộc trường hợp quy định tại khoản 1 Điều này, thẩm quyền, trình tự, thủ tục thành lập thư viện thực hiện theo quy định của pháp luật điều chỉnh việc thành lập cơ quan, tổ chức chủ quản của thư viện.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 20",
+            "title": "Thành lập thư viện ngoài công lập",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tổ chức, cá nhân, cộng đồng dân cư có quyền thành lập thư viện khi đáp ứng đủ các điều kiện quy định tại khoản 1 Điều 18 của Luật này và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Đối với thư viện thành lập theo mô hình doanh nghiệp, việc thành lập thư viện thực hiện theo quy định của Luật này, pháp luật về doanh nghiệp và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 21",
+            "title": "Sáp nhập, hợp nhất, chia, tách, giải thể thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Việc sáp nhập, hợp nhất, chia, tách, giải thể thư viện phải có phương án bảo toàn tài nguyên thông tin được Nhà nước đầu tư, tổ chức, cá nhân tài trợ, viện trợ, tặng cho, đóng góp cho thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Cơ quan, tổ chức, cá nhân thành lập thư viện có quyền quyết định sáp nhập, hợp nhất, chia, tách, giải thể thư viện theo trình tự, thủ tục của pháp luật về đơn vị sự nghiệp công lập, doanh nghiệp hoặc pháp luật điều chỉnh cơ quan, tổ chức chủ quản của thư viện.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 22",
+            "title": "Đình chỉ, chấm dứt hoạt động thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thư viện bị đình chỉ hoạt động có thời hạn trong trường hợp sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Vi phạm quy định tại khoản 1 Điều 8 của Luật này;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Đã bị xử phạt vi phạm hành chính về hoạt động thư viện mà không chấm dứt hành vi vi phạm."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Thư viện chấm dứt hoạt động trong trường hợp sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tự chấm dứt hoạt động;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Bị buộc chấm dứt hoạt động do hết thời hạn bị đình chỉ hoạt động quy định tại khoản 1 Điều này mà không khắc phục hành vi vi phạm."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Thẩm quyền đình chỉ, chấm dứt hoạt động thư viện được quy định như sau:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Cơ quan, tổ chức, cá nhân có thẩm quyền thành lập thư viện có quyền chấm dứt hoạt động thư viện đối với trường hợp quy định tại điểm a khoản 2 Điều này;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tổ chức, cá nhân có thẩm quyền theo quy định của pháp luật về xử lý vi phạm hành chính có thẩm quyền đình chỉ hoạt động thư viện theo quy định của pháp luật, có quyền buộc chấm dứt hoạt động thư viện đối với trường hợp quy định tại điểm b khoản 2 Điều này."
+                        }
+                    ]
+                },
+                {
+                    "number": "4",
+                    "text": "Quyết định đình chỉ, chấm dứt hoạt động thư viện phải nêu rõ lý do và công bố công khai tại trụ sở thư viện. Quyết định đình chỉ hoạt động phải nêu rõ thời hạn đình chỉ. Trong thời hạn bị đình chỉ hoạt động, nếu thư viện khắc phục được vi phạm nêu tại quyết định đình chỉ hoạt động, tổ chức, cá nhân có thẩm quyền đình chỉ hoạt động thư viện quyết định cho phép thư viện hoạt động trở lại.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Chính phủ quy định trình tự, thủ tục đình chỉ, chấm dứt hoạt động thư viện.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 23",
+            "title": "Thông báo việc thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Cơ quan, tổ chức, cá nhân có thẩm quyền thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động thư viện phải thông báo cho cơ quan nhà nước có thẩm quyền quy định tại khoản 5 Điều này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Hồ sơ thông báo bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Bản sao quyết định của cơ quan có thẩm quyền hoặc văn bản thông báo thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động thư viện theo quy định của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tài liệu chứng minh đủ điều kiện thành lập quy định tại khoản 1 Điều 18 của Luật này đối với thư viện cộng đồng, thư viện tư nhân có phục vụ cộng đồng, thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Thời hạn thông báo được quy định như sau:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Trong thời hạn 30 ngày, kể từ ngày ban hành quyết định thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động đối với thư viện công lập;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Trước 30 ngày, tính đến ngày thư viện thực hiện việc mở cửa hoạt động, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động đối với thư viện ngoài công lập."
+                        }
+                    ]
+                },
+                {
+                    "number": "4",
+                    "text": "Trong thời hạn 15 ngày, kể từ ngày nhận đủ hồ sơ thông báo hợp lệ quy định tại khoản 2 Điều này, cơ quan có thẩm quyền phải trả lời bằng văn bản; trường hợp không đồng ý phải nêu rõ lý do. Trong thời hạn 10 ngày, kể từ ngày tiếp nhận thông báo, nếu hồ sơ thông báo không đủ tài liệu quy định tại khoản 2 Điều này, cơ quan có thẩm quyền có trách nhiệm gửi văn bản yêu cầu cơ quan, tổ chức, cá nhân bổ sung hoặc điều chỉnh hồ sơ.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Thẩm quyền tiếp nhận hồ sơ thông báo được quy định như sau: Chương III HOẠT ĐỘNG THƯ VIỆN",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Bộ Văn hóa, Thể thao và Du lịch tiếp nhận hồ sơ thông báo đối với thư viện chuyên ngành ở trung ương, thư viện cấp tỉnh;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Ủy ban nhân dân cấp tỉnh tiếp nhận hồ sơ thông báo đối với thư viện chuyên ngành ở cấp tỉnh, thư viện cấp huyện, thư viện đại học, thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam có trụ sở trên địa bàn;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Ủy ban nhân dân cấp huyện tiếp nhận hồ sơ thông báo đối với thư viện cấp xã; thư viện cơ sở giáo dục mầm non, cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp và cơ sở giáo dục khác; thư viện tư nhân có phục vụ cộng đồng có trụ sở trên địa bàn;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Ủy ban nhân dân cấp xã tiếp nhận hồ sơ thông báo đối với thư viện cộng đồng có trụ sở trên địa bàn."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 24",
+            "title": "Nguyên tắc hoạt động thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Lấy người sử dụng thư viện làm trung tâm; tạo lập môi trường thân thiện, bình đẳng; bảo đảm quyền tiếp cận và sử dụng thư viện của tổ chức, cá nhân.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tài nguyên thông tin được thu thập, xử lý, lưu giữ, bảo quản và phổ biến tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật quốc gia và chuẩn nghiệp vụ liên quan trong lĩnh vực thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Thường xuyên đổi mới sáng tạo về quy trình, sản phẩm thông tin, dịch vụ thư viện trên cơ sở ứng dụng thành tựu khoa học và công nghệ tiên tiến.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Thực hiện liên thông thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Tuân thủ quy định của pháp luật về sở hữu trí tuệ, khoa học và công nghệ, công nghệ thông tin, an ninh mạng và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 25",
+            "title": "Xây dựng tài nguyên thông tin",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Xây dựng tài nguyên thông tin gồm phát triển và thanh lọc tài nguyên thông tin.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Phát triển tài nguyên thông tin được quy định như sau:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Xác định phương thức và nguồn bổ sung tài nguyên thông tin phù hợp với chức năng, nhiệm vụ, đối tượng phục vụ của thư viện; tiếp nhận xuất bản phẩm, ấn phẩm báo chí theo quy định của pháp luật về xuất bản, báo chí và theo chức năng, nhiệm vụ của thư viện được quy định tại Luật này;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Bổ sung, mua tài nguyên thông tin và quyền truy cập cơ sở dữ liệu, tài nguyên thông tin số;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thu thập tài nguyên thông tin mở, tài nguyên thông tin thuộc về công chúng, tài nguyên thông tin trực tuyến có giá trị khác;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Liên thông trao đổi tài nguyên thông tin giữa các thư viện trong nước và nước ngoài; hợp tác trong việc bổ sung, chia sẻ, dùng chung cơ sở dữ liệu hoặc quyền truy cập tài nguyên thông tin số;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Chuyển dạng, số hóa tài nguyên thông tin phục vụ lưu giữ và nghiên cứu theo quy định của pháp luật về sở hữu trí tuệ và quy định khác của pháp luật có liên quan;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Tiếp nhận tài nguyên thông tin do tổ chức, cá nhân trong nước và nước ngoài chuyển giao, tài trợ, viện trợ, tặng cho, đóng góp."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Thanh lọc tài nguyên thông tin được thực hiện theo quy định của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 26",
+            "title": "Xử lý tài nguyên thông tin và tổ chức hệ thống tra cứu thông tin",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Xử lý tài nguyên thông tin được quy định như sau:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tài nguyên thông tin sau khi bổ sung vào thư viện phải được xử lý theo quy trình nghiệp vụ; xây dựng hệ thống tra cứu thông tin để phục vụ việc quản lý, tra cứu và sử dụng;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Thực hiện biên mục sao chép, áp dụng kết quả xử lý tài nguyên thông tin có vai trò quan trọng để bảo đảm chính xác, thống nhất và tiết kiệm."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Tổ chức hệ thống tra cứu thông tin được quy định như sau:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Hệ thống tra cứu thông tin phản ánh toàn bộ tài nguyên thông tin bằng các hình thức mục lục, cơ sở dữ liệu; đăng tải trên cổng thông tin điện tử hoặc trang thông tin điện tử của thư viện;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Bảo đảm lưu trữ an toàn kết quả xử lý tài nguyên thông tin;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Bảo đảm cập nhật, dễ sử dụng;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Bảo đảm liên thông trong tra cứu thông tin giữa các thư viện."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 27",
+            "title": "Bảo quản tài nguyên thông tin",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Bảo quản tài nguyên thông tin được quy định như sau:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Thực hiện đối với toàn bộ tài nguyên thông tin trong quá trình lưu giữ, phục vụ;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Bảo đảm an toàn thông tin phục vụ cho việc quản lý, tra cứu và sử dụng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thực hiện các hình thức bảo quản dự phòng, phục chế hoặc chuyển dạng tài liệu phù hợp với điều kiện của thư viện;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Tài nguyên thông tin số phải được sao lưu định kỳ và có cơ chế khôi phục dữ liệu khi cần thiết; phải được bảo quản bảo đảm tương thích về mặt công nghệ cho định dạng dữ liệu;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Tài nguyên thông tin là di sản văn hóa, tài nguyên thông tin thuộc danh mục bí mật nhà nước phải được bảo quản theo quy định của pháp luật về di sản văn hóa, lưu trữ, bảo vệ bí mật nhà nước."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 28",
+            "title": "Tạo lập, cung cấp sản phẩm thông tin thư viện và dịch vụ thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tạo lập, cung cấp sản phẩm thông tin thư viện và dịch vụ thư viện được quy định như sau:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Bảo đảm khoa học, hiện đại, hiệu quả, phù hợp với chức năng, nhiệm vụ của thư viện và nhu cầu của người sử dụng thư viện;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Bảo đảm sự đa dạng về hình thức, phương thức cung cấp sản phẩm thông tin thư viện và dịch vụ thư viện."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Sản phẩm thông tin thư viện bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Hệ thống tra cứu thông tin, cơ sở dữ liệu thư mục, dữ kiện và toàn văn;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Thư mục, thông tin chuyên đề;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Cổng thông tin điện tử, trang thông tin điện tử;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Sản phẩm thông tin thư viện khác được hình thành trong quá trình xử lý tài nguyên thông tin của thư viện."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Dịch vụ thư viện bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Cung cấp tài nguyên thông tin tại thư viện, ngoài thư viện gồm dịch vụ thư viện lưu động, luân chuyển tài nguyên thông tin hoặc trên không gian mạng;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Cung cấp thông tin thư mục, chỉ dẫn thông tin;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Tư vấn, bồi dưỡng cho tổ chức, cá nhân về chuyên môn, nghiệp vụ thư viện và hỗ trợ học tập, nghiên cứu;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Tổ chức hội nghị, hội thảo, triển lãm, truyền thông, phổ biến tài nguyên thông tin;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Hỗ trợ các tiện ích khai thác thư viện số;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Hình thức dịch vụ thư viện khác."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 29",
+            "title": "Liên thông thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Liên thông thư viện bao gồm các nội dung sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Hợp tác trong việc bổ sung, mua, thu thập tài nguyên thông tin dùng chung và hợp tác trong xây dựng mục lục liên hợp;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Chia sẻ, sử dụng chung tài nguyên thông tin giữa các thư viện; chia sẻ kết quả xử lý tài nguyên thông tin và sản phẩm thông tin thư viện;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Liên kết tổ chức dịch vụ thư viện phục vụ người sử dụng thư viện."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Liên thông thư viện thực hiện theo các phương thức sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Liên thông theo khu vực địa lý;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Liên thông theo nhóm thư viện có chức năng, nhiệm vụ, đối tượng phục vụ tương đồng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Liên thông theo lĩnh vực, nội dung tài nguyên thông tin;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Liên thông giữa các loại thư viện."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Liên thông thư viện thực hiện theo cơ chế sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Thư viện được Nhà nước ưu tiên đầu tư làm nòng cốt trong xây dựng, chia sẻ và khai thác tài nguyên thông tin dùng chung giữa các thư viện;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Hợp tác trong việc bổ sung, mua quyền truy cập và chia sẻ tài nguyên thông tin nước ngoài, sử dụng hiệu quả nguồn kinh phí của Nhà nước và xã hội;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Tài nguyên thông tin được xây dựng từ ngân sách nhà nước phải được liên thông, chia sẻ giữa các thư viện."
+                        }
+                    ]
+                },
+                {
+                    "number": "4",
+                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 30",
+            "title": "Phát triển văn hóa đọc",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Ngày 21 tháng 4 hằng năm là Ngày Sách và Văn hóa đọc Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Phát triển văn hóa đọc thông qua các hoạt động sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tổ chức hoạt động hình thành thói quen đọc trong gia đình, trường học, cơ quan, tổ chức trong phạm vi cả nước;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Hướng dẫn phương pháp, kỹ năng đọc, khai thác tài nguyên thông tin cho trẻ em tại thư viện cơ sở giáo dục mầm non, thư viện cơ sở giáo dục phổ thông;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Phát triển kỹ năng tìm kiếm, khai thác và sử dụng thông tin, mở rộng tri thức cho người sử dụng thư viện;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Đẩy mạnh liên thông giữa thư viện công cộng với thư viện khác trên địa bàn; truy cập và khai thác thông tin, tri thức từ thư viện số dùng chung thông qua thiết bị điện tử; sử dụng dịch vụ thư viện lưu động và luân chuyển tài nguyên thông tin."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 31",
+            "title": "Phát triển thư viện số",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Xây dựng tài nguyên thông tin số trên cơ sở thu thập tài liệu số, số hóa tài liệu của thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Xử lý, lưu giữ, bảo quản tài nguyên thông tin số phải tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật về công nghệ thông tin, chuyên môn, nghiệp vụ thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Sử dụng phần mềm tiên tiến trong quản trị thư viện số, thiết kế giao diện thông minh; bảo đảm tính mở, liên thông trong tra cứu, khai thác và chuyển đổi dữ liệu giữa các hệ thống lưu trữ dữ liệu; hỗ trợ cấp quyền truy cập, khai thác tài nguyên thông tin số cho người sử dụng thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Cung cấp quyền truy cập tài nguyên thông tin số và các dạng khác.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 32",
+            "title": "Hiện đại hóa thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Xây dựng và phát triển cơ sở hạ tầng kỹ thuật hiện đại bảo đảm triển khai, vận hành thư viện số và tự động hóa thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Triển khai phòng đọc kho mở, hệ thống cung cấp tài liệu tự động; hệ thống tự mượn, tự trả tài liệu; hệ thống giám sát, an ninh thư viện tiên tiến; không gian sáng tạo cho người sử dụng thư viện; khu vực phục vụ trẻ em, người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nghiên cứu, ứng dụng hệ thống trí tuệ nhân tạo, Internet vạn vật, hệ thống dữ liệu lớn, điện toán đám mây, truy cập mở, thành tựu khoa học và công nghệ tiên tiến, hiện đại khác phù hợp với xu thế phát triển của thế giới trong hoạt động thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Xây dựng mạng thông tin thư viện tiên tiến, kết nối các thư viện trong nước và nước ngoài.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Tạo lập, cung cấp sản phẩm thông tin thư viện và dịch vụ thư viện hiện đại đáp ứng nhu cầu của người sử dụng thư viện; xây dựng cơ sở dữ liệu, phát triển và khai thác thư viện số; triển khai trang thông tin điện tử, cổng thông tin điện tử và các dịch vụ thư viện trên không gian mạng.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 33",
+            "title": "Truyền thông thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thư viện thực hiện truyền thông các nội dung sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tài nguyên thông tin;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Sản phẩm thông tin thư viện và dịch vụ thư viện;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Tiện ích thư viện;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Nhân lực thư viện;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Nội dung khác liên quan đến thư viện phù hợp với quy định của pháp luật."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Hình thức truyền thông thư viện bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Trưng bày, triển lãm giới thiệu sách, sản phẩm thông tin thư viện và dịch vụ thư viện; giao lưu, tọa đàm, hội nghị, hội thảo, thuyết trình; tổ chức sự kiện văn hóa, giáo dục liên quan đến thư viện;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Xây dựng quan hệ công chúng, hình ảnh của thư viện;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Hình thức khác phù hợp với quy định của pháp luật."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 34",
+            "title": "Phối hợp giữa thư viện với cơ quan, tổ chức",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thư viện phối hợp với cơ quan, tổ chức trong các hoạt động sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Bảo quản tài nguyên thông tin, cơ sở dữ liệu;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Khai thác, chia sẻ, phát huy hiệu quả sử dụng tài nguyên thông tin của thư viện và tư liệu, cơ sở dữ liệu của các cơ quan, tổ chức phối hợp;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Tổ chức các hình thức dịch vụ thư viện phục vụ người sử dụng thư viện và công chúng."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Thư viện phối hợp với cơ quan, tổ chức về thông tin khoa học và công nghệ, lưu trữ nhằm bảo đảm việc sử dụng và bảo quản hiệu quả tài nguyên thông tin, ngân hàng dữ liệu của Nhà nước, doanh nghiệp, cơ quan, tổ chức khác theo chương trình hợp tác, hợp đồng và quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Thư viện phối hợp với cơ quan, tổ chức về văn hóa, du lịch và cơ quan, tổ chức khác nhằm đa dạng hình thức phục vụ và dịch vụ thư viện.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 35",
+            "title": "Nguồn tài chính của thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nguồn ngân sách nhà nước.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Nguồn thu từ dịch vụ thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nguồn tài trợ, viện trợ, tặng cho, đóng góp từ tổ chức, cá nhân trong nước và nước ngoài theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Nguồn thu hợp pháp khác.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 36",
+            "title": "Hợp tác quốc tế về thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Xây dựng và triển khai chương trình, đề án, dự án hợp tác quốc tế.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tham gia các tổ chức, hội, diễn đàn nghề nghiệp, liên thông với thư viện trong nước và nước ngoài.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Tham gia xây dựng, thực hiện, tuyên truyền, phổ biến, giáo dục pháp luật và thông lệ quốc tế về thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Nghiên cứu khoa học, trao đổi tài nguyên thông tin, kinh nghiệm, đào tạo, bồi dưỡng nguồn nhân lực; ứng dụng và chuyển giao công nghệ; quảng bá, xúc tiến, tạo điều kiện cho tổ chức, cá nhân nước ngoài tham gia, hỗ trợ hoạt động thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Hoạt động hợp tác quốc tế khác phù hợp với quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 37",
+            "title": "Đánh giá hoạt động thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Việc đánh giá hoạt động thư viện được thực hiện đối với các loại thư viện nhằm phục vụ công tác quản lý nhà nước về thư viện và nâng cao hiệu quả hoạt động thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Nguyên tắc đánh giá hoạt động thư viện được thực hiện như sau:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Khách quan, chính xác, đúng quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Trung thực, công khai, minh bạch, bình đẳng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Theo định kỳ hằng năm."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Tiêu chí, phương pháp, thủ tục đánh giá hoạt động thư viện được thực hiện theo tiêu chuẩn quốc gia.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Tổ chức thực hiện đánh giá hoạt động thư viện bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Thư viện tự đánh giá;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Cơ quan, tổ chức, cá nhân thành lập thư viện đánh giá;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Cơ quan quản lý nhà nước về thư viện đánh giá."
+                        }
+                    ]
+                },
+                {
+                    "number": "5",
+                    "text": "Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết Điều này. Chương IV QUYỀN, NGHĨA VỤ VÀ TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN TRONG HOẠT ĐỘNG THƯ VIỆN Mục 1 QUYỀN, NGHĨA VỤ VÀ TRÁCH NHIỆM CỦA THƯ VIỆN, NGƯỜI LÀM CÔNG TÁC THƯ VIỆN, NGƯỜI SỬ DỤNG THƯ VIỆN",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 38",
+            "title": "Quyền của thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Xác định nội dung và hình thức hoạt động phù hợp với chức năng, nhiệm vụ của thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Trao đổi tài nguyên thông tin, tham gia hệ thống thông tin thư viện trong nước và nước ngoài theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Từ chối yêu cầu sử dụng tài nguyên thông tin trái với quy định của pháp luật, quy chế, nội quy thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Thu phí, giá từ việc cung cấp dịch vụ thư viện theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Nghiên cứu, ứng dụng thành tựu khoa học và công nghệ tiên tiến, thiết lập cơ sở hạ tầng kỹ thuật đáp ứng yêu cầu hiện đại hóa thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Vận động và tiếp nhận tài trợ, viện trợ, tặng cho, đóng góp cho thư viện theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Mở rộng phục vụ đối tượng người sử dụng thư viện phù hợp với quy định của pháp luật và quy chế thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "8",
+                    "text": "Hợp tác quốc tế về thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "9",
+                    "text": "Xác định hình thức và giá trị bồi thường thiệt hại do người sử dụng thư viện gây ra theo quy định của pháp luật và nội quy thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "10",
+                    "text": "Thư viện Quốc gia Việt Nam, thư viện chuyên ngành của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Văn phòng Quốc hội, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và thư viện cấp tỉnh được lưu giữ tài nguyên thông tin quy định tại điểm a khoản 1 Điều 7 của Luật này để phục vụ hoạt động nghiên cứu.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 39",
+            "title": "Trách nhiệm của thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Bảo đảm thực hiện quyền tiếp cận thông tin và sử dụng dịch vụ thư viện được quy định tại Luật này, quy định khác của pháp luật có liên quan và quy chế, nội quy thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Sử dụng hiệu quả nguồn lực trong thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Tổ chức hoạt động chuyên môn, nghiệp vụ thư viện theo quy định tại Luật này và hoạt động khác phù hợp với chức năng, nhiệm vụ của thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Tổ chức dịch vụ thư viện; bố trí thời gian phục vụ phù hợp với điều kiện sinh hoạt, làm việc, học tập của người sử dụng thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Công bố nội quy, hướng dẫn sử dụng thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Công khai, minh bạch về tài nguyên thông tin và hoạt động của thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Thực hiện chế độ báo cáo định kỳ hằng năm và khi được yêu cầu.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "8",
+                    "text": "Quản lý, lưu giữ và tổ chức phục vụ tài nguyên thông tin hạn chế sử dụng theo quy định của Luật này, quy định khác của pháp luật có liên quan và quy chế, nội quy thư viện.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 40",
+            "title": "Quyền của người làm công tác thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Được học tập, bồi dưỡng nâng cao trình độ chuyên môn, nghiệp vụ, kiến thức quản lý thư viện và kỹ năng sử dụng trang thiết bị, phương tiện, kỹ thuật hiện đại ứng dụng trong hoạt động thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Được tham gia nghiên cứu khoa học, sinh hoạt chuyên môn, nghiệp vụ; tham gia tổ chức xã hội - nghề nghiệp về thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Được hưởng lương; chế độ, chính sách ưu đãi về nghề nghiệp theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 41",
+            "title": "Nghĩa vụ của người làm công tác thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thực hiện quy định của pháp luật về thư viện và quy định khác của pháp luật có liên quan, quy định về chuyên môn, nghiệp vụ, quy chế, nội quy của cơ quan, tổ chức.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tạo điều kiện để người sử dụng thư viện tiếp cận, sử dụng tài nguyên thông tin và tiện ích thư viện; bảo đảm quyền bình đẳng và các quyền khác của người sử dụng thư viện được quy định tại Luật này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Hỗ trợ, hướng dẫn, trang bị kỹ năng tìm kiếm, khai thác và sử dụng thông tin cho người sử dụng thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Học tập để nâng cao năng lực chuyên môn, nghiệp vụ.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Thực hiện quy tắc ứng xử nghề nghiệp thư viện.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 42",
+            "title": "Quyền của người sử dụng thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Được sử dụng thư viện, tiếp cận, sử dụng tài nguyên thông tin và tiện ích thư viện phù hợp với nội quy thư viện, pháp luật về sở hữu trí tuệ, bảo vệ bí mật nhà nước và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Được miễn phí tại thư viện công lập đối với các hoạt động sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Sử dụng tài nguyên thông tin tại thư viện, mượn theo thời hạn quy định trong nội quy thư viện;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tra cứu thông tin trên không gian mạng; tiếp nhận thông tin về tài nguyên thông tin thông qua hệ thống tra cứu hoặc hình thức tiếp nhận thông tin, tra cứu khác;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Được giúp đỡ, tư vấn về tìm kiếm, lựa chọn tài nguyên thông tin phù hợp với yêu cầu;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Hoạt động khác theo quy định."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Được sử dụng dịch vụ thư viện theo danh mục dịch vụ do thư viện cung cấp.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Được hướng dẫn sử dụng thư viện, hỗ trợ, trang bị kỹ năng tìm kiếm, khai thác và sử dụng thông tin.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Được tham gia các hoạt động dành cho người sử dụng thư viện do thư viện tổ chức.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Được lựa chọn thư viện phù hợp với nhu cầu và quy chế, nội quy thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Được khiếu nại, tố cáo về hành vi hạn chế quyền sử dụng thư viện.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 43",
+            "title": "Nghĩa vụ của người sử dụng thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Chấp hành quy định của pháp luật và nội quy thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thanh toán đầy đủ chi phí làm thẻ và sử dụng dịch vụ thư viện theo quy định.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Bảo quản tài nguyên thông tin và tài sản khác của thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Bồi thường thiệt hại theo quy định.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 44",
+            "title": "Quyền của người sử dụng thư viện đặc thù",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Người dân tộc thiểu số được tạo điều kiện sử dụng tài nguyên thông tin bằng tiếng nói, chữ viết của dân tộc mình phù hợp với điều kiện của thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Người sử dụng thư viện là người cao tuổi hoặc người khuyết tật mà không thể tới thư viện được tạo điều kiện sử dụng tài nguyên thông tin tại nhà thông qua dịch vụ thư viện lưu động hoặc gửi qua bưu chính, không gian mạng khi có yêu cầu phù hợp với hoạt động của thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Người khiếm thị, người khiếm thính có quyền sử dụng tài nguyên thông tin theo quy định tại khoản 2 Điều này và được tạo điều kiện sử dụng tài liệu in chữ nổi Braille, tài liệu nghe, nhìn, tài liệu ngôn ngữ ký hiệu hoặc tài liệu đặc biệt khác.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Trẻ em được tạo điều kiện sử dụng tài nguyên thông tin phù hợp với lứa tuổi, cấp học tại thư viện cơ sở giáo dục và thư viện công cộng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Trẻ em, người cao tuổi, thương binh, người khuyết tật, người thuộc hộ nghèo, hộ cận nghèo được miễn các khoản chi phí làm thẻ thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Người đang chấp hành hình phạt tù, học tập, cải tạo tại trại giam, cơ sở giáo dục bắt buộc, trường giáo dưỡng, cơ sở cai nghiện bắt buộc được tạo điều kiện sử dụng tài nguyên thông tin của thư viện tại nơi giam giữ, học tập và chữa bệnh. Mục 2 TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN CÓ LIÊN QUAN",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 45",
+            "title": "Trách nhiệm của cơ quan, tổ chức, cá nhân thành lập thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Bảo đảm cơ sở vật chất, kỹ thuật, kinh phí, nhân sự cho thư viện hoạt động và phát triển theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Quản lý tổ chức và nhân sự thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Ban hành quy chế về tổ chức và hoạt động của thư viện theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Thực hiện chế độ, chính sách ưu đãi về nghề nghiệp cho người làm công tác thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Khuyến khích tổ chức, cá nhân nộp tài liệu học tập, bài giảng, tài liệu tham khảo, khóa luận, đồ án, luận văn, luận án, kết quả nghiên cứu khoa học cho thư viện thuộc cơ sở giáo dục, thư viện thuộc cơ quan, tổ chức nơi học tập, nghiên cứu, công tác.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Vận động cơ quan nhà nước, chính quyền địa phương cung cấp miễn phí cho thư viện tài liệu, xuất bản phẩm, ấn phẩm do cơ quan nhà nước, chính quyền địa phương xuất bản.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Có phương án chuyển giao tài nguyên thông tin và tiện ích thư viện theo quy định của pháp luật về quản lý, sử dụng tài sản công trong trường hợp sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động của thư viện công lập.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "8",
+                    "text": "Kiểm tra, phát hiện, xử lý kịp thời các hành vi vi phạm trong hoạt động thư viện theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "9",
+                    "text": "Thông báo bằng văn bản đến cơ quan nhà nước có thẩm quyền theo quy định tại Điều 23 của Luật này khi thành lập, sáp nhập, hợp nhất, chia, tách, giải thể, chấm dứt hoạt động thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "10",
+                    "text": "Bảo đảm điều kiện về phòng cháy và chữa cháy; bảo vệ môi trường và phòng, chống thiên tai theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "11",
+                    "text": "Bảo đảm thư viện trong cơ sở giáo dục có nguồn tài nguyên thông tin phát triển; gắn hoạt động thư viện với chương trình học phù hợp với chương trình đào tạo của cơ sở giáo dục; phân công lãnh đạo trực tiếp phụ trách thư viện và bố trí người làm công tác thư viện có chuyên môn, nghiệp vụ phù hợp với hoạt động thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "12",
+                    "text": "Tổ chức, cá nhân nước ngoài thành lập thư viện có trách nhiệm tạo điều kiện cho người lao động Việt Nam làm việc tại thư viện được tham gia các tổ chức, đoàn thể và hưởng các quyền khác theo quy định của pháp luật Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 46",
+            "title": "Trách nhiệm của cơ quan, tổ chức, cá nhân trực tiếp quản lý thư viện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Xây dựng, tổ chức thực hiện kế hoạch hoạt động thư viện, phát triển tài nguyên thông tin và phát triển văn hóa đọc.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Sử dụng hiệu quả nguồn lực đầu tư cho thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Tạo điều kiện cho người làm công tác thư viện được bồi dưỡng nâng cao trình độ chuyên môn, nghiệp vụ.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Thực hiện chế độ thống kê, thông tin, báo cáo hoạt động thư viện với cơ quan, tổ chức thành lập thư viện và cơ quan nhà nước có thẩm quyền.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Tổ chức thực hiện liên thông thư viện với phương thức thích hợp.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 47",
+            "title": "Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Cơ quan, tổ chức xuất bản, cơ quan báo chí thực hiện việc nộp xuất bản phẩm, ấn phẩm báo chí cho thư viện theo quy định của pháp luật về xuất bản, báo chí.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Người Việt Nam bảo vệ luận án tiến sĩ ở trong nước, nước ngoài; công dân nước ngoài bảo vệ luận án tiến sĩ tại Việt Nam nộp luận án cho Thư viện Quốc gia Việt Nam theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Người dạy trong cơ sở giáo dục phối hợp với người làm công tác thư viện hướng dẫn người học sử dụng tài nguyên thông tin và tiện ích thư viện trong học tập, nghiên cứu.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Tổ chức xã hội - nghề nghiệp về thư viện được thành lập và hoạt động theo quy định của pháp luật về hội có trách nhiệm sau đây: Chương V TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ THƯ VIỆN",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tham gia phát triển sự nghiệp thư viện;"
+                        },
+                        {
+                            "letter": "a",
+                            "text": "Phối hợp với cơ quan quản lý nhà nước tuyên truyền, phổ biến quy định của pháp luật, chính sách, thành tựu về khoa học thư viện trong nước và nước ngoài;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tư vấn xây dựng tiêu chuẩn về thư viện, chất lượng dịch vụ thư viện và phát triển văn hóa đọc;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Tham gia xây dựng và vận động hội viên thực hiện quy tắc ứng xử nghề nghiệp thư viện."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 48",
+            "title": "Trách nhiệm quản lý nhà nước về thư viện của Chính phủ",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Chính phủ thống nhất quản lý nhà nước về thư viện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Bộ Văn hóa, Thể thao và Du lịch là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về thư viện trong phạm vi cả nước và có trách nhiệm sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành và tổ chức thực hiện chính sách, văn bản quy phạm pháp luật, chiến lược, kế hoạch phát triển thư viện;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Ban hành hoặc trình cơ quan có thẩm quyền ban hành tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia trong hoạt động thư viện; ban hành quy tắc ứng xử nghề nghiệp thư viện;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Chỉ đạo thực hiện liên thông thư viện; chỉ đạo chuyên môn, nghiệp vụ thư viện, bồi dưỡng phát triển nguồn nhân lực thư viện, nghiên cứu, ứng dụng khoa học và công nghệ trong hoạt động thư viện;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Thông tin, tuyên truyền, phổ biến, giáo dục pháp luật về thư viện;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Xây dựng và hướng dẫn hoạt động phát triển văn hóa đọc;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Kiểm tra, thanh tra, xử lý vi phạm, giải quyết khiếu nại, tố cáo trong hoạt động thư viện theo thẩm quyền;"
+                        },
+                        {
+                            "letter": "g",
+                            "text": "Hợp tác quốc tế về thư viện."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 49",
+            "title": "Trách nhiệm quản lý nhà nước về thư viện của Bộ, cơ quan ngang Bộ",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Bộ Quốc phòng, Bộ Công an, trong phạm vi nhiệm vụ, quyền hạn của mình, chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch quản lý tổ chức và hoạt động thư viện lực lượng vũ trang nhân dân.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội, trong phạm vi nhiệm vụ, quyền hạn của mình, chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch tổ chức hoạt động, xây dựng tiêu chuẩn đối với thư viện cơ sở giáo dục; phát triển văn hóa đọc học đường; quản lý công tác đào tạo nhân lực thư viện; quản lý thư viện tại cơ sở cai nghiện bắt buộc.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Bộ Thông tin và Truyền thông chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch và các cơ quan nhà nước có liên quan quản lý hệ thống thông tin, an toàn thông tin mạng trong hoạt động thư viện; chủ trì thực hiện quy định về lưu chiểu.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Bộ Khoa học và Công nghệ chủ trì, phối hợp với Bộ Văn hoá, Thể thao và Du lịch thẩm định, công bố tiêu chuẩn quốc gia, thẩm định quy chuẩn kỹ thuật quốc gia về hoạt động thư viện; chỉ đạo việc phát triển, chia sẻ tài nguyên thông tin về khoa học và công nghệ, đổi mới sáng tạo trong nước và nước ngoài.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Văn hóa, Thể thao và Du lịch thực hiện quản lý nhà nước về thư viện.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 50",
+            "title": "Trách nhiệm quản lý nhà nước về thư viện của Ủy ban nhân dân các cấp",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về thư viện tại địa phương; tổ chức xây dựng, ban hành, thực hiện chính sách, chiến lược, kế hoạch phát triển thư viện, văn hóa đọc tại địa phương.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây: Chương VI ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Ban hành theo thẩm quyền hoặc trình cơ quan nhà nước có thẩm quyền ban hành chính sách hỗ trợ, thu hút xây dựng và phát triển mạng lưới thư viện tại địa phương đáp ứng nhu cầu tiếp cận thông tin, tri thức của Nhân dân địa phương;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Đầu tư phát triển thư viện cấp tỉnh; xây dựng, kiện toàn và củng cố hệ thống thư viện công cộng trên địa bàn; khuyến khích tổ chức, cá nhân thành lập, duy trì thư viện cộng đồng, thư viện tư nhân có phục vụ cộng đồng tại địa phương; quy định việc thư viện cấp tỉnh được tiếp nhận xuất bản phẩm xuất bản tại địa phương phù hợp với quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Chỉ đạo việc hiện đại hóa thư viện, xây dựng cơ chế phối hợp giữa thư viện với cơ quan, tổ chức để phát triển thư viện và văn hóa đọc trên địa bàn;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Chỉ đạo Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã quản lý thư viện công cộng và mạng lưới thư viện trên địa bàn."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 51",
+            "title": "Hiệu lực thi hành",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2020.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Pháp lệnh Thư viện số 31/2000/PL-UBTVQH10 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 52",
+            "title": "Điều khoản chuyển tiếp",
+            "content": []
+        }
+    ],
+    "footer": [
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Nguyễn Thị Kim Ngân"
+    ]
+}

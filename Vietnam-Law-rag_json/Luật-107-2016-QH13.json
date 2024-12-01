@@ -1,0 +1,989 @@
+[
+    {
+        "id": "Điều 2.1",
+        "article": "Điều 2",
+        "clause": "1",
+        "title": "Đối tượng chịu thuế",
+        "text": "Hàng hóa xuất khẩu, nhập khẩu qua cửa khẩu, biên giới Việt Nam."
+    },
+    {
+        "id": "Điều 2.2",
+        "article": "Điều 2",
+        "clause": "2",
+        "title": "Đối tượng chịu thuế",
+        "text": "Hàng hóa xuất khẩu từ thị trường trong nước vào khu phi thuế quan, hàng hóa nhập khẩu từ khu phi thuế quan vào thị trường trong nước."
+    },
+    {
+        "id": "Điều 2.3",
+        "article": "Điều 2",
+        "clause": "3",
+        "title": "Đối tượng chịu thuế",
+        "text": "Hàng hóa xuất khẩu, nhập khẩu tại chỗ và hàng hóa xuất khẩu, nhập khẩu của doanh nghiệp thực hiện quyền xuất khẩu, quyền nhập khẩu, quyền phân phối."
+    },
+    {
+        "id": "Điều 2.4",
+        "article": "Điều 2",
+        "clause": "4",
+        "title": "Đối tượng chịu thuế",
+        "text": "Đối tượng chịu thuế xuất khẩu, thuế nhập khẩu không áp dụng đối với các trường hợp sau:"
+    },
+    {
+        "id": "Điều 2.4a",
+        "article": "Điều 2",
+        "clause": "4a",
+        "title": "Đối tượng chịu thuế",
+        "text": "Hàng hóa quá cảnh, chuyển khẩu, trung chuyển;"
+    },
+    {
+        "id": "Điều 2.4b",
+        "article": "Điều 2",
+        "clause": "4b",
+        "title": "Đối tượng chịu thuế",
+        "text": "Hàng hóa viện trợ nhân đạo, hàng hóa viện trợ không hoàn lại;"
+    },
+    {
+        "id": "Điều 2.4c",
+        "article": "Điều 2",
+        "clause": "4c",
+        "title": "Đối tượng chịu thuế",
+        "text": "Hàng hóa xuất khẩu từ khu phi thuế quan ra nước ngoài; hàng hóa nhập khẩu từ nước ngoài vào khu phi thuế quan và chỉ sử dụng trong khu phi thuế quan; hàng hóa chuyển từ khu phi thuế quan này sang khu phi thuế quan khác;"
+    },
+    {
+        "id": "Điều 2.4d",
+        "article": "Điều 2",
+        "clause": "4d",
+        "title": "Đối tượng chịu thuế",
+        "text": "Phần dầu khí được dùng để trả thuế tài nguyên cho Nhà nước khi xuất khẩu."
+    },
+    {
+        "id": "Điều 2.5",
+        "article": "Điều 2",
+        "clause": "5",
+        "title": "Đối tượng chịu thuế",
+        "text": "Chính phủ quy định chi tiết Điều này."
+    },
+    {
+        "id": "Điều 3.1",
+        "article": "Điều 3",
+        "clause": "1",
+        "title": "Người nộp thuế",
+        "text": "Chủ hàng hóa xuất khẩu, nhập khẩu."
+    },
+    {
+        "id": "Điều 3.2",
+        "article": "Điều 3",
+        "clause": "2",
+        "title": "Người nộp thuế",
+        "text": "Tổ chức nhận ủy thác xuất khẩu, nhập khẩu."
+    },
+    {
+        "id": "Điều 3.3",
+        "article": "Điều 3",
+        "clause": "3",
+        "title": "Người nộp thuế",
+        "text": "Người xuất cảnh, nhập cảnh có hàng hóa xuất khẩu, nhập khẩu, gửi hoặc nhận hàng hóa qua cửa khẩu, biên giới Việt Nam."
+    },
+    {
+        "id": "Điều 3.4",
+        "article": "Điều 3",
+        "clause": "4",
+        "title": "Người nộp thuế",
+        "text": "Người được ủy quyền, bảo lãnh và nộp thuế thay cho người nộp thuế, bao gồm:"
+    },
+    {
+        "id": "Điều 3.4a",
+        "article": "Điều 3",
+        "clause": "4a",
+        "title": "Người nộp thuế",
+        "text": "Đại lý làm thủ tục hải quan trong trường hợp được người nộp thuế ủy quyền nộp thuế xuất khẩu, thuế nhập khẩu;"
+    },
+    {
+        "id": "Điều 3.4b",
+        "article": "Điều 3",
+        "clause": "4b",
+        "title": "Người nộp thuế",
+        "text": "Doanh nghiệp cung cấp dịch vụ bưu chính, dịch vụ chuyển phát nhanh quốc tế trong trường hợp nộp thuế thay cho người nộp thuế;"
+    },
+    {
+        "id": "Điều 3.4c",
+        "article": "Điều 3",
+        "clause": "4c",
+        "title": "Người nộp thuế",
+        "text": "Tổ chức tín dụng hoặc tổ chức khác hoạt động theo quy định của Luật các tổ chức tín dụng trong trường hợp bảo lãnh, nộp thuế thay cho người nộp thuế;"
+    },
+    {
+        "id": "Điều 3.4d",
+        "article": "Điều 3",
+        "clause": "4d",
+        "title": "Người nộp thuế",
+        "text": "Người được chủ hàng hóa ủy quyền trong trường hợp hàng hóa là quà biếu, quà tặng của cá nhân; hành lý gửi trước, gửi sau chuyến đi của người xuất cảnh, nhập cảnh;"
+    },
+    {
+        "id": "Điều 3.4đ",
+        "article": "Điều 3",
+        "clause": "4đ",
+        "title": "Người nộp thuế",
+        "text": "Chi nhánh của doanh nghiệp được ủy quyền nộp thuế thay cho doanh nghiệp;"
+    },
+    {
+        "id": "Điều 3.4e",
+        "article": "Điều 3",
+        "clause": "4e",
+        "title": "Người nộp thuế",
+        "text": "Người khác được ủy quyền nộp thuế thay cho người nộp thuế theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 3.5",
+        "article": "Điều 3",
+        "clause": "5",
+        "title": "Người nộp thuế",
+        "text": "Người thu mua, vận chuyển hàng hóa trong định mức miễn thuế của cư dân biên giới nhưng không sử dụng cho sản xuất, tiêu dùng mà đem bán tại thị trường trong nước và thương nhân nước ngoài được phép kinh doanh hàng hóa xuất khẩu, nhập khẩu ở chợ biên giới theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 3.6",
+        "article": "Điều 3",
+        "clause": "6",
+        "title": "Người nộp thuế",
+        "text": "Người có hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng không chịu thuế, miễn thuế nhưng sau đó có sự thay đổi và chuyển sang đối tượng chịu thuế theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 3.7",
+        "article": "Điều 3",
+        "clause": "7",
+        "title": "Người nộp thuế",
+        "text": "Trường hợp khác theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 4.1",
+        "article": "Điều 4",
+        "clause": "1",
+        "title": "Giải thích từ ngữ",
+        "text": "Khu phi thuế quan là khu vực kinh tế nằm trong lãnh thổ Việt Nam, được thành lập theo quy định của pháp luật, có ranh giới địa lý xác định, ngăn cách với khu vực bên ngoài bằng hàng rào cứng, bảo đảm điều kiện cho hoạt động kiểm tra, giám sát, kiểm soát hải quan của cơ quan hải quan và các cơ quan có liên quan đối với hàng hóa xuất khẩu, nhập khẩu và phương tiện, hành khách xuất cảnh, nhập cảnh; quan hệ mua bán, trao đổi hàng hóa giữa khu phi thuế quan với bên ngoài là quan hệ xuất khẩu, nhập khẩu."
+    },
+    {
+        "id": "Điều 4.2",
+        "article": "Điều 4",
+        "clause": "2",
+        "title": "Giải thích từ ngữ",
+        "text": "Phương pháp tính thuế hỗn hợp là việc áp dụng đồng thời phương pháp tính thuế theo tỷ lệ phần trăm và phương pháp tính thuế tuyệt đối."
+    },
+    {
+        "id": "Điều 4.3",
+        "article": "Điều 4",
+        "clause": "3",
+        "title": "Giải thích từ ngữ",
+        "text": "Phương pháp tính thuế theo tỷ lệ phần trăm là việc xác định thuế theo phần trăm (%) của trị giá tính thuế hàng hóa xuất khẩu, nhập khẩu."
+    },
+    {
+        "id": "Điều 4.4",
+        "article": "Điều 4",
+        "clause": "4",
+        "title": "Giải thích từ ngữ",
+        "text": "Phương pháp tính thuế tuyệt đối là việc ấn định số tiền thuế nhất định trên một đơn vị hàng hóa xuất khẩu, nhập khẩu."
+    },
+    {
+        "id": "Điều 4.5",
+        "article": "Điều 4",
+        "clause": "5",
+        "title": "Giải thích từ ngữ",
+        "text": "Thuế chống bán phá giá là thuế nhập khẩu bổ sung được áp dụng trong trường hợp hàng hóa bán phá giá nhập khẩu vào Việt Nam gây ra hoặc đe dọa gây ra thiệt hại đáng kể cho ngành sản xuất trong nước hoặc ngăn cản sự hình thành của ngành sản xuất trong nước."
+    },
+    {
+        "id": "Điều 4.6",
+        "article": "Điều 4",
+        "clause": "6",
+        "title": "Giải thích từ ngữ",
+        "text": "Thuế chống trợ cấp là thuế nhập khẩu bổ sung được áp dụng trong trường hợp hàng hóa được trợ cấp nhập khẩu vào Việt Nam gây ra hoặc đe dọa gây ra thiệt hại đáng kể cho ngành sản xuất trong nước hoặc ngăn cản sự hình thành của ngành sản xuất trong nước."
+    },
+    {
+        "id": "Điều 4.7",
+        "article": "Điều 4",
+        "clause": "7",
+        "title": "Giải thích từ ngữ",
+        "text": "Thuế tự vệ là thuế nhập khẩu bổ sung được áp dụng trong trường hợp nhập khẩu hàng hóa quá mức vào Việt Nam gây thiệt hại nghiêm trọng hoặc đe dọa gây ra thiệt hại nghiêm trọng cho ngành sản xuất trong nước hoặc ngăn cản sự hình thành của ngành sản xuất trong nước. Chương II CĂN CỨ TÍNH THUẾ, THỜI ĐIỂM TÍNH THUẾ VÀ BIỂU THUẾ"
+    },
+    {
+        "id": "Điều 5.1",
+        "article": "Điều 5",
+        "clause": "1",
+        "title": "Căn cứ tính thuế xuất khẩu, thuế nhập khẩu đối với hàng hóa áp dụng phương pháp tính thuế theo tỷ lệ phần trăm",
+        "text": "Số tiền thuế xuất khẩu, thuế nhập khẩu được xác định căn cứ vào trị giá tính thuế và thuế suất theo tỷ lệ phần trăm (%) của từng mặt hàng tại thời điểm tính thuế."
+    },
+    {
+        "id": "Điều 5.2",
+        "article": "Điều 5",
+        "clause": "2",
+        "title": "Căn cứ tính thuế xuất khẩu, thuế nhập khẩu đối với hàng hóa áp dụng phương pháp tính thuế theo tỷ lệ phần trăm",
+        "text": "Thuế suất đối với hàng hóa xuất khẩu được quy định cụ thể cho từng mặt hàng tại biểu thuế xuất khẩu. Trường hợp hàng hóa xuất khẩu sang nước, nhóm nước hoặc vùng lãnh thổ có thỏa thuận ưu đãi về thuế xuất khẩu trong quan hệ thương mại với Việt Nam thì thực hiện theo các thỏa thuận này."
+    },
+    {
+        "id": "Điều 5.3",
+        "article": "Điều 5",
+        "clause": "3",
+        "title": "Căn cứ tính thuế xuất khẩu, thuế nhập khẩu đối với hàng hóa áp dụng phương pháp tính thuế theo tỷ lệ phần trăm",
+        "text": "Thuế suất đối với hàng hóa nhập khẩu gồm thuế suất ưu đãi, thuế suất ưu đãi đặc biệt, thuế suất thông thường và được áp dụng như sau:"
+    },
+    {
+        "id": "Điều 5.3a",
+        "article": "Điều 5",
+        "clause": "3a",
+        "title": "Căn cứ tính thuế xuất khẩu, thuế nhập khẩu đối với hàng hóa áp dụng phương pháp tính thuế theo tỷ lệ phần trăm",
+        "text": "Thuế suất ưu đãi áp dụng đối với hàng hóa nhập khẩu có xuất xứ từ nước, nhóm nước hoặc vùng lãnh thổ thực hiện đối xử tối huệ quốc trong quan hệ thương mại với Việt Nam; hàng hóa từ khu phi thuế quan nhập khẩu vào thị trường trong nước đáp ứng điều kiện xuất xứ từ nước, nhóm nước hoặc vùng lãnh thổ thực hiện đối xử tối huệ quốc trong quan hệ thương mại với Việt Nam;"
+    },
+    {
+        "id": "Điều 5.3b",
+        "article": "Điều 5",
+        "clause": "3b",
+        "title": "Căn cứ tính thuế xuất khẩu, thuế nhập khẩu đối với hàng hóa áp dụng phương pháp tính thuế theo tỷ lệ phần trăm",
+        "text": "Thuế suất ưu đãi đặc biệt áp dụng đối với hàng hóa nhập khẩu có xuất xứ từ nước, nhóm nước hoặc vùng lãnh thổ có thỏa thuận ưu đãi đặc biệt về thuế nhập khẩu trong quan hệ thương mại với Việt Nam; hàng hóa từ khu phi thuế quan nhập khẩu vào thị trường trong nước đáp ứng điều kiện xuất xứ từ nước, nhóm nước hoặc vùng lãnh thổ có thỏa thuận ưu đãi đặc biệt về thuế nhập khẩu trong quan hệ thương mại với Việt Nam;"
+    },
+    {
+        "id": "Điều 5.3c",
+        "article": "Điều 5",
+        "clause": "3c",
+        "title": "Căn cứ tính thuế xuất khẩu, thuế nhập khẩu đối với hàng hóa áp dụng phương pháp tính thuế theo tỷ lệ phần trăm",
+        "text": "Thuế suất thông thường áp dụng đối với hàng hóa nhập khẩu không thuộc các trường hợp quy định tại điểm a và điểm b khoản này. Thuế suất thông thường được quy định bằng 150% thuế suất ưu đãi của từng mặt hàng tương ứng. Trường hợp mức thuế suất ưu đãi bằng 0%, Thủ tướng Chính phủ căn cứ quy định tại Điều 10 của Luật này để quyết định việc áp dụng mức thuế suất thông thường."
+    },
+    {
+        "id": "Điều 6.1",
+        "article": "Điều 6",
+        "clause": "1",
+        "title": "Căn cứ tính thuế xuất khẩu, thuế nhập khẩu đối với hàng hóa áp dụng phương pháp tính thuế tuyệt đối, phương pháp tính thuế hỗn hợp",
+        "text": "Số tiền thuế áp dụng phương pháp tính thuế tuyệt đối đối với hàng hóa xuất khẩu, nhập khẩu được xác định căn cứ vào lượng hàng hóa thực tế xuất khẩu, nhập khẩu và mức thuế tuyệt đối quy định trên một đơn vị hàng hóa tại thời điểm tính thuế."
+    },
+    {
+        "id": "Điều 6.2",
+        "article": "Điều 6",
+        "clause": "2",
+        "title": "Căn cứ tính thuế xuất khẩu, thuế nhập khẩu đối với hàng hóa áp dụng phương pháp tính thuế tuyệt đối, phương pháp tính thuế hỗn hợp",
+        "text": "Số tiền thuế áp dụng phương pháp tính thuế hỗn hợp đối với hàng hóa xuất khẩu, nhập khẩu được xác định là tổng số tiền thuế theo tỷ lệ phần trăm và số tiền thuế tuyệt đối theo quy định tại khoản 1 Điều 5 và khoản 1 Điều 6 của Luật này."
+    },
+    {
+        "id": "Điều 7.1",
+        "article": "Điều 7",
+        "clause": "1",
+        "title": "Thuế đối với hàng hóa nhập khẩu áp dụng hạn ngạch thuế quan",
+        "text": "Hàng hóa nhập khẩu trong hạn ngạch thuế quan áp dụng thuế suất, mức thuế tuyệt đối theo quy định tại khoản 3 Điều 5 và Điều 6 của Luật này."
+    },
+    {
+        "id": "Điều 7.2",
+        "article": "Điều 7",
+        "clause": "2",
+        "title": "Thuế đối với hàng hóa nhập khẩu áp dụng hạn ngạch thuế quan",
+        "text": "Hàng hóa nhập khẩu ngoài hạn ngạch thuế quan áp dụng thuế suất, mức thuế tuyệt đối ngoài hạn ngạch do cơ quan có thẩm quyền tại khoản 1 Điều 11 của Luật này quy định."
+    },
+    {
+        "id": "Điều 8.1",
+        "article": "Điều 8",
+        "clause": "1",
+        "title": "Trị giá tính thuế, thời điểm tính thuế",
+        "text": "Trị giá tính thuế xuất khẩu, thuế nhập khẩu là trị giá hải quan theo quy định của Luật hải quan."
+    },
+    {
+        "id": "Điều 8.2",
+        "article": "Điều 8",
+        "clause": "2",
+        "title": "Trị giá tính thuế, thời điểm tính thuế",
+        "text": "Thời điểm tính thuế xuất khẩu, thuế nhập khẩu là thời điểm đăng ký tờ khai hải quan. Đối với hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng không chịu thuế, miễn thuế xuất khẩu, thuế nhập khẩu hoặc áp dụng thuế suất, mức thuế tuyệt đối trong hạn ngạch thuế quan nhưng được thay đổi về đối tượng không chịu thuế, miễn thuế, áp dụng thuế suất, mức thuế tuyệt đối trong hạn ngạch thuế quan theo quy định của pháp luật thì thời điểm tính thuế là thời điểm đăng ký tờ khai hải quan mới. Thời điểm đăng ký tờ khai hải quan thực hiện theo quy định của pháp luật về hải quan."
+    },
+    {
+        "id": "Điều 9.1",
+        "article": "Điều 9",
+        "clause": "1",
+        "title": "Thời hạn nộp thuế",
+        "text": "Hàng hóa xuất khẩu, nhập khẩu thuộc đối tượng chịu thuế phải nộp thuế trước khi thông quan hoặc giải phóng hàng hóa theo quy định của Luật hải quan, trừ trường hợp quy định tại khoản 2 Điều này. Trường hợp được tổ chức tín dụng bảo lãnh số thuế phải nộp thì được thông quan hoặc giải phóng hàng hóa nhưng phải nộp tiền chậm nộp theo quy định của Luật quản lý thuế kể từ ngày được thông quan hoặc giải phóng hàng hóa đến ngày nộp thuế. Thời hạn bảo lãnh tối đa là 30 ngày, kể từ ngày đăng ký tờ khai hải quan. Trường hợp đã được tổ chức tín dụng bảo lãnh nhưng hết thời hạn bảo lãnh mà người nộp thuế chưa nộp thuế và tiền chậm nộp thì tổ chức bảo lãnh có trách nhiệm nộp đủ thuế và tiền chậm nộp thay cho người nộp thuế."
+    },
+    {
+        "id": "Điều 9.2",
+        "article": "Điều 9",
+        "clause": "2",
+        "title": "Thời hạn nộp thuế",
+        "text": "Người nộp thuế được áp dụng chế độ ưu tiên theo quy định của Luật hải quan được thực hiện nộp thuế cho các tờ khai hải quan đã thông quan hoặc giải phóng hàng hóa trong tháng chậm nhất vào ngày thứ mười của tháng kế tiếp. Quá thời hạn này mà người nộp thuế chưa nộp thuế thì phải nộp đủ số tiền nợ thuế và tiền chậm nộp theo quy định của Luật quản lý thuế."
+    },
+    {
+        "id": "Điều 10.1",
+        "article": "Điều 10",
+        "clause": "1",
+        "title": "Nguyên tắc ban hành biểu thuế, thuế suất",
+        "text": "Khuyến khích nhập khẩu nguyên liệu, vật liệu, ưu tiên loại trong nước chưa đáp ứng nhu cầu; chú trọng phát triển lĩnh vực công nghệ cao, công nghệ nguồn, tiết kiệm năng lượng, bảo vệ môi trường."
+    },
+    {
+        "id": "Điều 10.2",
+        "article": "Điều 10",
+        "clause": "2",
+        "title": "Nguyên tắc ban hành biểu thuế, thuế suất",
+        "text": "Phù hợp với định hướng phát triển kinh tế - xã hội của Nhà nước và các cam kết về thuế xuất khẩu, thuế nhập khẩu trong các điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+    },
+    {
+        "id": "Điều 10.3",
+        "article": "Điều 10",
+        "clause": "3",
+        "title": "Nguyên tắc ban hành biểu thuế, thuế suất",
+        "text": "Góp phần bình ổn thị trường và nguồn thu ngân sách nhà nước."
+    },
+    {
+        "id": "Điều 10.4",
+        "article": "Điều 10",
+        "clause": "4",
+        "title": "Nguyên tắc ban hành biểu thuế, thuế suất",
+        "text": "Đơn giản, minh bạch, tạo thuận lợi cho người nộp thuế và thực hiện cải cách thủ tục hành chính về thuế."
+    },
+    {
+        "id": "Điều 10.5",
+        "article": "Điều 10",
+        "clause": "5",
+        "title": "Nguyên tắc ban hành biểu thuế, thuế suất",
+        "text": "Áp dụng thống nhất mức thuế suất đối với hàng hóa có cùng bản chất, cấu tạo, công dụng, có tính năng kỹ thuật tương tự; thuế suất thuế nhập khẩu giảm dần từ thành phẩm đến nguyên liệu thô; thuế suất thuế xuất khẩu tăng dần từ thành phẩm đến nguyên liệu thô."
+    },
+    {
+        "id": "Điều 11.1",
+        "article": "Điều 11",
+        "clause": "1",
+        "title": "Thẩm quyền ban hành biểu thuế, thuế suất",
+        "text": "Chính phủ căn cứ quy định tại Điều 10 của Luật này, Biểu thuế xuất khẩu theo Danh mục nhóm hàng chịu thuế và khung thuế suất thuế xuất khẩu đối với từng nhóm hàng chịu thuế ban hành kèm theo Luật này, Biểu thuế ưu đãi cam kết tại Nghị định thư gia nhập Tổ chức thương mại thế giới (WTO) đã được Quốc hội phê chuẩn và các điều ước quốc tế khác mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên để ban hành:"
+    },
+    {
+        "id": "Điều 11.1a",
+        "article": "Điều 11",
+        "clause": "1a",
+        "title": "Thẩm quyền ban hành biểu thuế, thuế suất",
+        "text": "Biểu thuế xuất khẩu; Biểu thuế xuất khẩu ưu đãi;"
+    },
+    {
+        "id": "Điều 11.1b",
+        "article": "Điều 11",
+        "clause": "1b",
+        "title": "Thẩm quyền ban hành biểu thuế, thuế suất",
+        "text": "Biểu thuế nhập khẩu ưu đãi; Biểu thuế nhập khẩu ưu đãi đặc biệt;"
+    },
+    {
+        "id": "Điều 11.1c",
+        "article": "Điều 11",
+        "clause": "1c",
+        "title": "Thẩm quyền ban hành biểu thuế, thuế suất",
+        "text": "Danh mục hàng hóa và mức thuế tuyệt đối, thuế hỗn hợp, thuế nhập khẩu ngoài hạn ngạch thuế quan."
+    },
+    {
+        "id": "Điều 11.2",
+        "article": "Điều 11",
+        "clause": "2",
+        "title": "Thẩm quyền ban hành biểu thuế, thuế suất",
+        "text": "Trong trường hợp cần thiết, Chính phủ trình Ủy ban thường vụ Quốc hội sửa đổi, bổ sung Biểu thuế xuất khẩu theo Danh mục nhóm hàng chịu thuế và khung thuế suất thuế xuất khẩu đối với từng nhóm hàng chịu thuế ban hành kèm theo Luật này."
+    },
+    {
+        "id": "Điều 11.3",
+        "article": "Điều 11",
+        "clause": "3",
+        "title": "Thẩm quyền ban hành biểu thuế, thuế suất",
+        "text": "Thẩm quyền áp dụng thuế chống bán phá giá, thuế chống trợ cấp, thuế tự vệ thực hiện theo quy định tại Chương III của Luật này. Chương III THUẾ CHỐNG BÁN PHÁ GIÁ, THUẾ CHỐNG TRỢ CẤP, THUẾ TỰ VỆ"
+    },
+    {
+        "id": "Điều 12.1",
+        "article": "Điều 12",
+        "clause": "1",
+        "title": "Thuế chống bán phá giá",
+        "text": "Điều kiện áp dụng thuế chống bán phá giá:"
+    },
+    {
+        "id": "Điều 12.1a",
+        "article": "Điều 12",
+        "clause": "1a",
+        "title": "Thuế chống bán phá giá",
+        "text": "Hàng hóa nhập khẩu bán phá giá tại Việt Nam và biên độ bán phá giá phải được xác định cụ thể;"
+    },
+    {
+        "id": "Điều 12.1b",
+        "article": "Điều 12",
+        "clause": "1b",
+        "title": "Thuế chống bán phá giá",
+        "text": "Việc bán phá giá hàng hóa là nguyên nhân gây ra hoặc đe dọa gây ra thiệt hại đáng kể cho ngành sản xuất trong nước hoặc ngăn cản sự hình thành của ngành sản xuất trong nước."
+    },
+    {
+        "id": "Điều 12.2",
+        "article": "Điều 12",
+        "clause": "2",
+        "title": "Thuế chống bán phá giá",
+        "text": "Nguyên tắc áp dụng thuế chống bán phá giá:"
+    },
+    {
+        "id": "Điều 12.2a",
+        "article": "Điều 12",
+        "clause": "2a",
+        "title": "Thuế chống bán phá giá",
+        "text": "Thuế chống bán phá giá chỉ được áp dụng ở mức độ cần thiết, hợp lý nhằm ngăn ngừa hoặc hạn chế thiệt hại đáng kể cho ngành sản xuất trong nước;"
+    },
+    {
+        "id": "Điều 12.2b",
+        "article": "Điều 12",
+        "clause": "2b",
+        "title": "Thuế chống bán phá giá",
+        "text": "Việc áp dụng thuế chống bán phá giá được thực hiện khi đã tiến hành điều tra và phải căn cứ vào kết luận điều tra theo quy định của pháp luật;"
+    },
+    {
+        "id": "Điều 12.2c",
+        "article": "Điều 12",
+        "clause": "2c",
+        "title": "Thuế chống bán phá giá",
+        "text": "Thuế chống bán phá giá được áp dụng đối với hàng hóa bán phá giá vào Việt Nam;"
+    },
+    {
+        "id": "Điều 12.2d",
+        "article": "Điều 12",
+        "clause": "2d",
+        "title": "Thuế chống bán phá giá",
+        "text": "Việc áp dụng thuế chống bán phá giá không được gây thiệt hại đến lợi ích kinh tế - xã hội trong nước."
+    },
+    {
+        "id": "Điều 12.3",
+        "article": "Điều 12",
+        "clause": "3",
+        "title": "Thuế chống bán phá giá",
+        "text": "Thời hạn áp dụng thuế chống bán phá giá không quá 05 năm, kể từ ngày quyết định áp dụng có hiệu lực. Trường hợp cần thiết, quyết định áp dụng thuế chống bán phá giá có thể được gia hạn."
+    },
+    {
+        "id": "Điều 13.1",
+        "article": "Điều 13",
+        "clause": "1",
+        "title": "Thuế chống trợ cấp",
+        "text": "Điều kiện áp dụng thuế chống trợ cấp:"
+    },
+    {
+        "id": "Điều 13.1a",
+        "article": "Điều 13",
+        "clause": "1a",
+        "title": "Thuế chống trợ cấp",
+        "text": "Hàng hóa nhập khẩu được xác định có trợ cấp theo quy định pháp luật;"
+    },
+    {
+        "id": "Điều 13.1b",
+        "article": "Điều 13",
+        "clause": "1b",
+        "title": "Thuế chống trợ cấp",
+        "text": "Hàng hóa nhập khẩu là nguyên nhân gây ra hoặc đe dọa gây ra thiệt hại đáng kể cho ngành sản xuất trong nước hoặc ngăn cản sự hình thành của ngành sản xuất trong nước."
+    },
+    {
+        "id": "Điều 13.2",
+        "article": "Điều 13",
+        "clause": "2",
+        "title": "Thuế chống trợ cấp",
+        "text": "Nguyên tắc áp dụng thuế chống trợ cấp:"
+    },
+    {
+        "id": "Điều 13.2a",
+        "article": "Điều 13",
+        "clause": "2a",
+        "title": "Thuế chống trợ cấp",
+        "text": "Thuế chống trợ cấp chỉ được áp dụng ở mức độ cần thiết, hợp lý nhằm ngăn ngừa hoặc hạn chế thiệt hại đáng kể cho ngành sản xuất trong nước;"
+    },
+    {
+        "id": "Điều 13.2b",
+        "article": "Điều 13",
+        "clause": "2b",
+        "title": "Thuế chống trợ cấp",
+        "text": "Việc áp dụng thuế chống trợ cấp được thực hiện khi đã tiến hành điều tra và phải căn cứ vào kết luận điều tra theo quy định của pháp luật;"
+    },
+    {
+        "id": "Điều 13.2c",
+        "article": "Điều 13",
+        "clause": "2c",
+        "title": "Thuế chống trợ cấp",
+        "text": "Thuế chống trợ cấp được áp dụng đối với hàng hóa được trợ cấp nhập khẩu vào Việt Nam;"
+    },
+    {
+        "id": "Điều 13.2d",
+        "article": "Điều 13",
+        "clause": "2d",
+        "title": "Thuế chống trợ cấp",
+        "text": "Việc áp dụng thuế chống trợ cấp không được gây thiệt hại đến lợi ích kinh tế - xã hội trong nước."
+    },
+    {
+        "id": "Điều 13.3",
+        "article": "Điều 13",
+        "clause": "3",
+        "title": "Thuế chống trợ cấp",
+        "text": "Thời hạn áp dụng thuế chống trợ cấp không quá 05 năm, kể từ ngày quyết định áp dụng có hiệu lực. Trường hợp cần thiết, quyết định áp dụng thuế chống trợ cấp có thể được gia hạn."
+    },
+    {
+        "id": "Điều 14.1",
+        "article": "Điều 14",
+        "clause": "1",
+        "title": "Thuế tự vệ",
+        "text": "Điều kiện áp dụng thuế tự vệ:"
+    },
+    {
+        "id": "Điều 14.1a",
+        "article": "Điều 14",
+        "clause": "1a",
+        "title": "Thuế tự vệ",
+        "text": "Khối lượng, số lượng hoặc trị giá hàng hóa nhập khẩu gia tăng đột biến một cách tuyệt đối hoặc tương đối so với khối lượng, số lượng hoặc trị giá của hàng hóa tương tự hoặc hàng hóa cạnh tranh trực tiếp được sản xuất trong nước;"
+    },
+    {
+        "id": "Điều 14.1b",
+        "article": "Điều 14",
+        "clause": "1b",
+        "title": "Thuế tự vệ",
+        "text": "Việc gia tăng khối lượng, số lượng hoặc trị giá hàng hóa nhập khẩu quy định tại điểm a khoản này gây ra hoặc đe doạ gây ra thiệt hại nghiêm trọng cho ngành sản xuất hàng hóa tương tự hoặc hàng hóa cạnh tranh trực tiếp trong nước hoặc ngăn cản sự hình thành của ngành sản xuất trong nước."
+    },
+    {
+        "id": "Điều 14.2",
+        "article": "Điều 14",
+        "clause": "2",
+        "title": "Thuế tự vệ",
+        "text": "Nguyên tắc áp dụng thuế tự vệ:"
+    },
+    {
+        "id": "Điều 14.2a",
+        "article": "Điều 14",
+        "clause": "2a",
+        "title": "Thuế tự vệ",
+        "text": "Thuế tự vệ được áp dụng trong phạm vi và mức độ cần thiết nhằm ngăn ngừa hoặc hạn chế thiệt hại nghiêm trọng cho ngành sản xuất trong nước và tạo điều kiện để ngành sản xuất đó nâng cao khả năng cạnh tranh;"
+    },
+    {
+        "id": "Điều 14.2b",
+        "article": "Điều 14",
+        "clause": "2b",
+        "title": "Thuế tự vệ",
+        "text": "Việc áp dụng thuế tự vệ phải căn cứ vào kết luận điều tra, trừ trường hợp áp dụng thuế tự vệ tạm thời;"
+    },
+    {
+        "id": "Điều 14.2c",
+        "article": "Điều 14",
+        "clause": "2c",
+        "title": "Thuế tự vệ",
+        "text": "Thuế tự vệ được áp dụng trên cơ sở không phân biệt đối xử và không phụ thuộc vào xuất xứ hàng hóa."
+    },
+    {
+        "id": "Điều 14.3",
+        "article": "Điều 14",
+        "clause": "3",
+        "title": "Thuế tự vệ",
+        "text": "Thời hạn áp dụng thuế tự vệ không quá 04 năm, bao gồm cả thời gian áp dụng thuế tự vệ tạm thời. Thời hạn áp dụng thuế tự vệ có thể được gia hạn không quá 06 năm tiếp theo, với điều kiện vẫn còn thiệt hại nghiêm trọng hoặc nguy cơ gây ra thiệt hại nghiêm trọng cho ngành sản xuất trong nước và có bằng chứng chứng minh rằng ngành sản xuất đó đang điều chỉnh để nâng cao khả năng cạnh tranh."
+    },
+    {
+        "id": "Điều 15.1",
+        "article": "Điều 15",
+        "clause": "1",
+        "title": "Áp dụng thuế chống bán phá giá, thuế chống trợ cấp, thuế tự vệ",
+        "text": "Việc áp dụng, thay đổi, bãi bỏ thuế chống bán phá giá, thuế chống trợ cấp và thuế tự vệ được thực hiện theo quy định của Luật này và pháp luật về chống bán phá giá, pháp luật về chống trợ cấp, pháp luật về tự vệ."
+    },
+    {
+        "id": "Điều 15.2",
+        "article": "Điều 15",
+        "clause": "2",
+        "title": "Áp dụng thuế chống bán phá giá, thuế chống trợ cấp, thuế tự vệ",
+        "text": "Căn cứ mức thuế, số lượng hoặc trị giá hàng hóa thuộc đối tượng chịu thuế chống bán phá giá, thuế chống trợ cấp, thuế tự vệ, người khai hải quan có trách nhiệm kê khai và nộp thuế theo quy định của pháp luật về quản lý thuế."
+    },
+    {
+        "id": "Điều 15.3",
+        "article": "Điều 15",
+        "clause": "3",
+        "title": "Áp dụng thuế chống bán phá giá, thuế chống trợ cấp, thuế tự vệ",
+        "text": "Bộ Công thương quyết định việc áp dụng thuế chống bán phá giá, thuế chống trợ cấp, thuế tự vệ."
+    },
+    {
+        "id": "Điều 15.4",
+        "article": "Điều 15",
+        "clause": "4",
+        "title": "Áp dụng thuế chống bán phá giá, thuế chống trợ cấp, thuế tự vệ",
+        "text": "Bộ Tài chính quy định việc kê khai, thu, nộp, hoàn trả thuế chống bán phá giá, thuế chống trợ cấp, thuế tự vệ."
+    },
+    {
+        "id": "Điều 15.5",
+        "article": "Điều 15",
+        "clause": "5",
+        "title": "Áp dụng thuế chống bán phá giá, thuế chống trợ cấp, thuế tự vệ",
+        "text": "Trường hợp lợi ích của Cộng hòa xã hội chủ nghĩa Việt Nam bị xâm hại hay vi phạm, căn cứ vào các điều ước quốc tế, Chính phủ báo cáo Quốc hội quyết định áp dụng biện pháp thuế phòng vệ khác phù hợp. Chương IV MIỄN THUẾ, GIẢM THUẾ, HOÀN THUẾ"
+    },
+    {
+        "id": "Điều 16.1",
+        "article": "Điều 16",
+        "clause": "1",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa xuất khẩu, nhập khẩu của tổ chức, cá nhân nước ngoài được hưởng quyền ưu đãi, miễn trừ tại Việt Nam trong định mức phù hợp với điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; hàng hóa trong tiêu chuẩn hành lý miễn thuế của người xuất cảnh, nhập cảnh; hàng hóa nhập khẩu để bán tại cửa hàng miễn thuế."
+    },
+    {
+        "id": "Điều 16.2",
+        "article": "Điều 16",
+        "clause": "2",
+        "title": "Miễn thuế",
+        "text": "Tài sản di chuyển, quà biếu, quà tặng trong định mức của tổ chức, cá nhân nước ngoài cho tổ chức, cá nhân Việt Nam hoặc ngược lại. Tài sản di chuyển, quà biếu, quà tặng có số lượng hoặc trị giá vượt quá định mức miễn thuế phải nộp thuế đối với phần vượt, trừ trường hợp đơn vị nhận là cơ quan, tổ chức được ngân sách nhà nước bảo đảm kinh phí hoạt động và được cơ quan có thẩm quyền cho phép tiếp nhận hoặc trường hợp vì mục đích nhân đạo, từ thiện."
+    },
+    {
+        "id": "Điều 16.3",
+        "article": "Điều 16",
+        "clause": "3",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa mua bán, trao đổi qua biên giới của cư dân biên giới thuộc Danh mục hàng hóa và trong định mức để phục vụ cho sản xuất, tiêu dùng của cư dân biên giới. Trường hợp thu mua, vận chuyển hàng hóa trong định mức nhưng không sử dụng cho sản xuất, tiêu dùng của cư dân biên giới và hàng hóa xuất khẩu, nhập khẩu của thương nhân nước ngoài được phép kinh doanh ở chợ biên giới thì phải nộp thuế."
+    },
+    {
+        "id": "Điều 16.4",
+        "article": "Điều 16",
+        "clause": "4",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa được miễn thuế xuất khẩu, thuế nhập khẩu theo điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+    },
+    {
+        "id": "Điều 16.5",
+        "article": "Điều 16",
+        "clause": "5",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa có trị giá hoặc có số tiền thuế phải nộp dưới mức tối thiểu."
+    },
+    {
+        "id": "Điều 16.6",
+        "article": "Điều 16",
+        "clause": "6",
+        "title": "Miễn thuế",
+        "text": "Nguyên liệu, vật tư, linh kiện nhập khẩu để gia công sản phẩm xuất khẩu; sản phẩm hoàn chỉnh nhập khẩu để gắn vào sản phẩm gia công; sản phẩm gia công xuất khẩu. Sản phẩm gia công xuất khẩu được sản xuất từ nguyên liệu, vật tư trong nước có thuế xuất khẩu thì không được miễn thuế đối với phần trị giá nguyên liệu, vật tư trong nước tương ứng cấu thành trong sản phẩm xuất khẩu. Hàng hóa xuất khẩu để gia công sau đó nhập khẩu được miễn thuế xuất khẩu và thuế nhập khẩu tính trên phần trị giá của nguyên vật liệu xuất khẩu cấu thành sản phẩm gia công. Đối với hàng hóa xuất khẩu để gia công sau đó nhập khẩu là tài nguyên, khoáng sản, sản phẩm có tổng trị giá tài nguyên, khoáng sản cộng với chi phí năng lượng chiếm từ 51% giá thành sản phẩm trở lên thì không được miễn thuế."
+    },
+    {
+        "id": "Điều 16.7",
+        "article": "Điều 16",
+        "clause": "7",
+        "title": "Miễn thuế",
+        "text": "Nguyên liệu, vật tư, linh kiện nhập khẩu để sản xuất hàng hóa xuất khẩu."
+    },
+    {
+        "id": "Điều 16.8",
+        "article": "Điều 16",
+        "clause": "8",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa sản xuất, gia công, tái chế, lắp ráp tại khu phi thuế quan không sử dụng nguyên liệu, linh kiện nhập khẩu từ nước ngoài khi nhập khẩu vào thị trường trong nước."
+    },
+    {
+        "id": "Điều 16.9",
+        "article": "Điều 16",
+        "clause": "9",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa tạm nhập, tái xuất hoặc tạm xuất, tái nhập trong thời hạn nhất định, bao gồm:"
+    },
+    {
+        "id": "Điều 16.9a",
+        "article": "Điều 16",
+        "clause": "9a",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa tạm nhập, tái xuất, tạm xuất, tái nhập để tổ chức hoặc tham dự hội chợ, triển lãm, giới thiệu sản phẩm, sự kiện thể thao, văn hóa, nghệ thuật hoặc các sự kiện khác; máy móc, thiết bị tạm nhập, tái xuất để thử nghiệm, nghiên cứu phát triển sản phẩm; máy móc, thiết bị, dụng cụ nghề nghiệp tạm nhập, tái xuất, tạm xuất, tái nhập để phục vụ công việc trong thời hạn nhất định hoặc phục vụ gia công cho thương nhân nước ngoài, trừ trường hợp máy móc, thiết bị, dụng cụ, phương tiện vận chuyển của các tổ chức, cá nhân được phép tạm nhập, tái xuất để thực hiện các dự án đầu tư, thi công xây dựng, lắp đặt công trình, phục vụ sản xuất;"
+    },
+    {
+        "id": "Điều 16.9b",
+        "article": "Điều 16",
+        "clause": "9b",
+        "title": "Miễn thuế",
+        "text": "Máy móc, thiết bị, linh kiện, phụ tùng tạm nhập để thay thế, sửa chữa tàu biển, tàu bay nước ngoài hoặc tạm xuất để thay thế, sửa chữa tàu biển, tàu bay Việt Nam ở nước ngoài; hàng hóa tạm nhập, tái xuất để cung ứng cho tàu biển, tàu bay nước ngoài neo đậu tại cảng Việt Nam;"
+    },
+    {
+        "id": "Điều 16.9c",
+        "article": "Điều 16",
+        "clause": "9c",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa tạm nhập, tái xuất hoặc tạm xuất, tái nhập để bảo hành, sửa chữa, thay thế;"
+    },
+    {
+        "id": "Điều 16.9d",
+        "article": "Điều 16",
+        "clause": "9d",
+        "title": "Miễn thuế",
+        "text": "Phương tiện quay vòng theo phương thức tạm nhập, tái xuất hoặc tạm xuất, tái nhập để chứa hàng hóa xuất khẩu, nhập khẩu;"
+    },
+    {
+        "id": "Điều 16.9đ",
+        "article": "Điều 16",
+        "clause": "9đ",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa kinh doanh tạm nhập, tái xuất trong thời hạn tạm nhập, tái xuất (bao gồm cả thời gian gia hạn) được tổ chức tín dụng bảo lãnh hoặc đã đặt cọc một khoản tiền tương đương số tiền thuế nhập khẩu của hàng hóa tạm nhập, tái xuất."
+    },
+    {
+        "id": "Điều 16.10",
+        "article": "Điều 16",
+        "clause": "10",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa không nhằm mục đích thương mại trong các trường hợp sau: hàng mẫu; ảnh, phim, mô hình thay thế cho hàng mẫu; ấn phẩm quảng cáo số lượng nhỏ."
+    },
+    {
+        "id": "Điều 16.11",
+        "article": "Điều 16",
+        "clause": "11",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa nhập khẩu để tạo tài sản cố định của đối tượng được hưởng ưu đãi đầu tư theo quy định của pháp luật về đầu tư, bao gồm: Việc miễn thuế nhập khẩu đối với hàng hóa nhập khẩu quy định tại khoản này được áp dụng cho cả dự án đầu tư mới và dự án đầu tư mở rộng."
+    },
+    {
+        "id": "Điều 16.11a",
+        "article": "Điều 16",
+        "clause": "11a",
+        "title": "Miễn thuế",
+        "text": "Máy móc, thiết bị; linh kiện, chi tiết, bộ phận rời, phụ tùng để lắp ráp đồng bộ hoặc sử dụng đồng bộ với máy móc, thiết bị; nguyên liệu, vật tư dùng để chế tạo máy móc, thiết bị hoặc để chế tạo linh kiện, chi tiết, bộ phận rời, phụ tùng của máy móc, thiết bị;"
+    },
+    {
+        "id": "Điều 16.11b",
+        "article": "Điều 16",
+        "clause": "11b",
+        "title": "Miễn thuế",
+        "text": "Phương tiện vận tải chuyên dùng trong dây chuyền công nghệ sử dụng trực tiếp cho hoạt động sản xuất của dự án;"
+    },
+    {
+        "id": "Điều 16.11c",
+        "article": "Điều 16",
+        "clause": "11c",
+        "title": "Miễn thuế",
+        "text": "Vật tư xây dựng trong nước chưa sản xuất được."
+    },
+    {
+        "id": "Điều 16.12",
+        "article": "Điều 16",
+        "clause": "12",
+        "title": "Miễn thuế",
+        "text": "Giống cây trồng; giống vật nuôi; phân bón, thuốc bảo vệ thực vật trong nước chưa sản xuất được, cần thiết nhập khẩu theo quy định của cơ quan quản lý nhà nước có thẩm quyền."
+    },
+    {
+        "id": "Điều 16.13",
+        "article": "Điều 16",
+        "clause": "13",
+        "title": "Miễn thuế",
+        "text": "Nguyên liệu, vật tư, linh kiện trong nước chưa sản xuất được nhập khẩu để sản xuất của dự án đầu tư thuộc danh mục ngành, nghề đặc biệt ưu đãi đầu tư hoặc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật về đầu tư, doanh nghiệp công nghệ cao, doanh nghiệp khoa học và công nghệ, tổ chức khoa học và công nghệ được miễn thuế nhập khẩu trong thời hạn 05 năm, kể từ khi bắt đầu sản xuất. Việc miễn thuế nhập khẩu quy định tại khoản này không áp dụng đối với dự án đầu tư khai thác khoáng sản; dự án sản xuất sản phẩm có tổng trị giá tài nguyên, khoáng sản cộng với chi phí năng lượng chiếm từ 51% giá thành sản phẩm trở lên; dự án sản xuất, kinh doanh hàng hóa, dịch vụ thuộc đối tượng chịu thuế tiêu thụ đặc biệt."
+    },
+    {
+        "id": "Điều 16.14",
+        "article": "Điều 16",
+        "clause": "14",
+        "title": "Miễn thuế",
+        "text": "Nguyên liệu, vật tư, linh kiện nhập khẩu trong nước chưa sản xuất được của dự án đầu tư để sản xuất, lắp ráp trang thiết bị y tế được ưu tiên nghiên cứu, chế tạo được miễn thuế nhập khẩu trong thời hạn 05 năm, kể từ khi bắt đầu sản xuất."
+    },
+    {
+        "id": "Điều 16.15",
+        "article": "Điều 16",
+        "clause": "15",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa nhập khẩu để phục vụ hoạt động dầu khí, bao gồm:"
+    },
+    {
+        "id": "Điều 16.15a",
+        "article": "Điều 16",
+        "clause": "15a",
+        "title": "Miễn thuế",
+        "text": "Máy móc, thiết bị, phụ tùng thay thế, phương tiện vận tải chuyên dùng cần thiết cho hoạt động dầu khí, bao gồm cả trường hợp tạm nhập, tái xuất;"
+    },
+    {
+        "id": "Điều 16.15b",
+        "article": "Điều 16",
+        "clause": "15b",
+        "title": "Miễn thuế",
+        "text": "Linh kiện, chi tiết, bộ phận rời, phụ tùng để lắp ráp đồng bộ hoặc sử dụng đồng bộ với máy móc, thiết bị; nguyên liệu, vật tư dùng để chế tạo máy móc, thiết bị hoặc để chế tạo linh kiện, chi tiết, bộ phận rời, phụ tùng của máy móc, thiết bị cần thiết cho hoạt động dầu khí;"
+    },
+    {
+        "id": "Điều 16.15c",
+        "article": "Điều 16",
+        "clause": "15c",
+        "title": "Miễn thuế",
+        "text": "Vật tư cần thiết cho hoạt động dầu khí trong nước chưa sản xuất được."
+    },
+    {
+        "id": "Điều 16.16",
+        "article": "Điều 16",
+        "clause": "16",
+        "title": "Miễn thuế",
+        "text": "Dự án, cơ sở đóng tàu thuộc danh mục ngành, nghề ưu đãi theo quy định của pháp luật về đầu tư được miễn thuế đối với:"
+    },
+    {
+        "id": "Điều 16.16a",
+        "article": "Điều 16",
+        "clause": "16a",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa nhập khẩu để tạo tài sản cố định của cơ sở đóng tàu, bao gồm: máy móc, thiết bị; linh kiện, chi tiết, bộ phận rời, phụ tùng để lắp ráp đồng bộ hoặc sử dụng đồng bộ với máy móc, thiết bị; nguyên liệu, vật tư dùng để chế tạo máy móc, thiết bị hoặc để chế tạo linh kiện, chi tiết, bộ phận rời, phụ tùng của máy móc, thiết bị; phương tiện vận tải trong dây chuyền công nghệ phục vụ trực tiếp cho hoạt động đóng tàu; vật tư xây dựng trong nước chưa sản xuất được;"
+    },
+    {
+        "id": "Điều 16.16b",
+        "article": "Điều 16",
+        "clause": "16b",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa nhập khẩu là máy móc, thiết bị, nguyên liệu, vật tư, linh kiện, bán thành phẩm trong nước chưa sản xuất được phục vụ cho việc đóng tàu;"
+    },
+    {
+        "id": "Điều 16.16c",
+        "article": "Điều 16",
+        "clause": "16c",
+        "title": "Miễn thuế",
+        "text": "Tàu biển xuất khẩu."
+    },
+    {
+        "id": "Điều 16.17",
+        "article": "Điều 16",
+        "clause": "17",
+        "title": "Miễn thuế",
+        "text": "Máy móc, thiết bị, nguyên liệu, vật tư, linh kiện, bộ phận, phụ tùng nhập khẩu phục vụ hoạt động in, đúc tiền."
+    },
+    {
+        "id": "Điều 16.18",
+        "article": "Điều 16",
+        "clause": "18",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa nhập khẩu là nguyên liệu, vật tư, linh kiện trong nước chưa sản xuất được phục vụ trực tiếp cho hoạt động sản xuất sản phẩm công nghệ thông tin, nội dung số, phần mềm."
+    },
+    {
+        "id": "Điều 16.19",
+        "article": "Điều 16",
+        "clause": "19",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa xuất khẩu, nhập khẩu để bảo vệ môi trường, bao gồm:"
+    },
+    {
+        "id": "Điều 16.19a",
+        "article": "Điều 16",
+        "clause": "19a",
+        "title": "Miễn thuế",
+        "text": "Máy móc, thiết bị, phương tiện, dụng cụ, vật tư chuyên dùng nhập khẩu trong nước chưa sản xuất được để thu gom, vận chuyển, xử lý, chế biến nước thải, rác thải, khí thải, quan trắc và phân tích môi trường, sản xuất năng lượng tái tạo; xử lý ô nhiễm môi trường, ứng phó, xử lý sự cố môi trường;"
+    },
+    {
+        "id": "Điều 16.19b",
+        "article": "Điều 16",
+        "clause": "19b",
+        "title": "Miễn thuế",
+        "text": "Sản phẩm xuất khẩu được sản xuất từ hoạt động tái chế, xử lý chất thải."
+    },
+    {
+        "id": "Điều 16.20",
+        "article": "Điều 16",
+        "clause": "20",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa nhập khẩu chuyên dùng trong nước chưa sản xuất được phục vụ trực tiếp cho giáo dục."
+    },
+    {
+        "id": "Điều 16.21",
+        "article": "Điều 16",
+        "clause": "21",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa nhập khẩu là máy móc, thiết bị, phụ tùng, vật tư chuyên dùng trong nước chưa sản xuất được, tài liệu, sách báo khoa học chuyên dùng sử dụng trực tiếp cho nghiên cứu khoa học, phát triển công nghệ, phát triển hoạt động ươm tạo công nghệ, ươm tạo doanh nghiệp khoa học và công nghệ, đổi mới công nghệ."
+    },
+    {
+        "id": "Điều 16.22",
+        "article": "Điều 16",
+        "clause": "22",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa nhập khẩu chuyên dùng phục vụ trực tiếp cho an ninh, quốc phòng, trong đó phương tiện vận tải chuyên dùng phải là loại trong nước chưa sản xuất được."
+    },
+    {
+        "id": "Điều 16.23",
+        "article": "Điều 16",
+        "clause": "23",
+        "title": "Miễn thuế",
+        "text": "Hàng hóa xuất khẩu, nhập khẩu để phục vụ bảo đảm an sinh xã hội, khắc phục hậu quả thiên tai, thảm họa, dịch bệnh và các trường hợp đặc biệt khác."
+    },
+    {
+        "id": "Điều 16.24",
+        "article": "Điều 16",
+        "clause": "24",
+        "title": "Miễn thuế",
+        "text": "Chính phủ quy định chi tiết Điều này."
+    },
+    {
+        "id": "Điều 17.1",
+        "article": "Điều 17",
+        "clause": "1",
+        "title": "Thủ tục miễn thuế",
+        "text": "Trường hợp quy định tại các khoản 11, 12, 13, 14, 15, 16 và 18 Điều 16 của Luật này, người nộp thuế thực hiện thông báo hàng hóa miễn thuế dự kiến nhập khẩu với cơ quan hải quan."
+    },
+    {
+        "id": "Điều 17.2",
+        "article": "Điều 17",
+        "clause": "2",
+        "title": "Thủ tục miễn thuế",
+        "text": "Thủ tục miễn thuế thực hiện theo quy định của pháp luật về quản lý thuế."
+    },
+    {
+        "id": "Điều 18.1",
+        "article": "Điều 18",
+        "clause": "1",
+        "title": "Giảm thuế",
+        "text": "Hàng hóa xuất khẩu, nhập khẩu đang trong quá trình giám sát của cơ quan hải quan nếu bị hư hỏng, mất mát được cơ quan, tổ chức có thẩm quyền giám định chứng nhận thì được giảm thuế. Mức giảm thuế tương ứng với tỷ lệ tổn thất thực tế của hàng hóa. Trường hợp hàng hóa xuất khẩu, nhập khẩu bị hư hỏng, mất mát toàn bộ thì không phải nộp thuế."
+    },
+    {
+        "id": "Điều 18.2",
+        "article": "Điều 18",
+        "clause": "2",
+        "title": "Giảm thuế",
+        "text": "Thủ tục giảm thuế thực hiện theo quy định của pháp luật về quản lý thuế."
+    },
+    {
+        "id": "Điều 19.1",
+        "article": "Điều 19",
+        "clause": "1",
+        "title": "Hoàn thuế",
+        "text": "Các trường hợp hoàn thuế: Số tiền thuế nhập khẩu được hoàn lại xác định trên cơ sở trị giá sử dụng còn lại của hàng hóa khi tái xuất khẩu tính theo thời gian sử dụng, lưu lại tại Việt Nam. Trường hợp hàng hóa đã hết trị giá sử dụng thì không được hoàn lại thuế nhập khẩu đã nộp. Không hoàn thuế đối với số tiền thuế được hoàn dưới mức tối thiểu theo quy định của Chính phủ."
+    },
+    {
+        "id": "Điều 19.1a",
+        "article": "Điều 19",
+        "clause": "1a",
+        "title": "Hoàn thuế",
+        "text": "Người nộp thuế đã nộp thuế nhập khẩu, thuế xuất khẩu nhưng không có hàng hóa nhập khẩu, xuất khẩu hoặc nhập khẩu, xuất khẩu ít hơn so với hàng hóa nhập khẩu, xuất khẩu đã nộp thuế;"
+    },
+    {
+        "id": "Điều 19.1b",
+        "article": "Điều 19",
+        "clause": "1b",
+        "title": "Hoàn thuế",
+        "text": "Người nộp thuế đã nộp thuế xuất khẩu nhưng hàng hóa xuất khẩu phải tái nhập được hoàn thuế xuất khẩu và không phải nộp thuế nhập khẩu;"
+    },
+    {
+        "id": "Điều 19.1c",
+        "article": "Điều 19",
+        "clause": "1c",
+        "title": "Hoàn thuế",
+        "text": "Người nộp thuế đã nộp thuế nhập khẩu nhưng hàng hóa nhập khẩu phải tái xuất được hoàn thuế nhập khẩu và không phải nộp thuế xuất khẩu;"
+    },
+    {
+        "id": "Điều 19.1d",
+        "article": "Điều 19",
+        "clause": "1d",
+        "title": "Hoàn thuế",
+        "text": "Người nộp thuế đã nộp thuế đối với hàng hóa nhập khẩu để sản xuất, kinh doanh nhưng đã đưa vào sản xuất hàng hóa xuất khẩu và đã xuất khẩu sản phẩm;"
+    },
+    {
+        "id": "Điều 19.1đ",
+        "article": "Điều 19",
+        "clause": "1đ",
+        "title": "Hoàn thuế",
+        "text": "Người nộp thuế đã nộp thuế đối với máy móc, thiết bị, dụng cụ, phương tiện vận chuyển của các tổ chức, cá nhân được phép tạm nhập, tái xuất, trừ trường hợp đi thuê để thực hiện các dự án đầu tư, thi công xây dựng, lắp đặt công trình, phục vụ sản xuất, khi tái xuất ra nước ngoài hoặc xuất vào khu phi thuế quan."
+    },
+    {
+        "id": "Điều 19.2",
+        "article": "Điều 19",
+        "clause": "2",
+        "title": "Hoàn thuế",
+        "text": "Hàng hóa quy định tại các điểm a, b và c khoản 1 Điều này được hoàn thuế khi chưa qua sử dụng, gia công, chế biến."
+    },
+    {
+        "id": "Điều 19.3",
+        "article": "Điều 19",
+        "clause": "3",
+        "title": "Hoàn thuế",
+        "text": "Thủ tục hoàn thuế thực hiện theo quy định của pháp luật về quản lý thuế. Chương V ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 20.1",
+        "article": "Điều 20",
+        "clause": "1",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 9 năm 2016."
+    },
+    {
+        "id": "Điều 20.2",
+        "article": "Điều 20",
+        "clause": "2",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật thuế xuất khẩu, thuế nhập khẩu số 45/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+    },
+    {
+        "id": "Điều 21.1",
+        "article": "Điều 21",
+        "clause": "1",
+        "title": "Điều khoản chuyển tiếp",
+        "text": "Dự án đang được hưởng ưu đãi về thuế xuất khẩu, thuế nhập khẩu có mức ưu đãi cao hơn mức ưu đãi quy định tại Luật này thì tiếp tục thực hiện theo mức ưu đãi đó cho thời gian hưởng ưu đãi còn lại của dự án; trường hợp mức ưu đãi về thuế xuất khẩu, thuế nhập khẩu thấp hơn mức ưu đãi hoặc chưa được hưởng ưu đãi về thuế xuất khẩu, thuế nhập khẩu quy định tại Luật này thì được hưởng mức ưu đãi theo quy định của Luật này cho thời gian hưởng ưu đãi còn lại của dự án."
+    },
+    {
+        "id": "Điều 21.2",
+        "article": "Điều 21",
+        "clause": "2",
+        "title": "Điều khoản chuyển tiếp",
+        "text": "Nguyên liệu, vật tư, linh kiện nhập khẩu để sản xuất hàng hóa xuất khẩu nhưng chưa xuất khẩu sản phẩm; hàng hóa kinh doanh tạm nhập, tái xuất nhưng chưa tái xuất thuộc các tờ khai đăng ký với cơ quan hải quan trước ngày Luật này có hiệu lực thi hành, chưa nộp thuế thì được áp dụng theo quy định của Luật này."
+    }
+]

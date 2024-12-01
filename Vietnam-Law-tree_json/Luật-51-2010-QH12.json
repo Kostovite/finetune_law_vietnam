@@ -1,0 +1,1648 @@
+{
+    "header": [
+        "QUỐC HỘI",
+        "----------------",
+        "Luật số: 51/2010/QH12",
+        "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+        "Độc lập - Tự do - Hạnh phúc",
+        "-------------------------",
+        "LUẬT",
+        "NGƯỜI KHUYẾT TẬT",
+        "Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10;",
+        "Quốc hội ban hành Luật người khuyết tật.",
+        "CHƯƠNG I",
+        "NHỮNG QUY ĐỊNH CHUNG"
+    ],
+    "content": [
+        {
+            "id": "Điều 1",
+            "title": "Phạm vi điều chỉnh",
+            "content": []
+        },
+        {
+            "id": "Điều 2",
+            "title": "Giải thích từ ngữ",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Người khuyết tật là người bị khiếm khuyết một hoặc nhiều bộ phận cơ thể hoặc bị suy giảm chức năng được biểu hiện dưới dạng tật khiến cho lao động, sinh hoạt, học tập gặp khó khăn.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Kỳ thị người khuyết tật là thái độ khinh thường hoặc thiếu tôn trọng người khuyết tật vì lý do khuyết tật của người đó.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Phân biệt đối xử người khuyết tật là hành vi xa lánh, từ chối, ngược đãi, phỉ báng, có thành kiến hoặc hạn chế quyền của người khuyết tật vì lý do khuyết tật của người đó.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Giáo dục hòa nhập là phương thức giáo dục chung người khuyết tật với người không khuyết tật trong cơ sở giáo dục.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Giáo dục chuyên biệt là phương thức giáo dục dành riêng cho người khuyết tật trong cơ sở giáo dục.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Giáo dục bán hòa nhập là phương thức giáo dục kết hợp giữa giáo dục hòa nhập và giáo dục chuyên biệt cho người khuyết tật trong cơ sở giáo dục.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Sống độc lập là việc người khuyết tật được tự chủ quyết định những vấn đề có liên quan đến cuộc sống của chính bản thân.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "8",
+                    "text": "Tiếp cận là việc người khuyết tật sử dụng được công trình công cộng, phương tiện giao thông, công nghệ thông tin, dịch vụ văn hóa, thể thao, du lịch và dịch vụ khác phù hợp để có thể hòa nhập cộng đồng.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 3",
+            "title": "Dạng tật và mức độ khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Dạng tật bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Khuyết tật vận động;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Khuyết tật nghe, nói;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Khuyết tật nhìn;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Khuyết tật thần kinh, tâm thần;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Khuyết tật trí tuệ;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Khuyết tật khác."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Người khuyết tật được chia theo mức độ khuyết tật sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Người khuyết tật đặc biệt nặng là người do khuyết tật dẫn đến không thể tự thực hiện việc phục vụ nhu cầu sinh hoạt cá nhân hàng ngày;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Người khuyết tật nặng là người do khuyết tật dẫn đến không thể tự thực hiện một số việc phục vụ nhu cầu sinh hoạt cá nhân hàng ngày;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Người khuyết tật nhẹ là người khuyết tật không thuộc trường hợp quy định tại điểm a và điểm b khoản này."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Chính phủ quy định chi tiết về dạng tật và mức độ khuyết tật quy định tại Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 4",
+            "title": "Quyền và nghĩa vụ của người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Người khuyết tật được bảo đảm thực hiện các quyền sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tham gia bình đẳng vào các hoạt động xã hội;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Sống độc lập, hòa nhập cộng đồng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Được miễn hoặc giảm một số khoản đóng góp cho các hoạt động xã hội;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Được chăm sóc sức khỏe, phục hồi chức năng, học văn hóa, học nghề, việc làm, trợ giúp pháp lý, tiếp cận công trình công cộng, phương tiện giao thông, công nghệ thông tin, dịch vụ văn hóa, thể thao, du lịch và dịch vụ khác phù hợp với dạng tật và mức độ khuyết tật;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Các quyền khác theo quy định của pháp luật."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Người khuyết tật thực hiện các nghĩa vụ công dân theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 5",
+            "title": "Chính sách của Nhà nước về người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Hàng năm, Nhà nước bố trí ngân sách để thực hiện chính sách về người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Phòng ngừa, giảm thiểu khuyết tật bẩm sinh, khuyết tật do tai nạn thương tích, bệnh tật và nguy cơ khác dẫn đến khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Bảo trợ xã hội; trợ giúp người khuyết tật trong chăm sóc sức khỏe, giáo dục, dạy nghề, việc làm, văn hóa, thể thao, giải trí, tiếp cận công trình công cộng và công nghệ thông tin, tham gia giao thông; ưu tiên thực hiện chính sách bảo trợ xã hội và hỗ trợ người khuyết tật là trẻ em, người cao tuổi.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Lồng ghép chính sách về người khuyết tật trong chính sách phát triển kinh tế - xã hội.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Tạo điều kiện để người khuyết tật được chỉnh hình, phục hồi chức năng; khắc phục khó khăn, sống độc lập và hòa nhập cộng đồng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Đào tạo, bồi dưỡng người làm công tác tư vấn, chăm sóc người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Khuyến khích hoạt động trợ giúp người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "8",
+                    "text": "Tạo điều kiện để tổ chức của người khuyết tật, tổ chức vì người khuyết tật hoạt động.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "9",
+                    "text": "Khen thưởng cơ quan, tổ chức, cá nhân có thành tích, đóng góp trong việc trợ giúp người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "10",
+                    "text": "Xử lý nghiêm minh cơ quan, tổ chức, cá nhân có hành vi vi phạm quy định của Luật này và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 6",
+            "title": "Xã hội hóa hoạt động trợ giúp người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước khuyến khích tổ chức, cá nhân đầu tư, tài trợ, trợ giúp về tài chính, kỹ thuật để thực hiện hoạt động chỉnh hình, phục hồi chức năng, chăm sóc, giáo dục, dạy nghề, tạo việc làm, cung cấp dịch vụ khác trợ giúp người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tổ chức, cá nhân đầu tư xây dựng cơ sở chỉnh hình, phục hồi chức năng, chăm sóc, giáo dục, dạy nghề, tạo việc làm hoặc cơ sở cung cấp dịch vụ khác trợ giúp người khuyết tật được hưởng chính sách ưu đãi xã hội hóa theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 7",
+            "title": "Trách nhiệm của cơ quan, tổ chức và cá nhân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Cơ quan, tổ chức trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm chăm sóc, bảo vệ quyền, lợi ích hợp pháp của người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên có trách nhiệm vận động xã hội trợ giúp người khuyết tật tiếp cận dịch vụ xã hội, sống hòa nhập cộng đồng; tham gia xây dựng, giám sát thực hiện chính sách, pháp luật và chương trình, đề án trợ giúp người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Mọi cá nhân có trách nhiệm tôn trọng, trợ giúp và giúp đỡ người khuyết tật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 8",
+            "title": "Trách nhiệm của gia đình",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Gia đình có trách nhiệm giáo dục, tạo điều kiện để thành viên gia đình nâng cao nhận thức về vấn đề khuyết tật; thực hiện các biện pháp phòng ngừa, giảm thiểu khuyết tật bẩm sinh, khuyết tật do tai nạn thương tích, bệnh tật và nguy cơ khác dẫn đến khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Gia đình người khuyết tật có trách nhiệm sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Bảo vệ, nuôi dưỡng, chăm sóc người khuyết tật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tạo điều kiện để người khuyết tật được chăm sóc sức khỏe và thực hiện quyền, nghĩa vụ của mình;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Tôn trọng ý kiến của người khuyết tật trong việc quyết định những vấn đề liên quan đến cuộc sống của bản thân người khuyết tật và gia đình;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Thực hiện quy định tại khoản 1 Điều này."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 9",
+            "title": "Tổ chức của người khuyết tật, tổ chức vì người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tổ chức của người khuyết tật là tổ chức xã hội được thành lập và hoạt động theo quy định của pháp luật để đại diện cho quyền, lợi ích hợp pháp của hội viên là người khuyết tật, tham gia xây dựng, giám sát thực hiện chính sách, pháp luật đối với người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tổ chức vì người khuyết tật là tổ chức xã hội được thành lập và hoạt động theo quy định của pháp luật để thực hiện các hoạt động trợ giúp người khuyết tật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 10",
+            "title": "Quỹ trợ giúp người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Quỹ trợ giúp người khuyết tật là quỹ xã hội từ thiện nhằm huy động nguồn lực trợ giúp người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Quỹ trợ giúp người khuyết tật được hình thành từ các nguồn sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Đóng góp tự nguyện, tài trợ của tổ chức, cá nhân trong nước và nước ngoài;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Hỗ trợ từ ngân sách nhà nước;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Các khoản thu hợp pháp khác."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Quỹ trợ giúp người khuyết tật được thành lập và hoạt động theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 11",
+            "title": "Ngày người khuyết tật Việt Nam",
+            "content": []
+        },
+        {
+            "id": "Điều 12",
+            "title": "Hợp tác quốc tế về người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Hợp tác quốc tế về người khuyết tật được thực hiện trên cơ sở tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ, bình đẳng, phù hợp với pháp luật Việt Nam và pháp luật quốc tế.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Nội dung hợp tác quốc tế về người khuyết tật bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Xây dựng và thực hiện chương trình, dự án hợp tác quốc tế về người khuyết tật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tham gia tổ chức quốc tế; ký kết, gia nhập và thực hiện điều ước quốc tế, thỏa thuận quốc tế liên quan đến người khuyết tật;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Trao đổi thông tin, kinh nghiệm về vấn đề liên quan đến người khuyết tật."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 13",
+            "title": "Thông tin, truyền thông, giáo dục",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thông tin, truyền thông, giáo dục về vấn đề khuyết tật nhằm phòng ngừa, giảm thiểu khuyết tật; nâng cao nhận thức, thay đổi thái độ và hành vi về vấn đề khuyết tật; chống kỳ thị, phân biệt đối xử người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Nội dung thông tin, truyền thông, giáo dục về vấn đề khuyết tật bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Quyền, nghĩa vụ của người khuyết tật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Đường lối, chủ trương, chính sách của Đảng, pháp luật của Nhà nước về người khuyết tật;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Trách nhiệm của cơ quan, tổ chức, cá nhân, gia đình đối với người khuyết tật;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Nguyên nhân dẫn đến khuyết tật và các biện pháp phòng ngừa, giảm thiểu khuyết tật;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Chống kỳ thị, phân biệt đối xử người khuyết tật."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Thông tin, truyền thông, giáo dục về vấn đề khuyết tật phải bảo đảm chính xác, rõ ràng, thiết thực; phù hợp với truyền thống văn hóa, đạo đức xã hội.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Trách nhiệm thông tin, truyền thông, giáo dục về vấn đề khuyết tật:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Cơ quan, tổ chức trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thông tin, truyền thông, giáo dục về vấn đề khuyết tật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Ủy ban nhân dân các cấp có trách nhiệm tổ chức thực hiện công tác thông tin, truyền thông, giáo dục về vấn đề khuyết tật cho nhân dân trên địa bàn địa phương;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Các cơ quan thông tin đại chúng có trách nhiệm ưu tiên về dung lượng, vị trí đăng trên báo in, báo điện tử; về thời điểm, thời lượng phát sóng thông tin, truyền thông, giáo dục về vấn đề khuyết tật trên đài phát thanh, đài truyền hình theo quy định của Bộ trưởng Bộ Thông tin và Truyền thông."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 14",
+            "title": "Những hành vi bị nghiêm cấm",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Kỳ thị, phân biệt đối xử người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Xâm phạm thân thể, nhân phẩm, danh dự, tài sản, quyền, lợi ích hợp pháp của người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Lôi kéo, dụ dỗ hoặc ép buộc người khuyết tật thực hiện hành vi vi phạm pháp luật, đạo đức xã hội.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Lợi dụng người khuyết tật, tổ chức của người khuyết tật, tổ chức vì người khuyết tật, hình ảnh, thông tin cá nhân, tình trạng của người khuyết tật để trục lợi hoặc thực hiện hành vi vi phạm pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Người có trách nhiệm nuôi dưỡng, chăm sóc người khuyết tật không thực hiện hoặc thực hiện không đầy đủ trách nhiệm nuôi dưỡng, chăm sóc theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Cản trở quyền kết hôn, quyền nuôi con của người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Gian dối trong việc xác định mức độ khuyết tật, cấp giấy xác nhận khuyết tật. CHƯƠNG II XÁC NHẬN KHUYẾT TẬT",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 15",
+            "title": "Trách nhiệm xác định mức độ khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Việc xác định mức độ khuyết tật do Hội đồng xác định mức độ khuyết tật thực hiện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Trong các trường hợp sau đây thì việc xác định mức độ khuyết tật do Hội đồng giám định y khoa thực hiện:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Hội đồng xác định mức độ khuyết tật không đưa ra được kết luận về mức độ khuyết tật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Người khuyết tật hoặc đại diện hợp pháp của người khuyết tật không đồng ý với kết luận của Hội đồng xác định mức độ khuyết tật;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Có bằng chứng xác thực về việc xác định mức độ khuyết tật của Hội đồng xác định mức độ khuyết tật không khách quan, chính xác."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Trường hợp đã có kết luận của Hội đồng giám định y khoa về khả năng tự phục vụ, mức độ suy giảm khả năng lao động thì việc xác định mức độ khuyết tật theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 16",
+            "title": "Hội đồng xác định mức độ khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Hội đồng xác định mức độ khuyết tật do Chủ tịch Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là cấp xã) thành lập.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Hội đồng xác định mức độ khuyết tật bao gồm các thành viên sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Chủ tịch Ủy ban nhân dân cấp xã là Chủ tịch Hội đồng;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Trạm trưởng trạm y tế cấp xã;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Công chức cấp xã phụ trách công tác lao động, thương binh và xã hội;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Người đứng đầu hoặc cấp phó của Ủy ban Mặt trận Tổ quốc Việt Nam, Hội phụ nữ, Đoàn thanh niên, Hội cựu chiến binh cấp xã;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Người đứng đầu tổ chức của người khuyết tật cấp xã nơi có tổ chức của người khuyết tật."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Chủ tịch Hội đồng có trách nhiệm tổ chức và chủ trì hoạt động của Hội đồng. Hội đồng làm việc theo nguyên tắc tập thể. Cuộc họp của Hội đồng chỉ có giá trị khi có ít nhất hai phần ba số thành viên của Hội đồng tham dự. Kết luận của Hội đồng được thông qua bằng cách biểu quyết theo đa số, trường hợp số phiếu ngang nhau thì quyết định theo ý kiến của Chủ tịch Hội đồng. Kết luận của Hội đồng được thể hiện bằng văn bản do Chủ tịch Hội đồng ký.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Hội đồng xác định mức độ khuyết tật quyết định độc lập và chịu trách nhiệm trước pháp luật về tính trung thực trong việc xác định mức độ khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết hoạt động của Hội đồng xác định mức độ khuyết tật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 17",
+            "title": "Phương pháp xác định mức độ khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Việc xác định mức độ khuyết tật quy định tại khoản 1 Điều 15 của Luật này được thực hiện bằng phương pháp quan sát trực tiếp người khuyết tật, thông qua thực hiện hoạt động đơn giản phục vụ nhu cầu sinh hoạt cá nhân hàng ngày, sử dụng bộ câu hỏi theo các tiêu chí về y tế, xã hội và các phương pháp đơn giản khác để kết luận mức độ khuyết tật đối với từng người khuyết tật. Bộ trưởng Bộ Lao động - Thương binh và Xã hội chủ trì phối hợp với Bộ trưởng Bộ Y tế, Bộ trưởng Bộ Giáo dục và Đào tạo quy định chi tiết khoản này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Bộ trưởng Bộ Y tế chủ trì phối hợp với Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết về việc xác định mức độ khuyết tật đối với trường hợp quy định tại khoản 2 Điều 15 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 18",
+            "title": "Thủ tục xác định mức độ khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Khi có nhu cầu xác định mức độ khuyết tật, người khuyết tật hoặc người đại diện hợp pháp của người khuyết tật gửi đơn đến Ủy ban nhân dân cấp xã nơi người khuyết tật cư trú.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Trong thời hạn 30 ngày, kể từ ngày nhận đơn đề nghị xác định mức độ khuyết tật, Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm triệu tập Hội đồng xác định mức độ khuyết tật, gửi thông báo về thời gian xác định mức độ khuyết tật cho người khuyết tật hoặc người đại diện hợp pháp của họ.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Hội đồng xác định mức độ khuyết tật tổ chức việc xác định mức độ khuyết tật, lập hồ sơ xác định mức độ khuyết tật và ra kết luận.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Trong thời hạn 05 ngày làm việc, kể từ ngày có kết luận của Hội đồng xác định mức độ khuyết tật, Chủ tịch Ủy ban nhân dân cấp xã niêm yết và thông báo công khai kết luận của Hội đồng xác định mức độ khuyết tật và cấp giấy xác nhận khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết trình tự, thủ tục, hồ sơ xác định mức độ khuyết tật quy định tại Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 19",
+            "title": "Giấy xác nhận khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Giấy xác nhận khuyết tật có các nội dung cơ bản sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Họ và tên, ngày, tháng, năm sinh, giới tính của người khuyết tật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Địa chỉ nơi cư trú của người khuyết tật;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Dạng khuyết tật;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Mức độ khuyết tật."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Giấy xác nhận khuyết tật có hiệu lực kể từ ngày Chủ tịch Ủy ban nhân dân cấp xã ký.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định việc đổi, cấp lại, thu hồi Giấy xác nhận khuyết tật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 20",
+            "title": "Xác định lại mức độ khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Việc xác định lại mức độ khuyết tật được thực hiện theo đề nghị của người khuyết tật hoặc người đại diện hợp pháp của người khuyết tật khi có sự kiện làm thay đổi mức độ khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Trình tự, thủ tục xác định lại mức độ khuyết tật và cấp giấy xác nhận khuyết tật được thực hiện theo quy định tại Điều 18 và Điều 19 của Luật này. CHƯƠNG III CHĂM SÓC SỨC KHỎE",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 21",
+            "title": "Chăm sóc sức khỏe ban đầu tại nơi cư trú",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Trạm y tế cấp xã có trách nhiệm sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Triển khai các hình thức tuyên truyền, giáo dục, phổ biến kiến thức phổ thông về chăm sóc sức khỏe, phòng ngừa, giảm thiểu khuyết tật; hướng dẫn người khuyết tật phương pháp phòng bệnh, tự chăm sóc sức khỏe và phục hồi chức năng;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Lập hồ sơ theo dõi, quản lý sức khỏe người khuyết tật;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Khám bệnh, chữa bệnh phù hợp với phạm vi chuyên môn cho người khuyết tật."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Kinh phí để thực hiện quy định tại điểm a và điểm b khoản 1 Điều này do ngân sách nhà nước bảo đảm.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 22",
+            "title": "Khám bệnh, chữa bệnh",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước bảo đảm để người khuyết tật được khám bệnh, chữa bệnh và sử dụng các dịch vụ y tế phù hợp.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Người khuyết tật được hưởng chính sách bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Gia đình người khuyết tật có trách nhiệm tạo điều kiện thuận lợi để người khuyết tật được khám bệnh, chữa bệnh.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Người khuyết tật là người mắc bệnh tâm thần ở trạng thái kích động, trầm cảm, có ý tưởng, hành vi tự sát hoặc gây nguy hiểm cho người khác được hỗ trợ sinh hoạt phí, chi phí đi lại và chi phí điều trị trong thời gian điều trị bắt buộc tại cơ sở khám bệnh, chữa bệnh.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Khuyến khích tổ chức, cá nhân hỗ trợ thực hiện khám bệnh, chữa bệnh cho người khuyết tật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 23",
+            "title": "Trách nhiệm của cơ sở khám bệnh, chữa bệnh",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thực hiện biện pháp khám bệnh, chữa bệnh phù hợp cho người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Ưu tiên khám bệnh, chữa bệnh cho người khuyết tật đặc biệt nặng và người khuyết tật nặng, trẻ em khuyết tật, người cao tuổi khuyết tật, phụ nữ khuyết tật có thai theo quy định của pháp luật về khám bệnh, chữa bệnh.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Tư vấn biện pháp phòng ngừa và phát hiện sớm khuyết tật; xác định khuyết tật bẩm sinh đối với trẻ em sơ sinh để kịp thời có biện pháp điều trị và chỉnh hình, phục hồi chức năng phù hợp.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Thực hiện cải tạo, nâng cấp cơ sở vật chất phục vụ khám bệnh, chữa bệnh chưa bảo đảm điều kiện tiếp cận đối với người khuyết tật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 24",
+            "title": "Cơ sở chỉnh hình, phục hồi chức năng",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Cơ sở chỉnh hình, phục hồi chức năng là cơ sở cung cấp dịch vụ chỉnh hình, phục hồi chức năng cho người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Cơ sở chỉnh hình, phục hồi chức năng bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Viện chỉnh hình, phục hồi chức năng;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Trung tâm chỉnh hình, phục hồi chức năng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Bệnh viện điều dưỡng, phục hồi chức năng;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Khoa phục hồi chức năng của cơ sở khám bệnh, chữa bệnh;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Bộ phận phục hồi chức năng của cơ sở bảo trợ xã hội;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Cơ sở khác."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Việc thành lập và hoạt động của cơ sở chỉnh hình, phục hồi chức năng được thực hiện theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Nhà nước bảo đảm việc đầu tư xây dựng cơ sở vật chất kỹ thuật đối với cơ sở chỉnh hình, phục hồi chức năng công lập.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 25",
+            "title": "Phục hồi chức năng dựa vào cộng đồng",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Phục hồi chức năng dựa vào cộng đồng là biện pháp thực hiện tại cộng đồng nhằm chuyển giao kiến thức về vấn đề khuyết tật, kỹ năng phục hồi và thái độ tích cực đến người khuyết tật, gia đình của họ và cộng đồng nhằm tạo sự bình đẳng về cơ hội và hòa nhập cộng đồng cho người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Người khuyết tật được tạo điều kiện, hỗ trợ phục hồi chức năng dựa vào cộng đồng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Gia đình người khuyết tật có trách nhiệm tạo điều kiện thuận lợi để người khuyết tật phục hồi chức năng dựa vào cộng đồng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Cơ sở chỉnh hình, phục hồi chức năng có trách nhiệm tham gia hướng dẫn hoạt động chuyên môn phục hồi chức năng dựa vào cộng đồng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Ủy ban nhân dân các cấp có trách nhiệm xây dựng và tổ chức thực hiện chương trình phục hồi chức năng dựa vào cộng đồng; tạo điều kiện để cơ quan, tổ chức và cá nhân tổ chức hoặc tham gia thực hiện hoạt động phục hồi chức năng dựa vào cộng đồng.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 26",
+            "title": "Nghiên cứu khoa học, đào tạo chuyên gia, kỹ thuật viên, sản xuất trang thiết bị dành cho người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước hỗ trợ kinh phí theo dự án cho cơ quan, tổ chức nghiên cứu khoa học về người khuyết tật, đào tạo chuyên gia, kỹ thuật viên về chỉnh hình, phục hồi chức năng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Cơ sở sản xuất dụng cụ chỉnh hình, phương tiện, thiết bị phục hồi chức năng, trợ giúp sinh hoạt, học tập và lao động cho người khuyết tật được vay vốn với lãi suất ưu đãi, được miễn, giảm thuế theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Dụng cụ chỉnh hình, phương tiện, thiết bị phục hồi chức năng, trợ giúp sinh hoạt, học tập và lao động cho người khuyết tật từ chương trình, dự án viện trợ không hoàn lại hoặc do tổ chức, cá nhân nước ngoài tặng, hỗ trợ được miễn, giảm thuế theo quy định của pháp luật về thuế. CHƯƠNG IV GIÁO DỤC",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 27",
+            "title": "Giáo dục đối với người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước tạo điều kiện để người khuyết tật được học tập phù hợp với nhu cầu và khả năng của người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Người khuyết tật được nhập học ở độ tuổi cao hơn so với độ tuổi quy định đối với giáo dục phổ thông; được ưu tiên trong tuyển sinh; được miễn, giảm một số môn học hoặc nội dung và hoạt động giáo dục mà khả năng của cá nhân không thể đáp ứng; được miễn, giảm học phí, chi phí đào tạo, các khoản đóng góp khác; được xét cấp học bổng, hỗ trợ phương tiện, đồ dùng học tập.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Người khuyết tật được cung cấp phương tiện, tài liệu hỗ trợ học tập dành riêng trong trường hợp cần thiết; người khuyết tật nghe, nói được học bằng ngôn ngữ ký hiệu; người khuyết tật nhìn được học bằng chữ nổi Braille theo chuẩn quốc gia.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Bộ trưởng Bộ Giáo dục và Đào tạo chủ trì phối hợp với Bộ trưởng Bộ Lao động - Thương binh và Xã hội, Bộ trưởng Bộ Tài chính quy định chi tiết khoản 2 Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 28",
+            "title": "Phương thức giáo dục người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Phương thức giáo dục người khuyết tật bao gồm giáo dục hòa nhập, giáo dục bán hòa nhập và giáo dục chuyên biệt.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Giáo dục hòa nhập là phương thức giáo dục chủ yếu đối với người khuyết tật. Giáo dục bán hòa nhập và giáo dục chuyên biệt được thực hiện trong trường hợp chưa đủ điều kiện để người khuyết tật học tập theo phương thức giáo dục hòa nhập.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Người khuyết tật, cha, mẹ hoặc người giám hộ người khuyết tật lựa chọn phương thức giáo dục phù hợp với sự phát triển của cá nhân người khuyết tật. Gia đình có trách nhiệm tạo điều kiện và cơ hội thuận lợi để người khuyết tật được học tập và phát triển theo khả năng của cá nhân. Nhà nước khuyến khích người khuyết tật tham gia học tập theo phương thức giáo dục hòa nhập.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 29",
+            "title": "Nhà giáo, cán bộ quản lý giáo dục và nhân viên hỗ trợ giáo dục",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà giáo, cán bộ quản lý giáo dục tham gia giáo dục người khuyết tật, nhân viên hỗ trợ giáo dục người khuyết tật được đào tạo, bồi dưỡng cập nhật về chuyên môn, nghiệp vụ và kỹ năng đáp ứng nhu cầu giáo dục người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Nhà giáo, cán bộ quản lý giáo dục tham gia giáo dục người khuyết tật, nhân viên hỗ trợ giáo dục người khuyết tật được hưởng chế độ phụ cấp và chính sách ưu đãi theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 30",
+            "title": "Trách nhiệm của cơ sở giáo dục",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Bảo đảm các điều kiện dạy và học phù hợp đối với người khuyết tật, không được từ chối tiếp nhận người khuyết tật nhập học trái với quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thực hiện việc cải tạo, nâng cấp cơ sở vật chất dạy và học chưa bảo đảm điều kiện tiếp cận đối với người khuyết tật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 31",
+            "title": "Trung tâm hỗ trợ phát triển giáo dục hòa nhập",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Trung tâm hỗ trợ phát triển giáo dục hòa nhập là cơ sở cung cấp nội dung chương trình, thiết bị, tài liệu dạy và học, các dịch vụ tư vấn, hỗ trợ giáo dục, tổ chức giáo dục phù hợp với đặc điểm và hoàn cảnh của người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Trung tâm hỗ trợ phát triển giáo dục hòa nhập có nhiệm vụ sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Phát hiện khuyết tật để tư vấn lựa chọn phương thức giáo dục phù hợp;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Thực hiện biện pháp can thiệp sớm người khuyết tật tại cộng đồng để lựa chọn phương thức giáo dục phù hợp;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Tư vấn tâm lý, sức khỏe, giáo dục, hướng nghiệp để lựa chọn phương thức giáo dục phù hợp;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Hỗ trợ người khuyết tật tại gia đình, tại cơ sở giáo dục và cộng đồng;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Cung cấp nội dung chương trình, thiết bị, tài liệu dạy và học đặc thù phù hợp với từng dạng tật, mức độ khuyết tật."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Việc thành lập và hoạt động của Trung tâm hỗ trợ phát triển giáo dục hòa nhập phải bảo đảm điều kiện sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Có cơ sở vật chất, phương tiện thiết bị và dịch vụ hỗ trợ phù hợp với đặc điểm của người khuyết tật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Có đội ngũ cán bộ, giáo viên, nhân viên hỗ trợ giáo dục có trình độ chuyên môn phù hợp với các phương thức giáo dục người khuyết tật;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Có nội dung chương trình giáo dục, bồi dưỡng và tài liệu tư vấn phù hợp với các phương thức giáo dục người khuyết tật."
+                        }
+                    ]
+                },
+                {
+                    "number": "4",
+                    "text": "Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương thành lập hoặc cho phép thành lập Trung tâm hỗ trợ phát triển giáo dục hòa nhập.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Bộ trưởng Bộ Giáo dục và Đào tạo chủ trì, phối hợp với Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết điều kiện thành lập và hoạt động của Trung tâm hỗ trợ phát triển giáo dục hòa nhập quy định tại khoản 3 Điều này. CHƯƠNG V DẠY NGHỀ VÀ VIỆC LÀM",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 32",
+            "title": "Dạy nghề đối với người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước bảo đảm để người khuyết tật được tư vấn học nghề miễn phí, lựa chọn và học nghề theo khả năng, năng lực bình đẳng như những người khác.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Cơ sở dạy nghề có trách nhiệm cấp văn bằng, chứng chỉ, công nhận nghề đào tạo khi người khuyết tật học hết chương trình đào tạo và đủ điều kiện theo quy định của thủ trưởng cơ quan quản lý nhà nước về dạy nghề.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Cơ sở dạy nghề tổ chức dạy nghề cho người khuyết tật phải bảo đảm điều kiện dạy nghề cho người khuyết tật và được hưởng chính sách ưu đãi theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Người khuyết tật học nghề, giáo viên dạy nghề cho người khuyết tật được hưởng chế độ, chính sách theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 33",
+            "title": "Việc làm đối với người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước tạo điều kiện để người khuyết tật phục hồi chức năng lao động, được tư vấn việc làm miễn phí, có việc làm và làm việc phù hợp với sức khỏe và đặc điểm của người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Cơ quan, tổ chức, doanh nghiệp, cá nhân không được từ chối tuyển dụng người khuyết tật có đủ tiêu chuẩn tuyển dụng vào làm việc hoặc đặt ra tiêu chuẩn tuyển dụng trái quy định của pháp luật nhằm hạn chế cơ hội làm việc của người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Cơ quan, tổ chức, doanh nghiệp, cá nhân sử dụng lao động là người khuyết tật tùy theo điều kiện cụ thể bố trí sắp xếp công việc, bảo đảm điều kiện và môi trường làm việc phù hợp cho người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Cơ quan, tổ chức, doanh nghiệp, cá nhân sử dụng lao động là người khuyết tật phải thực hiện đầy đủ quy định của pháp luật về lao động đối với lao động là người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Tổ chức giới thiệu việc làm có trách nhiệm tư vấn học nghề, tư vấn và giới thiệu việc làm cho người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Người khuyết tật tự tạo việc làm hoặc hộ gia đình tạo việc làm cho người khuyết tật được vay vốn với lãi suất ưu đãi để sản xuất kinh doanh, được hướng dẫn về sản xuất, chuyển giao công nghệ, hỗ trợ tiêu thụ sản phẩm theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 34",
+            "title": "Cơ sở sản xuất, kinh doanh sử dụng nhiều lao động là người khuyết tật",
+            "content": []
+        },
+        {
+            "id": "Điều 35",
+            "title": "Chính sách nhận người khuyết tật vào làm việc",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước khuyến khích cơ quan, tổ chức và doanh nghiệp nhận người khuyết tật vào làm việc. Doanh nghiệp sử dụng nhiều lao động là người khuyết tật được hưởng chính sách ưu đãi theo quy định tại Điều 34 của Luật này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Chính phủ quy định chi tiết chính sách khuyến khích cơ quan, tổ chức và doanh nghiệp nhận người khuyết tật vào làm việc quy định tại khoản 1 Điều này. CHƯƠNG VI VĂN HÓA, THỂ DỤC, THỂ THAO, GIẢI TRÍ VÀ DU LỊCH",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 36",
+            "title": "Hoạt động văn hóa, thể dục, thể thao, giải trí và du lịch đối với người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước hỗ trợ hoạt động văn hóa, thể dục, thể thao, giải trí và du lịch phù hợp với đặc điểm của người khuyết tật; tạo điều kiện để người khuyết tật được hưởng thụ văn hóa, thể dục, thể thao, giải trí và du lịch.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Người khuyết tật đặc biệt nặng được miễn, người khuyết tật nặng được giảm giá vé và giá dịch vụ khi sử dụng một số dịch vụ văn hóa, thể dục, thể thao, giải trí và du lịch theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nhà nước và xã hội tạo điều kiện cho người khuyết tật phát triển tài năng, năng khiếu về văn hóa, nghệ thuật và thể thao; tham gia sáng tác, biểu diễn nghệ thuật, tập luyện, thi đấu thể thao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Nhà nước hỗ trợ hoạt động thiết kế, chế tạo và sản xuất dụng cụ, trang thiết bị phục vụ hoạt động văn hóa, thể thao; khuyến khích cơ quan, tổ chức, cá nhân thiết kế, chế tạo, sản xuất dụng cụ, trang thiết bị phục vụ hoạt động văn hóa, thể dục, thể thao, giải trí và du lịch phù hợp với người khuyết tật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 37",
+            "title": "Tổ chức hoạt động văn hóa, thể dục, thể thao, giải trí và du lịch của người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Hoạt động văn hóa, thể dục, thể thao, giải trí và du lịch của người khuyết tật được lồng ghép vào đời sống văn hóa cộng đồng, được tổ chức đa dạng về loại hình, đáp ứng nhu cầu thưởng thức văn hóa, thể dục, thể thao, giải trí và du lịch của người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Đại hội thể thao người khuyết tật toàn quốc, giải thi đấu thể thao, hội thi văn nghệ của người khuyết tật được tổ chức phù hợp với đặc điểm, nhu cầu của người khuyết tật và điều kiện kinh tế - xã hội.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 38",
+            "title": "Trách nhiệm của cơ sở văn hóa, thể dục, thể thao, giải trí và du lịch",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Đầu tư cơ sở vật chất, phương tiện trợ giúp và tạo điều kiện thuận lợi để người khuyết tật tham gia sinh hoạt văn hóa, tập luyện thể dục, thể thao, giải trí và du lịch; bố trí nhân lực, phương tiện, công cụ hỗ trợ người khuyết tật khi tổ chức những hoạt động văn hóa, thể dục, thể thao, giải trí và du lịch.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thực hiện cải tạo, nâng cấp cơ sở vật chất chưa bảo đảm điều kiện tiếp cận đối với người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Dụng cụ, trang thiết bị phục vụ cho hoạt động văn hóa, thể dục, thể thao, giải trí và du lịch của người khuyết tật phải bảo đảm an toàn, thuận tiện và phù hợp với đặc điểm của người khuyết tật. CHƯƠNG VII NHÀ CHUNG CƯ, CÔNG TRÌNH CÔNG CỘNG, GIAO THÔNG, CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 39",
+            "title": "Nhà chung cư và công trình công cộng",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Việc phê duyệt thiết kế, xây dựng, nghiệm thu công trình xây dựng mới, cải tạo và nâng cấp nhà chung cư, trụ sở làm việc và công trình hạ tầng kỹ thuật, công trình hạ tầng xã hội phải tuân thủ hệ thống quy chuẩn kỹ thuật quốc gia về xây dựng để bảo đảm người khuyết tật tiếp cận.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Nhà chung cư, trụ sở làm việc và công trình hạ tầng kỹ thuật công cộng, công trình hạ tầng xã hội được xây dựng trước ngày Luật này có hiệu lực mà chưa bảo đảm các điều kiện tiếp cận đối với người khuyết tật phải được cải tạo, nâng cấp để bảo đảm điều kiện tiếp cận theo lộ trình quy định tại Điều 40 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 40",
+            "title": "Lộ trình cải tạo nhà chung cư, công trình công cộng",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Đến ngày 01 tháng 01 năm 2020, các công trình công cộng sau đây phải bảo đảm điều kiện tiếp cận đối với người khuyết tật:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Trụ sở làm việc của cơ quan nhà nước;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Nhà ga, bến xe, bến tàu;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Cơ sở khám bệnh, chữa bệnh;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Cơ sở giáo dục, dạy nghề;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Công trình văn hóa, thể dục, thể thao."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Đến ngày 01 tháng 01 năm 2025, tất cả nhà chung cư, trụ sở làm việc, công trình hạ tầng kỹ thuật công cộng, công trình hạ tầng xã hội không thuộc trường hợp quy định tại khoản 1 Điều này phải bảo đảm điều kiện tiếp cận đối với người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Chính phủ quy định chi tiết việc thực hiện lộ trình cải tạo đối với từng loại công trình quy định tại khoản 1 và khoản 2 Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 41",
+            "title": "Tham gia giao thông của người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Phương tiện giao thông cá nhân của người khuyết tật khi tham gia giao thông phải bảo đảm quy chuẩn kỹ thuật quốc gia và phù hợp với điều kiện sức khỏe của người khuyết tật. Phương tiện giao thông cá nhân đòi hỏi phải có giấy phép điều khiển thì người khuyết tật được học và cấp giấy phép điều khiển đối với phương tiện đó.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Người khuyết tật khi tham gia giao thông bằng các phương tiện giao thông công cộng được sử dụng các phương tiện hỗ trợ hoặc sự trợ giúp tương ứng; được phép mang theo và miễn phí khi mang phương tiện, thiết bị hỗ trợ phù hợp.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Người khuyết tật đặc biệt nặng và người khuyết tật nặng được miễn, giảm giá vé, giá dịch vụ khi tham gia giao thông bằng một số phương tiện giao thông công cộng theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Người khuyết tật được ưu tiên mua vé, được giúp đỡ, sắp xếp chỗ ngồi thuận tiện khi sử dụng các phương tiện giao thông công cộng.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 42",
+            "title": "Phương tiện giao thông công cộng",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Phương tiện giao thông công cộng phải có chỗ ưu tiên cho người khuyết tật; có công cụ hỗ trợ lên, xuống thuận tiện hoặc sự trợ giúp phù hợp với đặc điểm của người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Phương tiện giao thông công cộng để người khuyết tật tiếp cận sử dụng phải đáp ứng quy chuẩn kỹ thuật quốc gia về giao thông tiếp cận do cơ quan nhà nước có thẩm quyền ban hành.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Đơn vị tham gia vận tải công cộng phải đầu tư và bố trí phương tiện bảo đảm quy chuẩn kỹ thuật về giao thông tiếp cận trên các tuyến vận tải theo tỷ lệ do Chính phủ quy định trong từng thời kỳ.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Phương tiện giao thông công cộng đáp ứng quy chuẩn kỹ thuật quốc gia về giao thông tiếp cận được miễn, giảm thuế theo quy định của pháp luật về thuế khi sản xuất, nhập khẩu.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 43",
+            "title": "Công nghệ thông tin và truyền thông",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước khuyến khích cơ quan, tổ chức, doanh nghiệp, cá nhân hoạt động trong lĩnh vực công nghệ thông tin ứng dụng và phát triển công nghệ thông tin dành cho người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Cơ quan thông tin đại chúng có trách nhiệm phản ánh đời sống vật chất và tinh thần của người khuyết tật. Đài truyền hình Việt Nam có trách nhiệm thực hiện chương trình phát sóng có phụ đề tiếng Việt và ngôn ngữ ký hiệu dành cho người khuyết tật theo quy định của Bộ trưởng Bộ Thông tin và Truyền thông.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nhà nước có chính sách miễn, giảm thuế, cho vay vốn với lãi suất ưu đãi và hỗ trợ khác cho hoạt động nghiên cứu, chế tạo, sản xuất và cung cấp dịch vụ, phương tiện hỗ trợ người khuyết tật tiếp cận công nghệ thông tin và truyền thông; hỗ trợ việc thu thập, biên soạn và xuất bản tài liệu in chữ nổi Braille dành cho người khuyết tật nhìn, tài liệu đọc dành cho người khuyết tật nghe, nói và người khuyết tật trí tuệ. CHƯƠNG VIII BẢO TRỢ XÃ HỘI",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 44",
+            "title": "Trợ cấp xã hội, hỗ trợ kinh phí chăm sóc hàng tháng",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Đối tượng hưởng trợ cấp xã hội hàng tháng bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Người khuyết tật đặc biệt nặng, trừ trường hợp quy định tại Điều 45 của Luật này;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Người khuyết tật nặng."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Đối tượng được hỗ trợ kinh phí chăm sóc hàng tháng bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Gia đình có người khuyết tật đặc biệt nặng đang trực tiếp nuôi dưỡng, chăm sóc người đó;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Người nhận nuôi dưỡng, chăm sóc người khuyết tật đặc biệt nặng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Người khuyết tật quy định tại khoản 1 Điều này đang mang thai hoặc nuôi con dưới 36 tháng tuổi."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Người khuyết tật quy định tại khoản 1 Điều này là trẻ em, người cao tuổi được hưởng mức trợ cấp cao hơn đối tượng khác cùng mức độ khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Mức trợ cấp xã hội hàng tháng, mức hỗ trợ kinh phí chăm sóc hàng tháng đối với từng loại đối tượng theo quy định tại Điều này do Chính phủ quy định.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 45",
+            "title": "Nuôi dưỡng người khuyết tật trong cơ sở bảo trợ xã hội",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Người khuyết tật đặc biệt nặng không nơi nương tựa, không tự lo được cuộc sống được tiếp nhận vào nuôi dưỡng tại cơ sở bảo trợ xã hội.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Nhà nước cấp kinh phí nuôi dưỡng người khuyết tật quy định tại khoản 1 Điều này cho các cơ sở bảo trợ xã hội bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Trợ cấp nuôi dưỡng hàng tháng;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Mua sắm tư trang, vật dụng phục vụ cho sinh hoạt thường ngày;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Mua thẻ bảo hiểm y tế;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Mua thuốc chữa bệnh thông thường;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Mua dụng cụ, phương tiện hỗ trợ phục hồi chức năng;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Mai táng khi chết;"
+                        },
+                        {
+                            "letter": "g",
+                            "text": "Vệ sinh cá nhân hàng tháng đối với người khuyết tật là nữ."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Chính phủ quy định mức trợ cấp nuôi dưỡng hàng tháng và kinh phí quy định tại khoản 2 Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 46",
+            "title": "Chế độ mai táng phí",
+            "content": []
+        },
+        {
+            "id": "Điều 47",
+            "title": "Cơ sở chăm sóc người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Cơ sở chăm sóc người khuyết tật là cơ sở nuôi dưỡng, cung cấp dịch vụ tư vấn, trợ giúp người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Cơ sở chăm sóc người khuyết tật bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Cơ sở bảo trợ xã hội;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Cơ sở dịch vụ hỗ trợ người khuyết tật;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Trung tâm hỗ trợ người khuyết tật sống độc lập;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Cơ sở chăm sóc người khuyết tật khác."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Chính phủ quy định điều kiện thành lập, hoạt động, giải thể cơ sở chăm sóc người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Nhà nước đầu tư cơ sở vật chất và bảo đảm kinh phí hoạt động cho cơ sở chăm sóc người khuyết tật công lập.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 48",
+            "title": "Trách nhiệm của cơ sở chăm sóc người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tuân thủ điều kiện hoạt động của cơ sở chăm sóc người khuyết tật; thực hiện đầy đủ các quy chuẩn về nuôi dưỡng, cung cấp dịch vụ tư vấn, trợ giúp người khuyết tật tương ứng với từng loại cơ sở.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thực hiện cải tạo, nâng cấp cơ sở vật chất chưa bảo đảm điều kiện tiếp cận đối với người khuyết tật. CHƯƠNG IX TRÁCH NHIỆM CỦA CƠ QUAN NHÀ NƯỚC VỀ CÔNG TÁC NGƯỜI KHUYẾT TẬT",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 49",
+            "title": "Cơ quan quản lý nhà nước về công tác người khuyết tật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Chính phủ thống nhất quản lý nhà nước về công tác người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Bộ Lao động - Thương binh và Xã hội chịu trách nhiệm trước Chính phủ thực hiện chức năng quản lý nhà nước về công tác người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Các bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Lao động - Thương binh và Xã hội thực hiện quản lý nhà nước về công tác người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện quản lý nhà nước về công tác người khuyết tật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 50",
+            "title": "Trách nhiệm của bộ, cơ quan ngang bộ và Ủy ban nhân dân các cấp",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Bộ Lao động - Thương binh và Xã hội có trách nhiệm sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Xây dựng và trình cơ quan có thẩm quyền ban hành hoặc ban hành theo thẩm quyền văn bản quy phạm pháp luật, chương trình, đề án, kế hoạch về công tác người khuyết tật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Chủ trì và phối hợp với các bộ, cơ quan ngang bộ và Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương tổ chức thực hiện văn bản quy phạm pháp luật về người khuyết tật; chương trình, đề án, kế hoạch về công tác người khuyết tật;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Xây dựng và trình Chính phủ ban hành thủ tục, hồ sơ, thời gian và quy trình giải quyết chế độ trợ cấp xã hội, chế độ mai táng phí; quy trình, thủ tục, hồ sơ tiếp nhận và điều kiện dừng nuôi dưỡng, chăm sóc người khuyết tật trong cơ sở chăm sóc người khuyết tật;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Xây dựng và trình Chính phủ ban hành quy định về chế độ, chính sách đối với người làm công tác người khuyết tật; cán bộ, công chức, nhân viên chăm sóc, nhân viên phục hồi chức năng, cán bộ chuyên trách của tổ chức người khuyết tật;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Quy định tiêu chuẩn nghiệp vụ đối với cán bộ, công chức, nhân viên chăm sóc người khuyết tật trong cơ sở chăm sóc người khuyết tật;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Đào tạo nghiệp vụ cán bộ, công chức, nhân viên làm công tác người khuyết tật và nhân viên chăm sóc người khuyết tật tại gia đình, cộng đồng và trong cơ sở chăm sóc người khuyết tật;"
+                        },
+                        {
+                            "letter": "g",
+                            "text": "Xây dựng và thực hiện chương trình nâng cao nhận thức về người khuyết tật và công tác người khuyết tật;"
+                        },
+                        {
+                            "letter": "h",
+                            "text": "Kiểm tra, thanh tra việc thực hiện pháp luật về người khuyết tật;"
+                        },
+                        {
+                            "letter": "i",
+                            "text": "Thực hiện hợp tác quốc tế về người khuyết tật;"
+                        },
+                        {
+                            "letter": "k",
+                            "text": "Xây dựng và trình Thủ tướng Chính phủ phê duyệt đề án trợ giúp người khuyết tật;"
+                        },
+                        {
+                            "letter": "l",
+                            "text": "Thực hiện khảo sát, thống kê, xây dựng và quản lý cơ sở dữ liệu và thông tin, định kỳ công bố báo cáo về người khuyết tật;"
+                        },
+                        {
+                            "letter": "m",
+                            "text": "Quy hoạch và quản lý hệ thống cơ sở chỉnh hình, phục hồi chức năng và cơ sở chăm sóc người khuyết tật thuộc thẩm quyền."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Bộ Y tế có trách nhiệm sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Thực hiện quản lý nhà nước về chăm sóc sức khỏe người khuyết tật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Chủ trì và phối hợp với Bộ Lao động - Thương binh và Xã hội quy định chi tiết hoạt động phục hồi chức năng người khuyết tật; đào tạo về phục hồi chức năng; thực hiện chương trình phòng ngừa khuyết tật; hướng dẫn thực hiện phục hồi chức năng dựa vào cộng đồng đối với người khuyết tật."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Bộ Giáo dục và Đào tạo có trách nhiệm sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Thực hiện quản lý nhà nước về giáo dục đối với người khuyết tật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Quy định chuẩn quốc gia về ngôn ngữ ký hiệu và chữ nổi Braille cho người khuyết tật;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thực hiện quy hoạch hệ thống các cơ sở giáo dục chuyên biệt đối với người khuyết tật và hệ thống trung tâm hỗ trợ phát triển giáo dục hòa nhập;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Đào tạo giáo viên, nhân viên hỗ trợ giáo dục, biên soạn chương trình, tài liệu, giáo trình và sách giáo khoa áp dụng cho người học là người khuyết tật; chỉ đạo nghiên cứu, sản xuất và cung ứng thiết bị dạy học phù hợp với từng dạng tật và mức độ khuyết tật;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Chủ trì và phối hợp với Bộ Lao động - Thương binh và Xã hội, Bộ Y tế thực hiện chương trình giáo dục đặc biệt đối với trẻ em khuyết tật."
+                        }
+                    ]
+                },
+                {
+                    "number": "4",
+                    "text": "Bộ Văn hóa, Thể thao và Du lịch có trách nhiệm thực hiện quản lý nhà nước về công tác văn hóa, thể thao, giải trí và du lịch đối với người khuyết tật; chỉ đạo, hướng dẫn và tổ chức thực hiện các hoạt động nâng cao đời sống văn hóa, tinh thần cho người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Bộ Xây dựng có trách nhiệm chủ trì và phối hợp với các bộ, cơ quan ngang bộ có liên quan ban hành, hướng dẫn và tổ chức thực hiện quy chuẩn kỹ thuật quốc gia về xây dựng nhà ở chung cư, trụ sở làm việc, công trình hạ tầng kỹ thuật, công trình hạ tầng xã hội bảo đảm điều kiện tiếp cận đối với người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Bộ Giao thông vận tải có trách nhiệm chủ trì và phối hợp với các bộ, cơ quan ngang bộ có liên quan ban hành, hướng dẫn và tổ chức thực hiện quy chuẩn kỹ thuật quốc gia về kết cấu hạ tầng giao thông, các công cụ hỗ trợ và chính sách ưu tiên người khuyết tật tham gia giao thông công cộng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Bộ Thông tin và Truyền thông có trách nhiệm ban hành, hướng dẫn và tổ chức thực hiện quy chuẩn kỹ thuật quốc gia về tiếp cận thông tin đối với người khuyết tật; chỉ đạo, hướng dẫn cơ quan thông tin đại chúng thực hiện tuyên truyền, phổ biến chính sách, pháp luật đối với người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "8",
+                    "text": "Bộ Khoa học và Công nghệ chủ trì và phối hợp với các bộ, cơ quan ngang bộ có liên quan ban hành, hướng dẫn và tổ chức thực hiện quy định khuyến khích nghiên cứu, sản xuất và ứng dụng sản phẩm hỗ trợ người khuyết tật sử dụng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "9",
+                    "text": "Bộ Tài chính bố trí ngân sách thực hiện các chính sách, chương trình, đề án, dự án trợ giúp người khuyết tật; bố trí ngân sách điều tra, khảo sát và thống kê người khuyết tật theo quy định của pháp luật về ngân sách nhà nước.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "10",
+                    "text": "Bộ Kế hoạch và Đầu tư thẩm định, phê duyệt các dự án nhà nước đầu tư chăm sóc, nuôi dưỡng, chỉnh hình, phục hồi chức năng người khuyết tật; chủ trì và phối hợp với Bộ Lao động - Thương binh và Xã hội điều tra, khảo sát và thống kê người khuyết tật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "11",
+                    "text": "Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về công tác người khuyết tật; lồng ghép công tác người khuyết tật vào kế hoạch phát triển kinh tế - xã hội của địa phương; bảo đảm điều kiện để người khuyết tật thực hiện quyền, nghĩa vụ và trách nhiệm của mình; tạo điều kiện cho tổ chức, cá nhân tham gia hỗ trợ người khuyết tật. CHƯƠNG X ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 51",
+            "title": "Áp dụng pháp luật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Người khuyết tật đang hưởng chính sách ưu đãi người có công với cách mạng; đang hưởng lương hưu, trợ cấp bảo hiểm xã hội hàng tháng thì không hưởng chính sách quy định tại khoản 1 Điều 44 của Luật này nhưng được hưởng chính sách quy định tại Luật này nếu pháp luật về người có công với cách mạng hoặc pháp luật về bảo hiểm xã hội chưa quy định.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Người khuyết tật thuộc đối tượng được hưởng nhiều chính sách trợ giúp các đối tượng bảo trợ xã hội cùng loại chỉ được hưởng một chính sách trợ giúp cao nhất.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Người khuyết tật đang được hưởng chế độ nuôi dưỡng, chăm sóc tại cơ sở bảo trợ xã hội trước ngày Luật này có hiệu lực thì được tiếp tục nuôi dưỡng, chăm sóc tại cơ sở bảo trợ xã hội theo quy định tại khoản 2 Điều 45 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 52",
+            "title": "Hiệu lực thi hành",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2011.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Pháp lệnh về người tàn tật năm 1998 hết hiệu lực kể từ ngày Luật này có hiệu lực.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 53",
+            "title": "Quy định chi tiết và hướng dẫn thi hành",
+            "content": []
+        }
+    ],
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Phú Trọng"
+    ]
+}

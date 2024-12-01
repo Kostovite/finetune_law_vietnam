@@ -1,0 +1,2991 @@
+{
+    "header": [
+        "QUỐC HỘI",
+        "--------------",
+        "Luật số: 63/2014/QH13",
+        "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+        "Độc lập - Tự do - Hạnh phúc",
+        "----------------------------------",
+        "LUẬT",
+        "TỔ CHỨC VIỆN KIỂM SÁT NHÂN DÂN",
+        "Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;",
+        "Quốc hội ban hành Luật tổ chức Viện kiểm sát nhân dân.",
+        "CHƯƠNG I",
+        "NHỮNG QUY ĐỊNH CHUNG"
+    ],
+    "content": [
+        {
+            "id": "Điều 1",
+            "title": "Phạm vi điều chỉnh",
+            "content": []
+        },
+        {
+            "id": "Điều 2",
+            "title": "Chức năng, nhiệm vụ của Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện kiểm sát nhân dân là cơ quan thực hành quyền công tố, kiểm sát hoạt động tư pháp của nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện kiểm sát nhân dân có nhiệm vụ bảo vệ Hiến pháp và pháp luật, bảo vệ quyền con người, quyền công dân, bảo vệ chế độ xã hội chủ nghĩa, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân, góp phần bảo đảm pháp luật được chấp hành nghiêm chỉnh và thống nhất.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 3",
+            "title": "Chức năng thực hành quyền công tố của Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thực hành quyền công tố là hoạt động của Viện kiểm sát nhân dân trong tố tụng hình sự để thực hiện việc buộc tội của Nhà nước đối với người phạm tội, được thực hiện ngay từ khi giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và trong suốt quá trình khởi tố, điều tra, truy tố, xét xử vụ án hình sự.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện kiểm sát nhân dân thực hành quyền công tố nhằm bảo đảm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Mọi hành vi phạm tội, người phạm tội phải được phát hiện, khởi tố, điều tra, truy tố, xét xử kịp thời, nghiêm minh, đúng người, đúng tội, đúng pháp luật, không làm oan người vô tội, không để lọt tội phạm và người phạm tội;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Không để người nào bị khởi tố, bị bắt, tạm giữ, tạm giam, bị hạn chế quyền con người, quyền công dân trái luật."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Khi thực hiện chức năng thực hành quyền công tố, Viện kiểm sát nhân dân có nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Yêu cầu khởi tố, hủy bỏ quyết định khởi tố hoặc không khởi tố vụ án trái pháp luật, phê chuẩn, không phê chuẩn quyết định khởi tố bị can của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra; trực tiếp khởi tố vụ án, khởi tố bị can trong những trường hợp do Bộ luật tố tụng hình sự quy định;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Quyết định, phê chuẩn việc áp dụng, thay đổi, hủy bỏ các biện pháp hạn chế quyền con người, quyền công dân trong việc giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và trong việc khởi tố, điều tra, truy tố theo quy định của Bộ luật tố tụng hình sự;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Hủy bỏ các quyết định tố tụng trái pháp luật khác trong việc giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và trong việc khởi tố, điều tra của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Khi cần thiết đề ra yêu cầu điều tra và yêu cầu Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Yêu cầu cơ quan, tổ chức, cá nhân hữu quan cung cấp tài liệu để làm rõ tội phạm, người phạm tội;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Trực tiếp giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; tiến hành một số hoạt động điều tra để làm rõ căn cứ quyết định việc buộc tội đối với người phạm tội;"
+                        },
+                        {
+                            "letter": "g",
+                            "text": "Điều tra các tội phạm xâm phạm hoạt động tư pháp, các tội phạm về tham nhũng, chức vụ xảy ra trong hoạt động tư pháp theo quy định của luật;"
+                        },
+                        {
+                            "letter": "h",
+                            "text": "Quyết định việc áp dụng thủ tục rút gọn trong giai đoạn điều tra, truy tố;"
+                        },
+                        {
+                            "letter": "i",
+                            "text": "Quyết định việc truy tố, buộc tội bị cáo tại phiên tòa;"
+                        },
+                        {
+                            "letter": "k",
+                            "text": "Kháng nghị bản án, quyết định của Tòa án trong trường hợp Viện kiểm sát nhân dân phát hiện oan, sai, bỏ lọt tội phạm, người phạm tội;"
+                        },
+                        {
+                            "letter": "l",
+                            "text": "Thực hiện nhiệm vụ, quyền hạn khác trong việc buộc tội đối với người phạm tội theo quy định của Bộ luật tố tụng hình sự."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 4",
+            "title": "Chức năng kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Kiểm sát hoạt động tư pháp là hoạt động của Viện kiểm sát nhân dân để kiểm sát tính hợp pháp của các hành vi, quyết định của cơ quan, tổ chức, cá nhân trong hoạt động tư pháp, được thực hiện ngay từ khi tiếp nhận và giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và trong suốt quá trình giải quyết vụ án hình sự; trong việc giải quyết vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động; việc thi hành án, việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp; các hoạt động tư pháp khác theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện kiểm sát nhân dân kiểm sát hoạt động tư pháp nhằm bảo đảm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố; việc giải quyết vụ án hình sự, vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động; việc thi hành án; việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp; các hoạt động tư pháp khác được thực hiện đúng quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Việc bắt, tạm giữ, tạm giam, thi hành án phạt tù, chế độ tạm giữ, tạm giam, quản lý và giáo dục người chấp hành án phạt tù theo đúng quy định của pháp luật; quyền con người và các quyền, lợi ích hợp pháp khác của người bị bắt, tạm giữ, tạm giam, người chấp hành án phạt tù không bị luật hạn chế phải được tôn trọng và bảo vệ;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Bản án, quyết định của Tòa án đã có hiệu lực pháp luật phải được thi hành nghiêm chỉnh;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Mọi vi phạm pháp luật trong hoạt động tư pháp phải được phát hiện, xử lý kịp thời, nghiêm minh."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Khi thực hiện chức năng kiểm sát hoạt động tư pháp, Viện kiểm sát nhân dân có nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Yêu cầu cơ quan, tổ chức, cá nhân thực hiện hoạt động tư pháp theo đúng quy định của pháp luật; tự kiểm tra việc tiến hành hoạt động tư pháp thuộc thẩm quyền và thông báo kết quả cho Viện kiểm sát nhân dân; cung cấp hồ sơ, tài liệu để Viện kiểm sát nhân dân kiểm sát tính hợp pháp của các hành vi, quyết định trong hoạt động tư pháp;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Trực tiếp kiểm sát; xác minh, thu thập tài liệu để làm rõ vi phạm pháp luật của cơ quan, tổ chức, cá nhân trong hoạt động tư pháp;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Xử lý vi phạm; yêu cầu, kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền khắc phục, xử lý nghiêm minh vi phạm pháp luật trong hoạt động tư pháp; kiến nghị cơ quan, tổ chức hữu quan áp dụng các biện pháp phòng ngừa vi phạm pháp luật và tội phạm;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Kháng nghị bản án, quyết định của Tòa án có vi phạm pháp luật; kiến nghị hành vi, quyết định của Tòa án có vi phạm pháp luật; kháng nghị hành vi, quyết định có vi phạm pháp luật của cơ quan, người có thẩm quyền khác trong hoạt động tư pháp;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Kiểm sát việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp; giải quyết khiếu nại, tố cáo thuộc thẩm quyền;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát hoạt động tư pháp theo quy định của pháp luật."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 5",
+            "title": "Kháng nghị, kiến nghị của Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Trường hợp hành vi, bản án, quyết định của cơ quan, cá nhân có thẩm quyền trong hoạt động tư pháp có vi phạm pháp luật nghiêm trọng, xâm phạm quyền con người, quyền công dân, lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì Viện kiểm sát nhân dân phải kháng nghị. Cơ quan, người có thẩm quyền phải giải quyết kháng nghị của Viện kiểm sát nhân dân theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Trường hợp hành vi, quyết định của cơ quan, tổ chức, cá nhân trong hoạt động tư pháp có vi phạm pháp luật ít nghiêm trọng không thuộc trường hợp kháng nghị quy định tại khoản 1 Điều này thì Viện kiểm sát nhân dân kiến nghị cơ quan, tổ chức, cá nhân đó khắc phục vi phạm pháp luật và xử lý nghiêm minh người vi phạm pháp luật; nếu phát hiện sơ hở, thiếu sót trong hoạt động quản lý thì kiến nghị cơ quan, tổ chức hữu quan khắc phục và áp dụng các biện pháp phòng ngừa vi phạm pháp luật và tội phạm. Cơ quan, tổ chức, cá nhân liên quan có trách nhiệm xem xét, giải quyết, trả lời kiến nghị của Viện kiểm sát nhân dân theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 6",
+            "title": "Các công tác của Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện kiểm sát nhân dân thực hiện chức năng thực hành quyền công tố bằng các công tác sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Thực hành quyền công tố trong việc giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Thực hành quyền công tố trong giai đoạn khởi tố, điều tra vụ án hình sự;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thực hành quyền công tố trong giai đoạn truy tố tội phạm;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Thực hành quyền công tố trong giai đoạn xét xử vụ án hình sự;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Điều tra một số loại tội phạm;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Thực hành quyền công tố trong hoạt động tương trợ tư pháp về hình sự."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Viện kiểm sát nhân dân thực hiện chức năng kiểm sát hoạt động tư pháp bằng các công tác sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Kiểm sát việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Kiểm sát việc khởi tố, điều tra vụ án hình sự;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Kiểm sát việc tuân theo pháp luật của người tham gia tố tụng trong giai đoạn truy tố;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Kiểm sát việc xét xử vụ án hình sự;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Kiểm sát việc tạm giữ, tạm giam, thi hành án hình sự;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Kiểm sát việc giải quyết các vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động và những việc khác theo quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "g",
+                            "text": "Kiểm sát việc thi hành án dân sự, thi hành án hành chính;"
+                        },
+                        {
+                            "letter": "h",
+                            "text": "Kiểm sát việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp của các cơ quan có thẩm quyền theo quy định của pháp luật; giải quyết khiếu nại, tố cáo trong hoạt động tư pháp thuộc thẩm quyền;"
+                        },
+                        {
+                            "letter": "i",
+                            "text": "Kiểm sát hoạt động tương trợ tư pháp."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Các công tác khác của Viện kiểm sát nhân dân gồm có:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Thống kê tội phạm; xây dựng pháp luật; phổ biến, giáo dục pháp luật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Đào tạo, bồi dưỡng; nghiên cứu khoa học; hợp tác quốc tế và các công tác khác để xây dựng Viện kiểm sát nhân dân."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 7",
+            "title": "Nguyên tắc tổ chức và hoạt động của Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện kiểm sát nhân dân do Viện trưởng lãnh đạo. Viện trưởng Viện kiểm sát nhân dân cấp dưới chịu sự lãnh đạo của Viện trưởng Viện kiểm sát nhân dân cấp trên. Viện trưởng các Viện kiểm sát cấp dưới chịu sự lãnh đạo thống nhất của Viện trưởng Viện kiểm sát nhân dân tối cao. Viện kiểm sát cấp trên có trách nhiệm kiểm tra, xử lý nghiêm minh vi phạm pháp luật của Viện kiểm sát cấp dưới. Viện trưởng Viện kiểm sát cấp trên có quyền rút, đình chỉ, hủy bỏ quyết định trái pháp luật của Viện trưởng Viện kiểm sát cấp dưới.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tại Viện kiểm sát nhân dân tối cao, Viện kiểm sát nhân dân cấp cao, Viện kiểm sát nhân dân tỉnh, thành phố trực thuộc trung ương, Viện kiểm sát quân sự trung ương, Viện kiểm sát quân sự quân khu và tương đương thành lập Ủy ban kiểm sát để thảo luận và quyết định theo đa số những vấn đề quan trọng, cho ý kiến về các vụ án, vụ việc trước khi Viện trưởng quyết định theo quy định tại các điều 43, 45, 47, 53 và 55 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 8",
+            "title": "Trách nhiệm phối hợp của Viện kiểm sát nhân dân",
+            "content": []
+        },
+        {
+            "id": "Điều 9",
+            "title": "Quyền và trách nhiệm của cơ quan, tổ chức, cá nhân đối với hoạt động của Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Cơ quan, tổ chức, cá nhân hữu quan phải nghiêm chỉnh chấp hành các quyết định, yêu cầu, kiến nghị, kháng nghị của Viện kiểm sát nhân dân; có quyền kiến nghị, khiếu nại, tố cáo các hành vi, quyết định trái pháp luật của Viện kiểm sát nhân dân; Viện kiểm sát nhân dân phải giải quyết, trả lời theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Khi có căn cứ cho rằng hành vi, quyết định của Viện kiểm sát nhân dân không có căn cứ, trái pháp luật thì Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra, Tòa án và Cơ quan thi hành án có quyền kiến nghị, yêu cầu Viện kiểm sát nhân dân xem xét lại. Viện kiểm sát nhân dân phải giải quyết, trả lời theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nghiêm cấm cơ quan, tổ chức, cá nhân cản trở, can thiệp vào hoạt động thực hành quyền công tố, kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân; lợi dụng quyền khiếu nại, tố cáo để vu khống cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 10",
+            "title": "Giám sát hoạt động của Viện kiểm sát nhân dân",
+            "content": []
+        },
+        {
+            "id": "Điều 11",
+            "title": "Ngày truyền thống, phù hiệu của Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Ngày truyền thống của Viện kiểm sát nhân dân là ngày 26 tháng 7 hằng năm.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Phù hiệu của Viện kiểm sát nhân dân hình tròn, nền đỏ, viền vàng, có tia chìm ly tâm; ở giữa có hình ngôi sao năm cánh nổi màu vàng; hai bên có hình bông lúa; ở dưới có hình thanh kiếm lá chắn; trên nền lá chắn có nửa bánh xe răng màu xanh thẫm và các chữ “KS” màu bạch kim; nửa dưới phù hiệu có hình dải lụa đỏ bao quanh, phía trước có dòng chữ “Cộng hòa xã hội chủ nghĩa Việt Nam”. CHƯƠNG II CÁC CÔNG TÁC THỰC HIỆN CHỨC NĂNG, NHIỆM VỤ CỦA VIỆN KIỂM SÁT NHÂN DÂN Mục 1 THỰC HÀNH QUYỀN CÔNG TỐ, KIỂM SÁT VIỆC TIẾP NHẬN, GIẢI QUYẾT TỐ GIÁC, TIN BÁOVỀ TỘI PHẠM VÀ KIẾN NGHỊ KHỞI TỐ",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 12",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong việc giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Phê chuẩn, không phê chuẩn việc bắt người trong trường hợp khẩn cấp, gia hạn tạm giữ và các biện pháp khác hạn chế quyền con người, quyền công dân trong việc giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Hủy bỏ quyết định tạm giữ, các quyết định tố tụng khác trái pháp luật của cơ quan có thẩm quyền trong việc giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Khi cần thiết đề ra yêu cầu kiểm tra, xác minh và yêu cầu cơ quan có thẩm quyền giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố thực hiện.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Trực tiếp giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố trong trường hợp phát hiện có vi phạm pháp luật nghiêm trọng hoặc có dấu hiệu bỏ lọt tội phạm mà Viện kiểm sát nhân dân đã yêu cầu nhưng không được khắc phục.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn khác để thực hành quyền công tố theo quy định của Bộ luật tố tụng hình sự nhằm chống bỏ lọt tội phạm, chống làm oan người vô tội.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 13",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tiếp nhận đầy đủ tố giác, tin báo về tội phạm và kiến nghị khởi tố do các cơ quan, tổ chức, cá nhân chuyển đến và chuyển ngay cho Cơ quan điều tra có thẩm quyền giải quyết.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Kiểm sát việc tuân theo pháp luật của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra trong việc tiếp nhận tố giác, tin báo về tội phạm và kiến nghị khởi tố. Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra có trách nhiệm thông báo đầy đủ, kịp thời tố giác, tin báo về tội phạm và kiến nghị khởi tố đã tiếp nhận cho Viện kiểm sát nhân dân.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Trực tiếp kiểm sát; kiểm sát việc kiểm tra, xác minh, lập hồ sơ và kết quả giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra. Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra có trách nhiệm thông báo đầy đủ, kịp thời kết quả xác minh, giải quyết cho Viện kiểm sát nhân dân.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Khi phát hiện việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố không đầy đủ, vi phạm pháp luật thì Viện kiểm sát nhân dân yêu cầu Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện các hoạt động sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tiếp nhận, kiểm tra, xác minh, ra quyết định giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố đầy đủ, đúng pháp luật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Kiểm tra việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và thông báo kết quả cho Viện kiểm sát nhân dân;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Cung cấp tài liệu về vi phạm pháp luật trong việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Khắc phục vi phạm pháp luật và xử lý nghiêm người vi phạm."
+                        }
+                    ]
+                },
+                {
+                    "number": "5",
+                    "text": "Giải quyết các tranh chấp về thẩm quyền giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố theo quy định của Bộ luật tố tụng hình sự. Mục 2 THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT ĐIỀU TRA VỤ ÁN HÌNH SỰ",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 14",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn điều tra vụ án hình sự",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Yêu cầu Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra khởi tố hoặc thay đổi, bổ sung quyết định khởi tố vụ án, khởi tố bị can.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Hủy bỏ các quyết định khởi tố, quyết định thay đổi hoặc bổ sung quyết định khởi tố vụ án, quyết định không khởi tố vụ án trái pháp luật; phê chuẩn hoặc hủy bỏ quyết định khởi tố, quyết định thay đổi hoặc bổ sung quyết định khởi tố bị can trái pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Khởi tố, thay đổi, bổ sung quyết định khởi tố vụ án, khởi tố bị can trong những trường hợp do Bộ luật tố tụng hình sự quy định.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Phê chuẩn, không phê chuẩn việc bắt người trong trường hợp khẩn cấp, gia hạn tạm giữ, việc tạm giam và các biện pháp khác hạn chế quyền con người, quyền công dân.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Quyết định áp dụng, thay đổi, hủy bỏ biện pháp bắt, tạm giữ, tạm giam, các biện pháp ngăn chặn và các biện pháp khác hạn chế quyền con người, quyền công dân theo quy định của luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Phê chuẩn, không phê chuẩn, hủy bỏ các quyết định tố tụng khác của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Đề ra yêu cầu điều tra và yêu cầu Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra thực hiện việc điều tra để làm rõ tội phạm, người phạm tội; yêu cầu Cơ quan điều tra truy nã bị can.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "8",
+                    "text": "Trực tiếp tiến hành một số hoạt động điều tra trong trường hợp để kiểm tra, bổ sung tài liệu, chứng cứ khi xét phê chuẩn các lệnh, quyết định của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra hoặc trong trường hợp phát hiện có dấu hiệu oan, sai, bỏ lọt tội phạm, vi phạm pháp luật mà Viện kiểm sát nhân dân đã yêu cầu nhưng không được khắc phục.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "9",
+                    "text": "Khởi tố hoặc yêu cầu Cơ quan điều tra khởi tố vụ án hình sự khi phát hiện hành vi của người có thẩm quyền trong việc giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố và trong việc khởi tố, điều tra có dấu hiệu tội phạm.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "10",
+                    "text": "Quyết định việc gia hạn thời hạn điều tra, thời hạn tạm giam, chuyển vụ án, áp dụng thủ tục rút gọn, áp dụng biện pháp bắt buộc chữa bệnh.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "11",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn khác trong việc thực hành quyền công tố theo quy định của Bộ luật tố tụng hình sự.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 15",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát điều tra vụ án hình sự",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Kiểm sát việc tuân theo pháp luật trong việc khởi tố, điều tra và lập hồ sơ vụ án của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Kiểm sát hoạt động tố tụng hình sự của người tham gia tố tụng; yêu cầu, kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý nghiêm minh người tham gia tố tụng vi phạm pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Giải quyết tranh chấp về thẩm quyền điều tra.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Yêu cầu Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra cung cấp tài liệu liên quan để kiểm sát việc tuân theo pháp luật trong việc khởi tố, điều tra khi cần thiết.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Kiến nghị, yêu cầu Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra khắc phục vi phạm trong việc khởi tố, điều tra.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Yêu cầu Thủ trưởng Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra thay đổi Điều tra viên, cán bộ điều tra; xử lý nghiêm minh Điều tra viên, cán bộ điều tra vi phạm pháp luật trong hoạt động tố tụng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Kiến nghị cơ quan, tổ chức hữu quan áp dụng biện pháp phòng ngừa tội phạm và vi phạm pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "8",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát điều tra vụ án hình sự theo quy định của Bộ luật tố tụng hình sự. Mục 3 THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT HOẠT ĐỘNG TƯ PHÁP TRONG GIAI ĐOẠN TRUY TỐ",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 16",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn truy tố",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Quyết định áp dụng, thay đổi, hủy bỏ biện pháp bắt, tạm giữ, tạm giam, các biện pháp khác hạn chế quyền con người, quyền công dân theo quy định của luật; yêu cầu Cơ quan điều tra truy nã bị can.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Yêu cầu cơ quan, tổ chức, cá nhân cung cấp tài liệu liên quan đến vụ án trong trường hợp cần thiết.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Trực tiếp tiến hành một số hoạt động điều tra nhằm kiểm tra, bổ sung tài liệu, chứng cứ để quyết định việc truy tố hoặc khi Tòa án yêu cầu điều tra bổ sung mà xét thấy không cần phải trả hồ sơ cho Cơ quan điều tra.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Quyết định khởi tố, thay đổi, bổ sung quyết định khởi tố vụ án, khởi tố bị can trong trường hợp phát hiện vụ án còn có hành vi phạm tội, người phạm tội khác chưa được khởi tố, điều tra và trả hồ sơ cho Cơ quan điều tra để điều tra bổ sung.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Quyết định việc tách, nhập vụ án, chuyển vụ án để truy tố theo thẩm quyền, áp dụng thủ tục rút gọn, áp dụng biện pháp bắt buộc chữa bệnh.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Quyết định gia hạn, không gia hạn thời hạn truy tố, thời hạn áp dụng các biện pháp ngăn chặn.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Quyết định truy tố, không truy tố bị can.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "8",
+                    "text": "Quyết định đình chỉ, tạm đình chỉ vụ án, bị can; quyết định phục hồi vụ án, bị can.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "9",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn khác để quyết định việc truy tố theo quy định của Bộ luật tố tụng hình sự.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 17",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát hoạt động tư pháp trong giai đoạn truy tố",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Kiểm sát hoạt động tố tụng hình sự của người tham gia tố tụng; yêu cầu, kiến nghị cơ quan, tổ chức, cá nhân có thẩm quyền xử lý nghiêm minh người tham gia tố tụng vi phạm pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Kiến nghị cơ quan, tổ chức hữu quan áp dụng biện pháp phòng ngừa tội phạm và vi phạm pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát hoạt động tư pháp theo quy định của Bộ luật tố tụng hình sự. Mục 4 THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT XÉT XỬ VỤ ÁN HÌNH SỰ",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 18",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong giai đoạn xét xử vụ án hình sự",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Công bố cáo trạng hoặc quyết định truy tố theo thủ tục rút gọn, quyết định khác về việc buộc tội đối với bị cáo tại phiên tòa.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Xét hỏi, luận tội, tranh luận, phát biểu quan điểm về việc giải quyết vụ án tại phiên tòa.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Kháng nghị bản án, quyết định của Tòa án trong trường hợp phát hiện oan, sai, bỏ lọt tội phạm, người phạm tội.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn khác trong việc buộc tội theo quy định của Bộ luật tố tụng hình sự.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 19",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát xét xử vụ án hình sự",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Kiểm sát việc tuân theo pháp luật trong việc xét xử các vụ án hình sự của Tòa án.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Kiểm sát bản án, quyết định của Tòa án.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Kiểm sát hoạt động tố tụng hình sự của người tham gia tố tụng; yêu cầu, kiến nghị cơ quan, tổ chức có thẩm quyền xử lý nghiêm minh người tham gia tố tụng vi phạm pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Yêu cầu Tòa án cùng cấp, cấp dưới chuyển hồ sơ vụ án hình sự để xem xét, quyết định việc kháng nghị.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Kháng nghị bản án, quyết định của Tòa án có vi phạm nghiêm trọng về thủ tục tố tụng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Thực hiện quyền yêu cầu, kiến nghị và nhiệm vụ, quyền hạn khác trong kiểm sát xét xử vụ án hình sự theo quy định của Bộ luật tố tụng hình sự. Mục 5 CÔNG TÁC ĐIỀU TRA CỦA CƠ QUAN ĐIỀU TRA VIỆN KIỂM SÁT NHÂN DÂN",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 20",
+            "title": "Thẩm quyền điều tra của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương",
+            "content": []
+        },
+        {
+            "id": "Điều 21",
+            "title": "Thực hành quyền công tố và kiểm sát việc tuân theo pháp luật của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương",
+            "content": []
+        },
+        {
+            "id": "Điều 22",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc tạm giữ, tạm giam",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện kiểm sát nhân dân kiểm sát việc tuân theo pháp luật của cơ quan, người có thẩm quyền trong việc tạm giữ, tạm giam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Khi kiểm sát việc tạm giữ, tạm giam, Viện kiểm sát nhân dân có nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Trực tiếp kiểm sát tại nhà tạm giữ, trại tạm giam; hỏi người bị tạm giữ, tạm giam về việc tạm giữ, tạm giam;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Kiểm sát hồ sơ tạm giữ, tạm giam;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Yêu cầu Trưởng nhà tạm giữ, Giám thị trại tạm giam tự kiểm tra việc tạm giữ, tạm giam và thông báo kết quả cho Viện kiểm sát nhân dân; cung cấp hồ sơ, tài liệu có liên quan đến việc tạm giữ, tạm giam; thông báo tình hình tạm giữ, tạm giam; trả lời về quyết định, biện pháp hoặc việc làm vi phạm pháp luật trong việc tạm giữ, tạm giam;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Quyết định trả tự do ngay cho người bị tạm giữ, tạm giam không có căn cứ và trái pháp luật;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Kháng nghị, kiến nghị, yêu cầu cơ quan, người có thẩm quyền trong việc tạm giữ, tạm giam đình chỉ việc thi hành, sửa đổi hoặc bãi bỏ quyết định có vi phạm pháp luật trong việc tạm giữ, tạm giam, chấm dứt hành vi vi phạm pháp luật và yêu cầu xử lý người vi phạm pháp luật;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Khởi tố hoặc yêu cầu Cơ quan điều tra khởi tố vụ án hình sự khi phát hiện vụ việc có dấu hiệu tội phạm trong tạm giữ, tạm giam theo quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "g",
+                            "text": "Giải quyết khiếu nại, tố cáo và thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát việc tạm giữ, tạm giam theo quy định của pháp luật."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 23",
+            "title": "Giải quyết khiếu nại, tố cáo trong hoạt động tạm giữ, tạm giam",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện kiểm sát nhân dân có trách nhiệm giải quyết khiếu nại, tố cáo trong hoạt động tạm giữ, tạm giam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Cơ quan, người có thẩm quyền trong việc tạm giữ, tạm giam phải chuyển cho Viện kiểm sát nhân dân khiếu nại, tố cáo của người bị tạm giữ, tạm giam trong thời hạn 24 giờ, kể từ khi nhận được khiếu nại, tố cáo.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Viện trưởng Viện kiểm sát nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương, Viện trưởng Viện kiểm sát nhân dân tỉnh, thành phố trực thuộc trung ương, Viện trưởng Viện kiểm sát quân sự khu vực, Viện trưởng Viện kiểm sát quân sự quân khu và tương đương giải quyết khiếu nại đối với quyết định, hành vi trái pháp luật trong việc tạm giữ, tạm giam của cơ quan, người có thẩm quyền thuộc trách nhiệm kiểm sát của mình. Viện trưởng Viện kiểm sát cấp trên có thẩm quyền giải quyết khiếu nại đối với việc giải quyết khiếu nại của Viện trưởng Viện kiểm sát cấp dưới; quyết định giải quyết khiếu nại của Viện trưởng Viện kiểm sát cấp trên là quyết định có hiệu lực pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Viện trưởng Viện kiểm sát có thẩm quyền giải quyết tố cáo đối với hành vi vi phạm pháp luật trong việc tạm giữ, tạm giam của người có thẩm quyền thuộc trách nhiệm kiểm sát của mình. Trường hợp hết thời hạn pháp luật quy định mà tố cáo không được giải quyết thì Viện trưởng Viện kiểm sát cấp trên có thẩm quyền giải quyết tố cáo; kết luận nội dung tố cáo của Viện trưởng Viện kiểm sát cấp trên là kết luận cuối cùng.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 24",
+            "title": "Trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát nhân dân trong việc tạm giữ, tạm giam",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Trưởng nhà tạm giữ, Giám thị trại tạm giam có trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định sau đây của Viện kiểm sát nhân dân trong việc tạm giữ, tạm giam:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Yêu cầu cung cấp hồ sơ, tài liệu có liên quan đến việc tạm giữ, tạm giam phải được thực hiện ngay; yêu cầu thông báo tình hình tạm giữ, tạm giam, yêu cầu trả lời về quyết định, biện pháp hoặc việc làm vi phạm pháp luật trong việc tạm giữ, tạm giam được thực hiện trong thời hạn 15 ngày; yêu cầu tự kiểm tra việc tạm giữ, tạm giam và thông báo kết quả cho Viện kiểm sát nhân dân được thực hiện trong thời hạn 30 ngày, kể từ ngày nhận được yêu cầu;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Quyết định quy định tại điểm d khoản 2 Điều 22 của Luật này phải được thi hành ngay; nếu không nhất trí với quyết định đó thì vẫn phải thi hành, nhưng có quyền khiếu nại lên Viện kiểm sát cấp trên có thẩm quyền. Trong thời hạn 10 ngày, kể từ ngày nhận được khiếu nại, Viện trưởng Viện kiểm sát cấp trên phải giải quyết;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Kháng nghị quy định tại điểm đ khoản 2 Điều 22 của Luật này phải được giải quyết trong thời hạn 15 ngày, kể từ ngày nhận được kháng nghị; nếu không nhất trí với kháng nghị thì có quyền khiếu nại lên Viện kiểm sát cấp trên có thẩm quyền; Viện kiểm sát cấp trên phải giải quyết trong thời hạn 15 ngày, kể từ ngày nhận được khiếu nại; quyết định của Viện kiểm sát cấp trên là quyết định có hiệu lực pháp luật."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Đối với kiến nghị quy định tại điểm đ khoản 2 Điều 22 của Luật này, cơ quan, tổ chức, cá nhân có thẩm quyền phải xem xét, giải quyết, trả lời theo quy định của pháp luật về tạm giữ, tạm giam.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 25",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc thi hành án hình sự",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện kiểm sát nhân dân kiểm sát việc tuân theo pháp luật của Tòa án, cơ quan thi hành án hình sự, cơ quan, tổ chức được giao một số nhiệm vụ thi hành án hình sự, người có thẩm quyền, cơ quan, tổ chức, cá nhân có liên quan trong việc thi hành án hình sự.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Khi kiểm sát thi hành án hình sự, Viện kiểm sát nhân dân có nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Yêu cầu Toà án ra quyết định thi hành án hình sự; yêu cầu Toà án, cơ quan thi hành án hình sự, cơ quan, tổ chức được giao một số nhiệm vụ thi hành án hình sự tự kiểm tra việc thi hành án hình sự và thông báo kết quả cho Viện kiểm sát nhân dân; cung cấp hồ sơ, tài liệu có liên quan đến việc thi hành án hình sự;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Trực tiếp kiểm sát việc thi hành án hình sự; kiểm sát hồ sơ thi hành án hình sự. Viện kiểm sát nhân dân tỉnh, thành phố trực thuộc trung ương trực tiếp kiểm sát việc thi hành án phạt tù của trại giam đóng tại địa phương;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Quyết định trả tự do ngay cho người đang chấp hành án phạt tù không có căn cứ và trái pháp luật;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Đề nghị miễn, hoãn, tạm đình chỉ, đình chỉ chấp hành án; tham gia việc xét giảm, miễn thời hạn chấp hành án, chấp hành biện pháp tư pháp, rút ngắn thời gian thử thách;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Kháng nghị hành vi, quyết định có vi phạm pháp luật của cơ quan, người có thẩm quyền trong việc thi hành án hình sự;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Kiến nghị, yêu cầu cơ quan, tổ chức, cá nhân chấm dứt, khắc phục vi phạm pháp luật trong thi hành án hình sự; xử lý nghiêm minh người vi phạm;"
+                        },
+                        {
+                            "letter": "g",
+                            "text": "Khởi tố hoặc yêu cầu Cơ quan điều tra khởi tố vụ án hình sự khi phát hiện vụ việc có dấu hiệu tội phạm trong thi hành án hình sự theo quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "h",
+                            "text": "Thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát thi hành án hình sự theo quy định của pháp luật về thi hành án hình sự."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 26",
+            "title": "Trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát nhân dân trong việc thi hành án hình sự",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Đối với yêu cầu ra quyết định thi hành án hình sự đúng quy định của pháp luật, yêu cầu cung cấp hồ sơ, tài liệu có liên quan đến việc thi hành án hình sự, cơ quan, tổ chức, cá nhân được yêu cầu phải thực hiện ngay.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Đối với yêu cầu tự kiểm tra việc thi hành án hình sự và thông báo kết quả cho Viện kiểm sát nhân dân thì Toà án, cơ quan thi hành án hình sự, cơ quan, tổ chức được giao một số nhiệm vụ thi hành án hình sự phải thực hiện trong thời hạn 30 ngày, kể từ ngày nhận được yêu cầu.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Đối với kiến nghị, kháng nghị, quyết định, yêu cầu khác của Viện kiểm sát nhân dân trong việc thi hành án hình sự thì cơ quan, tổ chức, cá nhân có thẩm quyền phải xem xét, giải quyết, trả lời hoặc thi hành theo quy định của Luật thi hành án hình sự. Mục 7 KIỂM SÁT VIỆC GIẢI QUYẾT VỤ ÁN HÀNH CHÍNH, VỤ VIỆC DÂN SỰ, HÔN NHÂN VÀ GIA ĐÌNH, KINH DOANH, THƯƠNG MẠI, LAO ĐỘNG VÀ NHỮNG VIỆC KHÁC THEO QUY ĐỊNH CỦA PHÁP LUẬT; KIỂM SÁT THI HÀNH ÁN DÂN SỰ, THI HÀNH ÁN HÀNH CHÍNH",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 27",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc giải quyết vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động và những việc khác theo quy định của pháp luật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Kiểm sát việc trả lại đơn khởi kiện, đơn yêu cầu.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Kiểm sát việc thụ lý, giải quyết vụ án, vụ việc.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Thu thập tài liệu, chứng cứ trong trường hợp pháp luật quy định.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Tham gia phiên tòa, phiên họp, phát biểu quan điểm của Viện kiểm sát nhân dân về việc giải quyết vụ án, vụ việc theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Kiểm sát bản án, quyết định của Tòa án.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Kiểm sát hoạt động tố tụng của người tham gia tố tụng; yêu cầu, kiến nghị cơ quan, tổ chức có thẩm quyền xử lý nghiêm minh người tham gia tố tụng vi phạm pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Kháng nghị, kiến nghị bản án, quyết định của Tòa án có vi phạm pháp luật; kiến nghị, yêu cầu Tòa án, cơ quan, tổ chức, cá nhân thực hiện hoạt động tố tụng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "8",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát việc giải quyết vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động và những việc khác theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 28",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát thi hành án dân sự, thi hành án hành chính",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Kiểm sát việc cấp, chuyển giao, giải thích, đính chính bản án, quyết định của Tòa án.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Trực tiếp kiểm sát việc thi hành án của cơ quan thi hành án dân sự cùng cấp và cấp dưới, Chấp hành viên, cơ quan, tổ chức và cá nhân có liên quan.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Kiểm sát hồ sơ về thi hành án.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Tham gia phiên họp, phát biểu quan điểm của Viện kiểm sát nhân dân về việc xét miễn, giảm nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Kiểm sát hoạt động của cơ quan, tổ chức, cá nhân có liên quan trong việc thi hành án.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Yêu cầu Tòa án, cơ quan thi hành án dân sự cùng cấp và cấp dưới, Chấp hành viên, cơ quan, tổ chức và cá nhân liên quan đến việc thi hành án thực hiện các việc sau đây: Yêu cầu quy định tại các điểm a, b và d khoản này phải được thực hiện ngay; yêu cầu quy định tại điểm c khoản này phải được thực hiện trong thời hạn 30 ngày, kể từ ngày nhận được yêu cầu.",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Ra quyết định thi hành án đúng quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Thi hành bản án, quyết định theo quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Tự kiểm tra việc thi hành án và thông báo kết quả cho Viện kiểm sát nhân dân;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Cung cấp hồ sơ, tài liệu, vật chứng có liên quan đến việc thi hành án."
+                        }
+                    ]
+                },
+                {
+                    "number": "7",
+                    "text": "Kiến nghị Toà án, cơ quan thi hành án dân sự cùng cấp và cấp dưới, Chấp hành viên, cơ quan, tổ chức, cá nhân thực hiện đầy đủ trách nhiệm trong việc thi hành án.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "8",
+                    "text": "Kháng nghị quyết định của Tòa án, quyết định, hành vi của Thủ trưởng, Chấp hành viên cơ quan thi hành án dân sự cùng cấp và cấp dưới theo quy định của pháp luật; yêu cầu đình chỉ việc thi hành án, sửa đổi hoặc bãi bỏ quyết định có vi phạm pháp luật trong việc thi hành án, chấm dứt hành vi vi phạm pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "9",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát thi hành án dân sự, thi hành án hành chính theo quy định của pháp luật. Mục 8 GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO VÀ KIỂM SÁT VIỆC GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO TRONG HOẠT ĐỘNG TƯ PHÁP",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 29",
+            "title": "Giải quyết khiếu nại, tố cáo trong hoạt động tư pháp thuộc thẩm quyền của Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện kiểm sát nhân dân có thẩm quyền giải quyết các khiếu nại sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Khiếu nại hành vi, quyết định tố tụng của người có thẩm quyền của Viện kiểm sát nhân dân trong hoạt động thực hành quyền công tố, kiểm sát hoạt động tư pháp;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Khiếu nại hành vi, quyết định tố tụng của Thủ trưởng Cơ quan điều tra; kết quả giải quyết khiếu nại của Thủ trưởng Cơ quan điều tra đối với quyết định, hành vi tố tụng của Điều tra viên, Phó thủ trưởng Cơ quan điều tra;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Khiếu nại hành vi, quyết định tố tụng của người có thẩm quyền thuộc cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Khiếu nại trong hoạt động tạm giữ, tạm giam;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Khiếu nại hành vi, quyết định quản lý, giáo dục phạm nhân của người được giao quản lý, giáo dục phạm nhân;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Khiếu nại khác theo quy định của pháp luật."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Viện kiểm sát nhân dân có thẩm quyền giải quyết các tố cáo sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tố cáo hành vi vi phạm pháp luật của người có thẩm quyền của Viện kiểm sát nhân dân trong hoạt động thực hành quyền công tố, kiểm sát hoạt động tư pháp;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Tố cáo hành vi vi phạm pháp luật trong hoạt động của người có thẩm quyền tiến hành một số hoạt động điều tra;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Tố cáo hành vi vi phạm pháp luật của người có thẩm quyền trong việc bắt, tạm giữ, tạm giam;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Tố cáo hành vi vi phạm pháp luật của người được giao quản lý, giáo dục phạm nhân;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Tố cáo khác theo quy định của pháp luật."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Khi giải quyết khiếu nại, tố cáo, Viện kiểm sát nhân dân có nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tiếp nhận, phân loại, thụ lý, kiểm tra, xác minh khiếu nại, tố cáo;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Yêu cầu cơ quan, tổ chức, cá nhân giải trình, cung cấp hồ sơ, tài liệu có liên quan;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Áp dụng biện pháp cần thiết nhằm ngăn chặn thiệt hại có thể xảy ra;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Ra quyết định giải quyết khiếu nại, kết luận nội dung tố cáo;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Thông báo quyết định giải quyết khiếu nại, kết luận nội dung tố cáo cho người đã khiếu nại, tố cáo."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 30",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Trực tiếp kiểm sát việc giải quyết khiếu nại, tố cáo trong hoạt động tư pháp tại cơ quan có thẩm quyền theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Yêu cầu cơ quan có thẩm quyền ra quyết định giải quyết khiếu nại, kết luận nội dung tố cáo; kiểm tra việc giải quyết khiếu nại, tố cáo về hoạt động tư pháp của cấp mình và cấp dưới, thông báo kết quả cho Viện kiểm sát nhân dân; cung cấp hồ sơ, tài liệu có liên quan cho Viện kiểm sát nhân dân.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Ban hành kết luận kiểm sát, thực hiện quyền kiến nghị, kháng nghị theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 31",
+            "title": "Trách nhiệm báo cáo công tác giải quyết khiếu nại, tố cáo về hoạt động tư pháp của Viện kiểm sát nhân dân tối cao",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện trưởng Viện kiểm sát nhân dân tối cao có trách nhiệm báo cáo Quốc hội công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Định kỳ 06 tháng và hằng năm, Tòa án nhân dân tối cao, Bộ Công an, Bộ Quốc phòng, Bộ Tư pháp thông báo bằng văn bản cho Viện kiểm sát nhân dân tối cao về công tác giải quyết khiếu nại, tố cáo trong hoạt động tư pháp. Viện kiểm sát nhân dân tối cao chủ trì, phối hợp với Tòa án nhân dân tối cao, Bộ Công an, Bộ Quốc phòng, Bộ Tư pháp hướng dẫn thực hiện quy định tại khoản này. Mục 9 THỰC HÀNH QUYỀN CÔNG TỐ VÀ KIỂM SÁT HOẠT ĐỘNG TƯƠNG TRỢ TƯ PHÁP",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 32",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi thực hành quyền công tố trong hoạt động tương trợ tư pháp về hình sự",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Quyết định việc chuyển yêu cầu tương trợ tư pháp về hình sự của nước ngoài cho Cơ quan điều tra có thẩm quyền của Việt Nam để khởi tố, điều tra.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Yêu cầu cơ quan có thẩm quyền của nước ngoài triệu tập người làm chứng, người giám định; thu thập, cung cấp chứng cứ, tài liệu; truy cứu trách nhiệm hình sự đối với người phạm tội.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn theo quy định tại các điều 14, 16 và 18 của Luật này trong trường hợp cơ quan có thẩm quyền của Việt Nam điều tra, truy tố, xét xử vụ án hình sự theo yêu cầu của nước ngoài.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn khác khi thực hành quyền công tố trong tương trợ tư pháp về hình sự theo quy định của Bộ luật tố tụng hình sự và Luật tương trợ tư pháp.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 33",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát hoạt động tương trợ tư pháp",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Kiểm sát việc tuân theo pháp luật của cơ quan, người tiến hành và người tham gia hoạt động tương trợ tư pháp về hình sự, dân sự, dẫn độ, chuyển giao người đang chấp hành hình phạt tù.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tham gia phiên họp của Tòa án về việc dẫn độ, chuyển giao người đang chấp hành hình phạt tù và phát biểu quan điểm của Viện kiểm sát nhân dân.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Kháng nghị quyết định có vi phạm pháp luật của Tòa án về việc dẫn độ, chuyển giao người đang chấp hành hình phạt tù.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Thực hiện quyền yêu cầu, kiến nghị và nhiệm vụ, quyền hạn khác trong kiểm sát hoạt động tương trợ tư pháp theo quy định của pháp luật. Mục 10 THỐNG KÊ TỘI PHẠM VÀ CÁC CÔNG TÁC KHÁC",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 34",
+            "title": "Công tác thống kê tội phạm",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện kiểm sát nhân dân có trách nhiệm chủ trì thống kê tội phạm, phối hợp với các cơ quan hữu quan trong việc thống kê hình sự.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Trong phạm vi chức năng, nhiệm vụ của mình, các cơ quan tiến hành tố tụng và các cơ quan có liên quan có trách nhiệm phối hợp với Viện kiểm sát nhân dân trong việc thống kê tội phạm.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 35",
+            "title": "Công tác nghiên cứu khoa học",
+            "content": []
+        },
+        {
+            "id": "Điều 36",
+            "title": "Công tác xây dựng pháp luật",
+            "content": []
+        },
+        {
+            "id": "Điều 37",
+            "title": "Công tác đào tạo, bồi dưỡng",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện kiểm sát nhân dân thực hiện nhiệm vụ đào tạo, bồi dưỡng chuyên môn, nghiệp vụ để tạo nguồn nhân lực, nâng cao trình độ cho Kiểm sát viên, Điều tra viên, Kiểm tra viên, công chức khác và viên chức của Viện kiểm sát nhân dân theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Các cơ sở đào tạo, bồi dưỡng của Viện kiểm sát nhân dân được tổ chức các loại hình đào tạo, bồi dưỡng theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 38",
+            "title": "Hợp tác quốc tế",
+            "content": []
+        },
+        {
+            "id": "Điều 39",
+            "title": "Công tác phổ biến, giáo dục pháp luật",
+            "content": []
+        },
+        {
+            "id": "Điều 40",
+            "title": "Hệ thống Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện kiểm sát nhân dân cấp cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Viện kiểm sát nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Viện kiểm sát nhân dân cấp tỉnh).",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Viện kiểm sát nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương (sau đây gọi là Viện kiểm sát nhân dân cấp huyện).",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Viện kiểm sát quân sự các cấp.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 41",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân các cấp",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện kiểm sát nhân dân tối cao thực hành quyền công tố, kiểm sát hoạt động tư pháp, góp phần bảo đảm pháp luật được chấp hành nghiêm chỉnh và thống nhất.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện kiểm sát nhân dân cấp cao thực hành quyền công tố, kiểm sát hoạt động tư pháp đối với các vụ án, vụ việc thuộc thẩm quyền giải quyết của Tòa án nhân dân cấp cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp huyện thực hành quyền công tố, kiểm sát hoạt động tư pháp trong phạm vi địa phương mình.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 42",
+            "title": "Cơ cấu tổ chức của Viện kiểm sát nhân dân tối cao",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tổ chức bộ máy của Viện kiểm sát nhân dân tối cao gồm có:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Uỷ ban kiểm sát;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Văn phòng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Cơ quan điều tra;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Các cục, vụ, viện và tương đương;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Các cơ sở đào tạo, bồi dưỡng, các cơ quan báo chí và các đơn vị sự nghiệp công lập khác;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Viện kiểm sát quân sự trung ương."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Viện kiểm sát nhân dân tối cao có Viện trưởng, các Phó Viện trưởng Viện kiểm sát nhân dân tối cao, Kiểm sát viên, Kiểm tra viên; Thủ trưởng, các Phó thủ trưởng Cơ quan điều tra, Điều tra viên; công chức khác, viên chức và người lao động khác.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 43",
+            "title": "Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao gồm có:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Viện trưởng Viện kiểm sát nhân dân tối cao;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Các Phó Viện trưởng Viện kiểm sát nhân dân tối cao;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Một số Kiểm sát viên Viện kiểm sát nhân dân tối cao do Ủy ban thường vụ Quốc hội quyết định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao họp do Viện trưởng chủ trì để thảo luận và quyết định những vấn đề quan trọng sau đây: Xem xét, đề nghị Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm lại, miễn nhiệm, cách chức Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp đang công tác tại Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Chương trình, kế hoạch công tác của ngành Kiểm sát nhân dân;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Dự án luật, pháp lệnh trình Quốc hội, Ủy ban thường vụ Quốc hội; báo cáo của Viện trưởng Viện kiểm sát nhân dân tối cao trình Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Bộ máy làm việc của Viện kiểm sát nhân dân tối cao;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Báo cáo của Viện trưởng Viện kiểm sát nhân dân tối cao trình Ủy ban thường vụ Quốc hội về những ý kiến của Viện trưởng không nhất trí với nghị quyết của Hội đồng Thẩm phán Tòa án nhân dân tối cao; kiến nghị của Viện kiểm sát nhân dân tối cao về công tác đấu tranh phòng, chống tội phạm gửi Thủ tướng Chính phủ;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Xét tuyển người đang công tác tại Viện kiểm sát nhân dân tối cao đủ điều kiện dự thi vào ngạch Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Đề nghị Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao tuyển chọn, xem xét việc miễn nhiệm, cách chức Kiểm sát viên Viện kiểm sát nhân dân tối cao."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Ủy ban kiểm sát ban hành nghị quyết khi thực hiện thẩm quyền tại khoản 2 Điều này. Nghị quyết của Ủy ban kiểm sát phải được quá nửa tổng số thành viên biểu quyết tán thành; trường hợp biểu quyết ngang nhau thì thực hiện theo phía có ý kiến của Viện trưởng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao, Ủy ban kiểm sát thảo luận, cho ý kiến về các vụ án hình sự, vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động phức tạp để Viện trưởng xem xét, quyết định.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 44",
+            "title": "Cơ cấu tổ chức của Viện kiểm sát nhân dân cấp cao",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tổ chức bộ máy của Viện kiểm sát nhân dân cấp cao gồm có:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Ủy ban kiểm sát;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Văn phòng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Các viện và tương đương."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Viện kiểm sát nhân dân cấp cao có Viện trưởng Viện kiểm sát nhân dân cấp cao, các Phó Viện trưởng Viện kiểm sát nhân dân cấp cao, Kiểm sát viên, Kiểm tra viên, công chức khác và người lao động khác.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 45",
+            "title": "Ủy ban kiểm sát Viện kiểm sát nhân dân cấp cao",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Ủy ban kiểm sát Viện kiểm sát nhân dân cấp cao gồm có:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Viện trưởng Viện kiểm sát nhân dân cấp cao;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Các Phó Viện trưởng Viện kiểm sát nhân dân cấp cao;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Một số Kiểm sát viên."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Số lượng thành viên Uỷ ban kiểm sát, các Kiểm sát viên quy định tại điểm c khoản 1 Điều này do Viện trưởng Viện kiểm sát nhân dân tối cao quyết định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân cấp cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Ủy ban kiểm sát Viện kiểm sát nhân dân cấp cao họp do Viện trưởng chủ trì để thảo luận và quyết định những vấn đề quan trọng sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Việc thực hiện chương trình, kế hoạch công tác, chỉ thị, thông tư và quyết định của Viện kiểm sát nhân dân tối cao;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Báo cáo tổng kết công tác của Viện kiểm sát nhân dân cấp cao;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Xét tuyển người đang công tác tại Viện kiểm sát nhân dân cấp cao đủ điều kiện dự thi vào ngạch Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Xem xét, đề nghị Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm lại, miễn nhiệm, cách chức Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp đang công tác tại Viện kiểm sát nhân dân cấp cao."
+                        }
+                    ]
+                },
+                {
+                    "number": "4",
+                    "text": "Ủy ban kiểm sát ban hành nghị quyết khi thực hiện thẩm quyền tại khoản 3 Điều này. Nghị quyết của Ủy ban kiểm sát phải được quá nửa tổng số thành viên biểu quyết tán thành; trường hợp biểu quyết ngang nhau thì thực hiện theo phía có ý kiến của Viện trưởng. Nếu Viện trưởng không nhất trí với ý kiến của đa số thành viên Ủy ban kiểm sát thì thực hiện theo quyết định của đa số, nhưng có quyền báo cáo Viện trưởng Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Theo đề nghị của Viện trưởng Viện kiểm sát nhân dân cấp cao, Ủy ban kiểm sát thảo luận, cho ý kiến về các vụ án hình sự, vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động phức tạp để Viện trưởng xem xét, quyết định.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 46",
+            "title": "Cơ cấu tổ chức của Viện kiểm sát nhân dân cấp tỉnh",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tổ chức bộ máy của Viện kiểm sát nhân dân cấp tỉnh gồm có:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Uỷ ban kiểm sát;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Văn phòng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Các phòng và tương đương."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Viện kiểm sát nhân dân cấp tỉnh có Viện trưởng, các Phó Viện trưởng, Kiểm sát viên, Kiểm tra viên, công chức khác và người lao động khác.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 47",
+            "title": "Ủy ban kiểm sát Viện kiểm sát nhân dân cấp tỉnh",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Uỷ ban kiểm sát Viện kiểm sát nhân dân cấp tỉnh gồm có:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Viện trưởng;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Các Phó Viện trưởng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Một số Kiểm sát viên."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Số lượng thành viên Uỷ ban kiểm sát, các Kiểm sát viên quy định tại điểm c khoản 1 Điều này do Viện trưởng Viện kiểm sát nhân dân tối cao quyết định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân cấp tỉnh.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Ủy ban kiểm sát Viện kiểm sát nhân dân cấp tỉnh họp do Viện trưởng chủ trì để thảo luận và quyết định những vấn đề sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Việc thực hiện chương trình, kế hoạch công tác, chỉ thị, thông tư và quyết định của Viện kiểm sát nhân dân tối cao; việc thực hiện chương trình, kế hoạch công tác của Viện kiểm sát nhân dân cấp cao;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Báo cáo tổng kết công tác với Viện kiểm sát nhân dân cấp trên, báo cáo công tác trước Hội đồng nhân dân cùng cấp;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Xét tuyển người đang công tác tại Viện kiểm sát nhân dân cấp tỉnh và cấp huyện đủ điều kiện dự thi vào ngạch Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Xem xét, đề nghị Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm lại, miễn nhiệm, cách chức Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp đang công tác tại Viện kiểm sát nhân dân cấp tỉnh và cấp huyện."
+                        }
+                    ]
+                },
+                {
+                    "number": "4",
+                    "text": "Ủy ban kiểm sát ban hành nghị quyết khi thực hiện thẩm quyền tại khoản 3 Điều này. Nghị quyết của Ủy ban kiểm sát phải được quá nửa tổng số thành viên biểu quyết tán thành; trường hợp biểu quyết ngang nhau thì thực hiện theo phía có ý kiến của Viện trưởng. Nếu Viện trưởng không nhất trí với ý kiến của đa số thành viên Ủy ban kiểm sát thì thực hiện theo quyết định của đa số, nhưng có quyền báo cáo Viện trưởng Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Theo đề nghị của Viện trưởng Viện kiểm sát nhân dân cấp tỉnh, Ủy ban kiểm sát thảo luận, cho ý kiến về các vụ án hình sự, vụ án hành chính, vụ việc dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động phức tạp để Viện trưởng xem xét, quyết định.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 48",
+            "title": "Cơ cấu tổ chức của Viện kiểm sát nhân dân cấp huyện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tổ chức bộ máy của Viện kiểm sát nhân dân cấp huyện gồm có văn phòng và các phòng; những nơi chưa đủ điều kiện thành lập phòng thì có các bộ phận công tác và bộ máy giúp việc.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện kiểm sát nhân dân cấp huyện có Viện trưởng, các Phó Viện trưởng, Kiểm sát viên, Kiểm tra viên, công chức khác và người lao động khác.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 49",
+            "title": "Thành lập, giải thể Viện kiểm sát nhân dân",
+            "content": []
+        },
+        {
+            "id": "Điều 50",
+            "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát quân sự",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Các Viện kiểm sát quân sự thuộc hệ thống Viện kiểm sát nhân dân được tổ chức trong Quân đội nhân dân Việt Nam để thực hành quyền công tố, kiểm sát hoạt động tư pháp trong quân đội.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Trong phạm vi chức năng của mình, Viện kiểm sát quân sự có nhiệm vụ quy định tại khoản 2 Điều 2 của Luật này; bảo vệ an ninh, quốc phòng, kỷ luật và sức mạnh chiến đấu của quân đội; bảo vệ quyền và lợi ích hợp pháp của quân nhân, công chức, viên chức và người lao động khác trong quân đội; bảo đảm mọi hành vi phạm tội và vi phạm pháp luật phải được xử lý nghiêm minh.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Viện kiểm sát quân sự thực hiện nhiệm vụ, quyền hạn quy định tại các mục 1, 2, 3, 4, 5, 6, 8, 9 và 10 Chương II của Luật này và kiểm sát thi hành án dân sự quy định tại Điều 28 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 51",
+            "title": "Hệ thống Viện kiểm sát quân sự",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện kiểm sát quân sự trung ương.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện kiểm sát quân sự quân khu và tương đương.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Viện kiểm sát quân sự khu vực.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 52",
+            "title": "Cơ cấu tổ chức của Viện kiểm sát quân sự trung ương",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện kiểm sát quân sự trung ương thuộc cơ cấu Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tổ chức bộ máy của Viện kiểm sát quân sự trung ương gồm có:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Uỷ ban kiểm sát;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Văn phòng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Cơ quan điều tra;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Các phòng và tương đương."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Viện kiểm sát quân sự trung ương có Viện trưởng, các Phó Viện trưởng, Kiểm sát viên, Kiểm tra viên; Thủ trưởng, các Phó thủ trưởng Cơ quan điều tra, Điều tra viên, quân nhân khác, công chức, viên chức và người lao động khác.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 53",
+            "title": "Uỷ ban kiểm sát Viện kiểm sát quân sự trung ương",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Uỷ ban kiểm sát Viện kiểm sát quân sự trung ương gồm có:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Viện trưởng;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Các Phó Viện trưởng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Một số Kiểm sát viên."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Số lượng thành viên Uỷ ban kiểm sát, các Kiểm sát viên quy định tại điểm c khoản 1 Điều này do Viện trưởng Viện kiểm sát nhân dân tối cao quyết định theo đề nghị của Viện trưởng Viện kiểm sát quân sự trung ương.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Ủy ban kiểm sát Viện kiểm sát quân sự trung ương họp do Viện trưởng chủ trì để thảo luận và quyết định những vấn đề sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Chương trình, kế hoạch công tác của Viện kiểm sát quân sự;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Báo cáo của Viện trưởng Viện kiểm sát quân sự trung ương trước Viện trưởng Viện kiểm sát nhân dân tối cao và Bộ trưởng Bộ Quốc phòng về công tác của Viện kiểm sát quân sự;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Kiến nghị của Viện kiểm sát quân sự trung ương với Bộ trưởng Bộ Quốc phòng về việc đấu tranh phòng, chống tội phạm trong quân đội;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Xét tuyển người đang công tác tại Viện kiểm sát quân sự trung ương đủ điều kiện dự thi vào ngạch Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Xem xét, đề nghị Viện trưởng Viện kiểm sát quân sự trung ương trình Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm lại, miễn nhiệm, cách chức Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp đang công tác tại Viện kiểm sát quân sự trung ương."
+                        }
+                    ]
+                },
+                {
+                    "number": "4",
+                    "text": "Ủy ban kiểm sát ban hành nghị quyết khi thực hiện thẩm quyền tại khoản 3 Điều này. Nghị quyết của Ủy ban kiểm sát phải được quá nửa tổng số thành viên biểu quyết tán thành; trường hợp biểu quyết ngang nhau thì thực hiện theo phía có ý kiến của Viện trưởng. Nếu Viện trưởng không nhất trí với ý kiến của đa số thành viên Ủy ban kiểm sát thì thực hiện theo quyết định của đa số, nhưng có quyền báo cáo Viện trưởng Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Theo đề nghị của Viện trưởng Viện kiểm sát quân sự trung ương, Ủy ban kiểm sát thảo luận, cho ý kiến về các vụ án hình sự phức tạp để Viện trưởng xem xét, quyết định.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 54",
+            "title": "Cơ cấu tổ chức của Viện kiểm sát quân sự quân khu và tương đương",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tổ chức bộ máy của Viện kiểm sát quân sự quân khu và tương đương gồm có:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Uỷ ban kiểm sát;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Các ban và bộ máy giúp việc."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Viện kiểm sát quân sự quân khu và tương đương có Viện trưởng, các Phó Viện trưởng, Kiểm sát viên, Kiểm tra viên, quân nhân khác, công chức, viên chức và người lao động khác.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 55",
+            "title": "Uỷ ban kiểm sát Viện kiểm sát quân sự quân khu và tương đương",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Uỷ ban kiểm sát Viện kiểm sát quân sự quân khu và tương đương gồm có:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Viện trưởng;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Các Phó Viện trưởng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Một số Kiểm sát viên."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Số lượng thành viên Uỷ ban kiểm sát, các Kiểm sát viên quy định tại điểm c khoản 1 Điều này do Viện trưởng Viện kiểm sát quân sự trung ương quyết định theo đề nghị của Viện trưởng Viện kiểm sát quân sự quân khu và tương đương.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Uỷ ban kiểm sát Viện kiểm sát quân sự quân khu và tương đương họp do Viện trưởng chủ trì để thảo luận và quyết định những vấn đề sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Việc thực hiện chương trình, kế hoạch công tác của Viện kiểm sát quân sự trung ương;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Báo cáo tổng kết công tác với Viện trưởng Viện kiểm sát quân sự trung ương và Tư lệnh quân khu và tương đương;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Xét tuyển người đang công tác tại Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực đủ điều kiện dự thi vào ngạch Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Xem xét, đề nghị Viện trưởng Viện kiểm sát quân sự trung ương trình Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm lại, miễn nhiệm, cách chức Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp đang công tác tại Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực."
+                        }
+                    ]
+                },
+                {
+                    "number": "4",
+                    "text": "Ủy ban kiểm sát ban hành nghị quyết khi thực hiện thẩm quyền tại khoản 3 Điều này. Nghị quyết của Ủy ban kiểm sát phải được quá nửa tổng số thành viên biểu quyết tán thành; trường hợp biểu quyết ngang nhau thì thực hiện theo phía có ý kiến của Viện trưởng. Nếu Viện trưởng không nhất trí với ý kiến của đa số thành viên Ủy ban kiểm sát thì thực hiện theo quyết định của đa số, nhưng có quyền báo cáo Viện trưởng Viện kiểm sát quân sự trung ương.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Theo đề nghị của Viện trưởng Viện kiểm sát quân sự quân khu và tương đương, Ủy ban kiểm sát thảo luận, cho ý kiến về các vụ án hình sự phức tạp để Viện trưởng xem xét, quyết định.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 56",
+            "title": "Cơ cấu tổ chức của Viện kiểm sát quân sự khu vực",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tổ chức bộ máy của Viện kiểm sát quân sự khu vực gồm có các bộ phận công tác và bộ máy giúp việc.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện kiểm sát quân sự khu vực có Viện trưởng, các Phó Viện trưởng, Kiểm sát viên, Kiểm tra viên, quân nhân khác, công chức, viên chức và người lao động khác.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 57",
+            "title": "Thành lập, giải thể Viện kiểm sát quân sự",
+            "content": []
+        },
+        {
+            "id": "Điều 58",
+            "title": "Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Các chức danh tư pháp trong Viện kiểm sát nhân dân gồm có:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Viện trưởng, Phó Viện trưởng Viện kiểm sát nhân dân, Viện kiểm sát quân sự các cấp;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Kiểm sát viên;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thủ trưởng, Phó thủ trưởng Cơ quan điều tra;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Điều tra viên;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Kiểm tra viên."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Các công chức khác, viên chức và người lao động khác.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Ở Viện kiểm sát quân sự có các chức danh tư pháp, công chức, viên chức, người lao động khác quy định tại khoản 1 và khoản 2 Điều này và các quân nhân khác.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 59",
+            "title": "Trách nhiệm của cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn và chịu trách nhiệm trước pháp luật về việc thực hiện nhiệm vụ, quyền hạn của mình.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Bồi thường, bồi hoàn thiệt hại gây ra khi thực hiện nhiệm vụ, quyền hạn theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Giữ bí mật nhà nước và bí mật công tác.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Tôn trọng và chịu sự giám sát của nhân dân.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Nghiêm chỉnh chấp hành Hiến pháp, pháp luật, quy định của Viện kiểm sát nhân dân; tham gia phổ biến, giáo dục pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Thường xuyên học tập, nghiên cứu, nâng cao trình độ chuyên môn, nghiệp vụ.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 60",
+            "title": "Điều động, luân chuyển, biệt phái công chức, viên chức của Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện trưởng Viện kiểm sát nhân dân tối cao quyết định:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Điều động, luân chuyển công chức, viên chức giữa các Viện kiểm sát nhân dân. Khi cần thiết thì điều động, luân chuyển công chức giữa các Viện kiểm sát nhân dân trong cùng một tỉnh, thành phố trực thuộc trung ương;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Biệt phái công chức, viên chức của Viện kiểm sát nhân dân đến làm việc ở cơ quan nhà nước hoặc đơn vị khác theo yêu cầu nhiệm vụ."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Viện trưởng Viện kiểm sát nhân dân cấp tỉnh quyết định điều động, luân chuyển công chức giữa các Viện kiểm sát nhân dân trong cùng một tỉnh, thành phố trực thuộc trung ương.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Bộ trưởng Bộ Quốc phòng quyết định:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Điều động, luân chuyển Kiểm sát viên, Kiểm tra viên, quân nhân khác, công chức, viên chức giữa các Viện kiểm sát quân sự không cùng quân khu và tương đương sau khi thống nhất với Viện trưởng Viện kiểm sát nhân dân tối cao;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Biệt phái Kiểm sát viên, Điều tra viên, Kiểm tra viên, quân nhân khác, công chức, viên chức của Viện kiểm sát quân sự đến làm việc ở cơ quan nhà nước hoặc đơn vị khác theo yêu cầu nhiệm vụ sau khi thống nhất với Viện trưởng Viện kiểm sát nhân dân tối cao."
+                        }
+                    ]
+                },
+                {
+                    "number": "4",
+                    "text": "Tư lệnh quân khu và tương đương quyết định điều động, luân chuyển Kiểm sát viên, Kiểm tra viên, quân nhân khác, công chức, viên chức giữa các Viện kiểm sát quân sự trực thuộc quân khu và tương đương sau khi thống nhất với Viện trưởng Viện kiểm sát quân sự trung ương.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 61",
+            "title": "Quản lý công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện trưởng Viện kiểm sát nhân dân tối cao thống nhất quản lý công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân các cấp theo quy định của pháp luật, bảo đảm xây dựng Viện kiểm sát nhân dân trong sạch, vững mạnh.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện trưởng các Viện kiểm sát nhân dân khác trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm quản lý công chức và người lao động khác của Viện kiểm sát theo quy định của Luật này và theo sự phân công, phân cấp của Viện trưởng Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 62",
+            "title": "Viện trưởng Viện kiểm sát nhân dân tối cao",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện trưởng Viện kiểm sát nhân dân tối cao do Quốc hội bầu, miễn nhiệm, bãi nhiệm theo đề nghị của Chủ tịch nước.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân tối cao theo nhiệm kỳ của Quốc hội. Khi Quốc hội hết nhiệm kỳ, Viện trưởng Viện kiểm sát nhân dân tối cao tiếp tục làm nhiệm vụ cho đến khi Quốc hội khoá mới bầu ra Viện trưởng Viện kiểm sát nhân dân tối cao. Mục 2 VIỆN TRƯỞNG, PHÓ VIỆN TRƯỞNG VIỆN KIỂM SÁT NHÂN DÂN CÁC CẤP",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 63",
+            "title": "Nhiệm vụ, quyền hạn của Viện trưởng Viện kiểm sát nhân dân tối cao",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Lãnh đạo, chỉ đạo, hướng dẫn, thanh tra, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác và xây dựng Viện kiểm sát nhân dân; quyết định các vấn đề về công tác của Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Ban hành thông tư, quyết định, chỉ thị, điều lệ, quy chế, chế độ công tác áp dụng đối với Viện kiểm sát nhân dân.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Quy định bộ máy làm việc của Viện kiểm sát nhân dân tối cao và trình Uỷ ban thường vụ Quốc hội phê chuẩn; quyết định bộ máy làm việc của Viện kiểm sát nhân dân cấp dưới; quy định bộ máy làm việc của Viện kiểm sát quân sự sau khi thống nhất với Bộ trưởng Bộ Quốc phòng, trình Ủy ban thường vụ Quốc hội phê chuẩn.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Trình Chủ tịch nước bổ nhiệm, miễn nhiệm, cách chức Phó Viện trưởng Viện kiểm sát nhân dân tối cao, Kiểm sát viên Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Bổ nhiệm, miễn nhiệm, cách chức Kiểm sát viên cao cấp, Kiểm sát viên trung cấp, Kiểm sát viên sơ cấp, Điều tra viên các ngạch, Kiểm tra viên các ngạch.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Bổ nhiệm, miễn nhiệm, cách chức các chức vụ lãnh đạo, quản lý thuộc thẩm quyền.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Kiến nghị xây dựng luật, pháp lệnh; chỉ đạo việc xây dựng và trình dự án luật, pháp lệnh theo quy định của pháp luật; đề nghị Ủy ban thường vụ Quốc hội giải thích Hiến pháp, luật, pháp lệnh.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "8",
+                    "text": "Trình Chủ tịch nước ý kiến của mình về những trường hợp người bị kết án xin ân giảm án tử hình.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "9",
+                    "text": "Chỉ đạo, tổ chức thực hiện việc tổng kết kinh nghiệm thực hành quyền công tố, kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "10",
+                    "text": "Tham dự các phiên họp của Hội đồng thẩm phán Tòa án nhân dân tối cao bàn về việc hướng dẫn áp dụng thống nhất pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "11",
+                    "text": "Kiến nghị với Chính phủ, các bộ, ngành trong công tác đấu tranh phòng, chống tội phạm và vi phạm pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "12",
+                    "text": "Chịu trách nhiệm và báo cáo công tác trước Quốc hội; trong thời gian Quốc hội không họp thì chịu trách nhiệm và báo cáo công tác trước Uỷ ban thường vụ Quốc hội và Chủ tịch nước; trả lời chất vấn, kiến nghị, yêu cầu của đại biểu Quốc hội.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "13",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 64",
+            "title": "Phó Viện trưởng Viện kiểm sát nhân dân tối cao",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Phó Viện trưởng Viện kiểm sát nhân dân tối cao do Chủ tịch nước bổ nhiệm, miễn nhiệm, cách chức theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Phó Viện trưởng Viện kiểm sát nhân dân tối cao thực hiện nhiệm vụ, quyền hạn theo sự phân công hoặc uỷ quyền của Viện trưởng Viện kiểm sát nhân dân tối cao và các nhiệm vụ, quyền hạn khác theo quy định của pháp luật; chịu trách nhiệm trước Viện trưởng và trước pháp luật về việc thực hiện nhiệm vụ, quyền hạn của mình.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nhiệm kỳ của Phó Viện trưởng Viện kiểm sát nhân dân tối cao là 05 năm, kể từ ngày được bổ nhiệm.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 65",
+            "title": "Viện trưởng Viện kiểm sát nhân dân cấp cao",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện trưởng Viện kiểm sát nhân dân cấp cao do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện trưởng Viện kiểm sát nhân dân cấp cao có những nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Chỉ đạo, điều hành, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác của Viện kiểm sát nhân dân cấp cao; quyết định các vấn đề về công tác của Viện kiểm sát nhân dân cấp cao; chịu trách nhiệm và báo cáo công tác trước Viện trưởng Viện kiểm sát nhân dân tối cao;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Chỉ đạo, hướng dẫn, kiểm tra hoạt động nghiệp vụ thực hành quyền công tố và kiểm sát xét xử của Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp huyện;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân cấp cao là 05 năm, kể từ ngày được bổ nhiệm.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 66",
+            "title": "Viện trưởng Viện kiểm sát nhân dân cấp tỉnh",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện trưởng Viện kiểm sát nhân dân cấp tỉnh do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện trưởng Viện kiểm sát nhân dân cấp tỉnh có những nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Chỉ đạo, điều hành, thanh tra, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác của Viện kiểm sát nhân dân cấp tỉnh; quyết định các vấn đề về công tác của Viện kiểm sát nhân dân cấp tỉnh; chịu trách nhiệm và báo cáo công tác của Viện kiểm sát nhân dân cấp tỉnh và cấp dưới trực thuộc trước Viện trưởng Viện kiểm sát nhân dân tối cao; báo cáo công tác thực hành quyền công tố và kiểm sát xét xử của Viện kiểm sát nhân dân cấp tỉnh và cấp dưới trực thuộc trước Viện trưởng Viện kiểm sát nhân dân cấp cao;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Chỉ đạo, hướng dẫn, thanh tra, kiểm tra hoạt động của Viện kiểm sát nhân dân cấp huyện trực thuộc;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Báo cáo trước Hội đồng nhân dân tỉnh, thành phố trực thuộc trung ương về công tác của Viện kiểm sát nhân dân cấp mình và cấp dưới; trả lời chất vấn, kiến nghị, yêu cầu của đại biểu Hội đồng nhân dân cùng cấp;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân cấp tỉnh là 05 năm, kể từ ngày được bổ nhiệm.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 67",
+            "title": "Viện trưởng Viện kiểm sát nhân dân cấp huyện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện trưởng Viện kiểm sát nhân dân cấp huyện do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện trưởng Viện kiểm sát nhân dân cấp huyện có những nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Chỉ đạo, điều hành, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác, quyết định các vấn đề về công tác của Viện kiểm sát nhân dân cấp mình và thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật; chịu trách nhiệm và báo cáo công tác trước Viện trưởng Viện kiểm sát nhân dân cấp tỉnh; báo cáo công tác thực hành quyền công tố và kiểm sát xét xử với Viện trưởng Viện kiểm sát nhân dân cấp cao khi có yêu cầu;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Báo cáo công tác trước Hội đồng nhân dân, trả lời chất vấn, kiến nghị, yêu cầu của đại biểu Hội đồng nhân dân theo quy định của pháp luật."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân cấp huyện là 05 năm, kể từ ngày được bổ nhiệm.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 68",
+            "title": "Phó Viện trưởng Viện kiểm sát nhân dân cấp cao, Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp huyện",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Phó Viện trưởng Viện kiểm sát nhân dân cấp cao, Phó Viện trưởng Viện kiểm sát nhân dân cấp tỉnh, Phó Viện trưởng Viện kiểm sát nhân dân cấp huyện do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Phó Viện trưởng Viện kiểm sát nhân dân cấp cao, Phó Viện trưởng Viện kiểm sát nhân dân cấp tỉnh, Phó Viện trưởng Viện kiểm sát nhân dân cấp huyện thực hiện nhiệm vụ, quyền hạn theo quy định của pháp luật, theo sự phân công hoặc uỷ quyền của Viện trưởng Viện kiểm sát nhân dân cấp mình; chịu trách nhiệm về việc thực hiện nhiệm vụ, quyền hạn trước Viện trưởng Viện kiểm sát nhân dân cấp mình và trước pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nhiệm kỳ của Phó Viện trưởng Viện kiểm sát nhân dân cấp cao, Phó Viện trưởng Viện kiểm sát nhân dân cấp tỉnh, Phó Viện trưởng Viện kiểm sát nhân dân cấp huyện là 05 năm, kể từ ngày được bổ nhiệm.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 69",
+            "title": "Viện trưởng Viện kiểm sát quân sự trung ương",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện trưởng Viện kiểm sát quân sự trung ương là Phó Viện trưởng Viện kiểm sát nhân dân tối cao do Chủ tịch nước bổ nhiệm, miễn nhiệm, cách chức theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao sau khi thống nhất với Bộ trưởng Bộ Quốc phòng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện trưởng Viện kiểm sát quân sự trung ương có những nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Lãnh đạo, chỉ đạo, hướng dẫn, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác và xây dựng Viện kiểm sát quân sự; quyết định các vấn đề về công tác của Viện kiểm sát quân sự trung ương;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Báo cáo công tác của Viện kiểm sát quân sự trước Viện trưởng Viện kiểm sát nhân dân tối cao và Bộ trưởng Bộ Quốc phòng;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Đề nghị Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức Phó Viện trưởng Viện kiểm sát quân sự trung ương; Viện trưởng, Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực; Kiểm sát viên, Điều tra viên của Viện kiểm sát quân sự;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Bổ nhiệm, miễn nhiệm, cách chức Kiểm tra viên các ngạch Viện kiểm sát quân sự;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật và sự phân công của Viện trưởng Viện kiểm sát nhân dân tối cao, Bộ trưởng Bộ Quốc phòng."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Nhiệm kỳ của Viện trưởng Viện kiểm sát quân sự trung ương là 05 năm, kể từ ngày được bổ nhiệm.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 70",
+            "title": "Viện trưởng Viện kiểm sát quân sự quân khu và tương đương",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện trưởng Viện kiểm sát quân sự quân khu và tương đương do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức theo đề nghị của Viện trưởng Viện kiểm sát quân sự trung ương.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện trưởng Viện kiểm sát quân sự quân khu và tương đương có những nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Chỉ đạo, điều hành, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác, quyết định các vấn đề về công tác của Viện kiểm sát quân sự cấp mình; chịu trách nhiệm và báo cáo công tác của Viện kiểm sát quân sự cấp mình và cấp dưới trực thuộc trước Viện trưởng Viện kiểm sát quân sự trung ương; trả lời chất vấn trước Hội nghị đại biểu quân nhân do cơ quan chính trị quân khu và tương đương tổ chức hằng năm;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Chỉ đạo, hướng dẫn, kiểm tra hoạt động của Viện kiểm sát quân sự khu vực trực thuộc;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Nhiệm kỳ của Viện trưởng Viện kiểm sát quân sự quân khu và tương đương là 05 năm, kể từ ngày được bổ nhiệm.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 71",
+            "title": "Viện trưởng Viện kiểm sát quân sự khu vực",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Viện trưởng Viện kiểm sát quân sự khu vực do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức theo đề nghị của Viện trưởng Viện kiểm sát quân sự trung ương.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Viện trưởng Viện kiểm sát quân sự khu vực chỉ đạo, điều hành, kiểm tra việc thực hiện nhiệm vụ, kế hoạch công tác, quyết định những vấn đề về công tác của Viện kiểm sát quân sự cấp mình và thực hiện các nhiệm vụ, quyền hạn khác theo quy định của pháp luật; chịu trách nhiệm và báo cáo công tác trước Viện trưởng Viện kiểm sát quân sự cấp trên.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nhiệm kỳ của Viện trưởng Viện kiểm sát quân sự khu vực là 05 năm, kể từ ngày được bổ nhiệm.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 72",
+            "title": "Phó Viện trưởng Viện kiểm sát quân sự trung ương, Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Phó Viện trưởng Viện kiểm sát quân sự trung ương, Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương, Phó Viện trưởng Viện kiểm sát quân sự khu vực do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức theo đề nghị của Viện trưởng Viện kiểm sát quân sự trung ương.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Phó Viện trưởng Viện kiểm sát quân sự trung ương, Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương, Phó Viện trưởng Viện kiểm sát quân sự khu vực thực hiện nhiệm vụ, quyền hạn theo sự phân công hoặc uỷ quyền của Viện trưởng Viện kiểm sát quân sự cấp mình và các nhiệm vụ, quyền hạn khác theo quy định của pháp luật; chịu trách nhiệm về việc thực hiện nhiệm vụ, quyền hạn trước Viện trưởng Viện kiểm sát quân sự cấp mình và trước pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nhiệm kỳ của Phó Viện trưởng Viện kiểm sát quân sự trung ương, Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương, Phó Viện trưởng Viện kiểm sát quân sự khu vực là 05 năm, kể từ ngày được bổ nhiệm.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 73",
+            "title": "Trách nhiệm của Viện trưởng, Phó Viện trưởng Viện kiểm sát nhân dân các cấp trong thực hành quyền công tố, kiểm sát hoạt động tư pháp",
+            "content": []
+        },
+        {
+            "id": "Điều 74",
+            "title": "Kiểm sát viên",
+            "content": []
+        },
+        {
+            "id": "Điều 75",
+            "title": "Tiêu chuẩn chung của Kiểm sát viên",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Là công dân Việt Nam trung thành với Tổ quốc và Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, có phẩm chất đạo đức tốt, liêm khiết, trung thực, bản lĩnh chính trị vững vàng, có tinh thần kiên quyết bảo vệ pháp chế xã hội chủ nghĩa.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Có trình độ cử nhân luật trở lên.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Đã được đào tạo về nghiệp vụ kiểm sát.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Có thời gian làm công tác thực tiễn theo quy định của Luật này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Có sức khoẻ bảo đảm hoàn thành nhiệm vụ được giao.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 76",
+            "title": "Ngạch Kiểm sát viên",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Ngạch Kiểm sát viên Viện kiểm sát nhân dân gồm có:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Kiểm sát viên Viện kiểm sát nhân dân tối cao;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Kiểm sát viên cao cấp;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Kiểm sát viên trung cấp;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Kiểm sát viên sơ cấp."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Ở Viện kiểm sát nhân dân tối cao có thể được bố trí bốn ngạch Kiểm sát viên; ở Viện kiểm sát quân sự trung ương có Viện trưởng là Kiểm sát viên Viện kiểm sát nhân dân tối cao và có thể được bố trí các ngạch Kiểm sát viên cao cấp, trung cấp, sơ cấp; các Viện kiểm sát khác có thể được bố trí các ngạch Kiểm sát viên cao cấp, trung cấp, sơ cấp.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 77",
+            "title": "Tiêu chuẩn bổ nhiệm Kiểm sát viên sơ cấp",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Có thời gian làm công tác pháp luật từ 04 năm trở lên;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Có năng lực thực hành quyền công tố, kiểm sát hoạt động tư pháp;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Đã trúng tuyển kỳ thi vào ngạch Kiểm sát viên sơ cấp.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 78",
+            "title": "Tiêu chuẩn bổ nhiệm Kiểm sát viên trung cấp",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Người có đủ tiêu chuẩn quy định tại Điều 75 của Luật này và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Kiểm sát viên trung cấp của Viện kiểm sát nhân dân; nếu là sĩ quan quân đội tại ngũ thì có thể được bổ nhiệm làm Kiểm sát viên trung cấp của Viện kiểm sát quân sự:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Đã là Kiểm sát viên sơ cấp ít nhất 05 năm;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Có năng lực thực hành quyền công tố, kiểm sát hoạt động tư pháp;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Có khả năng hướng dẫn nghiệp vụ thực hành quyền công tố, kiểm sát hoạt động tư pháp đối với Kiểm sát viên sơ cấp;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Đã trúng tuyển kỳ thi vào ngạch Kiểm sát viên trung cấp."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Trong trường hợp do nhu cầu cán bộ của Viện kiểm sát nhân dân, người đã có thời gian làm công tác pháp luật từ 10 năm trở lên, có đủ tiêu chuẩn quy định tại Điều 75 của Luật này, các điểm b, c và d khoản 1 Điều này thì có thể được bổ nhiệm làm Kiểm sát viên trung cấp của Viện kiểm sát nhân dân; nếu là sĩ quan quân đội tại ngũ thì có thể được bổ nhiệm làm Kiểm sát viên trung cấp của Viện kiểm sát quân sự.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 79",
+            "title": "Tiêu chuẩn bổ nhiệm Kiểm sát viên cao cấp",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Người có đủ tiêu chuẩn quy định tại Điều 75 của Luật này và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Kiểm sát viên cao cấp của Viện kiểm sát nhân dân; nếu là sĩ quan quân đội tại ngũ thì có thể được bổ nhiệm làm Kiểm sát viên cao cấp của Viện kiểm sát quân sự:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Đã là Kiểm sát viên trung cấp ít nhất 05 năm;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Có năng lực thực hành quyền công tố, kiểm sát hoạt động tư pháp;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Có khả năng hướng dẫn nghiệp vụ thực hành quyền công tố, kiểm sát hoạt động tư pháp đối với Kiểm sát viên cấp dưới;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Đã trúng tuyển kỳ thi vào ngạch Kiểm sát viên cao cấp."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Trong trường hợp do nhu cầu cán bộ của Viện kiểm sát nhân dân, người đã có thời gian làm công tác pháp luật từ 15 năm trở lên, có đủ tiêu chuẩn quy định tại Điều 75 của Luật này, các điểm b, c và d khoản 1 Điều này thì có thể được bổ nhiệm làm Kiểm sát viên cao cấp của Viện kiểm sát nhân dân; nếu là sĩ quan quân đội tại ngũ thì có thể được bổ nhiệm làm Kiểm sát viên cao cấp của Viện kiểm sát quân sự.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 80",
+            "title": "Tiêu chuẩn bổ nhiệm Kiểm sát viên Viện kiểm sát nhân dân tối cao",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Người có đủ tiêu chuẩn quy định tại Điều 75 của Luật này và có đủ các điều kiện sau đây thì có thể được tuyển chọn, bổ nhiệm làm Kiểm sát viên Viện kiểm sát nhân dân tối cao:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Đã là Kiểm sát viên cao cấp ít nhất 05 năm;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Có năng lực chỉ đạo, điều hành công tác thực hành quyền công tố, kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân tối cao;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Có năng lực giải quyết những vấn đề quan trọng thuộc thẩm quyền của Viện kiểm sát nhân dân tối cao."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Trong trường hợp do nhu cầu cán bộ của Viện kiểm sát nhân dân, người đã có thời gian làm công tác pháp luật từ 20 năm trở lên, có đủ tiêu chuẩn quy định tại Điều 75 của Luật này, điểm b và điểm c khoản 1 Điều này thì có thể được tuyển chọn, bổ nhiệm làm Kiểm sát viên Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 81",
+            "title": "Bổ nhiệm Kiểm sát viên trong trường hợp đặc biệt",
+            "content": []
+        },
+        {
+            "id": "Điều 82",
+            "title": "Nhiệm kỳ Kiểm sát viên",
+            "content": []
+        },
+        {
+            "id": "Điều 83",
+            "title": "Nhiệm vụ, quyền hạn và trách nhiệm của Kiểm sát viên",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Khi thực hành quyền công tố, kiểm sát hoạt động tư pháp, Kiểm sát viên tuân theo pháp luật và chịu sự chỉ đạo của Viện trưởng Viện kiểm sát nhân dân. Kiểm sát viên tuân theo pháp luật và phải chịu trách nhiệm trước pháp luật về hành vi, quyết định của mình trong việc thực hành quyền công tố, tranh tụng tại phiên tòa và kiểm sát hoạt động tư pháp. Kiểm sát viên phải chấp hành quyết định của Viện trưởng Viện kiểm sát nhân dân. Khi có căn cứ cho rằng quyết định đó là trái pháp luật thì Kiểm sát viên có quyền từ chối nhiệm vụ được giao và phải kịp thời báo cáo bằng văn bản với Viện trưởng; trường hợp Viện trưởng vẫn quyết định việc thi hành thì phải có văn bản và Kiểm sát viên phải chấp hành nhưng không phải chịu trách nhiệm về hậu quả của việc thi hành, đồng thời báo cáo lên Viện trưởng Viện kiểm sát nhân dân cấp trên có thẩm quyền. Viện trưởng đã quyết định phải chịu trách nhiệm trước pháp luật về quyết định của mình. Viện trưởng Viện kiểm sát nhân dân có trách nhiệm kiểm tra, xử lý nghiêm minh đối với vi phạm pháp luật của Kiểm sát viên khi thực hiện nhiệm vụ được giao; có quyền rút, đình chỉ hoặc hủy bỏ các quyết định trái pháp luật của Kiểm sát viên.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Nhiệm vụ, quyền hạn cụ thể của Kiểm sát viên khi thực hành quyền công tố, kiểm sát hoạt động tư pháp do luật định.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Trong vụ việc có nhiều Kiểm sát viên tham gia giải quyết thì Kiểm sát viên ở ngạch thấp hơn phải tuân theo sự phân công, chỉ đạo của Kiểm sát viên ở ngạch cao hơn.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Khi thực hiện nhiệm vụ, Kiểm sát viên có quyền ra quyết định, kết luận, yêu cầu, kiến nghị theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 84",
+            "title": "Những việc Kiểm sát viên không được làm",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Những việc mà pháp luật quy định cán bộ, công chức không được làm.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tư vấn cho người bị bắt, bị tạm giữ, bị can, bị cáo, đương sự hoặc người tham gia tố tụng khác làm cho việc giải quyết vụ án, vụ việc không đúng quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Can thiệp vào việc giải quyết vụ án, vụ việc hoặc lợi dụng ảnh hưởng của mình tác động đến người có trách nhiệm giải quyết vụ án, vụ việc.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Đưa hồ sơ, tài liệu của vụ án, vụ việc ra khỏi cơ quan nếu không vì nhiệm vụ được giao hoặc không được sự đồng ý của người có thẩm quyền.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Tiếp bị can, bị cáo, đương sự hoặc người tham gia tố tụng khác trong vụ án, vụ việc mà mình có thẩm quyền giải quyết ngoài nơi quy định.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 85",
+            "title": "Tuyên thệ của Kiểm sát viên",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tuyệt đối trung thành với Tổ quốc, tận tụy phục vụ nhân dân;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Đấu tranh không khoan nhượng với mọi tội phạm và vi phạm pháp luật;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Kiên quyết bảo vệ Hiến pháp, pháp luật, lẽ phải và công bằng xã hội;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Không ngừng phấn đấu, học tập và làm theo lời dạy của Chủ tịch Hồ Chí Minh “Công minh, chính trực, khách quan, thận trọng, khiêm tốn”;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Nghiêm chỉnh chấp hành kỷ luật, nguyên tắc tổ chức hoạt động của Viện kiểm sát nhân dân.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 86",
+            "title": "Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao gồm có Chủ tịch là Viện trưởng Viện kiểm sát nhân dân tối cao và các uỷ viên là đại diện lãnh đạo Bộ Quốc phòng, Bộ Nội vụ, Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam, Trung ương Hội luật gia Việt Nam. Danh sách uỷ viên Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao do Uỷ ban thường vụ Quốc hội quyết định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao có những nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tuyển chọn người đủ tiêu chuẩn làm Kiểm sát viên Viện kiểm sát nhân dân tối cao theo đề nghị của Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao để Viện trưởng Viện kiểm sát nhân dân tối cao trình Chủ tịch nước bổ nhiệm;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Xem xét những trường hợp Kiểm sát viên Viện kiểm sát nhân dân tối cao có thể được miễn nhiệm chức danh Kiểm sát viên quy định tại khoản 2 Điều 88 của Luật này theo đề nghị của Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao để Viện trưởng Viện kiểm sát nhân dân tối cao trình Chủ tịch nước miễn nhiệm;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Xem xét những trường hợp Kiểm sát viên Viện kiểm sát nhân dân tối cao có thể bị cách chức chức danh Kiểm sát viên quy định tại khoản 2 Điều 89 của Luật này theo đề nghị của Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao để Viện trưởng Viện kiểm sát nhân dân tối cao trình Chủ tịch nước cách chức."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Hội đồng tuyển chọn Kiểm sát viên Viện kiểm sát nhân dân tối cao làm việc theo chế độ tập thể; quyết định của Hội đồng tuyển chọn phải được quá nửa tổng số ủy viên biểu quyết tán thành.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 87",
+            "title": "Hội đồng thi tuyển Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Hội đồng thi tuyển Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp gồm có Chủ tịch là Viện trưởng Viện kiểm sát nhân dân tối cao và các ủy viên là một Phó Viện trưởng Viện kiểm sát nhân dân tối cao, Viện trưởng Viện kiểm sát quân sự trung ương, đại diện lãnh đạo Bộ Quốc phòng, Bộ Nội vụ, Uỷ ban trung ương Mặt trận Tổ quốc Việt Nam. Danh sách Hội đồng thi tuyển Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp do Viện trưởng Viện kiểm sát nhân dân tối cao quyết định.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Hội đồng thi tuyển Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp có những nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Tổ chức các kỳ thi tuyển Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Công bố danh sách những người trúng tuyển;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Đề nghị Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm người đã trúng tuyển làm Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Quy chế làm việc của Hội đồng thi tuyển Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp do Viện trưởng Viện kiểm sát nhân dân tối cao quy định.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 88",
+            "title": "Miễn nhiệm Kiểm sát viên",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Kiểm sát viên đương nhiên được miễn nhiệm chức danh Kiểm sát viên khi nghỉ hưu, thôi việc, chuyển ngành.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Kiểm sát viên có thể được miễn nhiệm chức danh Kiểm sát viên vì lý do sức khỏe, hoàn cảnh gia đình hoặc vì lý do khác mà xét thấy không thể hoàn thành nhiệm vụ được giao.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 89",
+            "title": "Cách chức Kiểm sát viên",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Kiểm sát viên đương nhiên bị cách chức chức danh Kiểm sát viên khi bị kết tội bằng bản án của Tòa án đã có hiệu lực pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tùy theo tính chất, mức độ vi phạm, Kiểm sát viên có thể bị cách chức chức danh Kiểm sát viên khi thuộc một trong các trường hợp sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Vi phạm trong khi thực hành quyền công tố, kiểm sát hoạt động tư pháp;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Vi phạm quy định tại Điều 84 của Luật này;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Vi phạm về phẩm chất đạo đức;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Có hành vi vi phạm pháp luật khác."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 90",
+            "title": "Kiểm tra viên",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Kiểm tra viên là người được bổ nhiệm theo quy định của pháp luật để giúp Kiểm sát viên thực hành quyền công tố, kiểm sát hoạt động tư pháp; thực hiện các nhiệm vụ, quyền hạn khác theo sự phân công của Viện trưởng Viện kiểm sát nhân dân.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Kiểm tra viên có các ngạch sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Kiểm tra viên;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Kiểm tra viên chính;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Kiểm tra viên cao cấp."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Tiêu chuẩn bổ nhiệm, điều kiện nâng ngạch Kiểm tra viên do Ủy ban thường vụ Quốc hội quy định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Kiểm tra viên có những nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Nghiên cứu hồ sơ vụ, việc và báo cáo kết quả với Kiểm sát viên;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Lập hồ sơ kiểm sát vụ, việc;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Giúp Kiểm sát viên thực hiện hoạt động khác khi thực hành quyền công tố, kiểm sát hoạt động tư pháp;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Thực hiện các nhiệm vụ, quyền hạn khác theo sự phân công của Viện trưởng."
+                        }
+                    ]
+                },
+                {
+                    "number": "5",
+                    "text": "Kiểm tra viên chịu trách nhiệm trước pháp luật, trước Kiểm sát viên và trước Viện trưởng Viện kiểm sát nhân dân về việc thực hiện nhiệm vụ, quyền hạn của mình; nếu có hành vi vi phạm pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự. Mục 4 THỦ TRƯỞNG, PHÓ THỦ TRƯỞNG, ĐIỀU TRA VIÊN VÀ CÁC CHỨC DANH KHÁC CỦA  CƠ QUAN ĐIỀU TRA VIỆN KIỂM SÁT NHÂN DÂN TỐI CAO, VIỆN KIỂM SÁT QUÂN SỰ TRUNG ƯƠNG",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 91",
+            "title": "Thủ trưởng, Phó thủ trưởng Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Viện kiểm sát quân sự trung ương",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thủ trưởng, Phó thủ trưởng Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Viện kiểm sát quân sự trung ương do Viện trưởng Viện kiểm sát nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thủ trưởng, Phó thủ trưởng Cơ quan điều tra Viện kiểm sát nhân dân tối cao chịu trách nhiệm trước pháp luật và trước Viện trưởng Viện kiểm sát nhân dân tối cao về việc thực hiện nhiệm vụ, quyền hạn của mình.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Thủ trưởng, Phó thủ trưởng Cơ quan điều tra Viện kiểm sát quân sự trung ương chịu trách nhiệm trước pháp luật và trước Viện trưởng Viện kiểm sát quân sự trung ương, Viện trưởng Viện kiểm sát nhân dân tối cao về việc thực hiện nhiệm vụ, quyền hạn của mình.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 92",
+            "title": "Điều tra viên và các chức danh khác của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Viện kiểm sát quân sự trung ương",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tiêu chuẩn bổ nhiệm, điều kiện nâng ngạch, các ngạch Điều tra viên và các chức danh khác của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Viện kiểm sát quân sự trung ương do luật định.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Khi thực hiện nhiệm vụ, quyền hạn được Thủ trưởng Cơ quan điều tra Viện kiểm sát nhân dân tối cao phân công, Điều tra viên và các chức danh khác của Cơ quan điều tra phải tuân theo pháp luật và chịu sự chỉ đạo trực tiếp của Thủ trưởng Cơ quan điều tra, sự lãnh đạo thống nhất của Viện trưởng Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Khi thực hiện nhiệm vụ, quyền hạn được Thủ trưởng Cơ quan điều tra Viện kiểm sát quân sự trung ương phân công, Điều tra viên và các chức danh khác của Cơ quan điều tra phải tuân theo pháp luật và chịu sự chỉ đạo trực tiếp của Thủ trưởng Cơ quan điều tra, sự lãnh đạo của Viện trưởng Viện kiểm sát quân sự trung ương, sự lãnh đạo thống nhất của Viện trưởng Viện kiểm sát nhân dân tối cao. CHƯƠNG V BẢO ĐẢM HOẠT ĐỘNG CỦA VIỆN KIỂM SÁT NHÂN DÂN",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 93",
+            "title": "Tổng biên chế, số lượng, cơ cấu tỷ lệ ngạch Kiểm sát viên, Điều tra viên của Viện kiểm sát nhân dân",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Số lượng Kiểm sát viên Viện kiểm sát nhân dân tối cao không quá 19 người.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tổng biên chế, số lượng Kiểm sát viên; cơ cấu tỷ lệ các ngạch Kiểm sát viên tại mỗi cấp Viện kiểm sát; số lượng, cơ cấu tỷ lệ các ngạch Điều tra viên của Viện kiểm sát nhân dân tối cao do Ủy ban thường vụ Quốc hội quyết định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao sau khi có ý kiến của Chính phủ. Căn cứ tổng biên chế, số lượng, cơ cấu tỷ lệ các ngạch Kiểm sát viên đã được Ủy ban thường vụ Quốc hội quyết định, Viện trưởng Viện kiểm sát nhân dân tối cao quyết định biên chế, số lượng Kiểm sát viên, công chức khác, viên chức và người lao động khác của các đơn vị trực thuộc Viện kiểm sát nhân dân tối cao và các Viện kiểm sát nhân dân cấp dưới.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Tổng biên chế, số lượng Kiểm sát viên; cơ cấu tỷ lệ các ngạch Kiểm sát viên của mỗi cấp Viện kiểm sát quân sự; số lượng, cơ cấu tỷ lệ các ngạch Điều tra viên của Viện kiểm sát quân sự trung ương do Uỷ ban thường vụ Quốc hội quyết định theo đề nghị Viện trưởng Viện kiểm sát nhân dân tối cao sau khi thống nhất với Bộ trưởng Bộ Quốc phòng. Căn cứ số lượng, cơ cấu tỷ lệ ngạch Kiểm sát viên của Viện kiểm sát quân sự đã được Uỷ ban thường vụ Quốc hội quyết định, Viện trưởng Viện kiểm sát nhân dân tối cao quyết định số lượng Kiểm sát viên của Viện kiểm sát quân sự mỗi cấp sau khi thống nhất với Bộ trưởng Bộ Quốc phòng.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 94",
+            "title": "Kinh phí và cơ sở vật chất",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước bảo đảm kinh phí hoạt động, cơ sở vật chất cho Viện kiểm sát nhân dân theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Kinh phí hoạt động của Viện kiểm sát nhân dân do Viện kiểm sát nhân dân tối cao lập dự toán và đề nghị Chính phủ trình Quốc hội quyết định. Trong trường hợp Chính phủ và Viện kiểm sát nhân dân tối cao không thống nhất về dự toán kinh phí hoạt động của Viện kiểm sát nhân dân thì Viện trưởng Viện kiểm sát nhân dân tối cao kiến nghị Quốc hội xem xét, quyết định. Việc quản lý, phân bổ và sử dụng kinh phí được thực hiện theo quy định của pháp luật về ngân sách.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Kinh phí hoạt động của Viện kiểm sát quân sự do Viện trưởng Viện kiểm sát quân sự trung ương lập dự toán báo cáo Bộ Quốc phòng để đề nghị Chính phủ trình Quốc hội quyết định. Việc quản lý, phân bổ và sử dụng kinh phí hoạt động của các Viện kiểm sát quân sự được thực hiện theo quy định của pháp luật về ngân sách.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Nhà nước ưu tiên đầu tư xây dựng trụ sở, trang thiết bị nâng cao năng lực hoạt động cho Viện kiểm sát nhân dân. Trụ sở, trang thiết bị, phương tiện làm việc của Viện kiểm sát quân sự do Chính phủ bảo đảm theo đề nghị của Bộ trưởng Bộ Quốc phòng.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 95",
+            "title": "Chế độ tiền lương",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Kiểm sát viên, Điều tra viên, Kiểm tra viên có thang bậc lương riêng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Chế độ tiền lương đối với Kiểm sát viên, Điều tra viên, Kiểm tra viên của Viện kiểm sát nhân dân do Ủy ban thường vụ Quốc hội quyết định trên cơ sở đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao. Chế độ tiền lương đối với công chức khác, viên chức và người lao động khác của Viện kiểm sát nhân dân được thực hiện theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Chế độ tiền lương đối với Kiểm sát viên, Điều tra viên, Kiểm tra viên, quân nhân khác, công chức, viên chức và người lao động khác của Viện kiểm sát quân sự được thực hiện theo chế độ của quân đội.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 96",
+            "title": "Chế độ phụ cấp",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Chế độ phụ cấp đặc thù của cán bộ, công chức, viên chức Viện kiểm sát nhân dân do Viện trưởng Viện kiểm sát nhân dân tối cao đề nghị Ủy ban thường vụ Quốc hội, Chính phủ quyết định.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Kiểm sát viên, Điều tra viên, Kiểm tra viên, quân nhân khác, công chức, viên chức và người lao động khác của Viện kiểm sát quân sự được hưởng chế độ phụ cấp của Viện kiểm sát theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Chế độ phụ cấp khác theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 97",
+            "title": "Trang phục, giấy chứng minh Kiểm sát viên, giấy chứng nhận Điều tra viên, Kiểm tra viên",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân được cấp trang phục và phù hiệu; Kiểm sát viên được cấp cấp hiệu, giấy chứng minh; Điều tra viên, Kiểm tra viên được cấp cấp hiệu, giấy chứng nhận để làm nhiệm vụ. Kiểm sát viên, Điều tra viên, Kiểm tra viên, quân nhân khác, công chức, viên chức và người lao động khác của Viện kiểm sát quân sự được cấp trang phục theo chế độ của quân đội.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Ủy ban thường vụ Quốc hội quy định chế độ cấp phát và sử dụng trang phục ngành Kiểm sát nhân dân, phù hiệu, cấp hiệu của Lãnh đạo Viện kiểm sát nhân dân các cấp, của Kiểm sát viên, Điều tra viên, Kiểm tra viên trên cơ sở đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao. Viện trưởng Viện kiểm sát nhân dân tối cao quy định hình thức, chất liệu, màu sắc trang phục; chế độ cấp phát và sử dụng trang phục đối với các công chức khác, viên chức và người lao động khác của Viện kiểm sát nhân dân.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Giấy chứng minh Kiểm sát viên do Viện trưởng Viện kiểm sát nhân dân tối cao cấp và quản lý. Hình thức, kích thước, màu sắc của Giấy chứng minh Kiểm sát viên do Ủy ban thường vụ Quốc hội quy định trên cơ sở đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Giấy chứng nhận Điều tra viên, Kiểm tra viên do Viện trưởng Viện kiểm sát nhân dân tối cao quy định, cấp và quản lý.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 98",
+            "title": "Chế độ đào tạo, bồi dưỡng",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước bảo đảm kinh phí cho công tác đào tạo, bồi dưỡng của Viện kiểm sát nhân dân theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Nhà nước khuyến khích, tạo điều kiện phát triển nguồn nhân lực để phục vụ Viện kiểm sát nhân dân; có chính sách ưu tiên đào tạo, bồi dưỡng công chức, viên chức của Viện kiểm sát nhân dân là người dân tộc thiểu số hoặc công tác tại miền núi, hải đảo và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Kiểm sát viên, Điều tra viên, Kiểm tra viên, quân nhân khác, công chức, viên chức và người lao động khác của Viện kiểm sát quân sự được đào tạo, bồi dưỡng theo quy định của Viện kiểm sát nhân dân tối cao và Bộ Quốc phòng.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 99",
+            "title": "Khen thưởng, xử lý vi phạm",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân có thành tích trong công tác thì được khen thưởng theo quy định của pháp luật về thi đua khen thưởng và quy định của Viện kiểm sát nhân dân. Quân nhân, công chức, viên chức và người lao động khác của Viện kiểm sát quân sự có thành tích trong công tác thì được khen thưởng theo quy định của pháp luật về thi đua khen thưởng, quy định của Viện kiểm sát nhân dân, Bộ Quốc phòng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân vi phạm pháp luật, vi phạm kỷ luật thì tùy theo tính chất, mức độ vi phạm mà xử lý kỷ luật, xử lý hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật và quy định của Viện kiểm sát nhân dân. Quân nhân, công chức, viên chức và người lao động khác của Viện kiểm sát quân sự vi phạm pháp luật, vi phạm kỷ luật thì tùy theo tính chất, mức độ vi phạm mà xử lý kỷ luật, xử lý hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật, quy định của Viện kiểm sát nhân dân, Bộ Quốc phòng. CHƯƠNG VI ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 100",
+            "title": "Hiệu lực thi hành",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 6 năm 2015, trừ các điều, khoản quy định tại khoản 2 Điều này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Điều 40, Điều 49, các khoản 3, 4 và 5 Điều 63, Điều 74, Điều 76, điểm b và điểm c khoản 1 Điều 79, điểm b và điểm c khoản 1 Điều 80, khoản 1 Điều 93 của Luật tổ chức Viện kiểm sát nhân dân có hiệu lực kể từ ngày 01 tháng 02 năm 2015.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Luật tổ chức Viện kiểm sát nhân dân số 34/2002/QH10, Pháp lệnh Kiểm sát viên Viện kiểm sát nhân dân số 03/2002/PL-UBTVQH11 đã được sửa đổi, bổ sung một số điều theo Pháp lệnh số 15/2011/PL-UBTVQH12, Pháp lệnh tổ chức Viện kiểm sát quân sự số 05/2002/PL-UBTVQH11 hết hiệu lực kể từ ngày Luật này có hiệu lực.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 101",
+            "title": "Hướng dẫn thi hành",
+            "content": []
+        }
+    ],
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 24 tháng 11 năm 2014",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh HùngTên văn bản : Luật Xử lý vi phạm hành chính",
+        "Loại văn bản : Luật",
+        "Số hiệu : 15/2012/QH13",
+        "Ngày ban hành : 02/07/2012",
+        "Cơ quan ban hành : Quốc hội,",
+        "Người ký : Nguyễn Sinh Hùng,",
+        "Ngày hiệu lực : 01/07/2013",
+        "Văn bản liên quan : 0"
+    ]
+}

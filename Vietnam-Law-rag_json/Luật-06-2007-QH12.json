@@ -1,0 +1,2235 @@
+[
+    {
+        "id": "Điều 3.1",
+        "article": "Điều 3",
+        "clause": "1",
+        "title": "Áp dụng pháp luật",
+        "text": "Hoạt động hóa chất phải tuân theo quy định của Luật này và các quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 3.2",
+        "article": "Điều 3",
+        "clause": "2",
+        "title": "Áp dụng pháp luật",
+        "text": "Hoạt động liên quan đến chất phóng xạ, chất thải phóng xạ tuân theo quy định của pháp luật về an toàn bức xạ, năng lượng nguyên tử."
+    },
+    {
+        "id": "Điều 3.3",
+        "article": "Điều 3",
+        "clause": "3",
+        "title": "Áp dụng pháp luật",
+        "text": "Trường hợp quy định của Luật này khác với quy định của điều ước quốc tế liên quan đến hóa chất và hoạt động hóa chất mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên thì thực hiện theo quy định của điều ước quốc tế đó."
+    },
+    {
+        "id": "Điều 4.1",
+        "article": "Điều 4",
+        "clause": "1",
+        "title": "Giải thích từ ngữ",
+        "text": "Hóa chất là đơn chất, hợp chất, hỗn hợp chất được con người khai thác hoặc tạo ra từ nguồn nguyên liệu tự nhiên, nguyên liệu nhân tạo."
+    },
+    {
+        "id": "Điều 4.2",
+        "article": "Điều 4",
+        "clause": "2",
+        "title": "Giải thích từ ngữ",
+        "text": "Chất là đơn chất, hợp chất kể cả tạp chất sinh ra trong quá trình chế biến, những phụ gia cần thiết để bảo đảm đặc tính lý, hóa ổn định, không bao gồm các dung môi mà khi tách ra thì tính chất của chất đó không thay đổi."
+    },
+    {
+        "id": "Điều 4.3",
+        "article": "Điều 4",
+        "clause": "3",
+        "title": "Giải thích từ ngữ",
+        "text": "Hỗn hợp chất là tập hợp của hai hoặc nhiều chất mà giữa chúng không xảy ra phản ứng hóa học trong điều kiện bình thường."
+    },
+    {
+        "id": "Điều 4.4",
+        "article": "Điều 4",
+        "clause": "4",
+        "title": "Giải thích từ ngữ",
+        "text": "Hóa chất nguy hiểm là hóa chất có một hoặc một số đặc tính nguy hiểm sau đây theo nguyên tắc phân loại của Hệ thống hài hòa toàn cầu về phân loại và ghi nhãn hóa chất:"
+    },
+    {
+        "id": "Điều 4.4a",
+        "article": "Điều 4",
+        "clause": "4a",
+        "title": "Giải thích từ ngữ",
+        "text": "Dễ nổ;"
+    },
+    {
+        "id": "Điều 4.4b",
+        "article": "Điều 4",
+        "clause": "4b",
+        "title": "Giải thích từ ngữ",
+        "text": "Ôxy hóa mạnh;"
+    },
+    {
+        "id": "Điều 4.4c",
+        "article": "Điều 4",
+        "clause": "4c",
+        "title": "Giải thích từ ngữ",
+        "text": "Ăn mòn mạnh;"
+    },
+    {
+        "id": "Điều 4.4d",
+        "article": "Điều 4",
+        "clause": "4d",
+        "title": "Giải thích từ ngữ",
+        "text": "Dễ cháy;"
+    },
+    {
+        "id": "Điều 4.4đ",
+        "article": "Điều 4",
+        "clause": "4đ",
+        "title": "Giải thích từ ngữ",
+        "text": "Độc cấp tính;"
+    },
+    {
+        "id": "Điều 4.4e",
+        "article": "Điều 4",
+        "clause": "4e",
+        "title": "Giải thích từ ngữ",
+        "text": "Độc mãn tính;"
+    },
+    {
+        "id": "Điều 4.4g",
+        "article": "Điều 4",
+        "clause": "4g",
+        "title": "Giải thích từ ngữ",
+        "text": "Gây kích ứng với con người;"
+    },
+    {
+        "id": "Điều 4.4h",
+        "article": "Điều 4",
+        "clause": "4h",
+        "title": "Giải thích từ ngữ",
+        "text": "Gây ung thư hoặc có nguy cơ gây ung thư;"
+    },
+    {
+        "id": "Điều 4.4i",
+        "article": "Điều 4",
+        "clause": "4i",
+        "title": "Giải thích từ ngữ",
+        "text": "Gây biến đổi gen;"
+    },
+    {
+        "id": "Điều 4.4k",
+        "article": "Điều 4",
+        "clause": "4k",
+        "title": "Giải thích từ ngữ",
+        "text": "Độc đối với sinh sản;"
+    },
+    {
+        "id": "Điều 4.4l",
+        "article": "Điều 4",
+        "clause": "4l",
+        "title": "Giải thích từ ngữ",
+        "text": "Tích luỹ sinh học;"
+    },
+    {
+        "id": "Điều 4.4m",
+        "article": "Điều 4",
+        "clause": "4m",
+        "title": "Giải thích từ ngữ",
+        "text": "Ô nhiễm hữu cơ khó phân huỷ;"
+    },
+    {
+        "id": "Điều 4.4n",
+        "article": "Điều 4",
+        "clause": "4n",
+        "title": "Giải thích từ ngữ",
+        "text": "Độc hại đến môi trường."
+    },
+    {
+        "id": "Điều 4.5",
+        "article": "Điều 4",
+        "clause": "5",
+        "title": "Giải thích từ ngữ",
+        "text": "Hoá chất độc là hóa chất nguy hiểm có ít nhất một trong những đặc tính nguy hiểm quy định từ điểm đ đến điểm n khoản 4 Điều này."
+    },
+    {
+        "id": "Điều 4.6",
+        "article": "Điều 4",
+        "clause": "6",
+        "title": "Giải thích từ ngữ",
+        "text": "Hoá chất mới là hóa chất chưa có trong danh mục hóa chất quốc gia, danh mục hóa chất nước ngoài được cơ quan nhà nước có thẩm quyền của Việt Nam thừa nhận."
+    },
+    {
+        "id": "Điều 4.7",
+        "article": "Điều 4",
+        "clause": "7",
+        "title": "Giải thích từ ngữ",
+        "text": "Hoạt động hóa chất là hoạt động đầu tư, sản xuất, sang chai, đóng gói, mua bán, xuất khẩu, nhập khẩu, vận chuyển, cất giữ, bảo quản, sử dụng, nghiên cứu, thử nghiệm hóa chất, xử lý hóa chất thải bỏ, xử lý chất thải hóa chất."
+    },
+    {
+        "id": "Điều 4.8",
+        "article": "Điều 4",
+        "clause": "8",
+        "title": "Giải thích từ ngữ",
+        "text": "Sự cố hóa chất là tình trạng cháy, nổ, rò rỉ, phát tán hóa chất gây hại hoặc có nguy cơ gây hại cho người, tài sản và môi trường."
+    },
+    {
+        "id": "Điều 4.9",
+        "article": "Điều 4",
+        "clause": "9",
+        "title": "Giải thích từ ngữ",
+        "text": "Sự cố hóa chất nghiêm trọng là sự cố hóa chất gây hại hoặc có nguy cơ gây hại lớn, trên diện rộng cho người, tài sản, môi trường và vượt ra khỏi khả năng kiểm soát của cơ sở hóa chất."
+    },
+    {
+        "id": "Điều 4.10",
+        "article": "Điều 4",
+        "clause": "10",
+        "title": "Giải thích từ ngữ",
+        "text": "Đặc tính nguy hiểm mới là đặc tính nguy hiểm được phát hiện nhưng chưa được ghi trong phiếu an toàn hóa chất."
+    },
+    {
+        "id": "Điều 5.1",
+        "article": "Điều 5",
+        "clause": "1",
+        "title": "Nguyên tắc hoạt động hóa chất",
+        "text": "Bảo đảm an toàn cho người, tài sản, hệ sinh thái và môi trường; trật tự, an toàn xã hội."
+    },
+    {
+        "id": "Điều 5.2",
+        "article": "Điều 5",
+        "clause": "2",
+        "title": "Nguyên tắc hoạt động hóa chất",
+        "text": "Kiểm soát chặt chẽ hoạt động hóa chất, đặc biệt đối với hóa chất mới, hóa chất nguy hiểm, hóa chất hạn chế kinh doanh, hóa chất cấm."
+    },
+    {
+        "id": "Điều 5.3",
+        "article": "Điều 5",
+        "clause": "3",
+        "title": "Nguyên tắc hoạt động hóa chất",
+        "text": "Thông tin đầy đủ, chính xác, kịp thời về đặc tính nguy hiểm của hóa chất và các biện pháp phòng ngừa cần thiết."
+    },
+    {
+        "id": "Điều 6.1",
+        "article": "Điều 6",
+        "clause": "1",
+        "title": "Chính sách của Nhà nước về hoạt động hóa chất",
+        "text": "Xây dựng ngành công nghiệp hóa chất hiện đại, bền vững, sử dụng hiệu quả tài nguyên thiên nhiên; chú trọng phát triển các hóa chất cơ bản, hóa chất thân thiện với môi trường, hóa chất có giá trị kinh tế cao phục vụ phát triển kinh tế - xã hội."
+    },
+    {
+        "id": "Điều 6.2",
+        "article": "Điều 6",
+        "clause": "2",
+        "title": "Chính sách của Nhà nước về hoạt động hóa chất",
+        "text": "Nhà nước đầu tư xây dựng quy hoạch phát triển công nghiệp hóa chất, xây dựng hệ thống kiểm soát an toàn hóa chất quốc gia, cơ sở dữ liệu thông tin an toàn hóa chất."
+    },
+    {
+        "id": "Điều 6.3",
+        "article": "Điều 6",
+        "clause": "3",
+        "title": "Chính sách của Nhà nước về hoạt động hóa chất",
+        "text": "Nhà nước khuyến khích các tổ chức, cá nhân đầu tư phát triển công nghiệp hóa chất; ứng dụng công nghệ hiện đại, công nghệ thân thiện với môi trường; giảm dần việc sử dụng hóa chất nguy hiểm, thay thế các hóa chất độc bằng các hóa chất ít độc và không độc trong sản xuất và sử dụng; khuyến khích việc tái chế, tái sử dụng và giảm thiểu chất thải hóa chất."
+    },
+    {
+        "id": "Điều 6.4",
+        "article": "Điều 6",
+        "clause": "4",
+        "title": "Chính sách của Nhà nước về hoạt động hóa chất",
+        "text": "Tổ chức, cá nhân đầu tư dự án sản xuất hóa chất thuộc lĩnh vực, địa bàn mà Nhà nước khuyến khích được hưởng chính sách ưu đãi theo quy định của pháp luật về đầu tư, đất đai, thuế và các quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 7.1",
+        "article": "Điều 7",
+        "clause": "1",
+        "title": "Các hành vi bị nghiêm cấm trong hoạt động hóa chất",
+        "text": "Sản xuất, kinh doanh, vận chuyển, cất giữ, sử dụng, gửi, cho, tặng hóa chất nguy hiểm trái quy định của Luật này và các quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 7.2",
+        "article": "Điều 7",
+        "clause": "2",
+        "title": "Các hành vi bị nghiêm cấm trong hoạt động hóa chất",
+        "text": "Không công bố thông tin cần thiết, cung cấp thông tin không đầy đủ, thông tin sai lệch, che giấu thông tin về đặc tính nguy hiểm của hóa chất, sản phẩm chứa hóa chất nguy hiểm."
+    },
+    {
+        "id": "Điều 7.3",
+        "article": "Điều 7",
+        "clause": "3",
+        "title": "Các hành vi bị nghiêm cấm trong hoạt động hóa chất",
+        "text": "Sử dụng hóa chất không thuộc danh mục được phép sử dụng, hóa chất không bảo đảm tiêu chuẩn, chất lượng, vượt quá hàm lượng cho phép để sản xuất và bảo quản thực phẩm, thuốc chữa bệnh, thức ăn gia súc, thuốc thú y, thuốc bảo vệ thực vật, phân bón, sản phẩm hóa chất tiêu dùng."
+    },
+    {
+        "id": "Điều 7.4",
+        "article": "Điều 7",
+        "clause": "4",
+        "title": "Các hành vi bị nghiêm cấm trong hoạt động hóa chất",
+        "text": "Sử dụng hóa chất độc để săn bắt động vật, thực hiện các hành vi xâm hại đến sức khoẻ con người, tài sản và môi trường. Chương II PHÁT TRIỂN CÔNG NGHIỆP HOÁ CHẤT"
+    },
+    {
+        "id": "Điều 8.1",
+        "article": "Điều 8",
+        "clause": "1",
+        "title": "Yêu cầu đối với quy hoạch công nghiệp hóa chất",
+        "text": "Quy hoạch công nghiệp hóa chất phải phù hợp với nguyên tắc và chính sách của Nhà nước về hoạt động hóa chất, quy định của Luật này và các quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 8.2",
+        "article": "Điều 8",
+        "clause": "2",
+        "title": "Yêu cầu đối với quy hoạch công nghiệp hóa chất",
+        "text": "Quy hoạch công nghiệp hóa chất được xây dựng trên cơ sở chiến lược phát triển kinh tế - xã hội của cả nước, chiến lược phát triển các ngành công nghiệp và được lập cho từng giai đoạn mười năm, định hướng cho mười năm tiếp theo."
+    },
+    {
+        "id": "Điều 8.3",
+        "article": "Điều 8",
+        "clause": "3",
+        "title": "Yêu cầu đối với quy hoạch công nghiệp hóa chất",
+        "text": "Quy hoạch công nghiệp hóa chất phải định hướng hình thành các khu công nghiệp hóa chất tập trung."
+    },
+    {
+        "id": "Điều 8.4",
+        "article": "Điều 8",
+        "clause": "4",
+        "title": "Yêu cầu đối với quy hoạch công nghiệp hóa chất",
+        "text": "Địa điểm bố trí khu công nghiệp, cơ sở sản xuất hóa chất phải phù hợp với đặc điểm, tính chất của hóa chất và công nghệ sản xuất, bảo quản hóa chất, điều kiện tự nhiên, điều kiện kinh tế - xã hội nhằm đáp ứng yêu cầu an toàn hóa chất."
+    },
+    {
+        "id": "Điều 9.1",
+        "article": "Điều 9",
+        "clause": "1",
+        "title": "Trách nhiệm xây dựng quy hoạch công nghiệp hóa chất",
+        "text": "Bộ Công thương chủ trì, phối hợp với các bộ, ngành, địa phương tổ chức lập quy hoạch công nghiệp hóa chất quốc gia trình Thủ tướng Chính phủ phê duyệt; hướng dẫn và kiểm tra việc thực hiện quy hoạch."
+    },
+    {
+        "id": "Điều 9.2",
+        "article": "Điều 9",
+        "clause": "2",
+        "title": "Trách nhiệm xây dựng quy hoạch công nghiệp hóa chất",
+        "text": "Căn cứ quy hoạch công nghiệp hóa chất quốc gia đã được Thủ tướng Chính phủ phê duyệt và mục tiêu phát triển kinh tế - xã hội địa phương, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh) lập, phê duyệt kế hoạch phát triển công nghiệp hóa chất phù hợp với quy hoạch phát triển công nghiệp địa phương."
+    },
+    {
+        "id": "Điều 9.3",
+        "article": "Điều 9",
+        "clause": "3",
+        "title": "Trách nhiệm xây dựng quy hoạch công nghiệp hóa chất",
+        "text": "Nhà nước bảo đảm kinh phí cho công tác quy hoạch công nghiệp hóa chất theo quy định của Luật ngân sách nhà nước."
+    },
+    {
+        "id": "Điều 10.1",
+        "article": "Điều 10",
+        "clause": "1",
+        "title": "Yêu cầu đối với dự án sản xuất, kinh doanh hóa chất",
+        "text": "Dự án sản xuất, kinh doanh hóa chất phải tuân thủ quy định của Luật này, pháp luật về đầu tư, bảo vệ môi trường và các quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 10.2",
+        "article": "Điều 10",
+        "clause": "2",
+        "title": "Yêu cầu đối với dự án sản xuất, kinh doanh hóa chất",
+        "text": "Dự án sản xuất, kinh doanh hóa chất phải sử dụng công nghệ bảo đảm tiêu chuẩn môi trường, giảm thiểu việc sử dụng hóa chất nguy hiểm và giảm thiểu chất thải hóa chất."
+    },
+    {
+        "id": "Điều 10.3",
+        "article": "Điều 10",
+        "clause": "3",
+        "title": "Yêu cầu đối với dự án sản xuất, kinh doanh hóa chất",
+        "text": "Chủ đầu tư dự án sản xuất, kinh doanh hóa chất phải xây dựng Biện pháp phòng ngừa, ứng phó sự cố hóa chất hoặc Kế hoạch phòng ngừa, ứng phó sự cố hóa chất theo quy định tại Chương VI của Luật này."
+    },
+    {
+        "id": "Điều 10.4",
+        "article": "Điều 10",
+        "clause": "4",
+        "title": "Yêu cầu đối với dự án sản xuất, kinh doanh hóa chất",
+        "text": "Chủ đầu tư dự án sản xuất, kinh doanh hóa chất có trách nhiệm phối hợp với chính quyền địa phương tổ chức lấy ý kiến của cộng đồng dân cư nơi thực hiện dự án về biện pháp bảo vệ môi trường theo quy định của pháp luật về bảo vệ môi trường. Chương III SẢN XUẤT, KINH DOANH HÓA CHẤT"
+    },
+    {
+        "id": "Điều 11.1",
+        "article": "Điều 11",
+        "clause": "1",
+        "title": "Trách nhiệm bảo đảm an toàn trong sản xuất, kinh doanh hóa chất",
+        "text": "Tổ chức, cá nhân sản xuất, kinh doanh hóa chất phải thực hiện các quy định về quản lý và an toàn hóa chất theo quy định của Luật này, các quy định khác của pháp luật có liên quan để bảo đảm an toàn cho người lao động, sức khoẻ cộng đồng và môi trường."
+    },
+    {
+        "id": "Điều 11.2",
+        "article": "Điều 11",
+        "clause": "2",
+        "title": "Trách nhiệm bảo đảm an toàn trong sản xuất, kinh doanh hóa chất",
+        "text": "Tổ chức, cá nhân sản xuất, kinh doanh hóa chất phải thường xuyên kiểm tra, bảo dưỡng, vận hành hệ thống an toàn và xử lý chất thải."
+    },
+    {
+        "id": "Điều 11.3",
+        "article": "Điều 11",
+        "clause": "3",
+        "title": "Trách nhiệm bảo đảm an toàn trong sản xuất, kinh doanh hóa chất",
+        "text": "Cơ quan quản lý nhà nước trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thường xuyên tổ chức hướng dẫn, kiểm tra, thanh tra việc bảo đảm an toàn trong sản xuất, kinh doanh hóa chất."
+    },
+    {
+        "id": "Điều 12.1",
+        "article": "Điều 12",
+        "clause": "1",
+        "title": "Yêu cầu về cơ sở vật chất - kỹ thuật trong sản xuất, kinh doanh hóa chất",
+        "text": "Tổ chức, cá nhân sản xuất, kinh doanh hóa chất phải bảo đảm các điều kiện cơ sở vật chất - kỹ thuật phù hợp với quy mô hoạt động và đặc tính của hóa chất, bao gồm:"
+    },
+    {
+        "id": "Điều 12.1a",
+        "article": "Điều 12",
+        "clause": "1a",
+        "title": "Yêu cầu về cơ sở vật chất - kỹ thuật trong sản xuất, kinh doanh hóa chất",
+        "text": "Nhà xưởng, kho tàng và thiết bị công nghệ;"
+    },
+    {
+        "id": "Điều 12.1b",
+        "article": "Điều 12",
+        "clause": "1b",
+        "title": "Yêu cầu về cơ sở vật chất - kỹ thuật trong sản xuất, kinh doanh hóa chất",
+        "text": "Trang thiết bị an toàn, phòng, chống cháy nổ, phòng, chống sét, phòng, chống rò rỉ, phát tán hóa chất và các sự cố hóa chất khác;"
+    },
+    {
+        "id": "Điều 12.1c",
+        "article": "Điều 12",
+        "clause": "1c",
+        "title": "Yêu cầu về cơ sở vật chất - kỹ thuật trong sản xuất, kinh doanh hóa chất",
+        "text": "Trang thiết bị bảo hộ lao động;"
+    },
+    {
+        "id": "Điều 12.1d",
+        "article": "Điều 12",
+        "clause": "1d",
+        "title": "Yêu cầu về cơ sở vật chất - kỹ thuật trong sản xuất, kinh doanh hóa chất",
+        "text": "Trang thiết bị bảo vệ môi trường, hệ thống xử lý chất thải;"
+    },
+    {
+        "id": "Điều 12.1đ",
+        "article": "Điều 12",
+        "clause": "1đ",
+        "title": "Yêu cầu về cơ sở vật chất - kỹ thuật trong sản xuất, kinh doanh hóa chất",
+        "text": "Phương tiện vận chuyển;"
+    },
+    {
+        "id": "Điều 12.1e",
+        "article": "Điều 12",
+        "clause": "1e",
+        "title": "Yêu cầu về cơ sở vật chất - kỹ thuật trong sản xuất, kinh doanh hóa chất",
+        "text": "Bảng nội quy về an toàn hóa chất; hệ thống báo hiệu phù hợp với mức độ nguy hiểm của hóa chất tại khu vực sản xuất, kinh doanh hóa chất nguy hiểm. Trường hợp hóa chất có nhiều đặc tính nguy hiểm khác nhau thì biểu trưng cảnh báo phải thể hiện đầy đủ các đặc tính nguy hiểm đó."
+    },
+    {
+        "id": "Điều 12.2",
+        "article": "Điều 12",
+        "clause": "2",
+        "title": "Yêu cầu về cơ sở vật chất - kỹ thuật trong sản xuất, kinh doanh hóa chất",
+        "text": "Bộ quản lý ngành, lĩnh vực quy định cụ thể điều kiện cơ sở vật chất - kỹ thuật bảo đảm an toàn trong sản xuất, kinh doanh hóa chất thuộc phạm vi quản lý."
+    },
+    {
+        "id": "Điều 13.1",
+        "article": "Điều 13",
+        "clause": "1",
+        "title": "Yêu cầu về chuyên môn trong sản xuất, kinh doanh hóa chất",
+        "text": "Tổ chức, cá nhân sản xuất, kinh doanh hóa chất phải có người chuyên trách về an toàn hóa chất có trình độ chuyên môn phù hợp với quy mô và loại hình sản xuất, kinh doanh hóa chất, nắm vững công nghệ, phương án và các biện pháp bảo đảm an toàn hóa chất."
+    },
+    {
+        "id": "Điều 13.2",
+        "article": "Điều 13",
+        "clause": "2",
+        "title": "Yêu cầu về chuyên môn trong sản xuất, kinh doanh hóa chất",
+        "text": "Người lao động trực tiếp sản xuất, kinh doanh hóa chất phải có trình độ chuyên môn phù hợp với nhiệm vụ được phân công."
+    },
+    {
+        "id": "Điều 13.3",
+        "article": "Điều 13",
+        "clause": "3",
+        "title": "Yêu cầu về chuyên môn trong sản xuất, kinh doanh hóa chất",
+        "text": "Người trực tiếp điều hành sản xuất của cơ sở sản xuất hóa chất nguy hiểm phải có trình độ đại học trở lên về chuyên ngành hóa chất."
+    },
+    {
+        "id": "Điều 14.1",
+        "article": "Điều 14",
+        "clause": "1",
+        "title": "Sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất sản xuất, kinh doanh có điều kiện",
+        "text": "Hóa chất thuộc Danh mục hóa chất sản xuất, kinh doanh có điều kiện là hóa chất nguy hiểm có yêu cầu kiểm soát chặt chẽ về kỹ thuật an toàn trong sản xuất, kinh doanh."
+    },
+    {
+        "id": "Điều 14.2",
+        "article": "Điều 14",
+        "clause": "2",
+        "title": "Sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất sản xuất, kinh doanh có điều kiện",
+        "text": "Yêu cầu đối với hoạt động sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất sản xuất, kinh doanh có điều kiện được quy định như sau:"
+    },
+    {
+        "id": "Điều 14.2a",
+        "article": "Điều 14",
+        "clause": "2a",
+        "title": "Sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất sản xuất, kinh doanh có điều kiện",
+        "text": "Thực hiện quy định tại các điều 11, 12 và 13 của Luật này;"
+    },
+    {
+        "id": "Điều 14.2b",
+        "article": "Điều 14",
+        "clause": "2b",
+        "title": "Sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất sản xuất, kinh doanh có điều kiện",
+        "text": "Có cơ sở vật chất - kỹ thuật, năng lực chuyên môn đáp ứng quy chuẩn kỹ thuật áp dụng đối với sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất sản xuất, kinh doanh có điều kiện;"
+    },
+    {
+        "id": "Điều 14.2c",
+        "article": "Điều 14",
+        "clause": "2c",
+        "title": "Sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất sản xuất, kinh doanh có điều kiện",
+        "text": "Có Giấy chứng nhận đủ điều kiện sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất sản xuất, kinh doanh có điều kiện (sau đây gọi là Giấy chứng nhận) trong trường hợp pháp luật quy định phải có Giấy chứng nhận."
+    },
+    {
+        "id": "Điều 14.3",
+        "article": "Điều 14",
+        "clause": "3",
+        "title": "Sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất sản xuất, kinh doanh có điều kiện",
+        "text": "Bộ Công thương và các bộ, ngành có liên quan phối hợp xây dựng điều kiện sản xuất, kinh doanh và Danh mục hóa chất sản xuất, kinh doanh có điều kiện trình Chính phủ ban hành."
+    },
+    {
+        "id": "Điều 14.4",
+        "article": "Điều 14",
+        "clause": "4",
+        "title": "Sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất sản xuất, kinh doanh có điều kiện",
+        "text": "Bộ quản lý ngành, lĩnh vực trong phạm vi nhiệm vụ, quyền hạn của mình quy định quy chuẩn kỹ thuật và tổ chức cấp Giấy chứng nhận đủ điều kiện sản xuất, kinh doanh hóa chất quy định tại Điều này."
+    },
+    {
+        "id": "Điều 15.1",
+        "article": "Điều 15",
+        "clause": "1",
+        "title": "Sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất hạn chế sản xuất, kinh doanh",
+        "text": "Hóa chất thuộc Danh mục hóa chất hạn chế sản xuất, kinh doanh là hóa chất nguy hiểm được kiểm soát đặc biệt về kỹ thuật an toàn, phạm vi, loại hình, quy mô, thời hạn sản xuất, kinh doanh để bảo đảm không gây phương hại đến quốc phòng, an ninh, sức khỏe con người, tài sản, môi trường."
+    },
+    {
+        "id": "Điều 15.2",
+        "article": "Điều 15",
+        "clause": "2",
+        "title": "Sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất hạn chế sản xuất, kinh doanh",
+        "text": "Yêu cầu đối với hoạt động sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất hạn chế sản xuất, kinh doanh được quy định như sau:"
+    },
+    {
+        "id": "Điều 15.2a",
+        "article": "Điều 15",
+        "clause": "2a",
+        "title": "Sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất hạn chế sản xuất, kinh doanh",
+        "text": "Thực hiện quy định tại điểm a và điểm b khoản 2 Điều 14 của Luật này;"
+    },
+    {
+        "id": "Điều 15.2b",
+        "article": "Điều 15",
+        "clause": "2b",
+        "title": "Sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất hạn chế sản xuất, kinh doanh",
+        "text": "Có Giấy phép sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất hạn chế sản xuất, kinh doanh (sau đây gọi là Giấy phép)."
+    },
+    {
+        "id": "Điều 15.3",
+        "article": "Điều 15",
+        "clause": "3",
+        "title": "Sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất hạn chế sản xuất, kinh doanh",
+        "text": "Bộ Công thương và các bộ, ngành có liên quan phối hợp xây dựng điều kiện sản xuất, kinh doanh và Danh mục hóa chất hạn chế sản xuất, kinh doanh trình Chính phủ ban hành."
+    },
+    {
+        "id": "Điều 15.4",
+        "article": "Điều 15",
+        "clause": "4",
+        "title": "Sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất hạn chế sản xuất, kinh doanh",
+        "text": "Bộ quản lý ngành, lĩnh vực là cơ quan có thẩm quyền cấp Giấy phép và tổ chức cấp Giấy phép sản xuất, kinh doanh hóa chất thuộc Danh mục hóa chất hạn chế sản xuất, kinh doanh trong phạm vi quản lý của mình."
+    },
+    {
+        "id": "Điều 16.1",
+        "article": "Điều 16",
+        "clause": "1",
+        "title": "Trình tự, thủ tục cấp Giấy chứng nhận, Giấy phép",
+        "text": "Tổ chức, cá nhân đề nghị cấp Giấy chứng nhận, Giấy phép lập hồ sơ gửi cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận, Giấy phép."
+    },
+    {
+        "id": "Điều 16.2",
+        "article": "Điều 16",
+        "clause": "2",
+        "title": "Trình tự, thủ tục cấp Giấy chứng nhận, Giấy phép",
+        "text": "Hồ sơ đề nghị cấp Giấy chứng nhận, Giấy phép bao gồm:"
+    },
+    {
+        "id": "Điều 16.2a",
+        "article": "Điều 16",
+        "clause": "2a",
+        "title": "Trình tự, thủ tục cấp Giấy chứng nhận, Giấy phép",
+        "text": "Đơn đề nghị cấp Giấy chứng nhận, Giấy phép theo mẫu quy định;"
+    },
+    {
+        "id": "Điều 16.2b",
+        "article": "Điều 16",
+        "clause": "2b",
+        "title": "Trình tự, thủ tục cấp Giấy chứng nhận, Giấy phép",
+        "text": "Bản sao Giấy chứng nhận đăng ký kinh doanh;"
+    },
+    {
+        "id": "Điều 16.2c",
+        "article": "Điều 16",
+        "clause": "2c",
+        "title": "Trình tự, thủ tục cấp Giấy chứng nhận, Giấy phép",
+        "text": "Giấy tờ chứng minh đáp ứng yêu cầu quy định tại điểm a và điểm b khoản 2 Điều 14 hoặc điểm a khoản 2 Điều 15 của Luật này."
+    },
+    {
+        "id": "Điều 16.3",
+        "article": "Điều 16",
+        "clause": "3",
+        "title": "Trình tự, thủ tục cấp Giấy chứng nhận, Giấy phép",
+        "text": "Trong thời hạn hai mươi ngày, kể từ ngày nhận đủ hồ sơ hợp lệ quy định tại khoản 2 Điều này, cơ quan nhà nước có thẩm quyền có trách nhiệm cấp Giấy chứng nhận, Giấy phép cho tổ chức, cá nhân; trường hợp không cấp thì phải trả lời bằng văn bản và nêu rõ lý do."
+    },
+    {
+        "id": "Điều 16.4",
+        "article": "Điều 16",
+        "clause": "4",
+        "title": "Trình tự, thủ tục cấp Giấy chứng nhận, Giấy phép",
+        "text": "Tổ chức, cá nhân đề nghị cấp Giấy chứng nhận, Giấy phép phải nộp lệ phí theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 17.1",
+        "article": "Điều 17",
+        "clause": "1",
+        "title": "Nội dung Giấy chứng nhận, Giấy phép",
+        "text": "Giấy chứng nhận, Giấy phép gồm các nội dung chủ yếu sau đây:"
+    },
+    {
+        "id": "Điều 17.1a",
+        "article": "Điều 17",
+        "clause": "1a",
+        "title": "Nội dung Giấy chứng nhận, Giấy phép",
+        "text": "Tên, địa chỉ cơ sở sản xuất, kinh doanh hóa chất;"
+    },
+    {
+        "id": "Điều 17.1b",
+        "article": "Điều 17",
+        "clause": "1b",
+        "title": "Nội dung Giấy chứng nhận, Giấy phép",
+        "text": "Địa điểm sản xuất, kinh doanh hóa chất;"
+    },
+    {
+        "id": "Điều 17.1c",
+        "article": "Điều 17",
+        "clause": "1c",
+        "title": "Nội dung Giấy chứng nhận, Giấy phép",
+        "text": "Loại hình, quy mô, chủng loại hóa chất sản xuất, kinh doanh;"
+    },
+    {
+        "id": "Điều 17.1d",
+        "article": "Điều 17",
+        "clause": "1d",
+        "title": "Nội dung Giấy chứng nhận, Giấy phép",
+        "text": "Nghĩa vụ của cơ sở được cấp Giấy chứng nhận, Giấy phép;"
+    },
+    {
+        "id": "Điều 17.1đ",
+        "article": "Điều 17",
+        "clause": "1đ",
+        "title": "Nội dung Giấy chứng nhận, Giấy phép",
+        "text": "Đối với Giấy phép còn phải có quy định về thời hạn của Giấy phép."
+    },
+    {
+        "id": "Điều 17.2",
+        "article": "Điều 17",
+        "clause": "2",
+        "title": "Nội dung Giấy chứng nhận, Giấy phép",
+        "text": "Thời hạn của Giấy phép do bộ quản lý ngành, lĩnh vực quy định phù hợp với loại hình, quy mô và đặc thù của hóa chất thuộc Danh mục hóa chất hạn chế sản xuất, kinh doanh."
+    },
+    {
+        "id": "Điều 18.1",
+        "article": "Điều 18",
+        "clause": "1",
+        "title": "Bổ sung, thu hồi Giấy chứng nhận, Giấy phép",
+        "text": "Trường hợp mở rộng sản xuất, kinh doanh hóa chất vượt quá điều kiện của Giấy chứng nhận, quy định của Giấy phép đã được cấp thì trước khi thực hiện, tổ chức, cá nhân phải làm thủ tục bổ sung Giấy chứng nhận, Giấy phép cho phù hợp với quy mô mới. Thủ tục bổ sung Giấy chứng nhận, Giấy phép được thực hiện như thủ tục đề nghị cấp mới Giấy chứng nhận, Giấy phép."
+    },
+    {
+        "id": "Điều 18.2",
+        "article": "Điều 18",
+        "clause": "2",
+        "title": "Bổ sung, thu hồi Giấy chứng nhận, Giấy phép",
+        "text": "Tổ chức, cá nhân bị thu hồi Giấy chứng nhận, Giấy phép trong các trường hợp sau đây:"
+    },
+    {
+        "id": "Điều 18.2a",
+        "article": "Điều 18",
+        "clause": "2a",
+        "title": "Bổ sung, thu hồi Giấy chứng nhận, Giấy phép",
+        "text": "Giả mạo hồ sơ đề nghị cấp phép;"
+    },
+    {
+        "id": "Điều 18.2b",
+        "article": "Điều 18",
+        "clause": "2b",
+        "title": "Bổ sung, thu hồi Giấy chứng nhận, Giấy phép",
+        "text": "Không còn đáp ứng đủ các điều kiện để được cấp phép;"
+    },
+    {
+        "id": "Điều 18.2c",
+        "article": "Điều 18",
+        "clause": "2c",
+        "title": "Bổ sung, thu hồi Giấy chứng nhận, Giấy phép",
+        "text": "Vi phạm quy định trong Giấy chứng nhận, Giấy phép mà không khắc phục trong thời hạn quy định của cơ quan có thẩm quyền;"
+    },
+    {
+        "id": "Điều 18.2d",
+        "article": "Điều 18",
+        "clause": "2d",
+        "title": "Bổ sung, thu hồi Giấy chứng nhận, Giấy phép",
+        "text": "Cho thuê, mượn Giấy phép; tự ý sửa đổi nội dung Giấy chứng nhận, Giấy phép;"
+    },
+    {
+        "id": "Điều 18.2đ",
+        "article": "Điều 18",
+        "clause": "2đ",
+        "title": "Bổ sung, thu hồi Giấy chứng nhận, Giấy phép",
+        "text": "Vi phạm nghiêm trọng các quy định của Luật này;"
+    },
+    {
+        "id": "Điều 18.2e",
+        "article": "Điều 18",
+        "clause": "2e",
+        "title": "Bổ sung, thu hồi Giấy chứng nhận, Giấy phép",
+        "text": "Chấm dứt hoạt động sản xuất, kinh doanh hóa chất."
+    },
+    {
+        "id": "Điều 18.3",
+        "article": "Điều 18",
+        "clause": "3",
+        "title": "Bổ sung, thu hồi Giấy chứng nhận, Giấy phép",
+        "text": "Tổ chức, cá nhân đề nghị bổ sung Giấy chứng nhận, Giấy phép phải nộp lệ phí theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 19.1",
+        "article": "Điều 19",
+        "clause": "1",
+        "title": "Hóa chất thuộc Danh mục hóa chất cấm",
+        "text": "Hóa chất cấm là hóa chất đặc biệt nguy hiểm thuộc Danh mục hóa chất cấm do Chính phủ quy định."
+    },
+    {
+        "id": "Điều 19.2",
+        "article": "Điều 19",
+        "clause": "2",
+        "title": "Hóa chất thuộc Danh mục hóa chất cấm",
+        "text": "Tổ chức, cá nhân không được phép sản xuất, kinh doanh, vận chuyển, cất giữ, sử dụng hóa chất thuộc Danh mục hóa chất cấm, trừ trường hợp quy định tại khoản 3 Điều này."
+    },
+    {
+        "id": "Điều 19.3",
+        "article": "Điều 19",
+        "clause": "3",
+        "title": "Hóa chất thuộc Danh mục hóa chất cấm",
+        "text": "Trong trường hợp đặc biệt để phục vụ mục đích nghiên cứu khoa học, bảo đảm quốc phòng, an ninh, phòng, chống dịch bệnh, việc sản xuất, nhập khẩu, sử dụng hóa chất thuộc Danh mục hóa chất cấm phải được Thủ tướng Chính phủ cho phép."
+    },
+    {
+        "id": "Điều 19.4",
+        "article": "Điều 19",
+        "clause": "4",
+        "title": "Hóa chất thuộc Danh mục hóa chất cấm",
+        "text": "Tổ chức, cá nhân được phép sản xuất, nhập khẩu, sử dụng hóa chất thuộc Danh mục hóa chất cấm phải quản lý nghiêm ngặt số lượng; bảo đảm không để xảy ra thất thoát, sự cố; báo cáo định kỳ theo quy định tại Điều 52 của Luật này."
+    },
+    {
+        "id": "Điều 19.5",
+        "article": "Điều 19",
+        "clause": "5",
+        "title": "Hóa chất thuộc Danh mục hóa chất cấm",
+        "text": "Bộ Công thương chủ trì, phối hợp với các bộ, ngành lập Danh mục hóa chất cấm trình Chính phủ ban hành."
+    },
+    {
+        "id": "Điều 20.1",
+        "article": "Điều 20",
+        "clause": "1",
+        "title": "Vận chuyển hóa chất nguy hiểm",
+        "text": "Tổ chức, cá nhân vận chuyển hóa chất nguy hiểm phải tuân thủ các quy định về vận chuyển hàng nguy hiểm của pháp luật về giao thông đường bộ, đường thủy nội địa, đường sắt, hàng không, hàng hải và các quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 20.2",
+        "article": "Điều 20",
+        "clause": "2",
+        "title": "Vận chuyển hóa chất nguy hiểm",
+        "text": "Trường hợp xảy ra sự cố trong quá trình vận chuyển, người điều khiển phương tiện, chủ hàng, chủ phương tiện có trách nhiệm áp dụng các biện pháp cần thiết để hạn chế hậu quả, khắc phục sự cố, đồng thời thông báo cho Ủy ban nhân dân và cơ quan có liên quan nơi gần nhất."
+    },
+    {
+        "id": "Điều 21.1",
+        "article": "Điều 21",
+        "clause": "1",
+        "title": "Cất giữ, bảo quản hóa chất nguy hiểm trong sản xuất, kinh doanh hóa chất",
+        "text": "Điều kiện về khoảng cách an toàn, yêu cầu kỹ thuật an toàn trong cất giữ, bảo quản hoá chất;"
+    },
+    {
+        "id": "Điều 21.2",
+        "article": "Điều 21",
+        "clause": "2",
+        "title": "Cất giữ, bảo quản hóa chất nguy hiểm trong sản xuất, kinh doanh hóa chất",
+        "text": "Có các cảnh báo cần thiết tại nơi cất giữ, bảo quản hóa chất nguy hiểm theo quy định tại điểm e khoản 1 Điều 12 của Luật này;"
+    },
+    {
+        "id": "Điều 21.3",
+        "article": "Điều 21",
+        "clause": "3",
+        "title": "Cất giữ, bảo quản hóa chất nguy hiểm trong sản xuất, kinh doanh hóa chất",
+        "text": "Có trang thiết bị, phương tiện ứng cứu sự cố phù hợp với các đặc tính nguy hiểm của hóa chất;"
+    },
+    {
+        "id": "Điều 21.4",
+        "article": "Điều 21",
+        "clause": "4",
+        "title": "Cất giữ, bảo quản hóa chất nguy hiểm trong sản xuất, kinh doanh hóa chất",
+        "text": "Có Biện pháp phòng ngừa, ứng phó sự cố hóa chất hoặc Kế hoạch phòng ngừa, ứng phó sự cố hóa chất theo quy định tại Chương VI của Luật này."
+    },
+    {
+        "id": "Điều 22.1",
+        "article": "Điều 22",
+        "clause": "1",
+        "title": "Khoảng cách an toàn đối với cơ sở sản xuất, kinh doanh hóa chất nguy hiểm",
+        "text": "Địa điểm sản xuất, kho chứa hóa chất nguy hiểm của cơ sở sản xuất, kinh doanh hóa chất thuộc Danh mục quy định tại khoản 1 Điều 38 của Luật này phải bảo đảm khoảng cách an toàn đối với khu dân cư, công trình công cộng, di tích lịch sử, văn hóa, danh lam thắng cảnh, khu bảo tồn đa dạng sinh học, nguồn nước sinh hoạt."
+    },
+    {
+        "id": "Điều 22.2",
+        "article": "Điều 22",
+        "clause": "2",
+        "title": "Khoảng cách an toàn đối với cơ sở sản xuất, kinh doanh hóa chất nguy hiểm",
+        "text": "Tổ chức, cá nhân không được xây dựng nhà ở và công trình khác trong phạm vi khoảng cách an toàn, trừ công trình chuyên dụng được cơ quan nhà nước có thẩm quyền cho phép."
+    },
+    {
+        "id": "Điều 22.3",
+        "article": "Điều 22",
+        "clause": "3",
+        "title": "Khoảng cách an toàn đối với cơ sở sản xuất, kinh doanh hóa chất nguy hiểm",
+        "text": "Chính phủ quy định cụ thể về khoảng cách an toàn quy định tại Điều này."
+    },
+    {
+        "id": "Điều 23.1",
+        "article": "Điều 23",
+        "clause": "1",
+        "title": "Kiểm soát mua, bán hóa chất độc",
+        "text": "Việc mua, bán hóa chất độc phải có phiếu kiểm soát, có xác nhận của bên mua, bên bán để làm cơ sở cho việc kiểm soát hóa chất độc lưu thông trên thị trường."
+    },
+    {
+        "id": "Điều 23.2",
+        "article": "Điều 23",
+        "clause": "2",
+        "title": "Kiểm soát mua, bán hóa chất độc",
+        "text": "Phiếu kiểm soát mua, bán hóa chất độc bao gồm các thông tin về tên hóa chất, số lượng hóa chất, mục đích sử dụng; tên, chữ ký của người mua, người bán; địa chỉ, số Giấy chứng minh nhân dân của người đại diện bên mua và bên bán; ngày giao hàng."
+    },
+    {
+        "id": "Điều 23.3",
+        "article": "Điều 23",
+        "clause": "3",
+        "title": "Kiểm soát mua, bán hóa chất độc",
+        "text": "Phiếu kiểm soát mua, bán hóa chất độc phải được lưu giữ tại bên bán, bên mua ít nhất năm năm và phải xuất trình khi cơ quan có thẩm quyền yêu cầu."
+    },
+    {
+        "id": "Điều 23.4",
+        "article": "Điều 23",
+        "clause": "4",
+        "title": "Kiểm soát mua, bán hóa chất độc",
+        "text": "Bộ Công thương quy định mẫu phiếu kiểm soát mua, bán hóa chất độc."
+    },
+    {
+        "id": "Điều 25.1",
+        "article": "Điều 25",
+        "clause": "1",
+        "title": "Xử lý, thải bỏ hóa chất tồn dư, chất thải và dụng cụ chứa hóa chất",
+        "text": "Tổ chức, cá nhân sản xuất, kinh doanh hóa chất phải xử lý, thải bỏ hóa chất tồn dư, chất thải và dụng cụ chứa hóa chất theo quy định của pháp luật về bảo vệ môi trường."
+    },
+    {
+        "id": "Điều 25.2",
+        "article": "Điều 25",
+        "clause": "2",
+        "title": "Xử lý, thải bỏ hóa chất tồn dư, chất thải và dụng cụ chứa hóa chất",
+        "text": "Bộ Tài nguyên và Môi trường chủ trì, phối hợp với các bộ, ngành quy định việc xử lý, thải bỏ hóa chất tồn dư, chất thải và dụng cụ chứa hóa chất theo quy định của pháp luật về bảo vệ môi trường."
+    },
+    {
+        "id": "Điều 26.1",
+        "article": "Điều 26",
+        "clause": "1",
+        "title": "Quảng cáo hóa chất",
+        "text": "Quảng cáo hóa chất phải tuân thủ các quy định của pháp luật về quảng cáo."
+    },
+    {
+        "id": "Điều 26.2",
+        "article": "Điều 26",
+        "clause": "2",
+        "title": "Quảng cáo hóa chất",
+        "text": "Việc quảng cáo sản phẩm, hàng hóa có chứa hóa chất độc, hóa chất nguy hiểm phải kèm theo cảnh báo về đặc tính nguy hiểm, độc hại của hóa chất và chỉ dẫn phòng ngừa tác hại của sản phẩm, hàng hóa đó. Chương Iv PHÂN LOẠI, GHI NHÃN, BAO GÓI VÀ PHIẾU AN TOÀN HÓA CHẤT"
+    },
+    {
+        "id": "Điều 27.1",
+        "article": "Điều 27",
+        "clause": "1",
+        "title": "Phân loại, ghi nhãn hóa chất",
+        "text": "Tổ chức, cá nhân sản xuất, nhập khẩu hóa chất có nghĩa vụ phân loại, ghi nhãn hóa chất trước khi đưa hóa chất vào sử dụng, lưu thông trên thị trường."
+    },
+    {
+        "id": "Điều 27.2",
+        "article": "Điều 27",
+        "clause": "2",
+        "title": "Phân loại, ghi nhãn hóa chất",
+        "text": "Việc phân loại hóa chất được thực hiện theo quy tắc, hướng dẫn kỹ thuật của Hệ thống hài hoà toàn cầu về phân loại và ghi nhãn hóa chất."
+    },
+    {
+        "id": "Điều 27.3",
+        "article": "Điều 27",
+        "clause": "3",
+        "title": "Phân loại, ghi nhãn hóa chất",
+        "text": "Việc ghi nhãn đối với các hóa chất được thực hiện theo quy định của pháp luật về nhãn hàng hoá."
+    },
+    {
+        "id": "Điều 27.4",
+        "article": "Điều 27",
+        "clause": "4",
+        "title": "Phân loại, ghi nhãn hóa chất",
+        "text": "Việc ghi nhãn đối với hoá chất nguy hiểm được thực hiện theo quy định của pháp luật về nhãn hàng hóa và hướng dẫn của Hệ thống hài hoà toàn cầu về phân loại và ghi nhãn hóa chất."
+    },
+    {
+        "id": "Điều 27.5",
+        "article": "Điều 27",
+        "clause": "5",
+        "title": "Phân loại, ghi nhãn hóa chất",
+        "text": "Bộ Công thương hướng dẫn, quản lý việc phân loại, ghi nhãn hóa chất theo Hệ thống hài hoà toàn cầu về phân loại và ghi nhãn hóa chất và xác định lộ trình áp dụng các quy định về phân loại và ghi nhãn đối với chất, hỗn hợp chất."
+    },
+    {
+        "id": "Điều 28.1",
+        "article": "Điều 28",
+        "clause": "1",
+        "title": "Bao gói hóa chất",
+        "text": "Bao gói hóa chất lưu thông trên thị trường phải bảo đảm các yêu cầu sau đây:"
+    },
+    {
+        "id": "Điều 28.1a",
+        "article": "Điều 28",
+        "clause": "1a",
+        "title": "Bao gói hóa chất",
+        "text": "Đáp ứng yêu cầu về phân loại, ghi nhãn hóa chất quy định tại Điều 27 của Luật này;"
+    },
+    {
+        "id": "Điều 28.1b",
+        "article": "Điều 28",
+        "clause": "1b",
+        "title": "Bao gói hóa chất",
+        "text": "Không rò rỉ, phát tán hóa chất ra ngoài trong vận chuyển, bảo quản, cất giữ;"
+    },
+    {
+        "id": "Điều 28.1c",
+        "article": "Điều 28",
+        "clause": "1c",
+        "title": "Bao gói hóa chất",
+        "text": "Không bị hóa chất chứa bên trong ăn mòn, phá huỷ;"
+    },
+    {
+        "id": "Điều 28.1d",
+        "article": "Điều 28",
+        "clause": "1d",
+        "title": "Bao gói hóa chất",
+        "text": "Tuân thủ các quy chuẩn kỹ thuật về bao gói do cơ quan có thẩm quyền ban hành hoặc tiêu chuẩn quốc tế được cơ quan nhà nước có thẩm quyền công bố áp dụng."
+    },
+    {
+        "id": "Điều 28.2",
+        "article": "Điều 28",
+        "clause": "2",
+        "title": "Bao gói hóa chất",
+        "text": "Bộ quản lý ngành, lĩnh vực quy định về quy cách, vật liệu và các yêu cầu kiểm tra, kiểm định bao gói cho từng loại hóa chất."
+    },
+    {
+        "id": "Điều 29.1",
+        "article": "Điều 29",
+        "clause": "1",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Hoá chất nguy hiểm bao gồm chất nguy hiểm, hỗn hợp chất có hàm lượng chất nguy hiểm trên mức quy định. Hoá chất nguy hiểm phải được lập phiếu an toàn hóa chất."
+    },
+    {
+        "id": "Điều 29.2",
+        "article": "Điều 29",
+        "clause": "2",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Tổ chức, cá nhân sản xuất, nhập khẩu hóa chất nguy hiểm trước khi đưa vào sử dụng, lưu thông trên thị trường phải lập phiếu an toàn hóa chất."
+    },
+    {
+        "id": "Điều 29.3",
+        "article": "Điều 29",
+        "clause": "3",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Phiếu an toàn hóa chất bao gồm các nội dung sau đây:"
+    },
+    {
+        "id": "Điều 29.3a",
+        "article": "Điều 29",
+        "clause": "3a",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Nhận dạng hóa chất;"
+    },
+    {
+        "id": "Điều 29.3b",
+        "article": "Điều 29",
+        "clause": "3b",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Nhận dạng đặc tính nguy hiểm của hóa chất;"
+    },
+    {
+        "id": "Điều 29.3c",
+        "article": "Điều 29",
+        "clause": "3c",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Thông tin về thành phần các chất;"
+    },
+    {
+        "id": "Điều 29.3d",
+        "article": "Điều 29",
+        "clause": "3d",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Đặc tính lý, hóa của hóa chất;"
+    },
+    {
+        "id": "Điều 29.3đ",
+        "article": "Điều 29",
+        "clause": "3đ",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Mức độ ổn định và khả năng hoạt động của hóa chất;"
+    },
+    {
+        "id": "Điều 29.3e",
+        "article": "Điều 29",
+        "clause": "3e",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Thông tin về độc tính;"
+    },
+    {
+        "id": "Điều 29.3g",
+        "article": "Điều 29",
+        "clause": "3g",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Thông tin về sinh thái;"
+    },
+    {
+        "id": "Điều 29.3h",
+        "article": "Điều 29",
+        "clause": "3h",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Biện pháp sơ cứu về y tế;"
+    },
+    {
+        "id": "Điều 29.3i",
+        "article": "Điều 29",
+        "clause": "3i",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Biện pháp xử lý khi có hoả hoạn;"
+    },
+    {
+        "id": "Điều 29.3k",
+        "article": "Điều 29",
+        "clause": "3k",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Biện pháp phòng ngừa, ứng phó khi có sự cố;"
+    },
+    {
+        "id": "Điều 29.3l",
+        "article": "Điều 29",
+        "clause": "3l",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Yêu cầu về cất giữ;"
+    },
+    {
+        "id": "Điều 29.3m",
+        "article": "Điều 29",
+        "clause": "3m",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Tác động lên người và yêu cầu về thiết bị bảo vệ cá nhân;"
+    },
+    {
+        "id": "Điều 29.3n",
+        "article": "Điều 29",
+        "clause": "3n",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Yêu cầu trong việc thải bỏ;"
+    },
+    {
+        "id": "Điều 29.3o",
+        "article": "Điều 29",
+        "clause": "3o",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Yêu cầu trong vận chuyển;"
+    },
+    {
+        "id": "Điều 29.3p",
+        "article": "Điều 29",
+        "clause": "3p",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Quy chuẩn kỹ thuật và quy định pháp luật phải tuân thủ;"
+    },
+    {
+        "id": "Điều 29.3q",
+        "article": "Điều 29",
+        "clause": "3q",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Các thông tin cần thiết khác."
+    },
+    {
+        "id": "Điều 29.4",
+        "article": "Điều 29",
+        "clause": "4",
+        "title": "Phiếu an toàn hóa chất",
+        "text": "Chính phủ quy định hàm lượng chất nguy hiểm trong hỗn hợp chất phải lập phiếu an toàn hóa chất quy định tại khoản 1 Điều này. Chương v SỬ DỤNG HÓA CHẤT"
+    },
+    {
+        "id": "Điều 30.1",
+        "article": "Điều 30",
+        "clause": "1",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất để sản xuất sản phẩm, hàng hóa khác",
+        "text": "Tổ chức, cá nhân sử dụng hóa chất để sản xuất sản phẩm, hàng hóa khác có quyền yêu cầu bên cung cấp hóa chất cung cấp đầy đủ, chính xác thông tin liên quan đến đặc điểm, tính chất, thông tin phân loại, ghi nhãn và phiếu an toàn hóa chất đối với hóa chất nguy hiểm."
+    },
+    {
+        "id": "Điều 30.2",
+        "article": "Điều 30",
+        "clause": "2",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất để sản xuất sản phẩm, hàng hóa khác",
+        "text": "Tổ chức, cá nhân sử dụng hóa chất để sản xuất sản phẩm, hàng hóa khác có các nghĩa vụ sau đây:"
+    },
+    {
+        "id": "Điều 30.2a",
+        "article": "Điều 30",
+        "clause": "2a",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất để sản xuất sản phẩm, hàng hóa khác",
+        "text": "Tuân thủ các quy định về quản lý an toàn hóa chất;"
+    },
+    {
+        "id": "Điều 30.2b",
+        "article": "Điều 30",
+        "clause": "2b",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất để sản xuất sản phẩm, hàng hóa khác",
+        "text": "Có người chuyên trách về an toàn hóa chất; đáp ứng yêu cầu về cơ sở vật chất - kỹ thuật, năng lực chuyên môn về an toàn hóa chất, phù hợp với khối lượng, đặc tính của hóa chất;"
+    },
+    {
+        "id": "Điều 30.2c",
+        "article": "Điều 30",
+        "clause": "2c",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất để sản xuất sản phẩm, hàng hóa khác",
+        "text": "Định kỳ đào tạo, huấn luyện an toàn hóa chất cho người lao động;"
+    },
+    {
+        "id": "Điều 30.2d",
+        "article": "Điều 30",
+        "clause": "2d",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất để sản xuất sản phẩm, hàng hóa khác",
+        "text": "Cung cấp đầy đủ, kịp thời, chính xác thông tin, hướng dẫn thực hiện an toàn hóa chất cho người lao động, người quản lý trực tiếp;"
+    },
+    {
+        "id": "Điều 30.2đ",
+        "article": "Điều 30",
+        "clause": "2đ",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất để sản xuất sản phẩm, hàng hóa khác",
+        "text": "Xây dựng Biện pháp phòng ngừa, ứng phó sự cố hóa chất, Kế hoạch phòng ngừa, ứng phó sự cố hóa chất theo quy định tại Chương VI của Luật này;"
+    },
+    {
+        "id": "Điều 30.2e",
+        "article": "Điều 30",
+        "clause": "2e",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất để sản xuất sản phẩm, hàng hóa khác",
+        "text": "Cập nhập, lưu trữ thông tin về các hóa chất sử dụng theo quy định tại Điều 53 của Luật này;"
+    },
+    {
+        "id": "Điều 30.2g",
+        "article": "Điều 30",
+        "clause": "2g",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất để sản xuất sản phẩm, hàng hóa khác",
+        "text": "Thông báo kịp thời cho tổ chức, cá nhân cung cấp hóa chất, cơ quan quản lý hóa chất khi phát hiện các biểu hiện về đặc tính nguy hiểm mới của hóa chất sử dụng;"
+    },
+    {
+        "id": "Điều 30.2h",
+        "article": "Điều 30",
+        "clause": "2h",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất để sản xuất sản phẩm, hàng hóa khác",
+        "text": "Chấp hành các yêu cầu kiểm tra của cơ quan nhà nước có thẩm quyền trong việc thực hiện các quy định về an toàn hóa chất."
+    },
+    {
+        "id": "Điều 31.1",
+        "article": "Điều 31",
+        "clause": "1",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất nguy hiểm để sản xuất các sản phẩm, hàng hóa khác",
+        "text": "Tổ chức, cá nhân sử dụng hóa chất nguy hiểm để sản xuất sản phẩm, hàng hóa khác, ngoài quyền và nghĩa vụ quy định tại Điều 30 của Luật này, còn phải thực hiện các nghĩa vụ sau đây:"
+    },
+    {
+        "id": "Điều 31.1a",
+        "article": "Điều 31",
+        "clause": "1a",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất nguy hiểm để sản xuất các sản phẩm, hàng hóa khác",
+        "text": "Bảo đảm các điều kiện an toàn cho con người và môi trường trong quá trình sử dụng, bảo quản hóa chất nguy hiểm;"
+    },
+    {
+        "id": "Điều 31.1b",
+        "article": "Điều 31",
+        "clause": "1b",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất nguy hiểm để sản xuất các sản phẩm, hàng hóa khác",
+        "text": "Tuân thủ các quy chuẩn kỹ thuật về hàm lượng, tiêu chuẩn chất lượng của hóa chất nguy hiểm trong sản xuất sản phẩm, hàng hóa khác;"
+    },
+    {
+        "id": "Điều 31.1c",
+        "article": "Điều 31",
+        "clause": "1c",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất nguy hiểm để sản xuất các sản phẩm, hàng hóa khác",
+        "text": "Không được sử dụng các hóa chất độc có đặc tính quy định tại các điểm h, i, k hoặc l khoản 4 Điều 4 của Luật này trong các sản phẩm thực phẩm, mỹ phẩm, phụ gia thực phẩm, chất bảo quản thực phẩm;"
+    },
+    {
+        "id": "Điều 31.1d",
+        "article": "Điều 31",
+        "clause": "1d",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất nguy hiểm để sản xuất các sản phẩm, hàng hóa khác",
+        "text": "Bố trí hệ thống báo hiệu phù hợp với mức độ nguy hiểm của hóa chất tại khu vực sử dụng, cất giữ hóa chất nguy hiểm; trường hợp hóa chất có nhiều đặc tính nguy hiểm khác nhau thì biểu trưng cảnh báo phải thể hiện đầy đủ các đặc tính nguy hiểm đó;"
+    },
+    {
+        "id": "Điều 31.1đ",
+        "article": "Điều 31",
+        "clause": "1đ",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất nguy hiểm để sản xuất các sản phẩm, hàng hóa khác",
+        "text": "Cung cấp đầy đủ, kịp thời, chính xác thông tin, hướng dẫn thực hiện an toàn hóa chất cho người trực tiếp sử dụng, bảo quản, vận chuyển hóa chất, người quản lý sản xuất hóa chất;"
+    },
+    {
+        "id": "Điều 31.1e",
+        "article": "Điều 31",
+        "clause": "1e",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất nguy hiểm để sản xuất các sản phẩm, hàng hóa khác",
+        "text": "Thực hiện các quy định của pháp luật về xử lý, thải bỏ hóa chất nguy hiểm và dụng cụ chứa hóa chất đó;"
+    },
+    {
+        "id": "Điều 31.2",
+        "article": "Điều 31",
+        "clause": "2",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất nguy hiểm để sản xuất các sản phẩm, hàng hóa khác",
+        "text": "Bộ quản lý ngành, lĩnh vực ban hành và quản lý hoạt động hóa chất thuộc Danh mục hóa chất không được sử dụng để sản xuất sản phẩm, hàng hóa thuộc lĩnh vực quản lý của mình theo quy định của Luật này và các quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 32.1",
+        "article": "Điều 32",
+        "clause": "1",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất cho mục đích tiêu dùng",
+        "text": "Tổ chức, cá nhân sử dụng hóa chất cho mục đích tiêu dùng có quyền yêu cầu cung cấp đầy đủ thông tin về các đặc tính nguy hiểm của hóa chất và các yêu cầu bảo đảm an toàn; được nhà cung cấp bồi thường thiệt hại trong quá trình sử dụng hóa chất do các thông tin sai lệch của nhà cung cấp."
+    },
+    {
+        "id": "Điều 32.2",
+        "article": "Điều 32",
+        "clause": "2",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân sử dụng hóa chất cho mục đích tiêu dùng",
+        "text": "Tổ chức, cá nhân sử dụng hóa chất cho mục đích tiêu dùng có nghĩa vụ thực hiện đúng chỉ dẫn kỹ thuật đi kèm với hóa chất hoặc thể hiện trên nhãn hóa chất; bảo đảm an toàn cho bản thân và cộng đồng."
+    },
+    {
+        "id": "Điều 33.1",
+        "article": "Điều 33",
+        "clause": "1",
+        "title": "Sử dụng hóa chất cho thí nghiệm, nghiên cứu khoa học",
+        "text": "Người đứng đầu cơ sở thí nghiệm, nghiên cứu khoa học và người trực tiếp sử dụng hóa chất để thực hiện thí nghiệm, nghiên cứu khoa học phải thực hiện đầy đủ các quy định về an toàn hóa chất theo quy định của Luật này và các quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 33.2",
+        "article": "Điều 33",
+        "clause": "2",
+        "title": "Sử dụng hóa chất cho thí nghiệm, nghiên cứu khoa học",
+        "text": "Phòng thí nghiệm phải có trang thiết bị an toàn và trang thiết bị bảo hộ lao động phù hợp với tính chất nguy hiểm của hóa chất."
+    },
+    {
+        "id": "Điều 33.3",
+        "article": "Điều 33",
+        "clause": "3",
+        "title": "Sử dụng hóa chất cho thí nghiệm, nghiên cứu khoa học",
+        "text": "Dụng cụ chứa hóa chất trong phòng thí nghiệm và trong kho chứa phải có nhãn phù hợp yêu cầu về nhãn hóa chất theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 33.4",
+        "article": "Điều 33",
+        "clause": "4",
+        "title": "Sử dụng hóa chất cho thí nghiệm, nghiên cứu khoa học",
+        "text": "Phòng thí nghiệm phải lập hồ sơ theo dõi hóa chất để cập nhật định kỳ tình hình sử dụng hóa chất; lưu giữ phiếu an toàn hóa chất."
+    },
+    {
+        "id": "Điều 33.5",
+        "article": "Điều 33",
+        "clause": "5",
+        "title": "Sử dụng hóa chất cho thí nghiệm, nghiên cứu khoa học",
+        "text": "Bộ Khoa học và Công nghệ quy định về việc sử dụng hóa chất để thực hiện thí nghiệm, nghiên cứu khoa học."
+    },
+    {
+        "id": "Điều 34.1",
+        "article": "Điều 34",
+        "clause": "1",
+        "title": "Cất giữ, bảo quản hóa chất nguy hiểm trong sử dụng",
+        "text": "Tổ chức, cá nhân sử dụng hóa chất nguy hiểm để sản xuất sản phẩm, hàng hóa phải tuân thủ các quy định về cất giữ, bảo quản hóa chất nguy hiểm tại Điều 21 của Luật này."
+    },
+    {
+        "id": "Điều 34.2",
+        "article": "Điều 34",
+        "clause": "2",
+        "title": "Cất giữ, bảo quản hóa chất nguy hiểm trong sử dụng",
+        "text": "Tổ chức, cá nhân sử dụng hóa chất nguy hiểm cho mục đích tiêu dùng phải tuân thủ hướng dẫn của nhà sản xuất thể hiện trên nhãn, bao bì hoặc trong hướng dẫn sử dụng kèm theo sản phẩm hóa chất."
+    },
+    {
+        "id": "Điều 35.1",
+        "article": "Điều 35",
+        "clause": "1",
+        "title": "Xử lý hóa chất bị thải bỏ trong sử dụng",
+        "text": "Tổ chức, cá nhân sử dụng hóa chất để sản xuất sản phẩm, hàng hóa, sử dụng hóa chất trong thí nghiệm, nghiên cứu khoa học, tiêu dùng phải xử lý, thải bỏ hóa chất tồn dư, chất thải và dụng cụ chứa hóa chất theo quy định của pháp luật về bảo vệ môi trường."
+    },
+    {
+        "id": "Điều 35.2",
+        "article": "Điều 35",
+        "clause": "2",
+        "title": "Xử lý hóa chất bị thải bỏ trong sử dụng",
+        "text": "Hoá chất bị thải bỏ phải được xử lý bằng công nghệ phù hợp, đáp ứng tiêu chuẩn bảo vệ môi trường."
+    },
+    {
+        "id": "Điều 35.3",
+        "article": "Điều 35",
+        "clause": "3",
+        "title": "Xử lý hóa chất bị thải bỏ trong sử dụng",
+        "text": "Hóa chất được sử dụng cho mục đích tiêu dùng trong hộ gia đình, cá nhân phải được thải bỏ theo khuyến nghị của nhà sản xuất, quy định pháp luật về bảo vệ môi trường, bảo đảm an toàn cho người và môi trường. Chương vi PHÒNG NGỪA, ỨNG PHÓ SỰ CỐ HÓA CHẤT"
+    },
+    {
+        "id": "Điều 36.1",
+        "article": "Điều 36",
+        "clause": "1",
+        "title": "Phòng ngừa sự cố hóa chất",
+        "text": "Tổ chức, cá nhân hoạt động hóa chất phải tuân thủ các quy chuẩn kỹ thuật về an toàn; định kỳ đào tạo, huấn luyện về an toàn hóa chất cho người lao động."
+    },
+    {
+        "id": "Điều 36.2",
+        "article": "Điều 36",
+        "clause": "2",
+        "title": "Phòng ngừa sự cố hóa chất",
+        "text": "Chủ đầu tư dự án hoạt động hóa chất không thuộc Danh mục quy định tại khoản 1 Điều 38 của Luật này phải xây dựng Biện pháp phòng ngừa, ứng phó sự cố hóa chất phù hợp với quy mô, điều kiện sản xuất và đặc tính của hóa chất."
+    },
+    {
+        "id": "Điều 36.3",
+        "article": "Điều 36",
+        "clause": "3",
+        "title": "Phòng ngừa sự cố hóa chất",
+        "text": "Biện pháp phòng ngừa, ứng phó sự cố hóa chất bao gồm các nội dung cơ bản sau đây:"
+    },
+    {
+        "id": "Điều 36.3a",
+        "article": "Điều 36",
+        "clause": "3a",
+        "title": "Phòng ngừa sự cố hóa chất",
+        "text": "Xác định, khoanh vùng và lập kế hoạch kiểm tra thường xuyên các điểm có nguy cơ xảy ra sự cố hóa chất cao;"
+    },
+    {
+        "id": "Điều 36.3b",
+        "article": "Điều 36",
+        "clause": "3b",
+        "title": "Phòng ngừa sự cố hóa chất",
+        "text": "Các biện pháp, trang thiết bị và lực lượng ứng phó tại chỗ;"
+    },
+    {
+        "id": "Điều 36.3c",
+        "article": "Điều 36",
+        "clause": "3c",
+        "title": "Phòng ngừa sự cố hóa chất",
+        "text": "Phương án phối hợp với các lực lượng bên ngoài để ứng phó sự cố hóa chất."
+    },
+    {
+        "id": "Điều 36.4",
+        "article": "Điều 36",
+        "clause": "4",
+        "title": "Phòng ngừa sự cố hóa chất",
+        "text": "Chủ đầu tư dự án hoạt động hóa chất thuộc Danh mục quy định tại khoản 1 Điều 38 của Luật này phải xây dựng Kế hoạch phòng ngừa, ứng phó sự cố hóa chất và trình cơ quan quản lý nhà nước có thẩm quyền phê duyệt; chỉ được đưa dự án vào hoạt động sau khi Kế hoạch phòng ngừa, ứng phó sự cố hóa chất đã được phê duyệt. Trường hợp mở rộng quy mô, thay đổi phạm vi hoạt động phải sửa đổi, bổ sung Kế hoạch phòng ngừa, ứng phó sự cố hóa chất và trình cơ quan có thẩm quyền phê duyệt."
+    },
+    {
+        "id": "Điều 37.1",
+        "article": "Điều 37",
+        "clause": "1",
+        "title": "Trang thiết bị, lực lượng ứng phó sự cố hóa chất",
+        "text": "Tổ chức, cá nhân hoạt động hóa chất có trách nhiệm xây dựng năng lực ứng phó tại chỗ, có trang thiết bị phù hợp với quy mô và đặc tính của hóa chất."
+    },
+    {
+        "id": "Điều 37.2",
+        "article": "Điều 37",
+        "clause": "2",
+        "title": "Trang thiết bị, lực lượng ứng phó sự cố hóa chất",
+        "text": "Lực lượng ứng phó tại chỗ phải được thường xuyên huấn luyện, thực hành các phương án ứng phó sự cố hóa chất."
+    },
+    {
+        "id": "Điều 37.3",
+        "article": "Điều 37",
+        "clause": "3",
+        "title": "Trang thiết bị, lực lượng ứng phó sự cố hóa chất",
+        "text": "Lực lượng phòng cháy, chữa cháy, lực lượng khác và cơ quan quản lý nhà nước có liên quan có trách nhiệm tăng cường năng lực, trang thiết bị để ứng phó sự cố hóa chất."
+    },
+    {
+        "id": "Điều 38.1",
+        "article": "Điều 38",
+        "clause": "1",
+        "title": "Danh mục hóa chất nguy hiểm phải xây dựng Kế hoạch phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Căn cứ vào đặc tính nguy hiểm của hóa chất, quy mô sản xuất, kinh doanh, sử dụng hóa chất, Chính phủ ban hành Danh mục hóa chất nguy hiểm phải xây dựng Kế hoạch phòng ngừa, ứng phó sự cố hóa chất."
+    },
+    {
+        "id": "Điều 38.2",
+        "article": "Điều 38",
+        "clause": "2",
+        "title": "Danh mục hóa chất nguy hiểm phải xây dựng Kế hoạch phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Bộ Công thương chủ trì, phối hợp với các bộ, ngành có liên quan xây dựng Danh mục quy định tại khoản 1 Điều này trình Chính phủ ban hành."
+    },
+    {
+        "id": "Điều 39.1",
+        "article": "Điều 39",
+        "clause": "1",
+        "title": "Nội dung Kế hoạch phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Thông tin về đặc tính, khối lượng, công nghệ sản xuất, sử dụng hóa chất, đặc điểm điều kiện địa lý, dân cư, môi trường nơi có hoạt động hóa chất."
+    },
+    {
+        "id": "Điều 39.2",
+        "article": "Điều 39",
+        "clause": "2",
+        "title": "Nội dung Kế hoạch phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Dự báo các nguy cơ gây ra sự cố và kế hoạch kiểm tra, giám sát các nguồn nguy cơ sự cố hóa chất."
+    },
+    {
+        "id": "Điều 39.3",
+        "article": "Điều 39",
+        "clause": "3",
+        "title": "Nội dung Kế hoạch phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Dự báo tình huống xảy ra sự cố hóa chất và các giải pháp phòng ngừa."
+    },
+    {
+        "id": "Điều 39.4",
+        "article": "Điều 39",
+        "clause": "4",
+        "title": "Nội dung Kế hoạch phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Năng lực ứng phó sự cố hóa chất bao gồm trang thiết bị, nhân lực, kế hoạch phối hợp với các lực lượng tại địa phương, kế hoạch sơ tán người, tài sản."
+    },
+    {
+        "id": "Điều 39.5",
+        "article": "Điều 39",
+        "clause": "5",
+        "title": "Nội dung Kế hoạch phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Phương án khắc phục hậu quả sự cố hóa chất theo quy định của pháp luật về bảo vệ môi trường và các quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 40.1",
+        "article": "Điều 40",
+        "clause": "1",
+        "title": "Hồ sơ, trình tự thủ tục phê duyệt Kế hoạch phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Tổ chức, cá nhân đề nghị phê duyệt Kế hoạch phòng ngừa, ứng phó sự cố hóa chất nộp hồ sơ cho cơ quan có thẩm quyền để phê duyệt."
+    },
+    {
+        "id": "Điều 40.2",
+        "article": "Điều 40",
+        "clause": "2",
+        "title": "Hồ sơ, trình tự thủ tục phê duyệt Kế hoạch phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Hồ sơ đề nghị phê duyệt Kế hoạch phòng ngừa, ứng phó sự cố hóa chất bao gồm:"
+    },
+    {
+        "id": "Điều 40.2a",
+        "article": "Điều 40",
+        "clause": "2a",
+        "title": "Hồ sơ, trình tự thủ tục phê duyệt Kế hoạch phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Đơn đề nghị phê duyệt theo mẫu quy định;"
+    },
+    {
+        "id": "Điều 40.2b",
+        "article": "Điều 40",
+        "clause": "2b",
+        "title": "Hồ sơ, trình tự thủ tục phê duyệt Kế hoạch phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Kế hoạch phòng ngừa, ứng phó sự cố hóa chất quy định tại Điều 39 của Luật này."
+    },
+    {
+        "id": "Điều 40.3",
+        "article": "Điều 40",
+        "clause": "3",
+        "title": "Hồ sơ, trình tự thủ tục phê duyệt Kế hoạch phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Cơ quan có thẩm quyền phê duyệt Kế hoạch phòng ngừa, ứng phó sự cố hóa chất có trách nhiệm tổ chức thẩm định, phê duyệt trong thời hạn ba mươi ngày, kể từ ngày nhận đủ hồ sơ hợp lệ."
+    },
+    {
+        "id": "Điều 40.4",
+        "article": "Điều 40",
+        "clause": "4",
+        "title": "Hồ sơ, trình tự thủ tục phê duyệt Kế hoạch phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Tổ chức, cá nhân đề nghị phê duyệt Kế hoạch phòng ngừa, ứng phó sự cố hóa chất phải nộp phí theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 42.1",
+        "article": "Điều 42",
+        "clause": "1",
+        "title": "Trách nhiệm phối hợp phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Tổ chức, cá nhân hoạt động hóa chất thuộc Danh mục quy định tại khoản 1 Điều 38 của Luật này phải cung cấp cho Ủy ban nhân dân các cấp và cơ quan phòng cháy, chữa cháy địa phương nội dung quy định tại các khoản 3, 4 và 5 Điều 39 của Luật này để phối hợp ứng phó khi xảy ra sự cố hóa chất; trường hợp cơ sở hoạt động hóa chất nằm trong khu công nghiệp, khu chế xuất, khu kinh tế thì còn phải cung cấp nội dung nêu trên cho Ban quản lý khu công nghiệp, khu chế xuất, khu kinh tế."
+    },
+    {
+        "id": "Điều 42.2",
+        "article": "Điều 42",
+        "clause": "2",
+        "title": "Trách nhiệm phối hợp phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Khi xảy ra sự cố hóa chất, tổ chức, cá nhân hoạt động hóa chất phải áp dụng kịp thời Biện pháp phòng ngừa, ứng phó sự cố hóa chất, Kế hoạch phòng ngừa, ứng phó sự cố hóa chất và kịp thời thông báo cho lực lượng phòng cháy, chữa cháy, cơ quan, đơn vị có liên quan, chính quyền địa phương nơi gần nhất để phối hợp ứng phó và khắc phục sự cố."
+    },
+    {
+        "id": "Điều 42.3",
+        "article": "Điều 42",
+        "clause": "3",
+        "title": "Trách nhiệm phối hợp phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Khi xảy ra sự cố hóa chất nghiêm trọng, trách nhiệm phối hợp ứng phó được quy định như sau: Chương vii KHAI BÁO, ĐĂNG KÝ VÀ CUNG CẤP THÔNG TIN HÓA CHẤT"
+    },
+    {
+        "id": "Điều 42.3a",
+        "article": "Điều 42",
+        "clause": "3a",
+        "title": "Trách nhiệm phối hợp phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Cơ sở hoạt động hóa chất phải kịp thời thực hiện các biện pháp ứng phó quy định tại khoản 2 Điều này;"
+    },
+    {
+        "id": "Điều 42.3b",
+        "article": "Điều 42",
+        "clause": "3b",
+        "title": "Trách nhiệm phối hợp phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Ủy ban nhân dân xã, phường, thị trấn nơi xảy ra sự cố hóa chất có trách nhiệm kịp thời huy động lực lượng tại chỗ và áp dụng các biện pháp cần thiết khác, đồng thời báo cáo Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh để điều động lực lượng thực hiện các biện pháp ứng cứu, sơ tán người, tài sản và báo cáo ngay Chủ tịch Ủy ban nhân dân cấp tỉnh;"
+    },
+    {
+        "id": "Điều 42.3c",
+        "article": "Điều 42",
+        "clause": "3c",
+        "title": "Trách nhiệm phối hợp phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Chủ tịch Ủy ban nhân dân cấp tỉnh trực tiếp chỉ đạo ứng phó, khắc phục hậu quả sự cố hóa chất;"
+    },
+    {
+        "id": "Điều 42.3d",
+        "article": "Điều 42",
+        "clause": "3d",
+        "title": "Trách nhiệm phối hợp phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Bộ quản lý ngành, lĩnh vực và Bộ Công thương có trách nhiệm kịp thời phối hợp với Uỷ ban nhân dân cấp tỉnh nơi xảy sự cố để ứng phó, khắc phục hậu quả sự cố hóa chất;"
+    },
+    {
+        "id": "Điều 42.3đ",
+        "article": "Điều 42",
+        "clause": "3đ",
+        "title": "Trách nhiệm phối hợp phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Tổ chức, cá nhân có trách nhiệm chấp hành sự huy động người, tài sản của cơ quan nhà nước có thẩm quyền để ứng phó, khắc phục hậu quả sự cố hóa chất theo quy định của pháp luật;"
+    },
+    {
+        "id": "Điều 42.3e",
+        "article": "Điều 42",
+        "clause": "3e",
+        "title": "Trách nhiệm phối hợp phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Chủ tịch Ủy ban nhân dân cấp tỉnh nơi xảy ra sự cố phải thông báo ngay cho Ủy ban cứu hộ, cứu nạn quốc gia và các cơ quan hữu quan để phối hợp xử lý theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 43.1",
+        "article": "Điều 43",
+        "clause": "1",
+        "title": "Khai báo hóa chất",
+        "text": "Tổ chức, cá nhân nhập khẩu hóa chất phải khai báo hóa chất với Bộ Công thương; tổ chức, cá nhân sản xuất hóa chất phải khai báo hóa chất với cơ quan chuyên môn quản lý hoạt động hóa chất của Uỷ ban nhân dân cấp tỉnh."
+    },
+    {
+        "id": "Điều 43.2",
+        "article": "Điều 43",
+        "clause": "2",
+        "title": "Khai báo hóa chất",
+        "text": "Nội dung khai báo hóa chất bao gồm:"
+    },
+    {
+        "id": "Điều 43.2a",
+        "article": "Điều 43",
+        "clause": "2a",
+        "title": "Khai báo hóa chất",
+        "text": "Tên, địa chỉ tổ chức, cá nhân sản xuất, nhập khẩu hóa chất;"
+    },
+    {
+        "id": "Điều 43.2b",
+        "article": "Điều 43",
+        "clause": "2b",
+        "title": "Khai báo hóa chất",
+        "text": "Tên, số lượng và nguồn gốc xuất xứ hóa chất."
+    },
+    {
+        "id": "Điều 43.3",
+        "article": "Điều 43",
+        "clause": "3",
+        "title": "Khai báo hóa chất",
+        "text": "Hằng năm, cơ quan chuyên môn quản lý hoạt động hóa chất của Uỷ ban nhân dân cấp tỉnh có trách nhiệm báo cáo Bộ Công thương về các thông tin khai báo hóa chất tại địa phương."
+    },
+    {
+        "id": "Điều 43.4",
+        "article": "Điều 43",
+        "clause": "4",
+        "title": "Khai báo hóa chất",
+        "text": "Chính phủ quy định Danh mục hóa chất phải khai báo. Bộ Công thương quy định biểu mẫu khai báo hóa chất quy định tại Điều này."
+    },
+    {
+        "id": "Điều 44.1",
+        "article": "Điều 44",
+        "clause": "1",
+        "title": "Đăng ký hóa chất mới",
+        "text": "Hoá chất mới chỉ được đưa vào sử dụng, lưu thông trên thị trường sau khi được đăng ký tại cơ quan nhà nước có thẩm quyền."
+    },
+    {
+        "id": "Điều 44.2",
+        "article": "Điều 44",
+        "clause": "2",
+        "title": "Đăng ký hóa chất mới",
+        "text": "Hồ sơ đăng ký hóa chất mới, trừ trường hợp quy định tại khoản 3 Điều này bao gồm:"
+    },
+    {
+        "id": "Điều 44.2a",
+        "article": "Điều 44",
+        "clause": "2a",
+        "title": "Đăng ký hóa chất mới",
+        "text": "Đơn đăng ký hóa chất mới;"
+    },
+    {
+        "id": "Điều 44.2b",
+        "article": "Điều 44",
+        "clause": "2b",
+        "title": "Đăng ký hóa chất mới",
+        "text": "Tên gọi hóa chất mới theo hướng dẫn của Hiệp hội hóa học cơ bản và ứng dụng quốc tế (IUPAC), công thức hóa học của hóa chất;"
+    },
+    {
+        "id": "Điều 44.2c",
+        "article": "Điều 44",
+        "clause": "2c",
+        "title": "Đăng ký hóa chất mới",
+        "text": "Thông tin về tính chất lý, hoá và đặc tính nguy hiểm của hóa chất được tổ chức đánh giá hóa chất mới quy định tại Điều 45 của Luật này xác nhận."
+    },
+    {
+        "id": "Điều 44.3",
+        "article": "Điều 44",
+        "clause": "3",
+        "title": "Đăng ký hóa chất mới",
+        "text": "Hồ sơ đăng ký hóa chất mới sử dụng cho mục đích nghiên cứu khoa học, bảo vệ an ninh, trật tự an toàn xã hội bao gồm:"
+    },
+    {
+        "id": "Điều 44.3a",
+        "article": "Điều 44",
+        "clause": "3a",
+        "title": "Đăng ký hóa chất mới",
+        "text": "Các tài liệu quy định tại điểm a và điểm b khoản 2 Điều này;"
+    },
+    {
+        "id": "Điều 44.3b",
+        "article": "Điều 44",
+        "clause": "3b",
+        "title": "Đăng ký hóa chất mới",
+        "text": "Thông tin về mục đích sử dụng, thời gian sử dụng hóa chất."
+    },
+    {
+        "id": "Điều 44.4",
+        "article": "Điều 44",
+        "clause": "4",
+        "title": "Đăng ký hóa chất mới",
+        "text": "Bộ Công thương quy định trình tự, thủ tục và tổ chức thực hiện việc đăng ký hóa chất mới."
+    },
+    {
+        "id": "Điều 45.1",
+        "article": "Điều 45",
+        "clause": "1",
+        "title": "Tổ chức đánh giá hóa chất mới",
+        "text": "Tổ chức đánh giá hóa chất mới là tổ chức có đủ năng lực để đánh giá hóa chất mới, được cơ quan nhà nước có thẩm quyền chỉ định hoặc các tổ chức thử nghiệm hợp chuẩn của nước ngoài được Tổ chức hợp tác và phát triển kinh tế (OECD) thừa nhận về đánh giá hóa chất."
+    },
+    {
+        "id": "Điều 45.2",
+        "article": "Điều 45",
+        "clause": "2",
+        "title": "Tổ chức đánh giá hóa chất mới",
+        "text": "Bộ trưởng Bộ Công thương quy định điều kiện và chỉ định tổ chức đánh giá hóa chất mới tại Việt Nam."
+    },
+    {
+        "id": "Điều 46.1",
+        "article": "Điều 46",
+        "clause": "1",
+        "title": "Quản lý hoạt động liên quan đến hóa chất mới",
+        "text": "Bộ Công thương có trách nhiệm theo dõi, quản lý hoạt động liên quan đến hóa chất mới."
+    },
+    {
+        "id": "Điều 46.2",
+        "article": "Điều 46",
+        "clause": "2",
+        "title": "Quản lý hoạt động liên quan đến hóa chất mới",
+        "text": "Trong thời hạn năm năm, kể từ ngày hóa chất mới được đăng ký, hằng năm, trước ngày 31 tháng 01 của năm tiếp theo, tổ chức, cá nhân có hoạt động hóa chất liên quan đến hóa chất mới phải báo cáo bộ quản lý ngành, lĩnh vực và Bộ Công thương."
+    },
+    {
+        "id": "Điều 46.3",
+        "article": "Điều 46",
+        "clause": "3",
+        "title": "Quản lý hoạt động liên quan đến hóa chất mới",
+        "text": "Bộ Công thương quy định cụ thể về nội dung, biểu mẫu báo cáo."
+    },
+    {
+        "id": "Điều 47.1",
+        "article": "Điều 47",
+        "clause": "1",
+        "title": "Cung cấp thông tin về hóa chất độc, hóa chất nguy hiểm",
+        "text": "Bộ quản lý ngành, lĩnh vực có trách nhiệm cung cấp các thông tin về hóa chất độc, hóa chất nguy hiểm thuộc phạm vi quản lý của mình theo yêu cầu để phục vụ cứu chữa, điều trị cho người, động vật, thực vật chịu ảnh hưởng của sự cố hóa chất."
+    },
+    {
+        "id": "Điều 47.2",
+        "article": "Điều 47",
+        "clause": "2",
+        "title": "Cung cấp thông tin về hóa chất độc, hóa chất nguy hiểm",
+        "text": "Bộ Công thương phối hợp với Bộ Y tế, Bộ Tài nguyên và Môi trường tổ chức tuyên truyền phòng, chống ảnh hưởng của hóa chất độc, hóa chất nguy hiểm."
+    },
+    {
+        "id": "Điều 48.1",
+        "article": "Điều 48",
+        "clause": "1",
+        "title": "Thông tin về đặc tính nguy hiểm mới của hóa chất",
+        "text": "Khi phát hiện dấu hiệu đặc tính nguy hiểm mới của hóa chất, tổ chức, cá nhân hoạt động hóa chất có trách nhiệm kịp thời báo cáo Bộ Công thương và thông báo cho tổ chức, cá nhân sản xuất, nhập khẩu hóa chất đó biết."
+    },
+    {
+        "id": "Điều 48.2",
+        "article": "Điều 48",
+        "clause": "2",
+        "title": "Thông tin về đặc tính nguy hiểm mới của hóa chất",
+        "text": "Tổ chức, cá nhân sản xuất, nhập khẩu hóa chất có dấu hiệu đặc tính nguy hiểm mới phải báo cáo Bộ Công thương để xem xét, thu thập thêm bằng chứng khoa học về đặc tính nguy hiểm mới."
+    },
+    {
+        "id": "Điều 48.3",
+        "article": "Điều 48",
+        "clause": "3",
+        "title": "Thông tin về đặc tính nguy hiểm mới của hóa chất",
+        "text": "Bộ Công thương có trách nhiệm lập hồ sơ về hóa chất có dấu hiệu đặc tính nguy hiểm mới để tiến hành các biện pháp thu thập bằng chứng khoa học, thử nghiệm bổ sung để xác định đặc tính nguy hiểm mới của hóa chất."
+    },
+    {
+        "id": "Điều 48.4",
+        "article": "Điều 48",
+        "clause": "4",
+        "title": "Thông tin về đặc tính nguy hiểm mới của hóa chất",
+        "text": "Khi có đủ bằng chứng xác định đặc tính nguy hiểm mới của hóa chất, Bộ Công thương quyết định áp dụng biện pháp quản lý thích hợp đối với hóa chất đó."
+    },
+    {
+        "id": "Điều 48.5",
+        "article": "Điều 48",
+        "clause": "5",
+        "title": "Thông tin về đặc tính nguy hiểm mới của hóa chất",
+        "text": "Khi đã có kết luận chính thức của cơ quan nhà nước có thẩm quyền về đặc tính nguy hiểm mới của hóa chất, tổ chức, cá nhân sản xuất, nhập khẩu hóa chất đó có trách nhiệm sửa đổi, bổ sung nhãn và phiếu an toàn hóa chất phù hợp với các đặc tính nguy hiểm mới."
+    },
+    {
+        "id": "Điều 49.1",
+        "article": "Điều 49",
+        "clause": "1",
+        "title": "Nghĩa vụ cung cấp thông tin",
+        "text": "Sự cố hóa chất xảy ra trong cơ sở hoạt động hóa chất;"
+    },
+    {
+        "id": "Điều 49.2",
+        "article": "Điều 49",
+        "clause": "2",
+        "title": "Nghĩa vụ cung cấp thông tin",
+        "text": "Phục vụ yêu cầu phòng ngừa thảm họa tự nhiên có khả năng gây ra sự cố hóa chất của cơ sở hoạt động hóa chất;"
+    },
+    {
+        "id": "Điều 49.3",
+        "article": "Điều 49",
+        "clause": "3",
+        "title": "Nghĩa vụ cung cấp thông tin",
+        "text": "Phục vụ điều tra, khảo sát để xây dựng chiến lược, quy hoạch, kế hoạch phát triển vùng, ngành công nghiệp hóa chất;"
+    },
+    {
+        "id": "Điều 49.4",
+        "article": "Điều 49",
+        "clause": "4",
+        "title": "Nghĩa vụ cung cấp thông tin",
+        "text": "Phục vụ công tác thanh tra, kiểm tra trong hoạt động hóa chất."
+    },
+    {
+        "id": "Điều 50.1",
+        "article": "Điều 50",
+        "clause": "1",
+        "title": "Bảo mật thông tin",
+        "text": "Cơ quan, người tiếp nhận khai báo, đăng ký, báo cáo hóa chất có trách nhiệm giữ bí mật thông tin bảo mật theo yêu cầu của bên khai báo, đăng ký, báo cáo, trừ trường hợp quy định tại khoản 1 Điều 51 của Luật này."
+    },
+    {
+        "id": "Điều 50.2",
+        "article": "Điều 50",
+        "clause": "2",
+        "title": "Bảo mật thông tin",
+        "text": "Thông tin bảo mật của bên khai báo, đăng ký, báo cáo bao gồm:"
+    },
+    {
+        "id": "Điều 50.2a",
+        "article": "Điều 50",
+        "clause": "2a",
+        "title": "Bảo mật thông tin",
+        "text": "Tên và số lượng hóa chất được sản xuất, nhập khẩu, kinh doanh;"
+    },
+    {
+        "id": "Điều 50.2b",
+        "article": "Điều 50",
+        "clause": "2b",
+        "title": "Bảo mật thông tin",
+        "text": "Thông tin có liên quan đến bí quyết công nghệ, bí mật thương mại."
+    },
+    {
+        "id": "Điều 51.1",
+        "article": "Điều 51",
+        "clause": "1",
+        "title": "Sử dụng thông tin bảo mật",
+        "text": "Cơ quan, người tiếp nhận khai báo, đăng ký, báo cáo hóa chất có trách nhiệm cung cấp thông tin bảo mật quy định tại Điều 50 của Luật này khi có yêu cầu của cơ quan nhà nước có thẩm quyền."
+    },
+    {
+        "id": "Điều 51.2",
+        "article": "Điều 51",
+        "clause": "2",
+        "title": "Sử dụng thông tin bảo mật",
+        "text": "Cơ quan, người tiếp nhận khai báo, đăng ký, báo cáo hóa chất có trách nhiệm giữ bí mật thông tin bảo mật theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 52.1",
+        "article": "Điều 52",
+        "clause": "1",
+        "title": "Báo cáo sản xuất, nhập khẩu, sử dụng hóa chất thuộc Danh mục hóa chất cấm",
+        "text": "Hằng năm, trước ngày 31 tháng 01, tổ chức, cá nhân sản xuất, nhập khẩu, sử dụng hóa chất thuộc Danh mục hóa chất cấm có trách nhiệm gửi báo cáo sản xuất, nhập khẩu, sử dụng hóa chất thuộc Danh mục hóa chất cấm của năm trước đến bộ quản lý ngành, lĩnh vực và Bộ Công thương."
+    },
+    {
+        "id": "Điều 52.2",
+        "article": "Điều 52",
+        "clause": "2",
+        "title": "Báo cáo sản xuất, nhập khẩu, sử dụng hóa chất thuộc Danh mục hóa chất cấm",
+        "text": "Báo cáo sản xuất, nhập khẩu, sử dụng hóa chất thuộc Danh mục hóa chất cấm phải có các nội dung chủ yếu sau đây:"
+    },
+    {
+        "id": "Điều 52.2a",
+        "article": "Điều 52",
+        "clause": "2a",
+        "title": "Báo cáo sản xuất, nhập khẩu, sử dụng hóa chất thuộc Danh mục hóa chất cấm",
+        "text": "Tên hóa chất, mục đích sử dụng, khối lượng hóa chất được sản xuất, nhập khẩu, sử dụng;"
+    },
+    {
+        "id": "Điều 52.2b",
+        "article": "Điều 52",
+        "clause": "2b",
+        "title": "Báo cáo sản xuất, nhập khẩu, sử dụng hóa chất thuộc Danh mục hóa chất cấm",
+        "text": "Lượng nhập, xuất, tồn kho và vị trí cất giữ;"
+    },
+    {
+        "id": "Điều 52.2c",
+        "article": "Điều 52",
+        "clause": "2c",
+        "title": "Báo cáo sản xuất, nhập khẩu, sử dụng hóa chất thuộc Danh mục hóa chất cấm",
+        "text": "Việc thực hiện các biện pháp an toàn hóa chất;"
+    },
+    {
+        "id": "Điều 52.2d",
+        "article": "Điều 52",
+        "clause": "2d",
+        "title": "Báo cáo sản xuất, nhập khẩu, sử dụng hóa chất thuộc Danh mục hóa chất cấm",
+        "text": "Các thông tin khác nếu được yêu cầu."
+    },
+    {
+        "id": "Điều 53.1",
+        "article": "Điều 53",
+        "clause": "1",
+        "title": "Lưu trữ thông tin hóa chất nguy hiểm",
+        "text": "Tổ chức, cá nhân hoạt động hóa chất phải thiết lập, thường xuyên cập nhật và lưu trữ thông tin về hóa chất nguy hiểm trong hoạt động hóa chất của mình trong thời hạn ít nhất ba năm, kể từ ngày kết thúc hoạt động với hóa chất đó."
+    },
+    {
+        "id": "Điều 53.2",
+        "article": "Điều 53",
+        "clause": "2",
+        "title": "Lưu trữ thông tin hóa chất nguy hiểm",
+        "text": "Nội dung thông tin cần lưu trữ bao gồm tên khoa học, tên thương mại của hóa chất; khối lượng sản xuất, nhập khẩu, sử dụng, thải bỏ; mục đích sử dụng, phân nhóm nguy hiểm theo Hệ thống hài hoà toàn cầu về phân loại và ghi nhãn hóa chất; thông tin liên quan đến sự cố hóa chất, an toàn hóa chất tại cơ sở."
+    },
+    {
+        "id": "Điều 53.3",
+        "article": "Điều 53",
+        "clause": "3",
+        "title": "Lưu trữ thông tin hóa chất nguy hiểm",
+        "text": "Trong trường hợp cơ sở hoạt động hóa chất có nhiều chi nhánh thì dữ liệu thông tin hóa chất nguy hiểm phải bao gồm tất cả các thông tin có liên quan của cơ sở, các chi nhánh."
+    },
+    {
+        "id": "Điều 55.1",
+        "article": "Điều 55",
+        "clause": "1",
+        "title": "Danh mục hóa chất quốc gia và Cơ sở dữ liệu hóa chất quốc gia",
+        "text": "Chính phủ tổ chức xây dựng và ban hành Danh mục hóa chất quốc gia và Cơ sở dữ liệu hóa chất quốc gia."
+    },
+    {
+        "id": "Điều 55.2",
+        "article": "Điều 55",
+        "clause": "2",
+        "title": "Danh mục hóa chất quốc gia và Cơ sở dữ liệu hóa chất quốc gia",
+        "text": "Danh mục hóa chất quốc gia và Cơ sở dữ liệu hóa chất quốc gia phải được xây dựng hiện đại, phù hợp với thông lệ quốc tế, được công bố công khai và cập nhật thường xuyên. Chương viii BẢO VỆ MÔI TRƯỜNG VÀ AN TOÀN CHO CỘNG ĐỒNG"
+    },
+    {
+        "id": "Điều 57.1",
+        "article": "Điều 57",
+        "clause": "1",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân trong việc bảo vệ môi trường và an toàn cho cộng đồng",
+        "text": "Tổ chức, cá nhân nơi có cơ sở hoạt động hóa chất có các quyền sau đây:"
+    },
+    {
+        "id": "Điều 57.1a",
+        "article": "Điều 57",
+        "clause": "1a",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân trong việc bảo vệ môi trường và an toàn cho cộng đồng",
+        "text": "Được cung cấp các thông tin liên quan đến an toàn hóa chất của cơ sở;"
+    },
+    {
+        "id": "Điều 57.1b",
+        "article": "Điều 57",
+        "clause": "1b",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân trong việc bảo vệ môi trường và an toàn cho cộng đồng",
+        "text": "Yêu cầu thực hiện các biện pháp bảo vệ môi trường, bảo vệ sức khỏe cộng đồng;"
+    },
+    {
+        "id": "Điều 57.1c",
+        "article": "Điều 57",
+        "clause": "1c",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân trong việc bảo vệ môi trường và an toàn cho cộng đồng",
+        "text": "Được bồi thường thiệt hại về sức khoẻ, tính mạng, tài sản do hoạt động hóa chất gây ra theo quy định của pháp luật;"
+    },
+    {
+        "id": "Điều 57.1d",
+        "article": "Điều 57",
+        "clause": "1d",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân trong việc bảo vệ môi trường và an toàn cho cộng đồng",
+        "text": "Kiến nghị cơ quan nhà nước có thẩm quyền đình chỉ hoạt động của tổ chức, cá nhân có hành vi vi phạm các quy định của pháp luật về an toàn hóa chất;"
+    },
+    {
+        "id": "Điều 57.1đ",
+        "article": "Điều 57",
+        "clause": "1đ",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân trong việc bảo vệ môi trường và an toàn cho cộng đồng",
+        "text": "Tham gia ý kiến về biện pháp bảo vệ môi trường và Kế hoạch phòng ngừa, ứng phó sự cố hóa chất đối với các dự án đầu tư cơ sở sản xuất, cất giữ hóa chất nguy hiểm tại địa phương."
+    },
+    {
+        "id": "Điều 57.2",
+        "article": "Điều 57",
+        "clause": "2",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân trong việc bảo vệ môi trường và an toàn cho cộng đồng",
+        "text": "Tổ chức, cá nhân nơi có cơ sở hoạt động hóa chất có các nghĩa vụ sau đây:"
+    },
+    {
+        "id": "Điều 57.2a",
+        "article": "Điều 57",
+        "clause": "2a",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân trong việc bảo vệ môi trường và an toàn cho cộng đồng",
+        "text": "Báo cáo kịp thời với cơ quan nhà nước có thẩm quyền khi phát hiện hành vi vi phạm quy định của pháp luật về an toàn hóa chất;"
+    },
+    {
+        "id": "Điều 57.2b",
+        "article": "Điều 57",
+        "clause": "2b",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân trong việc bảo vệ môi trường và an toàn cho cộng đồng",
+        "text": "Tạo điều kiện thuận lợi để cơ quan, tổ chức hữu quan khắc phục sự cố hóa chất."
+    },
+    {
+        "id": "Điều 58.1",
+        "article": "Điều 58",
+        "clause": "1",
+        "title": "Công khai thông tin về an toàn hóa chất",
+        "text": "Biện pháp bảo đảm an toàn, bảo vệ sức khoẻ con người và môi trường theo quy định của Luật này và pháp luật về bảo vệ môi trường;"
+    },
+    {
+        "id": "Điều 58.2",
+        "article": "Điều 58",
+        "clause": "2",
+        "title": "Công khai thông tin về an toàn hóa chất",
+        "text": "Nội dung cơ bản của Kế hoạch phòng ngừa, ứng phó sự cố hóa chất quy định tại Điều 39, trừ các thông tin bảo mật quy định tại Điều 50 của Luật này."
+    },
+    {
+        "id": "Điều 59.1",
+        "article": "Điều 59",
+        "clause": "1",
+        "title": "Trách nhiệm xử lý hóa chất độc tồn dư, hóa chất, sản phẩm chứa hóa chất độc bị tịch thu",
+        "text": "Uỷ ban nhân dân cấp tỉnh có trách nhiệm thống kê, phát hiện và thông báo cho Bộ Tài nguyên và Môi trường về địa điểm, số lượng hóa chất độc tồn dư không rõ nguồn gốc, hóa chất, sản phẩm chứa hóa chất độc bị tịch thu tại địa phương mình."
+    },
+    {
+        "id": "Điều 59.2",
+        "article": "Điều 59",
+        "clause": "2",
+        "title": "Trách nhiệm xử lý hóa chất độc tồn dư, hóa chất, sản phẩm chứa hóa chất độc bị tịch thu",
+        "text": "Bộ Tài nguyên và Môi trường phối hợp với Bộ Công thương và các cơ quan có liên quan, Uỷ ban nhân dân cấp tỉnh xây dựng phương án xử lý hóa chất độc tồn dư không rõ nguồn gốc, hóa chất, sản phẩm chứa hóa chất độc bị tịch thu."
+    },
+    {
+        "id": "Điều 59.3",
+        "article": "Điều 59",
+        "clause": "3",
+        "title": "Trách nhiệm xử lý hóa chất độc tồn dư, hóa chất, sản phẩm chứa hóa chất độc bị tịch thu",
+        "text": "Uỷ ban nhân dân cấp tỉnh tổ chức thực hiện phương án xử lý hóa chất độc tồn dư không rõ nguồn gốc, hóa chất, sản phẩm chứa hóa chất độc bị tịch thu; Bộ Tài nguyên và Môi trường kiểm tra, theo dõi việc xử lý theo quy định của Luật này và pháp luật về bảo vệ môi trường."
+    },
+    {
+        "id": "Điều 59.4",
+        "article": "Điều 59",
+        "clause": "4",
+        "title": "Trách nhiệm xử lý hóa chất độc tồn dư, hóa chất, sản phẩm chứa hóa chất độc bị tịch thu",
+        "text": "Tổ chức, cá nhân có hóa chất độc tồn dư, sản phẩm chứa hóa chất độc bị tịch thu chịu toàn bộ chi phí xử lý."
+    },
+    {
+        "id": "Điều 59.5",
+        "article": "Điều 59",
+        "clause": "5",
+        "title": "Trách nhiệm xử lý hóa chất độc tồn dư, hóa chất, sản phẩm chứa hóa chất độc bị tịch thu",
+        "text": "Trường hợp hóa chất độc không rõ nguồn gốc, hóa chất độc không xác định được chủ sở hữu hoặc hóa chất độc bị tịch thu nhưng chủ sở hữu không có khả năng tài chính để xử lý thì chi phí xử lý được lấy từ ngân sách nhà nước."
+    },
+    {
+        "id": "Điều 60.1",
+        "article": "Điều 60",
+        "clause": "1",
+        "title": "Trách nhiệm xử lý hóa chất độc tồn dư của chiến tranh",
+        "text": "Bộ Tài nguyên và Môi trường chủ trì, phối hợp với Bộ Quốc phòng và các bộ, ngành, địa phương có liên quan xác định nguồn, phạm vi tác động của hóa chất độc tồn dư của chiến tranh; xây dựng kế hoạch xử lý trình Thủ tướng Chính phủ phê duyệt."
+    },
+    {
+        "id": "Điều 60.2",
+        "article": "Điều 60",
+        "clause": "2",
+        "title": "Trách nhiệm xử lý hóa chất độc tồn dư của chiến tranh",
+        "text": "Thủ tướng Chính phủ chỉ đạo các bộ, ngành, địa phương có liên quan thực hiện kế hoạch xử lý hóa chất độc tồn dư của chiến tranh."
+    },
+    {
+        "id": "Điều 61.1",
+        "article": "Điều 61",
+        "clause": "1",
+        "title": "Bảo hiểm trách nhiệm bồi thường thiệt hại trong hoạt động hóa chất",
+        "text": "Nhà nước khuyến khích các doanh nghiệp kinh doanh bảo hiểm thực hiện hoạt động bảo hiểm đối với trách nhiệm bồi thường thiệt hại do hoạt động hóa chất gây ra."
+    },
+    {
+        "id": "Điều 61.2",
+        "article": "Điều 61",
+        "clause": "2",
+        "title": "Bảo hiểm trách nhiệm bồi thường thiệt hại trong hoạt động hóa chất",
+        "text": "Nhà nước khuyến khích tổ chức, cá nhân hoạt động sản xuất, kinh doanh hóa chất mua bảo hiểm trách nhiệm bồi thường thiệt hại trong hoạt động hóa chất."
+    },
+    {
+        "id": "Điều 61.3",
+        "article": "Điều 61",
+        "clause": "3",
+        "title": "Bảo hiểm trách nhiệm bồi thường thiệt hại trong hoạt động hóa chất",
+        "text": "Căn cứ vào tình hình phát triển kinh tế - xã hội, yêu cầu bảo đảm an toàn hoạt động hóa chất theo quy định của Luật kinh doanh bảo hiểm, Chính phủ trình Ủy ban thường vụ Quốc hội xem xét, quy định bảo hiểm bắt buộc đối với hoạt động hóa chất nguy hiểm, hóa chất độc. Chương ix TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ HOẠT ĐỘNG HÓA CHẤT"
+    },
+    {
+        "id": "Điều 62.1",
+        "article": "Điều 62",
+        "clause": "1",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất",
+        "text": "Chính phủ thống nhất quản lý nhà nước về hoạt động hóa chất trong phạm vi cả nước."
+    },
+    {
+        "id": "Điều 62.2",
+        "article": "Điều 62",
+        "clause": "2",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất",
+        "text": "Bộ Công thương chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về hoạt động hóa chất."
+    },
+    {
+        "id": "Điều 62.3",
+        "article": "Điều 62",
+        "clause": "3",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất",
+        "text": "Các bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Công thương thực hiện nhiệm vụ quản lý nhà nước về hoạt động hóa chất theo sự phân công của Chính phủ."
+    },
+    {
+        "id": "Điều 62.4",
+        "article": "Điều 62",
+        "clause": "4",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất",
+        "text": "Ủy ban nhân dân các cấp thực hiện việc quản lý nhà nước về hoạt động hóa chất trong phạm vi địa phương mình theo phân cấp của Chính phủ."
+    },
+    {
+        "id": "Điều 63.1",
+        "article": "Điều 63",
+        "clause": "1",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Bộ Công thương",
+        "text": "Bộ Công thương trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện các nội dung quản lý nhà nước về hoạt động hóa chất sau đây:"
+    },
+    {
+        "id": "Điều 63.1a",
+        "article": "Điều 63",
+        "clause": "1a",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Bộ Công thương",
+        "text": "Ban hành theo thẩm quyền hoặc trình Chính phủ ban hành các văn bản quy phạm pháp luật, chiến lược, quy hoạch, kế hoạch phát triển công nghiệp hóa chất; quy chuẩn kỹ thuật về an toàn hóa chất;"
+    },
+    {
+        "id": "Điều 63.1b",
+        "article": "Điều 63",
+        "clause": "1b",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Bộ Công thương",
+        "text": "Chủ trì, phối hợp với các bộ, ngành xây dựng và trình Chính phủ ban hành Danh mục hóa chất quốc gia; Danh mục hóa chất sản xuất, kinh doanh có điều kiện; Danh mục hóa chất hạn chế sản xuất, kinh doanh; Danh mục hóa chất cấm; Danh mục hóa chất phải khai báo; Danh mục hóa chất nguy hiểm phải xây dựng Kế hoạch phòng ngừa, ứng phó sự cố hóa chất;"
+    },
+    {
+        "id": "Điều 63.1c",
+        "article": "Điều 63",
+        "clause": "1c",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Bộ Công thương",
+        "text": "Quản lý hóa chất sử dụng trong công nghiệp, hóa chất là tiền chất sử dụng trong công nghiệp và hóa chất thuộc Công ước cấm phát triển, sản xuất, tàng trữ, sử dụng và phá hủy vũ khí hóa học; quản lý hóa chất sử dụng trong các sản phẩm công nghiệp tiêu dùng; ban hành Danh mục các hóa chất không được sử dụng trong các sản phẩm gia dụng, sản phẩm tiêu dùng, trừ các sản phẩm do Bộ Y tế, Bộ Nông nghiệp và Phát triển nông thôn quản lý;"
+    },
+    {
+        "id": "Điều 63.1d",
+        "article": "Điều 63",
+        "clause": "1d",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Bộ Công thương",
+        "text": "Xây dựng Cơ sở dữ liệu hóa chất quốc gia;"
+    },
+    {
+        "id": "Điều 63.1đ",
+        "article": "Điều 63",
+        "clause": "1đ",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Bộ Công thương",
+        "text": "Thống nhất quản lý hoạt động phân loại, ghi nhãn hóa chất nguy hiểm; đăng ký, khai báo hóa chất; thông tin an toàn hóa chất;"
+    },
+    {
+        "id": "Điều 63.1e",
+        "article": "Điều 63",
+        "clause": "1e",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Bộ Công thương",
+        "text": "Tổng hợp, thống kê tình hình thực hiện an toàn hóa chất trong phạm vi cả nước;"
+    },
+    {
+        "id": "Điều 63.1g",
+        "article": "Điều 63",
+        "clause": "1g",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Bộ Công thương",
+        "text": "Hướng dẫn xây dựng, tổ chức việc thẩm định Kế hoạch phòng ngừa, ứng phó sự cố hóa chất; phối hợp với các cơ quan hữu quan trong việc phòng ngừa, ứng phó, khắc phục sự cố hóa chất;"
+    },
+    {
+        "id": "Điều 63.1h",
+        "article": "Điều 63",
+        "clause": "1h",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Bộ Công thương",
+        "text": "Thực hiện hợp tác quốc tế trong hoạt động hóa chất và an toàn hóa chất;"
+    },
+    {
+        "id": "Điều 63.1i",
+        "article": "Điều 63",
+        "clause": "1i",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Bộ Công thương",
+        "text": "Quy định cụ thể về điều kiện cơ sở vật chất - kỹ thuật, chuyên môn nghề nghiệp của các cơ sở hoạt động hóa chất thuộc phạm vi quản lý của Bộ Công thương;"
+    },
+    {
+        "id": "Điều 63.1k",
+        "article": "Điều 63",
+        "clause": "1k",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Bộ Công thương",
+        "text": "Tham gia tuyên truyền, phổ biến, giáo dục pháp luật về hóa chất;"
+    },
+    {
+        "id": "Điều 63.1l",
+        "article": "Điều 63",
+        "clause": "1l",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Bộ Công thương",
+        "text": "Thanh tra về hoạt động hóa chất; giải quyết khiếu nại, tố cáo liên quan đến hoạt động hóa chất;"
+    },
+    {
+        "id": "Điều 63.1m",
+        "article": "Điều 63",
+        "clause": "1m",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Bộ Công thương",
+        "text": "Các nhiệm vụ khác liên quan đến hoạt động hóa chất được Chính phủ phân công."
+    },
+    {
+        "id": "Điều 63.2",
+        "article": "Điều 63",
+        "clause": "2",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Bộ Công thương",
+        "text": "Chính phủ quyết định thành lập và quy định chức năng, nhiệm vụ, cơ cấu tổ chức của cơ quan nhà nước quản lý về hoạt động hóa chất thuộc Bộ Công thương để giúp Bộ trưởng thực hiện nhiệm vụ quản lý nhà nước về hoạt động hóa chất."
+    },
+    {
+        "id": "Điều 64.1",
+        "article": "Điều 64",
+        "clause": "1",
+        "title": "Trách nhiệm quản lý của bộ, cơ quan ngang bộ liên quan trực tiếp đến hoạt động hóa chất",
+        "text": "Bộ Tài nguyên và Môi trường ban hành theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành các quy định về bảo vệ môi trường liên quan đến hoạt động hóa chất; xử lý, thải bỏ hóa chất độc tồn dư, hóa chất độc tồn dư của chiến tranh, hóa chất độc không rõ nguồn gốc và hóa chất độc bị tịch thu."
+    },
+    {
+        "id": "Điều 64.2",
+        "article": "Điều 64",
+        "clause": "2",
+        "title": "Trách nhiệm quản lý của bộ, cơ quan ngang bộ liên quan trực tiếp đến hoạt động hóa chất",
+        "text": "Bộ Khoa học và Công nghệ ban hành, công bố tiêu chuẩn, quy chuẩn kỹ thuật về an toàn hóa chất theo thẩm quyền; trình cơ quan có thẩm quyền ban hành chính sách nghiên cứu, phát triển, áp dụng công nghệ phù hợp với việc sử dụng hóa chất ít nguy hiểm."
+    },
+    {
+        "id": "Điều 64.3",
+        "article": "Điều 64",
+        "clause": "3",
+        "title": "Trách nhiệm quản lý của bộ, cơ quan ngang bộ liên quan trực tiếp đến hoạt động hóa chất",
+        "text": "Bộ Giao thông Vận tải ban hành theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành các quy định về vận chuyển hóa chất nguy hiểm bằng đường bộ, đường thuỷ nội địa, đường sắt, hàng không, hàng hải; xây dựng, bổ sung các quy chuẩn kỹ thuật về vận chuyển hóa chất nguy hiểm."
+    },
+    {
+        "id": "Điều 64.4",
+        "article": "Điều 64",
+        "clause": "4",
+        "title": "Trách nhiệm quản lý của bộ, cơ quan ngang bộ liên quan trực tiếp đến hoạt động hóa chất",
+        "text": "Bộ Y tế quản lý các hóa chất sử dụng để bào chế dược phẩm cho người, hóa chất sử dụng trong chất diệt khuẩn, diệt côn trùng trong gia dụng và y tế; phối hợp với các bộ, ngành quy định về vệ sinh an toàn lao động trong hoạt động hóa chất; phối hợp với Bộ Công thương xây dựng Danh mục hóa chất cấm, Danh mục hóa chất hạn chế sản xuất, kinh doanh trong lĩnh vực y tế trình Chính phủ ban hành; ban hành Danh mục hóa chất không được sử dụng, hạn chế sử dụng và được sử dụng trong lĩnh vực y tế, hóa chất sử dụng trong chất diệt khuẩn, diệt côn trùng trong gia dụng và y tế, dược phẩm và phụ gia thực phẩm."
+    },
+    {
+        "id": "Điều 64.5",
+        "article": "Điều 64",
+        "clause": "5",
+        "title": "Trách nhiệm quản lý của bộ, cơ quan ngang bộ liên quan trực tiếp đến hoạt động hóa chất",
+        "text": "Bộ Nông nghiệp và Phát triển nông thôn quản lý hóa chất sử dụng trong trồng trọt, chăn nuôi, nuôi trồng thuỷ sản, thú y, bảo vệ thực vật, bảo quản, chế biến nông sản, lâm sản, hải sản và thực phẩm; phối hợp với Bộ Công thương và các bộ, ngành có liên quan xây dựng Danh mục hóa chất cấm, Danh mục hóa chất hạn chế sản xuất, kinh doanh; ban hành Danh mục hóa chất không được sử dụng, hạn chế sử dụng và được sử dụng trong lĩnh vực nông nghiệp; hướng dẫn phân loại, ghi nhãn và xây dựng phiếu an toàn hóa chất đối với các loại thuốc bảo vệ thực vật."
+    },
+    {
+        "id": "Điều 64.6",
+        "article": "Điều 64",
+        "clause": "6",
+        "title": "Trách nhiệm quản lý của bộ, cơ quan ngang bộ liên quan trực tiếp đến hoạt động hóa chất",
+        "text": "Bộ Công an, Bộ Quốc phòng quản lý hóa chất, sản phẩm hóa chất trong lĩnh vực quốc phòng, an ninh."
+    },
+    {
+        "id": "Điều 64.7",
+        "article": "Điều 64",
+        "clause": "7",
+        "title": "Trách nhiệm quản lý của bộ, cơ quan ngang bộ liên quan trực tiếp đến hoạt động hóa chất",
+        "text": "Bộ Lao động, Thương binh và Xã hội ban hành theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành các quy định về an toàn lao động, vệ sinh lao động cho người lao động tham gia hoạt động hóa chất; quản lý việc sử dụng hóa chất trong các cơ sở dạy nghề."
+    },
+    {
+        "id": "Điều 64.8",
+        "article": "Điều 64",
+        "clause": "8",
+        "title": "Trách nhiệm quản lý của bộ, cơ quan ngang bộ liên quan trực tiếp đến hoạt động hóa chất",
+        "text": "Bộ Giáo dục và Đào tạo quản lý việc sử dụng hóa chất trong nhà trường, cơ sở giáo dục khác thuộc hệ thống giáo dục quốc dân."
+    },
+    {
+        "id": "Điều 65.1",
+        "article": "Điều 65",
+        "clause": "1",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Ủy ban nhân dân các cấp",
+        "text": "Uỷ ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý, thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, xử phạt vi phạm hành chính về hoạt động hóa chất tại địa phương theo phân cấp của Chính phủ, quy định của Luật này và các quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 65.2",
+        "article": "Điều 65",
+        "clause": "2",
+        "title": "Trách nhiệm quản lý nhà nước về hoạt động hóa chất của Ủy ban nhân dân các cấp",
+        "text": "Uỷ ban nhân dân cấp tỉnh có cơ quan chuyên môn làm cơ quan đầu mối giúp Ủy ban thực hiện quản lý hoạt động hóa chất tại địa phương theo quy định của Chính phủ."
+    },
+    {
+        "id": "Điều 66.1",
+        "article": "Điều 66",
+        "clause": "1",
+        "title": "Thanh tra về hoạt động hóa chất",
+        "text": "Bộ Công thương, các bộ, cơ quan ngang bộ có liên quan và Uỷ ban nhân dân các cấp thực hiện nhiệm vụ thanh tra về hoạt động hóa chất thuộc phạm vi quản lý được phân công, phân cấp."
+    },
+    {
+        "id": "Điều 66.2",
+        "article": "Điều 66",
+        "clause": "2",
+        "title": "Thanh tra về hoạt động hóa chất",
+        "text": "Tổ chức, nhiệm vụ, quyền hạn của thanh tra về hóa chất thực hiện theo quy định của pháp luật về thanh tra."
+    },
+    {
+        "id": "Điều 67.1",
+        "article": "Điều 67",
+        "clause": "1",
+        "title": "Xử lý vi phạm",
+        "text": "Cơ quan, tổ chức, cá nhân có hành vi vi phạm các quy định của Luật này và các quy định khác của pháp luật có liên quan về hoạt động hóa chất thì tùy theo đối tượng, tính chất, mức độ vi phạm mà bị xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 67.2",
+        "article": "Điều 67",
+        "clause": "2",
+        "title": "Xử lý vi phạm",
+        "text": "Cá nhân lợi dụng chức vụ, quyền hạn cửa quyền, hách dịch, gây khó khăn, phiền hà cho tổ chức, cá nhân hoạt động hóa chất; bao che cho người vi phạm pháp luật về hoạt động hóa chất hoặc thiếu trách nhiệm để xảy ra ô nhiễm, sự cố hóa chất thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 68.1",
+        "article": "Điều 68",
+        "clause": "1",
+        "title": "Giải quyết tranh chấp trong hoạt động hóa chất",
+        "text": "Thương lượng giữa các bên;"
+    },
+    {
+        "id": "Điều 68.2",
+        "article": "Điều 68",
+        "clause": "2",
+        "title": "Giải quyết tranh chấp trong hoạt động hóa chất",
+        "text": "Hòa giải giữa các bên do một tổ chức hoặc cá nhân được các bên thỏa thuận làm trung gian hòa giải;"
+    },
+    {
+        "id": "Điều 68.3",
+        "article": "Điều 68",
+        "clause": "3",
+        "title": "Giải quyết tranh chấp trong hoạt động hóa chất",
+        "text": "Giải quyết tại trọng tài thương mại hoặc Tòa án. Chương X ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 69.1",
+        "article": "Điều 69",
+        "clause": "1",
+        "title": "Điều khoản chuyển tiếp",
+        "text": "Tổ chức, cá nhân đang hoạt động hóa chất phải thực hiện các quy định về khai báo, phân loại, ghi nhãn, xây dựng phiếu an toàn hóa chất theo quy định của Luật này trong thời hạn một năm, kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 69.2",
+        "article": "Điều 69",
+        "clause": "2",
+        "title": "Điều khoản chuyển tiếp",
+        "text": "Tổ chức, cá nhân đang hoạt động hóa chất phải xây dựng Biện pháp phòng ngừa, ứng phó sự cố hóa chất, Kế hoạch phòng ngừa, ứng phó sự cố hóa chất theo quy định của Luật này trong thời hạn sáu tháng, kể từ ngày Luật này có hiệu lực."
+    }
+]

@@ -1,0 +1,3012 @@
+[
+    {
+        "id": "Điều 1.1",
+        "article": "Điều 1",
+        "clause": "1",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Quản lý, sử dụng ngân sách nhà nước, vốn nhà nước, tài sản nhà nước, lao động, thời gian lao động trong khu vực nhà nước;"
+    },
+    {
+        "id": "Điều 1.2",
+        "article": "Điều 1",
+        "clause": "2",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Quản lý, khai thác và sử dụng tài nguyên;"
+    },
+    {
+        "id": "Điều 1.3",
+        "article": "Điều 1",
+        "clause": "3",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Hoạt động sản xuất, kinh doanh và tiêu dùng của tổ chức, hộ gia đình, cá nhân."
+    },
+    {
+        "id": "Điều 2.1",
+        "article": "Điều 2",
+        "clause": "1",
+        "title": "Đối tượng áp dụng",
+        "text": "Cơ quan, tổ chức, cá nhân quản lý, sử dụng ngân sách nhà nước, vốn nhà nước, tài sản nhà nước, lao động, thời gian lao động trong khu vực nhà nước."
+    },
+    {
+        "id": "Điều 2.2",
+        "article": "Điều 2",
+        "clause": "2",
+        "title": "Đối tượng áp dụng",
+        "text": "Cơ quan, tổ chức, hộ gia đình, cá nhân quản lý, khai thác và sử dụng tài nguyên."
+    },
+    {
+        "id": "Điều 2.3",
+        "article": "Điều 2",
+        "clause": "3",
+        "title": "Đối tượng áp dụng",
+        "text": "Tổ chức, hộ gia đình và cá nhân khác."
+    },
+    {
+        "id": "Điều 3.1",
+        "article": "Điều 3",
+        "clause": "1",
+        "title": "Giải thích từ ngữ",
+        "text": "Tiết kiệm là việc giảm bớt hao phí trong sử dụng vốn, tài sản, lao động, thời gian lao động và tài nguyên nhưng vẫn đạt được mục tiêu đã định. Đối với việc quản lý, sử dụng ngân sách nhà nước, vốn nhà nước, tài sản nhà nước, lao động, thời gian lao động trong khu vực nhà nước và tài nguyên ở những lĩnh vực đã có định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành thì tiết kiệm là việc sử dụng ở mức thấp hơn định mức, tiêu chuẩn, chế độ nhưng vẫn đạt được mục tiêu đã định hoặc sử dụng đúng định mức, tiêu chuẩn, chế độ nhưng đạt cao hơn mục tiêu đã định."
+    },
+    {
+        "id": "Điều 3.2",
+        "article": "Điều 3",
+        "clause": "2",
+        "title": "Giải thích từ ngữ",
+        "text": "Lãng phí là việc quản lý, sử dụng vốn, tài sản, lao động, thời gian lao động và tài nguyên không hiệu quả. Đối với lĩnh vực đã có định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành thì lãng phí là việc quản lý, sử dụng ngân sách nhà nước, vốn nhà nước, tài sản nhà nước, lao động, thời gian lao động trong khu vực nhà nước và tài nguyên vượt định mức, tiêu chuẩn, chế độ hoặc không đạt mục tiêu đã định."
+    },
+    {
+        "id": "Điều 3.3",
+        "article": "Điều 3",
+        "clause": "3",
+        "title": "Giải thích từ ngữ",
+        "text": "Vốn nhà nước bao gồm vốn ngân sách nhà nước, vốn tín dụng do Chính phủ bảo lãnh, vốn tín dụng đầu tư phát triển của Nhà nước, vốn đầu tư phát triển của doanh nghiệp nhà nước và các vốn khác do Nhà nước quản lý."
+    },
+    {
+        "id": "Điều 3.4",
+        "article": "Điều 3",
+        "clause": "4",
+        "title": "Giải thích từ ngữ",
+        "text": "Khu vực nhà nước bao gồm các cơ quan, tổ chức do Nhà nước thành lập, đầu tư cơ sở vật chất, cấp phát toàn bộ hoặc một phần kinh phí hoạt động, do Nhà nước trực tiếp quản lý hoặc tham gia quản lý nhằm phục vụ các nhu cầu phát triển chung, thiết yếu của Nhà nước và xã hội."
+    },
+    {
+        "id": "Điều 3.5",
+        "article": "Điều 3",
+        "clause": "5",
+        "title": "Giải thích từ ngữ",
+        "text": "Tài sản nhà nước là tài sản hình thành từ ngân sách nhà nước hoặc do pháp luật quy định thuộc sở hữu, quản lý của Nhà nước, bao gồm: trụ sở làm việc, quyền sử dụng đất và tài sản gắn liền với đất; máy móc, phương tiện vận tải, trang thiết bị làm việc; tài sản từ nguồn viện trợ, tài trợ, đóng góp của tổ chức, cá nhân trong nước và ngoài nước cho Nhà nước và các tài sản khác do pháp luật quy định."
+    },
+    {
+        "id": "Điều 3.6",
+        "article": "Điều 3",
+        "clause": "6",
+        "title": "Giải thích từ ngữ",
+        "text": "Tài nguyên bao gồm đất đai, tài nguyên nước, tài nguyên khoáng sản, nguồn lợi ở vùng biển, thềm lục địa, vùng trời, tài nguyên thiên nhiên khác. Tài nguyên và các tài sản do Nhà nước đầu tư, quản lý là tài sản công thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý."
+    },
+    {
+        "id": "Điều 3.7",
+        "article": "Điều 3",
+        "clause": "7",
+        "title": "Giải thích từ ngữ",
+        "text": "Người đứng đầu cơ quan, tổ chức là người được bầu, bổ nhiệm hoặc phê chuẩn vào vị trí lãnh đạo, quản lý và chịu trách nhiệm cao nhất trong cơ quan, tổ chức đó."
+    },
+    {
+        "id": "Điều 4.1",
+        "article": "Điều 4",
+        "clause": "1",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí",
+        "text": "Thực hành tiết kiệm, chống lãng phí là nhiệm vụ thường xuyên từ chủ trương, đường lối, cơ chế chính sách đến tổ chức thực hiện gắn với kiểm tra, giám sát."
+    },
+    {
+        "id": "Điều 4.2",
+        "article": "Điều 4",
+        "clause": "2",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí",
+        "text": "Thực hành tiết kiệm, chống lãng phí phải căn cứ vào định mức, tiêu chuẩn, chế độ và quy định khác của pháp luật."
+    },
+    {
+        "id": "Điều 4.3",
+        "article": "Điều 4",
+        "clause": "3",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí",
+        "text": "Thực hành tiết kiệm, chống lãng phí phải gắn với cải cách hành chính và bảo đảm hoàn thành nhiệm vụ được giao, không để ảnh hưởng đến hoạt động bình thường của cơ quan, tổ chức."
+    },
+    {
+        "id": "Điều 4.4",
+        "article": "Điều 4",
+        "clause": "4",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí",
+        "text": "Thực hiện phân cấp quản lý, phối hợp chặt chẽ giữa các cấp, các ngành, cơ quan, tổ chức trong thực hiện nhiệm vụ được giao gắn với trách nhiệm của người đứng đầu, trách nhiệm của cán bộ, công chức, viên chức trong cơ quan, tổ chức để thực hành tiết kiệm, chống lãng phí."
+    },
+    {
+        "id": "Điều 4.5",
+        "article": "Điều 4",
+        "clause": "5",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí",
+        "text": "Bảo đảm dân chủ, công khai, minh bạch; bảo đảm vai trò giám sát của Quốc hội, Hội đồng nhân dân các cấp, Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận Tổ quốc Việt Nam và nhân dân trong việc thực hành tiết kiệm, chống lãng phí."
+    },
+    {
+        "id": "Điều 5.1",
+        "article": "Điều 5",
+        "clause": "1",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Công khai các hoạt động quản lý và sử dụng ngân sách nhà nước, vốn nhà nước, tài sản nhà nước, lao động, thời gian lao động và tài nguyên là biện pháp để bảo đảm thực hành tiết kiệm, ngăn chặn, phòng ngừa lãng phí."
+    },
+    {
+        "id": "Điều 5.2",
+        "article": "Điều 5",
+        "clause": "2",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Trừ lĩnh vực, hoạt động thuộc bí mật nhà nước, các lĩnh vực, hoạt động sau đây phải thực hiện công khai:"
+    },
+    {
+        "id": "Điều 5.2a",
+        "article": "Điều 5",
+        "clause": "2a",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Dự toán, phân bố, điều chỉnh dự toán và quyết toán ngân sách nhà nước của các cơ quan, tổ chức sử dụng ngân sách nhà nước; các quỹ có nguồn từ ngân sách nhà nước;"
+    },
+    {
+        "id": "Điều 5.2b",
+        "article": "Điều 5",
+        "clause": "2b",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Đầu tư xây dựng cơ bản, mua sắm, quản lý, sử dụng tài sản trong cơ quan, tổ chức sử dụng ngân sách nhà nước;"
+    },
+    {
+        "id": "Điều 5.2c",
+        "article": "Điều 5",
+        "clause": "2c",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Các khoản thu vào ngân sách nhà nước, huy động vốn cho ngân sách nhà nước và cho tín dụng nhà nước; các quỹ có nguồn huy động đóng góp trong và ngoài nước; nợ công theo quy định tại Luật quản lý nợ công;"
+    },
+    {
+        "id": "Điều 5.2d",
+        "article": "Điều 5",
+        "clause": "2d",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Quy hoạch, kế hoạch phát triển kinh tế - xã hội; quy hoạch, kế hoạch phát triển ngành, vùng; quy hoạch, kế hoạch sử dụng đất; quy hoạch đô thị, quy hoạch, kế hoạch, danh mục dự án đầu tư, nguồn vốn đầu tư; quy hoạch xây dựng; quy hoạch, kế hoạch và hoạt động khai thác tài nguyên;"
+    },
+    {
+        "id": "Điều 5.2đ",
+        "article": "Điều 5",
+        "clause": "2đ",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Định mức, tiêu chuẩn, chế độ do cơ quan, tổ chức quy định hoặc áp dụng thực hiện; quy chế quản lý tài chính, chi tiêu nội bộ của cơ quan, tổ chức; quy chuẩn, tiêu chuẩn ngành, lĩnh vực;"
+    },
+    {
+        "id": "Điều 5.2e",
+        "article": "Điều 5",
+        "clause": "2e",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Phân bố, sử dụng nguồn lực lao động;"
+    },
+    {
+        "id": "Điều 5.2g",
+        "article": "Điều 5",
+        "clause": "2g",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Chương trình, kế hoạch thực hành tiết kiệm, chống lãng phí; kết quả thực hành tiết kiệm; hành vi lãng phí và kết quả xử lý hành vi lãng phí;"
+    },
+    {
+        "id": "Điều 5.2h",
+        "article": "Điều 5",
+        "clause": "2h",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Quy trình, thủ tục giải quyết công việc giữa cơ quan nhà nước với tổ chức, cá nhân;"
+    },
+    {
+        "id": "Điều 5.2i",
+        "article": "Điều 5",
+        "clause": "2i",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Lĩnh vực khác theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 5.3",
+        "article": "Điều 5",
+        "clause": "3",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Hình thức công khai bao gồm:"
+    },
+    {
+        "id": "Điều 5.3a",
+        "article": "Điều 5",
+        "clause": "3a",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Phát hành ấn phẩm;"
+    },
+    {
+        "id": "Điều 5.3b",
+        "article": "Điều 5",
+        "clause": "3b",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Thông báo trên phương tiện thông tin đại chúng;"
+    },
+    {
+        "id": "Điều 5.3c",
+        "article": "Điều 5",
+        "clause": "3c",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan;"
+    },
+    {
+        "id": "Điều 5.3d",
+        "article": "Điều 5",
+        "clause": "3d",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Đưa lên trang thông tin điện tử;"
+    },
+    {
+        "id": "Điều 5.3đ",
+        "article": "Điều 5",
+        "clause": "3đ",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Công bố tại cuộc họp, niêm yết tại trụ sở làm việc của cơ quan, tổ chức;"
+    },
+    {
+        "id": "Điều 5.3e",
+        "article": "Điều 5",
+        "clause": "3e",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Cung cấp thông tin theo yêu cầu của cơ quan, tổ chức, cá nhân có liên quan."
+    },
+    {
+        "id": "Điều 5.4",
+        "article": "Điều 5",
+        "clause": "4",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Ngoài các hình thức công khai bắt buộc theo quy định của pháp luật, người đứng đầu cơ quan, tổ chức có trách nhiệm lựa chọn áp dụng một hoặc một số hình thức công khai cho từng lĩnh vực hoạt động phù hợp quy định tại khoản 3 Điều này."
+    },
+    {
+        "id": "Điều 5.5",
+        "article": "Điều 5",
+        "clause": "5",
+        "title": "Công khai về thực hành tiết kiệm, chống lãng phí",
+        "text": "Chính phủ quy định chi tiết hình thức, nội dung, thời điểm công khai."
+    },
+    {
+        "id": "Điều 6.1",
+        "article": "Điều 6",
+        "clause": "1",
+        "title": "Giám sát về thực hành tiết kiệm, chống lãng phí",
+        "text": "Công dân có quyền giám sát việc thực hành tiết kiệm, chống lãng phí thông qua hình thức tố giác, khiếu nại, tố cáo hoặc thông qua Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận Tổ quốc Việt Nam; phát hiện và kịp thời phản ánh cho tổ chức, cá nhân có thẩm quyền về các hành vi gây lãng phí."
+    },
+    {
+        "id": "Điều 6.2",
+        "article": "Điều 6",
+        "clause": "2",
+        "title": "Giám sát về thực hành tiết kiệm, chống lãng phí",
+        "text": "Quốc hội, Ủy ban thường vụ Quốc hội, các cơ quan của Quốc hội, Đoàn đại biểu Quốc hội và đại biểu Quốc hội giám sát việc thực hành tiết kiệm, chống lãng phí theo quy định của Luật hoạt động giám sát của Quốc hội."
+    },
+    {
+        "id": "Điều 6.3",
+        "article": "Điều 6",
+        "clause": "3",
+        "title": "Giám sát về thực hành tiết kiệm, chống lãng phí",
+        "text": "Hội đồng nhân dân các cấp, đại biểu Hội đồng nhân dân giám sát việc thực hành tiết kiệm, chống lãng phí tại địa phương theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 6.4",
+        "article": "Điều 6",
+        "clause": "4",
+        "title": "Giám sát về thực hành tiết kiệm, chống lãng phí",
+        "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận Tổ quốc Việt Nam, Ban thanh tra nhân dân, Ban giám sát đầu tư của cộng đồng giám sát việc thực hành tiết kiệm, chống lãng phí theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 7.1",
+        "article": "Điều 7",
+        "clause": "1",
+        "title": "Trách nhiệm của người đứng đầu cơ quan, tổ chức",
+        "text": "Xây dựng, chỉ đạo thực hiện chương trình, kế hoạch thực hành tiết kiệm, chống lãng phí gắn với nhiệm vụ cải cách hành chính, xác định rõ mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong phạm vi lĩnh vực, trong cơ quan, tổ chức được giao quản lý; xây dựng các giải pháp để thực hiện nhằm đạt được mục tiêu thực hành tiết kiệm, chống lãng phí."
+    },
+    {
+        "id": "Điều 7.2",
+        "article": "Điều 7",
+        "clause": "2",
+        "title": "Trách nhiệm của người đứng đầu cơ quan, tổ chức",
+        "text": "Trong phạm vi chức năng, nhiệm vụ và quyền hạn của mình, chịu trách nhiệm về việc ban hành các văn bản cá biệt không phù hợp thực tiễn hoặc trái pháp luật gây lãng phí."
+    },
+    {
+        "id": "Điều 7.3",
+        "article": "Điều 7",
+        "clause": "3",
+        "title": "Trách nhiệm của người đứng đầu cơ quan, tổ chức",
+        "text": "Chịu trách nhiệm cá nhân về việc tổ chức thực hiện thực hành tiết kiệm, chống lãng phí; định kỳ đánh giá, rút kinh nghiệm việc thực hiện chương trình, kế hoạch và giải trình về việc để xảy ra lãng phí trong cơ quan, tổ chức mình."
+    },
+    {
+        "id": "Điều 7.4",
+        "article": "Điều 7",
+        "clause": "4",
+        "title": "Trách nhiệm của người đứng đầu cơ quan, tổ chức",
+        "text": "Tổng hợp, báo cáo tình hình và kết quả thực hành tiết kiệm, chống lãng phí của cơ quan, tổ chức."
+    },
+    {
+        "id": "Điều 7.5",
+        "article": "Điều 7",
+        "clause": "5",
+        "title": "Trách nhiệm của người đứng đầu cơ quan, tổ chức",
+        "text": "Bảo đảm việc thực hiện quyền giám sát thực hành tiết kiệm, chống lãng phí của công dân, cơ quan, tổ chức quy định tại Điều 6 của Luật này. Khi nhận được phản ánh về các hành vi lãng phí xảy ra, người đứng đầu cơ quan, tổ chức phải chỉ đạo kiểm tra, xem xét để có biện pháp ngăn chặn, xử lý kịp thời và trả lời bằng văn bản cho cơ quan, tổ chức, cá nhân đã phát hiện."
+    },
+    {
+        "id": "Điều 7.6",
+        "article": "Điều 7",
+        "clause": "6",
+        "title": "Trách nhiệm của người đứng đầu cơ quan, tổ chức",
+        "text": "Tạo điều kiện cần thiết cho hoạt động thanh tra nhân dân; tổ chức hoạt động kiểm toán nội bộ, kiểm tra, thanh tra theo thẩm quyền; xử lý hoặc phối hợp với cơ quan nhà nước có thẩm quyền xử lý kịp thời, nghiêm minh, đúng pháp luật đối với người trong cơ quan, tổ chức mình có hành vi gây lãng phí; thực hiện công khai việc xử lý hành vi gây lãng phí trong cơ quan, tổ chức."
+    },
+    {
+        "id": "Điều 8.1",
+        "article": "Điều 8",
+        "clause": "1",
+        "title": "Trách nhiệm của cán bộ, công chức, viên chức",
+        "text": "Thực hiện chương trình, kế hoạch, mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí được giao."
+    },
+    {
+        "id": "Điều 8.2",
+        "article": "Điều 8",
+        "clause": "2",
+        "title": "Trách nhiệm của cán bộ, công chức, viên chức",
+        "text": "Quản lý, sử dụng vốn nhà nước, tài sản nhà nước được giao đúng mục đích, định mức, tiêu chuẩn, chế độ; giải trình và chịu trách nhiệm cá nhân về việc để xảy ra lãng phí thuộc phạm vi quản lý, sử dụng."
+    },
+    {
+        "id": "Điều 8.3",
+        "article": "Điều 8",
+        "clause": "3",
+        "title": "Trách nhiệm của cán bộ, công chức, viên chức",
+        "text": "Tham gia hoạt động thanh tra nhân dân, tham gia giám sát, đề xuất các biện pháp, giải pháp thực hành tiết kiệm, chống lãng phí trong cơ quan, tổ chức và trong lĩnh vực công tác được phân công; kịp thời phát hiện, ngăn chặn và xử lý hành vi gây lãng phí theo thẩm quyền."
+    },
+    {
+        "id": "Điều 9.1",
+        "article": "Điều 9",
+        "clause": "1",
+        "title": "Phát hiện lãng phí và trách nhiệm xử lý thông tin phát hiện lãng phí",
+        "text": "Thông tin phát hiện lãng phí bao gồm:"
+    },
+    {
+        "id": "Điều 9.1a",
+        "article": "Điều 9",
+        "clause": "1a",
+        "title": "Phát hiện lãng phí và trách nhiệm xử lý thông tin phát hiện lãng phí",
+        "text": "Tin, bài trên các phương tiện thông tin đại chúng;"
+    },
+    {
+        "id": "Điều 9.1b",
+        "article": "Điều 9",
+        "clause": "1b",
+        "title": "Phát hiện lãng phí và trách nhiệm xử lý thông tin phát hiện lãng phí",
+        "text": "Phản ánh dưới hình thức khác của cơ quan, tổ chức, cá nhân."
+    },
+    {
+        "id": "Điều 9.2",
+        "article": "Điều 9",
+        "clause": "2",
+        "title": "Phát hiện lãng phí và trách nhiệm xử lý thông tin phát hiện lãng phí",
+        "text": "Người phát hiện lãng phí có quyền cung cấp thông tin cho người đứng đầu cơ quan, tổ chức nơi để xảy ra lãng phí, thủ trưởng cơ quan cấp trên trực tiếp, cơ quan thanh tra, kiểm tra, Kiểm toán nhà nước để xem xét giải quyết hoặc cung cấp cho các phương tiện thông tin đại chúng để đưa tin theo quy định và phải chịu trách nhiệm về tính trung thực, tính chính xác của thông tin phát hiện. Trường hợp cố ý cung cấp thông tin sai sự thật, lợi dụng thông tin gây ảnh hưởng đến hoạt động của cơ quan, tổ chức, uy tín của người khác thì bị xử lý theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 9.3",
+        "article": "Điều 9",
+        "clause": "3",
+        "title": "Phát hiện lãng phí và trách nhiệm xử lý thông tin phát hiện lãng phí",
+        "text": "Người đứng đầu cơ quan, tổ chức nơi có phát hiện để xảy ra lãng phí có trách nhiệm kiểm tra, làm rõ thông tin phát hiện lãng phí khi được cung cấp; trường hợp có lãng phí xảy ra phải ngăn chặn, khắc phục kịp thời; xử lý theo thẩm quyền hoặc trình cấp có thẩm quyền xử lý sai phạm và thông báo công khai kết quả; giải trình trước cơ quan chức năng về việc để xảy ra lãng phí."
+    },
+    {
+        "id": "Điều 9.4",
+        "article": "Điều 9",
+        "clause": "4",
+        "title": "Phát hiện lãng phí và trách nhiệm xử lý thông tin phát hiện lãng phí",
+        "text": "Cơ quan thanh tra, kiểm tra, Kiểm toán nhà nước, người đứng đầu cơ quan cấp trên trực tiếp khi nhận được thông tin về lãng phí có trách nhiệm chỉ đạo, tổ chức làm rõ theo chức năng, nhiệm vụ của mình, ngăn chặn và kịp thời xử lý theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền xử lý theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 9.5",
+        "article": "Điều 9",
+        "clause": "5",
+        "title": "Phát hiện lãng phí và trách nhiệm xử lý thông tin phát hiện lãng phí",
+        "text": "Cơ quan thông tấn, báo chí thực hiện trách nhiệm của mình trong việc phát hiện, phản ánh hành vi lãng phí."
+    },
+    {
+        "id": "Điều 9.6",
+        "article": "Điều 9",
+        "clause": "6",
+        "title": "Phát hiện lãng phí và trách nhiệm xử lý thông tin phát hiện lãng phí",
+        "text": "Nghiêm cấm mọi hành vi cản trở việc thực hiện quyền cung cấp thông tin phát hiện lãng phí; đe dọa, trả thù, trù dập, xúc phạm người cung cấp thông tin phát hiện lãng phí."
+    },
+    {
+        "id": "Điều 9.7",
+        "article": "Điều 9",
+        "clause": "7",
+        "title": "Phát hiện lãng phí và trách nhiệm xử lý thông tin phát hiện lãng phí",
+        "text": "Chính phủ quy định chi tiết việc xử lý thông tin và biện pháp bảo vệ người cung cấp thông tin phát hiện lãng phí."
+    },
+    {
+        "id": "Điều 10.1",
+        "article": "Điều 10",
+        "clause": "1",
+        "title": "Kiểm tra, thanh tra, kiểm soát chi, kiểm toán nhà nước",
+        "text": "Kiểm tra thực hành tiết kiệm, chống lãng phí là nhiệm vụ thường xuyên, bao gồm việc tự kiểm tra của cơ quan, tổ chức; kiểm tra của cơ quan, tổ chức cấp trên với cơ quan, tổ chức cấp dưới và cá nhân có liên quan."
+    },
+    {
+        "id": "Điều 10.2",
+        "article": "Điều 10",
+        "clause": "2",
+        "title": "Kiểm tra, thanh tra, kiểm soát chi, kiểm toán nhà nước",
+        "text": "Thanh tra thực hành tiết kiệm, chống lãng phí được thực hiện thông qua hoạt động thanh tra hành chính, thanh tra chuyên ngành hoặc qua việc giải quyết khiếu nại, tố cáo của cơ quan nhà nước có thẩm quyền đối với cơ quan, tổ chức, cá nhân."
+    },
+    {
+        "id": "Điều 10.3",
+        "article": "Điều 10",
+        "clause": "3",
+        "title": "Kiểm tra, thanh tra, kiểm soát chi, kiểm toán nhà nước",
+        "text": "Kho bạc nhà nước thực hiện kiểm tra, kiểm soát các khoản chi ngân sách nhà nước theo chính sách, định mức, tiêu chuẩn, chế độ do Nhà nước quy định để bảo đảm sử dụng tiết kiệm, hiệu quả, chống lãng phí."
+    },
+    {
+        "id": "Điều 10.4",
+        "article": "Điều 10",
+        "clause": "4",
+        "title": "Kiểm tra, thanh tra, kiểm soát chi, kiểm toán nhà nước",
+        "text": "Kiểm toán thực hành tiết kiệm, chống lãng phí bao gồm kiểm toán báo cáo tài chính, kiểm toán tuân thủ và kiểm toán hoạt động đối với việc quản lý, sử dụng ngân sách nhà nước, vốn nhà nước, tài sản nhà nước và tài nguyên của các cơ quan, tổ chức."
+    },
+    {
+        "id": "Điều 10.5",
+        "article": "Điều 10",
+        "clause": "5",
+        "title": "Kiểm tra, thanh tra, kiểm soát chi, kiểm toán nhà nước",
+        "text": "Cơ quan nhà nước có thẩm quyền khi thực hiện kiểm tra, thanh tra, kiểm soát chi và kiểm toán có trách nhiệm phát hiện, ngăn chặn và kịp thời xử lý theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền xử lý các vi phạm về thực hành tiết kiệm, chống lãng phí; xác định rõ nguyên nhân và kiến nghị biện pháp khắc phục. Chương 2. QUY ĐỊNH VỀ THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ TRONG MỘT SỐ LĨNH VỰC MỤC 1. THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ TRONG VIỆC BAN HÀNH, THỰC HIỆN ĐỊNH MỨC, TIÊU CHUẨN, CHẾ ĐỘ"
+    },
+    {
+        "id": "Điều 11.1",
+        "article": "Điều 11",
+        "clause": "1",
+        "title": "Hệ thống định mức, tiêu chuẩn, chế độ",
+        "text": "Định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành theo quy định của pháp luật, áp dụng chung trong cả nước hoặc trong phạm vi ngành, lĩnh vực, địa phương;"
+    },
+    {
+        "id": "Điều 11.2",
+        "article": "Điều 11",
+        "clause": "2",
+        "title": "Hệ thống định mức, tiêu chuẩn, chế độ",
+        "text": "Định mức, tiêu chuẩn, chế độ do cơ quan, tổ chức được giao quản lý, sử dụng ngân sách nhà nước, vốn nhà nước, tài sản nhà nước, lao động và thời gian lao động trong khu vực nhà nước và các nguồn tài nguyên ban hành theo thẩm quyền;"
+    },
+    {
+        "id": "Điều 11.3",
+        "article": "Điều 11",
+        "clause": "3",
+        "title": "Hệ thống định mức, tiêu chuẩn, chế độ",
+        "text": "Định mức, tiêu chuẩn, chế độ quy định tại quy chế chi tiêu nội bộ của cơ quan, tổ chức được xây dựng và ban hành đúng pháp luật."
+    },
+    {
+        "id": "Điều 12.1",
+        "article": "Điều 12",
+        "clause": "1",
+        "title": "Nguyên tắc ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành áp dụng chung trong cả nước hoặc trong ngành, lĩnh vực, địa phương phải bảo đảm các nguyên tắc sau đây:"
+    },
+    {
+        "id": "Điều 12.1a",
+        "article": "Điều 12",
+        "clause": "1a",
+        "title": "Nguyên tắc ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Có cơ sở khoa học và thực tiễn;"
+    },
+    {
+        "id": "Điều 12.1b",
+        "article": "Điều 12",
+        "clause": "1b",
+        "title": "Nguyên tắc ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Phù hợp với khả năng của ngân sách nhà nước và chức năng, nhiệm vụ được giao;"
+    },
+    {
+        "id": "Điều 12.1c",
+        "article": "Điều 12",
+        "clause": "1c",
+        "title": "Nguyên tắc ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Căn cứ vào yêu cầu phát triển kinh tế - xã hội để ban hành hoặc rà soát sửa đổi, bổ sung kịp thời;"
+    },
+    {
+        "id": "Điều 12.1d",
+        "article": "Điều 12",
+        "clause": "1d",
+        "title": "Nguyên tắc ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Định mức, tiêu chuẩn, chế độ áp dụng trong ngành, lĩnh vực, địa phương phải phù hợp với định mức, tiêu chuẩn, chế độ quy định áp dụng chung trong cả nước, trừ trường hợp pháp luật có quy định khác;"
+    },
+    {
+        "id": "Điều 12.1đ",
+        "article": "Điều 12",
+        "clause": "1đ",
+        "title": "Nguyên tắc ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Tuân theo quy trình ban hành văn bản quy phạm pháp luật và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 12.2",
+        "article": "Điều 12",
+        "clause": "2",
+        "title": "Nguyên tắc ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Định mức, tiêu chuẩn, chế độ trong quy chế chi tiêu nội bộ do người đứng đầu cơ quan, tổ chức ban hành phải bảo đảm các nguyên tắc sau đây:"
+    },
+    {
+        "id": "Điều 12.2a",
+        "article": "Điều 12",
+        "clause": "2a",
+        "title": "Nguyên tắc ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Phù hợp với định mức, tiêu chuẩn, chế độ áp dụng chung trong cả nước, trong ngành, lĩnh vực, địa phương;"
+    },
+    {
+        "id": "Điều 12.2b",
+        "article": "Điều 12",
+        "clause": "2b",
+        "title": "Nguyên tắc ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Phù hợp với khả năng tài chính của cơ quan, tổ chức và công việc, nhiệm vụ được giao;"
+    },
+    {
+        "id": "Điều 12.2c",
+        "article": "Điều 12",
+        "clause": "2c",
+        "title": "Nguyên tắc ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Quy chế chi tiêu nội bộ phải được công khai, thảo luận rộng rãi trong cơ quan, tổ chức; có sự tham gia của tổ chức công đoàn cơ sở."
+    },
+    {
+        "id": "Điều 13.1",
+        "article": "Điều 13",
+        "clause": "1",
+        "title": "Trách nhiệm ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ và Thủ trưởng cơ quan khác ở trung ương có trách nhiệm:"
+    },
+    {
+        "id": "Điều 13.1a",
+        "article": "Điều 13",
+        "clause": "1a",
+        "title": "Trách nhiệm ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Tổ chức xây dựng, rà soát, sửa đổi, bổ sung định mức, tiêu chuẩn, chế độ trình cấp có thẩm quyền ban hành hoặc ban hành theo thẩm quyền;"
+    },
+    {
+        "id": "Điều 13.1b",
+        "article": "Điều 13",
+        "clause": "1b",
+        "title": "Trách nhiệm ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Thực hiện công khai định mức, tiêu chuẩn, chế độ áp dụng chung trong cả nước hoặc áp dụng trong phạm vi ngành, lĩnh vực được giao quản lý;"
+    },
+    {
+        "id": "Điều 13.1c",
+        "article": "Điều 13",
+        "clause": "1c",
+        "title": "Trách nhiệm ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Tổ chức kiểm tra việc xây dựng định mức, tiêu chuẩn, chế độ thuộc nội dung quy chế chỉ tiêu nội bộ do các cơ quan, tổ chức thuộc phạm vi quản lý ban hành."
+    },
+    {
+        "id": "Điều 13.2",
+        "article": "Điều 13",
+        "clause": "2",
+        "title": "Trách nhiệm ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương có trách nhiệm:"
+    },
+    {
+        "id": "Điều 13.2a",
+        "article": "Điều 13",
+        "clause": "2a",
+        "title": "Trách nhiệm ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Tổ chức xây dựng, rà soát, sửa đổi, bổ sung định mức, tiêu chuẩn, chế độ trình cấp có thẩm quyền ban hành hoặc ban hành theo thẩm quyền;"
+    },
+    {
+        "id": "Điều 13.2b",
+        "article": "Điều 13",
+        "clause": "2b",
+        "title": "Trách nhiệm ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Thực hiện công khai định mức, tiêu chuẩn, chế độ áp dụng tại địa phương;"
+    },
+    {
+        "id": "Điều 13.2c",
+        "article": "Điều 13",
+        "clause": "2c",
+        "title": "Trách nhiệm ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Tổ chức kiểm tra việc xây dựng định mức, tiêu chuẩn, chế độ thuộc nội dung quy chế chi tiêu nội bộ do các cơ quan, tổ chức thuộc phạm vi quản lý ban hành."
+    },
+    {
+        "id": "Điều 13.3",
+        "article": "Điều 13",
+        "clause": "3",
+        "title": "Trách nhiệm ban hành định mức, tiêu chuẩn, chế độ",
+        "text": "Người đứng đầu cơ quan, tổ chức sử dụng ngân sách nhà nước, vốn nhà nước, tài sản nhà nước, lao động, thời gian lao động trong lĩnh vực nhà nước; người đứng đầu cơ quan, tổ chức quản lý, khai thác và sử dụng tài nguyên có trách nhiệm xây dựng và công khai định mức, tiêu chuẩn, chế độ, quy chế chi tiêu nội bộ áp dụng trong cơ quan, tổ chức."
+    },
+    {
+        "id": "Điều 14.1",
+        "article": "Điều 14",
+        "clause": "1",
+        "title": "Trách nhiệm thực hiện định mức, tiêu chuẩn, chế độ",
+        "text": "Cơ quan, tổ chức, hộ gia đình, cá nhân được giao quản lý, sử dụng ngân sách nhà nước, vốn nhà nước, tài sản nhà nước, lao động, thời gian lao động trong khu vực nhà nước, quản lý, khai thác và sử dụng tài nguyên có trách nhiệm thực hiện đúng định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành và quy chế chi tiêu nội bộ của cơ quan, tổ chức. Khuyến khích tổ chức, hộ gia đình, cá nhân khác áp dụng định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành và chủ động xây dựng quy chế chi tiêu nội bộ để thực hành tiết kiệm, chống lãng phí trong quản lý, sử dụng vốn, tài sản, vật tư, nguyên liệu, nhiên liệu, vật liệu và lao động, thời gian lao động trong hoạt động sản xuất, kinh doanh, tiêu dùng."
+    },
+    {
+        "id": "Điều 14.2",
+        "article": "Điều 14",
+        "clause": "2",
+        "title": "Trách nhiệm thực hiện định mức, tiêu chuẩn, chế độ",
+        "text": "Trong quá trình thực hiện, nếu cần phải sửa đổi, bổ sung định mức, tiêu chuẩn, chế độ, cơ quan, tổ chức thực hiện định mức, tiêu chuẩn, chế độ phải kịp thời sửa đổi, bổ sung theo thẩm quyền hoặc báo cáo cơ quan có thẩm quyền để nghiên cứu, xem xét sửa đổi, bổ sung cho phù hợp."
+    },
+    {
+        "id": "Điều 15.1",
+        "article": "Điều 15",
+        "clause": "1",
+        "title": "Trách nhiệm kiểm tra việc thực hiện định mức, tiêu chuẩn, chế độ",
+        "text": "Cơ quan, tổ chức có thẩm quyền xây dựng, ban hành định mức, tiêu chuẩn, chế độ có trách nhiệm tổ chức kiểm tra việc thực hiện định mức, tiêu chuẩn, chế độ tại các cơ quan, tổ chức thuộc phạm vi áp dụng định mức, tiêu chuẩn, chế độ."
+    },
+    {
+        "id": "Điều 15.2",
+        "article": "Điều 15",
+        "clause": "2",
+        "title": "Trách nhiệm kiểm tra việc thực hiện định mức, tiêu chuẩn, chế độ",
+        "text": "Cơ quan, tổ chức thực hiện định mức, tiêu chuẩn, chế độ có trách nhiệm tự kiểm tra việc thực hiện định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành và quy chế chi tiêu nội bộ tại cơ quan, tổ chức."
+    },
+    {
+        "id": "Điều 15.3",
+        "article": "Điều 15",
+        "clause": "3",
+        "title": "Trách nhiệm kiểm tra việc thực hiện định mức, tiêu chuẩn, chế độ",
+        "text": "Trong quá trình kiểm tra, nếu phát hiện có hành vi vi phạm quy định về thực hiện định mức, tiêu chuẩn, chế độ, quy chế chi tiêu nội bộ để xảy ra lãng phí phải kịp thời xử lý theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền xử lý theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 16.1",
+        "article": "Điều 16",
+        "clause": "1",
+        "title": "Hành vi vi phạm trong ban hành, thực hiện và kiểm tra định mức, tiêu chuẩn, chế độ",
+        "text": "Các hành vi vi phạm trong ban hành, thực hiện, kiểm tra định mức, tiêu chuẩn chế độ bao gồm:"
+    },
+    {
+        "id": "Điều 16.1a",
+        "article": "Điều 16",
+        "clause": "1a",
+        "title": "Hành vi vi phạm trong ban hành, thực hiện và kiểm tra định mức, tiêu chuẩn, chế độ",
+        "text": "Ban hành định mức, tiêu chuẩn, chế độ trái với nguyên tắc quy định tại Điều 12 của Luật này;"
+    },
+    {
+        "id": "Điều 16.1b",
+        "article": "Điều 16",
+        "clause": "1b",
+        "title": "Hành vi vi phạm trong ban hành, thực hiện và kiểm tra định mức, tiêu chuẩn, chế độ",
+        "text": "Thực hiện vượt định mức, tiêu chuẩn, chế độ do cơ quan có thẩm quyền ban hành theo quy định của pháp luật hoặc không đạt mục tiêu đã định;"
+    },
+    {
+        "id": "Điều 16.1c",
+        "article": "Điều 16",
+        "clause": "1c",
+        "title": "Hành vi vi phạm trong ban hành, thực hiện và kiểm tra định mức, tiêu chuẩn, chế độ",
+        "text": "Không tổ chức kiểm tra thực hiện định mức, tiêu chuẩn, chế độ; không xử lý hoặc báo cáo cơ quan nhà nước có thẩm quyền xử lý kịp thời đối với trường hợp thực hiện không đúng định mức, tiêu chuẩn, chế độ."
+    },
+    {
+        "id": "Điều 16.2",
+        "article": "Điều 16",
+        "clause": "2",
+        "title": "Hành vi vi phạm trong ban hành, thực hiện và kiểm tra định mức, tiêu chuẩn, chế độ",
+        "text": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Thủ trưởng cơ quan khác ở trung ương, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, người đứng đầu cơ quan, tổ chức khác theo chức năng, nhiệm vụ của mình không thực hiện hoặc thực hiện không đúng quy định tại các điều 12, 13, 14 và 15 của Luật này hoặc có hành vi vi phạm quy định tại khoản 1 Điều này thì bị xử lý kỷ luật theo quy định của pháp luật. MỤC 2. THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ TRONG LẬP, THẨM ĐỊNH, PHÊ DUYỆT DỰ TOÁN, QUYẾT TOÁN, QUẢN LÝ, SỬ DỤNG KINH PHÍ NGÂN SÁCH NHÀ NƯỚC"
+    },
+    {
+        "id": "Điều 17.1",
+        "article": "Điều 17",
+        "clause": "1",
+        "title": "Lập, thẩm định, phê duyệt, phân bổ dự toán, quyết toán ngân sách nhà nước",
+        "text": "Việc lập, thẩm định, phê duyệt, phân bổ dự toán ngân sách nhà nước phải đúng thẩm quyền, trình tự, nội dung, đối tượng và thời gian theo quy định của pháp luật; đúng định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành."
+    },
+    {
+        "id": "Điều 17.2",
+        "article": "Điều 17",
+        "clause": "2",
+        "title": "Lập, thẩm định, phê duyệt, phân bổ dự toán, quyết toán ngân sách nhà nước",
+        "text": "Việc lập, thẩm định, phê duyệt quyết toán ngân sách nhà nước phải bảo đảm tính chính xác, trung thực; phải căn cứ vào định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành và theo đúng quy định của pháp luật về ngân sách nhà nước."
+    },
+    {
+        "id": "Điều 18.1",
+        "article": "Điều 18",
+        "clause": "1",
+        "title": "Quản lý kinh phí ngân sách nhà nước",
+        "text": "Quản lý kinh phí ngân sách nhà nước phải căn cứ vào dự toán được cấp có thẩm quyền phê duyệt, gắn với kết quả, tiến độ thực hiện nhiệm vụ, phù hợp với yêu cầu cải cách hành chính."
+    },
+    {
+        "id": "Điều 18.2",
+        "article": "Điều 18",
+        "clause": "2",
+        "title": "Quản lý kinh phí ngân sách nhà nước",
+        "text": "Cơ quan, tổ chức quản lý kinh phí ngân sách nhà nước có trách nhiệm:"
+    },
+    {
+        "id": "Điều 18.2a",
+        "article": "Điều 18",
+        "clause": "2a",
+        "title": "Quản lý kinh phí ngân sách nhà nước",
+        "text": "Xây dựng Chương trình thực hành tiết kiệm, chống lãng phí, xác định cụ thể mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí để giao cho cơ quan, tổ chức sử dụng thực hiện, bảo đảm tiết kiệm, hiệu quả;"
+    },
+    {
+        "id": "Điều 18.2b",
+        "article": "Điều 18",
+        "clause": "2b",
+        "title": "Quản lý kinh phí ngân sách nhà nước",
+        "text": "Trong phạm vi thẩm quyền quy định chế độ, chính sách đồng bộ để bảo đảm thực hiện tiết kiệm, chống lãng phí;"
+    },
+    {
+        "id": "Điều 18.2c",
+        "article": "Điều 18",
+        "clause": "2c",
+        "title": "Quản lý kinh phí ngân sách nhà nước",
+        "text": "Thực hiện kiểm tra, thanh tra, kiểm toán việc sử dụng kinh phí ngân sách nhà nước theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 18.3",
+        "article": "Điều 18",
+        "clause": "3",
+        "title": "Quản lý kinh phí ngân sách nhà nước",
+        "text": "Người đứng đầu cơ quan, tổ chức có trách nhiệm tổ chức thực hiện quy định tại khoản 1 và khoản 2 Điều này; thường xuyên đánh giá kết quả thực hiện mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí được giao; xử lý các sai phạm, lãng phí qua kết quả kiểm toán nội bộ và các trường hợp vi phạm theo kết luận của Kiểm toán nhà nước, cơ quan thanh tra, kiểm tra."
+    },
+    {
+        "id": "Điều 19.1",
+        "article": "Điều 19",
+        "clause": "1",
+        "title": "Sử dụng kinh phí ngân sách nhà nước",
+        "text": "Sử dụng kinh phí ngân sách nhà nước phải bảo đảm đúng mục đích, đối tượng, định mức, tiêu chuẩn, chế độ trong phạm vi dự toán được giao, gắn với việc hoàn thành nhiệm vụ của cơ quan, tổ chức."
+    },
+    {
+        "id": "Điều 19.2",
+        "article": "Điều 19",
+        "clause": "2",
+        "title": "Sử dụng kinh phí ngân sách nhà nước",
+        "text": "Cơ quan, tổ chức, cá nhân sử dụng kinh phí ngân sách nhà nước có trách nhiệm xây dựng kế hoạch, biện pháp và tổ chức thực hiện nhằm đạt được mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí được giao, bảo đảm hoàn thành nhiệm vụ."
+    },
+    {
+        "id": "Điều 19.3",
+        "article": "Điều 19",
+        "clause": "3",
+        "title": "Sử dụng kinh phí ngân sách nhà nước",
+        "text": "Người đứng đầu cơ quan, tổ chức thường xuyên đánh giá kết quả thực hiện mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí được giao, bảo đảm việc sử dụng kinh phí ngân sách nhà nước đúng mục đích, đối tượng, định mức, tiêu chuẩn, chế độ."
+    },
+    {
+        "id": "Điều 20.1",
+        "article": "Điều 20",
+        "clause": "1",
+        "title": "Quản lý, sử dụng kinh phí chương trình mục tiêu quốc gia, chương trình quốc gia",
+        "text": "Kinh phí chương trình mục tiêu quốc gia, chương trình quốc gia phải được sử dụng đúng mục đích, nội dung và tiến độ đã được phê duyệt; đúng định mức, tiêu chuẩn, chế độ được ban hành và quy định của pháp luật."
+    },
+    {
+        "id": "Điều 20.2",
+        "article": "Điều 20",
+        "clause": "2",
+        "title": "Quản lý, sử dụng kinh phí chương trình mục tiêu quốc gia, chương trình quốc gia",
+        "text": "Cơ quan, tổ chức, cá nhân sử dụng kinh phí chương trình mục tiêu quốc gia, chương trình quốc gia có trách nhiệm:"
+    },
+    {
+        "id": "Điều 20.2a",
+        "article": "Điều 20",
+        "clause": "2a",
+        "title": "Quản lý, sử dụng kinh phí chương trình mục tiêu quốc gia, chương trình quốc gia",
+        "text": "Xác định mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong quản lý, sử dụng kinh phí chương trình mục tiêu quốc gia, chương trình quốc gia;"
+    },
+    {
+        "id": "Điều 20.2b",
+        "article": "Điều 20",
+        "clause": "2b",
+        "title": "Quản lý, sử dụng kinh phí chương trình mục tiêu quốc gia, chương trình quốc gia",
+        "text": "Xây dựng kế hoạch, biện pháp và tổ chức thực hiện nhằm đạt được mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí;"
+    },
+    {
+        "id": "Điều 20.2c",
+        "article": "Điều 20",
+        "clause": "2c",
+        "title": "Quản lý, sử dụng kinh phí chương trình mục tiêu quốc gia, chương trình quốc gia",
+        "text": "Kiểm tra, kiểm toán nội bộ, đánh giá tình hình thực hiện chương trình và mục tiêu, chỉ tiêu tiết kiệm, yêu cầu chống lãng phí hàng năm; kịp thời phát hiện các trường hợp lãng phí để xử lý theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 20.3",
+        "article": "Điều 20",
+        "clause": "3",
+        "title": "Quản lý, sử dụng kinh phí chương trình mục tiêu quốc gia, chương trình quốc gia",
+        "text": "Kinh phí chương trình mục tiêu quốc gia, chương trình quốc gia chỉ được quyết toán sau khi đã được nghiệm thu kết quả thực hiện; đối với nội dung không được nghiệm thu thì người có trách nhiệm quản lý, chỉ đạo thực hiện chương trình phải làm rõ nguyên nhân và xác định trách nhiệm cụ thể để xử lý theo thẩm quyền hoặc chuyển cơ quan có thẩm quyền xử lý theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 21.1",
+        "article": "Điều 21",
+        "clause": "1",
+        "title": "Quản lý, sử dụng kinh phí thực hiện nhiệm vụ khoa học và công nghệ",
+        "text": "Việc quản lý, sử dụng kinh phí thực hiện nhiệm vụ khoa học và công nghệ phải đúng mục đích, không trùng lặp với các nguồn kinh phí khác và bảo đảm tiết kiệm, hiệu quả."
+    },
+    {
+        "id": "Điều 21.2",
+        "article": "Điều 21",
+        "clause": "2",
+        "title": "Quản lý, sử dụng kinh phí thực hiện nhiệm vụ khoa học và công nghệ",
+        "text": "Thực hiện cơ chế khoán kinh phí thực hiện nhiệm vụ khoa học và công nghệ trên cơ sở định mức nghiên cứu khoa học, công nghệ và kết quả đầu ra. Chỉ quyết toán kinh phí đã cấp khi kết quả thực hiện nhiệm vụ khoa học, công nghệ đã được nghiệm thu. Đối với nhiệm vụ khoa học, công nghệ không được nghiệm thu thì phải hoàn trả một phần hoặc toàn bộ kinh phí đã cấp cho những nội dung, hạng mục không hoàn thành theo quy định của pháp luật về khoa học và công nghệ và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 22.1",
+        "article": "Điều 22",
+        "clause": "1",
+        "title": "Quản lý, sử dụng kinh phí thực hiện nhiệm vụ giáo dục và đào tạo",
+        "text": "Việc lập quy hoạch, kế hoạch đào tạo phải trên cơ sở nhu cầu phát triển kinh tế - xã hội, đánh giá các điều kiện về cơ sở vật chất và số lượng, chất lượng đội ngũ giáo viên, giảng viên."
+    },
+    {
+        "id": "Điều 22.2",
+        "article": "Điều 22",
+        "clause": "2",
+        "title": "Quản lý, sử dụng kinh phí thực hiện nhiệm vụ giáo dục và đào tạo",
+        "text": "Việc xây dựng chương trình, nội dung giáo dục phải bảo đảm tính cơ bản, toàn diện, tính thực tiễn, hợp lý, tính ổn định, thống nhất và tính kế thừa."
+    },
+    {
+        "id": "Điều 22.3",
+        "article": "Điều 22",
+        "clause": "3",
+        "title": "Quản lý, sử dụng kinh phí thực hiện nhiệm vụ giáo dục và đào tạo",
+        "text": "Kinh phí xây dựng chương trình, nội dung giáo dục phải được sử dụng hiệu quả, đúng mục đích, đúng quy định của pháp luật, phù hợp với quy hoạch, kế hoạch đào tạo."
+    },
+    {
+        "id": "Điều 22.4",
+        "article": "Điều 22",
+        "clause": "4",
+        "title": "Quản lý, sử dụng kinh phí thực hiện nhiệm vụ giáo dục và đào tạo",
+        "text": "Việc cấp giấy phép đăng ký mở trường học phải căn cứ vào quy hoạch, kế hoạch đào tạo quy định tại khoản 1 Điều này và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 23.1",
+        "article": "Điều 23",
+        "clause": "1",
+        "title": "Quản lý, sử dụng kinh phí thực hiện nhiệm vụ y tế",
+        "text": "Việc quản lý, sử dụng kinh phí thực hiện nhiệm vụ y tế phải đúng mục đích, đạt mục tiêu, đúng định mức, tiêu chuẩn, chế độ theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 23.2",
+        "article": "Điều 23",
+        "clause": "2",
+        "title": "Quản lý, sử dụng kinh phí thực hiện nhiệm vụ y tế",
+        "text": "Việc xây dựng chiến lược, quy hoạch, kế hoạch phát triển dài hạn, 05 năm, hàng năm và các dự án, công trình về y tế phải trên cơ sở nghiên cứu, khảo sát, đánh giá thực trạng cơ sở vật chất, trang thiết bị, nguồn nhân lực và hiệu quả kinh tế - xã hội, bảo đảm tính đồng bộ trong hệ thống cơ sở y tế trong cả nước."
+    },
+    {
+        "id": "Điều 23.3",
+        "article": "Điều 23",
+        "clause": "3",
+        "title": "Quản lý, sử dụng kinh phí thực hiện nhiệm vụ y tế",
+        "text": "Việc đầu tư xây dựng, mua sắm trang thiết bị, thuốc phòng bệnh, chữa bệnh phục vụ hoạt động của các cơ sở y tế do ngân sách nhà nước cấp kinh phí phải bảo đảm đúng quy hoạch, kế hoạch, đúng mục đích, đối tượng và quy trình về xây dựng, mua sắm, phù hợp với nhu cầu và điều kiện thực tế về cơ sở vật chất và nguồn nhân lực của cơ sở y tế."
+    },
+    {
+        "id": "Điều 23.4",
+        "article": "Điều 23",
+        "clause": "4",
+        "title": "Quản lý, sử dụng kinh phí thực hiện nhiệm vụ y tế",
+        "text": "Việc cấp giấy phép đăng ký mở cơ sở khám bệnh, chữa bệnh phải căn cứ vào chiến lược, quy hoạch, kế hoạch phát triển quy định tại khoản 2 Điều này và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 24.1",
+        "article": "Điều 24",
+        "clause": "1",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Việc thành lập các quỹ có nguồn từ ngân sách nhà nước phải đáp ứng đủ các yêu cầu, điều kiện sau đây:"
+    },
+    {
+        "id": "Điều 24.1a",
+        "article": "Điều 24",
+        "clause": "1a",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Có đề án thành lập quỹ, trong đó nêu rõ cơ sở pháp lý, sự cần thiết, ý nghĩa kinh tế - xã hội và tính không thay thế được bằng các hình thức cấp phát ngân sách;"
+    },
+    {
+        "id": "Điều 24.1b",
+        "article": "Điều 24",
+        "clause": "1b",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Phù hợp với khả năng của ngân sách nhà nước;"
+    },
+    {
+        "id": "Điều 24.1c",
+        "article": "Điều 24",
+        "clause": "1c",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Không trùng lặp về mục đích, tôn chỉ của quỹ;"
+    },
+    {
+        "id": "Điều 24.1d",
+        "article": "Điều 24",
+        "clause": "1d",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Bảo đảm thành lập theo đúng trình tự, thủ tục, thẩm quyền."
+    },
+    {
+        "id": "Điều 24.2",
+        "article": "Điều 24",
+        "clause": "2",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Việc quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước phải bảo đảm các nguyên tắc sau đây:"
+    },
+    {
+        "id": "Điều 24.2a",
+        "article": "Điều 24",
+        "clause": "2a",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Tuân thủ các quy định của pháp luật về ngân sách nhà nước;"
+    },
+    {
+        "id": "Điều 24.2b",
+        "article": "Điều 24",
+        "clause": "2b",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Thực hiện đúng quy chế hoạt động và cơ chế tài chính của quỹ;"
+    },
+    {
+        "id": "Điều 24.2c",
+        "article": "Điều 24",
+        "clause": "2c",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Bảo đảm đúng mục đích, tôn chỉ của quỹ;"
+    },
+    {
+        "id": "Điều 24.2d",
+        "article": "Điều 24",
+        "clause": "2d",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Thực hiện đầy đủ các quy định về thông tin báo cáo;"
+    },
+    {
+        "id": "Điều 24.2đ",
+        "article": "Điều 24",
+        "clause": "2đ",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Công khai theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 24.3",
+        "article": "Điều 24",
+        "clause": "3",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Quỹ có nguồn từ ngân sách nhà nước phải công khai các nội dung sau đây:"
+    },
+    {
+        "id": "Điều 24.3a",
+        "article": "Điều 24",
+        "clause": "3a",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Quy chế hoạt động và cơ chế tài chính của quỹ;"
+    },
+    {
+        "id": "Điều 24.3b",
+        "article": "Điều 24",
+        "clause": "3b",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Kế hoạch tài chính hàng năm, trong đó chi tiết các khoản thu, chi có quan hệ với ngân sách nhà nước theo quy định của cấp có thẩm quyền;"
+    },
+    {
+        "id": "Điều 24.3c",
+        "article": "Điều 24",
+        "clause": "3c",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Kết quả hoạt động của quỹ;"
+    },
+    {
+        "id": "Điều 24.3d",
+        "article": "Điều 24",
+        "clause": "3d",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Quyết toán tài chính năm được cấp có thẩm quyền phê duyệt."
+    },
+    {
+        "id": "Điều 24.4",
+        "article": "Điều 24",
+        "clause": "4",
+        "title": "Thành lập, quản lý, sử dụng quỹ có nguồn từ ngân sách nhà nước",
+        "text": "Quỹ có nguồn gốc từ ngân sách nhà nước và các quỹ thành lập theo quy định của pháp luật nếu hoạt động không đúng tôn chỉ, mục đích hoặc đã hoàn thành mục tiêu, nhiệm vụ hoặc không hiệu quả thì người có thẩm quyền thành lập quỹ có trách nhiệm giải thể hoặc trình cấp có thẩm quyền giải thể theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 25.1",
+        "article": "Điều 25",
+        "clause": "1",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong một số trường hợp sử dụng ngân sách nhà nước",
+        "text": "Một số trường hợp sử dụng kinh phí ngân sách nhà nước quy định tại Điều này bao gồm:"
+    },
+    {
+        "id": "Điều 25.1a",
+        "article": "Điều 25",
+        "clause": "1a",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong một số trường hợp sử dụng ngân sách nhà nước",
+        "text": "Tổ chức hội nghị, hội thảo, tọa đàm;"
+    },
+    {
+        "id": "Điều 25.1b",
+        "article": "Điều 25",
+        "clause": "1b",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong một số trường hợp sử dụng ngân sách nhà nước",
+        "text": "Cử cán bộ, công chức, viên chức đi công tác, khảo sát trong và ngoài nước;"
+    },
+    {
+        "id": "Điều 25.1c",
+        "article": "Điều 25",
+        "clause": "1c",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong một số trường hợp sử dụng ngân sách nhà nước",
+        "text": "Đào tạo, bồi dưỡng cán bộ, công chức, viên chức;"
+    },
+    {
+        "id": "Điều 25.1d",
+        "article": "Điều 25",
+        "clause": "1d",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong một số trường hợp sử dụng ngân sách nhà nước",
+        "text": "Sử dụng điện, nước;"
+    },
+    {
+        "id": "Điều 25.1đ",
+        "article": "Điều 25",
+        "clause": "1đ",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong một số trường hợp sử dụng ngân sách nhà nước",
+        "text": "Sử dụng văn phòng phẩm, sách báo, tạp chí;"
+    },
+    {
+        "id": "Điều 25.1e",
+        "article": "Điều 25",
+        "clause": "1e",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong một số trường hợp sử dụng ngân sách nhà nước",
+        "text": "Tiếp khách, khánh tiết; tổ chức lễ hội, lễ kỷ niệm."
+    },
+    {
+        "id": "Điều 25.2",
+        "article": "Điều 25",
+        "clause": "2",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong một số trường hợp sử dụng ngân sách nhà nước",
+        "text": "Đối với các trường hợp quy định tại khoản 1 Điều này, người đứng đầu cơ quan, tổ chức có thẩm quyền có trách nhiệm:"
+    },
+    {
+        "id": "Điều 25.2a",
+        "article": "Điều 25",
+        "clause": "2a",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong một số trường hợp sử dụng ngân sách nhà nước",
+        "text": "Ban hành quy chế quản lý, giao mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí đến từng bộ phận, cá nhân để thực hiện;"
+    },
+    {
+        "id": "Điều 25.2b",
+        "article": "Điều 25",
+        "clause": "2b",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong một số trường hợp sử dụng ngân sách nhà nước",
+        "text": "Quản lý, sử dụng kinh phí ngân sách nhà nước theo đúng định mức, tiêu chuẩn, chế độ và dự toán được duyệt, bảo đảm hoàn thành nhiệm vụ được giao;"
+    },
+    {
+        "id": "Điều 25.2c",
+        "article": "Điều 25",
+        "clause": "2c",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong một số trường hợp sử dụng ngân sách nhà nước",
+        "text": "Tùy theo tính chất chỉ tiêu, thực hiện khoán đến người sử dụng các khoản kinh phí hoạt động nếu đủ điều kiện theo quy định của pháp luật để bảo đảm hiệu quả và phù hợp với yêu cầu công việc;"
+    },
+    {
+        "id": "Điều 25.2d",
+        "article": "Điều 25",
+        "clause": "2d",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong một số trường hợp sử dụng ngân sách nhà nước",
+        "text": "Thực hiện kiểm tra, kiểm toán nội bộ hàng năm để kịp thời phát hiện, xử lý các hành vi vi phạm."
+    },
+    {
+        "id": "Điều 26.1",
+        "article": "Điều 26",
+        "clause": "1",
+        "title": "Giao tự chủ, tự chịu trách nhiệm về tài chính cho các cơ quan, tổ chức",
+        "text": "Giao tự chủ, tự chịu trách nhiệm về biên chế và tài chính cho các cơ quan, tổ chức hoạt động bằng kinh phí ngân sách nhà nước khi có đủ điều kiện theo quy định của pháp luật; khuyến khích cơ quan, tổ chức thực hiện giao khoán một số khoản kinh phí đến người quản lý, sử dụng trực tiếp."
+    },
+    {
+        "id": "Điều 26.2",
+        "article": "Điều 26",
+        "clause": "2",
+        "title": "Giao tự chủ, tự chịu trách nhiệm về tài chính cho các cơ quan, tổ chức",
+        "text": "Việc giao tự chủ, tự chịu trách nhiệm về tài chính phải căn cứ vào chức năng, nhiệm vụ và trên cơ sở đánh giá tình hình sử dụng kinh phí ngân sách thực tế của cơ quan, tổ chức, bảo đảm thực hành tiết kiệm, chống lãng phí. Việc xác định giá trị tài sản nhà nước để giao cho đơn vị sự nghiệp công lập tự chủ tài chính có đủ điều kiện theo cơ chế giao vốn cho doanh nghiệp phải thực hiện đúng quy định của pháp luật về quản lý, sử dụng tài sản nhà nước."
+    },
+    {
+        "id": "Điều 26.3",
+        "article": "Điều 26",
+        "clause": "3",
+        "title": "Giao tự chủ, tự chịu trách nhiệm về tài chính cho các cơ quan, tổ chức",
+        "text": "Cơ quan, tổ chức được giao tự chủ, tự chịu trách nhiệm về tài chính phải thực hiện đúng quy định của pháp luật, bảo đảm thực hiện tốt chức năng, nhiệm vụ được giao và mục tiêu khi được giao khoán kinh phí hoạt động, được giao tự chủ tài chính."
+    },
+    {
+        "id": "Điều 27.1",
+        "article": "Điều 27",
+        "clause": "1",
+        "title": "Hành vi gây lãng phí trong lập, thẩm định, phê duyệt, phân bổ, giao dự toán, quyết toán, quản lý, sử dụng kinh phí ngân sách nhà nước",
+        "text": "Lập, thẩm định, phê duyệt, phân bổ và giao dự toán không đúng thẩm quyền, trình tự, nội dung và thời gian, không đúng đối tượng, vượt định mức, tiêu chuẩn, chế độ."
+    },
+    {
+        "id": "Điều 27.2",
+        "article": "Điều 27",
+        "clause": "2",
+        "title": "Hành vi gây lãng phí trong lập, thẩm định, phê duyệt, phân bổ, giao dự toán, quyết toán, quản lý, sử dụng kinh phí ngân sách nhà nước",
+        "text": "Sử dụng kinh phí ngân sách nhà nước không đúng mục đích, đối tượng, dự toán được giao; vượt định mức, tiêu chuẩn, chế độ; không xây dựng kế hoạch, biện pháp và tổ chức thực hiện nhằm đạt được mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong cơ quan, tổ chức."
+    },
+    {
+        "id": "Điều 27.3",
+        "article": "Điều 27",
+        "clause": "3",
+        "title": "Hành vi gây lãng phí trong lập, thẩm định, phê duyệt, phân bổ, giao dự toán, quyết toán, quản lý, sử dụng kinh phí ngân sách nhà nước",
+        "text": "Quyết toán chi ngân sách nhà nước không đúng thủ tục, sai nội dung, đối tượng, vượt định mức, tiêu chuẩn, chế độ; duyệt quyết toán chậm, trì hoãn quyết toán sai quy định của pháp luật."
+    },
+    {
+        "id": "Điều 27.4",
+        "article": "Điều 27",
+        "clause": "4",
+        "title": "Hành vi gây lãng phí trong lập, thẩm định, phê duyệt, phân bổ, giao dự toán, quyết toán, quản lý, sử dụng kinh phí ngân sách nhà nước",
+        "text": "Quản lý, sử dụng quỹ có nguồn gốc từ ngân sách nhà nước và các quỹ thành lập theo quy định của pháp luật không đúng mục đích, tôn chỉ của quỹ; không đúng quy chế hoạt động và cơ chế tài chính của quỹ."
+    },
+    {
+        "id": "Điều 27.5",
+        "article": "Điều 27",
+        "clause": "5",
+        "title": "Hành vi gây lãng phí trong lập, thẩm định, phê duyệt, phân bổ, giao dự toán, quyết toán, quản lý, sử dụng kinh phí ngân sách nhà nước",
+        "text": "Lập, phê duyệt quy hoạch, kế hoạch đào tạo không căn cứ vào nhu cầu phát triển kinh tế - xã hội và đánh giá các điều kiện về cơ sở vật chất, thiết bị và số lượng, chất lượng đội ngũ giáo viên, giảng viên."
+    },
+    {
+        "id": "Điều 27.6",
+        "article": "Điều 27",
+        "clause": "6",
+        "title": "Hành vi gây lãng phí trong lập, thẩm định, phê duyệt, phân bổ, giao dự toán, quyết toán, quản lý, sử dụng kinh phí ngân sách nhà nước",
+        "text": "Xây dựng chương trình, nội dung giáo dục không bảo đảm tính cơ bản, toàn diện, tính thực tiễn, hợp lý, tính ổn định, thống nhất và tính kế thừa."
+    },
+    {
+        "id": "Điều 27.7",
+        "article": "Điều 27",
+        "clause": "7",
+        "title": "Hành vi gây lãng phí trong lập, thẩm định, phê duyệt, phân bổ, giao dự toán, quyết toán, quản lý, sử dụng kinh phí ngân sách nhà nước",
+        "text": "Sử dụng kinh phí xây dựng chương trình, nội dung giáo dục không đúng mục đích, không phù hợp với quy hoạch, kế hoạch đào tạo, khả năng, năng lực của các cơ sở giáo dục."
+    },
+    {
+        "id": "Điều 27.8",
+        "article": "Điều 27",
+        "clause": "8",
+        "title": "Hành vi gây lãng phí trong lập, thẩm định, phê duyệt, phân bổ, giao dự toán, quyết toán, quản lý, sử dụng kinh phí ngân sách nhà nước",
+        "text": "Xây dựng, phê duyệt chiến lược, quy hoạch, kế hoạch, các dự án, công trình về y tế không bảo đảm tính đồng bộ dẫn đến thiếu đội ngũ y, bác sĩ, sử dụng cơ sở khám bệnh, chữa bệnh đạt hiệu suất thấp."
+    },
+    {
+        "id": "Điều 27.9",
+        "article": "Điều 27",
+        "clause": "9",
+        "title": "Hành vi gây lãng phí trong lập, thẩm định, phê duyệt, phân bổ, giao dự toán, quyết toán, quản lý, sử dụng kinh phí ngân sách nhà nước",
+        "text": "Mua sắm trang bị phục vụ hoạt động của cơ sở khám bệnh, chữa bệnh do ngân sách nhà nước cấp không đúng mục đích, trùng lắp với các nguồn kinh phí khác, mua sắm vượt quá nhu cầu dẫn đến không sử dụng hoặc sử dụng kém hiệu quả."
+    },
+    {
+        "id": "Điều 27.10",
+        "article": "Điều 27",
+        "clause": "10",
+        "title": "Hành vi gây lãng phí trong lập, thẩm định, phê duyệt, phân bổ, giao dự toán, quyết toán, quản lý, sử dụng kinh phí ngân sách nhà nước",
+        "text": "Cấp phép thành lập trường học, cơ sở khám bệnh, chữa bệnh không phù hợp với chiến lược, quy hoạch, kế hoạch phát triển giáo dục, y tế và quy định khác của pháp luật có liên quan. MỤC 3. THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ TRONG MUA SẮM, SỬ DỤNG PHƯƠNG TIỆN ĐI LẠI VÀ PHƯƠNG TIỆN, THIẾT BỊ LÀM VIỆC CỦA CƠ QUAN, TỔ CHỨC TRONG KHU VỰC NHÀ NƯỚC"
+    },
+    {
+        "id": "Điều 28.1",
+        "article": "Điều 28",
+        "clause": "1",
+        "title": "Mua sắm, trang bị, sửa chữa phương tiện đi lại",
+        "text": "Mua sắm, trang bị phương tiện đi lại phải đúng đối tượng, phục vụ thiết thực cho công việc; không vượt định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành và phải thực hiện theo quy định của pháp luật về đấu thầu và pháp luật về quản lý, sử dụng tài sản nhà nước."
+    },
+    {
+        "id": "Điều 28.2",
+        "article": "Điều 28",
+        "clause": "2",
+        "title": "Mua sắm, trang bị, sửa chữa phương tiện đi lại",
+        "text": "Sửa chữa, thay thế phương tiện đi lại phải căn cứ vào định mức, tiêu chuẩn, chế độ và các quy định về tiêu chuẩn kỹ thuật của cơ quan, tổ chức có thẩm quyền."
+    },
+    {
+        "id": "Điều 28.3",
+        "article": "Điều 28",
+        "clause": "3",
+        "title": "Mua sắm, trang bị, sửa chữa phương tiện đi lại",
+        "text": "Cơ quan, tổ chức được giao quản lý, sử dụng phương tiện đi lại có trách nhiệm:"
+    },
+    {
+        "id": "Điều 28.3a",
+        "article": "Điều 28",
+        "clause": "3a",
+        "title": "Mua sắm, trang bị, sửa chữa phương tiện đi lại",
+        "text": "Xác định mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong mua sắm, sửa chữa, thay thế phương tiện đi lại;"
+    },
+    {
+        "id": "Điều 28.3b",
+        "article": "Điều 28",
+        "clause": "3b",
+        "title": "Mua sắm, trang bị, sửa chữa phương tiện đi lại",
+        "text": "Hàng năm, xây dựng kế hoạch mua sắm, trang bị mới, sửa chữa phương tiện đi lại hoặc thực hiện điều chuyển từ nơi thừa sang nơi thiếu để thực hiện mục tiêu, chỉ tiêu tiết kiệm được giao, bảo đảm hoàn thành nhiệm vụ."
+    },
+    {
+        "id": "Điều 29.1",
+        "article": "Điều 29",
+        "clause": "1",
+        "title": "Quản lý, sử dụng phương tiện đi lại",
+        "text": "Sử dụng phương tiện đi lại của cơ quan, tổ chức phải đúng mục đích, đối tượng và không vượt định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành."
+    },
+    {
+        "id": "Điều 29.2",
+        "article": "Điều 29",
+        "clause": "2",
+        "title": "Quản lý, sử dụng phương tiện đi lại",
+        "text": "Cơ quan, tổ chức, cá nhân được giao quản lý, sử dụng phương tiện đi lại có trách nhiệm:"
+    },
+    {
+        "id": "Điều 29.2a",
+        "article": "Điều 29",
+        "clause": "2a",
+        "title": "Quản lý, sử dụng phương tiện đi lại",
+        "text": "Xác định mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong sử dụng phương tiện đi lại;"
+    },
+    {
+        "id": "Điều 29.2b",
+        "article": "Điều 29",
+        "clause": "2b",
+        "title": "Quản lý, sử dụng phương tiện đi lại",
+        "text": "Thực hiện các biện pháp thực hành tiết kiệm, chống lãng phí trong việc bảo quản phương tiện đi lại, sử dụng nhiên liệu theo đúng định mức tiêu hao để thực hiện mục tiêu, chỉ tiêu tiết kiệm được giao."
+    },
+    {
+        "id": "Điều 29.3",
+        "article": "Điều 29",
+        "clause": "3",
+        "title": "Quản lý, sử dụng phương tiện đi lại",
+        "text": "Phương tiện đi lại không còn sử dụng được phải được thanh lý và nộp tiền thu được vào ngân sách nhà nước kịp thời theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 29.4",
+        "article": "Điều 29",
+        "clause": "4",
+        "title": "Quản lý, sử dụng phương tiện đi lại",
+        "text": "Chính phủ quy định và tổ chức thực hiện chế độ quản lý, sử dụng phương tiện đi lại theo các phương thức sau đây:"
+    },
+    {
+        "id": "Điều 29.4a",
+        "article": "Điều 29",
+        "clause": "4a",
+        "title": "Quản lý, sử dụng phương tiện đi lại",
+        "text": "Trang bị phương tiện đi lại theo chức danh, chức vụ, địa bàn, ngành nghề công tác;"
+    },
+    {
+        "id": "Điều 29.4b",
+        "article": "Điều 29",
+        "clause": "4b",
+        "title": "Quản lý, sử dụng phương tiện đi lại",
+        "text": "Thuê phương tiện đi lại của doanh nghiệp dịch vụ để phục vụ công việc;"
+    },
+    {
+        "id": "Điều 29.4c",
+        "article": "Điều 29",
+        "clause": "4c",
+        "title": "Quản lý, sử dụng phương tiện đi lại",
+        "text": "Khoán kinh phí cho người có tiêu chuẩn, chế độ sử dụng phương tiện đi lại."
+    },
+    {
+        "id": "Điều 30.1",
+        "article": "Điều 30",
+        "clause": "1",
+        "title": "Mua sắm, trang bị, quản lý, sử dụng phương tiện, thiết bị làm việc",
+        "text": "Mua sắm, trang bị, quản lý, sử dụng phương tiện, thiết bị làm việc phải đúng mục đích, đối tượng; không vượt định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành, phục vụ thiết thực, hiệu quả cho công việc, đáp ứng yêu cầu đổi mới công nghệ và phải thực hiện theo quy định của pháp luật về đấu thầu và pháp luật về quản lý, sử dụng tài sản nhà nước."
+    },
+    {
+        "id": "Điều 30.2",
+        "article": "Điều 30",
+        "clause": "2",
+        "title": "Mua sắm, trang bị, quản lý, sử dụng phương tiện, thiết bị làm việc",
+        "text": "Cơ quan, tổ chức quản lý, sử dụng phương tiện, thiết bị làm việc có trách nhiệm:"
+    },
+    {
+        "id": "Điều 30.2a",
+        "article": "Điều 30",
+        "clause": "2a",
+        "title": "Mua sắm, trang bị, quản lý, sử dụng phương tiện, thiết bị làm việc",
+        "text": "Bố trí, phân công người quản lý, sử dụng; bảo trì, bảo dưỡng và mở sổ theo dõi các loại phương tiện, thiết bị làm việc;"
+    },
+    {
+        "id": "Điều 30.2b",
+        "article": "Điều 30",
+        "clause": "2b",
+        "title": "Mua sắm, trang bị, quản lý, sử dụng phương tiện, thiết bị làm việc",
+        "text": "Ban hành quy chế nội bộ về sử dụng phương tiện, thiết bị làm việc; giao mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí đến từng bộ phận, cá nhân sử dụng để thực hiện;"
+    },
+    {
+        "id": "Điều 30.2c",
+        "article": "Điều 30",
+        "clause": "2c",
+        "title": "Mua sắm, trang bị, quản lý, sử dụng phương tiện, thiết bị làm việc",
+        "text": "Xử lý theo thẩm quyền hoặc báo cáo cơ quan, tổ chức có thẩm quyền xử lý phương tiện, thiết bị làm việc không cần sử dụng, sử dụng không hiệu quả hoặc không còn sử dụng được bằng hình thức điều chuyển, thu hồi, thanh lý hoặc bán theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 31.1",
+        "article": "Điều 31",
+        "clause": "1",
+        "title": "Mua sắm, trang bị, quản lý, sử dụng phương tiện thông tin, liên lạc",
+        "text": "Mua sắm, trang bị phương tiện thông tin, liên lạc tại trụ sở làm việc phải theo yêu cầu công việc, không vượt định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành. Phương tiện thông tin, liên lạc tại trụ sở làm việc chỉ được sử dụng vào mục đích công vụ."
+    },
+    {
+        "id": "Điều 31.2",
+        "article": "Điều 31",
+        "clause": "2",
+        "title": "Mua sắm, trang bị, quản lý, sử dụng phương tiện thông tin, liên lạc",
+        "text": "Việc trang bị, sử dụng phương tiện thông tin, liên lạc cho cá nhân hoặc tại nhà riêng của cán bộ, công chức phải theo định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành và dự toán được duyệt; thực hiện khoán đến người sử dụng khoản kinh phí này."
+    },
+    {
+        "id": "Điều 31.3",
+        "article": "Điều 31",
+        "clause": "3",
+        "title": "Mua sắm, trang bị, quản lý, sử dụng phương tiện thông tin, liên lạc",
+        "text": "Cơ quan, tổ chức được giao quản lý, sử dụng phương tiện thông tin, liên lạc có trách nhiệm;"
+    },
+    {
+        "id": "Điều 31.3a",
+        "article": "Điều 31",
+        "clause": "3a",
+        "title": "Mua sắm, trang bị, quản lý, sử dụng phương tiện thông tin, liên lạc",
+        "text": "Ban hành và tổ chức thực hiện quy chế nội bộ về sử dụng phương tiện thông tin, liên lạc; giao mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí đến từng bộ phận, cá nhân sử dụng để thực hiện;"
+    },
+    {
+        "id": "Điều 31.3b",
+        "article": "Điều 31",
+        "clause": "3b",
+        "title": "Mua sắm, trang bị, quản lý, sử dụng phương tiện thông tin, liên lạc",
+        "text": "Rà soát toàn bộ phương tiện thông tin, liên lạc thuộc phạm vi quản lý, thu hồi những phương tiện được trang bị không đúng đối tượng và lập kế hoạch trang bị, điều chuyển phương tiện thông tin, liên lạc phù hợp với yêu cầu công việc, tiết kiệm và hiệu quả."
+    },
+    {
+        "id": "Điều 32.1",
+        "article": "Điều 32",
+        "clause": "1",
+        "title": "Hành vi gây lãng phí trong mua sắm, trang bị, quản lý, sử dụng phương tiện đi lại, phương tiện, thiết bị làm việc và phương tiện thông tin, liên lạc",
+        "text": "Phê duyệt mua sắm, trang bị phương tiện đi lại, phương tiện, thiết bị làm việc và phương tiện thông tin, liên lạc không đúng đối tượng; vượt định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành."
+    },
+    {
+        "id": "Điều 32.2",
+        "article": "Điều 32",
+        "clause": "2",
+        "title": "Hành vi gây lãng phí trong mua sắm, trang bị, quản lý, sử dụng phương tiện đi lại, phương tiện, thiết bị làm việc và phương tiện thông tin, liên lạc",
+        "text": "Bố trí sử dụng phương tiện đi lại, phương tiện, thiết bị làm việc và phương tiện thông tin, liên lạc không đúng mục đích; vượt định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành."
+    },
+    {
+        "id": "Điều 32.3",
+        "article": "Điều 32",
+        "clause": "3",
+        "title": "Hành vi gây lãng phí trong mua sắm, trang bị, quản lý, sử dụng phương tiện đi lại, phương tiện, thiết bị làm việc và phương tiện thông tin, liên lạc",
+        "text": "Sử dụng phương tiện đi lại, phương tiện, thiết bị làm việc và phương tiện thông tin, liên lạc không vì mục đích công vụ hoặc sử dụng vào mục đích sản xuất, kinh doanh dịch vụ, cho thuê, liên doanh, liên kết khi chưa có quyết định của cấp có thẩm quyền."
+    },
+    {
+        "id": "Điều 32.4",
+        "article": "Điều 32",
+        "clause": "4",
+        "title": "Hành vi gây lãng phí trong mua sắm, trang bị, quản lý, sử dụng phương tiện đi lại, phương tiện, thiết bị làm việc và phương tiện thông tin, liên lạc",
+        "text": "Không xử lý theo thẩm quyền hoặc báo cáo cơ quan nhà nước có thẩm quyền xử lý kịp thời đối với phương tiện đi lại, phương tiện, thiết bị làm việc và phương tiện thông tin, liên lạc không có nhu cầu sử dụng hoặc sử dụng không hiệu quả."
+    },
+    {
+        "id": "Điều 32.5",
+        "article": "Điều 32",
+        "clause": "5",
+        "title": "Hành vi gây lãng phí trong mua sắm, trang bị, quản lý, sử dụng phương tiện đi lại, phương tiện, thiết bị làm việc và phương tiện thông tin, liên lạc",
+        "text": "Thiếu trách nhiệm trong việc bảo quản phương tiện đi lại, phương tiện, thiết bị làm việc và phương tiện thông tin, liên lạc gây hư hỏng, thất thoát tài sản."
+    },
+    {
+        "id": "Điều 32.6",
+        "article": "Điều 32",
+        "clause": "6",
+        "title": "Hành vi gây lãng phí trong mua sắm, trang bị, quản lý, sử dụng phương tiện đi lại, phương tiện, thiết bị làm việc và phương tiện thông tin, liên lạc",
+        "text": "Không xây dựng biện pháp để thực hiện mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong cơ quan, tổ chức. MỤC 4. THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ TRONG ĐẦU TƯ XÂY DỰNG; QUẢN LÝ, SỬ DỤNG TRỤ SỞ LÀM VIỆC, NHÀ Ở CÔNG VỤ VÀ CÔNG TRÌNH PHÚC LỢI CÔNG CỘNG"
+    },
+    {
+        "id": "Điều 33.1",
+        "article": "Điều 33",
+        "clause": "1",
+        "title": "Lập, thẩm định, phê duyệt quy hoạch, kế hoạch và danh mục dự án đầu tư",
+        "text": "Việc lập, thẩm định, phê duyệt quy hoạch, kế hoạch phát triển kinh tế - xã hội; quy hoạch, kế hoạch phát triển ngành, vùng, lĩnh vực và sản phẩm; quy hoạch, kế hoạch sử dụng đất và quy hoạch xây dựng phải phù hợp với định hướng, chiến lược phát triển kinh tế - xã hội và khả năng của nền kinh tế."
+    },
+    {
+        "id": "Điều 33.2",
+        "article": "Điều 33",
+        "clause": "2",
+        "title": "Lập, thẩm định, phê duyệt quy hoạch, kế hoạch và danh mục dự án đầu tư",
+        "text": "Việc lập, thẩm định và phê duyệt danh mục dự án đầu tư phải phù hợp với quy hoạch, kế hoạch phát triển kinh tế - xã hội; quy hoạch, kế hoạch phát triển ngành, vùng, lĩnh vực và sản phẩm; quy hoạch, kế hoạch sử dụng đất và quy hoạch xây dựng."
+    },
+    {
+        "id": "Điều 34.1",
+        "article": "Điều 34",
+        "clause": "1",
+        "title": "Lập, thẩm định, phê duyệt dự án đầu tư",
+        "text": "Lập, thẩm định dự án đầu tư phải phù hợp với quy hoạch, kế hoạch phát triển kinh tế - xã hội; quy hoạch, kế hoạch phát triển ngành, vùng; quy hoạch, kế hoạch sử dụng đất; quy hoạch xây dựng; quy hoạch, kế hoạch, danh mục dự án đầu tư theo đúng tiêu chuẩn, quy chuẩn trong xây dựng."
+    },
+    {
+        "id": "Điều 34.2",
+        "article": "Điều 34",
+        "clause": "2",
+        "title": "Lập, thẩm định, phê duyệt dự án đầu tư",
+        "text": "Phê duyệt dự án đầu tư phải phù hợp với khả năng bố trí nguồn vốn; bảo đảm cân đối giữa nguồn vật tư, nguyên liệu với năng lực sản xuất và thị trường tiêu thụ; đạt hiệu quả kinh tế - xã hội và bảo vệ môi trường sinh thái."
+    },
+    {
+        "id": "Điều 34.3",
+        "article": "Điều 34",
+        "clause": "3",
+        "title": "Lập, thẩm định, phê duyệt dự án đầu tư",
+        "text": "Dự án đầu tư trước khi quyết định đầu tư phải chứng minh rõ nguồn vốn đầu tư, bảo đảm cân đối đủ nguồn vốn để thực hiện dự án đúng tiến độ."
+    },
+    {
+        "id": "Điều 35.1",
+        "article": "Điều 35",
+        "clause": "1",
+        "title": "Khảo sát, thiết kế xây dựng công trình",
+        "text": "Việc khảo sát, thiết kế xây dựng công trình phải theo đúng quy trình, quy phạm khảo sát, thiết kế do cơ quan nhà nước có thẩm quyền ban hành."
+    },
+    {
+        "id": "Điều 35.2",
+        "article": "Điều 35",
+        "clause": "2",
+        "title": "Khảo sát, thiết kế xây dựng công trình",
+        "text": "Việc thẩm định, phê duyệt thiết kế xây dựng công trình phải theo đúng tiêu chuẩn, quy chuẩn xây dựng do cơ quan nhà nước có thẩm quyền ban hành."
+    },
+    {
+        "id": "Điều 36.1",
+        "article": "Điều 36",
+        "clause": "1",
+        "title": "Lập, thẩm định, phê duyệt tổng dự toán, dự toán công trình",
+        "text": "Việc lập, thẩm định, phê duyệt tổng dự toán, dự toán công trình phải căn cứ vào định mức, đơn giá, tiêu chuẩn xây dựng do cơ quan nhà nước có thẩm quyền ban hành và phải phù hợp với thiết kế xây dựng công trình đã được phê duyệt."
+    },
+    {
+        "id": "Điều 36.2",
+        "article": "Điều 36",
+        "clause": "2",
+        "title": "Lập, thẩm định, phê duyệt tổng dự toán, dự toán công trình",
+        "text": "Việc điều chỉnh tổng dự toán, dự toán công trình phải căn cứ vào thực tế thực hiện, làm rõ nguyên nhân chủ quan, khách quan, trách nhiệm liên quan đến việc phải điều chỉnh và tuân thủ quy trình, thủ tục, thẩm quyền theo quy định của pháp luật về đầu tư, xây dựng, đấu thầu và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 37.1",
+        "article": "Điều 37",
+        "clause": "1",
+        "title": "Lựa chọn nhà thầu, tổ chức tư vấn giám sát thực hiện dự án đầu tư",
+        "text": "Chủ đầu tư phải thực hiện thông báo công khai việc mời thầu trên phương tiện thông tin đại chúng và tổ chức đấu thầu theo đúng quy định của pháp luật về đấu thầu để lựa chọn nhà thầu, tổ chức tư vấn giám sát."
+    },
+    {
+        "id": "Điều 37.2",
+        "article": "Điều 37",
+        "clause": "2",
+        "title": "Lựa chọn nhà thầu, tổ chức tư vấn giám sát thực hiện dự án đầu tư",
+        "text": "Nhà thầu, tổ chức tư vấn giám sát được lựa chọn phải có đủ điều kiện, năng lực thực hiện, giám sát thực hiện dự án đầu tư; có phương án tiết kiệm, chống lãng phí."
+    },
+    {
+        "id": "Điều 38.1",
+        "article": "Điều 38",
+        "clause": "1",
+        "title": "Thực hiện dự án đầu tư, thi công công trình",
+        "text": "Dự án đầu tư chỉ được thực hiện, công trình chỉ được thi công khi đã được cơ quan nhà nước có thẩm quyền phê duyệt. Dự án đầu tư, công trình không nằm trong quy hoạch, kế hoạch, không bảo đảm các điều kiện quy định, không đúng quy trình, thủ tục đầu tư phải bị đình chỉ hoặc hủy bỏ."
+    },
+    {
+        "id": "Điều 38.2",
+        "article": "Điều 38",
+        "clause": "2",
+        "title": "Thực hiện dự án đầu tư, thi công công trình",
+        "text": "Giải phóng mặt bằng để thực hiện dự án đầu tư xây dựng phải bảo đảm tiến độ thực hiện dự án. Việc bồi thường, hỗ trợ và tái định cư khi Nhà nước thu hồi đất để thực hiện dự án đầu tư xây dựng phải bảo đảm dân chủ, khách quan, công khai, minh bạch, kịp thời và đúng quy định của pháp luật."
+    },
+    {
+        "id": "Điều 38.3",
+        "article": "Điều 38",
+        "clause": "3",
+        "title": "Thực hiện dự án đầu tư, thi công công trình",
+        "text": "Thi công công trình phải đúng thiết kế, quy chuẩn, tiêu chuẩn xây dựng; đúng tiến độ đã được phê duyệt. Chủ đầu tư, chủ dự án phải chịu trách nhiệm kiểm tra, yêu cầu nhà thầu thực hiện đúng thời gian thi công, thi công đúng thiết kế, sử dụng nguyên liệu, vật liệu theo đúng tiêu chuẩn chất lượng, yêu cầu kỹ thuật, bảo đảm chất lượng công trình và tiến độ thi công."
+    },
+    {
+        "id": "Điều 38.4",
+        "article": "Điều 38",
+        "clause": "4",
+        "title": "Thực hiện dự án đầu tư, thi công công trình",
+        "text": "Tổ chức tư vấn giám sát thi công công trình có trách nhiệm thực hiện đầy đủ nghĩa vụ đã cam kết với chủ đầu tư, chủ dự án; phát hiện và ngăn chặn kịp thời hành vi tiêu cực, gây lãng phí trong quá trình thi công."
+    },
+    {
+        "id": "Điều 38.5",
+        "article": "Điều 38",
+        "clause": "5",
+        "title": "Thực hiện dự án đầu tư, thi công công trình",
+        "text": "Chủ đầu tư, chủ dự án có trách nhiệm:"
+    },
+    {
+        "id": "Điều 38.5a",
+        "article": "Điều 38",
+        "clause": "5a",
+        "title": "Thực hiện dự án đầu tư, thi công công trình",
+        "text": "Xác định cụ thể mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí để giao cho nhà thầu thực hiện;"
+    },
+    {
+        "id": "Điều 38.5b",
+        "article": "Điều 38",
+        "clause": "5b",
+        "title": "Thực hiện dự án đầu tư, thi công công trình",
+        "text": "Không được tự ý thay đổi thiết kế, dự toán công trình hoặc giá trúng thầu đã được duyệt; tiến hành nghiệm thu và quyết toán công trình theo đúng quy định."
+    },
+    {
+        "id": "Điều 39.1",
+        "article": "Điều 39",
+        "clause": "1",
+        "title": "Quản lý vốn đầu tư xây dựng",
+        "text": "Quản lý vốn đầu tư xây dựng phải bảo đảm nguyên tắc sau đây:"
+    },
+    {
+        "id": "Điều 39.1a",
+        "article": "Điều 39",
+        "clause": "1a",
+        "title": "Quản lý vốn đầu tư xây dựng",
+        "text": "Tuân thủ các quy định của pháp luật về quản lý vốn đầu tư, bảo đảm trong phạm vi danh mục dự án đầu tư, dự án hỗ trợ đầu tư được duyệt;"
+    },
+    {
+        "id": "Điều 39.1b",
+        "article": "Điều 39",
+        "clause": "1b",
+        "title": "Quản lý vốn đầu tư xây dựng",
+        "text": "Bảo đảm thực hiện đúng tiêu chuẩn, quy chuẩn, định mức, đơn giá, quy trình, thủ tục theo quy định của pháp luật về đầu tư, xây dựng, đấu thầu;"
+    },
+    {
+        "id": "Điều 39.1c",
+        "article": "Điều 39",
+        "clause": "1c",
+        "title": "Quản lý vốn đầu tư xây dựng",
+        "text": "Phù hợp với khả năng bố trí nguồn vốn, bảo đảm đúng tiến độ trong phạm vi tổng dự toán công trình;"
+    },
+    {
+        "id": "Điều 39.1d",
+        "article": "Điều 39",
+        "clause": "1d",
+        "title": "Quản lý vốn đầu tư xây dựng",
+        "text": "Bảo đảm hiệu quả kinh tế - xã hội và phù hợp với mục tiêu, yêu cầu đầu tư."
+    },
+    {
+        "id": "Điều 39.2",
+        "article": "Điều 39",
+        "clause": "2",
+        "title": "Quản lý vốn đầu tư xây dựng",
+        "text": "Cơ quan, tổ chức quản lý vốn đầu tư xây dựng có trách nhiệm:"
+    },
+    {
+        "id": "Điều 39.2a",
+        "article": "Điều 39",
+        "clause": "2a",
+        "title": "Quản lý vốn đầu tư xây dựng",
+        "text": "Xác định mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong quản lý vốn đầu tư xây dựng để giao cho cơ quan, tổ chức sử dụng thực hiện, bảo đảm tiết kiệm, hiệu quả;"
+    },
+    {
+        "id": "Điều 39.2b",
+        "article": "Điều 39",
+        "clause": "2b",
+        "title": "Quản lý vốn đầu tư xây dựng",
+        "text": "Bảo đảm đầu tư tập trung, đúng mục tiêu, có hiệu quả, bố trí vốn kịp thời, tiết kiệm;"
+    },
+    {
+        "id": "Điều 39.2c",
+        "article": "Điều 39",
+        "clause": "2c",
+        "title": "Quản lý vốn đầu tư xây dựng",
+        "text": "Thực hiện giám sát, kiểm tra, thanh tra, kiểm toán nội bộ việc quản lý vốn trong cơ quan, tổ chức. Xử lý theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền xử lý kịp thời các trường hợp lãng phí xảy ra."
+    },
+    {
+        "id": "Điều 40.1",
+        "article": "Điều 40",
+        "clause": "1",
+        "title": "Sử dụng vốn đầu tư xây dựng",
+        "text": "Sử dụng vốn đầu tư xây dựng phải bảo đảm thực hiện đúng tiêu chuẩn, quy chuẩn, định mức, đơn giá, quy trình, thủ tục theo quy định của pháp luật về đầu tư, xây dựng và đấu thầu. Đối với các dự án được ngân sách nhà nước hỗ trợ một phần kinh phí chủ đầu tư phải chứng minh và cam kết bảo đảm đủ nguồn vốn đối ứng trước khi dự án được phê duyệt."
+    },
+    {
+        "id": "Điều 40.2",
+        "article": "Điều 40",
+        "clause": "2",
+        "title": "Sử dụng vốn đầu tư xây dựng",
+        "text": "Chủ đầu tư, chủ dự án sử dụng vốn đầu tư xây dựng có trách nhiệm xây dựng kế hoạch, biện pháp để tổ chức thực hiện mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí được giao, bảo đảm hoàn thành công trình, dự án đầu tư đúng tiến độ; tổ chức hoạt động thanh tra nhân dân, kiểm toán nội bộ, đánh giá hàng năm, kịp thời phát hiện các sai phạm về thực hành tiết kiệm, chống lãng phí để xử lý theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 41.1",
+        "article": "Điều 41",
+        "clause": "1",
+        "title": "Tổ chức lễ động thổ, lễ khởi công, lễ khánh thành công trình xây dựng",
+        "text": "Việc sử dụng kinh phí ngân sách nhà nước để tổ chức lễ động thổ, lễ khởi công, lễ khánh thành chỉ được thực hiện đối với các công trình sau đây:"
+    },
+    {
+        "id": "Điều 41.1a",
+        "article": "Điều 41",
+        "clause": "1a",
+        "title": "Tổ chức lễ động thổ, lễ khởi công, lễ khánh thành công trình xây dựng",
+        "text": "Công trình quan trọng quốc gia;"
+    },
+    {
+        "id": "Điều 41.1b",
+        "article": "Điều 41",
+        "clause": "1b",
+        "title": "Tổ chức lễ động thổ, lễ khởi công, lễ khánh thành công trình xây dựng",
+        "text": "Công trình có giá trị lớn, có ý nghĩa quan trọng về kinh tế, chính trị, văn hóa, xã hội của địa phương."
+    },
+    {
+        "id": "Điều 41.2",
+        "article": "Điều 41",
+        "clause": "2",
+        "title": "Tổ chức lễ động thổ, lễ khởi công, lễ khánh thành công trình xây dựng",
+        "text": "Thủ tướng Chính phủ quyết định việc tổ chức lễ động thổ, lễ khởi công, lễ khánh thành đối với công trình quy định tại điểm a khoản 1 Điều này và quy định việc tổ chức lễ động thổ, lễ khởi công, lễ khánh thành đối với công trình quy định tại điểm b khoản 1 Điều này."
+    },
+    {
+        "id": "Điều 42.1",
+        "article": "Điều 42",
+        "clause": "1",
+        "title": "Quản lý, sử dụng trụ sở làm việc, cơ sở hoạt động sự nghiệp",
+        "text": "Cơ quan, tổ chức được giao quản lý, sử dụng trụ sở làm việc, tài sản khác gắn liền với diện tích đất thuộc trụ sở làm việc hoặc cơ sở hoạt động sự nghiệp phải quản lý, sử dụng theo đúng mục đích, đúng quy định của pháp luật, bảo đảm tiết kiệm và hiệu quả. Việc xây dựng mới, nâng cấp, cải tạo, sửa chữa hoặc thuê trụ sở làm việc, cơ sở hoạt động sự nghiệp của cơ quan, tổ chức sử dụng ngân sách nhà nước phải phù hợp với định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành."
+    },
+    {
+        "id": "Điều 42.2",
+        "article": "Điều 42",
+        "clause": "2",
+        "title": "Quản lý, sử dụng trụ sở làm việc, cơ sở hoạt động sự nghiệp",
+        "text": "Trụ sở làm việc sử dụng không đúng mục đích hoặc không sử dụng phải bị thu hồi và xử lý theo quy định của pháp luật về quản lý, sử dụng tài sản nhà nước và pháp luật về ngân sách nhà nước."
+    },
+    {
+        "id": "Điều 43.1",
+        "article": "Điều 43",
+        "clause": "1",
+        "title": "Quản lý, sử dụng nhà ở công vụ",
+        "text": "Nhà ở công vụ được bố trí cho cán bộ, công chức để ở trong thời gian thực thi công vụ theo đúng đối tượng, định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành. Nhà ở công vụ bố trí không đúng đối tượng, sử dụng không đúng mục đích, không sử dụng hoặc đã hết thời hạn sử dụng theo hợp đồng phải bị thu hồi."
+    },
+    {
+        "id": "Điều 43.2",
+        "article": "Điều 43",
+        "clause": "2",
+        "title": "Quản lý, sử dụng nhà ở công vụ",
+        "text": "Cơ quan quản lý nhà ở công vụ phải xây dựng và ban hành quy chế quản lý nhà ở công vụ, thực hiện ký hợp đồng với người được giao sử dụng nhà ở công vụ, định kỳ kiểm tra việc thực hiện hợp đồng, kiểm tra thu hồi nhà khi hết hạn hợp đồng."
+    },
+    {
+        "id": "Điều 43.3",
+        "article": "Điều 43",
+        "clause": "3",
+        "title": "Quản lý, sử dụng nhà ở công vụ",
+        "text": "Người được giao sử dụng nhà ở công vụ phải thực hiện đúng quy chế quản lý nhà ở công vụ, sử dụng đúng mục đích, giữ gìn nhà ở và tài sản khác theo hồ sơ giao nhận; không được tự ý cải tạo, sửa chữa, làm thay đổi kết cấu, công năng của nhà ở công vụ; không được chuyển đổi hoặc cho thuê lại dưới bất kỳ hình thức nào và phải trả lại cho cơ quan quản lý khi không còn thuộc đối tượng được thuê nhà ở công vụ hoặc khi không còn nhu cầu thuê nhà ở công vụ."
+    },
+    {
+        "id": "Điều 44.1",
+        "article": "Điều 44",
+        "clause": "1",
+        "title": "Quản lý, sử dụng công trình phúc lợi công cộng",
+        "text": "Công trình phúc lợi công cộng phải được quản lý, sử dụng đúng mục đích. Công trình phúc lợi công cộng không đưa vào sử dụng, sử dụng kém hiệu quả phải bị thu hồi, giao cho cơ quan, tổ chức khác quản lý, sử dụng."
+    },
+    {
+        "id": "Điều 44.2",
+        "article": "Điều 44",
+        "clause": "2",
+        "title": "Quản lý, sử dụng công trình phúc lợi công cộng",
+        "text": "Cơ quan, tổ chức được giao quản lý, sử dụng công trình phúc lợi công cộng có trách nhiệm:"
+    },
+    {
+        "id": "Điều 44.2a",
+        "article": "Điều 44",
+        "clause": "2a",
+        "title": "Quản lý, sử dụng công trình phúc lợi công cộng",
+        "text": "Xây dựng và ban hành quy chế quản lý công trình; xây dựng kế hoạch bảo quản, khai thác, tu bổ và sử dụng tiết kiệm, hiệu quả;"
+    },
+    {
+        "id": "Điều 44.2b",
+        "article": "Điều 44",
+        "clause": "2b",
+        "title": "Quản lý, sử dụng công trình phúc lợi công cộng",
+        "text": "Xác định mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong quản lý, sử dụng công trình phúc lợi công cộng;"
+    },
+    {
+        "id": "Điều 44.2c",
+        "article": "Điều 44",
+        "clause": "2c",
+        "title": "Quản lý, sử dụng công trình phúc lợi công cộng",
+        "text": "Thực hiện giám sát, kiểm tra, quản lý việc sử dụng công trình phúc lợi công cộng."
+    },
+    {
+        "id": "Điều 45.1",
+        "article": "Điều 45",
+        "clause": "1",
+        "title": "Hành vi gây lãng phí trong đầu tư xây dựng, quản lý, sử dụng trụ sở làm việc, nhà ở công vụ và công trình phúc lợi công cộng",
+        "text": "Phê duyệt dự án đầu tư không nằm trong quy hoạch, kế hoạch được duyệt; thiếu tính khoa học, không đúng tiêu chuẩn, quy chuẩn; vượt định mức, đơn giá theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 45.2",
+        "article": "Điều 45",
+        "clause": "2",
+        "title": "Hành vi gây lãng phí trong đầu tư xây dựng, quản lý, sử dụng trụ sở làm việc, nhà ở công vụ và công trình phúc lợi công cộng",
+        "text": "Khảo sát địa hình, địa chất không tuân thủ quy trình, quy phạm do cơ quan nhà nước có thẩm quyền ban hành; phản ánh số liệu khảo sát không chính xác, trung thực, khách quan. Thiết kế, thẩm định, phê duyệt thiết kế xây dựng công trình không thực hiện đúng quy trình, quy phạm, tiêu chuẩn, quy chuẩn do cơ quan nhà nước có thẩm quyền ban hành."
+    },
+    {
+        "id": "Điều 45.3",
+        "article": "Điều 45",
+        "clause": "3",
+        "title": "Hành vi gây lãng phí trong đầu tư xây dựng, quản lý, sử dụng trụ sở làm việc, nhà ở công vụ và công trình phúc lợi công cộng",
+        "text": "Giải phóng mặt bằng, thực hiện dự án chậm so với tiến độ đã được phê duyệt do nguyên nhân chủ quan; thực hiện dự án, khởi công công trình trước khi cơ quan nhà nước có thẩm quyền phê duyệt."
+    },
+    {
+        "id": "Điều 45.4",
+        "article": "Điều 45",
+        "clause": "4",
+        "title": "Hành vi gây lãng phí trong đầu tư xây dựng, quản lý, sử dụng trụ sở làm việc, nhà ở công vụ và công trình phúc lợi công cộng",
+        "text": "Bố trí vốn dàn trải, chậm tiến độ theo kế hoạch; không quyết toán, chậm quyết toán công trình, dự án."
+    },
+    {
+        "id": "Điều 45.5",
+        "article": "Điều 45",
+        "clause": "5",
+        "title": "Hành vi gây lãng phí trong đầu tư xây dựng, quản lý, sử dụng trụ sở làm việc, nhà ở công vụ và công trình phúc lợi công cộng",
+        "text": "Sử dụng vốn đầu tư không đúng tiêu chuẩn, quy chuẩn; vượt định mức, đơn giá theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 45.6",
+        "article": "Điều 45",
+        "clause": "6",
+        "title": "Hành vi gây lãng phí trong đầu tư xây dựng, quản lý, sử dụng trụ sở làm việc, nhà ở công vụ và công trình phúc lợi công cộng",
+        "text": "Tự điều chỉnh tổng dự toán công trình trái với quy định của pháp luật về đấu thầu và quy định khác của pháp luật có liên quan. Tự điều chỉnh thiết kế, quy chuẩn, tiêu chuẩn xây dựng so với thiết kế, quy chuẩn, tiêu chuẩn đã được cấp có thẩm quyền phê duyệt."
+    },
+    {
+        "id": "Điều 45.7",
+        "article": "Điều 45",
+        "clause": "7",
+        "title": "Hành vi gây lãng phí trong đầu tư xây dựng, quản lý, sử dụng trụ sở làm việc, nhà ở công vụ và công trình phúc lợi công cộng",
+        "text": "Sử dụng trụ sở làm việc, nhà ở công vụ không đúng mục đích, không đúng đối tượng, vượt định mức, tiêu chuẩn, chế độ do cơ quan nhà nước có thẩm quyền ban hành."
+    },
+    {
+        "id": "Điều 45.8",
+        "article": "Điều 45",
+        "clause": "8",
+        "title": "Hành vi gây lãng phí trong đầu tư xây dựng, quản lý, sử dụng trụ sở làm việc, nhà ở công vụ và công trình phúc lợi công cộng",
+        "text": "Không xử lý theo thẩm quyền hoặc không báo cáo với cơ quan nhà nước có thẩm quyền để xử lý kịp thời đối với công trình do nhà nước đầu tư không sử dụng được, không có nhu cầu sử dụng hoặc sử dụng hiệu quả thấp, không đạt mục tiêu đã định."
+    },
+    {
+        "id": "Điều 45.9",
+        "article": "Điều 45",
+        "clause": "9",
+        "title": "Hành vi gây lãng phí trong đầu tư xây dựng, quản lý, sử dụng trụ sở làm việc, nhà ở công vụ và công trình phúc lợi công cộng",
+        "text": "Sử dụng kinh phí ngân sách nhà nước để tổ chức lễ động thổ, lễ khởi công, lễ khánh thành các công trình không thuộc quy định tại khoản 1 Điều 41 của Luật này."
+    },
+    {
+        "id": "Điều 45.10",
+        "article": "Điều 45",
+        "clause": "10",
+        "title": "Hành vi gây lãng phí trong đầu tư xây dựng, quản lý, sử dụng trụ sở làm việc, nhà ở công vụ và công trình phúc lợi công cộng",
+        "text": "Không xây dựng các biện pháp và tổ chức thực hiện mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong đầu tư xây dựng, quản lý, sử dụng trụ sở làm việc, nhà ở công vụ và công trình phúc lợi công cộng. MỤC 5. THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ TRONG QUẢN LÝ, KHAI THÁC, SỬ DỤNG TÀI NGUYÊN"
+    },
+    {
+        "id": "Điều 46.1",
+        "article": "Điều 46",
+        "clause": "1",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí trong quản lý, khai thác, sử dụng tài nguyên",
+        "text": "Phù hợp với quy hoạch, kế hoạch khai thác và bảo vệ tài nguyên đã được cấp có thẩm quyền phê duyệt."
+    },
+    {
+        "id": "Điều 46.2",
+        "article": "Điều 46",
+        "clause": "2",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí trong quản lý, khai thác, sử dụng tài nguyên",
+        "text": "Phải đánh giá tác động, hiệu quả kinh tế - xã hội và yêu cầu phát triển bền vững của quốc gia gắn với bảo vệ môi trường."
+    },
+    {
+        "id": "Điều 46.3",
+        "article": "Điều 46",
+        "clause": "3",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí trong quản lý, khai thác, sử dụng tài nguyên",
+        "text": "Phải sử dụng tiến bộ khoa học, công nghệ trong khai thác, chế biến tài nguyên; bảo đảm quản lý, khai thác, sử dụng hợp lý, hiệu quả, tiết kiệm, đúng mục đích. Chỉ cấp phép khai thác, chế biến tài nguyên khi việc khai thác, chế biến tài nguyên đáp ứng được yêu cầu sử dụng tiến bộ khoa học, công nghệ."
+    },
+    {
+        "id": "Điều 46.4",
+        "article": "Điều 46",
+        "clause": "4",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí trong quản lý, khai thác, sử dụng tài nguyên",
+        "text": "Bảo đảm đúng trình tự, thủ tục theo quy định của pháp luật về đất đai, tài nguyên nước, khoáng sản, bảo vệ và phát triển rừng, các loại tài nguyên khác."
+    },
+    {
+        "id": "Điều 47.1",
+        "article": "Điều 47",
+        "clause": "1",
+        "title": "Quản lý, sử dụng đất",
+        "text": "Việc quản lý, sử dụng đất của cơ quan, tổ chức, hộ gia đình và cá nhân phải bảo đảm:"
+    },
+    {
+        "id": "Điều 47.1a",
+        "article": "Điều 47",
+        "clause": "1a",
+        "title": "Quản lý, sử dụng đất",
+        "text": "Đúng quy hoạch, kế hoạch sử dụng đất;"
+    },
+    {
+        "id": "Điều 47.1b",
+        "article": "Điều 47",
+        "clause": "1b",
+        "title": "Quản lý, sử dụng đất",
+        "text": "Đúng mục đích sử dụng đất;"
+    },
+    {
+        "id": "Điều 47.1c",
+        "article": "Điều 47",
+        "clause": "1c",
+        "title": "Quản lý, sử dụng đất",
+        "text": "Tiết kiệm, hiệu quả, bảo vệ môi trường và không làm tổn hại đến lợi ích chính đáng của người sử dụng đất có liên quan."
+    },
+    {
+        "id": "Điều 47.2",
+        "article": "Điều 47",
+        "clause": "2",
+        "title": "Quản lý, sử dụng đất",
+        "text": "Cơ quan, tổ chức được giao quản lý, sử dụng đất có trách nhiệm:"
+    },
+    {
+        "id": "Điều 47.2a",
+        "article": "Điều 47",
+        "clause": "2a",
+        "title": "Quản lý, sử dụng đất",
+        "text": "Quản lý, sử dụng đất theo đúng quy định tại Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, quyết định giao đất, hợp đồng thuê đất và các quy định khác của pháp luật về đất đai;"
+    },
+    {
+        "id": "Điều 47.2b",
+        "article": "Điều 47",
+        "clause": "2b",
+        "title": "Quản lý, sử dụng đất",
+        "text": "Xác định mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong quản lý, sử dụng đất và xây dựng kế hoạch, biện pháp để thực hiện mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong quản lý, sử dụng đất; thực hiện quy định của pháp luật về quản lý, sử dụng đất theo quy định của Luật đất đai và quy định khác của pháp luật có liên quan;"
+    },
+    {
+        "id": "Điều 47.2c",
+        "article": "Điều 47",
+        "clause": "2c",
+        "title": "Quản lý, sử dụng đất",
+        "text": "Tổ chức kiểm tra, thanh tra việc quản lý, sử dụng đất; phát hiện và xử lý theo thẩm quyền hoặc trình cấp có thẩm quyền xử lý các hành vi sử dụng đất không đúng mục đích, các hành vi gây lãng phí đất."
+    },
+    {
+        "id": "Điều 48.1",
+        "article": "Điều 48",
+        "clause": "1",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên nước",
+        "text": "Việc quản lý, khai thác, sử dụng tài nguyên nước của cơ quan, tổ chức, hộ gia đình và cá nhân phải bảo đảm:"
+    },
+    {
+        "id": "Điều 48.1a",
+        "article": "Điều 48",
+        "clause": "1a",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên nước",
+        "text": "Đúng quy hoạch, kế hoạch sử dụng tài nguyên nước;"
+    },
+    {
+        "id": "Điều 48.1b",
+        "article": "Điều 48",
+        "clause": "1b",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên nước",
+        "text": "Đúng mục đích, bảo đảm tiết kiệm, hiệu quả, bảo vệ môi trường và phát triển bền vững;"
+    },
+    {
+        "id": "Điều 48.1c",
+        "article": "Điều 48",
+        "clause": "1c",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên nước",
+        "text": "Không gây cản trở hoặc làm thiệt hại đến việc khai thác, sử dụng tài nguyên nước hợp pháp của tổ chức, cá nhân khác."
+    },
+    {
+        "id": "Điều 48.2",
+        "article": "Điều 48",
+        "clause": "2",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên nước",
+        "text": "Cơ quan, tổ chức được giao quản lý, khai thác, sử dụng tài nguyên nước có trách nhiệm:"
+    },
+    {
+        "id": "Điều 48.2a",
+        "article": "Điều 48",
+        "clause": "2a",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên nước",
+        "text": "Xác định mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong quản lý, khai thác, sử dụng tài nguyên nước;"
+    },
+    {
+        "id": "Điều 48.2b",
+        "article": "Điều 48",
+        "clause": "2b",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên nước",
+        "text": "Xây dựng kế hoạch, biện pháp để thực hiện mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong quản lý, khai thác, sử dụng tài nguyên nước;"
+    },
+    {
+        "id": "Điều 48.2c",
+        "article": "Điều 48",
+        "clause": "2c",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên nước",
+        "text": "Bảo vệ tài nguyên nước đang sử dụng;"
+    },
+    {
+        "id": "Điều 48.2d",
+        "article": "Điều 48",
+        "clause": "2d",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên nước",
+        "text": "Thực hiện các quy định của pháp luật về quản lý, khai thác, sử dụng tài nguyên nước theo quy định của Luật tài nguyên nước và quy định khác của pháp luật có liên quan;"
+    },
+    {
+        "id": "Điều 48.2đ",
+        "article": "Điều 48",
+        "clause": "2đ",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên nước",
+        "text": "Tổ chức kiểm tra, thanh tra việc khai thác, sử dụng tài nguyên nước; phát hiện và kịp thời xử lý theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền xử lý hành vi làm ô nhiễm, hủy hoại, gây thất thoát, lãng phí tài nguyên nước."
+    },
+    {
+        "id": "Điều 49.1",
+        "article": "Điều 49",
+        "clause": "1",
+        "title": "Quản lý, khai thác, sử dụng khoáng sản",
+        "text": "Việc quản lý, khai thác, sử dụng khoáng sản của cơ quan, tổ chức, hộ gia đình và cá nhân phải bảo đảm:"
+    },
+    {
+        "id": "Điều 49.1a",
+        "article": "Điều 49",
+        "clause": "1a",
+        "title": "Quản lý, khai thác, sử dụng khoáng sản",
+        "text": "Phù hợp với chiến lược, quy hoạch khai thác khoáng sản;"
+    },
+    {
+        "id": "Điều 49.1b",
+        "article": "Điều 49",
+        "clause": "1b",
+        "title": "Quản lý, khai thác, sử dụng khoáng sản",
+        "text": "Bảo đảm hiệu quả kinh tế - xã hội, bảo vệ môi trường và phát triển bền vững;"
+    },
+    {
+        "id": "Điều 49.1c",
+        "article": "Điều 49",
+        "clause": "1c",
+        "title": "Quản lý, khai thác, sử dụng khoáng sản",
+        "text": "Theo đúng giấy phép khai thác khoáng sản do cơ quan quản lý nhà nước có thẩm quyền cấp;"
+    },
+    {
+        "id": "Điều 49.1d",
+        "article": "Điều 49",
+        "clause": "1d",
+        "title": "Quản lý, khai thác, sử dụng khoáng sản",
+        "text": "Thực hiện tận thu triệt để trong khai thác khoáng sản và sử dụng hiệu quả các sản phẩm phụ hữu ích của hoạt động khai thác khoáng sản."
+    },
+    {
+        "id": "Điều 49.2",
+        "article": "Điều 49",
+        "clause": "2",
+        "title": "Quản lý, khai thác, sử dụng khoáng sản",
+        "text": "Cơ quan, tổ chức, cá nhân được giao quản lý, khai thác, sử dụng khoáng sản có trách nhiệm:"
+    },
+    {
+        "id": "Điều 49.2a",
+        "article": "Điều 49",
+        "clause": "2a",
+        "title": "Quản lý, khai thác, sử dụng khoáng sản",
+        "text": "Xác định mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong quản lý, khai thác, sử dụng khoáng sản;"
+    },
+    {
+        "id": "Điều 49.2b",
+        "article": "Điều 49",
+        "clause": "2b",
+        "title": "Quản lý, khai thác, sử dụng khoáng sản",
+        "text": "Xây dựng kế hoạch, biện pháp để thực hiện mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong quản lý, khai thác, sử dụng khoáng sản;"
+    },
+    {
+        "id": "Điều 49.2c",
+        "article": "Điều 49",
+        "clause": "2c",
+        "title": "Quản lý, khai thác, sử dụng khoáng sản",
+        "text": "Thực hiện khai thác đúng chủng loại, kỹ thuật, trữ lượng khoáng sản ghi trong giấy phép; ký quỹ cải tạo, phục hồi môi trường; thực hiện cải tạo, phục hồi môi trường sau khi khai thác khoáng sản;"
+    },
+    {
+        "id": "Điều 49.2d",
+        "article": "Điều 49",
+        "clause": "2d",
+        "title": "Quản lý, khai thác, sử dụng khoáng sản",
+        "text": "Thực hiện các quy định của pháp luật về quản lý, khai thác, sử dụng khoáng sản và quy định khác của pháp luật có liên quan;"
+    },
+    {
+        "id": "Điều 49.2đ",
+        "article": "Điều 49",
+        "clause": "2đ",
+        "title": "Quản lý, khai thác, sử dụng khoáng sản",
+        "text": "Tổ chức kiểm tra, thanh tra việc khai thác, sử dụng khoáng sản; phát hiện và kịp thời xử lý theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền xử lý hành vi làm ô nhiễm, hủy hoại môi trường, gây thất thoát, lãng phí khoáng sản."
+    },
+    {
+        "id": "Điều 50.1",
+        "article": "Điều 50",
+        "clause": "1",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên rừng",
+        "text": "Việc quản lý, khai thác, sử dụng tài nguyên rừng của cơ quan, tổ chức, hộ gia đình và cá nhân phải bảo đảm:"
+    },
+    {
+        "id": "Điều 50.1a",
+        "article": "Điều 50",
+        "clause": "1a",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên rừng",
+        "text": "Phù hợp với chiến lược phát triển lâm nghiệp; đúng quy hoạch, kế hoạch bảo vệ và phát triển rừng;"
+    },
+    {
+        "id": "Điều 50.1b",
+        "article": "Điều 50",
+        "clause": "1b",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên rừng",
+        "text": "Bảo vệ, chống cháy rừng và phát triển bền vững tài nguyên rừng;"
+    },
+    {
+        "id": "Điều 50.1c",
+        "article": "Điều 50",
+        "clause": "1c",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên rừng",
+        "text": "Kết hợp bảo vệ và phát triển rừng với khai thác hợp lý để phát huy hiệu quả tài nguyên rừng;"
+    },
+    {
+        "id": "Điều 50.1d",
+        "article": "Điều 50",
+        "clause": "1d",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên rừng",
+        "text": "Bảo đảm hài hòa lợi ích giữa Nhà nước với chủ rừng, giữa lợi ích kinh tế của rừng với lợi ích phòng hộ, bảo vệ môi trường và bảo tồn tài nguyên."
+    },
+    {
+        "id": "Điều 50.2",
+        "article": "Điều 50",
+        "clause": "2",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên rừng",
+        "text": "Cơ quan, tổ chức, hộ gia đình và cá nhân được giao quản lý, khai thác, sử dụng tài nguyên rừng có trách nhiệm:"
+    },
+    {
+        "id": "Điều 50.2a",
+        "article": "Điều 50",
+        "clause": "2a",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên rừng",
+        "text": "Xác định mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong quản lý, khai thác, sử dụng tài nguyên rừng;"
+    },
+    {
+        "id": "Điều 50.2b",
+        "article": "Điều 50",
+        "clause": "2b",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên rừng",
+        "text": "Xây dựng kế hoạch, biện pháp để thực hiện mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong quản lý, khai thác, sử dụng tài nguyên rừng;"
+    },
+    {
+        "id": "Điều 50.2c",
+        "article": "Điều 50",
+        "clause": "2c",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên rừng",
+        "text": "Sử dụng đúng mục đích, đúng ranh giới đã quy định trong quyết định giao, cho thuê rừng và theo quy chế quản lý rừng;"
+    },
+    {
+        "id": "Điều 50.2d",
+        "article": "Điều 50",
+        "clause": "2d",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên rừng",
+        "text": "Tổ chức kiểm tra, thanh tra việc khai thác, sử dụng tài nguyên rừng; phát hiện và kịp thời xử lý theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền xử lý hành vi làm ô nhiễm, hủy hoại, gây thất thoát, lãng phí tài nguyên rừng."
+    },
+    {
+        "id": "Điều 51.1",
+        "article": "Điều 51",
+        "clause": "1",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên khác",
+        "text": "Tài nguyên khác chưa được quy định tại các điều 47, 48, 49 và 50 của Luật này phải được quản lý, khai thác và sử dụng tiết kiệm, hiệu quả."
+    },
+    {
+        "id": "Điều 51.2",
+        "article": "Điều 51",
+        "clause": "2",
+        "title": "Quản lý, khai thác, sử dụng tài nguyên khác",
+        "text": "Cơ quan, tổ chức, hộ gia đình và cá nhân được giao khai thác, sử dụng tài nguyên có trách nhiệm xây dựng kế hoạch, biện pháp để khai thác, sử dụng tiết kiệm, hiệu quả."
+    },
+    {
+        "id": "Điều 52.1",
+        "article": "Điều 52",
+        "clause": "1",
+        "title": "Sử dụng tài nguyên tái chế và các nguồn năng lượng tái tạo",
+        "text": "Sử dụng tài nguyên tái chế và các nguồn năng lượng tái tạo được xác định là phương thức thực hành tiết kiệm, chống lãng phí hiệu quả. Các dự án đầu tư tái chế, sử dụng tài nguyên tái chế và sử dụng các nguồn năng lượng tái tạo được hưởng các ưu đãi đầu tư theo quy định của pháp luật về đầu tư."
+    },
+    {
+        "id": "Điều 52.2",
+        "article": "Điều 52",
+        "clause": "2",
+        "title": "Sử dụng tài nguyên tái chế và các nguồn năng lượng tái tạo",
+        "text": "Nhà đầu tư góp vốn dưới các hình thức bằng sáng chế, bí quyết kỹ thuật, quy trình công nghệ, dịch vụ kỹ thuật liên quan đến sử dụng tài nguyên tái chế và nguồn năng lượng tái tạo được hỗ trợ tài chính theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 52.3",
+        "article": "Điều 52",
+        "clause": "3",
+        "title": "Sử dụng tài nguyên tái chế và các nguồn năng lượng tái tạo",
+        "text": "Tổ chức, cá nhân có sáng kiến tái chế, sử dụng tài nguyên tái chế và các nguồn năng lượng tái tạo góp phần tiết kiệm, chống lãng phí được khen thưởng từ nguồn kinh phí tiết kiệm được do áp dụng sáng kiến và theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 53.1",
+        "article": "Điều 53",
+        "clause": "1",
+        "title": "Hành vi gây lãng phí trong quản lý, khai thác, sử dụng tài nguyên",
+        "text": "Quản lý, khai thác, sử dụng tài nguyên không đúng quy hoạch, kế hoạch, quy trình đã được cơ quan nhà nước có thẩm quyền phê duyệt."
+    },
+    {
+        "id": "Điều 53.2",
+        "article": "Điều 53",
+        "clause": "2",
+        "title": "Hành vi gây lãng phí trong quản lý, khai thác, sử dụng tài nguyên",
+        "text": "Gây ô nhiễm, hủy hoại tài nguyên; không thực hiện các giải pháp, biện pháp bảo vệ môi trường."
+    },
+    {
+        "id": "Điều 53.3",
+        "article": "Điều 53",
+        "clause": "3",
+        "title": "Hành vi gây lãng phí trong quản lý, khai thác, sử dụng tài nguyên",
+        "text": "Giao đất, cho thuê đất, thu hồi đất, cho phép chuyển mục đích sử dụng đất không đúng quy hoạch, kế hoạch sử dụng đất đã được phê duyệt; sử dụng đất không đúng mục đích, không hiệu quả; chậm đưa vào sử dụng theo quyết định giao đất, hợp đồng thuê đất; không thực hiện đúng thời hạn trả lại đất theo quyết định thu hồi đất của cơ quan nhà nước có thẩm quyền; bỏ hoang, không khai thác hết diện tích được giao."
+    },
+    {
+        "id": "Điều 53.4",
+        "article": "Điều 53",
+        "clause": "4",
+        "title": "Hành vi gây lãng phí trong quản lý, khai thác, sử dụng tài nguyên",
+        "text": "Không xây dựng biện pháp để thực hiện mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong quản lý, khai thác, sử dụng tài nguyên."
+    },
+    {
+        "id": "Điều 53.5",
+        "article": "Điều 53",
+        "clause": "5",
+        "title": "Hành vi gây lãng phí trong quản lý, khai thác, sử dụng tài nguyên",
+        "text": "Không thực hiện phân loại, xử lý tái chế chất thải theo quy định của pháp luật; gây khó khăn, cản trở cho cơ quan, tổ chức, cá nhân thực hiện nghiên cứu ứng dụng khoa học, công nghệ, thực hiện các dự án sử dụng tài nguyên tái chế."
+    },
+    {
+        "id": "Điều 53.6",
+        "article": "Điều 53",
+        "clause": "6",
+        "title": "Hành vi gây lãng phí trong quản lý, khai thác, sử dụng tài nguyên",
+        "text": "Cấp phép khai thác, chế biến tài nguyên không đáp ứng được yêu cầu sử dụng tiến bộ khoa học, công nghệ. MỤC 6. THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ TRONG TỔ CHỨC BỘ MÁY, QUẢN LÝ, SỬ DỤNG LAO ĐỘNG VÀ THỜI GIAN LAO ĐỘNG TRONG KHU VỰC NHÀ NƯỚC"
+    },
+    {
+        "id": "Điều 54.1",
+        "article": "Điều 54",
+        "clause": "1",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí trong quản lý, sử dụng lao động và thời gian lao động",
+        "text": "Tuân thủ các quy định của pháp luật về quản lý, sử dụng lao động và thời gian lao động."
+    },
+    {
+        "id": "Điều 54.2",
+        "article": "Điều 54",
+        "clause": "2",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí trong quản lý, sử dụng lao động và thời gian lao động",
+        "text": "Cơ quan có thẩm quyền khi xét duyệt biên chế, quyết định sử dụng nguồn lực lao động, thời gian lao động phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm, chỉ tiêu biên chế bảo đảm yêu cầu tiết kiệm, chống lãng phí."
+    },
+    {
+        "id": "Điều 54.3",
+        "article": "Điều 54",
+        "clause": "3",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí trong quản lý, sử dụng lao động và thời gian lao động",
+        "text": "Quản lý, sử dụng lao động, thời gian lao động phải trên cơ sở ứng dụng công nghệ, hiện đại hóa và yêu cầu cải cách hành chính."
+    },
+    {
+        "id": "Điều 54.4",
+        "article": "Điều 54",
+        "clause": "4",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí trong quản lý, sử dụng lao động và thời gian lao động",
+        "text": "Việc tổ chức bộ máy của các cơ quan, tổ chức phải trên cơ sở rà soát về vị trí, chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức, định mức biên chế hiện có để tránh chồng chéo, bỏ trống, trùng lặp về chức năng, nhiệm vụ."
+    },
+    {
+        "id": "Điều 55.1",
+        "article": "Điều 55",
+        "clause": "1",
+        "title": "Quản lý, sử dụng lao động và thời gian lao động trong cơ quan nhà nước",
+        "text": "Tuyển dụng công chức trong cơ quan, tổ chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và trong phạm vi biên chế được cơ quan nhà nước có thẩm quyền quyết định; bảo đảm công khai, minh bạch, công bằng, khách quan và theo quy định của pháp luật về cán bộ, công chức."
+    },
+    {
+        "id": "Điều 55.2",
+        "article": "Điều 55",
+        "clause": "2",
+        "title": "Quản lý, sử dụng lao động và thời gian lao động trong cơ quan nhà nước",
+        "text": "Đào tạo nguồn lực, bố trí, sử dụng cán bộ, công chức phải căn cứ vào kế hoạch phát triển nguồn nhân lực, yêu cầu của vị trí công việc, trình độ đào tạo, năng lực chuyên môn, ngạch cán bộ, công chức. Việc nâng ngạch, chuyển ngạch, bổ nhiệm cán bộ, công chức phải theo đúng quy định của pháp luật về cán bộ, công chức."
+    },
+    {
+        "id": "Điều 55.3",
+        "article": "Điều 55",
+        "clause": "3",
+        "title": "Quản lý, sử dụng lao động và thời gian lao động trong cơ quan nhà nước",
+        "text": "Việc sử dụng lao động, thời gian lao động phải trên cơ sở tổ chức công việc hợp lý, khoa học, hiệu quả và gắn với cải cách hành chính."
+    },
+    {
+        "id": "Điều 55.4",
+        "article": "Điều 55",
+        "clause": "4",
+        "title": "Quản lý, sử dụng lao động và thời gian lao động trong cơ quan nhà nước",
+        "text": "Cơ quan, tổ chức, người đứng đầu cơ quan, tổ chức phải xây dựng kế hoạch đào tạo, bồi dưỡng, đánh giá cán bộ, công chức theo quy định của pháp luật về cán bộ, công chức; xây dựng kế hoạch sử dụng thời gian lao động, xử lý công việc phù hợp; xây dựng quy định về kỷ luật lao động phù hợp với quy định của pháp luật về lao động và pháp luật về cán bộ, công chức."
+    },
+    {
+        "id": "Điều 56.1",
+        "article": "Điều 56",
+        "clause": "1",
+        "title": "Quản lý, sử dụng lao động và thời gian lao động trong đơn vị sự nghiệp công lập",
+        "text": "Tuyển dụng viên chức trong đơn vị sự nghiệp công lập phải trên cơ sở tiêu chuẩn chức danh nghề nghiệp, vị trí việc làm và yêu cầu công việc; bảo đảm công khai, minh bạch, công bằng, khách quan; đề cao trách nhiệm của người đứng đầu đơn vị sự nghiệp công lập và theo quy định của pháp luật về viên chức."
+    },
+    {
+        "id": "Điều 56.2",
+        "article": "Điều 56",
+        "clause": "2",
+        "title": "Quản lý, sử dụng lao động và thời gian lao động trong đơn vị sự nghiệp công lập",
+        "text": "Đào tạo, bồi dưỡng lao động trong đơn vị sự nghiệp công lập phải căn cứ vào tiêu chuẩn chức vụ quản lý, chức danh nghề nghiệp, yêu cầu cập nhật kiến thức, kỹ năng nghề nghiệp."
+    },
+    {
+        "id": "Điều 56.3",
+        "article": "Điều 56",
+        "clause": "3",
+        "title": "Quản lý, sử dụng lao động và thời gian lao động trong đơn vị sự nghiệp công lập",
+        "text": "Đơn vị sự nghiệp công lập phải tổ chức công việc hợp lý, khoa học, gắn với yêu cầu nâng cao chất lượng phục vụ và hiệu quả hoạt động sự nghiệp."
+    },
+    {
+        "id": "Điều 56.4",
+        "article": "Điều 56",
+        "clause": "4",
+        "title": "Quản lý, sử dụng lao động và thời gian lao động trong đơn vị sự nghiệp công lập",
+        "text": "Đơn vị sự nghiệp công lập phải xây dựng kế hoạch đào tạo, bồi dưỡng, đánh giá, phân loại viên chức theo đúng quy định của pháp luật về viên chức; xây dựng kế hoạch sử dụng thời gian lao động, xử lý công việc phù hợp; xây dựng quy định về kỷ luật lao động phù hợp với quy định của pháp luật về lao động và pháp luật về viên chức."
+    },
+    {
+        "id": "Điều 58.1",
+        "article": "Điều 58",
+        "clause": "1",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng lao động, thời gian lao động trong khu vực nhà nước",
+        "text": "Tuyển dụng công chức vượt quá chỉ tiêu biên chế theo quyết định của cơ quan có thẩm quyền; tuyển dụng sai đối tượng, không đúng quy định hoặc thẩm quyền."
+    },
+    {
+        "id": "Điều 58.2",
+        "article": "Điều 58",
+        "clause": "2",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng lao động, thời gian lao động trong khu vực nhà nước",
+        "text": "Tuyển dụng vào biên chế, ký hợp đồng lao động xác định thời hạn hoặc hợp đồng lao động không xác định thời hạn đối với những công việc có thể áp dụng hình thức hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 12 tháng hoặc tuyển dụng theo hình thức ngược lại."
+    },
+    {
+        "id": "Điều 58.3",
+        "article": "Điều 58",
+        "clause": "3",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng lao động, thời gian lao động trong khu vực nhà nước",
+        "text": "Tuyển dụng viên chức không căn cứ vào yêu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập."
+    },
+    {
+        "id": "Điều 58.4",
+        "article": "Điều 58",
+        "clause": "4",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng lao động, thời gian lao động trong khu vực nhà nước",
+        "text": "Bố trí, sử dụng cán bộ, công chức, viên chức không căn cứ vào yêu cầu công việc, trình độ đào tạo, năng lực chuyên môn, ngạch, chức danh theo quy định."
+    },
+    {
+        "id": "Điều 58.5",
+        "article": "Điều 58",
+        "clause": "5",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng lao động, thời gian lao động trong khu vực nhà nước",
+        "text": "Đào tạo, bồi dưỡng không đúng kế hoạch, không căn cứ vào yêu cầu cập nhật kiến thức, kỹ năng nghề nghiệp và năng lực của cán bộ, công chức, viên chức, người lao động."
+    },
+    {
+        "id": "Điều 58.6",
+        "article": "Điều 58",
+        "clause": "6",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng lao động, thời gian lao động trong khu vực nhà nước",
+        "text": "Sử dụng thời gian lao động vào việc riêng, sử dụng thời gian lao động không hiệu quả."
+    },
+    {
+        "id": "Điều 58.7",
+        "article": "Điều 58",
+        "clause": "7",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng lao động, thời gian lao động trong khu vực nhà nước",
+        "text": "Giao biên chế cao hơn so với nhu cầu thực tế, không phù hợp với tiến bộ khoa học, trình độ tay nghề của người lao động. MỤC 7. THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ TRONG QUẢN LÝ, SỬ DỤNG VỐN VÀ TÀI SẢN NHÀ NƯỚC TẠI DOANH NGHIỆP"
+    },
+    {
+        "id": "Điều 59.1",
+        "article": "Điều 59",
+        "clause": "1",
+        "title": "Quản lý, sử dụng vốn nhà nước tại doanh nghiệp",
+        "text": "Việc quản lý, sử dụng vốn nhà nước tại doanh nghiệp phải trên cơ sở hiệu quả sử dụng, đa dạng hóa nguồn vốn, có cơ cấu vốn hợp lý, tiết kiệm; đúng mục đích, chế độ theo quy định của pháp luật và điều lệ doanh nghiệp."
+    },
+    {
+        "id": "Điều 59.2",
+        "article": "Điều 59",
+        "clause": "2",
+        "title": "Quản lý, sử dụng vốn nhà nước tại doanh nghiệp",
+        "text": "Người đại diện theo ủy quyền phần vốn góp của Nhà nước tại doanh nghiệp có trách nhiệm theo dõi, giám sát tình hình hoạt động, kinh doanh của doanh nghiệp liên quan đến hiệu quả của vốn góp, kịp thời phát hiện các sai phạm phát sinh, tình trạng sử dụng vốn kém hiệu quả, nguy cơ mất vốn, báo cáo kịp thời chủ sở hữu."
+    },
+    {
+        "id": "Điều 60.1",
+        "article": "Điều 60",
+        "clause": "1",
+        "title": "Quản lý, sử dụng đất và tài sản nhà nước tại doanh nghiệp",
+        "text": "Quản lý, sử dụng tài sản nhà nước tại doanh nghiệp phải trên cơ sở nâng cao năng suất, chất lượng, hiệu quả sử dụng tài sản. Việc quản lý, sử dụng đất phải bảo đảm đúng mục đích ghi trong quyết định giao đất, hợp đồng cho thuê đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất do cơ quan nhà nước có thẩm quyền cấp phù hợp với quy hoạch được cấp có thẩm quyền phê duyệt."
+    },
+    {
+        "id": "Điều 60.2",
+        "article": "Điều 60",
+        "clause": "2",
+        "title": "Quản lý, sử dụng đất và tài sản nhà nước tại doanh nghiệp",
+        "text": "Người quản lý doanh nghiệp có trách nhiệm:"
+    },
+    {
+        "id": "Điều 60.2a",
+        "article": "Điều 60",
+        "clause": "2a",
+        "title": "Quản lý, sử dụng đất và tài sản nhà nước tại doanh nghiệp",
+        "text": "Xây dựng quy chế quản lý, sử dụng hiệu quả đất và tài sản nhà nước tại doanh nghiệp;"
+    },
+    {
+        "id": "Điều 60.2b",
+        "article": "Điều 60",
+        "clause": "2b",
+        "title": "Quản lý, sử dụng đất và tài sản nhà nước tại doanh nghiệp",
+        "text": "Hàng năm, tổ chức công tác kiểm tra, kiểm toán nội bộ, đánh giá tình hình thực hành tiết kiệm, chống lãng phí trong doanh nghiệp; kịp thời phát hiện các trường hợp sai phạm để xử lý theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 61.1",
+        "article": "Điều 61",
+        "clause": "1",
+        "title": "Thực hành tiết kiệm, chống lãng phí tại doanh nghiệp nhà nước",
+        "text": "Ngoài việc thực hiện quy định tại Điều 59 và Điều 60 của Luật này, doanh nghiệp nhà nước còn phải thực hiện các quy định sau đây:"
+    },
+    {
+        "id": "Điều 61.1a",
+        "article": "Điều 61",
+        "clause": "1a",
+        "title": "Thực hành tiết kiệm, chống lãng phí tại doanh nghiệp nhà nước",
+        "text": "Thực hiện chế độ về quản lý tài chính, quy định về giám sát tài chính theo quy định của pháp luật;"
+    },
+    {
+        "id": "Điều 61.1b",
+        "article": "Điều 61",
+        "clause": "1b",
+        "title": "Thực hành tiết kiệm, chống lãng phí tại doanh nghiệp nhà nước",
+        "text": "Xác định và xây dựng đồng bộ các giải pháp thực hiện mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong quản lý, sử dụng vốn, các quỹ, tài sản trong doanh nghiệp;"
+    },
+    {
+        "id": "Điều 61.1c",
+        "article": "Điều 61",
+        "clause": "1c",
+        "title": "Thực hành tiết kiệm, chống lãng phí tại doanh nghiệp nhà nước",
+        "text": "Kiểm tra, phát hiện kịp thời các hành vi gây lãng phí phát sinh tại doanh nghiệp;"
+    },
+    {
+        "id": "Điều 61.1d",
+        "article": "Điều 61",
+        "clause": "1d",
+        "title": "Thực hành tiết kiệm, chống lãng phí tại doanh nghiệp nhà nước",
+        "text": "Thực hiện khuyến khích đối với những cơ quan, tổ chức, cá nhân đã có các phát hiện lãng phí xảy ra trong doanh nghiệp, khen thưởng đối với những người có thành tích trong thực hành tiết kiệm, chống lãng phí."
+    },
+    {
+        "id": "Điều 61.2",
+        "article": "Điều 61",
+        "clause": "2",
+        "title": "Thực hành tiết kiệm, chống lãng phí tại doanh nghiệp nhà nước",
+        "text": "Người đứng đầu doanh nghiệp nhà nước có trách nhiệm:"
+    },
+    {
+        "id": "Điều 61.2a",
+        "article": "Điều 61",
+        "clause": "2a",
+        "title": "Thực hành tiết kiệm, chống lãng phí tại doanh nghiệp nhà nước",
+        "text": "Xây dựng, đăng ký với chủ sở hữu mục tiêu, chỉ tiêu cụ thể về tiết kiệm, tiết giảm chi phí sản xuất, kinh doanh hàng năm và dài hạn của doanh nghiệp;"
+    },
+    {
+        "id": "Điều 61.2b",
+        "article": "Điều 61",
+        "clause": "2b",
+        "title": "Thực hành tiết kiệm, chống lãng phí tại doanh nghiệp nhà nước",
+        "text": "Đề ra các biện pháp, giải pháp để thực hiện mục tiêu, chỉ tiêu tiết kiệm, tiết giảm chi phí, công khai đến người lao động trong doanh nghiệp;"
+    },
+    {
+        "id": "Điều 61.2c",
+        "article": "Điều 61",
+        "clause": "2c",
+        "title": "Thực hành tiết kiệm, chống lãng phí tại doanh nghiệp nhà nước",
+        "text": "Tổ chức thực hiện các mục tiêu, chỉ tiêu tiết kiệm đã đăng ký, định kỳ hàng năm báo cáo chủ sở hữu và cơ quan quản lý có liên quan về kết quả thực hiện;"
+    },
+    {
+        "id": "Điều 61.2d",
+        "article": "Điều 61",
+        "clause": "2d",
+        "title": "Thực hành tiết kiệm, chống lãng phí tại doanh nghiệp nhà nước",
+        "text": "Tổ chức kiểm tra, kiểm soát nội bộ, thực hiện tự kiểm tra, rà soát, báo cáo giám sát tài chính để phát hiện kịp thời các sai phạm trong quản lý, sử dụng vốn và các quỹ của doanh nghiệp."
+    },
+    {
+        "id": "Điều 62.1",
+        "article": "Điều 62",
+        "clause": "1",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng vốn nhà nước tại doanh nghiệp",
+        "text": "Hành vi gây lãng phí trong quản lý, sử dụng vốn nhà nước trong doanh nghiệp, bao gồm:"
+    },
+    {
+        "id": "Điều 62.1a",
+        "article": "Điều 62",
+        "clause": "1a",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng vốn nhà nước tại doanh nghiệp",
+        "text": "Quản lý, sử dụng vốn nhà nước kém hiệu quả, gây thất thoát;"
+    },
+    {
+        "id": "Điều 62.1b",
+        "article": "Điều 62",
+        "clause": "1b",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng vốn nhà nước tại doanh nghiệp",
+        "text": "Quản lý, sử dụng tài sản nhà nước không đúng mục đích;"
+    },
+    {
+        "id": "Điều 62.1c",
+        "article": "Điều 62",
+        "clause": "1c",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng vốn nhà nước tại doanh nghiệp",
+        "text": "Trích lập và quản lý, sử dụng các quỹ không đúng mục đích, chế độ do cơ quan nhà nước có thẩm quyền ban hành;"
+    },
+    {
+        "id": "Điều 62.1d",
+        "article": "Điều 62",
+        "clause": "1d",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng vốn nhà nước tại doanh nghiệp",
+        "text": "Không tổ chức xây dựng các biện pháp để thực hiện mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí trong quản lý, sử dụng vốn nhà nước, tài sản nhà nước tại doanh nghiệp."
+    },
+    {
+        "id": "Điều 62.2",
+        "article": "Điều 62",
+        "clause": "2",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng vốn nhà nước tại doanh nghiệp",
+        "text": "Người đại diện theo ủy quyền đối với phần vốn góp của Nhà nước tại doanh nghiệp không thực hiện hoặc thực hiện không đúng quy định tại khoản 2 Điều 59 của Luật này để xảy ra lãng phí thì xử lý như sau:"
+    },
+    {
+        "id": "Điều 62.2a",
+        "article": "Điều 62",
+        "clause": "2a",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng vốn nhà nước tại doanh nghiệp",
+        "text": "Có trách nhiệm giải trình theo yêu cầu của chủ sở hữu;"
+    },
+    {
+        "id": "Điều 62.2b",
+        "article": "Điều 62",
+        "clause": "2b",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng vốn nhà nước tại doanh nghiệp",
+        "text": "Tùy theo mức độ vi phạm bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 62.3",
+        "article": "Điều 62",
+        "clause": "3",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng vốn nhà nước tại doanh nghiệp",
+        "text": "Người đứng đầu doanh nghiệp nhà nước không thực hiện hoặc thực hiện không đúng quy định tại Điều 61 của Luật này và có hành vi vi phạm quy định tại khoản 1 Điều này để xảy ra lãng phí thì xử lý như sau: MỤC 8. THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ TRONG HOẠT ĐỘNG SẢN XUẤT, KINH DOANH VÀ TIÊU DÙNG CỦA NHÂN DÂN"
+    },
+    {
+        "id": "Điều 62.3a",
+        "article": "Điều 62",
+        "clause": "3a",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng vốn nhà nước tại doanh nghiệp",
+        "text": "Có trách nhiệm giải trình theo yêu cầu của chủ sở hữu, của cơ quan thanh tra, Kiểm toán nhà nước, giám sát và cơ quan quản lý nhà nước chuyên ngành;"
+    },
+    {
+        "id": "Điều 62.3b",
+        "article": "Điều 62",
+        "clause": "3b",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng vốn nhà nước tại doanh nghiệp",
+        "text": "Bồi thường một phần hoặc toàn bộ thiệt hại theo quy định của pháp luật;"
+    },
+    {
+        "id": "Điều 62.3c",
+        "article": "Điều 62",
+        "clause": "3c",
+        "title": "Hành vi gây lãng phí trong quản lý, sử dụng vốn nhà nước tại doanh nghiệp",
+        "text": "Tùy theo mức độ vi phạm bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 63.1",
+        "article": "Điều 63",
+        "clause": "1",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí trong hoạt động sản xuất, kinh doanh và tiêu dùng của nhân dân",
+        "text": "Bảo đảm quyền và lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân trong hoạt động sản xuất, kinh doanh và tiêu dùng."
+    },
+    {
+        "id": "Điều 63.2",
+        "article": "Điều 63",
+        "clause": "2",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí trong hoạt động sản xuất, kinh doanh và tiêu dùng của nhân dân",
+        "text": "Không làm cản trở giao thông và các hoạt động công cộng; không gây mất trật tự, an ninh xã hội; không gây ô nhiễm môi trường."
+    },
+    {
+        "id": "Điều 63.3",
+        "article": "Điều 63",
+        "clause": "3",
+        "title": "Nguyên tắc thực hành tiết kiệm, chống lãng phí trong hoạt động sản xuất, kinh doanh và tiêu dùng của nhân dân",
+        "text": "Giữ gìn thuần phong, mỹ tục, xây dựng nếp sống văn hóa, văn minh, lành mạnh; tránh lãng phí làm ảnh hưởng đến quyền, lợi ích hợp pháp của cộng đồng."
+    },
+    {
+        "id": "Điều 64.1",
+        "article": "Điều 64",
+        "clause": "1",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong đầu tư xây dựng, sản xuất, kinh doanh và tiêu dùng của nhân dân",
+        "text": "Các dự án đầu tư phát triển sản xuất, kinh doanh phải thực hiện đúng quy hoạch, kế hoạch sử dụng đất, quy hoạch xây dựng, quy hoạch bảo tồn, tôn tạo di sản văn hóa, quy hoạch chuyên ngành và quy định về bảo vệ cảnh quan môi trường do cơ quan nhà nước có thẩm quyền ban hành."
+    },
+    {
+        "id": "Điều 64.2",
+        "article": "Điều 64",
+        "clause": "2",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong đầu tư xây dựng, sản xuất, kinh doanh và tiêu dùng của nhân dân",
+        "text": "Việc sử dụng vốn, lao động, tài nguyên thiên nhiên và các nguồn lực khác trong đầu tư xây dựng, sản xuất, kinh doanh phải trên cơ sở tiết kiệm và hiệu quả."
+    },
+    {
+        "id": "Điều 64.3",
+        "article": "Điều 64",
+        "clause": "3",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong đầu tư xây dựng, sản xuất, kinh doanh và tiêu dùng của nhân dân",
+        "text": "Nhà nước khuyến khích tổ chức và cá nhân thực hành tiết kiệm, chống lãng phí trong sản xuất, kinh doanh và tiêu dùng để dành vốn đầu tư vào sản xuất, kinh doanh và các hình thức đầu tư khác mà pháp luật không cấm."
+    },
+    {
+        "id": "Điều 65.1",
+        "article": "Điều 65",
+        "clause": "1",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong tổ chức lễ hội và các hoạt động khác có sử dụng nguồn lực đóng góp của cộng đồng",
+        "text": "Việc tổ chức lễ hội và các hoạt động khác có sử dụng nguồn lực đóng góp của cộng đồng phải bảo đảm tiết kiệm, đúng mục đích, hiệu quả, công khai, minh bạch, giữ gìn thuần phong, mỹ tục, xây dựng nếp sống văn hóa, văn minh, lành mạnh, tránh lãng phí."
+    },
+    {
+        "id": "Điều 65.2",
+        "article": "Điều 65",
+        "clause": "2",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong tổ chức lễ hội và các hoạt động khác có sử dụng nguồn lực đóng góp của cộng đồng",
+        "text": "Tổ chức, cá nhân không thực hiện, thực hiện không đúng quy định tại khoản 1 Điều này để xảy ra lãng phí phải thực hiện giải trình trước cộng đồng dân cư, Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận Tổ quốc Việt Nam, cơ quan thông tin đại chúng và cơ quan quản lý chuyên ngành nơi diễn ra hoạt động tổ chức."
+    },
+    {
+        "id": "Điều 65.3",
+        "article": "Điều 65",
+        "clause": "3",
+        "title": "Thực hành tiết kiệm, chống lãng phí trong tổ chức lễ hội và các hoạt động khác có sử dụng nguồn lực đóng góp của cộng đồng",
+        "text": "Thủ tướng Chính phủ quy định cụ thể về thực hiện nếp sống văn minh trong việc cưới, việc tang và lễ hội bảo đảm thực hành tiết kiệm, chống lãng phí trong sản xuất, kinh doanh và tiêu dùng của nhân dân; quy định chính sách khuyến khích toàn dân thực hành tiết kiệm, chống lãng phí trong việc cưới, việc tang."
+    },
+    {
+        "id": "Điều 66.1",
+        "article": "Điều 66",
+        "clause": "1",
+        "title": "Tổ chức thực hiện quy định về thực hành tiết kiệm, chống lãng phí trong hoạt động sản xuất, kinh doanh và tiêu dùng của nhân dân",
+        "text": "Hội đồng nhân dân, Ủy ban nhân dân các cấp căn cứ vào quy định của Thủ tướng Chính phủ, theo thẩm quyền quyết định quy mô lễ hội và các hoạt động văn hóa khác trên địa bàn; quy định về chính sách khuyến khích thực hành tiết kiệm, chống lãng phí trong việc cưới, việc tang; có trách nhiệm tổ chức triển khai phong trào thực hành tiết kiệm, chống lãng phí trong nhân dân, quy định các hình thức biểu dương, khen thưởng đối với tổ chức, hộ gia đình, cá nhân thực hiện tốt quy định của pháp luật về thực hành tiết kiệm, chống lãng phí."
+    },
+    {
+        "id": "Điều 66.2",
+        "article": "Điều 66",
+        "clause": "2",
+        "title": "Tổ chức thực hiện quy định về thực hành tiết kiệm, chống lãng phí trong hoạt động sản xuất, kinh doanh và tiêu dùng của nhân dân",
+        "text": "Bộ Văn hóa, Thể thao và Du lịch xây dựng tiêu chuẩn gia đình văn hóa gắn với việc khuyến khích, động viên nhân dân thực hành tiết kiệm, chống lãng phí, góp phần xây dựng xã hội văn minh, lành mạnh."
+    },
+    {
+        "id": "Điều 66.3",
+        "article": "Điều 66",
+        "clause": "3",
+        "title": "Tổ chức thực hiện quy định về thực hành tiết kiệm, chống lãng phí trong hoạt động sản xuất, kinh doanh và tiêu dùng của nhân dân",
+        "text": "Cơ quan, tổ chức có trách nhiệm đưa nội dung thực hành tiết kiệm, chống lãng phí vào điều lệ, quy chế, quy định của cơ quan, tổ chức; yêu cầu cán bộ, công chức, viên chức và thành viên của tổ chức mình phải gương mẫu thực hiện quy định của pháp luật về thực hành tiết kiệm, chống lãng phí; căn cứ kết quả thực hành tiết kiệm, chống lãng phí để xem xét, đánh giá cán bộ, công chức, viên chức và thành viên của tổ chức."
+    },
+    {
+        "id": "Điều 66.4",
+        "article": "Điều 66",
+        "clause": "4",
+        "title": "Tổ chức thực hiện quy định về thực hành tiết kiệm, chống lãng phí trong hoạt động sản xuất, kinh doanh và tiêu dùng của nhân dân",
+        "text": "Cơ quan thông tin đại chúng kịp thời tuyên truyền, cổ vũ, biểu dương gương người tốt, việc tốt trong việc thực hành tiết kiệm, chống lãng phí, lên án, phê phán hành vi lãng phí. Chương 3. TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC TRONG THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ"
+    },
+    {
+        "id": "Điều 67.1",
+        "article": "Điều 67",
+        "clause": "1",
+        "title": "Trách nhiệm của Chính phủ",
+        "text": "Trình Quốc hội, Ủy ban thường vụ Quốc hội ban hành hoặc ban hành theo thẩm quyền văn bản quy phạm pháp luật, chính sách, biện pháp cụ thể thực hành tiết kiệm, chống lãng phí theo yêu cầu quản lý, phù hợp với từng thời kỳ phát triển kinh tế - xã hội của đất nước."
+    },
+    {
+        "id": "Điều 67.2",
+        "article": "Điều 67",
+        "clause": "2",
+        "title": "Trách nhiệm của Chính phủ",
+        "text": "Xây dựng, ban hành và tổ chức thực hiện Chương trình tổng thể về thực hành tiết kiệm, chống lãng phí hàng năm và dài hạn; xác định, định hướng mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí chung trong cả nước gắn với kế hoạch phát triển kinh tế - xã hội."
+    },
+    {
+        "id": "Điều 67.3",
+        "article": "Điều 67",
+        "clause": "3",
+        "title": "Trách nhiệm của Chính phủ",
+        "text": "Chỉ đạo các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương: phối hợp trong việc thực hiện nhiệm vụ để bảo đảm thực hành tiết kiệm, chống lãng phí; xây dựng và thực hiện Chương trình thực hành tiết kiệm, chống lãng phí hàng năm và dài hạn thuộc phạm vi, lĩnh vực quản lý, quyết định chỉ tiêu tiết kiệm cụ thể của ngành, lĩnh vực trọng yếu trong Chương trình thực hành tiết kiệm, chống lãng phí của các bộ, ngành và địa phương."
+    },
+    {
+        "id": "Điều 67.4",
+        "article": "Điều 67",
+        "clause": "4",
+        "title": "Trách nhiệm của Chính phủ",
+        "text": "Quy định chế độ báo cáo việc thực hành tiết kiệm, chống lãng phí; tổng hợp báo cáo Quốc hội kết quả thực hành tiết kiệm, chống lãng phí hàng năm tại kỳ họp đầu năm sau."
+    },
+    {
+        "id": "Điều 67.5",
+        "article": "Điều 67",
+        "clause": "5",
+        "title": "Trách nhiệm của Chính phủ",
+        "text": "Tổ chức công tác thanh tra, kiểm tra việc thực hành tiết kiệm, chống lãng phí; xử lý kịp thời, nghiêm minh và công khai việc xử lý đối với hành vi vi phạm pháp luật về thực hành tiết kiệm, chống lãng phí theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 67.6",
+        "article": "Điều 67",
+        "clause": "6",
+        "title": "Trách nhiệm của Chính phủ",
+        "text": "Tăng cường công tác phối hợp với Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam trong việc giám sát thực hành tiết kiệm, chống lãng phí và chỉ đạo các cơ quan thông tin đại chúng đẩy mạnh tuyên truyền, vận động toàn dân thực hành tiết kiệm, chống lãng phí."
+    },
+    {
+        "id": "Điều 68.1",
+        "article": "Điều 68",
+        "clause": "1",
+        "title": "Trách nhiệm của Bộ Tài chính",
+        "text": "Giúp Chính phủ thống nhất triển khai, hướng dẫn các quy định của Luật này; tổng hợp trình Chính phủ phê duyệt Chương trình tổng thể về thực hành tiết kiệm, chống lãng phí hàng năm và dài hạn; triển khai thực hiện, kiểm tra và định kỳ tổng hợp, báo cáo kết quả thực hiện Chương trình thực hành tiết kiệm, chống lãng phí."
+    },
+    {
+        "id": "Điều 68.2",
+        "article": "Điều 68",
+        "clause": "2",
+        "title": "Trách nhiệm của Bộ Tài chính",
+        "text": "Ban hành hoặc trình cấp có thẩm quyền ban hành văn bản quy phạm pháp luật quy định chi tiết, hướng dẫn thi hành Luật này."
+    },
+    {
+        "id": "Điều 68.3",
+        "article": "Điều 68",
+        "clause": "3",
+        "title": "Trách nhiệm của Bộ Tài chính",
+        "text": "Hướng dẫn và giao chỉ tiêu tiết kiệm chi tiết theo từng lĩnh vực quản lý gắn với lập kế hoạch ngân sách hàng năm; tổ chức triển khai thực hiện, chịu trách nhiệm về kết quả thực hành tiết kiệm, chống lãng phí trong phạm vi ngành, lĩnh vực quản lý."
+    },
+    {
+        "id": "Điều 68.4",
+        "article": "Điều 68",
+        "clause": "4",
+        "title": "Trách nhiệm của Bộ Tài chính",
+        "text": "Tổng hợp, báo cáo kết quả thực hành tiết kiệm, chống lãng phí chung trong phạm vi cả nước trình Chính phủ."
+    },
+    {
+        "id": "Điều 68.5",
+        "article": "Điều 68",
+        "clause": "5",
+        "title": "Trách nhiệm của Bộ Tài chính",
+        "text": "Thực hiện thanh tra, kiểm tra, xử lý vi phạm việc chấp hành, tổ chức thực hiện quy định của pháp luật về thực hành tiết kiệm, chống lãng phí trong phạm vi ngành, lĩnh vực quản lý; tổ chức triển khai công tác kiểm soát chi của Kho bạc nhà nước theo đúng quy định."
+    },
+    {
+        "id": "Điều 69.1",
+        "article": "Điều 69",
+        "clause": "1",
+        "title": "Trách nhiệm của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ",
+        "text": "Ban hành hoặc trình cấp có thẩm quyền ban hành các cơ chế, chính sách và biện pháp thực hành tiết kiệm, chống lãng phí trong phạm vi ngành, lĩnh vực quản lý theo thẩm quyền gắn với xác định mục tiêu, chỉ tiêu tiết kiệm và tổ chức thực hiện bảo đảm tiến độ và chất lượng công việc."
+    },
+    {
+        "id": "Điều 69.2",
+        "article": "Điều 69",
+        "clause": "2",
+        "title": "Trách nhiệm của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ",
+        "text": "Rà soát hệ thống định mức kinh tế - kỹ thuật, tiêu chuẩn, chế độ thuộc thẩm quyền quản lý; sửa đổi, bổ sung, ban hành hoặc trình cấp có thẩm quyền ban hành kịp thời, phù hợp với tình hình thực tiễn, tiến bộ khoa học và công nghệ, bảo đảm tiết kiệm, chống lãng phí."
+    },
+    {
+        "id": "Điều 69.3",
+        "article": "Điều 69",
+        "clause": "3",
+        "title": "Trách nhiệm của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ",
+        "text": "Xây dựng và thực hiện Chương trình thực hành tiết kiệm, chống lãng phí hàng năm và dài hạn, trong đó xác định rõ mục tiêu, chỉ tiêu, tiêu chí đánh giá tiết kiệm cho ngành, lĩnh vực và cho các cơ quan, tổ chức thuộc phạm vi quản lý gửi Bộ Tài chính để tổng hợp."
+    },
+    {
+        "id": "Điều 69.4",
+        "article": "Điều 69",
+        "clause": "4",
+        "title": "Trách nhiệm của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ",
+        "text": "Tổ chức triển khai thực hiện, chịu trách nhiệm về kết quả thực hành tiết kiệm, chống lãng phí trong phạm vi ngành, lĩnh vực quản lý. Tổng hợp kết quả thực hành tiết kiệm, chống lãng phí và xử lý hành vi lãng phí trong phạm vi ngành, lĩnh vực được giao quản lý, gửi Bộ Tài chính tổng hợp để báo cáo Chính phủ."
+    },
+    {
+        "id": "Điều 69.5",
+        "article": "Điều 69",
+        "clause": "5",
+        "title": "Trách nhiệm của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ",
+        "text": "Thực hiện thanh tra, kiểm tra, xử lý vi phạm và công khai việc xử lý vi phạm về thực hành tiết kiệm, chống lãng phí trong phạm vi ngành, lĩnh vực quản lý và đối với các cơ quan, tổ chức thuộc thẩm quyền quản lý."
+    },
+    {
+        "id": "Điều 70.1",
+        "article": "Điều 70",
+        "clause": "1",
+        "title": "Trách nhiệm của Hội đồng nhân dân các cấp",
+        "text": "Trong phạm vi chức năng, nhiệm vụ, quyền hạn ban hành quy định để thực hiện các biện pháp thực hành tiết kiệm, chống lãng phí trong phạm vi địa phương."
+    },
+    {
+        "id": "Điều 70.2",
+        "article": "Điều 70",
+        "clause": "2",
+        "title": "Trách nhiệm của Hội đồng nhân dân các cấp",
+        "text": "Quyết định các chủ trương, giải pháp thực hành tiết kiệm, chống lãng phí gắn với thực hiện Chương trình thực hành tiết kiệm, chống lãng phí, mục tiêu, chỉ tiêu tiết kiệm được giao phù hợp với tình hình phát triển kinh tế - xã hội, điều kiện cụ thể của địa phương."
+    },
+    {
+        "id": "Điều 70.3",
+        "article": "Điều 70",
+        "clause": "3",
+        "title": "Trách nhiệm của Hội đồng nhân dân các cấp",
+        "text": "Giám sát việc tổ chức thực hiện các biện pháp thực hành tiết kiệm, chống lãng phí ở địa phương; giám sát việc thực hiện công khai các lĩnh vực, hoạt động quy định tại Điều 5 của Luật này và kết quả thanh tra, kiểm tra thực hiện quy định về thực hành tiết kiệm, chống lãng phí tại địa phương."
+    },
+    {
+        "id": "Điều 71.1",
+        "article": "Điều 71",
+        "clause": "1",
+        "title": "Trách nhiệm của Ủy ban nhân dân các cấp",
+        "text": "Xây dựng và thực hiện Chương trình thực hành tiết kiệm, chống lãng phí hàng năm và dài hạn, trong đó xác định rõ mục tiêu, chỉ tiêu, biện pháp, tiêu chí đánh giá thực hành tiết kiệm, chống lãng phí hàng năm."
+    },
+    {
+        "id": "Điều 71.2",
+        "article": "Điều 71",
+        "clause": "2",
+        "title": "Trách nhiệm của Ủy ban nhân dân các cấp",
+        "text": "Tổ chức, triển khai thực hiện các biện pháp thực hành tiết kiệm, chống lãng phí trong phạm vi địa phương; tổng hợp báo cáo Hội đồng nhân dân cùng cấp và cơ quan tài chính cấp trên kết quả thực hành tiết kiệm, chống lãng phí và xử lý hành vi lãng phí ở địa phương."
+    },
+    {
+        "id": "Điều 71.3",
+        "article": "Điều 71",
+        "clause": "3",
+        "title": "Trách nhiệm của Ủy ban nhân dân các cấp",
+        "text": "Thực hiện thanh tra, kiểm tra và xử lý nghiêm minh, kịp thời theo đúng thẩm quyền và thực hiện công khai việc xử lý đối với hành vi vi phạm pháp luật về thực hành tiết kiệm, chống lãng phí tại địa phương."
+    },
+    {
+        "id": "Điều 71.4",
+        "article": "Điều 71",
+        "clause": "4",
+        "title": "Trách nhiệm của Ủy ban nhân dân các cấp",
+        "text": "Thực hiện công khai đối với các lĩnh vực, hoạt động quy định tại Điều 5 của Luật này theo thẩm quyền và theo phân cấp tại địa phương; bảo đảm việc thực hiện quyền giám sát thực hành tiết kiệm, chống lãng phí của công dân và các cơ quan, tổ chức có liên quan."
+    },
+    {
+        "id": "Điều 72.1",
+        "article": "Điều 72",
+        "clause": "1",
+        "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận Tổ quốc Việt Nam",
+        "text": "Giám sát việc thực hành tiết kiệm, chống lãng phí tại cơ quan, tổ chức của nhà nước; giám sát việc xử lý hành vi gây lãng phí theo quy định của pháp luật hiện hành."
+    },
+    {
+        "id": "Điều 72.2",
+        "article": "Điều 72",
+        "clause": "2",
+        "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận Tổ quốc Việt Nam",
+        "text": "Tổ chức tuyên truyền, vận động và hướng dẫn nhân dân thực hành tiết kiệm, chống lãng phí trong sản xuất, kinh doanh và tiêu dùng."
+    },
+    {
+        "id": "Điều 72.3",
+        "article": "Điều 72",
+        "clause": "3",
+        "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận Tổ quốc Việt Nam",
+        "text": "Ủy ban Mặt trận Tổ quốc Việt Nam xã, phường, thị trấn hướng dẫn Ban thanh tra nhân dân xã, phường, thị trấn, Ban giám sát đầu tư của cộng đồng; Ban Chấp hành công đoàn cơ quan, tổ chức, doanh nghiệp nhà nước chỉ đạo Ban thanh tra nhân dân tại cơ quan, tổ chức, doanh nghiệp nhà nước tổ chức hoạt động giám sát thực hành tiết kiệm, chống lãng phí."
+    },
+    {
+        "id": "Điều 72.4",
+        "article": "Điều 72",
+        "clause": "4",
+        "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận Tổ quốc Việt Nam",
+        "text": "Hàng năm, Ủy ban Mặt trận Tổ quốc Việt Nam phối hợp với các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp xây dựng và tổ chức thực hiện chương trình hành động giám sát và phản biện xã hội trong việc thực hành tiết kiệm, chống lãng phí."
+    },
+    {
+        "id": "Điều 73.1",
+        "article": "Điều 73",
+        "clause": "1",
+        "title": "Trách nhiệm của cơ quan thanh tra",
+        "text": "Cơ quan thực hiện chức năng thanh tra có trách nhiệm triển khai, tổ chức, chỉ đạo việc thanh tra thực hành tiết kiệm, chống lãng phí theo các nguyên tắc sau đây:"
+    },
+    {
+        "id": "Điều 73.1a",
+        "article": "Điều 73",
+        "clause": "1a",
+        "title": "Trách nhiệm của cơ quan thanh tra",
+        "text": "Thanh tra thực hành tiết kiệm, chống lãng phí được thực hiện trên cơ sở quy định của pháp luật và định mức, tiêu chuẩn, chế độ do cơ quan có thẩm quyền ban hành;"
+    },
+    {
+        "id": "Điều 73.1b",
+        "article": "Điều 73",
+        "clause": "1b",
+        "title": "Trách nhiệm của cơ quan thanh tra",
+        "text": "Việc thanh tra thực hành tiết kiệm, chống lãng phí không làm cản trở hoạt động bình thường của cơ quan, tổ chức được thanh tra;"
+    },
+    {
+        "id": "Điều 73.1c",
+        "article": "Điều 73",
+        "clause": "1c",
+        "title": "Trách nhiệm của cơ quan thanh tra",
+        "text": "Thanh tra việc thực hành tiết kiệm, chống lãng phí được thực hiện theo chương trình, kế hoạch và thanh tra đột xuất, gắn với hoạt động thanh tra trong từng lĩnh vực bảo đảm khách quan, trung thực;"
+    },
+    {
+        "id": "Điều 73.1d",
+        "article": "Điều 73",
+        "clause": "1d",
+        "title": "Trách nhiệm của cơ quan thanh tra",
+        "text": "Hoạt động thanh tra thực hành tiết kiệm, chống lãng phí phải theo đúng quy định của Luật này và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 73.2",
+        "article": "Điều 73",
+        "clause": "2",
+        "title": "Trách nhiệm của cơ quan thanh tra",
+        "text": "Phương thức thanh tra thực hành tiết kiệm, chống lãng phí;"
+    },
+    {
+        "id": "Điều 73.2a",
+        "article": "Điều 73",
+        "clause": "2a",
+        "title": "Trách nhiệm của cơ quan thanh tra",
+        "text": "Thanh tra thực hành tiết kiệm, chống lãng phí phải gắn với việc thực hiện chức năng, nhiệm vụ thanh tra của các cơ quan, tổ chức và phải đúng trình tự, thủ tục thanh tra theo quy định của pháp luật về thanh tra. Các cơ quan được giao thực hiện chức năng thanh tra chuyên ngành phải đưa việc thanh tra về thực hành tiết kiệm, chống lãng phí vào nội dung các cuộc thanh tra thuộc lĩnh vực quản lý chuyên ngành;"
+    },
+    {
+        "id": "Điều 73.2b",
+        "article": "Điều 73",
+        "clause": "2b",
+        "title": "Trách nhiệm của cơ quan thanh tra",
+        "text": "Tổ chức thanh tra chuyên đề về thực hành tiết kiệm, chống lãng phí."
+    },
+    {
+        "id": "Điều 73.3",
+        "article": "Điều 73",
+        "clause": "3",
+        "title": "Trách nhiệm của cơ quan thanh tra",
+        "text": "Kết luận thanh tra về thực hành tiết kiệm, chống lãng phí phải được công khai theo quy định của pháp luật. Ngoài các quy định về công khai theo quy định của Luật thanh tra, cơ quan thanh tra căn cứ vào các hình thức công khai quy định tại khoản 3 Điều 5 của Luật này để quyết định hình thức công khai kết quả thanh tra."
+    },
+    {
+        "id": "Điều 73.4",
+        "article": "Điều 73",
+        "clause": "4",
+        "title": "Trách nhiệm của cơ quan thanh tra",
+        "text": "Trong trường hợp phát hiện hành vi vi phạm pháp luật về thực hành tiết kiệm, chống lãng phí, cơ quan thanh tra có trách nhiệm kiến nghị kịp thời và chuyển hồ sơ tới cơ quan nhà nước có thẩm quyền để xử lý."
+    },
+    {
+        "id": "Điều 74.1",
+        "article": "Điều 74",
+        "clause": "1",
+        "title": "Trách nhiệm của Kiểm toán nhà nước",
+        "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, Kiểm toán nhà nước có trách nhiệm thực hiện kiểm toán nhằm phòng ngừa, phát hiện và xử lý hành vi vi phạm pháp luật về thực hành tiết kiệm, chống lãng phí."
+    },
+    {
+        "id": "Điều 74.2",
+        "article": "Điều 74",
+        "clause": "2",
+        "title": "Trách nhiệm của Kiểm toán nhà nước",
+        "text": "Thực hiện công khai các kết quả kiểm toán liên quan đến thực hành tiết kiệm, chống lãng phí, trừ trường hợp thuộc bí mật nhà nước theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 74.3",
+        "article": "Điều 74",
+        "clause": "3",
+        "title": "Trách nhiệm của Kiểm toán nhà nước",
+        "text": "Trong trường hợp phát hiện hành vi vi phạm pháp luật về thực hành tiết kiệm, chống lãng phí, cơ quan Kiểm toán nhà nước có trách nhiệm kiến nghị kịp thời và chuyển hồ sơ tới cơ quan nhà nước có thẩm quyền để xử lý."
+    },
+    {
+        "id": "Điều 75.1",
+        "article": "Điều 75",
+        "clause": "1",
+        "title": "Trách nhiệm của cơ quan điều tra, Viện kiểm sát nhân dân, Tòa án nhân dân",
+        "text": "Cơ quan điều tra, Viện kiểm sát nhân dân khi nhận được tố giác, tin báo của cá nhân, cơ quan, tổ chức, kiến nghị khởi tố của cơ quan nhà nước về vụ việc lãng phí có dấu hiệu tội phạm phải thụ lý, giải quyết theo trình tự của pháp luật về tố tụng hình sự. Kết quả giải quyết kiến nghị khởi tố phải được thông báo cho cơ quan đã kiến nghị bằng văn bản; trường hợp không khởi tố, phải nêu rõ lý do."
+    },
+    {
+        "id": "Điều 75.2",
+        "article": "Điều 75",
+        "clause": "2",
+        "title": "Trách nhiệm của cơ quan điều tra, Viện kiểm sát nhân dân, Tòa án nhân dân",
+        "text": "Trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, cơ quan điều tra, Viện kiểm sát nhân dân, Tòa án nhân dân có trách nhiệm chủ trì, phối hợp với các cơ quan có thẩm quyền xử lý kịp thời, nghiêm minh hành vi vi phạm pháp luật về thực hành tiết kiệm, chống lãng phí. Chương 4. KHIẾU NẠI, TỐ CÁO, KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM"
+    },
+    {
+        "id": "Điều 76.1",
+        "article": "Điều 76",
+        "clause": "1",
+        "title": "Khiếu nại, tố cáo",
+        "text": "Công dân, cơ quan, tổ chức, cán bộ, công chức có quyền khiếu nại; công dân có quyền tố cáo hành vi vi phạm pháp luật về thực hành tiết kiệm, chống lãng phí và được bảo vệ theo quy định của pháp luật về tố cáo."
+    },
+    {
+        "id": "Điều 76.2",
+        "article": "Điều 76",
+        "clause": "2",
+        "title": "Khiếu nại, tố cáo",
+        "text": "Cơ quan, tổ chức, cá nhân theo thẩm quyền có trách nhiệm giải quyết khiếu nại, tố cáo hành vi vi phạm pháp luật về thực hành tiết kiệm, chống lãng phí theo quy định của pháp luật về khiếu nại, pháp luật về tố cáo."
+    },
+    {
+        "id": "Điều 76.3",
+        "article": "Điều 76",
+        "clause": "3",
+        "title": "Khiếu nại, tố cáo",
+        "text": "Người có hành vi bao che, cản trở hoặc thiếu trách nhiệm trong xử lý khiếu nại, tố cáo, xử lý người vi phạm pháp luật về thực hành tiết kiệm, chống lãng phí; người có hành vi đe dọa, trả thù, trù dập người khiếu nại, tố cáo thì tùy theo tính chất, mức độ vi phạm bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự."
+    },
+    {
+        "id": "Điều 77.1",
+        "article": "Điều 77",
+        "clause": "1",
+        "title": "Khen thưởng",
+        "text": "Cơ quan, tổ chức, cá nhân có thành tích dưới đây thì được khen thưởng;"
+    },
+    {
+        "id": "Điều 77.1a",
+        "article": "Điều 77",
+        "clause": "1a",
+        "title": "Khen thưởng",
+        "text": "Hoàn thành, hoàn thành vượt mức mục tiêu, chỉ tiêu tiết kiệm và yêu cầu chống lãng phí được giao;"
+    },
+    {
+        "id": "Điều 77.1b",
+        "article": "Điều 77",
+        "clause": "1b",
+        "title": "Khen thưởng",
+        "text": "Có giải pháp, sáng kiến trong thực hành tiết kiệm, chống lãng phí mang lại kết quả cụ thể;"
+    },
+    {
+        "id": "Điều 77.1c",
+        "article": "Điều 77",
+        "clause": "1c",
+        "title": "Khen thưởng",
+        "text": "Phát hiện, có thông tin phát hiện, ngăn chặn kịp thời không để lãng phí xảy ra."
+    },
+    {
+        "id": "Điều 77.2",
+        "article": "Điều 77",
+        "clause": "2",
+        "title": "Khen thưởng",
+        "text": "Nguồn khen thưởng:"
+    },
+    {
+        "id": "Điều 77.2a",
+        "article": "Điều 77",
+        "clause": "2a",
+        "title": "Khen thưởng",
+        "text": "Nguồn tiền thưởng theo quy định của Luật thi đua, khen thưởng;"
+    },
+    {
+        "id": "Điều 77.2b",
+        "article": "Điều 77",
+        "clause": "2b",
+        "title": "Khen thưởng",
+        "text": "Nguồn kinh phí tiết kiệm do áp dụng giải pháp, sáng kiến mang lại;"
+    },
+    {
+        "id": "Điều 77.2c",
+        "article": "Điều 77",
+        "clause": "2c",
+        "title": "Khen thưởng",
+        "text": "Nguồn kinh phí do ngăn chặn được lãng phí khi được phát hiện và khắc phục kịp thời;"
+    },
+    {
+        "id": "Điều 77.2d",
+        "article": "Điều 77",
+        "clause": "2d",
+        "title": "Khen thưởng",
+        "text": "Nguồn kinh phí được giao tự chủ của cơ quan, tổ chức."
+    },
+    {
+        "id": "Điều 77.3",
+        "article": "Điều 77",
+        "clause": "3",
+        "title": "Khen thưởng",
+        "text": "Việc tính toán, xác định và sử dụng các nguồn tiền thưởng quy định tại khoản 2 Điều này do Chính phủ quy định."
+    },
+    {
+        "id": "Điều 78.1",
+        "article": "Điều 78",
+        "clause": "1",
+        "title": "Xử lý vi phạm và bồi thường thiệt hại",
+        "text": "Cơ quan, tổ chức, cá nhân có hành vi vi phạm quy định tại các điều 27, 32, 45, 53 và 58 của Luật này; không thực hiện hoặc thực hiện không đúng quy định của Luật này để xảy ra lãng phí thì bị xử lý như sau:"
+    },
+    {
+        "id": "Điều 78.1a",
+        "article": "Điều 78",
+        "clause": "1a",
+        "title": "Xử lý vi phạm và bồi thường thiệt hại",
+        "text": "Có trách nhiệm giải trình theo yêu cầu của cơ quan, tổ chức, cá nhân quản lý trực tiếp, cơ quan cấp trên, cơ quan thanh tra, kiểm tra, kiểm toán, giám sát và cơ quan quản lý nhà nước chuyên ngành;"
+    },
+    {
+        "id": "Điều 78.1b",
+        "article": "Điều 78",
+        "clause": "1b",
+        "title": "Xử lý vi phạm và bồi thường thiệt hại",
+        "text": "Bồi thường một phần hoặc toàn bộ thiệt hại theo quy định của pháp luật;"
+    },
+    {
+        "id": "Điều 78.1c",
+        "article": "Điều 78",
+        "clause": "1c",
+        "title": "Xử lý vi phạm và bồi thường thiệt hại",
+        "text": "Tùy theo mức độ vi phạm bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 78.2",
+        "article": "Điều 78",
+        "clause": "2",
+        "title": "Xử lý vi phạm và bồi thường thiệt hại",
+        "text": "Người đứng đầu cơ quan, tổ chức không trực tiếp vi phạm nhưng để xảy ra lãng phí trong cơ quan, tổ chức, để xảy ra hành vi lãng phí của người do mình trực tiếp quản lý, giao nhiệm vụ hoặc không xử lý hành vi lãng phí theo thẩm quyền thì bị xử lý như sau:"
+    },
+    {
+        "id": "Điều 78.2a",
+        "article": "Điều 78",
+        "clause": "2a",
+        "title": "Xử lý vi phạm và bồi thường thiệt hại",
+        "text": "Có trách nhiệm giải trình theo yêu cầu của cơ quan, tổ chức, cá nhân cấp trên, cơ quan thanh tra, kiểm tra, kiểm toán, giám sát và cơ quan quản lý nhà nước chuyên ngành;"
+    },
+    {
+        "id": "Điều 78.2b",
+        "article": "Điều 78",
+        "clause": "2b",
+        "title": "Xử lý vi phạm và bồi thường thiệt hại",
+        "text": "Tùy theo mức độ bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 78.3",
+        "article": "Điều 78",
+        "clause": "3",
+        "title": "Xử lý vi phạm và bồi thường thiệt hại",
+        "text": "Người đứng đầu cơ quan, tổ chức cấp trên trực tiếp phải chịu trách nhiệm liên đới về việc để xảy ra lãng phí trong cơ quan, tổ chức cấp dưới và trong cơ quan, tổ chức do cấp phó của mình trực tiếp phụ trách và bị xử lý như sau:"
+    },
+    {
+        "id": "Điều 78.3a",
+        "article": "Điều 78",
+        "clause": "3a",
+        "title": "Xử lý vi phạm và bồi thường thiệt hại",
+        "text": "Có trách nhiệm giải trình theo yêu cầu của cơ quan, tổ chức, cá nhân cấp trên, cơ quan thanh tra, kiểm tra, kiểm toán, giám sát và cơ quan quản lý nhà nước chuyên ngành;"
+    },
+    {
+        "id": "Điều 78.3b",
+        "article": "Điều 78",
+        "clause": "3b",
+        "title": "Xử lý vi phạm và bồi thường thiệt hại",
+        "text": "Tùy theo mức độ bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 78.4",
+        "article": "Điều 78",
+        "clause": "4",
+        "title": "Xử lý vi phạm và bồi thường thiệt hại",
+        "text": "Người đứng đầu cơ quan, tổ chức được xem xét giảm trách nhiệm pháp lý quy định tại khoản 2 và khoản 3 Điều này nêu đã thực hiện các biện pháp cần thiết nhằm ngăn chặn, khắc phục hậu quả của hành vi lãng phí; xử lý nghiêm minh, báo cáo kịp thời với cơ quan, tổ chức có thẩm quyền về hành vi lãng phí."
+    },
+    {
+        "id": "Điều 78.5",
+        "article": "Điều 78",
+        "clause": "5",
+        "title": "Xử lý vi phạm và bồi thường thiệt hại",
+        "text": "Chính phủ quy định chi tiết Điều này. Chương 5. ĐIỀU KHOẢN THI HÀNH"
+    }
+]

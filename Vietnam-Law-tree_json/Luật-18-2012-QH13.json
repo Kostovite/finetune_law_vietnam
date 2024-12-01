@@ -1,0 +1,1242 @@
+{
+    "header": [
+        "QUỐC HỘI",
+        "---------------------",
+        "Luật số: 18/2012/QH13",
+        "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+        "Độc lập – Tự do – Hạnh phúc",
+        "-------------------------",
+        "LUẬT",
+        "BIỂN VIỆT NAM",
+        "Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10;",
+        "Quốc hội ban hành Luật biển Việt Nam.",
+        "CHƯƠNG I",
+        "NHỮNG QUY ĐỊNH CHUNG"
+    ],
+    "content": [
+        {
+            "id": "Điều 1",
+            "title": "Phạm vi điều chỉnh",
+            "content": []
+        },
+        {
+            "id": "Điều 2",
+            "title": "Áp dụng pháp luật",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Trường hợp có sự khác nhau giữa quy định của Luật này với quy định của luật khác về chủ quyền, chế độ pháp lý của vùng biển Việt Nam thì áp dụng quy định của Luật này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Trường hợp quy định của Luật này khác với quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên thì áp dụng quy định của điều ước quốc tế đó.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 3",
+            "title": "Giải thích từ ngữ",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Vùng biển Việt Nam bao gồm nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa thuộc chủ quyền, quyền chủ quyền và quyền tài phán quốc gia của Việt Nam, được xác định theo pháp luật Việt Nam, điều ước quốc tế về biên giới lãnh thổ mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và phù hợp với Công ước của Liên hợp quốc về Luật biển năm 1982.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Vùng biển quốc tế là tất cả các vùng biển nằm ngoài vùng đặc quyền kinh tế của Việt Nam và các quốc gia khác, nhưng không bao gồm đáy biển và lòng đất dưới đáy biển.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Tàu thuyền là phương tiện hoạt động trên mặt nước hoặc dưới mặt nước bao gồm tàu, thuyền và các phương tiện khác có động cơ hoặc không có động cơ.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Tàu quân sự là tàu thuyền thuộc lực lượng vũ trang của một quốc gia và mang dấu hiệu bên ngoài thể hiện rõ quốc tịch của quốc gia đó, do một sĩ quan hải quân phục vụ quốc gia đó chỉ huy, người chỉ huy này có tên trong danh sách sĩ quan hay trong một tài liệu tương đương; được điều hành bởi thuỷ thủ đoàn hoạt động theo các điều lệnh kỷ luật quân sự.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Tàu thuyền công vụ là tàu thuyền chuyên dùng để thực hiện các công vụ của Nhà nước không vì mục đích thương mại.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Tài nguyên bao gồm tài nguyên sinh vật và tài nguyên phi sinh vật thuộc khối nước, đáy biển và lòng đất dưới đáy biển.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Đường đẳng sâu là đường nối liền các điểm có cùng độ sâu ở biển.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 4",
+            "title": "Nguyên tắc quản lý và bảo vệ biển",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Quản lý và bảo vệ biển được thực hiện thống nhất theo quy định của pháp luật Việt Nam, phù hợp với Hiến chương Liên hợp quốc và các điều ước quốc tế khác mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Các cơ quan, tổ chức và mọi công dân Việt Nam có trách nhiệm bảo vệ chủ quyền, quyền chủ quyền, quyền tài phán quốc gia trên các vùng biển, đảo và quần đảo, bảo vệ tài nguyên và môi trường biển.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nhà nước giải quyết các tranh chấp liên quan đến biển, đảo với các nước khác bằng các biện pháp hòa bình, phù hợp với Công ước của Liên hợp quốc về Luật biển năm 1982, pháp luật và thực tiễn quốc tế.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 5",
+            "title": "Chính sách quản lý và bảo vệ biển",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Phát huy sức mạnh toàn dân tộc và thực hiện các biện pháp cần thiết bảo vệ chủ quyền, quyền chủ quyền, quyền tài phán quốc gia trên các vùng biển, đảo và quần đảo, bảo vệ tài nguyên và môi trường biển, phát triển kinh tế biển.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Xây dựng và thực hiện chiến lược, quy hoạch, kế hoạch quản lý, sử dụng, khai thác, bảo vệ các vùng biển, đảo và quần đảo một cách bền vững phục vụ mục tiêu xây dựng, phát triển kinh tế - xã hội, quốc phòng, an ninh.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Khuyến khích tổ chức, cá nhân đầu tư lao động, vật tư, tiền vốn và áp dụng thành tựu khoa học kỹ thuật, công nghệ vào việc sử dụng, khai thác, phát triển kinh tế biển, bảo vệ tài nguyên và môi trường biển, phát triển bền vững các vùng biển phù hợp với điều kiện của từng vùng biển và bảo đảm yêu cầu quốc phòng, an ninh; tăng cường thông tin, phổ biến về tiềm năng, chính sách, pháp luật về biển.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Khuyến khích và bảo vệ hoạt động thủy sản của ngư dân trên các vùng biển, bảo hộ hoạt động của tổ chức, công dân Việt Nam ngoài các vùng biển Việt Nam phù hợp với điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, pháp luật quốc tế, pháp luật của quốc gia ven biển có liên quan.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Đầu tư bảo đảm hoạt động của các lực lượng làm nhiệm vụ tuần tra, kiểm soát trên biển, nâng cấp cơ sở hậu cần phục vụ cho các hoạt động trên biển, đảo và quần đảo, phát triển nguồn nhân lực biển.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Thực hiện các chính sách ưu tiên đối với nhân dân sinh sống trên các đảo và quần đảo; chế độ ưu đãi đối với các lực lượng tham gia quản lý và bảo vệ các vùng biển, đảo và quần đảo.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 6",
+            "title": "Hợp tác quốc tế về biển",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước đẩy mạnh hợp tác quốc tế về biển với các nước, các tổ chức quốc tế và khu vực trên cơ sở pháp luật quốc tế, tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, bình đẳng, các bên cùng có lợi.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Nội dung hợp tác quốc tế về biển bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Điều tra, nghiên cứu biển, đại dương; ứng dụng khoa học, kỹ thuật và công nghệ;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Ứng phó với biến đổi khí hậu, phòng chống và cảnh báo thiên tai;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Bảo vệ đa dạng sinh học biển, hệ sinh thái biển;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Phòng chống ô nhiễm môi trường biển, xử lý chất thải từ hoạt động kinh tế biển, ứng phó sự cố tràn dầu;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Tìm kiếm, cứu nạn trên biển;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Phòng, chống tội phạm trên biển;"
+                        },
+                        {
+                            "letter": "g",
+                            "text": "Khai thác bền vững tài nguyên biển, phát triển du lịch biển."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 7",
+            "title": "Quản lý nhà nước về biển",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Chính phủ thống nhất quản lý nhà nước về biển trong phạm vi cả nước.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Các bộ, cơ quan ngang bộ, Ủy ban nhân dân tỉnh, thành phố ven biển trực thuộc trung ương trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về biển. CHƯƠNG II VÙNG BIỂN VIỆT NAM",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 8",
+            "title": "Xác định đường cơ sở",
+            "content": []
+        },
+        {
+            "id": "Điều 9",
+            "title": "Nội thuỷ",
+            "content": []
+        },
+        {
+            "id": "Điều 10",
+            "title": "Chế độ pháp lý của nội thuỷ",
+            "content": []
+        },
+        {
+            "id": "Điều 11",
+            "title": "Lãnh hải",
+            "content": []
+        },
+        {
+            "id": "Điều 12",
+            "title": "Chế độ pháp lý của lãnh hải",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước thực hiện chủ quyền đầy đủ và toàn vẹn đối với lãnh hải và vùng trời, đáy biển và lòng đất dưới đáy biển của lãnh hải phù hợp với Công ước của Liên hợp quốc về Luật biển năm 1982.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tàu thuyền của tất cả các quốc gia được hưởng quyền đi qua không gây hại trong lãnh hải Việt Nam. Đối với tàu quân sự nước ngoài khi thực hiện quyền đi qua không gây hại trong lãnh hải Việt Nam, thông báo trước cho cơ quan có thẩm quyền của Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Việc đi qua không gây hại của tàu thuyền nước ngoài phải được thực hiện trên cơ sở tôn trọng hòa bình, độc lập, chủ quyền, pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Các phương tiện bay nước ngoài không được vào vùng trời ở trên lãnh hải Việt Nam, trừ trường hợp được sự đồng ý của Chính phủ Việt Nam hoặc thực hiện theo điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Nhà nước có chủ quyền đối với mọi loại hiện vật khảo cổ, lịch sử trong lãnh hải Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 13",
+            "title": "Vùng tiếp giáp lãnh hải",
+            "content": []
+        },
+        {
+            "id": "Điều 14",
+            "title": "Chế độ pháp lý của vùng tiếp giáp lãnh hải",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước thực hiện quyền chủ quyền, quyền tài phán quốc gia và các quyền khác quy định tại Điều 16 của Luật này đối với vùng tiếp giáp lãnh hải.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Nhà nước thực hiện kiểm soát trong vùng tiếp giáp lãnh hải nhằm ngăn ngừa và xử lý hành vi vi phạm pháp luật về hải quan, thuế, y tế, xuất nhập cảnh xảy ra trên lãnh thổ hoặc trong lãnh hải Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 15",
+            "title": "Vùng đặc quyền kinh tế",
+            "content": []
+        },
+        {
+            "id": "Điều 16",
+            "title": "Chế độ pháp lý của vùng đặc quyền kinh tế",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Trong vùng đặc quyền kinh tế, Nhà nước thực hiện:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Quyền chủ quyền về việc thăm dò, khai thác, quản lý và bảo tồn tài nguyên thuộc vùng nước bên trên đáy biển, đáy biển và lòng đất dưới đáy biển; về các hoạt động khác nhằm thăm dò, khai thác vùng này vì mục đích kinh tế;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Quyền tài phán quốc gia về lắp đặt và sử dụng đảo nhân tạo, thiết bị và công trình trên biển; nghiên cứu khoa học biển, bảo vệ và gìn giữ môi trường biển;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Các quyền và nghĩa vụ khác phù hợp với pháp luật quốc tế."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Nhà nước tôn trọng quyền tự do hàng hải, hàng không; quyền đặt dây cáp, ống dẫn ngầm và hoạt động sử dụng biển hợp pháp của các quốc gia khác trong vùng đặc quyền kinh tế của Việt Nam theo quy định của Luật này và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, không làm phương hại đến quyền chủ quyền, quyền tài phán quốc gia và lợi ích quốc gia trên biển của Việt Nam. Việc lắp đặt dây cáp và ống dẫn ngầm phải có sự chấp thuận bằng văn bản của cơ quan nhà nước có thẩm quyền của Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Tổ chức, cá nhân nước ngoài được tham gia thăm dò, sử dụng, khai thác tài nguyên, nghiên cứu khoa học, lắp đặt các thiết bị và công trình trong vùng đặc quyền kinh tế của Việt Nam trên cơ sở các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, hợp đồng được ký kết theo quy định của pháp luật Việt Nam hoặc được phép của Chính phủ Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Các quyền có liên quan đến đáy biển và lòng đất dưới đáy biển được thực hiện theo quy định tại Điều 17 và Điều 18 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 17",
+            "title": "Thềm lục địa",
+            "content": []
+        },
+        {
+            "id": "Điều 18",
+            "title": "Chế độ pháp lý của thềm lục địa",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước thực hiện quyền chủ quyền đối với thềm lục địa về thăm dò, khai thác tài nguyên.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Quyền chủ quyền quy định tại khoản 1 Điều này có tính chất đặc quyền, không ai có quyền tiến hành hoạt động thăm dò thềm lục địa hoặc khai thác tài nguyên của thềm lục địa nếu không có sự đồng ý của Chính phủ Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nhà nước có quyền khai thác lòng đất dưới đáy biển, cho phép và quy định việc khoan nhằm bất kỳ mục đích nào ở thềm lục địa.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Nhà nước tôn trọng quyền đặt dây cáp, ống dẫn ngầm và hoạt động sử dụng biển hợp pháp khác của các quốc gia khác ở thềm lục địa Việt Nam theo quy định của Luật này và các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, không làm phương hại đến quyền chủ quyền, quyền tài phán quốc gia và lợi ích quốc gia trên biển của Việt Nam. Việc lắp đặt dây cáp và ống dẫn ngầm phải có sự chấp thuận bằng văn bản của cơ quan nhà nước có thẩm quyền của Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Tổ chức, cá nhân nước ngoài được tham gia thăm dò, sử dụng, khai thác tài nguyên, nghiên cứu khoa học, lắp đặt thiết bị và công trình ở thềm lục địa của Việt Nam trên cơ sở điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, hợp đồng ký kết theo quy định của pháp luật Việt Nam hoặc được phép của Chính phủ Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 19",
+            "title": "Đảo, quần đảo",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Đảo là một vùng đất tự nhiên có nước bao bọc, khi thủy triều lên vùng đất này vẫn ở trên mặt nước. Quần đảo là một tập hợp các đảo, bao gồm cả bộ phận của các đảo, vùng nước tiếp liền và các thành phần tự nhiên khác có liên quan chặt chẽ với nhau.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Đảo, quần đảo thuộc chủ quyền của Việt Nam là bộ phận không thể tách rời của lãnh thổ Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 20",
+            "title": "Nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa của đảo, quần đảo",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Đảo thích hợp cho đời sống con người hoặc cho một đời sống kinh tế riêng thì có nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Đảo đá không thích hợp cho đời sống con người hoặc cho một đời sống kinh tế riêng thì không có vùng đặc quyền kinh tế và thềm lục địa.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa của các đảo, quần đảo được xác định theo quy định tại các điều 9, 11, 13, 15 và 17 của Luật này và được thể hiện bằng hải đồ, bản kê toạ độ địa lý do Chính phủ công bố.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 21",
+            "title": "Chế độ pháp lý của đảo, quần đảo",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước thực hiện chủ quyền trên đảo, quần đảo của Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Chế độ pháp lý đối với vùng nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa của các đảo, quần đảo được thực hiện theo quy định tại các điều 10, 12, 14, 16 và 18 của Luật này. CHƯƠNG III HOẠT ĐỘNG TRONG VÙNG BIỂN VIỆT NAM",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 22",
+            "title": "Quy định chung",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tổ chức, cá nhân hoạt động trong vùng biển Việt Nam phải tôn trọng chủ quyền, toàn vẹn lãnh thổ, quyền chủ quyền, quyền tài phán quốc gia và lợi ích quốc gia của Việt Nam, tuân thủ quy định của pháp luật Việt Nam và pháp luật quốc tế có liên quan.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Nhà nước tôn trọng và bảo hộ quyền và lợi ích hợp pháp của tàu thuyền, tổ chức, cá nhân hoạt động trong vùng biển Việt Nam phù hợp với quy định của pháp luật Việt Nam và điều ước quốc tế  mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 23",
+            "title": "Đi qua không gây hại trong lãnh hải",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Đi qua lãnh hải là việc tàu thuyền nước ngoài đi trong lãnh hải Việt Nam nhằm một trong các mục đích sau:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Đi ngang qua nhưng không đi vào nội thủy Việt Nam, không neo đậu lại trong một công trình cảng, bến hay nơi trú đậu ở bên ngoài nội thủy Việt Nam;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Đi vào hoặc rời khỏi nội thủy Việt Nam hay đậu lại hoặc rời khỏi một công trình cảng, bến hay nơi trú đậu ở bên ngoài nội thủy Việt Nam."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Việc đi qua lãnh hải phải liên tục và nhanh chóng, trừ trường hợp gặp sự cố hàng hải, sự cố bất khả kháng, gặp nạn hoặc vì mục đích phải cứu giúp người, tàu thuyền hay tàu bay đang gặp nạn.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Việc đi qua không gây hại trong lãnh hải không được làm phương hại đến hòa bình, quốc phòng, an ninh của Việt Nam, trật tự an toàn trên biển. Việc đi qua của tàu thuyền nước ngoài trong lãnh hải Việt Nam bị coi là gây phương hại đến hòa bình, quốc phòng, an ninh của Việt Nam, trật tự an toàn xã hội nếu tàu thuyền đó tiến hành bất kỳ một hành vi nào sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Đe dọa hoặc sử dụng vũ lực chống lại độc lập, chủ quyền và toàn vẹn lãnh thổ của Việt Nam;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Đe dọa hoặc sử dụng vũ lực chống lại độc lập, chủ quyền và toàn vẹn lãnh thổ của quốc gia khác; thực hiện các hành vi trái với các nguyên tắc cơ bản của pháp luật quốc tế được quy định trong Hiến chương Liên hợp quốc;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Luyện tập hay diễn tập với bất kỳ kiểu, loại vũ khí nào, dưới bất kỳ hình thức nào;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Thu thập thông tin gây thiệt hại cho quốc phòng, an ninh của Việt Nam;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Tuyên truyền nhằm gây hại đến quốc phòng, an ninh của Việt Nam;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Phóng đi, tiếp nhận hay xếp phương tiện bay lên tàu thuyền;"
+                        },
+                        {
+                            "letter": "g",
+                            "text": "Phóng đi, tiếp nhận hay xếp phương tiện quân sự lên tàu thuyền;"
+                        },
+                        {
+                            "letter": "h",
+                            "text": "Bốc, dỡ hàng hóa, tiền bạc hay đưa người lên xuống tàu thuyền trái với quy định của pháp luật Việt Nam về hải quan, thuế, y tế hoặc xuất nhập cảnh;"
+                        },
+                        {
+                            "letter": "i",
+                            "text": "Cố ý gây ô nhiễm nghiêm trọng môi trường biển;"
+                        },
+                        {
+                            "letter": "k",
+                            "text": "Đánh bắt hải sản trái phép;"
+                        },
+                        {
+                            "letter": "l",
+                            "text": "Nghiên cứu, điều tra, thăm dò trái phép;"
+                        },
+                        {
+                            "letter": "m",
+                            "text": "Làm ảnh hưởng đến hoạt động của hệ thống thông tin liên lạc hoặc của thiết bị hay công trình khác của Việt Nam;"
+                        },
+                        {
+                            "letter": "n",
+                            "text": "Tiến hành hoạt động khác không trực tiếp liên quan đến việc đi qua."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 24",
+            "title": "Nghĩa vụ khi thực hiện quyền đi qua không gây hại",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Khi thực hiện quyền đi qua không gây hại trong lãnh hải Việt Nam, tổ chức, cá nhân nước ngoài có nghĩa vụ tuân thủ quy định của pháp luật Việt Nam về nội dung sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "An toàn hàng hải và điều phối giao thông đường biển, tuyến hàng hải và phân luồng giao thông;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Bảo vệ thiết bị và hệ thống bảo đảm hàng hải, thiết bị hay công trình khác;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Bảo vệ đường dây cáp và ống dẫn;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Bảo tồn tài nguyên sinh vật biển;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Hoạt động đánh bắt, khai thác và nuôi trồng hải sản;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Gìn giữ môi trường biển, ngăn ngừa, hạn chế và chế ngự ô nhiễm môi trường biển;"
+                        },
+                        {
+                            "letter": "g",
+                            "text": "Nghiên cứu khoa học biển và đo đạc thủy văn;"
+                        },
+                        {
+                            "letter": "h",
+                            "text": "Hải quan, thuế, y tế, xuất nhập cảnh."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Thuyền trưởng tàu thuyền nước ngoài chạy bằng năng lượng hạt nhân hoặc chuyên chở chất phóng xạ, chất độc hại hoặc nguy hiểm, khi đi trong lãnh hải Việt Nam có nghĩa vụ sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Mang đầy đủ tài liệu kỹ thuật liên quan tới tàu thuyền và hàng hóa trên tàu thuyền, tài liệu về bảo hiểm dân sự bắt buộc;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Sẵn sàng cung cấp cho các cơ quan nhà nước có thẩm quyền của Việt Nam mọi tài liệu liên quan đến thông số kỹ thuật của tàu thuyền cũng như của hàng hóa trên tàu thuyền;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thực hiện đầy đủ các biện pháp phòng ngừa đặc biệt đúng theo quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên áp dụng đối với các loại tàu thuyền này;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Tuân thủ quyết định của cơ quan có thẩm quyền của Việt Nam về việc áp dụng biện pháp phòng ngừa đặc biệt, kể cả cấm không được đi qua lãnh hải Việt Nam hoặc buộc phải rời ngay khỏi lãnh hải Việt Nam trong trường hợp có dấu hiệu hoặc bằng chứng rõ ràng về khả năng gây rò rỉ hoặc làm ô nhiễm môi trường."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 25",
+            "title": "Tuyến hàng hải và phân luồng giao thông trong lãnh hải phục vụ cho việc đi qua không gây hại",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Chính phủ quy định về việc công bố tuyến hàng hải và phân luồng giao thông trong lãnh hải phục vụ cho việc đi qua không gây hại nhằm bảo đảm an toàn hàng hải.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tàu thuyền nước ngoài chở dầu hoặc chạy bằng năng lượng hạt nhân hoặc chuyên chở chất phóng xạ, chất độc hại hay nguy hiểm khi đi qua không gây hại trong lãnh hải Việt Nam có thể bị buộc phải đi theo tuyến hàng hải quy định cụ thể cho từng trường hợp.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 26",
+            "title": "Vùng cấm và khu vực hạn chế hoạt động trong lãnh hải",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Để bảo vệ chủ quyền, quốc phòng, an ninh và lợi ích quốc gia hoặc an toàn hàng hải, bảo vệ tài nguyên, sinh thái biển, chống ô nhiễm, khắc phục sự cố, thảm họa môi trường biển, phòng chống lây lan dịch bệnh, Chính phủ thiết lập vùng cấm tạm thời hoặc vùng hạn chế hoạt động trong lãnh hải Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Việc thiết lập vùng cấm tạm thời hoặc vùng hạn chế hoạt động trong lãnh hải Việt Nam theo quy định tại khoản 1 Điều này phải được thông báo rộng rãi trong nước và quốc tế trong “Thông báo hàng hải”, theo tập quán hàng hải quốc tế, chậm nhất là 15 ngày trước khi áp dụng hoặc thông báo ngay sau khi áp dụng trong trường hợp khẩn cấp.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 27",
+            "title": "Tàu quân sự và tàu thuyền công vụ của nước ngoài đến Việt Nam",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tàu quân sự và tàu thuyền công vụ của nước ngoài chỉ được đi vào nội thủy, neo đậu tại một công trình cảng, bến hay nơi trú đậu trong nội thuỷ hoặc công trình cảng, bến hay nơi trú đậu của Việt Nam ở bên ngoài nội thủy Việt Nam theo lời mời của Chính phủ Việt Nam hoặc theo thỏa thuận giữa cơ quan có thẩm quyền của Việt Nam với quốc gia mà tàu mang cờ.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Tàu quân sự và tàu thuyền công vụ của nước ngoài khi ở trong nội thủy, cảng, bến hay nơi trú đậu trong nội thuỷ hoặc các công trình cảng, bến hay nơi trú đậu của Việt Nam ở bên ngoài nội thủy Việt Nam phải tuân thủ quy định của Luật này, quy định khác của pháp luật có liên quan và phải hoạt động phù hợp với lời mời của Chính phủ Việt Nam hoặc thỏa thuận với cơ quan có thẩm quyền của Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 28",
+            "title": "Trách nhiệm của tàu quân sự và tàu thuyền công vụ của nước ngoài trong vùng biển Việt Nam",
+            "content": []
+        },
+        {
+            "id": "Điều 29",
+            "title": "Hoạt động của tàu ngầm và các phương tiện đi ngầm khác của nước ngoài trong nội thuỷ, lãnh hải Việt Nam",
+            "content": []
+        },
+        {
+            "id": "Điều 30",
+            "title": "Quyền tài phán hình sự đối với tàu thuyền nước ngoài",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, lực lượng tuần tra, kiểm soát trên biển có quyền tiến hành các biện pháp để bắt người, điều tra đối với tội phạm xảy ra trên tàu thuyền nước ngoài sau khi rời khỏi nội thủy và đang đi trong lãnh hải Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Đối với tội phạm xảy ra trên tàu thuyền nước ngoài đang đi trong lãnh hải Việt Nam nhưng không phải ngay sau khi rời khỏi nội thủy Việt Nam, lực lượng tuần tra, kiểm soát trên biển có quyền tiến hành bắt người, điều tra trong các trường hợp sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Hậu quả của việc phạm tội ảnh hưởng đến Việt Nam;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Việc phạm tội có tính chất phá hoại hòa bình của Việt Nam hay trật tự trong lãnh hải Việt Nam;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thuyền trưởng hay một viên chức ngoại giao hoặc viên chức lãnh sự của quốc gia mà tàu thuyền mang cờ yêu cầu sự giúp đỡ của các cơ quan có thẩm quyền của Việt Nam;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Để ngăn chặn hành vi mua bán người, mua bán, tàng trữ, vận chuyển trái phép chất ma túy."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Lực lượng tuần tra, kiểm soát trên biển không được tiến hành bất kỳ biện pháp nào trên tàu thuyền nước ngoài đang đi trong lãnh hải Việt Nam để bắt giữ người hay điều tra việc phạm tội đã xảy ra trước khi tàu thuyền đó đi vào lãnh hải Việt Nam nếu như tàu thuyền đó xuất phát từ một cảng nước ngoài và chỉ đi trong lãnh hải mà không đi vào nội thủy Việt Nam, trừ trường hợp cần ngăn ngừa, hạn chế ô nhiễm môi trường biển hoặc để thực hiện quyền tài phán quốc gia quy định tại điểm b khoản 1 Điều 16 của Luật này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Việc thực hiện biện pháp tố tụng hình sự phải phù hợp với quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 31",
+            "title": "Quyền tài phán dân sự đối với tàu thuyền nước ngoài",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Lực lượng tuần tra, kiểm soát trên biển không được buộc tàu thuyền nước ngoài đang đi trong lãnh hải phải dừng lại hoặc thay đổi hành trình chỉ vì mục đích thực hiện quyền tài phán dân sự đối với cá nhân đang ở trên tàu thuyền đó.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Lực lượng tuần tra, kiểm soát trên biển không được tiến hành các biện pháp bắt giữ hay xử lý về mặt dân sự đối với tàu thuyền nước ngoài đang đi trong vùng biển Việt Nam, trừ nội thủy, trừ trường hợp việc thi hành các biện pháp này liên quan đến nghĩa vụ đã cam kết hay trách nhiệm dân sự mà tàu thuyền phải đảm nhận trong khi đi qua hoặc để được đi qua vùng biển Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Lực lượng tuần tra, kiểm soát trên biển có thể áp dụng các biện pháp bắt giữ hay xử lý tàu thuyền nước ngoài nhằm mục đích thực hiện quyền tài phán dân sự nếu tàu thuyền đó đang đậu trong lãnh hải hoặc đi qua lãnh hải sau khi rời khỏi nội thủy Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 32",
+            "title": "Thông tin liên lạc trong cảng, bến hay nơi trú đậu của Việt Nam",
+            "content": []
+        },
+        {
+            "id": "Điều 33",
+            "title": "Tìm kiếm, cứu nạn và cứu hộ",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Trường hợp người, tàu thuyền hoặc phương tiện bay gặp nạn hoặc nguy hiểm trên biển cần sự cứu giúp thì phải phát tín hiệu cấp cứu theo quy định và khi điều kiện cho phép phải thông báo ngay cho cảng vụ hàng hải hay trung tâm phối hợp tìm kiếm, cứu nạn hàng hải Việt Nam hay nhà chức trách địa phương nơi gần nhất biết để được giúp đỡ, hướng dẫn cần thiết.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Khi nhận biết tình trạng người, tàu thuyền gặp nạn hoặc nguy hiểm hay nhận được tín hiệu cấp cứu của người, tàu thuyền gặp nạn hoặc nguy hiểm cần được cứu giúp, mọi cá nhân, tàu thuyền khác phải bằng mọi cách tiến hành cứu giúp người, tàu thuyền gặp nạn hoặc nguy hiểm nếu điều kiện thực tế cho phép và không gây nguy hiểm đến tàu thuyền, những người đang ở trên tàu thuyền của mình và kịp thời thông báo cho cá nhân, tổ chức liên quan biết.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nhà nước bảo đảm sự giúp đỡ cần thiết theo quy định của pháp luật Việt Nam, pháp luật quốc tế có liên quan và trên tinh thần nhân đạo để người và tàu thuyền gặp nạn hoặc nguy hiểm trên biển có thể nhanh chóng được tìm kiếm, cứu nạn, khắc phục hậu quả.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Trong nội thủy, lãnh hải Việt Nam, Nhà nước có đặc quyền trong việc thực hiện các hoạt động tìm kiếm, cứu nạn, cứu hộ người và tàu thuyền gặp nạn hoặc nguy hiểm cần sự cứu giúp.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Lực lượng có thẩm quyền có quyền huy động cá nhân, tàu thuyền đang hoạt động trong vùng biển Việt Nam tham gia tìm kiếm, cứu nạn nếu điều kiện thực tế cho phép và không gây nguy hiểm cho cá nhân, tàu thuyền đó. Việc huy động và yêu cầu quy định tại khoản này chỉ được thực hiện trong trường hợp khẩn cấp và chỉ trong thời gian cần thiết để thực hiện công tác tìm kiếm, cứu nạn.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Việc cứu hộ hàng hải được thực hiện trên cơ sở hợp đồng cứu hộ hàng hải theo thỏa thuận giữa chủ tàu thuyền hoặc thuyền trưởng tàu thuyền tham gia cứu hộ với chủ tàu thuyền hoặc thuyền trưởng của tàu thuyền gặp nạn, phù hợp với các quy định của pháp luật Việt Nam và pháp luật quốc tế có liên quan.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Tàu thuyền nước ngoài vào vùng biển Việt Nam thực hiện việc tìm kiếm, cứu nạn, khắc phục hậu quả thiên tai, thảm họa theo đề nghị của cơ quan có thẩm quyền của Việt Nam phải tuân theo các quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 34",
+            "title": "Đảo nhân tạo, thiết bị, công trình trên biển",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Đảo nhân tạo, thiết bị, công trình trên biển bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Các giàn khoan trên biển cùng toàn bộ các bộ phận phụ thuộc khác đảm bảo hoạt động bình thường và liên tục của các giàn khoan hoặc các thiết bị chuyên dùng để thăm dò, khai thác và sử dụng biển;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Các loại báo hiệu hàng hải;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Các thiết bị, công trình khác được lắp đặt và sử dụng ở biển."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Nhà nước có quyền tài phán đối với các đảo nhân tạo và thiết bị, công trình trên biển trong vùng đặc quyền kinh tế và thềm lục địa Việt Nam, bao gồm cả quyền tài phán theo các quy định của pháp luật về hải quan, thuế, y tế, an ninh và xuất nhập cảnh.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Các đảo nhân tạo, thiết bị, công trình trên biển và các bộ phận kèm theo hoặc phụ thuộc có vành đai an toàn 500 mét (m) tính từ điểm nhô ra xa nhất của đảo, thiết bị, công trình hoặc các bộ phận đó, nhưng không có lãnh hải và các vùng biển riêng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Không xây dựng đảo nhân tạo, thiết bị, công trình trên biển cũng như không thiết lập vành đai an toàn xung quanh đảo nhân tạo, thiết bị, công trình trên biển ở nơi có nguy cơ gây trở ngại cho việc sử dụng các đường hàng hải đã được thừa nhận là thiết yếu cho hàng hải quốc tế.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Khi hết hạn sử dụng, thiết bị, công trình trên biển phải được tháo dỡ khỏi vùng biển Việt Nam, trừ trường hợp được cơ quan nhà nước có thẩm quyền của Việt Nam cho phép. Đối với phần còn lại của thiết bị, công trình trên biển chưa kịp tháo dỡ hoàn toàn vì lý do kỹ thuật hoặc được phép gia hạn thì phải thông báo rõ vị trí, kích thước, hình dạng, độ sâu và phải đặt các tín hiệu, báo hiệu hàng hải và nguy hiểm thích hợp.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Thông tin liên quan tới việc thiết lập đảo nhân tạo, thiết bị, công trình trên biển, việc thiết lập vành đai an toàn xung quanh và việc tháo dỡ một phần hay toàn bộ thiết bị, công trình trên biển phải được cung cấp chậm nhất là 15 ngày trước ngày bắt đầu thiết lập hoặc tháo dỡ đảo nhân tạo, thiết bị, công trình trên biển cho cơ quan nhà nước có thẩm quyền của Việt Nam và được thông báo rộng rãi trong nước và quốc tế.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 35",
+            "title": "Gìn giữ, bảo vệ tài nguyên và môi trường biển",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Khi hoạt động trong vùng biển Việt Nam, tàu thuyền, tổ chức, cá nhân phải tuân thủ mọi quy định của pháp luật Việt Nam và pháp luật quốc tế có liên quan đến việc gìn giữ, bảo vệ tài nguyên và môi trường biển.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Khi vận chuyển, bốc, dỡ các loại hàng hóa, thiết bị có khả năng gây hại đối với tài nguyên, đời sống của con người và ô nhiễm môi trường biển, tàu thuyền, tổ chức, cá nhân phải sử dụng thiết bị và các biện pháp chuyên dụng theo quy định để ngăn ngừa và hạn chế tối đa thiệt hại có thể xảy ra cho người, tài nguyên và môi trường biển.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Tàu thuyền, tổ chức, cá nhân không được thải, nhận chìm hay chôn lấp các loại chất thải công nghiệp, chất thải hạt nhân hoặc các loại chất thải độc hại khác trong vùng biển Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Tàu thuyền, tổ chức, cá nhân vi phạm quy định của pháp luật Việt Nam và pháp luật quốc tế có liên quan làm ảnh hưởng đến tài nguyên và môi trường biển trong vùng biển, cảng biển, bến hay nơi trú đậu của Việt Nam thì bị xử lý theo quy định của pháp luật Việt Nam và các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; nếu gây thiệt hại thì phải làm sạch, khôi phục lại môi trường và bồi thường theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Tổ chức, cá nhân hoạt động trên các vùng biển Việt Nam có nghĩa vụ nộp thuế, phí, lệ phí và các khoản đóng góp về bảo vệ môi trường biển theo quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 36",
+            "title": "Nghiên cứu khoa học biển",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tàu thuyền, tổ chức, cá nhân nước ngoài tiến hành nghiên cứu khoa học trong vùng biển Việt Nam phải có giấy phép của cơ quan nhà nước có thẩm quyền của Việt Nam, chịu sự giám sát của phía Việt Nam, bảo đảm cho các nhà khoa học Việt Nam được tham gia và phải cung cấp cho phía Việt Nam các tài liệu, mẫu vật gốc và các kết quả nghiên cứu liên quan.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Khi tiến hành hoạt động nghiên cứu khoa học trong vùng biển Việt Nam, tàu thuyền, tổ chức, cá nhân phải tuân thủ những quy định sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Có mục đích hòa bình;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Được thực hiện với phương thức và phương tiện thích hợp theo quy định của pháp luật Việt Nam và pháp luật quốc tế có liên quan;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Không được gây cản trở đối với các hoạt động hợp pháp trên biển theo quy định của pháp luật Việt Nam và pháp luật quốc tế có liên quan;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Nhà nước Việt Nam có quyền tham gia hoạt động nghiên cứu khoa học của nước ngoài trong vùng biển Việt Nam và có quyền được chia sẻ các tài liệu, mẫu vật gốc, sử dụng và khai thác các kết quả khoa học thu được từ các hoạt động nghiên cứu, khảo sát đó."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 37",
+            "title": "Quy định cấm trong vùng đặc quyền kinh tế và thềm lục địa Việt Nam",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Đe dọa chủ quyền, quốc phòng, an ninh của Việt Nam;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Khai thác trái phép tài nguyên sinh vật, đánh bắt hải sản trái phép;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Khai thác trái phép dòng chảy, năng lượng gió và tài nguyên phi sinh vật khác;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Xây dựng, lắp đặt, sử dụng trái phép các thiết bị, công trình nhân tạo;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Khoan, đào trái phép;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Tiến hành nghiên cứu khoa học trái phép;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Gây ô nhiễm môi trường biển;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "8",
+                    "text": "Cướp biển, cướp có vũ trang;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "9",
+                    "text": "Các hoạt động bất hợp pháp khác theo quy định của pháp luật Việt Nam và pháp luật quốc tế.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 38",
+            "title": "Cấm tàng trữ, sử dụng, mua bán trái phép vũ khí, chất nổ, chất độc hại",
+            "content": []
+        },
+        {
+            "id": "Điều 39",
+            "title": "Cấm mua bán người, mua bán, vận chuyển, tàng trữ trái phép chất ma túy",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Khi hoạt động trong vùng biển Việt Nam, tàu thuyền, tổ chức, cá nhân không được mua bán người, vận chuyển, tàng trữ, mua bán trái phép các chất ma túy.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Khi có căn cứ về việc tàu thuyền, tổ chức, cá nhân đang mua bán người hoặc vận chuyển, tàng trữ, mua bán trái phép các chất ma túy thì lực lượng tuần tra, kiểm soát trên biển của Việt Nam có quyền tiến hành khám xét, kiểm tra, bắt giữ, dẫn giải về các cảng, bến hay nơi trú đậu của Việt Nam hoặc dẫn giải, chuyển giao đến các cảng, bến hay nơi trú đậu của nước ngoài theo quy định của pháp luật Việt Nam hoặc điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên để xử lý.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 40",
+            "title": "Cấm phát sóng trái phép",
+            "content": []
+        },
+        {
+            "id": "Điều 41",
+            "title": "Quyền truy đuổi tàu thuyền nước ngoài",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Lực lượng tuần tra, kiểm soát trên biển có quyền truy đuổi tàu thuyền nước ngoài vi phạm các quy định của pháp luật Việt Nam nếu tàu thuyền này đang ở trong nội thủy, lãnh hải và vùng tiếp giáp lãnh hải Việt Nam. Quyền truy đuổi được tiến hành sau khi lực lượng tuần tra, kiểm soát trên biển đã phát tín hiệu yêu cầu tàu thuyền vi phạm hay có dấu hiệu vi phạm pháp luật dừng lại để tiến hành kiểm tra nhưng tàu thuyền đó không chấp hành. Việc truy đuổi có thể được tiếp tục ở ngoài ranh giới của lãnh hải hay vùng tiếp giáp lãnh hải Việt Nam nếu được tiến hành liên tục, không ngắt quãng.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Quyền truy đuổi cũng được áp dụng đối với hành vi vi phạm quyền chủ quyền, quyền tài phán quốc gia của Việt Nam, vi phạm trong phạm vi vành đai an toàn và trên các đảo nhân tạo, thiết bị, công trình trên biển trong vùng đặc quyền kinh tế và thềm lục địa Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Việc truy đuổi của các lực lượng tuần tra, kiểm soát Việt Nam chấm dứt khi tàu thuyền bị truy đuổi đi vào lãnh hải của quốc gia khác. CHƯƠNG IV PHÁT TRIỂN KINH TẾ BIỂN",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 42",
+            "title": "Nguyên tắc phát triển kinh tế biển",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Phục vụ xây dựng và phát triển kinh tế - xã hội của đất nước;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Gắn với sự nghiệp bảo vệ chủ quyền quốc gia, quốc phòng, an ninh và trật tự an toàn trên biển;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Phù hợp với yêu cầu quản lý tài nguyên và bảo vệ môi trường biển;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Gắn với phát triển kinh tế - xã hội của các địa phương ven biển và hải đảo.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 43",
+            "title": "Phát triển các ngành kinh tế biển",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Tìm kiếm, thăm dò, khai thác, chế biến dầu, khí và các loại tài nguyên, khoáng sản biển;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Vận tải biển, cảng biển, đóng mới và sửa chữa tàu thuyền, phương tiện đi biển và các dịch vụ hàng hải khác;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Du lịch biển và kinh tế đảo;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Khai thác, nuôi trồng, chế biến hải sản;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Phát triển, nghiên cứu, ứng dụng và chuyển giao khoa học, công nghệ về khai thác và phát triển kinh tế biển;",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Xây dựng và phát triển nguồn nhân lực biển.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 44",
+            "title": "Quy hoạch phát triển kinh tế biển",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Căn cứ lập quy hoạch phát triển kinh tế biển bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Chiến lược, quy hoạch tổng thể phát triển kinh tế - xã hội của cả nước; chiến lược bảo vệ môi trường quốc gia;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Định hướng chiến lược phát triển bền vững và chiến lược biển;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Đặc điểm, vị trí địa lý, quy luật tự nhiên của các vùng biển, vùng ven biển và hải đảo;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Kết quả điều tra cơ bản về tài nguyên và môi trường biển; thực trạng và dự báo nhu cầu khai thác, sử dụng tài nguyên và bảo vệ môi trường biển của cả nước, của vùng và của các tỉnh, thành phố ven biển trực thuộc trung ương;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Giá trị tài nguyên và mức độ dễ bị tổn thương của môi trường biển;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Nguồn lực để thực hiện quy hoạch."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Nội dung quy hoạch phát triển kinh tế biển bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Phân tích, đánh giá điều kiện tự nhiên, kinh tế - xã hội và hiện trạng khai thác, sử dụng biển;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Xác định phương hướng, mục tiêu và định hướng sử dụng hợp lý tài nguyên và bảo vệ môi trường biển;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Phân vùng sử dụng biển cho các mục đích phát triển kinh tế - xã hội, quốc phòng, an ninh; xác định các vùng cấm khai thác, các vùng khai thác có điều kiện, khu vực cần bảo vệ đặc biệt cho mục đích quốc phòng, an ninh, bảo vệ môi trường, bảo tồn hệ sinh thái và đảo nhân tạo, các thiết bị, công trình trên biển;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Xác định vị trí, diện tích và thể hiện trên bản đồ các vùng sử dụng mặt biển, đáy biển, đảo;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Xác định cụ thể các vùng bờ biển dễ bị tổn thương như bãi bồi, vùng bờ biển xói lở, rừng phòng hộ, đất ngập nước, cát ven biển, xác định vùng đệm và có các giải pháp quản lý, bảo vệ phù hợp;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Giải pháp và tiến độ thực hiện quy hoạch."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Chính phủ xây dựng phương án tổng thể phát triển các ngành kinh tế biển quy định tại Điều 43 của Luật này và tổ chức thực hiện việc lập quy hoạch, kế hoạch sử dụng biển của cả nước trình Quốc hội xem xét, quyết định.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 45",
+            "title": "Xây dựng và phát triển kinh tế biển",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước có chính sách đầu tư xây dựng, phát triển các khu kinh tế, cụm công nghiệp ven biển, kinh tế các huyện đảo theo quy hoạch, bảo đảm hiệu quả, phát triển bền vững.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Việc giao các khu vực biển nhất định cho tổ chức, cá nhân khai thác, sử dụng tài nguyên biển được thực hiện theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 46",
+            "title": "Khuyến khích, ưu đãi đầu tư phát triển kinh tế trên các đảo và hoạt động trên biển",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Nhà nước ưu tiên đầu tư xây dựng cơ sở hạ tầng, mạng lưới hậu cần biển, phát triển kinh tế các huyện đảo; có chính sách ưu đãi để nâng cao đời sống vật chất, tinh thần của dân cư sinh sống trên các đảo.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Nhà nước khuyến khích, ưu đãi về thuế, vốn, tạo điều kiện thuận lợi cho tổ chức, cá nhân đầu tư khai thác tiềm năng và thế mạnh phát triển trên các đảo.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nhà nước khuyến khích, ưu đãi về thuế, vốn, tạo điều kiện thuận lợi cho tổ chức, cá nhân tăng cường hoạt động ngư nghiệp và các hoạt động khác trên biển, đảo; bảo vệ hoạt động của nhân dân trên biển, đảo.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Chính phủ quy định chi tiết Điều này. CHƯƠNG V TUẦN TRA, KIỂM SOÁT TRÊN BIỂN",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 47",
+            "title": "Lực lượng tuần tra, kiểm soát trên biển",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Lực lượng tuần tra, kiểm soát trên biển bao gồm các lực lượng có thẩm quyền thuộc Quân đội nhân dân, Công an nhân dân, các lực lượng tuần tra, kiểm soát chuyên ngành khác.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Lực lượng dân quân tự vệ của các tỉnh, thành phố ven biển trực thuộc trung ương, lực lượng bảo vệ của cơ quan, tổ chức đóng ven biển và các lực lượng khác có trách nhiệm tham gia tuần tra, kiểm soát trên biển khi được cơ quan có thẩm quyền huy động.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 48",
+            "title": "Nhiệm vụ và phạm vi trách nhiệm tuần tra, kiểm soát trên biển",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Lực lượng tuần tra, kiểm soát trên biển có nhiệm vụ sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Bảo vệ chủ quyền, quyền chủ quyền, quyền tài phán và lợi ích quốc gia trên các vùng biển, đảo của Việt Nam;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Bảo đảm việc tuân thủ pháp luật Việt Nam và các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Bảo vệ tài sản nhà nước, tài nguyên và môi trường biển;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Bảo vệ, giúp đỡ, tìm kiếm, cứu nạn, cứu hộ đối với người, tàu thuyền hoạt động trên các vùng biển, đảo của Việt Nam;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Xử lý hành vi vi phạm pháp luật trên các vùng biển, đảo của Việt Nam theo quy định của pháp luật Việt Nam."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Phạm vi trách nhiệm cụ thể của các lực lượng tuần tra, kiểm soát trên biển thực hiện theo quy định của pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Nhà nước bảo đảm những điều kiện cần thiết để các lực lượng tuần tra, kiểm soát trên biển hoàn thành nhiệm vụ được giao.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 49",
+            "title": "Cờ, sắc phục và phù hiệu",
+            "content": []
+        },
+        {
+            "id": "Điều 50",
+            "title": "Dẫn giải và địa điểm xử lý vi phạm",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Căn cứ vào quy định của pháp luật, tùy theo tính chất, mức độ vi phạm, lực lượng tuần tra, kiểm soát trên biển ra quyết định xử lý vi phạm tại chỗ hoặc dẫn giải người, tàu thuyền vi phạm vào bờ hoặc yêu cầu cơ quan hữu quan của quốc gia mà tàu mang cờ, quốc gia nơi tàu đó đến để xử lý vi phạm.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Khi dẫn giải vào bờ để xử lý, người và tàu thuyền vi phạm phải được áp giải về cảng, bến hay nơi trú đậu gần nhất được liệt kê trong danh mục cảng, bến hay nơi trú đậu đã được cơ quan nhà nước có thẩm quyền của Việt Nam công bố theo quy định của pháp luật. Trường hợp vì yêu cầu bảo đảm an toàn tính mạng, tài sản của người trên tàu thuyền, lực lượng tuần tra, kiểm soát trên biển có thể quyết định dẫn giải người và tàu thuyền vi phạm đó đến cảng, bến hay nơi trú đậu gần nhất của Việt Nam hoặc của nước ngoài theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 51",
+            "title": "Biện pháp ngăn chặn",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Cá nhân có hành vi vi phạm pháp luật có thể bị bắt, tạm giữ, tạm giam; tàu thuyền được sử dụng để thực hiện hành vi vi phạm có thể bị tạm giữ nhằm ngăn chặn việc vi phạm pháp luật hoặc để bảo đảm việc xử lý theo pháp luật.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Việc bắt, tạm giữ, tạm giam người có hành vi vi phạm pháp luật, việc tạm giữ tàu thuyền được thực hiện theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 52",
+            "title": "Thông báo cho Bộ Ngoại giao",
+            "content": []
+        },
+        {
+            "id": "Điều 53",
+            "title": "Xử lý vi phạm",
+            "content": []
+        },
+        {
+            "id": "Điều 54",
+            "title": "Hiệu lực thi hành",
+            "content": []
+        },
+        {
+            "id": "Điều 55",
+            "title": "Quy định chi tiết và hướng dẫn thi hành",
+            "content": []
+        }
+    ],
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 3 thông qua ngày 21 tháng 6 năm 2012.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
+}

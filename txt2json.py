@@ -1,3 +1,4 @@
+import os
 import re
 import json
 import chardet
@@ -9,9 +10,9 @@ def detect_encoding(file_path):
         return result['encoding']
 
 def parse_law_file(file_path):
-    # Automatically detect the file encoding
+    """Parse a single law file."""
     encoding = detect_encoding(file_path)
-    print(f"Detected file encoding: {encoding}")
+    print(f"Detected file encoding for {file_path}: {encoding}")
     
     with open(file_path, 'r', encoding=encoding) as file:
         lines = file.readlines()
@@ -25,29 +26,22 @@ def parse_law_file(file_path):
     current_dieu = None
     current_clause = None
     body_started = False
-    last_body_line_index = None
     footer_started = False
 
     for i, line in enumerate(lines):
         line = line.strip()
-
-        # Normalize spaces by replacing non-breaking spaces with regular spaces
         line = line.replace('\u00A0', ' ')
 
-        # Skip empty lines
         if not line:
             continue
 
-        # Detect header (before the first Điều or Chương)
         if not body_started and not re.match(r"^(Điều\s+\d+|Chương\s+[IVXLCDM]+)", line):
             data["header"].append(line)
             continue
 
-        # Detect the start of the body (Chương or Điều)
         if not body_started and re.match(r"^(Chương\s+[IVXLCDM]+|Điều\s+\d+)", line):
             body_started = True
 
-        # Detect footer start
         if body_started and re.match(r"^(Luật này đã được Quốc hội|CHỦ TỊCH QUỐC HỘI)", line):
             footer_started = True
 
@@ -55,7 +49,6 @@ def parse_law_file(file_path):
             data["footer"].append(line)
             continue
 
-        # Detect Điều
         if re.match(r"^Điều\s+\d+", line):
             if current_dieu:
                 data["content"].append(current_dieu)
@@ -66,9 +59,7 @@ def parse_law_file(file_path):
                 "content": []
             }
             current_clause = None
-            last_body_line_index = i
 
-        # Detect numbered clauses (e.g., "1.", "2.")
         elif re.match(r"^\d+\.", line):
             parts = line.split(". ", 1)
             clause_number = parts[0].strip()
@@ -82,7 +73,6 @@ def parse_law_file(file_path):
                 current_dieu["content"].append(clause)
                 current_clause = clause
 
-        # Detect lettered sub-clauses (e.g., "a)", "b)", including "đ")
         elif re.match(r"^[a-zđ]\)", line):
             parts = line.split(") ", 1)
             sub_clause = {
@@ -92,28 +82,37 @@ def parse_law_file(file_path):
             if current_clause and "sub_clauses" in current_clause:
                 current_clause["sub_clauses"].append(sub_clause)
 
-        # Handle continuation lines for clauses
         elif current_clause and "text" in current_clause:
             current_clause["text"] += f" {line}"
 
-    # Add the last Điều to the content
     if current_dieu:
         data["content"].append(current_dieu)
 
-    # Clean up the header to ensure it ends before Chương or Điều
     while data["header"] and re.match(r"^(Chương\s+[IVXLCDM]+|Điều\s+\d+)", data["header"][-1]):
         data["header"].pop()
 
     return data
 
-# Convert the parsed data to JSON
-def convert_to_json(file_path, output_path):
-    law_data = parse_law_file(file_path)
-    with open(output_path, "w", encoding="utf-8") as json_file:
-        json.dump(law_data, json_file, ensure_ascii=False, indent=4)
-    print(f"Data successfully converted and saved to {output_path}")
+def convert_folder_to_json(input_folder, output_folder):
+    """Process all .txt files in the input folder and save as JSON in the output folder."""
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+
+    for file_name in os.listdir(input_folder):
+        if file_name.endswith(".txt"):
+            input_file_path = os.path.join(input_folder, file_name)
+            output_file_name = os.path.splitext(file_name)[0] + ".json"
+            output_file_path = os.path.join(output_folder, output_file_name)
+
+            try:
+                law_data = parse_law_file(input_file_path)
+                with open(output_file_path, "w", encoding="utf-8") as json_file:
+                    json.dump(law_data, json_file, ensure_ascii=False, indent=4)
+                print(f"Processed and saved: {output_file_path}")
+            except Exception as e:
+                print(f"Failed to process {input_file_path}: {e}")
 
 # Example usage
-input_file = "luat_viet_nam.txt"  # Replace with the correct file path
-output_file = "luat_viet_nam.json"
-convert_to_json(input_file, output_file)
+input_folder = "Vietnam-Law-txt"
+output_folder = "Vietnam-Law-tree_json"
+convert_folder_to_json(input_folder, output_folder)

@@ -1,0 +1,514 @@
+{
+    "header": [
+        "LUẬT",
+        "THUẾ THU NHẬP DOANH NGHIỆP",
+        "CỦA QUỐC HỘI KHÓA XII, KỲ HỌP THỨ 3, SỐ 14/2008/QH12",
+        "NGÀY 03 THÁNG 06 NĂM 2008",
+        "Căn cứ Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 51/2001/QH10;",
+        "Quốc hội ban hành Luật thuế thu nhập doanh nghiệp."
+    ],
+    "content": [
+        {
+            "id": "Điều 1",
+            "title": "Phạm vi điều chỉnh",
+            "content": []
+        },
+        {
+            "id": "Điều 2",
+            "title": "Người nộp thuế",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Người nộp thuế thu nhập doanh nghiệp là tổ chức hoạt động sản xuất, kinh doanh hàng hoá, dịch vụ có thu nhập chịu thuế theo quy định của Luật này (sau đây gọi là doanh nghiệp), bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Doanh nghiệp được thành lập theo quy định của pháp luật Việt Nam;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Doanh nghiệp được thành lập theo quy định của pháp luật nước ngoài (sau đây gọi là doanh nghiệp nước ngoài) có cơ sở thường trú hoặc không có cơ sở thường trú tại Việt Nam;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Tổ chức được thành lập theo Luật hợp tác xã;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Đơn vị sự nghiệp được thành lập theo quy định của pháp luật Việt Nam;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Tổ chức khác có hoạt động sản xuất, kinh doanh có thu nhập."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Doanh nghiệp có thu nhập chịu thuế quy định tại Điều 3 của Luật này phải nộp thuế thu nhập doanh nghiệp như sau:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Doanh nghiệp được thành lập theo quy định của pháp luật Việt Nam nộp thuế đối với thu nhập chịu thuế phát sinh tại Việt Nam và thu nhập chịu thuế phát sinh ngoài Việt Nam;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Doanh nghiệp nước ngoài có cơ sở thường trú tại Việt Nam nộp thuế đối với thu nhập chịu thuế phát sinh tại Việt Nam và thu nhập chịu thuế phát sinh ngoài Việt Nam liên quan đến hoạt động của cơ sở thường trú đó;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Doanh nghiệp nước ngoài có cơ sở thường trú tại Việt Nam nộp thuế đối với thu nhập chịu thuế phát sinh tại Việt Nam mà khoản thu nhập này không liên quan đến hoạt động của cơ sở thường trú;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Doanh nghiệp nước ngoài không có cơ sở thường trú tại Việt Nam nộp thuế đối với thu nhập chịu thuế phát sinh tại Việt Nam."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Cơ sở thường trú của doanh nghiệp nước ngoài là cơ sở sản xuất, kinh doanh mà thông qua cơ sở này, doanh nghiệp nước ngoài tiến hành một phần hoặc toàn bộ hoạt động sản xuất, kinh doanh tại Việt Nam mang lại thu nhập, bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Chi nhánh, văn phòng điều hành, nhà máy, công xưởng, phương tiện vận tải, hầm mỏ, mỏ dầu, khí hoặc địa điểm khai thác tài nguyên thiên nhiên khác tại Việt Nam;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Địa điểm xây dựng, công trình xây dựng, lắp đặt, lắp ráp;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Cơ sở cung cấp dịch vụ, bao gồm cả dịch vụ tư vấn thông qua người làm công hay một tổ chức, cá nhân khác;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Đại lý cho doanh nghiệp nước ngoài;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Đại diện tại Việt Nam trong trường hợp là đại diện có thẩm quyền ký kết hợp đồng đứng tên doanh nghiệp nước ngoài hoặc đại diện không có thẩm quyền ký kết hợp đồng đứng tên doanh nghiệp nước ngoài nhưng thường xuyên thực hiện việc giao hàng hoá hoặc cung ứng dịch vụ tại Việt Nam."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 3",
+            "title": "Thu nhập chịu thuế",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thu nhập chịu thuế bao gồm thu nhập từ hoạt động sản xuất, kinh doanh hàng hoá, dịch vụ và thu nhập khác quy định tại khoản 2 Điều này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thu nhập khác bao gồm thu nhập từ chuyển nhượng vốn, chuyển nhượng bất động sản; thu nhập từ quyền sở hữu, quyền sử dụng tài sản; thu nhập từ chuyển nhượng, cho thuê, thanh lý tài sản; thu nhập từ lãi tiền gửi, cho vay vốn, bán ngoại tệ; hoàn nhập các khoản dự phòng; thu khoản nợ khó đòi đã xoá nay đòi được; thu khoản nợ phải trả không xác định được chủ; khoản thu nhập từ kinh doanh của những năm trước bị bỏ sót và các khoản thu nhập khác, kể cả thu nhập nhận được từ hoạt động sản xuất, kinh doanh ở ngoài Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 4",
+            "title": "Thu nhập được miễn thuế",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thu nhập từ trồng trọt, chăn nuôi, nuôi trồng thủy sản của tổ chức được thành lập theo Luật hợp tác xã.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thu nhập từ việc thực hiện dịch vụ kỹ thuật trực tiếp phục vụ nông nghiệp.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Thu nhập từ việc thực hiện hợp đồng nghiên cứu khoa học và phát triển công nghệ, sản phẩm đang trong thời kỳ sản xuất thử nghiệm, sản phẩm làm ra từ công nghệ mới lần đầu áp dụng tại Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Thu nhập từ hoạt động sản xuất, kinh doanh hàng hoá, dịch vụ của doanh nghiệp dành riêng cho lao động là người tàn tật, người sau cai nghiện, người nhiễm HIV. Chính phủ quy định tiêu chí, điều kiện xác định doanh nghiệp dành riêng cho lao động là người tàn tật, người sau cai nghiện, người nhiễm HIV.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Thu nhập từ hoạt động dạy nghề dành riêng cho người dân tộc thiểu số, người tàn tật, trẻ em có hoàn cảnh đặc biệt khó khăn, đối tượng tệ nạn xã hội.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Thu nhập được chia từ hoạt động góp vốn, liên doanh, liên kết với doanh nghiệp trong nước, sau khi đã nộp thuế thu nhập doanh nghiệp theo quy định của Luật này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "7",
+                    "text": "Khoản tài trợ nhận được để sử dụng cho hoạt động giáo dục, nghiên cứu khoa học, văn hoá, nghệ thuật, từ thiện, nhân đạo và hoạt động xã hội khác tại Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 5",
+            "title": "Kỳ tính thuế",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Kỳ tính thuế thu nhập doanh nghiệp được xác định theo năm dương lịch hoặc năm tài chính, trừ trường hợp quy định tại khoản 2 Điều này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Kỳ tính thuế thu nhập doanh nghiệp theo từng lần phát sinh thu nhập áp dụng đối với doanh nghiệp nước ngoài được quy định tại điểm c và điểm d khoản 2 Điều 2 của Luật này. Chương II CĂN CỨ VÀ PHƯƠNG PHÁP TÍNH THUẾ",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 6",
+            "title": "Căn cứ tính thuế",
+            "content": []
+        },
+        {
+            "id": "Điều 7",
+            "title": "Xác định thu nhập tính thuế",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thu nhập tính thuế trong kỳ tính thuế được xác định bằng thu nhập chịu thuế trừ thu nhập được miễn thuế và các khoản lỗ được kết chuyển từ các năm trước.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thu nhập chịu thuế bằng doanh thu trừ các khoản chi được trừ của hoạt động sản xuất, kinh doanh cộng thu nhập khác, kể cả thu nhập nhận được ở ngoài Việt Nam.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Thu nhập từ hoạt động chuyển nhượng bất động sản phải xác định riêng để kê khai nộp thuế. Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 8",
+            "title": "Doanh thu",
+            "content": []
+        },
+        {
+            "id": "Điều 9",
+            "title": "Các khoản chi được trừ và không được trừ khi xác định thu nhập chịu thuế",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Trừ các khoản chi quy định tại khoản 2 Điều này, doanh nghiệp được trừ mọi khoản chi nếu đáp ứng đủ các điều kiện sau đây:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Khoản chi thực tế phát sinh liên quan đến hoạt động sản xuất, kinh doanh của doanh nghiệp;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Khoản chi có đủ hoá đơn, chứng từ theo quy định của pháp luật."
+                        }
+                    ]
+                },
+                {
+                    "number": "2",
+                    "text": "Các khoản chi không được trừ khi xác định thu nhập chịu thuế bao gồm:",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Khoản chi không đáp ứng đủ các điều kiện quy định tại khoản 1 Điều này, trừ phần giá trị tổn thất do thiên tai, dịch bệnh và trường hợp bất khả kháng khác không được bồi thường;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Khoản tiền phạt do vi phạm hành chính;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Khoản chi được bù đắp bằng nguồn kinh phí khác;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Phần chi phí quản lý kinh doanh do doanh nghiệp nước ngoài phân bổ cho cơ sở thường trú tại Việt Nam vượt mức tính theo phương pháp phân bổ do pháp luật Việt Nam quy định;"
+                        },
+                        {
+                            "letter": "đ",
+                            "text": "Phần chi vượt mức theo quy định của pháp luật về trích lập dự phòng;"
+                        },
+                        {
+                            "letter": "e",
+                            "text": "Phần chi phí nguyên liệu, vật liệu, nhiên liệu, năng lượng, hàng hóa vượt định mức tiêu hao do doanh nghiệp xây dựng, thông báo cho cơ quan thuế và giá thực tế xuất kho;"
+                        },
+                        {
+                            "letter": "g",
+                            "text": "Phần chi trả lãi tiền vay vốn sản xuất, kinh doanh của đối tượng không phải là tổ chức tín dụng hoặc tổ chức kinh tế vượt quá 150% mức lãi suất cơ bản do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm vay;"
+                        },
+                        {
+                            "letter": "h",
+                            "text": "Trích khấu hao tài sản cố định không đúng quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "i",
+                            "text": "Khoản trích trước vào chi phí không đúng quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "k",
+                            "text": "Tiền lương, tiền công của chủ doanh nghiệp tư nhân; thù lao trả cho sáng lập viên doanh nghiệp không trực tiếp tham gia điều hành sản xuất, kinh doanh; tiền lương, tiền công, các khoản hạch toán khác để trả cho người lao động nhưng thực tế không chi trả hoặc không có hóa đơn, chứng từ theo quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "l",
+                            "text": "Chi trả lãi tiền vay vốn tương ứng với phần vốn điều lệ còn thiếu;"
+                        },
+                        {
+                            "letter": "m",
+                            "text": "Thuế giá trị gia tăng đầu vào đã được khấu trừ, thuế giá trị gia tăng nộp theo phương pháp khấu trừ, thuế thu nhập doanh nghiệp;"
+                        },
+                        {
+                            "letter": "n",
+                            "text": "Phần chi quảng cáo, tiếp thị, khuyến mại, hoa hồng môi giới; chi tiếp tân, khánh tiết, hội nghị; chi hỗ trợ tiếp thị, chi hỗ trợ chi phí, chiết khấu thanh toán; chi báo biếu, báo tặng của cơ quan báo chí liên quan trực tiếp đến hoạt động sản xuất, kinh doanh vượt quá 10% tổng số chi được trừ; đối với doanh nghiệp thành lập mới là phần chi vượt quá 15% trong ba năm đầu, kể từ khi được thành lập. Tổng số chi được trừ không bao gồm các khoản chi quy định tại điểm này; đối với hoạt động thương mại, tổng số chi được trừ không bao gồm giá mua của hàng hoá bán ra;"
+                        },
+                        {
+                            "letter": "o",
+                            "text": "Khoản tài trợ, trừ khoản tài trợ cho giáo dục, y tế, khắc phục hậu quả thiên tai và làm nhà tình nghĩa cho người nghèo theo quy định của pháp luật."
+                        }
+                    ]
+                },
+                {
+                    "number": "3",
+                    "text": "Khoản chi bằng ngoại tệ được trừ khi xác định thu nhập chịu thuế phải quy đổi ra đồng Việt Nam theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm phát sinh chi phí bằng ngoại tệ. Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 10",
+            "title": "Thuế suất",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Thuế suất thuế thu nhập doanh nghiệp là 25%, trừ trường hợp quy định tại khoản 2 Điều này và Điều 13 của Luật này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Thuế suất thuế thu nhập doanh nghiệp đối với hoạt động tìm kiếm, thăm dò, khai thác dầu khí và tài nguyên quí hiếm khác từ 32% đến 50% phù hợp với từng dự án, từng cơ sở kinh doanh. Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 11",
+            "title": "Phương pháp tính thuế",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Số thuế thu nhập doanh nghiệp phải nộp trong kỳ tính thuế được tính bằng thu nhập tính thuế nhân với thuế suất; trường hợp doanh nghiệp đã nộp thuế thu nhập ở ngoài Việt Nam thì được trừ số thuế thu nhập đã nộp nhưng tối đa không quá số thuế thu nhập doanh nghiệp phải nộp theo quy định của Luật này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Phương pháp tính thuế đối với doanh nghiệp quy định tại điểm c và điểm d khoản 2 Điều 2 của Luật này được thực hiện theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 12",
+            "title": "Nơi  nộp thuế",
+            "content": []
+        },
+        {
+            "id": "Điều 13",
+            "title": "Ưu đãi về thuế suất",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Doanh nghiệp thành lập mới từ dự án đầu tư tại địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn, khu kinh tế, khu công nghệ cao; doanh nghiệp thành lập mới từ dự án đầu tư thuộc lĩnh vực công nghệ cao, nghiên cứu khoa học và phát triển công nghệ, đầu tư phát triển cơ sở hạ tầng đặc biệt quan trọng của Nhà nước, sản xuất sản phẩm phần mềm được áp dụng thuế suất 10% trong thời gian mười lăm năm.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Doanh nghiệp hoạt động trong lĩnh vực giáo dục - đào tạo, dạy nghề, y tế, văn hoá, thể thao và môi trường được áp dụng thuế suất 10%.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Doanh nghiệp thành lập mới từ dự án đầu tư tại địa bàn có điều kiện kinh tế - xã hội khó khăn được áp dụng thuế suất 20% trong thời gian mười năm.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Hợp tác xã dịch vụ nông nghiệp và quỹ tín dụng nhân dân được áp dụng thuế suất 20%.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "5",
+                    "text": "Đối với dự án cần đặc biệt thu hút đầu tư có quy mô lớn và công nghệ cao thì thời gian áp dụng thuế suất ưu đãi có thể kéo dài thêm, nhưng thời gian kéo dài thêm không quá thời hạn quy định tại khoản 1 Điều này.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "6",
+                    "text": "Thời gian áp dụng thuế suất ưu đãi quy định tại Điều này được tính từ năm đầu tiên doanh nghiệp có doanh thu. Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 14",
+            "title": "Ưu đãi về thời gian miễn thuế, giảm thuế",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Doanh nghiệp thành lập mới từ dự án đầu tư tại địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn, khu kinh tế, khu công nghệ cao; doanh nghiệp thành lập mới từ dự án đầu tư thuộc lĩnh vực công nghệ cao, nghiên cứu khoa học và phát triển công nghệ, đầu tư phát triển cơ sở hạ tầng đặc biệt quan trọng của Nhà nước, sản xuất sản phẩm phần mềm; doanh nghiệp thành lập mới hoạt động trong lĩnh vực giáo dục - đào tạo, dạy nghề, y tế, văn hoá, thể thao và môi trường được miễn thuế tối đa không quá bốn năm và giảm 50% số thuế phải nộp tối đa không quá chín năm tiếp theo.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Doanh nghiệp thành lập mới từ dự án đầu tư tại địa bàn có điều kiện kinh tế - xã hội khó khăn được miễn thuế tối đa không quá hai năm và giảm 50% số thuế phải nộp tối đa không quá bốn năm tiếp theo.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Thời gian miễn thuế, giảm thuế quy định tại Điều này được tính từ năm đầu tiên doanh nghiệp có thu nhập chịu thuế; trường hợp doanh nghiệp không có thu nhập chịu thuế trong ba năm đầu, kể từ năm đầu tiên có doanh thu thì thời  gian miễn thuế, giảm thuế được tính từ năm thứ tư. Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 15",
+            "title": "Các trường hợp  giảm thuế khác",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Doanh nghiệp sản xuất, xây dựng, vận tải sử dụng nhiều lao động nữ được giảm thuế thu nhập doanh nghiệp bằng số chi thêm cho lao động nữ.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Doanh nghiệp sử dụng nhiều lao động là người dân tộc thiểu số được giảm thuế thu nhập doanh nghiệp bằng số chi thêm cho lao động là người dân tộc thiểu số . Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 16",
+            "title": "Chuyển lỗ",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Doanh nghiệp có lỗ được chuyển số lỗ sang năm sau; số lỗ này được trừ vào thu nhập tính thuế. Thời gian được chuyển lỗ không quá năm năm, kể từ năm tiếp theo năm phát sinh lỗ.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Doanh nghiệp có lỗ từ hoạt động chuyển nhượng bất động sản chỉ được chuyển số lỗ vào thu nhập tính thuế của hoạt động này.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 17",
+            "title": "Trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Doanh nghiệp được thành lập, hoạt động theo quy định của pháp luật Việt Nam được trích tối đa 10% thu nhập tính thuế hàng năm để lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Trong thời hạn năm năm, kể từ khi trích lập, nếu Quỹ phát triển khoa học và công nghệ không được sử dụng hoặc sử dụng không hết 70% hoặc sử dụng không đúng mục đích thì doanh nghiệp phải nộp ngân sách nhà nước phần thuế thu nhập doanh nghiệp tính trên khoản thu nhập đã trích lập quỹ mà không sử dụng hoặc sử dụng không đúng mục đích và phần lãi phát sinh từ số thuế thu nhập doanh nghiệp đó. Thuế suất thuế thu nhập doanh nghiệp dùng để tính số thuế thu hồi là thuế suất áp dụng cho doanh nghiệp trong thời gian trích lập quỹ. Lãi suất tính lãi đối với số thuế thu hồi tính trên phần quỹ không sử dụng hết là lãi suất trái phiếu kho bạc loại kỳ hạn một năm áp dụng tại thời điểm thu hồi và thời gian tính lãi là hai năm. Lãi suất tính lãi đối với số thuế thu hồi tính trên phần quỹ sử dụng sai mục đích là lãi phạt chậm nộp theo quy định của Luật quản lý thuế và thời gian tính lãi là khoảng thời gian kể từ khi trích lập quỹ đến khi thu hồi.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Doanh nghiệp không được hạch toán các khoản chi từ Quỹ phát triển khoa học và công nghệ của doanh nghiệp vào chi phí được trừ khi xác định thu nhập chịu thuế trong kỳ tính thuế.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Quỹ phát triển khoa học và công nghệ của doanh nghiệp chỉ được sử dụng cho đầu tư khoa học và công nghệ tại Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 18",
+            "title": "Điều kiện áp dụng ưu đãi thuế",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Ưu đãi thuế thu nhập doanh nghiệp quy định tại các điều 13, 14, 15, 16 và 17 của Luật này chỉ áp dụng đối với doanh nghiệp thực hiện chế độ kế toán, hoá đơn, chứng từ và nộp thuế theo kê khai.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Doanh nghiệp phải hạch toán riêng thu nhập từ hoạt động sản xuất, kinh doanh được ưu đãi thuế quy định tại Điều 13 và Điều 14 của Luật này với thu nhập từ hoạt động sản xuất, kinh doanh không được ưu đãi thuế; trường hợp không hạch toán riêng được thì thu nhập từ hoạt động sản xuất, kinh doanh được ưu đãi thuế được xác định theo tỷ lệ doanh thu giữa hoạt động sản xuất, kinh doanh được ưu đãi thuế trên tổng doanh thu của doanh nghiệp.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Việc ưu đãi thuế thu nhập doanh nghiệp quy định tại Điều 13 và Điều 14 của Luật này không áp dụng đối với: Chương IV ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": [
+                        {
+                            "letter": "a",
+                            "text": "Thu nhập quy định tại khoản 2 Điều 3 của Luật này;"
+                        },
+                        {
+                            "letter": "b",
+                            "text": "Thu nhập từ hoạt động tìm kiếm, thăm dò, khai thác dầu khí và tài nguyên quí hiếm khác;"
+                        },
+                        {
+                            "letter": "c",
+                            "text": "Thu nhập từ kinh doanh trò chơi có thưởng, cá cược theo quy định của pháp luật;"
+                        },
+                        {
+                            "letter": "d",
+                            "text": "Trường hợp khác theo quy định của Chính phủ."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "Điều 19",
+            "title": "Hiệu lực thi hành",
+            "content": [
+                {
+                    "number": "1",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2009.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "2",
+                    "text": "Luật này thay thế Luật thuế thu nhập doanh nghiệp số 09/2003/QH11.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "3",
+                    "text": "Doanh nghiệp đang hưởng ưu đãi thuế thu nhập doanh nghiệp theo quy định của Luật thuế thu nhập doanh nghiệp số 09/2003/QH11 tiếp tục được hưởng các ưu đãi này cho thời gian còn lại theo quy định của Luật thuế thu nhập doanh nghiệp số 09/2003/QH11; trường hợp mức ưu đãi về thuế thu nhập doanh nghiệp bao gồm cả thuế suất ưu đãi và thời gian miễn thuế, giảm thuế thấp hơn mức ưu đãi theo quy định của Luật này thì được áp dụng ưu đãi thuế theo quy định của Luật này cho thời gian còn lại.",
+                    "sub_clauses": []
+                },
+                {
+                    "number": "4",
+                    "text": "Doanh nghiệp thuộc diện hưởng thời gian miễn thuế, giảm thuế theo quy định của Luật thuế thu nhập doanh nghiệp số 09/2003/QH11 mà chưa có thu nhập chịu thuế thì thời điểm bắt đầu tính thời gian miễn thuế, giảm thuế được tính theo quy định của Luật này và kể từ ngày Luật này có hiệu lực.",
+                    "sub_clauses": []
+                }
+            ]
+        },
+        {
+            "id": "Điều 20",
+            "title": "Hướng dẫn thi hành",
+            "content": []
+        }
+    ],
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 3 thông qua ngày 03 tháng 6 năm 2008.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Phú Trọng"
+    ]
+}

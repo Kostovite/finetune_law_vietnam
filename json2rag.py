@@ -1,3 +1,4 @@
+import os
 import json
 
 def convert_to_rag_format(parsed_data):
@@ -33,6 +34,7 @@ def convert_to_rag_format(parsed_data):
                 "clause": clause_number,
                 "title": article_title,
                 "text": clause_text,
+                # Uncomment the next line if you need general context
                 # "context": general_context
             })
             
@@ -47,32 +49,46 @@ def convert_to_rag_format(parsed_data):
                     "clause": f"{clause_number}{sub_clause_letter}",
                     "title": article_title,
                     "text": sub_clause_text,
+                    # Uncomment the next line if you need general context
                     # "context": general_context
                 })
 
     return rag_data
 
 
-def save_rag_json(parsed_data, output_path):
+def convert_folder_to_rag(input_folder, output_folder):
     """
-    Saves the RAG-ready JSON to a file.
+    Converts all JSON files in the input folder to RAG-ready format and saves in the output folder.
     Args:
-        parsed_data (dict): Parsed law data.
-        output_path (str): File path to save the RAG JSON.
+        input_folder (str): Path to the folder containing parsed law JSON files.
+        output_folder (str): Path to the folder to save RAG-ready JSON files.
     """
-    rag_ready_data = convert_to_rag_format(parsed_data)
-    with open(output_path, "w", encoding="utf-8") as json_file:
-        json.dump(rag_ready_data, json_file, ensure_ascii=False, indent=4)
-    print(f"RAG-ready JSON saved to {output_path}")
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+
+    for file_name in os.listdir(input_folder):
+        if file_name.endswith(".json"):
+            input_file_path = os.path.join(input_folder, file_name)
+            output_file_name = file_name  # Keep the same file name
+            output_file_path = os.path.join(output_folder, output_file_name)
+
+            try:
+                # Load parsed law JSON
+                with open(input_file_path, "r", encoding="utf-8") as json_file:
+                    parsed_data = json.load(json_file)
+
+                # Convert to RAG-ready format
+                rag_ready_data = convert_to_rag_format(parsed_data)
+
+                # Save RAG JSON
+                with open(output_file_path, "w", encoding="utf-8") as json_file:
+                    json.dump(rag_ready_data, json_file, ensure_ascii=False, indent=4)
+                print(f"Processed and saved RAG format: {output_file_path}")
+            except Exception as e:
+                print(f"Failed to process {input_file_path}: {e}")
 
 
-# Example usage:
-input_json_file = "luat_viet_nam.json"  # Path to the parsed law JSON
-output_rag_file = "rag_format.json"  # Output path for RAG-ready JSON
-
-# Read the parsed law data from JSON
-with open(input_json_file, "r", encoding="utf-8") as json_file:
-    law_data = json.load(json_file)
-
-# Save the RAG JSON version
-save_rag_json(law_data, output_rag_file)
+# Example usage
+input_folder = "Vietnam-Law-tree_json"
+output_folder = "Vietnam-Law-rag_json"
+convert_folder_to_rag(input_folder, output_folder)
