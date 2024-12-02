@@ -93,8 +93,11 @@ def parse_law_file(file_path):
                 }
                 current_dieu["content"].append(current_clause)
 
-        # Footer starts after the line containing "Luật này đã được..."
-        if not footer_started and "Luật này đã được" in line:
+        # Footer starts after encountering specific phrases
+        if not footer_started and (
+            "Bộ luật này" in line and 
+            "Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam" in line
+        ):
             footer_started = True
         
         if footer_started:

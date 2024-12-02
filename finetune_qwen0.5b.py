@@ -52,7 +52,7 @@ def main():
     model_name = "Qwen/Qwen2.5-0.5B"
     print("Loading model and tokenizer...")
     model = AutoModelForCausalLM.from_pretrained(model_name)
-    model = torch.nn.DataParallel(model, device_ids=[0, 1])
+    # model = torch.nn.DataParallel(model, device_ids=[0, 1])
     tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
 
     # Tokenize the dataset

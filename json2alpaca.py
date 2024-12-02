@@ -47,7 +47,7 @@ def save_alpaca_json(parsed_data, output_path):
     print(f"Alpaca JSON saved to {output_path}")
 
 # Example usage:
-input_json_file = "luat_viet_nam.json"  # Path to the parsed law JSON
+input_json_file = "./Vietnam-Law-tree_json/Bộ luật-45-2019-QH14.json"  # Path to the parsed law JSON
 output_alpaca_file = "alpaca_format.json"  # Output path for Alpaca JSON
 
 # Read the parsed law data from JSON
