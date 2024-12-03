@@ -1,23 +1,19 @@
 import os
 import json
 
-def convert_to_rag_format(parsed_data):
+def convert_to_rag_format(parsed_data, file_name):
     """
-    Converts nested JSON structure into RAG-ready format with full context.
+    Converts nested JSON structure into RAG-ready format with file name as ID.
     Args:
         parsed_data (dict): The parsed law data.
+        file_name (str): The name of the file (used as an additional identifier).
     Returns:
         list: A list of dictionaries in RAG format.
     """
     rag_data = []
 
-    # Extract global context (header and footer)
-    header = " ".join(parsed_data.get("header", []))
-    footer = " ".join(parsed_data.get("footer", []))
-
-    # Build the context string
-    general_context = f"{header} {footer}".strip()
-
+    # Build the context string (if applicable, general context is skipped here)
+    
     # Iterate over the content
     for dieu in parsed_data["content"]:
         article_id = dieu["id"]
@@ -34,8 +30,7 @@ def convert_to_rag_format(parsed_data):
                 "clause": clause_number,
                 "title": article_title,
                 "text": clause_text,
-                # Uncomment the next line if you need general context
-                # "context": general_context
+                "file_id": file_name  # Add the file name here
             })
             
             # Add sub-clauses to RAG format
@@ -49,12 +44,10 @@ def convert_to_rag_format(parsed_data):
                     "clause": f"{clause_number}{sub_clause_letter}",
                     "title": article_title,
                     "text": sub_clause_text,
-                    # Uncomment the next line if you need general context
-                    # "context": general_context
+                    "file_id": file_name  # Add the file name here
                 })
 
     return rag_data
-
 
 def convert_folder_to_rag(input_folder, output_folder):
     """
@@ -77,8 +70,11 @@ def convert_folder_to_rag(input_folder, output_folder):
                 with open(input_file_path, "r", encoding="utf-8") as json_file:
                     parsed_data = json.load(json_file)
 
+                # Use file name (without extension) as the unique file_id
+                base_file_name = os.path.splitext(file_name)[0]
+
                 # Convert to RAG-ready format
-                rag_ready_data = convert_to_rag_format(parsed_data)
+                rag_ready_data = convert_to_rag_format(parsed_data, base_file_name)
 
                 # Save RAG JSON
                 with open(output_file_path, "w", encoding="utf-8") as json_file:
