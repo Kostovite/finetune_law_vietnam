@@ -16,12 +16,24 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định việc quản lý nhà nước về đầu tư công; quản lý và sử dụng vốn đầu tư công; quyền, nghĩa vụ và trách nhiệm của cơ quan, đơn vị, tổ chức, cá nhân liên quan đến hoạt động đầu tư công.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với cơ quan, đơn vị, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động đầu tư công, quản lý và sử dụng vốn đầu tư công.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
@@ -53,6 +65,11 @@
             "id": "Điều 4",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Báo cáo đề xuất chủ trương đầu tư là tài liệu trình bày các nội dung nghiên cứu sơ bộ về sự cần thiết, tính khả thi, tính hiệu quả, dự kiến nguồn vốn và mức vốn của chương trình đầu tư công, dự án nhóm B, nhóm C làm cơ sở để cấp có thẩm quyền quyết định chủ trương đầu tư.",
@@ -199,7 +216,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đầu tư chương trình, dự án kết cấu hạ tầng kinh tế - xã hội.",
+                    "text": "Đầu tư chương trình, dự án kết cấu hạ tầng kinh tế - xã hội. Trường hợp thật sự cần thiết tách riêng việc bồi thường, hỗ trợ, tái định cư, giải phóng mặt bằng thành dự án độc lập, đối với dự án quan trọng quốc gia do Quốc hội xem xét, quyết định; đối với dự án nhóm A do Thủ tướng Chính phủ, Hội đồng nhân dân cấp tỉnh xem xét, quyết định theo thẩm quyền. Việc tách riêng dự án độc lập được thực hiện khi phê duyệt chủ trương đầu tư dự án quan trọng quốc gia, dự án nhóm A.",
                     "sub_clauses": []
                 },
                 {
@@ -224,7 +241,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Cấp bù lãi suất tín dụng ưu đãi, phí quản lý; cấp vốn điều lệ cho các ngân hàng chính sách, quỹ tài chính nhà nước ngoài ngân sách; hỗ trợ đầu tư cho các đối tượng chính sách khác theo quyết định của Thủ tướng Chính phủ.",
+                    "text": "Cấp bù lãi suất tín dụng ưu đãi, phí quản lý; cấp vốn điều lệ cho các ngân hàng chính sách, quỹ tài chính nhà nước ngoài ngân sách; hỗ trợ đầu tư cho các đối tượng chính sách khác theo quyết định của Thủ tướng Chính phủ. Chính phủ quy định trình tự, thủ tục thực hiện đầu tư đối với đối tượng quy định tại khoản này.",
                     "sub_clauses": []
                 }
             ]
@@ -258,6 +275,11 @@
             "id": "Điều 7",
             "title": "Tiêu chí phân loại dự án quan trọng quốc gia",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Dự án quan trọng quốc gia là dự án đầu tư độc lập hoặc cụm công trình liên kết chặt chẽ với nhau thuộc một trong các tiêu chí sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Sử dụng vốn đầu tư công từ 10.000 tỷ đồng trở lên;",
@@ -298,6 +320,11 @@
             "id": "Điều 8",
             "title": "Tiêu chí phân loại dự án nhóm A",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trừ dự án quan trọng quốc gia quy định tại Điều 7 của Luật này, dự án thuộc một trong các tiêu chí sau đây là dự án nhóm A:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Dự án không phân biệt tổng mức đầu tư thuộc một trong các trường hợp sau đây:",
@@ -744,7 +771,7 @@
                 },
                 {
                     "number": "11",
-                    "text": "Cản trở việc phát hiện hành vi vi phạm pháp luật về đầu tư công.",
+                    "text": "Cản trở việc phát hiện hành vi vi phạm pháp luật về đầu tư công. Chương II CHỦ TRƯƠNG ĐẦU TƯ VÀ QUYẾT ĐỊNH ĐẦU TƯ CHƯƠNG TRÌNH, DỰ ÁN ĐẦU TƯ CÔNG Mục 1. LẬP, THẨM ĐỊNH, QUYẾT ĐỊNH CHỦ TRƯƠNG ĐẦU TƯ",
                     "sub_clauses": []
                 }
             ]
@@ -774,7 +801,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định việc phân cấp thẩm quyền, trình tự, thủ tục quyết định chủ trương đầu tư đối với chương trình, dự án sử dụng vốn từ nguồn thu hợp pháp của các cơ quan nhà nước, đơn vị sự nghiệp công lập dành để đầu tư phù hợp với quy định về quyền tự chủ tài chính của các cơ quan, đơn vị.",
+                    "text": "Chính phủ quy định việc phân cấp thẩm quyền, trình tự, thủ tục quyết định chủ trương đầu tư đối với chương trình, dự án sử dụng vốn từ nguồn thu hợp pháp của các cơ quan nhà nước, đơn vị sự nghiệp công lập dành để đầu tư phù hợp với quy định về quyền tự chủ tài chính của các cơ quan, đơn vị. Trường hợp chương trình, dự án quy định tại khoản này có sử dụng nguồn vốn của ngân sách nhà nước thì thẩm quyền, trình tự, thủ tục thực hiện theo quy định của Luật này đối với chương trình, dự án sử dụng vốn ngân sách nhà nước.",
                     "sub_clauses": []
                 },
                 {
@@ -811,7 +838,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Hội đồng nhân dân các cấp quyết định chủ trương đầu tư chương trình, dự án nhóm B, nhóm C sử dụng vốn ngân sách địa phương, bao gồm cả vốn bổ sung có mục tiêu từ ngân sách cấp trên, các nguồn vốn hợp pháp của địa phương thuộc cấp mình quản lý, trừ dự án quy định tại khoản 4 Điều này.",
+                    "text": "Hội đồng nhân dân các cấp quyết định chủ trương đầu tư chương trình, dự án nhóm B, nhóm C sử dụng vốn ngân sách địa phương, bao gồm cả vốn bổ sung có mục tiêu từ ngân sách cấp trên, các nguồn vốn hợp pháp của địa phương thuộc cấp mình quản lý, trừ dự án quy định tại khoản 4 Điều này. Trong trường hợp cần thiết, Hội đồng nhân dân quyết định việc giao cho Ủy ban nhân dân cùng cấp quyết định chủ trương đầu tư dự án quy định tại khoản này phù hợp với mục tiêu, định hướng phát triển, khả năng tài chính và đặc điểm cụ thể của địa phương.",
                     "sub_clauses": []
                 },
                 {
@@ -1055,7 +1082,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người đứng đầu Bộ, cơ quan trung ương và địa phương có trách nhiệm:",
+                    "text": "Người đứng đầu Bộ, cơ quan trung ương và địa phương có trách nhiệm: Đối với dự án nhóm A sử dụng vốn ODA, vốn vay ưu đãi của các nhà tài trợ nước ngoài và dự án quy định tại khoản 1 Điều 8 của Luật này do Ủy ban nhân dân cấp tỉnh chuẩn bị báo cáo nghiên cứu tiền khả thi, Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp cho ý kiến trước khi trình Thủ tướng Chính phủ.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1073,7 +1100,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thủ tướng Chính phủ quyết định thành lập Hội đồng thẩm định liên ngành hoặc giao cho một cơ quan chủ trì thẩm định báo cáo nghiên cứu tiền khả thi làm cơ sở cho việc quyết định chủ trương đầu tư dự án.",
+                    "text": "Thủ tướng Chính phủ quyết định thành lập Hội đồng thẩm định liên ngành hoặc giao cho một cơ quan chủ trì thẩm định báo cáo nghiên cứu tiền khả thi làm cơ sở cho việc quyết định chủ trương đầu tư dự án. Hội đồng thẩm định liên ngành hoặc cơ quan chủ trì thẩm định được mời tổ chức, cá nhân có chuyên môn, kinh nghiệm tham gia thẩm định báo cáo nghiên cứu tiền khả thi hoặc yêu cầu chủ đầu tư lựa chọn tổ chức, cá nhân có chuyên môn, kinh nghiệm tham gia thẩm định báo cáo nghiên cứu tiền khả thi.",
                     "sub_clauses": []
                 },
                 {
@@ -1235,7 +1262,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chủ tịch Ủy ban nhân dân các cấp có trách nhiệm:",
+                    "text": "Chủ tịch Ủy ban nhân dân các cấp có trách nhiệm: 2 . Ủy ban nhân dân trình Hội đồng nhân dân cùng cấp quyết định chủ trương đầu tư, bao gồm mục tiêu, phạm vi, quy mô, tổng vốn đầu tư, cơ cấu nguồn vốn, địa điểm, thời gian, tiến độ, dự kiến kế hoạch bố trí vốn, cơ chế và giải pháp, chính sách thực hiện.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1273,6 +1300,11 @@
             "id": "Điều 29",
             "title": "Nội dung báo cáo đề xuất chủ trương đầu tư chương trình đầu tư công",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Nội dung chủ yếu của báo cáo đề xuất chủ trương đầu tư chương trình đầu tư công bao gồm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Sự cần thiết của chương trình để thực hiện các mục tiêu chiến lược, kế hoạch phát triển kinh tế - xã hội và quy hoạch có liên quan theo quy định của pháp luật về quy hoạch;",
@@ -1389,6 +1421,11 @@
             "title": "Nội dung báo cáo đề xuất chủ trương đầu tư dự án nhóm B, nhóm C",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Nội dung chủ yếu của báo cáo đề xuất chủ trương đầu tư dự án nhóm B, nhóm C bao gồm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Sự cần thiết đầu tư, các điều kiện để thực hiện đầu tư, đánh giá về sự phù hợp với quy hoạch có liên quan theo quy định của pháp luật về quy hoạch, kế hoạch đầu tư;",
                     "sub_clauses": []
@@ -1433,7 +1470,13 @@
         {
             "id": "Điều 32",
             "title": "Hồ sơ, nội dung và thời gian thẩm định, quyết định chủ trương đầu tư chương trình, dự án",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hồ sơ, nội dung và thời gian thẩm định, quyết định chủ trương đầu tư chương trình, dự án thực hiện theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 33",
@@ -1511,7 +1554,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Hồ sơ trình cấp có thẩm quyền quyết định điều chỉnh chủ trương đầu tư chương trình, dự án thực hiện theo quy định của Chính phủ.",
+                    "text": "Hồ sơ trình cấp có thẩm quyền quyết định điều chỉnh chủ trương đầu tư chương trình, dự án thực hiện theo quy định của Chính phủ. Mục 2. LẬP, THẨM ĐỊNH, QUYẾT ĐỊNH ĐẦU TƯ CHƯƠNG TRÌNH, DỰ ÁN ĐẦU TƯ CÔNG",
                     "sub_clauses": []
                 }
             ]
@@ -2079,7 +2122,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ quyết định chương trình, dự án, nội dung, thời gian thẩm định, quyết định chương trình, dự án thực hiện theo quy định của Chính phủ.",
+                    "text": "Hồ sơ quyết định chương trình, dự án, nội dung, thời gian thẩm định, quyết định chương trình, dự án thực hiện theo quy định của Chính phủ. Chương III LẬP, THẨM ĐỊNH, PHÊ DUYỆT VÀ GIAO KẾ HOẠCH ĐẦU TƯ CÔNG Mục 1. QUY ĐỊNH CHUNG",
                     "sub_clauses": []
                 }
             ]
@@ -2390,13 +2433,18 @@
             "title": "Điều kiện để chương trình, dự án, nhiệm vụ, đối tượng đầu tư công khác được đưa vào kế hoạch đầu tư công trung hạn",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Chương trình, dự án, nhiệm vụ, đối tượng đầu tư công khác được đưa vào kế hoạch đầu tư công trung hạn phải bảo đảm tuân thủ quy định của pháp luật về nguyên tắc, tiêu chí phân bổ vốn đầu tư công và đáp ứng một trong các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Dự án chuyển tiếp thuộc danh mục của kế hoạch đầu tư công trung hạn giai đoạn trước;",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Các chương trình, dự án đã được cấp có thẩm quyền quyết định chủ trương đầu tư, các dự án mới phải bảo đảm thời gian bố trí vốn thực hiện dự án nhóm A không quá 06 năm, nhóm B không quá 04 năm, nhóm C không quá 03 năm.",
+                    "text": "Các chương trình, dự án đã được cấp có thẩm quyền quyết định chủ trương đầu tư, các dự án mới phải bảo đảm thời gian bố trí vốn thực hiện dự án nhóm A không quá 06 năm, nhóm B không quá 04 năm, nhóm C không quá 03 năm. Trường hợp không đáp ứng thời hạn trên, Thủ tướng Chính phủ quyết định thời gian bố trí vốn thực hiện dự án đối với các dự án sử dụng vốn ngân sách trung ương, Hội đồng nhân dân cấp tỉnh quyết định thời gian bố trí vốn thực hiện dự án đối với dự án sử dụng vốn ngân sách địa phương;",
                     "sub_clauses": []
                 },
                 {
@@ -2610,7 +2658,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Trước ngày 31 tháng 8 hằng năm, Bộ Kế hoạch và Đầu tư tổng hợp kế hoạch đầu tư công năm sau của quốc gia báo cáo Chính phủ.",
+                    "text": "Trước ngày 31 tháng 8 hằng năm, Bộ Kế hoạch và Đầu tư tổng hợp kế hoạch đầu tư công năm sau của quốc gia báo cáo Chính phủ. Mục 2. LẬP, THẨM ĐỊNH, PHÊ DUYỆT VÀ GIAO KẾ HOẠCH ĐẦU TƯ CÔNG",
                     "sub_clauses": []
                 }
             ]
@@ -2823,7 +2871,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trước ngày 31 tháng 12 hằng năm, Ủy ban nhân dân các cấp giao kế hoạch đầu tư công năm sau cho các đơn vị thực hiện.",
+                    "text": "Trước ngày 31 tháng 12 hằng năm, Ủy ban nhân dân các cấp giao kế hoạch đầu tư công năm sau cho các đơn vị thực hiện. Chương IV THỰC HIỆN VÀ THEO DÕI, KIỂM TRA, ĐÁNH GIÁ, THANH TRA, GIÁM SÁT KẾ HOẠCH, CHƯƠNG TRÌNH, DỰ ÁN ĐẦU TƯ CÔNG Mục 1. TRIỂN KHAI THỰC HIỆN KẾ HOẠCH ĐẦU TƯ CÔNG",
                     "sub_clauses": []
                 }
             ]
@@ -3055,7 +3103,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Đối với chương trình, dự án sử dụng vốn ODA viện trợ không hoàn lại chưa được dự toán hoặc vượt dự toán được giao, Chính phủ báo cáo Ủy ban Thường vụ Quốc hội cho ý kiến trước khi thực hiện và báo cáo Quốc hội tại kỳ họp gần nhất.",
+                    "text": "Đối với chương trình, dự án sử dụng vốn ODA viện trợ không hoàn lại chưa được dự toán hoặc vượt dự toán được giao, Chính phủ báo cáo Ủy ban Thường vụ Quốc hội cho ý kiến trước khi thực hiện và báo cáo Quốc hội tại kỳ họp gần nhất. Mục 2. THEO DÕI, KIỂM TRA, ĐÁNH GIÁ, THANH TRA, GIÁM SÁT KẾ HOẠCH, CHƯƠNG TRÌNH, DỰ ÁN ĐẦU TƯ CÔNG",
                     "sub_clauses": []
                 }
             ]
@@ -3446,7 +3494,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Kết luận thanh tra về hoạt động đầu tư công được công khai theo quy định của pháp luật. Trường hợp phát hiện hành vi vi phạm pháp luật về đầu tư công, cơ quan thanh tra xử lý theo thẩm quyền hoặc chuyển hồ sơ tới cơ quan nhà nước có thẩm quyền để xử lý.",
+                    "text": "Kết luận thanh tra về hoạt động đầu tư công được công khai theo quy định của pháp luật. Trường hợp phát hiện hành vi vi phạm pháp luật về đầu tư công, cơ quan thanh tra xử lý theo thẩm quyền hoặc chuyển hồ sơ tới cơ quan nhà nước có thẩm quyền để xử lý. Chương V NHIỆM VỤ, QUYỀN HẠN, TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN TRONG HOẠT ĐỘNG ĐẦU TƯ CÔNG",
                     "sub_clauses": []
                 }
             ]
@@ -3537,6 +3585,11 @@
             "id": "Điều 80",
             "title": "Nhiệm vụ, quyền hạn của Bộ Kế hoạch và Đầu tư",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Kế hoạch và Đầu tư là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về đầu tư công và có nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Ban hành hoặc trình cấp có thẩm quyền ban hành văn bản pháp luật liên quan đến đầu tư công, các nguyên tắc, tiêu chí, định mức phân bổ và sử dụng vốn đầu tư công;",
@@ -4049,12 +4102,24 @@
         {
             "id": "Điều 98",
             "title": "Xử lý vi phạm",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan, tổ chức, cá nhân có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. Chương VI ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 99",
             "title": "Sửa đổi điểm a khoản 2 Điều 25 của Luật Bảo vệ môi trường số 55/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Sửa đổi điểm a khoản 2 Điều 25 của Luật Bảo vệ môi trường như sau: “a) Quyết định chủ trương đầu tư dự án đối với các đối tượng quy định tại Điều 18 của Luật này trong trường hợp pháp luật quy định dự án phải quyết định chủ trương đầu tư. Đối với dự án đầu tư công, cấp có thẩm quyền căn cứ đánh giá sơ bộ tác động môi trường để quyết định chủ trương đầu tư; căn cứ đánh giá tác động môi trường để quyết định đầu tư đối với các đối tượng quy định tại Điều 18 của Luật này. Chính phủ quy định chi tiết đối tượng, nội dung đánh giá sơ bộ tác động môi trường;”.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 100",
@@ -4098,11 +4163,15 @@
                 },
                 {
                     "number": "5",
-                    "text": "Đối với kế hoạch vốn đầu tư công năm 2019 và năm 2020, các Bộ, cơ quan trung ương, địa phương được phép thực hiện và giải ngân theo quy định của Luật Đầu tư công số 49/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và các văn bản quy định chi tiết, hướng dẫn thi hành.",
+                    "text": "Đối với kế hoạch vốn đầu tư công năm 2019 và năm 2020, các Bộ, cơ quan trung ương, địa phương được phép thực hiện và giải ngân theo quy định của Luật Đầu tư công số 49/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và các văn bản quy định chi tiết, hướng dẫn thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 13 tháng 6 năm 2019. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 13 tháng 6 năm 2019.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

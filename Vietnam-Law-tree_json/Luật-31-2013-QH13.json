@@ -17,13 +17,18 @@
             "title": "Không có tiêu đề",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật thuế giá trị gia tăng:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
-                    "text": "Các khoản 4, 7, 8, 11, 15, 17, 23 và 25 Điều 5 được sửa đổi, bổ sung như sau:",
+                    "text": "Các khoản 4, 7, 8, 11, 15, 17, 23 và 25 Điều 5 được sửa đổi, bổ sung như sau: “4. Sản phẩm muối được sản xuất từ nước biển, muối mỏ tự nhiên, muối tinh, muối i-ốt mà thành phần chính là Na-tri-clo-rua (NaCl).” “7. Bảo hiểm nhân thọ, bảo hiểm sức khoẻ, bảo hiểm người học, các dịch vụ bảo hiểm khác liên quan đến con người; bảo hiểm vật nuôi, bảo hiểm cây trồng, các dịch vụ bảo hiểm nông nghiệp khác; bảo hiểm tàu, thuyền, trang thiết bị và các dụng cụ cần thiết khác phục vụ trực tiếp đánh bắt thuỷ sản; tái bảo hiểm.",
                     "sub_clauses": []
                 },
                 {
                     "number": "8",
-                    "text": "Các dịch vụ tài chính, ngân hàng, kinh doanh chứng khoán sau đây:",
+                    "text": "Các dịch vụ tài chính, ngân hàng, kinh doanh chứng khoán sau đây: “11. Dịch vụ duy trì vườn thú, vườn hoa, công viên, cây xanh đường phố, chiếu sáng công cộng; dịch vụ tang lễ.” “15. Xuất bản, nhập khẩu, phát hành báo, tạp chí, bản tin chuyên ngành, sách chính trị, sách giáo khoa, giáo trình, sách văn bản pháp luật, sách khoa học - kỹ thuật, sách in bằng chữ dân tộc thiểu số và tranh, ảnh, áp phích tuyên truyền cổ động, kể cả dưới dạng băng hoặc đĩa ghi tiếng, ghi hình, dữ liệu điện tử; tiền, in tiền.” “17. Máy móc, thiết bị, phụ tùng, vật tư thuộc loại trong nước chưa sản xuất được cần nhập khẩu để sử dụng trực tiếp cho hoạt động nghiên cứu khoa học, phát triển công nghệ; máy móc, thiết bị, phụ tùng thay thế, phương tiện vận tải chuyên dùng và vật tư thuộc loại trong nước chưa sản xuất được cần nhập khẩu để tiến hành hoạt động tìm kiếm, thăm dò, phát triển mỏ dầu, khí đốt; tàu bay, dàn khoan, tàu thuỷ thuộc loại trong nước chưa sản xuất được cần nhập khẩu để tạo tài sản cố định của doanh nghiệp hoặc thuê của nước ngoài để sử dụng cho sản xuất, kinh doanh, cho thuê, cho thuê lại.” “23. Sản phẩm xuất khẩu là tài nguyên, khoáng sản khai thác chưa chế biến thành sản phẩm khác.” “25. Hàng hóa, dịch vụ của hộ, cá nhân kinh doanh có mức doanh thu hàng năm từ một trăm triệu đồng trở xuống. Cơ sở kinh doanh hàng hóa, dịch vụ không chịu thuế giá trị gia tăng quy định tại Điều này không được khấu trừ và hoàn thuế giá trị gia tăng đầu vào, trừ trường hợp áp dụng mức thuế suất 0% quy định tại khoản 1 Điều 8 của Luật này.”",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -61,7 +66,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Các điểm a, b và d khoản 1 Điều 7 được sửa đổi, bổ sung như sau:",
+                    "text": "Các điểm a, b và d khoản 1 Điều 7 được sửa đổi, bổ sung như sau: “a) Đối với hàng hóa, dịch vụ do cơ sở sản xuất, kinh doanh bán ra là giá bán chưa có thuế giá trị gia tăng; đối với hàng hóa, dịch vụ chịu thuế tiêu thụ đặc biệt là giá bán đã có thuế tiêu thụ đặc biệt nhưng chưa có thuế giá trị gia tăng; đối với hàng hóa chịu thuế bảo vệ môi trường là giá bán đã có thuế bảo vệ môi trường nhưng chưa có thuế giá trị gia tăng; đối với hàng hóa chịu thuế tiêu thụ đặc biệt và thuế bảo vệ môi trường là giá bán đã có thuế tiêu thụ đặc biệt và thuế bảo vệ môi trường nhưng chưa có thuế giá trị gia tăng; “d) Đối với hoạt động cho thuê tài sản là số tiền cho thuê chưa có thuế giá trị gia tăng. Trường hợp cho thuê theo hình thức trả tiền thuê từng kỳ hoặc trả trước tiền thuê cho thời hạn thuê thì giá tính thuế là số tiền cho thuê trả từng kỳ hoặc trả trước cho thời hạn thuê chưa có thuế giá trị gia tăng;”",
                     "sub_clauses": [
                         {
                             "letter": "b",
@@ -71,7 +76,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Sửa đổi, bổ sung khoản 1 Điều 8; bổ sung điểm q vào khoản 2 Điều 8 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 1 Điều 8; bổ sung điểm q vào khoản 2 Điều 8 như sau: “1. Mức thuế suất 0% áp dụng đối với hàng hóa, dịch vụ xuất khẩu, vận tải quốc tế và hàng hóa, dịch vụ không chịu thuế giá trị gia tăng quy định tại Điều 5 của Luật này khi xuất khẩu, trừ các trường hợp sau đây: Hàng hoá, dịch vụ xuất khẩu là hàng hoá, dịch vụ được tiêu dùng ở ngoài Việt Nam, trong khu phi thuế quan; hàng hóa, dịch vụ cung cấp cho khách hàng nước ngoài theo quy định của Chính phủ.” “2. Mức thuế suất 5% áp dụng đối với hàng hoá, dịch vụ sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -109,12 +114,12 @@
                 },
                 {
                     "number": "4",
-                    "text": "Điều 10 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 10 được sửa đổi, bổ sung như sau: “Điều 10. Phương pháp khấu trừ thuế",
                     "sub_clauses": []
                 },
                 {
                     "number": "1",
-                    "text": "Phương pháp khấu trừ thuế giá trị gia tăng được quy định như sau:",
+                    "text": "Phương pháp khấu trừ thuế giá trị gia tăng được quy định như sau: Thuế giá trị gia tăng của hàng hóa, dịch vụ bán ra ghi trên hoá đơn giá trị gia tăng bằng giá tính thuế của hàng hoá, dịch vụ chịu thuế bán ra nhân với thuế suất thuế giá trị gia tăng của hàng hoá, dịch vụ đó. Trường hợp sử dụng chứng từ ghi giá thanh toán là giá đã có thuế giá trị gia tăng thì thuế giá trị gia tăng đầu ra được xác định bằng giá thanh toán trừ giá tính thuế giá trị gia tăng xác định theo quy định tại điểm k khoản 1 Điều 7 của Luật này;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -151,17 +156,17 @@
                 },
                 {
                     "number": "5",
-                    "text": "Điều 11 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 11 được sửa đổi, bổ sung như sau: “Điều 11. Phương pháp tính trực tiếp trên giá trị gia tăng",
                     "sub_clauses": []
                 },
                 {
                     "number": "1",
-                    "text": "Số thuế giá trị gia tăng phải nộp theo phương pháp tính trực tiếp trên giá trị gia tăng bằng giá trị gia tăng nhân với thuế suất thuế giá trị gia tăng áp dụng đối với hoạt động mua bán, chế tác vàng, bạc, đá quý.",
+                    "text": "Số thuế giá trị gia tăng phải nộp theo phương pháp tính trực tiếp trên giá trị gia tăng bằng giá trị gia tăng nhân với thuế suất thuế giá trị gia tăng áp dụng đối với hoạt động mua bán, chế tác vàng, bạc, đá quý. Giá trị gia tăng của vàng, bạc, đá quý được xác định bằng giá thanh toán của vàng, bạc, đá quý bán ra trừ giá thanh toán của vàng, bạc, đá quý mua vào tương ứng.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Số thuế giá trị gia tăng phải nộp theo phương pháp tính trực tiếp trên giá trị gia tăng bằng tỷ lệ % nhân với doanh thu áp dụng như sau:",
+                    "text": "Số thuế giá trị gia tăng phải nộp theo phương pháp tính trực tiếp trên giá trị gia tăng bằng tỷ lệ % nhân với doanh thu áp dụng như sau: - Doanh nghiệp, hợp tác xã có doanh thu hàng năm dưới mức ngưỡng doanh thu một tỷ đồng, trừ trường hợp đăng ký tự nguyện áp dụng phương pháp khấu trừ thuế quy định tại khoản 2 Điều 10 của Luật này; - Hộ, cá nhân kinh doanh; - Tổ chức, cá nhân nước ngoài kinh doanh không có cơ sở thường trú tại Việt Nam nhưng có doanh thu phát sinh tại Việt Nam chưa thực hiện đầy đủ chế độ kế toán, hoá đơn, chứng từ, trừ tổ chức, cá nhân nước ngoài cung cấp hàng hóa, dịch vụ để tiến hành hoạt động tìm kiếm, thăm dò, phát triển và khai thác dầu, khí nộp thuế theo phương pháp khấu trừ do bên Việt Nam khấu trừ nộp thay; - Tổ chức kinh tế khác, trừ trường hợp đăng ký nộp thuế theo phương pháp khấu trừ thuế quy định tại khoản 2 Điều 10 của Luật này; - Phân phối, cung cấp hàng hoá: 1%; - Dịch vụ, xây dựng không bao thầu nguyên vật liệu: 5%; - Sản xuất, vận tải, dịch vụ có gắn với hàng hoá, xây dựng có bao thầu nguyên vật liệu: 3%; - Hoạt động kinh doanh khác: 2%.”",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -175,7 +180,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Điều 12 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 12 được sửa đổi, bổ sung như sau: “Điều 12. Khấu trừ thuế giá trị gia tăng đầu vào",
                     "sub_clauses": []
                 },
                 {
@@ -206,7 +211,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Điều kiện khấu trừ thuế giá trị gia tăng đầu vào được quy định như sau:",
+                    "text": "Điều kiện khấu trừ thuế giá trị gia tăng đầu vào được quy định như sau: Việc thanh toán tiền hàng hoá, dịch vụ xuất khẩu dưới hình thức thanh toán bù trừ giữa hàng hóa, dịch vụ xuất khẩu với hàng hóa, dịch vụ nhập khẩu, trả nợ thay Nhà nước được coi là thanh toán không dùng tiền mặt.”",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -224,12 +229,12 @@
                 },
                 {
                     "number": "7",
-                    "text": "Điều 13 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 13 được sửa đổi, bổ sung như sau: “Điều 13. Các trường hợp hoàn thuế",
                     "sub_clauses": []
                 },
                 {
                     "number": "1",
-                    "text": "Cơ sở kinh doanh nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuế nếu có số thuế giá trị gia tăng đầu vào chưa được khấu trừ hết trong tháng hoặc trong quý thì được khấu trừ vào kỳ tiếp theo; trường hợp lũy kế sau ít nhất mười hai tháng tính từ tháng đầu tiên hoặc ít nhất sau bốn quý tính từ quý đầu tiên phát sinh số thuế giá trị gia tăng chưa được khấu trừ mà vẫn còn số thuế giá trị gia tăng đầu vào chưa được khấu trừ thì cơ sở kinh doanh được hoàn thuế.",
+                    "text": "Cơ sở kinh doanh nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuế nếu có số thuế giá trị gia tăng đầu vào chưa được khấu trừ hết trong tháng hoặc trong quý thì được khấu trừ vào kỳ tiếp theo; trường hợp lũy kế sau ít nhất mười hai tháng tính từ tháng đầu tiên hoặc ít nhất sau bốn quý tính từ quý đầu tiên phát sinh số thuế giá trị gia tăng chưa được khấu trừ mà vẫn còn số thuế giá trị gia tăng đầu vào chưa được khấu trừ thì cơ sở kinh doanh được hoàn thuế. Trường hợp cơ sở kinh doanh đã đăng ký nộp thuế giá trị gia tăng theo phương pháp khấu trừ có dự án đầu tư mới, đang trong giai đoạn đầu tư có số thuế giá trị gia tăng của hàng hoá, dịch vụ mua vào sử dụng cho đầu tư mà chưa được khấu trừ và có số thuế còn lại từ ba trăm triệu đồng trở lên thì được hoàn thuế giá trị gia tăng.",
                     "sub_clauses": []
                 },
                 {
@@ -294,11 +299,15 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật.",
+                    "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 5 thông qua ngày 19 tháng 6 năm 2013. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 5 thông qua ngày 19 tháng 6 năm 2013.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

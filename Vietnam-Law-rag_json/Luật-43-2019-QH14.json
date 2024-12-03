@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hệ thống giáo dục quốc dân; cơ sở giáo dục, nhà giáo, người học; quản lý nhà nước về giáo dục; quyền và trách nhiệm của cơ quan, tổ chức, cá nhân liên quan đến hoạt động giáo dục."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Mục tiêu giáo dục",
+        "text": "Mục tiêu giáo dục nhằm phát triển toàn diện con người Việt Nam có đạo đức, tri thức, văn hóa, sức khỏe, thẩm mỹ và nghề nghiệp; có phẩm chất, năng lực và ý thức công dân; có lòng yêu nước, tinh thần dân tộc, trung thành với lý tưởng độc lập dân tộc và chủ nghĩa xã hội; phát huy tiềm năng, khả năng sáng tạo của mỗi cá nhân; nâng cao dân trí, phát triển nguồn nhân lực, bồi dưỡng nhân tài, đáp ứng yêu cầu của sự nghiệp xây dựng, bảo vệ Tổ quốc và hội nhập quốc tế."
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -33,6 +47,13 @@
         "clause": "3",
         "title": "Phát triển giáo dục",
         "text": "Phát triển hệ thống giáo dục mở, xây dựng xã hội học tập nhằm tạo cơ hội để mọi người được tiếp cận giáo dục, được học tập ở mọi trình độ, mọi hình thức, học tập suốt đời."
+    },
+    {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 5.1",
@@ -483,6 +504,13 @@
         "text": "Nhà nước có chính sách ưu tiên phát triển hoạt động khoa học và công nghệ trong cơ sở giáo dục. Các chủ trương, chính sách về giáo dục phải được xây dựng trên cơ sở kết quả nghiên cứu khoa học phù hợp với thực tiễn Việt Nam và xu hướng quốc tế."
     },
     {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Không truyền bá tôn giáo trong cơ sở giáo dục",
+        "text": "Không truyền bá tôn giáo, tiến hành các lễ nghi tôn giáo trong cơ sở giáo dục của hệ thống giáo dục quốc dân, cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội và lực lượng vũ trang nhân dân."
+    },
+    {
         "id": "Điều 21.1",
         "article": "Điều 21",
         "clause": "1",
@@ -621,6 +649,13 @@
         "clause": "3",
         "title": "Chương trình giáo dục mầm non",
         "text": "Bộ trưởng Bộ Giáo dục và Đào tạo ban hành chương trình giáo dục mầm non sau khi được thẩm định của Hội đồng quốc gia thẩm định chương trình giáo dục mầm non; quy định tiêu chuẩn, quy trình biên soạn, chỉnh sửa chương trình giáo dục mầm non; quy định tiêu chuẩn và việc lựa chọn đồ chơi, học liệu được sử dụng trong các cơ sở giáo dục mầm non; quy định nhiệm vụ, quyền hạn, phương thức hoạt động, tiêu chuẩn, số lượng và cơ cấu thành viên của Hội đồng quốc gia thẩm định chương trình giáo dục mầm non."
+    },
+    {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Cơ sở giáo dục mầm non",
+        "text": "Cơ sở giáo dục mầm non bao gồm:"
     },
     {
         "id": "Điều 26.1",
@@ -910,6 +945,13 @@
         "text": "Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định việc thành lập hội đồng thẩm định cấp tỉnh thẩm định tài liệu giáo dục địa phương."
     },
     {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Cơ sở giáo dục phổ thông",
+        "text": "Cơ sở giáo dục phổ thông bao gồm:"
+    },
+    {
         "id": "Điều 33.1",
         "article": "Điều 33",
         "clause": "1",
@@ -966,6 +1008,34 @@
         "text": "Học sinh có bằng tốt nghiệp trung học cơ sở, theo học trình độ trung cấp trong cơ sở giáo dục nghề nghiệp, sau khi đã học và thi đạt yêu cầu đủ khối lượng kiến thức văn hóa trung học phổ thông theo quy định của Bộ trưởng Bộ Giáo dục và Đào tạo thì được người đứng đầu cơ sở giáo dục tổ chức giảng dạy khối lượng kiến thức văn hóa trung học phổ thông cấp giấy chứng nhận đủ yêu cầu khối lượng kiến thức văn hóa trung học phổ thông. Giấy chứng nhận đủ yêu cầu khối lượng kiến thức văn hóa trung học phổ thông được sử dụng để theo học trình độ cao hơn của giáo dục nghề nghiệp và sử dụng trong các trường hợp cụ thể theo quy định của pháp luật. Tiểu mục 3. GIÁO DỤC NGHỀ NGHIỆP"
     },
     {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Các trình độ đào tạo giáo dục nghề nghiệp",
+        "text": "Giáo dục nghề nghiệp đào tạo trình độ sơ cấp, trình độ trung cấp, trình độ cao đẳng và chương trình đào tạo nghề nghiệp khác cho người học, đáp ứng nhu cầu nhân lực trực tiếp trong sản xuất, kinh doanh và dịch vụ."
+    },
+    {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Mục tiêu của giáo dục nghề nghiệp",
+        "text": "Giáo dục nghề nghiệp nhằm đào tạo nhân lực trực tiếp cho sản xuất, kinh doanh và dịch vụ, có năng lực hành nghề tương ứng với trình độ đào tạo; có đạo đức, sức khỏe; có trách nhiệm nghề nghiệp; có khả năng sáng tạo, thích ứng với môi trường hội nhập quốc tế; bảo đảm nâng cao năng suất, chất lượng lao động; tạo điều kiện cho người học sau khi hoàn thành khóa học có khả năng tìm việc làm, tự tạo việc làm hoặc học trình độ cao hơn."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Tổ chức và hoạt động giáo dục nghề nghiệp",
+        "text": "Tổ chức và hoạt động giáo dục nghề nghiệp được thực hiện theo quy định của Luật này và Luật Giáo dục nghề nghiệp. Tiểu mục 4. GIÁO DỤC ĐẠI HỌC"
+    },
+    {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Các trình độ đào tạo giáo dục đại học",
+        "text": "Giáo dục đại học đào tạo trình độ đại học, trình độ thạc sĩ, trình độ tiến sĩ."
+    },
+    {
         "id": "Điều 39.1",
         "article": "Điều 39",
         "clause": "1",
@@ -978,6 +1048,20 @@
         "clause": "2",
         "title": "Mục tiêu của giáo dục đại học",
         "text": "Đào tạo người học phát triển toàn diện về đức, trí, thể, mỹ; có tri thức, kỹ năng, trách nhiệm nghề nghiệp; có khả năng nắm bắt tiến bộ khoa học và công nghệ tương xứng với trình độ đào tạo, khả năng tự học, sáng tạo, thích nghi với môi trường làm việc; có tinh thần lập nghiệp, có ý thức phục vụ Nhân dân."
+    },
+    {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Tổ chức và hoạt động giáo dục đại học",
+        "text": "Tổ chức và hoạt động giáo dục đại học được thực hiện theo quy định của Luật này và Luật Giáo dục đại học. Mục 2. GIÁO DỤC THƯỜNG XUYÊN"
+    },
+    {
+        "id": "Điều 41.0",
+        "article": "Điều 41",
+        "clause": "0",
+        "title": "Mục tiêu của giáo dục thường xuyên",
+        "text": "Giáo dục thường xuyên nhằm tạo điều kiện cho mọi người vừa làm vừa học, học liên tục, học tập suốt đời nhằm phát huy năng lực cá nhân, hoàn thiện nhân cách, mở rộng hiểu biết, nâng cao trình độ học vấn, chuyên môn, nghiệp vụ để tìm việc làm, tự tạo việc làm và thích nghi với đời sống xã hội; góp phần xây dựng xã hội học tập."
     },
     {
         "id": "Điều 42.1",
@@ -1855,6 +1939,20 @@
         "text": "Tổ chức và hoạt động của hội đồng tư vấn được quy định trong điều lệ nhà trường."
     },
     {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Tổ chức Đảng trong nhà trường",
+        "text": "Tổ chức Đảng Cộng sản Việt Nam trong nhà trường lãnh đạo nhà trường và hoạt động trong khuôn khổ Hiến pháp và pháp luật."
+    },
+    {
+        "id": "Điều 59.0",
+        "article": "Điều 59",
+        "clause": "0",
+        "title": "Đoàn thể, tổ chức xã hội trong nhà trường",
+        "text": "Đoàn thể, tổ chức xã hội trong nhà trường có trách nhiệm góp phần thực hiện mục tiêu giáo dục và hoạt động theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 60.1",
         "article": "Điều 60",
         "clause": "1",
@@ -2049,6 +2147,13 @@
         "clause": "2",
         "title": "Vị trí, vai trò của nhà giáo",
         "text": "Nhà giáo có vai trò quyết định trong việc bảo đảm chất lượng giáo dục, có vị thế quan trọng trong xã hội, được xã hội tôn vinh."
+    },
+    {
+        "id": "Điều 67.0",
+        "article": "Điều 67",
+        "clause": "0",
+        "title": "Tiêu chuẩn của nhà giáo",
+        "text": "Nhà giáo phải đáp ứng các tiêu chuẩn sau đây:"
     },
     {
         "id": "Điều 67.1",
@@ -2261,6 +2366,20 @@
         "text": "Bộ trưởng Bộ Giáo dục và Đào tạo, Bộ trưởng Bộ Lao động - Thương binh và Xã hội, trong phạm vi nhiệm vụ, quyền hạn của mình, quy định việc thực hiện nhiệm vụ đào tạo, bồi dưỡng, nhà giáo, cán bộ quản lý giáo dục và cơ sở giáo dục được phép đào tạo, bồi dưỡng nhà giáo, cán bộ quản lý giáo dục. Mục 4. CHÍNH SÁCH ĐỐI VỚI NHÀ GIÁO"
     },
     {
+        "id": "Điều 75.0",
+        "article": "Điều 75",
+        "clause": "0",
+        "title": "Ngày Nhà giáo Việt Nam",
+        "text": "Ngày 20 tháng 11 hằng năm là ngày Nhà giáo Việt Nam."
+    },
+    {
+        "id": "Điều 76.0",
+        "article": "Điều 76",
+        "clause": "0",
+        "title": "Tiền lương",
+        "text": "Nhà giáo được xếp lương phù hợp với vị trí việc làm và lao động nghề nghiệp; được ưu tiên hưởng phụ cấp đặc thù nghề theo quy định của Chính phủ."
+    },
+    {
         "id": "Điều 77.1",
         "article": "Điều 77",
         "clause": "1",
@@ -2289,6 +2408,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 78.0",
+        "article": "Điều 78",
+        "clause": "0",
+        "title": "Phong tặng danh hiệu Nhà giáo nhân dân, Nhà giáo ưu tú",
+        "text": "Nhà giáo, cán bộ quản lý giáo dục, cán bộ nghiên cứu giáo dục đủ tiêu chuẩn theo quy định của pháp luật thì được Nhà nước phong tặng danh hiệu Nhà giáo nhân dân, Nhà giáo ưu tú."
+    },
+    {
         "id": "Điều 79.1",
         "article": "Điều 79",
         "clause": "1",
@@ -2308,6 +2434,13 @@
         "clause": "3",
         "title": "Phong tặng danh hiệu Tiến sĩ danh dự, Giáo sư danh dự",
         "text": "Chính phủ quy định chi tiết Điều này. Chương V NGƯỜI HỌC Mục 1. NHIỆM VỤ VÀ QUYỀN CỦA NGƯỜI HỌC"
+    },
+    {
+        "id": "Điều 80.0",
+        "article": "Điều 80",
+        "clause": "0",
+        "title": "Người học",
+        "text": "Người học là người đang học tập tại cơ sở giáo dục trong hệ thống giáo dục quốc dân bao gồm:"
     },
     {
         "id": "Điều 80.1",
@@ -2485,6 +2618,13 @@
         "text": "Được cử người đại diện tham gia hội đồng trường theo quy định. Mục 2. CHÍNH SÁCH ĐỐI VỚI NGƯỜI HỌC"
     },
     {
+        "id": "Điều 84.0",
+        "article": "Điều 84",
+        "clause": "0",
+        "title": "Tín dụng giáo dục",
+        "text": "Nhà nước có chính sách tín dụng ưu đãi về lãi suất, điều kiện và thời hạn vay tiền để người học có điều kiện học tập. Khuyến khích xã hội hóa hoạt động tín dụng giáo dục."
+    },
+    {
         "id": "Điều 85.1",
         "article": "Điều 85",
         "clause": "1",
@@ -2520,6 +2660,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 86.0",
+        "article": "Điều 86",
+        "clause": "0",
+        "title": "Miễn, giảm giá vé dịch vụ công cộng cho học sinh, sinh viên",
+        "text": "Học sinh, sinh viên được hưởng chế độ miễn, giảm giá vé khi sử dụng các dịch vụ công cộng về giao thông, giải trí, tham quan viện bảo tàng, di tích lịch sử, công trình văn hóa theo quy định của Chính phủ."
+    },
+    {
         "id": "Điều 87.1",
         "article": "Điều 87",
         "clause": "1",
@@ -2546,6 +2693,13 @@
         "clause": "4",
         "title": "Chế độ cử tuyển",
         "text": "Chính phủ quy định chi tiết tiêu chuẩn và đối tượng được hưởng chế độ cử tuyển; việc tổ chức thực hiện chế độ cử tuyển và việc tuyển dụng người học theo chế độ cử tuyển sau khi tốt nghiệp."
+    },
+    {
+        "id": "Điều 88.0",
+        "article": "Điều 88",
+        "clause": "0",
+        "title": "Khen thưởng đối với người học",
+        "text": "Người học có thành tích trong học tập, rèn luyện được cơ sở giáo dục, cơ quan quản lý giáo dục khen thưởng; trường hợp có thành tích đặc biệt xuất sắc được khen thưởng theo quy định của pháp luật. Chương VI TRÁCH NHIỆM CỦA NHÀ TRƯỜNG, GIA ĐÌNH VÀ XÃ HỘI TRONG GIÁO DỤC"
     },
     {
         "id": "Điều 89.1",
@@ -2660,6 +2814,20 @@
         "text": "Đoàn Thanh niên Cộng sản Hồ Chí Minh, Đội Thiếu niên Tiền phong Hồ Chí Minh có trách nhiệm phối hợp với nhà trường giáo dục, vận động thanh niên, thiếu niên và nhi đồng gương mẫu trong học tập, rèn luyện và tham gia phát triển sự nghiệp giáo dục."
     },
     {
+        "id": "Điều 94.0",
+        "article": "Điều 94",
+        "clause": "0",
+        "title": "Quỹ khuyến học, quỹ bảo trợ giáo dục",
+        "text": "Nhà nước khuyến khích tổ chức, cá nhân thành lập quỹ khuyến học, quỹ bảo trợ giáo dục. Việc thành lập và hoạt động của quỹ khuyến học, quỹ bảo trợ giáo dục thực hiện theo quy định của pháp luật. Chương VII ĐẦU TƯ VÀ TÀI CHÍNH TRONG GIÁO DỤC"
+    },
+    {
+        "id": "Điều 95.0",
+        "article": "Điều 95",
+        "clause": "0",
+        "title": "Nguồn tài chính đầu tư cho giáo dục",
+        "text": "Nguồn tài chính đầu tư cho giáo dục bao gồm:"
+    },
+    {
         "id": "Điều 95.1",
         "article": "Điều 95",
         "clause": "1",
@@ -2721,6 +2889,13 @@
         "clause": "3",
         "title": "Ngân sách nhà nước đầu tư cho giáo dục",
         "text": "Cơ quan quản lý giáo dục, cơ sở giáo dục có trách nhiệm quản lý, sử dụng có hiệu quả phần ngân sách giáo dục được giao và nguồn thu khác theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 97.0",
+        "article": "Điều 97",
+        "clause": "0",
+        "title": "Ưu tiên đầu tư tài chính và đất đai xây dựng trường học",
+        "text": "Bộ, cơ quan ngang Bộ, Hội đồng nhân dân và Ủy ban nhân dân các cấp có trách nhiệm đưa việc xây dựng trường học, công trình thể dục, thể thao, văn hóa, nghệ thuật phục vụ giáo dục vào quy hoạch, kế hoạch phát triển kinh tế - xã hội của ngành và địa phương; ưu tiên đầu tư tài chính và đất đai cho việc xây dựng trường học và ký túc xá cho học sinh, sinh viên trong kế hoạch phát triển kinh tế - xã hội."
     },
     {
         "id": "Điều 98.1",
@@ -2812,6 +2987,13 @@
         "clause": "6d",
         "title": "Học phí, chi phí của dịch vụ giáo dục, đào tạo",
         "text": "Cơ sở giáo dục dân lập, cơ sở giáo dục tư thục được quyền chủ động xây dựng mức thu học phí và các dịch vụ khác bảo đảm bù đắp chi phí và có tích lũy hợp lý. Thực hiện công khai chi phí của dịch vụ giáo dục, đào tạo và mức thu theo cam kết trong đề án thành lập trường, công khai cho từng khóa học, cấp học, năm học theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 100.0",
+        "article": "Điều 100",
+        "clause": "0",
+        "title": "Ưu đãi về thuế đối với sách giáo khoa và tài liệu, thiết bị dạy học",
+        "text": "Việc xuất bản sách giáo khoa, giáo trình, tài liệu dạy học; sản xuất và cung ứng thiết bị dạy học, đồ chơi cho trẻ em trong cơ sở giáo dục mầm non; nhập khẩu sách, báo, tài liệu giảng dạy, học tập, thiết bị dạy học, thiết bị nghiên cứu dùng trong cơ sở giáo dục được Nhà nước ưu đãi về thuế theo quy định của pháp luật về thuế."
     },
     {
         "id": "Điều 101.1",
@@ -3022,6 +3204,13 @@
         "clause": "5đ",
         "title": "Cơ quan quản lý nhà nước về giáo dục",
         "text": "Chịu trách nhiệm về kết quả thực hiện chiến lược, quy hoạch, kế hoạch, chính sách phát triển giáo dục tại địa phương."
+    },
+    {
+        "id": "Điều 106.0",
+        "article": "Điều 106",
+        "clause": "0",
+        "title": "Nguyên tắc hợp tác quốc tế về giáo dục",
+        "text": "Nhà nước mở rộng, phát triển hợp tác quốc tế về giáo dục theo nguyên tắc tôn trọng độc lập, chủ quyền quốc gia, bình đẳng và các bên cùng có lợi."
     },
     {
         "id": "Điều 107.1",
@@ -3351,5 +3540,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Luật Giáo dục số 38/2005/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 44/2009/QH12, Luật số 74/2014/QH13 và Luật số 97/2015/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ trường hợp quy định tại Điều 115 của Luật này."
+    },
+    {
+        "id": "Điều 115.0",
+        "article": "Điều 115",
+        "clause": "0",
+        "title": "Quy định chuyển tiếp",
+        "text": "Học sinh, sinh viên sư phạm, người theo học khóa đào tạo nghiệp vụ sư phạm được tuyển sinh trước ngày Luật này có hiệu lực thi hành thì tiếp tục được áp dụng theo quy định tại khoản 3 Điều 89 của Luật Giáo dục số 38/2005/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 44/2009/QH12, Luật số 74/2014/QH13 và Luật số 97/2015/QH13. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 14 tháng 6 năm 2019. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

@@ -15,17 +15,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về hoạt động bảo vệ môi trường; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, cộng đồng dân cư, hộ gia đình và cá nhân trong hoạt động bảo vệ môi trường.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với cơ quan, tổ chức, cộng đồng dân cư, hộ gia đình và cá nhân trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam, bao gồm đất liền, hải đảo, vùng biển, lòng đất và vùng trời.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau: .",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Môi trường bao gồm các yếu tố vật chất tự nhiên và nhân tạo quan hệ mật thiết với nhau, bao quanh con người, có ảnh hưởng đến đời sống, kinh tế, xã hội, sự tồn tại, phát triển của con người, sinh vật và tự nhiên.",
@@ -391,7 +408,7 @@
                 },
                 {
                     "number": "14",
-                    "text": "Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về bảo vệ môi trường.",
+                    "text": "Lợi dụng chức vụ, quyền hạn để làm trái quy định của pháp luật về bảo vệ môi trường. Chương II BẢO VỆ CÁC THÀNH PHẦN MÔI TRƯỜNG, DI SẢN THIÊN NHIÊN Mục 1 BẢO VỆ MÔI TRƯỜNG NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -620,7 +637,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Việc bảo vệ môi trường nước biển phải tuân thủ quy định của Luật này, pháp luật về tài nguyên, môi trường biển và hải đảo, quy định khác của pháp luật có liên quan.",
+                    "text": "Việc bảo vệ môi trường nước biển phải tuân thủ quy định của Luật này, pháp luật về tài nguyên, môi trường biển và hải đảo, quy định khác của pháp luật có liên quan. Mục 2 BẢO VỆ MÔI TRƯỜNG KHÔNG KHÍ",
                     "sub_clauses": []
                 }
             ]
@@ -775,7 +792,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Mục 3 BẢO VỆ MÔI TRƯỜNG ĐẤT",
                     "sub_clauses": []
                 }
             ]
@@ -912,7 +929,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ủy ban nhân dân cấp tỉnh có trách nhiệm sau đây:",
+                    "text": "Ủy ban nhân dân cấp tỉnh có trách nhiệm sau đây: Mục 4 BẢO VỆ MÔI TRƯỜNG DI SẢN THIÊN NHIÊN",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1006,7 +1023,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết khoản 1 Điều này.",
+                    "text": "Chính phủ quy định chi tiết khoản 1 Điều này. Chương III CHIẾN LƯỢC BẢO VỆ MÔI TRƯỜNG QUỐC GIA, QUY HOẠCH BẢO VỆ MÔI TRƯỜNG QUỐC GIA; NỘI DUNG BẢO VỆ MÔI TRƯỜNG TRONG QUY HOẠCH VÙNG, QUY HOẠCH TỈNH",
                     "sub_clauses": []
                 }
             ]
@@ -1109,7 +1126,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ quan chuyên môn về bảo vệ môi trường cấp tỉnh xây dựng nội dung bảo vệ môi trường trong quy hoạch tỉnh.",
+                    "text": "Cơ quan chuyên môn về bảo vệ môi trường cấp tỉnh xây dựng nội dung bảo vệ môi trường trong quy hoạch tỉnh. Chương IV ĐÁNH GIÁ MÔI TRƯỜNG CHIẾN LƯỢC, ĐÁNH GIÁ TÁC ĐỘNG MÔI TRƯỜNG, GIẤY PHÉP MÔI TRƯỜNG Mục 1 ĐÁNH GIÁ MÔI TRƯỜNG CHIẾN LƯỢC",
                     "sub_clauses": []
                 }
             ]
@@ -1246,7 +1263,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết Điều này.",
+                    "text": "Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết Điều này. Mục 2 TIÊU CHÍ VỀ MÔI TRƯỜNG ĐỂ PHÂN LOẠI DỰ ÁN ĐẦU TƯ, ĐÁNH GIÁ SƠ BỘ TÁC ĐỘNG MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -1406,7 +1423,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Cơ quan, tổ chức, cá nhân đề xuất dự án đầu tư thuộc đối tượng quy định tại khoản 1 Điều này thực hiện đánh giá sơ bộ tác động môi trường. Nội dung đánh giá sơ bộ tác động môi trường được cơ quan nhà nước có thẩm quyền xem xét đồng thời với hồ sơ đề nghị quyết định hoặc chấp thuận chủ trương đầu tư.",
+                    "text": "Cơ quan, tổ chức, cá nhân đề xuất dự án đầu tư thuộc đối tượng quy định tại khoản 1 Điều này thực hiện đánh giá sơ bộ tác động môi trường. Nội dung đánh giá sơ bộ tác động môi trường được cơ quan nhà nước có thẩm quyền xem xét đồng thời với hồ sơ đề nghị quyết định hoặc chấp thuận chủ trương đầu tư. Mục 3 ĐÁNH GIÁ TÁC ĐỘNG MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -1632,7 +1649,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc thẩm định báo cáo đánh giá tác động môi trường được quy định như sau:",
+                    "text": "Việc thẩm định báo cáo đánh giá tác động môi trường được quy định như sau: Cơ quan nhà nước quản lý công trình thủy lợi có trách nhiệm cử thành viên tham gia hội đồng thẩm định, có ý kiến bằng văn bản về việc phê duyệt kết quả thẩm định trong thời hạn lấy ý kiến; trường hợp hết thời hạn lấy ý kiến mà không có văn bản trả lời thì được coi là đồng thuận với nội dung báo cáo đánh giá tác động môi trường;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1907,7 +1924,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Xây dựng, tích hợp cơ sở dữ liệu về đánh giá tác động môi trường vào cơ sở dữ liệu môi trường quốc gia.",
+                    "text": "Xây dựng, tích hợp cơ sở dữ liệu về đánh giá tác động môi trường vào cơ sở dữ liệu môi trường quốc gia. Mục 4 GIẤY PHÉP MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -2186,7 +2203,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trình tự, thủ tục cấp giấy phép môi trường được quy định như sau:",
+                    "text": "Trình tự, thủ tục cấp giấy phép môi trường được quy định như sau: Quy trình tiếp nhận, giải quyết thủ tục hành chính và thông báo kết quả được thực hiện trực tiếp, qua đường bưu điện hoặc gửi bản điện tử thông qua hệ thống dịch vụ công trực tuyến theo đề nghị của chủ dự án đầu tư, cơ sở;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2208,7 +2225,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc cấp giấy phép môi trường được thực hiện trên cơ sở thẩm định báo cáo đề xuất cấp giấy phép môi trường. Cơ quan có thẩm quyền cấp giấy phép môi trường thành lập hội đồng thẩm định, đoàn kiểm tra theo quy định của Chính phủ.",
+                    "text": "Việc cấp giấy phép môi trường được thực hiện trên cơ sở thẩm định báo cáo đề xuất cấp giấy phép môi trường. Cơ quan có thẩm quyền cấp giấy phép môi trường thành lập hội đồng thẩm định, đoàn kiểm tra theo quy định của Chính phủ. Đối với dự án đầu tư, cơ sở, khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp có hoạt động xả nước thải vào công trình thủy lợi, trong thành phần hội đồng thẩm định báo cáo đề xuất cấp giấy phép môi trường, đoàn kiểm tra phải có đại diện cơ quan nhà nước quản lý công trình thủy lợi đó. Cơ quan nhà nước quản lý công trình thủy lợi có trách nhiệm cử thành viên tham gia hội đồng thẩm định, đoàn kiểm tra, có ý kiến bằng văn bản về việc cấp giấy phép môi trường trong thời hạn lấy ý kiến; trường hợp hết thời hạn lấy ý kiến mà không có văn bản trả lời thì được coi là đồng thuận với việc cấp giấy phép môi trường.",
                     "sub_clauses": []
                 },
                 {
@@ -2496,7 +2513,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ủy ban nhân dân cấp xã có trách nhiệm tiếp nhận trực tiếp, qua đường bưu điện hoặc nhận bản điện tử thông qua hệ thống dịch vụ công trực tuyến đăng ký môi trường của đối tượng quy định tại khoản 1 Điều này.",
+                    "text": "Ủy ban nhân dân cấp xã có trách nhiệm tiếp nhận trực tiếp, qua đường bưu điện hoặc nhận bản điện tử thông qua hệ thống dịch vụ công trực tuyến đăng ký môi trường của đối tượng quy định tại khoản 1 Điều này. Đối với dự án đầu tư, cơ sở trên địa bàn từ 02 đơn vị hành chính cấp xã trở lên, chủ dự án đầu tư, cơ sở được quyền chọn Ủy ban nhân dân cấp xã để đăng ký môi trường.",
                     "sub_clauses": []
                 },
                 {
@@ -2527,7 +2544,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Trong quá trình hoạt động, nếu dự án đầu tư, cơ sở có thay đổi về nội dung đã đăng ký, chủ dự án đầu tư, cơ sở có trách nhiệm đăng ký môi trường lại trước khi thực hiện các thay đổi đó.",
+                    "text": "Trong quá trình hoạt động, nếu dự án đầu tư, cơ sở có thay đổi về nội dung đã đăng ký, chủ dự án đầu tư, cơ sở có trách nhiệm đăng ký môi trường lại trước khi thực hiện các thay đổi đó. Trường hợp việc thay đổi quy mô, tính chất của dự án đầu tư, cơ sở thuộc đối tượng phải thực hiện đánh giá tác động môi trường hoặc phải có giấy phép môi trường, chủ dự án đầu tư, cơ sở có trách nhiệm thực hiện quy định về đánh giá tác động môi trường và giấy phép môi trường theo quy định của Luật này.",
                     "sub_clauses": []
                 },
                 {
@@ -2577,7 +2594,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Bộ trưởng Bộ Tài nguyên và Môi trường quy định mẫu đăng ký môi trường và hướng dẫn việc tiếp nhận đăng ký môi trường.",
+                    "text": "Bộ trưởng Bộ Tài nguyên và Môi trường quy định mẫu đăng ký môi trường và hướng dẫn việc tiếp nhận đăng ký môi trường. Chương V BẢO VỆ MÔI TRƯỜNG TRONG HOẠT ĐỘNG SẢN XUẤT, KINH DOANH, DỊCH VỤ; ĐÔ THỊ VÀ NÔNG THÔN; TRONG MỘT SỐ LĨNH VỰC Mục 1 BẢO VỆ MÔI TRƯỜNG TRONG HOẠT ĐỘNG SẢN XUẤT, KINH DOANH, DỊCH VỤ",
                     "sub_clauses": []
                 }
             ]
@@ -3192,7 +3209,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Mục 2 BẢO VỆ MÔI TRƯỜNG ĐÔ THỊ VÀ NÔNG THÔN",
                     "sub_clauses": []
                 }
             ]
@@ -3382,7 +3399,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ quan thẩm định thiết kế xây dựng, cấp giấy phép xây dựng đối với công trình xây dựng, nhà ở của hộ gia đình, cá nhân ở đô thị theo quy định của pháp luật về xây dựng có trách nhiệm thẩm định, cấp giấy phép xây dựng trong đó bao gồm công trình, thiết bị xử lý nước thải tại chỗ đáp ứng yêu cầu về bảo vệ môi trường.",
+                    "text": "Cơ quan thẩm định thiết kế xây dựng, cấp giấy phép xây dựng đối với công trình xây dựng, nhà ở của hộ gia đình, cá nhân ở đô thị theo quy định của pháp luật về xây dựng có trách nhiệm thẩm định, cấp giấy phép xây dựng trong đó bao gồm công trình, thiết bị xử lý nước thải tại chỗ đáp ứng yêu cầu về bảo vệ môi trường. Mục 3 BẢO VỆ MÔI TRƯỜNG TRONG MỘT SỐ LĨNH VỰC",
                     "sub_clauses": []
                 }
             ]
@@ -3512,7 +3529,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Khu mai táng, hỏa táng phải phù hợp với quy hoạch; có vị trí, khoảng cách đáp ứng yêu cầu về vệ sinh môi trường, cảnh quan khu dân cư, không gây ô nhiễm nguồn nước và môi trường xung quanh.",
+                    "text": "Khu mai táng, hỏa táng phải phù hợp với quy hoạch; có vị trí, khoảng cách đáp ứng yêu cầu về vệ sinh môi trường, cảnh quan khu dân cư, không gây ô nhiễm nguồn nước và môi trường xung quanh. Chính phủ quy định việc bảo vệ môi trường trong hoạt động mai táng, hỏa táng phù hợp đặc điểm phong tục, tập quán, tín ngưỡng, tôn giáo.",
                     "sub_clauses": []
                 },
                 {
@@ -3965,7 +3982,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết khoản 2 Điều này.",
+                    "text": "Chính phủ quy định chi tiết khoản 2 Điều này. Chương VI QUẢN LÝ CHẤT THẢI VÀ KIỂM SOÁT CÁC CHẤT Ô NHIỄM KHÁC Mục 1 QUY ĐỊNH CHUNG VỀ QUẢN LÝ CHẤT THẢI",
                     "sub_clauses": []
                 }
             ]
@@ -4129,7 +4146,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bộ trưởng Bộ Tài nguyên và Môi trường hướng dẫn kỹ thuật hoạt động tự kiểm toán môi trường của cơ sở sản xuất, kinh doanh, dịch vụ.",
+                    "text": "Bộ trưởng Bộ Tài nguyên và Môi trường hướng dẫn kỹ thuật hoạt động tự kiểm toán môi trường của cơ sở sản xuất, kinh doanh, dịch vụ. Mục 2 QUẢN LÝ CHẤT THẢI RẮN SINH HOẠT",
                     "sub_clauses": []
                 }
             ]
@@ -4413,7 +4430,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Ủy ban nhân dân cấp tỉnh bố trí nguồn lực, kinh phí cho việc xử lý, cải tạo môi trường bãi chôn lấp chất thải rắn sinh hoạt do Nhà nước quản lý và bãi chôn lấp chất thải rắn sinh hoạt tự phát trên địa bàn.",
+                    "text": "Ủy ban nhân dân cấp tỉnh bố trí nguồn lực, kinh phí cho việc xử lý, cải tạo môi trường bãi chôn lấp chất thải rắn sinh hoạt do Nhà nước quản lý và bãi chôn lấp chất thải rắn sinh hoạt tự phát trên địa bàn. Mục 3 QUẢN LÝ CHẤT THẢI RẮN CÔNG NGHIỆP THÔNG THƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -4530,7 +4547,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Tổ chức, cá nhân phát sinh chất thải rắn công nghiệp thông thường phải xử lý được tự tái chế, xử lý, đồng xử lý, thu hồi năng lượng khi đáp ứng các yêu cầu sau đây:",
+                    "text": "Tổ chức, cá nhân phát sinh chất thải rắn công nghiệp thông thường phải xử lý được tự tái chế, xử lý, đồng xử lý, thu hồi năng lượng khi đáp ứng các yêu cầu sau đây: Mục 4 QUẢN LÝ CHẤT THẢI NGUY HẠI",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4718,7 +4735,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Công khai, cung cấp thông tin về loại, số lượng chất thải nguy hại thu gom, xử lý, phương pháp xử lý; thông tin về tên, địa chỉ chủ nguồn thải chất thải nguy hại được thu gom, xử lý và các thông tin về môi trường khác cần phải công khai, cung cấp thông tin theo quy định tại Điều 114 của Luật này.",
+                    "text": "Công khai, cung cấp thông tin về loại, số lượng chất thải nguy hại thu gom, xử lý, phương pháp xử lý; thông tin về tên, địa chỉ chủ nguồn thải chất thải nguy hại được thu gom, xử lý và các thông tin về môi trường khác cần phải công khai, cung cấp thông tin theo quy định tại Điều 114 của Luật này. Mục 5 QUẢN LÝ NƯỚC THẢI",
                     "sub_clauses": []
                 }
             ]
@@ -4835,7 +4852,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bùn thải từ hệ thống xử lý nước thải phải được quản lý theo quy định của pháp luật về quản lý chất thải rắn; bùn thải có yếu tố nguy hại vượt ngưỡng quy định phải được quản lý theo quy định của pháp luật về quản lý chất thải nguy hại.",
+                    "text": "Bùn thải từ hệ thống xử lý nước thải phải được quản lý theo quy định của pháp luật về quản lý chất thải rắn; bùn thải có yếu tố nguy hại vượt ngưỡng quy định phải được quản lý theo quy định của pháp luật về quản lý chất thải nguy hại. Mục 6 QUẢN LÝ BỤI, KHÍ THẢI VÀ CÁC CHẤT Ô NHIỄM KHÁC",
                     "sub_clauses": []
                 }
             ]
@@ -4882,7 +4899,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Cấm sản xuất, nhập khẩu, vận chuyển, kinh doanh và sử dụng pháo nổ. Việc sản xuất, nhập khẩu, vận chuyển, kinh doanh và sử dụng pháo hoa thực hiện theo quy định của Chính phủ.",
+                    "text": "Cấm sản xuất, nhập khẩu, vận chuyển, kinh doanh và sử dụng pháo nổ. Việc sản xuất, nhập khẩu, vận chuyển, kinh doanh và sử dụng pháo hoa thực hiện theo quy định của Chính phủ. Chương VII ỨNG PHÓ VỚI BIẾN ĐỔI KHÍ HẬU",
                     "sub_clauses": []
                 }
             ]
@@ -5307,7 +5324,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh có trách nhiệm tham gia triển khai thực hiện cam kết quốc tế về biến đổi khí hậu và bảo vệ tầng ô-dôn theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; báo cáo kết quả thực hiện gửi Bộ Tài nguyên và Môi trường tổng hợp, báo cáo theo quy định.",
+                    "text": "Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh có trách nhiệm tham gia triển khai thực hiện cam kết quốc tế về biến đổi khí hậu và bảo vệ tầng ô-dôn theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; báo cáo kết quả thực hiện gửi Bộ Tài nguyên và Môi trường tổng hợp, báo cáo theo quy định. Chương VIII QUY CHUẨN KỸ THUẬT MÔI TRƯỜNG, TIÊU CHUẨN MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -5702,7 +5719,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ Tài nguyên và Môi trường chủ trì, phối hợp với Bộ Khoa học và Công nghệ và các Bộ, cơ quan ngang Bộ có liên quan xây dựng, ban hành hướng dẫn kỹ thuật về áp dụng kỹ thuật hiện có tốt nhất hoặc xem xét công nhận kỹ thuật hiện có tốt nhất đã được áp dụng tại Nhóm các nước công nghiệp phát triển được phép áp dụng tại Việt Nam; rà soát, cập nhật, bổ sung danh mục kỹ thuật hiện có tốt nhất bảo đảm sự phù hợp với thực tế và mức độ phát triển của khoa học và công nghệ; hướng dẫn áp dụng kỹ thuật hiện có tốt nhất đối với từng loại hình sản xuất, kinh doanh, dịch vụ có nguy cơ gây ô nhiễm môi trường.",
+                    "text": "Bộ Tài nguyên và Môi trường chủ trì, phối hợp với Bộ Khoa học và Công nghệ và các Bộ, cơ quan ngang Bộ có liên quan xây dựng, ban hành hướng dẫn kỹ thuật về áp dụng kỹ thuật hiện có tốt nhất hoặc xem xét công nhận kỹ thuật hiện có tốt nhất đã được áp dụng tại Nhóm các nước công nghiệp phát triển được phép áp dụng tại Việt Nam; rà soát, cập nhật, bổ sung danh mục kỹ thuật hiện có tốt nhất bảo đảm sự phù hợp với thực tế và mức độ phát triển của khoa học và công nghệ; hướng dẫn áp dụng kỹ thuật hiện có tốt nhất đối với từng loại hình sản xuất, kinh doanh, dịch vụ có nguy cơ gây ô nhiễm môi trường. Chương IX QUAN TRẮC MÔI TRƯỜNG, THÔNG TIN, CƠ SỞ DỮ LIỆU MÔI TRƯỜNG VÀ BÁO CÁO MÔI TRƯỜNG Mục 1 QUAN TRẮC MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -6117,7 +6134,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Dự án đầu tư, cơ sở, khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp quản lý số liệu quan trắc chất thải và công bố công khai kết quả quan trắc chất thải theo quy định của pháp luật.",
+                    "text": "Dự án đầu tư, cơ sở, khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp quản lý số liệu quan trắc chất thải và công bố công khai kết quả quan trắc chất thải theo quy định của pháp luật. Mục 2 HỆ THỐNG THÔNG TIN, CƠ SỞ DỮ LIỆU VỀ MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -6265,7 +6282,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc cung cấp dịch vụ công trực tuyến về môi trường được quy định như sau:",
+                    "text": "Việc cung cấp dịch vụ công trực tuyến về môi trường được quy định như sau: Mục 3 BÁO CÁO MÔI TRƯỜNG",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -6540,7 +6557,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Bộ trưởng Bộ Tài nguyên và Môi trường hướng dẫn việc lập báo cáo hiện trạng môi trường; hướng dẫn việc triển khai thực hiện, lập báo cáo hiện trạng môi trường của các Bộ, cơ quan ngang Bộ và Ủy ban nhân dân cấp tỉnh.",
+                    "text": "Bộ trưởng Bộ Tài nguyên và Môi trường hướng dẫn việc lập báo cáo hiện trạng môi trường; hướng dẫn việc triển khai thực hiện, lập báo cáo hiện trạng môi trường của các Bộ, cơ quan ngang Bộ và Ủy ban nhân dân cấp tỉnh. Chương X PHÒNG NGỪA, ỨNG PHÓ SỰ CỐ MÔI TRƯỜNG VÀ BỒI THƯỜNG THIỆT HẠI VỀ MÔI TRƯỜNG Mục 1 PHÒNG NGỪA, ỨNG PHÓ SỰ CỐ MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -7027,7 +7044,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Cơ quan truyền thông, báo chí có trách nhiệm thông tin chính xác, trung thực, đầy đủ và kịp thời về sự cố môi trường và ứng phó sự cố môi trường.",
+                    "text": "Cơ quan truyền thông, báo chí có trách nhiệm thông tin chính xác, trung thực, đầy đủ và kịp thời về sự cố môi trường và ứng phó sự cố môi trường. Mục 2 BỒI THƯỜNG THIỆT HẠI VỀ MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -7245,7 +7262,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết về giám định thiệt hại do suy giảm chức năng, tính hữu ích của môi trường.",
+                    "text": "Chính phủ quy định chi tiết về giám định thiệt hại do suy giảm chức năng, tính hữu ích của môi trường. Chương XI CÔNG CỤ KINH TẾ, CHÍNH SÁCH VÀ NGUỒN LỰC BẢO VỆ MÔI TRƯỜNG Mục 1 CÔNG CỤ KINH TẾ CHO BẢO VỆ MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -7522,7 +7539,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Khuyến khích đối tượng không thuộc quy định tại khoản 2 Điều này mua bảo hiểm trách nhiệm bồi thường thiệt hại do sự cố môi trường.",
+                    "text": "Khuyến khích đối tượng không thuộc quy định tại khoản 2 Điều này mua bảo hiểm trách nhiệm bồi thường thiệt hại do sự cố môi trường. Mục 2 CHÍNH SÁCH ƯU ĐÃI, HỖ TRỢ VÀ PHÁT TRIỂN KINH TẾ MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -7784,7 +7801,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh thực hiện lồng ghép đầu tư phát triển vốn tự nhiên trong chiến lược, quy hoạch, kế hoạch, chương trình, đề án, dự án phát triển kinh tế - xã hội.",
+                    "text": "Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh thực hiện lồng ghép đầu tư phát triển vốn tự nhiên trong chiến lược, quy hoạch, kế hoạch, chương trình, đề án, dự án phát triển kinh tế - xã hội. Mục 3 NGUỒN LỰC VỀ BẢO VỆ MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -8035,7 +8052,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Quỹ Bảo vệ môi trường Việt Nam, quỹ bảo vệ môi trường cấp tỉnh là tổ chức tài chính nhà nước, được thành lập ở trung ương, tỉnh, thành phố trực thuộc trung ương để cho vay ưu đãi, nhận ký quỹ, tài trợ, hỗ trợ, đóng góp tài chính đầu tư cho hoạt động bảo vệ môi trường.",
+                    "text": "Quỹ Bảo vệ môi trường Việt Nam, quỹ bảo vệ môi trường cấp tỉnh là tổ chức tài chính nhà nước, được thành lập ở trung ương, tỉnh, thành phố trực thuộc trung ương để cho vay ưu đãi, nhận ký quỹ, tài trợ, hỗ trợ, đóng góp tài chính đầu tư cho hoạt động bảo vệ môi trường. Nhà nước khuyến khích doanh nghiệp, tổ chức, cá nhân thành lập quỹ bảo vệ môi trường.",
                     "sub_clauses": []
                 },
                 {
@@ -8074,7 +8091,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hoạt động nghiên cứu khoa học, phát triển công nghệ, ứng dụng chuyển giao công nghệ về bảo vệ môi trường được Nhà nước ưu đãi và hỗ trợ bao gồm:",
+                    "text": "Hoạt động nghiên cứu khoa học, phát triển công nghệ, ứng dụng chuyển giao công nghệ về bảo vệ môi trường được Nhà nước ưu đãi và hỗ trợ bao gồm: Mục 4 GIÁO DỤC VÀ TRUYỀN THÔNG VỀ BẢO VỆ MÔI TRƯỜNG",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -8138,7 +8155,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Ủy ban nhân dân cấp tỉnh chủ trì, phối hợp với các cơ quan truyền thông, báo chí có trách nhiệm truyền thông, phổ biến kiến thức, tuyên truyền pháp luật về bảo vệ môi trường trên địa bàn.",
+                    "text": "Ủy ban nhân dân cấp tỉnh chủ trì, phối hợp với các cơ quan truyền thông, báo chí có trách nhiệm truyền thông, phổ biến kiến thức, tuyên truyền pháp luật về bảo vệ môi trường trên địa bàn. Chương XII HỘI NHẬP VÀ HỢP TÁC QUỐC TẾ VỀ BẢO VỆ MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -8185,7 +8202,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bộ Tài nguyên và Môi trường là cơ quan đầu mối tổng hợp các hoạt động hội nhập và hợp tác quốc tế về bảo vệ môi trường. Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh tổ chức thực hiện hội nhập và hợp tác quốc tế về bảo vệ môi trường trong phạm, vi quản lý.",
+                    "text": "Bộ Tài nguyên và Môi trường là cơ quan đầu mối tổng hợp các hoạt động hội nhập và hợp tác quốc tế về bảo vệ môi trường. Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh tổ chức thực hiện hội nhập và hợp tác quốc tế về bảo vệ môi trường trong phạm, vi quản lý. Chương XIII TRÁCH NHIỆM CỦA MẶT TRẬN TỔ QUỐC VIỆT NAM, TỔ CHỨC CHÍNH TRỊ - XÃ HỘI, TỔ CHỨC CHÍNH TRỊ XÃ HỘI – NGHỀ NGHIỆP, TỔ CHỨC XÃ HỘI - NGHỀ NGHIỆP VÀ CỘNG ĐỒNG DÂN CƯ TRONG BẢO VỆ MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -8288,7 +8305,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Cơ quan quản lý nhà nước về môi trường các cấp có trách nhiệm xây dựng hệ thống trực tuyến tiếp nhận, xử lý, trả lời phản ánh, kiến nghị của tổ chức, cá nhân và cộng đồng dân cư về bảo vệ môi trường.",
+                    "text": "Cơ quan quản lý nhà nước về môi trường các cấp có trách nhiệm xây dựng hệ thống trực tuyến tiếp nhận, xử lý, trả lời phản ánh, kiến nghị của tổ chức, cá nhân và cộng đồng dân cư về bảo vệ môi trường. Chương XIV KIỂM TRA, THANH TRA, KIỂM TOÁN, XỬ LÝ VI PHẠM, TRANH CHẤP, KHIẾU NẠI, TỐ CÁO VỀ MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -8446,7 +8463,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cá nhân có quyền tố cáo hành vi vi phạm pháp luật về bảo vệ môi trường với cơ quan, người có thẩm quyền theo quy định của pháp luật về tố cáo.",
+                    "text": "Cá nhân có quyền tố cáo hành vi vi phạm pháp luật về bảo vệ môi trường với cơ quan, người có thẩm quyền theo quy định của pháp luật về tố cáo. Chương XV TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ BẢO VỆ MÔI TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -8547,6 +8564,11 @@
             "id": "Điều 166",
             "title": "Trách nhiệm quản lý nhà nước về bảo vệ môi trường của Bộ Tài nguyên và Môi trường",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Tài nguyên và Môi trường chịu trách nhiệm trước Chính phủ thống nhất quản lý nhà nước về bảo vệ môi trường và có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Chủ trì xây dựng, ban hành hoặc trình cấp có thẩm quyền ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về bảo vệ môi trường; tiêu chuẩn, quy chuẩn kỹ thuật môi trường quốc gia; chiến lược, quy hoạch, kế hoạch, chương trình, đề án, dự án về bảo vệ môi trường;",
@@ -8791,7 +8813,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trách nhiệm bảo vệ môi trường của chính quyền địa phương tại đơn vị hành chính - kinh tế đặc biệt do Quốc hội quy định khi thành lập đơn vị hành chính - kinh tế đặc biệt đó, trừ trường hợp pháp luật về đơn vị hành chính - kinh tế đặc biệt đã quy định.",
+                    "text": "Trách nhiệm bảo vệ môi trường của chính quyền địa phương tại đơn vị hành chính - kinh tế đặc biệt do Quốc hội quy định khi thành lập đơn vị hành chính - kinh tế đặc biệt đó, trừ trường hợp pháp luật về đơn vị hành chính - kinh tế đặc biệt đã quy định. Chương XVI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -8802,7 +8824,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Bãi bỏ, sửa đổi, bổ sung một số điều của Luật Tài nguyên nước số 17/2012/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 08/2017/QH14 và Luật số 35/2018/QH14 như sau:",
+                    "text": "Bãi bỏ, sửa đổi, bổ sung một số điều của Luật Tài nguyên nước số 17/2012/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 08/2017/QH14 và Luật số 35/2018/QH14 như sau: “1. Bộ Tài nguyên và Môi trường, Ủy ban nhân dân cấp tỉnh thực hiện việc cấp, gia hạn, điều chỉnh, đình chỉ, thu hồi giấy phép về tài nguyên nước. Việc cấp giấy phép môi trường trong đó có nội dung xả nước thải vào nguồn nước được thực hiện theo quy định của pháp luật về bảo vệ môi trường.”.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -8821,7 +8843,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Sửa đổi, bổ sung một số điều của Luật Đầu tư công số 39/2019/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 64/2020/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật Đầu tư công số 39/2019/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 64/2020/QH14 như sau: “g) Phân tích, đánh giá sơ bộ tác động xã hội; đánh giá sơ bộ tác động môi trường (nếu có) theo quy định của pháp luật về bảo vệ môi trường;”; “6. Phân tích, đánh giá sơ bộ tác động xã hội; đánh giá sơ bộ tác động môi trường (nếu có) theo quy định của pháp luật về bảo vệ môi trường; xác định sơ bộ hiệu quả đầu tư về kinh tế - xã hội;”.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -8845,7 +8867,7 @@
                 },
                 {
                     "number": "1.4",
-                    "text": "",
+                    "text": " Phí thẩm định báo cáo đánh giá tác động môi trường * Bộ Tài chính quy định đối với hoạt động thẩm định do cơ quan trung ương thực hiện; * Hội đồng nhân dân cấp tỉnh quyết định đối với hoạt động thẩm định do cơ quan địa phương thực hiện.",
                     "sub_clauses": [
                         {
                             "letter": "b",
@@ -8855,7 +8877,7 @@
                 },
                 {
                     "number": "1.6",
-                    "text": "",
+                    "text": " Phí thẩm định cấp, cấp lại, điều chỉnh giấy phép môi trường * Bộ Tài chính quy định đối với hoạt động thẩm định do cơ quan trung ương thực hiện; * Hội đồng nhân dân cấp tỉnh quyết định đối với hoạt động thẩm định do cơ quan địa phương thực hiện.",
                     "sub_clauses": [
                         {
                             "letter": "c",
@@ -8917,11 +8939,15 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. ____________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 10 thông qua ngày 17 tháng 11 năm 2020. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 10 thông qua ngày 17 tháng 11 năm 2020.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Nguyễn Thị Kim Ngân"
+    ]
 }

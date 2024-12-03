@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về điều tra cơ bản về dầu khí và hoạt động dầu khí trong phạm vi đất liền, hải đảo và vùng biển của nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam và nước ngoài có liên quan đến điều tra cơ bản về dầu khí và hoạt động dầu khí."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -749,6 +770,13 @@
         "text": "Chính phủ quy định chi tiết Điều này. Chương III LỰA CHỌN NHÀ THẦU KÝ KẾT HỢP ĐỒNG DẦU KHÍ"
     },
     {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Hình thức lựa chọn nhà thầu",
+        "text": "Việc lựa chọn nhà thầu ký kết hợp đồng dầu khí tại lô dầu khí mở được thực hiện thông qua một trong các hình thức sau đây:"
+    },
+    {
         "id": "Điều 15.1",
         "article": "Điều 15",
         "clause": "1",
@@ -775,6 +803,13 @@
         "clause": "4",
         "title": "Hình thức lựa chọn nhà thầu",
         "text": "Chỉ định thầu."
+    },
+    {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Điều kiện tham gia đấu thầu lựa chọn nhà thầu",
+        "text": "Tổ chức, cá nhân tham gia đấu thầu lựa chọn nhà thầu ký kết hợp đồng dầu khí phải đáp ứng các điều kiện sau đây:"
     },
     {
         "id": "Điều 16.1",
@@ -1090,6 +1125,13 @@
         "clause": "3",
         "title": "Tiêu chí lựa chọn nhà thầu và phương pháp đánh giá hồ sơ dự thầu, hồ sơ chào thầu cạnh tranh, hồ sơ đề xuất",
         "text": "Chính phủ quy định chi tiết Điều này."
+    },
+    {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Xét duyệt kết quả lựa chọn nhà thầu",
+        "text": "Nhà thầu được đề nghị lựa chọn khi đáp ứng các điều kiện sau đây:"
     },
     {
         "id": "Điều 23.1",
@@ -1603,6 +1645,13 @@
         "text": "Chính phủ quy định về hồ sơ, trình tự, thủ tục trình, thẩm định, phê duyệt giữ lại hoặc tạm hoãn nghĩa vụ hoàn trả, mở rộng diện tích hợp đồng dầu khí, hợp nhất phát hiện dầu khí, mỏ dầu khí."
     },
     {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Mức thu hồi chi phí trong hợp đồng dầu khí",
+        "text": "Các bên tham gia hợp đồng dầu khí có thể thỏa thuận mức thu hồi chi phí của nhà thầu trong hợp đồng dầu khí theo quy định sau đây:"
+    },
+    {
         "id": "Điều 33.1",
         "article": "Điều 33",
         "clause": "1",
@@ -1622,6 +1671,13 @@
         "clause": "3",
         "title": "Mức thu hồi chi phí trong hợp đồng dầu khí",
         "text": "Tối đa 80% sản lượng dầu khí khai thác được trong năm đối với các hợp đồng dầu khí áp dụng cho lô, mỏ dầu khí được hưởng chính sách ưu đãi đầu tư đặc biệt."
+    },
+    {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Ngôn ngữ của hợp đồng dầu khí",
+        "text": "Ngôn ngữ sử dụng trong hợp đồng dầu khí và các tài liệu kèm theo hợp đồng là tiếng Việt và tiếng Anh hoặc một tiếng nước ngoài thông dụng khác do các bên thỏa thuận. Bản tiếng Việt và tiếng Anh hoặc bản tiếng nước ngoài thông dụng khác có giá trị pháp lý ngang nhau."
     },
     {
         "id": "Điều 35.1",
@@ -1678,6 +1734,13 @@
         "clause": "3",
         "title": "Chuyển nhượng quyền lợi tham gia, quyền và nghĩa vụ của nhà thầu trong hợp đồng dầu khí",
         "text": "Chính phủ quy định về hồ sơ, trình tự, thủ tục trình, thẩm định, phê duyệt việc chuyển nhượng quyền lợi tham gia, quyền và nghĩa vụ của nhà thầu trong hợp đồng dầu khí."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Giải quyết tranh chấp phát sinh từ hợp đồng dầu khí",
+        "text": "Các tranh chấp phát sinh từ hợp đồng dầu khí trước hết phải được giải quyết thông qua thương lượng, hòa giải. Trường hợp không thương lượng, hòa giải được thì tranh chấp có thể giải quyết tại Trọng tài hoặc Tòa án được quy định trong hợp đồng dầu khí phù hợp với quy định của Luật Đầu tư và luật khác có liên quan."
     },
     {
         "id": "Điều 38.1",
@@ -3640,6 +3703,13 @@
         "text": "Đề xuất giải pháp, phối hợp theo yêu cầu của các cơ quan quản lý nhà nước có thẩm quyền trong việc hoạch định chính sách, chiến lược, định hướng liên quan đến việc tổ chức khai thác hợp lý và có hiệu quả nguồn tài nguyên dầu khí, bảo vệ tài nguyên môi trường và phát triển bền vững."
     },
     {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": "Phê duyệt việc sử dụng vốn của Tập đoàn Dầu khí Việt Nam và doanh nghiệp 100% vốn của Tập đoàn Dầu khí Việt Nam trong hoạt động dầu khí",
+        "text": "Hội đồng thành viên Tập đoàn Dầu khí Việt Nam chịu trách nhiệm:"
+    },
+    {
         "id": "Điều 63.1",
         "article": "Điều 63",
         "clause": "1",
@@ -3875,6 +3945,6 @@
         "article": "Điều 69",
         "clause": "4",
         "title": "Quy định chuyển tiếp",
-        "text": "Hoạt động vận hành khai thác tận thu theo cơ chế điều hành đã được phê duyệt trước ngày Luật này có hiệu lực thi hành thì tiếp tục thực hiện theo quyết định đã được ban hành và quy định của pháp luật trước ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 4 thông qua ngày 14 tháng 11 năm 2022."
+        "text": "Hoạt động vận hành khai thác tận thu theo cơ chế điều hành đã được phê duyệt trước ngày Luật này có hiệu lực thi hành thì tiếp tục thực hiện theo quyết định đã được ban hành và quy định của pháp luật trước ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 4 thông qua ngày 14 tháng 11 năm 2022. CHỦ TỊCH QUỐC HỘI Đã ký: Vương Đình Huệ"
     }
 ]

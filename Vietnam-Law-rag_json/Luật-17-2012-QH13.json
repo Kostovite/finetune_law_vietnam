@@ -14,6 +14,13 @@
         "text": "Nước dưới đất và nước biển thuộc vùng đặc quyền kinh tế, thềm lục địa của nước Cộng hoà xã hội chủ nghĩa Việt Nam, nước khoáng, nước nóng thiên nhiên không thuộc phạm vi điều chỉnh của Luật này."
     },
     {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -1071,6 +1078,13 @@
         "text": "Giải pháp, kinh phí, kế hoạch và tiến độ thực hiện."
     },
     {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Nội dung của quy hoạch tài nguyên nước lưu vực sông liên tỉnh, nguồn nước liên tỉnh và quy hoạch tài nguyên nước của tỉnh, thành phố trực thuộc trung ương",
+        "text": "Quy hoạch tài nguyên nước bao gồm một hoặc các nội dung sau đây:"
+    },
+    {
         "id": "Điều 19.1",
         "article": "Điều 19",
         "clause": "1",
@@ -1685,6 +1699,13 @@
         "clause": "5",
         "title": "Bảo vệ và phát triển nguồn sinh thủy",
         "text": "Chính phủ quy định cụ thể việc trồng bù diện tích rừng, đóng góp kinh phí và việc quản lý, sử dụng kinh phí bảo vệ, phát triển rừng đầu nguồn các lưu vực hồ chứa."
+    },
+    {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Bảo đảm sự lưu thông của dòng chảy",
+        "text": "Việc khai thác khoáng sản, xây dựng cầu, bến tàu hoặc công trình khác ngăn, vượt sông, suối, kênh, rạch; đặt đường ống hoặc dây cáp bắc qua sông, suối, kênh, rạch, đặt lồng bè trên sông không được cản trở dòng chảy và phù hợp với tiêu chuẩn phòng, chống lũ, các yêu cầu kỹ thuật liên quan khác theo quy định của pháp luật."
     },
     {
         "id": "Điều 31.1",
@@ -2541,6 +2562,13 @@
         "text": "Việc xây dựng và quản lý các công trình khác liên quan đến nguồn nước phải bảo đảm an toàn và hoạt động bình thường cho các phương tiện giao thông thủy và không được gây ô nhiễm nguồn nước."
     },
     {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Khai thác, sử dụng tài nguyên nước cho các mục đích khác",
+        "text": "Tổ chức, cá nhân khai thác, sử dụng tài nguyên nước cho các hoạt động nghiên cứu khoa học, y tế, thể thao, giải trí, du lịch và các mục đích khác phải sử dụng nước hợp lý, tiết kiệm, hiệu quả, không được gây ô nhiễm, suy thoái, cạn kiệt nguồn nước, cản trở dòng chảy và các ảnh hưởng xấu khác đến nguồn nước."
+    },
+    {
         "id": "Điều 52.1",
         "article": "Điều 52",
         "clause": "1",
@@ -2884,6 +2912,13 @@
         "text": "Bộ Tài nguyên và Môi trường có trách nhiệm xác định các tầng chứa nước, khoanh định vùng cần bổ sung nhân tạo nước dưới đất; hướng dẫn thực hiện các biện pháp bổ sung nhân tạo nước dưới đất thích hợp đối với từng vùng; phê duyệt các phương án bổ sung nhân tạo nước dưới đất."
     },
     {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Gây mưa nhân tạo",
+        "text": "Việc gây mưa nhân tạo phải căn cứ vào nhu cầu về nước của vùng thiếu nước và điều kiện cho phép để quyết định biện pháp, quy mô hợp lý và phải được phép của cơ quan nhà nước có thẩm quyền. CHƯƠNG V PHÒNG, CHỐNG VÀ KHẮC PHỤC HẬU QUẢ TÁC HẠI DO NƯỚC GÂY RA"
+    },
+    {
         "id": "Điều 58.1",
         "article": "Điều 58",
         "clause": "1",
@@ -2903,6 +2938,13 @@
         "clause": "3",
         "title": "Trách nhiệm, nghĩa vụ phòng, chống và khắc phục hậu quả tác hại do nước gây ra",
         "text": "Bộ, cơ quan ngang bộ và Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình quyết định và tổ chức thực hiện các biện pháp phòng, chống và khắc phục hậu quả tác hại do nước gây ra."
+    },
+    {
+        "id": "Điều 59.0",
+        "article": "Điều 59",
+        "clause": "0",
+        "title": "Phòng, chống và khắc phục hậu quả tác hại của nước do thiên tai gây ra",
+        "text": "Việc phòng, chống và khắc phục hậu quả tác hại của lũ, lụt, nước biển dâng, mưa đá, mưa axít và các tác hại khác của nước do thiên tai gây ra được thực hiện theo quy định của pháp luật về đê điều, phòng, chống lụt, bão và các quy định khác của pháp luật có liên quan."
     },
     {
         "id": "Điều 60.1",
@@ -3129,6 +3171,13 @@
         "text": "Chính phủ quy định cụ thể các trường hợp khai thác tài nguyên nước phải nộp tiền cấp quyền khai thác tài nguyên nước, phương pháp tính, mức thu tiền cấp quyền khai thác tài nguyên nước. CHƯƠNG VII QUAN HỆ QUỐC TẾ VỀ TÀI NGUYÊN NƯỚC"
     },
     {
+        "id": "Điều 66.0",
+        "article": "Điều 66",
+        "clause": "0",
+        "title": "Nguyên tắc áp dụng trong quan hệ quốc tế về tài nguyên nước",
+        "text": "Nhà nước Việt Nam áp dụng những nguyên tắc sau đây trong việc điều tra cơ bản, bảo vệ, khai thác, sử dụng nguồn nước liên quốc gia, phòng, chống và khắc phục hậu quả tác hại do nước gây ra, hợp tác quốc tế và giải quyết tranh chấp về nguồn nước liên quốc gia:"
+    },
+    {
         "id": "Điều 66.1",
         "article": "Điều 66",
         "clause": "1",
@@ -3197,6 +3246,13 @@
         "clause": "3",
         "title": "Hợp tác quốc tế trong quản lý và phát triển tài nguyên nước",
         "text": "Nhà nước Việt Nam chủ động tham gia các tổ chức quốc tế về tài nguyên nước và các tổ chức lưu vực sông quốc tế có liên quan tới Việt Nam nhằm thúc đẩy hợp tác, khai thác, sử dụng và phát triển bền vững nguồn nước liên quốc gia."
+    },
+    {
+        "id": "Điều 69.0",
+        "article": "Điều 69",
+        "clause": "0",
+        "title": "Giải quyết tranh chấp, bất đồng về nguồn nước liên quốc gia",
+        "text": "Khi giải quyết tranh chấp, bất đồng về nguồn nước liên quốc gia có liên quan đến các nước trong lưu vực sông, các vùng biển thuộc chủ quyền ngoài việc áp dụng những nguyên tắc quy định tại Điều 66 của Luật này, còn phải tuân theo những quy định sau đây:"
     },
     {
         "id": "Điều 69.1",
@@ -3647,6 +3703,13 @@
         "text": "Yêu cầu về bồi thường thiệt hại liên quan đến giải quyết tranh chấp về tài nguyên nước được thực hiện theo quy định của pháp luật về dân sự và pháp luật về trách nhiệm bồi thường của nhà nước. CHƯƠNG X ĐIỀU KHOẢN THI HÀNH"
     },
     {
+        "id": "Điều 77.0",
+        "article": "Điều 77",
+        "clause": "0",
+        "title": "Điều khoản chuyển tiếp",
+        "text": "Kể từ ngày Luật này có hiệu lực, việc hành nghề khoan nước dưới đất, thăm dò, khai thác, sử dụng tài nguyên nước, xả nước thải vào nguồn nước được thực hiện như sau:"
+    },
+    {
         "id": "Điều 77.1",
         "article": "Điều 77",
         "clause": "1",
@@ -3659,5 +3722,19 @@
         "clause": "2",
         "title": "Điều khoản chuyển tiếp",
         "text": "Tổ chức, cá nhân đang thực hiện khai thác tài nguyên nước phải nộp tiền cấp quyền khai thác tài nguyên nước theo quy định của Luật này đối với phần còn lại của thời hạn ghi trong giấy phép."
+    },
+    {
+        "id": "Điều 78.0",
+        "article": "Điều 78",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2013. Luật tài nguyên nước số 08/1998/QH10 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 79.0",
+        "article": "Điều 79",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 3 thông qua ngày 21 tháng 6 năm 2012. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

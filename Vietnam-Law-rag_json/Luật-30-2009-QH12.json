@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động quy hoạch đô thị gồm lập, thẩm định, phê duyệt và điều chỉnh quy hoạch đô thị; tổ chức thực hiện quy hoạch đô thị và quản lý phát triển đô thị theo quy hoạch đô thị đã được phê duyệt."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, cá nhân trong nước và tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc có liên quan đến hoạt động quy hoạch đô thị trên lãnh thổ Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -217,6 +238,13 @@
         "text": "Chính phủ quy định cụ thể việc phân loại và cấp quản lý hành chính đô thị phù hợp từng giai đoạn phát triển kinh tế - xã hội."
     },
     {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Nguyên tắc tuân thủ quy hoạch đô thị",
+        "text": "Tổ chức, cá nhân khi thực hiện các chương trình, kế hoạch đầu tư xây dựng phát triển đô thị, quy hoạch chuyên ngành trong phạm vi đô thị, kế hoạch sử dụng đất đô thị, quản lý thực hiện các dự án đầu tư xây dựng trong đô thị, thực hiện quản lý không gian, kiến trúc, cảnh quan đô thị hoặc thực hiện các hoạt động khác có liên quan đến quy hoạch đô thị phải tuân thủ quy hoạch đô thị đã được phê duyệt và Quy chế quản lý quy hoạch, kiến trúc đô thị."
+    },
+    {
         "id": "Điều 6.1",
         "article": "Điều 6",
         "clause": "1",
@@ -264,6 +292,13 @@
         "clause": "7",
         "title": "Yêu cầu đối với quy hoạch đô thị",
         "text": "Đáp ứng nhu cầu sử dụng hạ tầng kỹ thuật gồm hệ thống giao thông, cung cấp năng lượng, chiếu sáng công cộng, cấp nước, thoát nước, xử lý chất thải, thông tin liên lạc và các công trình hạ tầng kỹ thuật khác; bảo đảm sự kết nối, thống nhất giữa các hệ thống hạ tầng kỹ thuật trong đô thị và sự liên thông với các công trình hạ tầng kỹ thuật cấp vùng, quốc gia và quốc tế."
+    },
+    {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Trình tự lập, thẩm định, phê duyệt quy hoạch đô thị",
+        "text": "Việc lập, thẩm định và phê duyệt quy hoạch đô thị phải theo trình tự sau đây:"
     },
     {
         "id": "Điều 7.1",
@@ -1330,6 +1365,13 @@
         "text": "Bảo tồn, cải tạo, chỉnh trang công trình kiến trúc, di tích lịch sử, văn hoá, danh lam thắng cảnh, địa hình cảnh quan và bảo vệ môi trường."
     },
     {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Đối tượng của quy hoạch hạ tầng kỹ thuật đô thị",
+        "text": "Quy hoạch hạ tầng kỹ thuật đô thị được lập cho các đối tượng sau đây:"
+    },
+    {
         "id": "Điều 36.1",
         "article": "Điều 36",
         "clause": "1",
@@ -1762,6 +1804,13 @@
         "clause": "4",
         "title": "Rà soát quy hoạch đô thị",
         "text": "Căn cứ tình hình phát triển kinh tế - xã hội và các yếu tố tác động đến quá trình phát triển đô thị, cơ quan có thẩm quyền phê duyệt quy hoạch đô thị quyết định việc điều chỉnh quy hoạch đô thị."
+    },
+    {
+        "id": "Điều 47.0",
+        "article": "Điều 47",
+        "clause": "0",
+        "title": "Điều kiện điều chỉnh quy hoạch đô thị",
+        "text": "Quy hoạch đô thị chỉ được điều chỉnh khi có một trong các trường hợp sau:"
     },
     {
         "id": "Điều 47.1",
@@ -2520,6 +2569,13 @@
         "text": "Chủ đầu tư dự án được xác định trong quyết định đầu tư có trách nhiệm quản lý hệ thống hạ tầng kỹ thuật, không gian, kiến trúc theo quy hoạch đô thị đã được phê duyệt trong phạm vi ranh giới thực hiện dự án, trừ trường hợp việc quản lý được bàn giao cho Ủy ban nhân dân."
     },
     {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Quản lý cải tạo đô thị theo quy hoạch",
+        "text": "Khi thực hiện cải tạo hoặc xây dựng lại một khu vực trong đô thị phải bảo đảm tiết kiệm đất đai, ưu tiên đáp ứng nhu cầu tái định cư tại chỗ cho những người dân trong khu vực; cải thiện điều kiện kiến trúc, cảnh quan và môi trường đô thị; xây dựng đồng bộ và nâng cao chất lượng hệ thống hạ tầng xã hội, hạ tầng kỹ thuật và dịch vụ công cộng trên cơ sở cân đối hài hoà với các khu vực xung quanh; bảo vệ di sản văn hoá, di tích lịch sử, bản sắc truyền thống của đô thị và khu vực. CHƯƠNG VI ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
         "id": "Điều 74.1",
         "article": "Điều 74",
         "clause": "1",
@@ -2532,5 +2588,19 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Kể từ ngày Luật này có hiệu lực, các quy định của Luật xây dựng về quy hoạch xây dựng các đô thị và các khu vực trong đô thị được thay thế bằng các quy định của Luật này."
+    },
+    {
+        "id": "Điều 75.0",
+        "article": "Điều 75",
+        "clause": "0",
+        "title": "Điều khoản chuyển tiếp",
+        "text": "Quy hoạch xây dựng đô thị đã được phê duyệt trước ngày Luật này có hiệu lực không phải lập, thẩm định, phê duyệt lại; việc tổ chức thực hiện, quản lý phát triển và điều chỉnh quy hoạch được thực hiện theo quy định của Luật này."
+    },
+    {
+        "id": "Điều 76.0",
+        "article": "Điều 76",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 5 thông qua ngày 17 tháng 6 năm 2009. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về chức năng, nhiệm vụ, quyền hạn, tổ chức và hoạt động của Kiểm toán nhà nước; nhiệm vụ, quyền hạn của Tổng Kiểm toán nhà nước; nhiệm vụ, quyền hạn của Kiểm toán viên nhà nước; quyền hạn và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đối với hoạt động kiểm toán nhà nước."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -19,6 +26,13 @@
         "clause": "3",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan, tổ chức, cá nhân khác có liên quan đối với hoạt động kiểm toán nhà nước."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -96,6 +110,13 @@
         "clause": "11",
         "title": "Giải thích từ ngữ",
         "text": "Tài sản công bao gồm: đất đai; tài nguyên nước; tài nguyên khoáng sản; nguồn lợi ở vùng biển, vùng trời; tài nguyên thiên nhiên khác; tài sản nhà nước tại cơ quan nhà nước, đơn vị vũ trang nhân dân, đơn vị sự nghiệp công lập, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp; tài sản công được giao cho các doanh nghiệp quản lý và sử dụng; tài sản dự trữ nhà nước; tài sản thuộc kết cấu hạ tầng phục vụ lợi ích công cộng và các tài sản khác do Nhà nước đầu tư, quản lý thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Đối tượng kiểm toán của Kiểm toán nhà nước",
+        "text": "Đối tượng kiểm toán của Kiểm toán nhà nước là việc quản lý, sử dụng tài chính công, tài sản công và các hoạt động có liên quan đến việc quản lý, sử dụng tài chính công, tài sản công của đơn vị được kiểm toán."
     },
     {
         "id": "Điều 5.1",
@@ -271,6 +292,13 @@
         "clause": "3",
         "title": "Các hành vi bị nghiêm cấm",
         "text": "Nghiêm cấm mọi cơ quan, tổ chức, cá nhân can thiệp trái pháp luật vào hoạt động kiểm toán, kết quả kiểm toán của Kiểm toán nhà nước và Kiểm toán viên nhà nước, cộng tác viên Kiểm toán nhà nước. CHƯƠNG II CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ TỔ CHỨC CỦA KIỂM TOÁN NHÀ NƯỚC Mục 1 CHỨC NĂNG, NHIỆM VỤ VÀ QUYỀN HẠN CỦA KIỂM TOÁN NHÀ NƯỚC"
+    },
+    {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Chức năng của Kiểm toán nhà nước",
+        "text": "Kiểm toán nhà nước có chức năng đánh giá, xác nhận, kết luận và kiến nghị đối với việc quản lý, sử dụng tài chính công, tài sản công."
     },
     {
         "id": "Điều 10.1",
@@ -749,6 +777,13 @@
         "text": "Tổng Kiểm toán nhà nước quyết định bổ nhiệm, miễn nhiệm các ngạch Kiểm toán viên nhà nước."
     },
     {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Tiêu chuẩn chung của Kiểm toán viên nhà nước",
+        "text": "Kiểm toán viên nhà nước phải bảo đảm các tiêu chuẩn của công chức theo quy định của pháp luật về cán bộ, công chức và các tiêu chuẩn sau đây:"
+    },
+    {
         "id": "Điều 21.1",
         "article": "Điều 21",
         "clause": "1",
@@ -1069,6 +1104,13 @@
         "clause": "3",
         "title": "Cộng tác viên Kiểm toán nhà nước",
         "text": "Tổng Kiểm toán nhà nước quy định cụ thể việc sử dụng cộng tác viên Kiểm toán nhà nước. CHƯƠNG IV HOẠT ĐỘNG KIỂM TOÁN NHÀ NƯỚC Mục 1 QUYẾT ĐỊNH KIỂM TOÁN"
+    },
+    {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Căn cứ để ban hành quyết định kiểm toán",
+        "text": "Tổng Kiểm toán nhà nước ban hành quyết định kiểm toán khi có một trong các căn cứ sau đây:"
     },
     {
         "id": "Điều 30.1",
@@ -1433,6 +1475,13 @@
         "clause": "3c",
         "title": "Nhiệm vụ, quyền hạn và trách nhiệm của Trưởng Đoàn kiểm toán",
         "text": "Chịu trách nhiệm liên đới về hành vi vi phạm pháp luật trong hoạt động kiểm toán của thành viên Đoàn kiểm toán; chịu trách nhiệm về quyết định tạm đình chỉ việc thực hiện nhiệm vụ đối với thành viên trong Đoàn kiểm toán từ Tổ trưởng Tổ kiểm toán trở xuống."
+    },
+    {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn và trách nhiệm của Phó trưởng Đoàn kiểm toán",
+        "text": "Phó trưởng Đoàn kiểm toán giúp Trưởng Đoàn kiểm toán thực hiện nhiệm vụ theo sự phân công của Trưởng Đoàn kiểm toán và chịu trách nhiệm trước Trưởng Đoàn kiểm toán về nhiệm vụ được phân công."
     },
     {
         "id": "Điều 41.1",
@@ -2191,6 +2240,27 @@
         "text": "Việc quản lý, cấp và sử dụng kinh phí hoạt động của Kiểm toán nhà nước được thực hiện theo quy định của pháp luật về ngân sách nhà nước."
     },
     {
+        "id": "Điều 60.0",
+        "article": "Điều 60",
+        "clause": "0",
+        "title": "Biên chế của Kiểm toán nhà nước",
+        "text": "Biên chế của Kiểm toán nhà nước do Ủy ban thường vụ Quốc hội quyết định theo đề nghị của Tổng Kiểm toán nhà nước."
+    },
+    {
+        "id": "Điều 61.0",
+        "article": "Điều 61",
+        "clause": "0",
+        "title": "Đầu tư hiện đại hoá hoạt động của Kiểm toán nhà nước",
+        "text": "Nhà nước có chính sách đầu tư phát triển cơ sở vật chất, công nghệ thông tin và các phương tiện khác để bảo đảm cho tổ chức và hoạt động của Kiểm toán nhà nước, đáp ứng yêu cầu hội nhập quốc tế."
+    },
+    {
+        "id": "Điều 62.0",
+        "article": "Điều 62",
+        "clause": "0",
+        "title": "Chế độ đối với cán bộ, công chức của Kiểm toán nhà nước",
+        "text": "Chế độ tiền lương, phụ cấp, trang phục và chế độ ưu tiên đối với cán bộ, công chức của Kiểm toán nhà nước do Ủy ban thường vụ Quốc hội quy định. CHƯƠNG VII TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN ĐỐI VỚI HOẠT ĐỘNG KIỂM TOÁN NHÀ NƯỚC"
+    },
+    {
         "id": "Điều 63.1",
         "article": "Điều 63",
         "clause": "1",
@@ -2203,6 +2273,27 @@
         "clause": "2",
         "title": "Quốc hội với Kiểm toán nhà nước",
         "text": "Tổng Kiểm toán nhà nước báo cáo kết quả kiểm toán, báo cáo công tác của Kiểm toán nhà nước trước Quốc hội, Ủy ban thường vụ Quốc hội; báo cáo, giải trình, cung cấp tài liệu, nghiên cứu và trả lời các kiến nghị theo yêu cầu của Hội đồng dân tộc, các Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội; trả lời chất vấn của đại biểu Quốc hội trước Quốc hội hoặc Ủy ban thường vụ Quốc hội."
+    },
+    {
+        "id": "Điều 64.0",
+        "article": "Điều 64",
+        "clause": "0",
+        "title": "Chính phủ với Kiểm toán nhà nước",
+        "text": "Chính phủ, các bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình phối hợp với Kiểm toán nhà nước trong tổ chức và hoạt động kiểm toán nhà nước; thực hiện, đôn đốc và chỉ đạo các cơ quan liên quan thực hiện và báo cáo kết quả thực hiện kết luận, kiến nghị kiểm toán của Kiểm toán nhà nước."
+    },
+    {
+        "id": "Điều 65.0",
+        "article": "Điều 65",
+        "clause": "0",
+        "title": "Trách nhiệm của cơ quan điều tra, Viện kiểm sát nhân dân",
+        "text": "Cơ quan điều tra, Viện kiểm sát nhân dân có trách nhiệm tiếp nhận và giải quyết theo thẩm quyền các vụ việc có dấu hiệu của tội phạm do Kiểm toán nhà nước phát hiện và kiến nghị."
+    },
+    {
+        "id": "Điều 66.0",
+        "article": "Điều 66",
+        "clause": "0",
+        "title": "Trách nhiệm của Hội đồng nhân dân",
+        "text": "Hội đồng nhân dân giám sát việc thực hiện kết luận, kiến nghị kiểm toán của Kiểm toán nhà nước tại địa phương."
     },
     {
         "id": "Điều 67.1",
@@ -2282,6 +2373,20 @@
         "text": "Quyền, nghĩa vụ của người khiếu nại, người bị khiếu nại, người giải quyết khiếu nại, luật sư, trợ giúp viên pháp lý, việc thi hành quyết định giải quyết khiếu nại có hiệu lực pháp luật và các hành vi bị cấm thực hiện theo quy định của Luật khiếu nại."
     },
     {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Tố cáo và giải quyết tố cáo về hoạt động kiểm toán nhà nước",
+        "text": "Việc tố cáo và giải quyết tố cáo về hoạt động kiểm toán nhà nước được thực hiện theo quy định của pháp luật về tố cáo."
+    },
+    {
+        "id": "Điều 71.0",
+        "article": "Điều 71",
+        "clause": "0",
+        "title": "Xử lý vi phạm",
+        "text": "Cơ quan, tổ chức, cá nhân có hành vi vi phạm pháp luật về kiểm toán nhà nước thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý theo quy định của pháp luật. CHƯƠNG IX ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
         "id": "Điều 72.1",
         "article": "Điều 72",
         "clause": "1",
@@ -2294,5 +2399,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Luật Kiểm toán nhà nước số 37/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+    },
+    {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Ủy ban thường vụ Quốc hội, Tổng Kiểm toán nhà nước quy định chi tiết các điều, khoản được giao trong Luật. --------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 9 thông qua ngày 24 tháng 6 năm 2015. CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Sinh Hùng"
     }
 ]

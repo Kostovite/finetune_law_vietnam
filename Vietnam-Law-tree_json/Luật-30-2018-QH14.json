@@ -15,7 +15,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về nguyên tắc, thời điểm, trình tự, thủ tục, thẩm quyền, trách nhiệm thực hiện đặc xá; điều kiện, quyền và nghĩa vụ của người được đề nghị đặc xá; quyền và nghĩa vụ của người được đặc xá.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -37,6 +43,11 @@
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Đặc xá là sự khoan hồng đặc biệt của Nhà nước do Chủ tịch nước quyết định tha tù trước thời hạn cho người bị kết án phạt tù có thời hạn, tù chung thân nhân sự kiện trọng đại, ngày lễ lớn của đất nước hoặc trong trường hợp đặc biệt.",
@@ -104,7 +115,13 @@
         {
             "id": "Điều 6",
             "title": "Chính sách của Nhà nước trong đặc xá",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước động viên, khuyến khích người bị kết án phạt tù ăn năn hối cải, tích cực học tập, lao động cải tạo để được hưởng đặc xá; tạo điều kiện thuận lợi cho người được đặc xá hòa nhập cộng đồng, ổn định cuộc sống, phấn đấu trở thành người có ích cho xã hội, phòng ngừa tái phạm tội, vi phạm pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 7",
@@ -132,7 +149,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Giả mạo giấy tờ, tài liệu liên quan đến người được đề nghị đặc xá.",
+                    "text": "Giả mạo giấy tờ, tài liệu liên quan đến người được đề nghị đặc xá. Chương II ĐẶC XÁ NHÂN SỰ KIỆN TRỌNG ĐẠI, NGÀY LỄ LỚN CỦA ĐẤT NƯỚC MỤC 1. TRÌNH TỰ, THỦ TỤC TRÌNH CHỦ TỊCH NƯỚC BAN HÀNH, CÔNG BỐ QUYẾT ĐỊNH VỀ ĐẶC XÁ; THÀNH LẬP HỘI ĐỒNG TƯ VẤN ĐẶC XÁ, TỔ THẨM ĐỊNH LIÊN NGÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -140,7 +157,13 @@
         {
             "id": "Điều 8",
             "title": "Trình tự, thủ tục trình Chủ tịch nước ban hành Quyết định về đặc xá",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Theo yêu cầu của Chủ tịch nước hoặc trong trường hợp Chính phủ đề nghị đặc xá được Chủ tịch nước chấp nhận, Chính phủ chủ trì, phối hợp với Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và các cơ quan có liên quan nghiên cứu, xây dựng tờ trình của Chính phủ và dự thảo Quyết định về đặc xá. Tờ trình và dự thảo Quyết định về đặc xá phải được trình Chủ tịch nước chậm nhất là 60 ngày trước thời điểm đặc xá để Chủ tịch nước xem xét, ban hành Quyết định về đặc xá.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 9",
@@ -210,12 +233,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thường trực Hội đồng tư vấn đặc xá là Bộ Công an.",
+                    "text": "Thường trực Hội đồng tư vấn đặc xá là Bộ Công an. Thường trực Hội đồng tư vấn đặc xá giúp Hội đồng tư vấn đặc xá thực hiện trách nhiệm quy định tại Điều 35 của Luật này.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Tổ thẩm định liên ngành do Hội đồng tư vấn đặc xá quyết định thành lập, bao gồm đại diện các cơ quan, tổ chức sau đây:",
+                    "text": "Tổ thẩm định liên ngành do Hội đồng tư vấn đặc xá quyết định thành lập, bao gồm đại diện các cơ quan, tổ chức sau đây: MỤC 2. ĐIỀU KIỆN, QUYỀN VÀ NGHĨA VỤ CỦA NGƯỜI ĐƯỢC ĐỀ NGHỊ ĐẶC XÁ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -255,7 +278,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người đang chấp hành án phạt tù có thời hạn, người bị kết án phạt tù chung thân nhưng đã được giảm xuống tù có thời hạn được đề nghị đặc xá phải có đủ các điều kiện sau đây:",
+                    "text": "Người đang chấp hành án phạt tù có thời hạn, người bị kết án phạt tù chung thân nhưng đã được giảm xuống tù có thời hạn được đề nghị đặc xá phải có đủ các điều kiện sau đây: Người bị kết án về tội phá hoại việc thực hiện các chính sách kinh tế - xã hội; tội phá hoại chính sách đoàn kết; tội tổ chức, cưỡng ép, xúi giục người khác trốn đi nước ngoài hoặc trốn ở lại nước ngoài nhằm chống chính quyền nhân dân; tội trốn đi nước ngoài hoặc trốn ở lại nước ngoài nhằm chống chính quyền nhân dân; người bị kết án từ 10 năm tù trở lên về một trong các tội quy định tại Chương các tội xâm phạm tính mạng, sức khỏe, nhân phẩm, danh dự của con người của Bộ luật Hình sự do cố ý hoặc người bị kết án từ 07 năm tù trở lên về tội cướp tài sản; tội bắt cóc nhằm chiếm đoạt tài sản; tội sản xuất trái phép chất ma túy; tội mua bán trái phép chất ma túy; tội chiếm đoạt chất ma túy của Bộ luật Hình sự đã chấp hành án phạt tù được một thời gian do Chủ tịch nước quyết định nhưng ít nhất là một phần hai thời gian đối với trường hợp bị kết án phạt tù có thời hạn, nếu trước đó đã được giảm thời hạn chấp hành án phạt tù thì thời hạn được giảm không được tính vào thời gian đã chấp hành án phạt tù; đã chấp hành án phạt tù ít nhất là 17 năm đối với trường hợp bị phạt tù chung thân nhưng đã được giảm xuống tù có thời hạn, nếu sau khi đã được giảm xuống tù có thời hạn mà tiếp tục được giảm thời hạn chấp hành án phạt tù thì thời hạn được giảm sau đó không được tính vào thời gian đã chấp hành án phạt tù; Trường hợp phải thi hành nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác đối với tài sản không thuộc sở hữu của Nhà nước thì phải được người được thi hành án đồng ý hoãn thi hành án hoặc không yêu cầu thi hành án đối với tài sản này;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -368,6 +391,11 @@
             "title": "Các trường hợp không được đề nghị đặc xá",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Người có đủ điều kiện quy định tại Điều 11 của Luật này không được đề nghị đặc xá khi thuộc một trong các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Bị kết án phạt tù về tội phản bội Tổ quốc; tội hoạt động nhằm lật đổ chính quyền nhân dân; tội gián điệp; tội xâm phạm an ninh lãnh thổ; tội bạo loạn; tội khủng bố nhằm chống chính quyền nhân dân; tội phá hoại cơ sở vật chất - kỹ thuật của nước Cộng hòa xã hội chủ nghĩa Việt Nam; tội làm, tàng trữ, phát tán hoặc tuyên truyền thông tin, tài liệu, vật phẩm nhằm chống Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; tội phá rối an ninh; tội chống phá cơ sở giam giữ; tội khủng bố hoặc một trong các tội quy định tại Chương các tội phá hoại hòa bình, chống loài người và tội phạm chiến tranh của Bộ luật Hình sự;",
                     "sub_clauses": []
@@ -425,7 +453,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Khiếu nại, tố cáo theo quy định tại Chương V của Luật này.",
+                    "text": "Khiếu nại, tố cáo theo quy định tại Chương V của Luật này. MỤC 3. TRÌNH TỰ, THỦ TỤC ĐỀ NGHỊ ĐẶC XÁ, THỰC HIỆN QUYẾT ĐỊNH ĐẶC XÁ",
                     "sub_clauses": []
                 }
             ]
@@ -446,7 +474,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tài liệu chứng minh đã chấp hành xong hình phạt bổ sung là phạt tiền, đã nộp án phí. Trường hợp được miễn chấp hành hình phạt tiền, miễn nộp án phí phải có quyết định của Tòa án có thẩm quyền.",
+                    "text": "Tài liệu chứng minh đã chấp hành xong hình phạt bổ sung là phạt tiền, đã nộp án phí. Trường hợp được miễn chấp hành hình phạt tiền, miễn nộp án phí phải có quyết định của Tòa án có thẩm quyền. Người bị kết án phạt tù về các tội phạm quy định tại điểm d khoản 1 Điều 11 của Luật này phải có tài liệu chứng minh đã thi hành xong nghĩa vụ trả lại tài sản, bồi thường thiệt hại, nghĩa vụ dân sự khác. Người thuộc trường hợp quy định tại điểm đ khoản 1 Điều 11 của Luật này phải có tài liệu chứng minh đã thi hành xong hoặc có tài liệu chứng minh đã thi hành được một phần nghĩa vụ trả lại tài sản, bồi thường thiệt hại hoặc nghĩa vụ dân sự khác và có quyết định của cơ quan thi hành án dân sự có thẩm quyền về việc chưa có điều kiện thi hành án. Trường hợp người được thi hành án đồng ý hoãn thi hành án hoặc không yêu cầu thi hành án đối với tài sản không thuộc sở hữu của Nhà nước thì phải có văn bản của người được thi hành án có xác nhận của cơ quan có thẩm quyền. Người thuộc trường hợp quy định tại điểm c khoản 3 Điều 11 của Luật này phải có kết luận của Hội đồng giám định y khoa, Bệnh viện cấp tỉnh hoặc cấp quân khu trở lên. Người thuộc trường hợp quy định tại điểm e khoản 3 Điều 11 của Luật này phải có xác nhận của Ủy ban nhân dân cấp xã nơi gia đình người đó cư trú. Người thuộc trường hợp quy định tại điểm h khoản 3 Điều 11 của Luật này phải có Giấy xác nhận khuyết tật của Ủy ban nhân dân cấp xã nơi người khuyết tật cư trú; quyết định của Tòa án có thẩm quyền tuyên bố có khó khăn trong nhận thức, làm chủ hành vi.",
                     "sub_clauses": []
                 },
                 {
@@ -456,7 +484,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Văn bản đề nghị đặc xá của Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng, Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh, Thủ trưởng cơ quan thi hành án hình sự cấp quân khu.",
+                    "text": "Văn bản đề nghị đặc xá của Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng, Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh, Thủ trưởng cơ quan thi hành án hình sự cấp quân khu. Trường hợp người được đề nghị đặc xá là người đang được tạm đình chỉ chấp hành án phạt tù thì phải có văn bản đề nghị đặc xá của Tòa án nhân dân cấp tỉnh, Tòa án quân sự cấp quân khu và văn bản nhận xét của Ủy ban nhân dân cấp xã, đơn vị quân đội được giao quản lý người đó về việc chấp hành nghiêm chỉnh pháp luật trong thời gian được tạm đình chỉ chấp hành án phạt tù.",
                     "sub_clauses": []
                 }
             ]
@@ -467,7 +495,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ngay sau khi Quyết định về đặc xá được công bố, thông báo trên phương tiện thông tin đại chúng, trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp huyện phải niêm yết, phổ biến cho người đang chấp hành án phạt tù biết.",
+                    "text": "Ngay sau khi Quyết định về đặc xá được công bố, thông báo trên phương tiện thông tin đại chúng, trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp huyện phải niêm yết, phổ biến cho người đang chấp hành án phạt tù biết. Trong thời hạn 05 ngày kể từ ngày Quyết định về đặc xá được niêm yết, phổ biến, người đang chấp hành án phạt tù có thời hạn, tù chung thân nhưng đã được giảm xuống tù có thời hạn căn cứ vào quy định tại Điều 11 và Điều 12 của Luật này làm đơn đề nghị đặc xá.",
                     "sub_clauses": []
                 },
                 {
@@ -498,7 +526,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn 15 ngày kể từ ngày Quyết định về đặc xá được công bố, thông báo trên phương tiện thông tin đại chúng, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu đã ra quyết định tạm đình chỉ chấp hành án phạt tù có trách nhiệm thông báo Quyết định về đặc xá cho người đang được tạm đình chỉ chấp hành án phạt tù, lập danh sách, hồ sơ của người đủ điều kiện được đề nghị đặc xá gửi Tổ thẩm định liên ngành.",
+                    "text": "Trong thời hạn 15 ngày kể từ ngày Quyết định về đặc xá được công bố, thông báo trên phương tiện thông tin đại chúng, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu đã ra quyết định tạm đình chỉ chấp hành án phạt tù có trách nhiệm thông báo Quyết định về đặc xá cho người đang được tạm đình chỉ chấp hành án phạt tù, lập danh sách, hồ sơ của người đủ điều kiện được đề nghị đặc xá gửi Tổ thẩm định liên ngành. Trường hợp người đang được tạm đình chỉ chấp hành án phạt tù cư trú ở địa phương ngoài phạm vi địa giới hành chính của Tòa án đã ra quyết định tạm đình chỉ thì Tòa án đã ra quyết định tạm đình chỉ thông báo cho Tòa án nhân dân cấp huyện, Tòa án quân sự khu vực nơi người đang được tạm đình chỉ cư trú lập danh sách, hồ sơ của người được đề nghị đặc xá, chuyển đến Tòa án đã ra quyết định tạm đình chỉ để tổng hợp, gửi Tổ thẩm định liên ngành.",
                     "sub_clauses": []
                 },
                 {
@@ -571,7 +599,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Văn phòng Chủ tịch nước chủ trì, phối hợp với các cơ quan có liên quan tổ chức công bố Quyết định đặc xá. Quyết định đặc xá được thông báo trên phương tiện thông tin đại chúng.",
+                    "text": "Văn phòng Chủ tịch nước chủ trì, phối hợp với các cơ quan có liên quan tổ chức công bố Quyết định đặc xá. Quyết định đặc xá được thông báo trên phương tiện thông tin đại chúng. Quyết định đặc xá và danh sách người được đặc xá được niêm yết tại trại giam, trại tạm giam, nhà tạm giữ nơi người được đặc xá đang chấp hành án và thông báo bằng văn bản đến Ủy ban nhân dân cấp xã, đơn vị quân đội nơi người đó về cư trú, làm việc; trường hợp người được đặc xá là người đang được tạm đình chỉ chấp hành án phạt tù thì thông báo bằng văn bản đến Ủy ban nhân dân cấp xã nơi người đó cư trú hoặc đơn vị quân đội được giao quản lý người đó.",
                     "sub_clauses": []
                 },
                 {
@@ -581,12 +609,12 @@
                 },
                 {
                     "number": "3",
-                    "text": "Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng; Giám thị trại giam thuộc quân khu cấp Giấy chứng nhận đặc xá cho người đang chấp hành án phạt tù tại trại giam, trại tạm giam được đặc xá.",
+                    "text": "Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Công an, Bộ Quốc phòng; Giám thị trại giam thuộc quân khu cấp Giấy chứng nhận đặc xá cho người đang chấp hành án phạt tù tại trại giam, trại tạm giam được đặc xá. Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh cấp Giấy chứng nhận đặc xá cho người đang chấp hành án phạt tù tại trại tạm giam Công an cấp tỉnh, nhà tạm giữ Công an cấp huyện được đặc xá. Thủ trưởng cơ quan thi hành án hình sự cấp quân khu cấp Giấy chứng nhận đặc xá cho người đang chấp hành án phạt tù tại trại tạm giam cấp quân khu được đặc xá. Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu cấp Giấy chứng nhận đặc xá cho người đang được tạm đình chỉ chấp hành án phạt tù được đặc xá.",
                     "sub_clauses": []
                 },
                 {
                     "number": "4",
-                    "text": "Người đã cấp Giấy chứng nhận đặc xá có trách nhiệm gửi bản sao giấy chứng nhận đó đến Trung tâm lý lịch tư pháp quốc gia, Tòa án đã ra quyết định thi hành án, cơ quan chịu trách nhiệm thi hành các hình phạt bổ sung, cơ quan thi hành án dân sự đã ra quyết định chưa có điều kiện thi hành án, cơ quan thi hành án hình sự Công an cấp huyện, Ủy ban nhân dân cấp xã, tổ chức, đơn vị quân đội nơi người được đặc xá về cư trú, làm việc, cơ quan nhận người bị trích xuất.",
+                    "text": "Người đã cấp Giấy chứng nhận đặc xá có trách nhiệm gửi bản sao giấy chứng nhận đó đến Trung tâm lý lịch tư pháp quốc gia, Tòa án đã ra quyết định thi hành án, cơ quan chịu trách nhiệm thi hành các hình phạt bổ sung, cơ quan thi hành án dân sự đã ra quyết định chưa có điều kiện thi hành án, cơ quan thi hành án hình sự Công an cấp huyện, Ủy ban nhân dân cấp xã, tổ chức, đơn vị quân đội nơi người được đặc xá về cư trú, làm việc, cơ quan nhận người bị trích xuất. Trường hợp không xác định được nơi người được đặc xá về cư trú thì cơ quan đã cấp Giấy chứng nhận đặc xá có trách nhiệm liên hệ với Ủy ban nhân dân cấp xã hoặc tổ chức, đơn vị quân đội để tiếp nhận người được đặc xá và gửi bản sao giấy chứng nhận đến Ủy ban nhân dân cấp xã nơi người đó sẽ về cư trú hoặc cơ quan, tổ chức, đơn vị quân đội nơi người đó về làm việc.",
                     "sub_clauses": []
                 }
             ]
@@ -665,7 +693,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ Công an, Bộ Quốc phòng, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và cơ quan, tổ chức có liên quan, trong phạm vi nhiệm vụ, quyền hạn của mình, hướng dẫn, phối hợp thực hiện việc lập danh sách, xét duyệt hồ sơ đề nghị đặc xá.",
+                    "text": "Bộ Công an, Bộ Quốc phòng, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao và cơ quan, tổ chức có liên quan, trong phạm vi nhiệm vụ, quyền hạn của mình, hướng dẫn, phối hợp thực hiện việc lập danh sách, xét duyệt hồ sơ đề nghị đặc xá. Chương III ĐẶC XÁ TRONG TRƯỜNG HỢP ĐẶC BIỆT",
                     "sub_clauses": []
                 }
             ]
@@ -673,7 +701,13 @@
         {
             "id": "Điều 22",
             "title": "Người được đặc xá trong trường hợp đặc biệt",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong trường hợp đặc biệt để đáp ứng yêu cầu về đối nội, đối ngoại của Nhà nước, Chủ tịch nước quyết định đặc xá cho người đang chấp hành án phạt tù có thời hạn, người đang được hoãn chấp hành án phạt tù, người đang được tạm đình chỉ chấp hành án phạt tù, người đang chấp hành án phạt tù chung thân mà không phụ thuộc vào các điều kiện quy định tại Điều 11 và Điều 12 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 23",
@@ -686,7 +720,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ Công an chịu trách nhiệm lập hồ sơ đề nghị đặc xá của người đang chấp hành án phạt tù có thời hạn, tù chung thân báo cáo Chính phủ để trình Chủ tịch nước xem xét, quyết định.",
+                    "text": "Bộ Công an chịu trách nhiệm lập hồ sơ đề nghị đặc xá của người đang chấp hành án phạt tù có thời hạn, tù chung thân báo cáo Chính phủ để trình Chủ tịch nước xem xét, quyết định. Tòa án nhân dân tối cao chịu trách nhiệm lập hồ sơ đề nghị đặc xá của người đang được hoãn chấp hành án phạt tù, người đang được tạm đình chỉ chấp hành án phạt tù gửi Chính phủ để trình Chủ tịch nước xem xét, quyết định.",
                     "sub_clauses": []
                 },
                 {
@@ -712,7 +746,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Người được đặc xá trong trường hợp đặc biệt có các quyền và nghĩa vụ quy định tại Điều 20 của Luật này.",
+                    "text": "Người được đặc xá trong trường hợp đặc biệt có các quyền và nghĩa vụ quy định tại Điều 20 của Luật này. Chương IV TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC TRONG VIỆC THỰC HIỆN ĐẶC XÁ",
                     "sub_clauses": []
                 }
             ]
@@ -783,7 +817,13 @@
         {
             "id": "Điều 28",
             "title": "Trách nhiệm của Bộ Quốc phòng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hướng dẫn, kiểm tra, đôn đốc Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Quốc phòng, Thủ trưởng cơ quan thi hành án hình sự cấp quân khu thực hiện việc lập danh sách, hồ sơ đề nghị đặc xá, tổ chức thực hiện Quyết định về đặc xá, Quyết định đặc xá theo quy định của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 29",
@@ -931,7 +971,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Thực hiện nhiệm vụ khác về đặc xá được Chủ tịch nước giao.",
+                    "text": "Thực hiện nhiệm vụ khác về đặc xá được Chủ tịch nước giao. Chương V KHIẾU NẠI, TỐ CÁO TRONG THỰC HIỆN ĐẶC XÁ",
                     "sub_clauses": []
                 }
             ]
@@ -963,12 +1003,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Quốc phòng, Thủ trưởng cơ quan quản lý trực tiếp trại tạm giam thuộc Bộ Công an, Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh, Thủ trưởng cơ quan thi hành án hình sự cấp quân khu, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu có trách nhiệm giải quyết khiếu nại trong thời hạn 05 ngày kể từ ngày nhận được khiếu nại.",
+                    "text": "Giám thị trại giam, Giám thị trại tạm giam thuộc Bộ Quốc phòng, Thủ trưởng cơ quan quản lý trực tiếp trại tạm giam thuộc Bộ Công an, Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh, Thủ trưởng cơ quan thi hành án hình sự cấp quân khu, Chánh án Tòa án nhân dân cấp tỉnh, Chánh án Tòa án quân sự cấp quân khu có trách nhiệm giải quyết khiếu nại trong thời hạn 05 ngày kể từ ngày nhận được khiếu nại. Quyết định giải quyết khiếu nại phải được gửi ngay cho người khiếu nại và Viện kiểm sát đã thực hiện kiểm sát việc lập hồ sơ, danh sách người đủ điều kiện được đề nghị đặc xá quy định tại Luật này.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp không đồng ý với quyết định giải quyết khiếu nại của người có thẩm quyền quy định tại khoản 1 Điều này thì trong thời hạn 05 ngày kể từ ngày nhận được Quyết định giải quyết khiếu nại, người khiếu nại có quyền tiếp tục khiếu nại đến Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Chánh án Tòa án nhân dân tối cao; Viện kiểm sát quy định tại khoản 1 Điều này có quyền kiến nghị đến Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Chánh án Tòa án nhân dân tối cao.",
+                    "text": "Trường hợp không đồng ý với quyết định giải quyết khiếu nại của người có thẩm quyền quy định tại khoản 1 Điều này thì trong thời hạn 05 ngày kể từ ngày nhận được Quyết định giải quyết khiếu nại, người khiếu nại có quyền tiếp tục khiếu nại đến Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Chánh án Tòa án nhân dân tối cao; Viện kiểm sát quy định tại khoản 1 Điều này có quyền kiến nghị đến Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Chánh án Tòa án nhân dân tối cao. Trong thời hạn 05 ngày kể từ ngày nhận được khiếu nại, kiến nghị, Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng, Chánh án Tòa án nhân dân tối cao có trách nhiệm giải quyết, nếu chấp nhận khiếu nại, kiến nghị thì đưa vào danh sách người đủ điều kiện được đề nghị đặc xá; nếu không chấp nhận thì đưa vào danh sách người không đủ điều kiện đề nghị đặc xá; đồng thời thông báo bằng văn bản cho người khiếu nại, Viện kiểm sát kiến nghị.",
                     "sub_clauses": []
                 }
             ]
@@ -976,7 +1016,13 @@
         {
             "id": "Điều 38",
             "title": "Tố cáo hành vi vi phạm pháp luật trong thực hiện đặc xá",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cá nhân có quyền tố cáo hành vi vi phạm pháp luật trong thực hiện đặc xá. Việc tố cáo và giải quyết tố cáo trong thực hiện đặc xá được thực hiện theo quy định của pháp luật về tố cáo. Chương VI ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 39",
@@ -989,11 +1035,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Luật Đặc xá số 07/2007/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.",
+                    "text": "Luật Đặc xá số 07/2007/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua ngày 19 tháng 11 năm 2018. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua ngày 19 tháng 11 năm 2018.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

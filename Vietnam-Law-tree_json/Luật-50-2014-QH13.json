@@ -15,17 +15,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức, cá nhân và quản lý nhà nước trong hoạt động đầu tư xây dựng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân trong nước; tổ chức, cá nhân nước ngoài hoạt động đầu tư xây dựng trên lãnh thổ Việt Nam. Trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Báo cáo nghiên cứu tiền khả thi đầu tư xây dựng là tài liệu trình bày các nội dung nghiên cứu sơ bộ về sự cần thiết, tính khả thi và hiệu quả của việc đầu tư xây dựng, làm cơ sở xem xét, quyết định chủ trương đầu tư xây dựng.",
@@ -315,7 +332,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cấp công trình được xác định theo từng loại công trình căn cứ vào quy mô, mục đích, tầm quan trọng, thời hạn sử dụng, vật liệu sử dụng và yêu cầu kỹ thuật xây dựng công trình.",
+                    "text": "Cấp công trình được xác định theo từng loại công trình căn cứ vào quy mô, mục đích, tầm quan trọng, thời hạn sử dụng, vật liệu sử dụng và yêu cầu kỹ thuật xây dựng công trình. Cấp công trình gồm cấp đặc biệt, cấp I, cấp II, cấp III, cấp IV và các cấp khác theo quy định của Chính phủ.",
                     "sub_clauses": []
                 }
             ]
@@ -428,7 +445,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Dự án đầu tư xây dựng kết cấu hạ tầng sử dụng vốn nhà nước, vốn đóng góp của cộng đồng và vốn tài trợ của tổ chức, cá nhân trong nước phải thực hiện giám sát của cộng đồng.",
+                    "text": "Dự án đầu tư xây dựng kết cấu hạ tầng sử dụng vốn nhà nước, vốn đóng góp của cộng đồng và vốn tài trợ của tổ chức, cá nhân trong nước phải thực hiện giám sát của cộng đồng. Trong phạm vi nhiệm vụ, quyền hạn của mình, Mặt trận Tổ quốc Việt Nam tại khu vực xây dựng tổ chức thực hiện giám sát của cộng đồng.",
                     "sub_clauses": []
                 },
                 {
@@ -606,7 +623,7 @@
                 },
                 {
                     "number": "14",
-                    "text": "Cản trở hoạt động đầu tư xây dựng đúng pháp luật.",
+                    "text": "Cản trở hoạt động đầu tư xây dựng đúng pháp luật. CHƯƠNG II QUY HOẠCH XÂY DỰNG Mục 1 QUY ĐỊNH CHUNG",
                     "sub_clauses": []
                 }
             ]
@@ -735,7 +752,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ quan, chủ đầu tư tổ chức lập quy hoạch xây dựng có trách nhiệm lấy ý kiến cơ quan, tổ chức, cá nhân và cộng đồng dân cư có liên quan về nhiệm vụ và đồ án quy hoạch xây dựng.",
+                    "text": "Cơ quan, chủ đầu tư tổ chức lập quy hoạch xây dựng có trách nhiệm lấy ý kiến cơ quan, tổ chức, cá nhân và cộng đồng dân cư có liên quan về nhiệm vụ và đồ án quy hoạch xây dựng. Ủy ban nhân dân có liên quan có trách nhiệm phối hợp với cơ quan tổ chức lập quy hoạch xây dựng, chủ đầu tư dự án đầu tư xây dựng trong việc lấy ý kiến.",
                     "sub_clauses": []
                 },
                 {
@@ -828,6 +845,11 @@
             "title": "Trình tự lập, phê duyệt quy hoạch xây dựng",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Quy hoạch xây dựng được thể hiện thông qua đồ án quy hoạch xây dựng và được thực hiện theo trình tự sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Lập, phê duyệt nhiệm vụ quy hoạch xây dựng;",
                     "sub_clauses": []
@@ -860,7 +882,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan quản lý nhà nước về quy hoạch xây dựng, cơ quan quản lý đất đai các cấp có trách nhiệm lưu giữ hồ sơ quy hoạch xây dựng và cung cấp tài liệu lưu giữ này cho cá nhân, tổ chức, cơ quan nhà nước có thẩm quyền theo quy định của pháp luật.",
+                    "text": "Cơ quan quản lý nhà nước về quy hoạch xây dựng, cơ quan quản lý đất đai các cấp có trách nhiệm lưu giữ hồ sơ quy hoạch xây dựng và cung cấp tài liệu lưu giữ này cho cá nhân, tổ chức, cơ quan nhà nước có thẩm quyền theo quy định của pháp luật. Mục 2 QUY HOẠCH XÂY DỰNG VÙNG",
                     "sub_clauses": []
                 }
             ]
@@ -986,7 +1008,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Mục 3 QUY HOẠCH XÂY DỰNG KHU CHỨC NĂNG ĐẶC THÙ",
                     "sub_clauses": []
                 }
             ]
@@ -1195,7 +1217,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đồ án quy hoạch chi tiết xây dựng trong khu chức năng đặc thù gồm:",
+                    "text": "Đồ án quy hoạch chi tiết xây dựng trong khu chức năng đặc thù gồm: Mục 4 QUY HOẠCH XÂY DỰNG NÔNG THÔN",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1291,7 +1313,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đồ án quy hoạch chi tiết xây dựng điểm dân cư nông thôn gồm:",
+                    "text": "Đồ án quy hoạch chi tiết xây dựng điểm dân cư nông thôn gồm: Mục 5 THẨM ĐỊNH, PHÊ DUYỆT QUY HOẠCH XÂY DỰNG",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1443,7 +1465,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Hình thức, nội dung phê duyệt nhiệm vụ và đồ án quy hoạch xây dựng gồm:",
+                    "text": "Hình thức, nội dung phê duyệt nhiệm vụ và đồ án quy hoạch xây dựng gồm: Mục 6 ĐIỀU CHỈNH QUY HOẠCH XÂY DỰNG",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1616,7 +1638,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ quan tổ chức lập quy hoạch xây dựng có trách nhiệm cập nhật và thể hiện trong hồ sơ quy hoạch xây dựng những nội dung điều chỉnh. Nội dung điều chỉnh quy hoạch xây dựng phải được công bố công khai theo quy định tại Điều 42 của Luật này.",
+                    "text": "Cơ quan tổ chức lập quy hoạch xây dựng có trách nhiệm cập nhật và thể hiện trong hồ sơ quy hoạch xây dựng những nội dung điều chỉnh. Nội dung điều chỉnh quy hoạch xây dựng phải được công bố công khai theo quy định tại Điều 42 của Luật này. Mục 7 TỔ CHỨC THỰC HIỆN QUY HOẠCH XÂY DỰNG",
                     "sub_clauses": []
                 }
             ]
@@ -1753,7 +1775,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan quản lý quy hoạch xây dựng có trách nhiệm cung cấp thông tin về địa điểm xây dựng, chỉ giới xây dựng, chỉ giới đường đỏ, cốt xây dựng và thông tin khác liên quan đến quy hoạch khi tổ chức, cá nhân có yêu cầu trong phạm vi đồ án quy hoạch xây dựng do mình quản lý.",
+                    "text": "Cơ quan quản lý quy hoạch xây dựng có trách nhiệm cung cấp thông tin về địa điểm xây dựng, chỉ giới xây dựng, chỉ giới đường đỏ, cốt xây dựng và thông tin khác liên quan đến quy hoạch khi tổ chức, cá nhân có yêu cầu trong phạm vi đồ án quy hoạch xây dựng do mình quản lý. Ủy ban nhân dân các cấp có trách nhiệm tổ chức việc tiếp nhận, xử lý và cung cấp các thông tin khi có yêu cầu. Chậm nhất là 15 ngày kể từ ngày có yêu cầu, cơ quan quản lý quy hoạch xây dựng có trách nhiệm cung cấp thông tin bằng văn bản cho cơ quan, tổ chức, cá nhân có yêu cầu.",
                     "sub_clauses": []
                 },
                 {
@@ -1841,7 +1863,7 @@
                 },
                 {
                     "number": "10",
-                    "text": "Người nào có hành vi cắm mốc chỉ giới, cốt xây dựng sai vị trí, di dời, phá hoại mốc chỉ giới, cốt xây dựng thì tuỳ theo tính chất, mức độ vi phạm, bị xử lý kỷ luật, xử phạt vi phạm hành chính, truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường thiệt hại theo quy định của pháp luật.",
+                    "text": "Người nào có hành vi cắm mốc chỉ giới, cốt xây dựng sai vị trí, di dời, phá hoại mốc chỉ giới, cốt xây dựng thì tuỳ theo tính chất, mức độ vi phạm, bị xử lý kỷ luật, xử phạt vi phạm hành chính, truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường thiệt hại theo quy định của pháp luật. Mục 8 QUẢN LÝ XÂY DỰNG THEO QUY HOẠCH XÂY DỰNG",
                     "sub_clauses": []
                 }
             ]
@@ -1956,7 +1978,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Kế hoạch thực hiện quy hoạch xây dựng phải xác định thời gian thực hiện quy hoạch đối với từng khu vực cụ thể trên cơ sở phù hợp với mục tiêu quy hoạch xây dựng và nguồn lực thực hiện quy hoạch xây dựng.",
+                    "text": "Kế hoạch thực hiện quy hoạch xây dựng phải xác định thời gian thực hiện quy hoạch đối với từng khu vực cụ thể trên cơ sở phù hợp với mục tiêu quy hoạch xây dựng và nguồn lực thực hiện quy hoạch xây dựng. CHƯƠNG III DỰ ÁN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH Mục 1 QUY ĐỊNH CHUNG",
                     "sub_clauses": []
                 }
             ]
@@ -2008,6 +2030,11 @@
             "title": "Yêu cầu đối với dự án đầu tư xây dựng",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Dự án đầu tư xây dựng không phân biệt các loại nguồn vốn sử dụng phải đáp ứng các yêu cầu sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Phù hợp với quy hoạch tổng thể phát triển kinh tế - xã hội, quy hoạch phát triển ngành, quy hoạch xây dựng, quy hoạch và kế hoạch sử dụng đất tại địa phương nơi có dự án đầu tư xây dựng.",
                     "sub_clauses": []
@@ -2029,7 +2056,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Tuân thủ quy định khác của pháp luật có liên quan.",
+                    "text": "Tuân thủ quy định khác của pháp luật có liên quan. Mục 2 LẬP, THẨM ĐỊNH DỰ ÁN VÀ QUYẾT ĐỊNH ĐẦU TƯ XÂY DỰNG",
                     "sub_clauses": []
                 }
             ]
@@ -2401,6 +2428,11 @@
             "title": "Thời gian thẩm định dự án đầu tư xây dựng",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Thời gian thẩm định dự án được tính từ ngày cơ quan, tổ chức thẩm định nhận đủ hồ sơ hợp lệ, cụ thể như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Thời gian thẩm định dự án không quá 90 ngày đối với dự án quan trọng quốc gia;",
                     "sub_clauses": []
@@ -2505,7 +2537,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chính phủ quy định chi tiết về lập, thẩm định, phê duyệt, điều chỉnh dự án đầu tư xây dựng.",
+                    "text": "Chính phủ quy định chi tiết về lập, thẩm định, phê duyệt, điều chỉnh dự án đầu tư xây dựng. Mục 3 QUẢN LÝ THỰC HIỆN DỰ ÁN ĐẦU TƯ XÂY DỰNG",
                     "sub_clauses": []
                 }
             ]
@@ -2514,6 +2546,11 @@
             "id": "Điều 62",
             "title": "Hình thức tổ chức quản lý dự án đầu tư xây dựng",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Căn cứ quy mô, tính chất, nguồn vốn sử dụng và điều kiện thực hiện dự án, người quyết định đầu tư quyết định áp dụng một trong các hình thức tổ chức quản lý dự án sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Ban quản lý dự án đầu tư xây dựng chuyên ngành, Ban quản lý dự án đầu tư xây dựng khu vực áp dụng đối với dự án sử dụng vốn ngân sách nhà nước, dự án theo chuyên ngành sử dụng vốn nhà nước ngoài ngân sách của tập đoàn kinh tế, tổng công ty nhà nước.",
@@ -2650,7 +2687,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Khuyến khích chủ đầu tư, nhà thầu xây dựng đề xuất và áp dụng các giải pháp kỹ thuật, công nghệ và tổ chức quản lý hợp lý để rút ngắn thời gian xây dựng công trình.",
+                    "text": "Khuyến khích chủ đầu tư, nhà thầu xây dựng đề xuất và áp dụng các giải pháp kỹ thuật, công nghệ và tổ chức quản lý hợp lý để rút ngắn thời gian xây dựng công trình. Mục 4 QUYỀN VÀ NGHĨA VỤ CỦA CHỦ ĐẦU TƯ, BAN QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG, NHÀ THẦU TƯ VẤN VÀ NGƯỜI QUYẾT ĐỊNH ĐẦU TƯ",
                     "sub_clauses": []
                 }
             ]
@@ -2903,7 +2940,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người quyết định đầu tư xây dựng có các trách nhiệm sau:",
+                    "text": "Người quyết định đầu tư xây dựng có các trách nhiệm sau: CHƯƠNG IV KHẢO SÁT XÂY DỰNG VÀ THIẾT KẾ XÂY DỰNG Mục 1 KHẢO SÁT XÂY DỰNG",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3114,7 +3151,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Nhà thầu khảo sát xây dựng có các nghĩa vụ sau:",
+                    "text": "Nhà thầu khảo sát xây dựng có các nghĩa vụ sau: Mục 2 THIẾT KẾ XÂY DỰNG",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3670,7 +3707,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết về lưu trữ hồ sơ công trình xây dựng.",
+                    "text": "Chính phủ quy định chi tiết về lưu trữ hồ sơ công trình xây dựng. CHƯƠNG V GIẤY PHÉP XÂY DỰNG",
                     "sub_clauses": []
                 }
             ]
@@ -3759,7 +3796,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Đối với dự án đầu tư xây dựng gồm nhiều công trình, giấy phép xây dựng được cấp cho một, một số hoặc tất cả các công trình thuộc dự án khi phần hạ tầng kỹ thuật thuộc khu vực xây dựng công trình đã được triển khai theo quy hoạch xây dựng được cơ quan nhà nước có thẩm quyền phê duyệt.",
+                    "text": "Đối với dự án đầu tư xây dựng gồm nhiều công trình, giấy phép xây dựng được cấp cho một, một số hoặc tất cả các công trình thuộc dự án khi phần hạ tầng kỹ thuật thuộc khu vực xây dựng công trình đã được triển khai theo quy hoạch xây dựng được cơ quan nhà nước có thẩm quyền phê duyệt. Điều 90. Nội dung chủ yếu của giấy phép xây dựng",
                     "sub_clauses": []
                 },
                 {
@@ -3809,7 +3846,7 @@
                 },
                 {
                     "number": "10",
-                    "text": "Thời hạn khởi công công trình không quá 12 tháng kể từ ngày được cấp giấy phép xây dựng.",
+                    "text": "Thời hạn khởi công công trình không quá 12 tháng kể từ ngày được cấp giấy phép xây dựng. Điều 91. Điều kiện cấp giấy phép xây dựng đối với công trình trong đô thị",
                     "sub_clauses": []
                 },
                 {
@@ -3834,7 +3871,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Hồ sơ đề nghị cấp giấy phép xây dựng phù hợp với từng loại giấy phép theo quy định tại các điều 95, 96 và 97 của Luật này.",
+                    "text": "Hồ sơ đề nghị cấp giấy phép xây dựng phù hợp với từng loại giấy phép theo quy định tại các điều 95, 96 và 97 của Luật này. Điều 92. Điều kiện cấp giấy phép xây dựng đối với công trình không theo tuyến ngoài đô thị",
                     "sub_clauses": []
                 },
                 {
@@ -3844,7 +3881,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đáp ứng điều kiện quy định tại các khoản 3, 4 và 5 Điều 91 của Luật này.",
+                    "text": "Đáp ứng điều kiện quy định tại các khoản 3, 4 và 5 Điều 91 của Luật này. Điều 93. Điều kiện cấp giấy phép xây dựng đối với nhà ở riêng lẻ",
                     "sub_clauses": []
                 },
                 {
@@ -4181,7 +4218,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Đối với công trình, nhà ở riêng lẻ được cấp giấy phép xây dựng có thời hạn đã hết thời hạn tồn tại ghi trong giấy phép, nhưng quy hoạch chưa được thực hiện thì chủ sở hữu công trình hoặc người được giao sử dụng công trình đề nghị cơ quan cấp giấy phép xây dựng xem xét gia hạn thời gian tồn tại cho đến khi quy hoạch được triển khai thực hiện. Thời hạn tồn tại công trình được ghi ngay vào giấy phép xây dựng có thời hạn đã được cấp.",
+                    "text": "Đối với công trình, nhà ở riêng lẻ được cấp giấy phép xây dựng có thời hạn đã hết thời hạn tồn tại ghi trong giấy phép, nhưng quy hoạch chưa được thực hiện thì chủ sở hữu công trình hoặc người được giao sử dụng công trình đề nghị cơ quan cấp giấy phép xây dựng xem xét gia hạn thời gian tồn tại cho đến khi quy hoạch được triển khai thực hiện. Thời hạn tồn tại công trình được ghi ngay vào giấy phép xây dựng có thời hạn đã được cấp. Điều 100. Cấp lại giấy phép xây dựng",
                     "sub_clauses": []
                 },
                 {
@@ -4411,7 +4448,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức, cá nhân đề nghị cấp giấy phép xây dựng có các nghĩa vụ sau:",
+                    "text": "Tổ chức, cá nhân đề nghị cấp giấy phép xây dựng có các nghĩa vụ sau: CHƯƠNG VI XÂY DỰNG CÔNG TRÌNH Mục 1 CHUẨN BỊ XÂY DỰNG CÔNG TRÌNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4576,7 +4613,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Ưu tiên sử dụng vật liệu tại chỗ, vật liệu trong nước. Đối với dự án sử dụng vốn nhà nước, việc sử dụng vật liệu nhập khẩu phải được quy định trong nội dung hồ sơ mời thầu, hồ sơ yêu cầu phù hợp với thiết kế xây dựng và chỉ dẫn kỹ thuật (nếu có) do người quyết định đầu tư quyết định.",
+                    "text": "Ưu tiên sử dụng vật liệu tại chỗ, vật liệu trong nước. Đối với dự án sử dụng vốn nhà nước, việc sử dụng vật liệu nhập khẩu phải được quy định trong nội dung hồ sơ mời thầu, hồ sơ yêu cầu phù hợp với thiết kế xây dựng và chỉ dẫn kỹ thuật (nếu có) do người quyết định đầu tư quyết định. Mục 2 THI CÔNG XÂY DỰNG CÔNG TRÌNH",
                     "sub_clauses": []
                 }
             ]
@@ -4881,6 +4918,11 @@
             "title": "Bảo vệ môi trường trong thi công xây dựng công trình",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong quá trình thi công xây dựng công trình, nhà thầu thi công xây dựng có trách nhiệm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Lập và thực hiện các biện pháp bảo vệ môi trường trong quá trình thi công xây dựng bao gồm môi trường không khí, môi trường nước, chất thải rắn, tiếng ồn và yêu cầu khác theo quy định của pháp luật về bảo vệ môi trường.",
                     "sub_clauses": []
@@ -5024,7 +5066,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Tổ chức, cá nhân gây ra sự cố công trình có trách nhiệm bồi thường thiệt hại và chịu chi phí có liên quan, bị xử lý vi phạm hành chính; cá nhân bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.",
+                    "text": "Tổ chức, cá nhân gây ra sự cố công trình có trách nhiệm bồi thường thiệt hại và chịu chi phí có liên quan, bị xử lý vi phạm hành chính; cá nhân bị truy cứu trách nhiệm hình sự theo quy định của pháp luật. Mục 3 GIÁM SÁT THI CÔNG XÂY DỰNG, NGHIỆM THU, BÀN GIAO CÔNG TRÌNH XÂY DỰNG",
                     "sub_clauses": []
                 }
             ]
@@ -5035,7 +5077,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Công trình xây dựng phải được giám sát về chất lượng, khối lượng, tiến độ, an toàn lao động và bảo vệ môi trường trong quá trình thi công.",
+                    "text": "Công trình xây dựng phải được giám sát về chất lượng, khối lượng, tiến độ, an toàn lao động và bảo vệ môi trường trong quá trình thi công. Nhà nước khuyến khích việc giám sát thi công xây dựng nhà ở riêng lẻ.",
                     "sub_clauses": []
                 },
                 {
@@ -5278,7 +5320,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trường hợp chưa bàn giao được công trình cho chủ quản lý sử dụng thì chủ đầu tư có trách nhiệm tạm thời quản lý, vận hành công trình xây dựng.",
+                    "text": "Trường hợp chưa bàn giao được công trình cho chủ quản lý sử dụng thì chủ đầu tư có trách nhiệm tạm thời quản lý, vận hành công trình xây dựng. Mục 4 BẢO HÀNH, BẢO TRÌ CÔNG TRÌNH XÂY DỰNG",
                     "sub_clauses": []
                 }
             ]
@@ -5364,7 +5406,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc khai thác sử dụng công trình xây dựng chỉ được tiếp tục khi đã được khắc phục sự cố hoặc được loại bỏ các nguy cơ gây mất an toàn. Trường hợp công trình hết thời hạn sử dụng, nếu có yêu cầu tiếp tục sử dụng thì chủ sở hữu hoặc chủ sử dụng phải thực hiện kiểm định chất lượng, gia cố, cải tạo, sửa chữa hư hỏng (nếu có) bảo đảm an toàn, công năng sử dụng của công trình.",
+                    "text": "Việc khai thác sử dụng công trình xây dựng chỉ được tiếp tục khi đã được khắc phục sự cố hoặc được loại bỏ các nguy cơ gây mất an toàn. Trường hợp công trình hết thời hạn sử dụng, nếu có yêu cầu tiếp tục sử dụng thì chủ sở hữu hoặc chủ sử dụng phải thực hiện kiểm định chất lượng, gia cố, cải tạo, sửa chữa hư hỏng (nếu có) bảo đảm an toàn, công năng sử dụng của công trình. Mục 5 XÂY DỰNG CÔNG TRÌNH ĐẶC THÙ",
                     "sub_clauses": []
                 }
             ]
@@ -5451,7 +5493,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Công trình xây dựng tạm phải được dỡ bỏ khi đưa công trình chính của dự án vào khai thác sử dụng, trừ trường hợp công trình xây dựng tạm phù hợp với quy hoạch xây dựng được duyệt.",
+                    "text": "Công trình xây dựng tạm phải được dỡ bỏ khi đưa công trình chính của dự án vào khai thác sử dụng, trừ trường hợp công trình xây dựng tạm phù hợp với quy hoạch xây dựng được duyệt. CHƯƠNG VII CHI PHÍ ĐẦU TƯ XÂY DỰNG VÀ HỢP ĐỒNG XÂY DỰNG Mục 1 QUẢN LÝ CHI PHÍ ĐẦU TƯ XÂY DỰNG",
                     "sub_clauses": []
                 }
             ]
@@ -5599,7 +5641,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chỉ số giá xây dựng là chỉ tiêu phản ánh mức độ biến động của giá xây dựng công trình theo thời gian và làm cơ sở cho việc xác định, điều chỉnh tổng mức đầu tư, dự toán xây dựng công trình, giá hợp đồng xây dựng và quản lý chi phí đầu tư xây dựng công trình.",
+                    "text": "Chỉ số giá xây dựng là chỉ tiêu phản ánh mức độ biến động của giá xây dựng công trình theo thời gian và làm cơ sở cho việc xác định, điều chỉnh tổng mức đầu tư, dự toán xây dựng công trình, giá hợp đồng xây dựng và quản lý chi phí đầu tư xây dựng công trình. Bộ Xây dựng công bố chỉ số giá xây dựng quốc gia, Ủy ban nhân dân cấp tỉnh công bố chỉ số giá xây dựng tại địa phương.",
                     "sub_clauses": []
                 }
             ]
@@ -5620,7 +5662,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thanh toán, quyết toán hợp đồng xây dựng thực hiện theo quy định tại Điều 144 và Điều 147 của Luật này.",
+                    "text": "Thanh toán, quyết toán hợp đồng xây dựng thực hiện theo quy định tại Điều 144 và Điều 147 của Luật này. Mục 2 HỢP ĐỒNG XÂY DỰNG",
                     "sub_clauses": []
                 }
             ]
@@ -6200,7 +6242,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Thời hạn thanh lý hợp đồng xây dựng do các bên hợp đồng thỏa thuận. Đối với hợp đồng xây dựng sử dụng vốn nhà nước, thời hạn thanh lý hợp đồng là 45 ngày kể từ ngày các bên hợp đồng hoàn thành các nghĩa vụ theo hợp đồng hoặc hợp đồng bị chấm dứt theo quy định tại khoản 2 Điều 145 của Luật này. Đối với hợp đồng xây dựng có quy mô lớn, việc thanh lý hợp đồng có thể được kéo dài nhưng không quá 90 ngày.",
+                    "text": "Thời hạn thanh lý hợp đồng xây dựng do các bên hợp đồng thỏa thuận. Đối với hợp đồng xây dựng sử dụng vốn nhà nước, thời hạn thanh lý hợp đồng là 45 ngày kể từ ngày các bên hợp đồng hoàn thành các nghĩa vụ theo hợp đồng hoặc hợp đồng bị chấm dứt theo quy định tại khoản 2 Điều 145 của Luật này. Đối với hợp đồng xây dựng có quy mô lớn, việc thanh lý hợp đồng có thể được kéo dài nhưng không quá 90 ngày. CHƯƠNG VIII ĐIỀU KIỆN NĂNG LỰC HOẠT ĐỘNG XÂY DỰNG",
                     "sub_clauses": []
                 }
             ]
@@ -6453,6 +6495,11 @@
             "title": "Điều kiện của cá nhân hành nghề độc lập",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Cá nhân hành nghề độc lập thiết kế quy hoạch xây dựng, khảo sát xây dựng, thiết kế xây dựng công trình, giám sát khảo sát xây dựng, giám sát thi công xây dựng công trình, định giá xây dựng phải đáp ứng các điều kiện sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Có đăng ký hoạt động các lĩnh vực phù hợp với nội dung hành nghề;",
                     "sub_clauses": []
@@ -6485,7 +6532,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chủ đầu tư có trách nhiệm kiểm tra, đánh giá việc kê khai năng lực hoạt động xây dựng, năng lực hành nghề xây dựng của nhà thầu dự thầu phù hợp với yêu cầu của gói thầu và thông tin về năng lực hoạt động xây dựng đã được đăng ký theo quy định tại Điều này.",
+                    "text": "Chủ đầu tư có trách nhiệm kiểm tra, đánh giá việc kê khai năng lực hoạt động xây dựng, năng lực hành nghề xây dựng của nhà thầu dự thầu phù hợp với yêu cầu của gói thầu và thông tin về năng lực hoạt động xây dựng đã được đăng ký theo quy định tại Điều này. CHƯƠNG IX TRÁCH NHIỆM QUẢN LÝ HOẠT ĐỘNG ĐẦU TƯ XÂY DỰNG CỦA CÁC CƠ QUAN NHÀ NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -6576,6 +6623,11 @@
             "id": "Điều 162",
             "title": "Trách nhiệm của Bộ Xây dựng",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Xây dựng chịu trách nhiệm trước Chính phủ thực hiện thống nhất quản lý nhà nước trong hoạt động đầu tư xây dựng và có trách nhiệm sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Chủ trì xây dựng, trình Chính phủ, Thủ tướng Chính phủ văn bản quy phạm pháp luật, chiến lược, đề án, quy hoạch, kế hoạch phát triển thị trường xây dựng và năng lực ngành xây dựng.",
@@ -6786,7 +6838,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết về thanh tra xây dựng.",
+                    "text": "Chính phủ quy định chi tiết về thanh tra xây dựng. CHƯƠNG X ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -6836,8 +6888,18 @@
         {
             "id": "Điều 168",
             "title": "Quy định chi tiết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 7 thông qua ngày 18 tháng 6 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 7 thông qua ngày 18 tháng 6 năm 2014.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

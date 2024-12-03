@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Mặt trận Tổ quốc Việt Nam",
+        "text": "Kế thừa vai trò lịch sử của Mặt trận Dân tộc thống nhất Việt Nam do Đảng Cộng sản Việt Nam và Chủ tịch Hồ Chí Minh sáng lập, lãnh đạo, Mặt trận Tổ quốc Việt Nam là tổ chức liên minh chính trị, liên hiệp tự nguyện của tổ chức chính trị, các tổ chức chính trị - xã hội, tổ chức xã hội và các cá nhân tiêu biểu trong các giai cấp, tầng lớp xã hội, dân tộc, tôn giáo, người Việt Nam định cư ở nước ngoài. Mặt trận Tổ quốc Việt Nam là cơ sở chính trị của chính quyền nhân dân; đại diện, bảo vệ quyền và lợi ích hợp pháp, chính đáng của Nhân dân; tập hợp, phát huy sức mạnh đại đoàn kết toàn dân tộc, thực hiện dân chủ, tăng cường đồng thuận xã hội; giám sát, phản biện xã hội; tham gia xây dựng Đảng, Nhà nước, hoạt động đối ngoại nhân dân góp phần xây dựng và bảo vệ Tổ quốc."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quyền, trách nhiệm, tổ chức, hoạt động của Mặt trận Tổ quốc Việt Nam; quan hệ giữa Mặt trận Tổ quốc Việt Nam với Nhà nước, Nhân dân và các tổ chức; điều kiện bảo đảm hoạt động của Mặt trận Tổ quốc Việt Nam."
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -203,6 +217,27 @@
         "text": "Quan hệ giữa Ủy ban Mặt trận Tổ quốc Việt Nam với tổ chức kinh tế, tổ chức sự nghiệp, tổ chức không phải là thành viên của Mặt trận Tổ quốc Việt Nam là quan hệ tự nguyện, được thực hiện theo quy định của pháp luật nhằm mục tiêu phát triển kinh tế - xã hội, bảo vệ quyền và lợi ích hợp pháp, chính đáng của Nhân dân, xây dựng và bảo vệ Tổ quốc."
     },
     {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Hoạt động đối ngoại nhân dân",
+        "text": "Mặt trận Tổ quốc Việt Nam thực hiện và mở rộng hoạt động đối ngoại nhân dân, góp phần tăng cường tình hữu nghị, đoàn kết với các quốc gia, dân tộc, vì hoà bình, hợp tác và phát triển."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Ngày truyền thống và Ngày hội đại đoàn kết toàn dân tộc",
+        "text": "Ngày 18 tháng 11 hằng năm là Ngày truyền thống của Mặt trận Tổ quốc Việt Nam và là Ngày hội đại đoàn kết toàn dân tộc. CHƯƠNG II TẬP HỢP, XÂY DỰNG KHỐI ĐẠI ĐOÀN KẾT TOÀN DÂN TỘC"
+    },
+    {
+        "id": "Điều 12.0",
+        "article": "Điều 12",
+        "clause": "0",
+        "title": "Nguyên tắc tập hợp, xây dựng khối đại đoàn kết toàn dân tộc",
+        "text": "Mặt trận Tổ quốc Việt Nam phát triển đa dạng các hình thức tổ chức, hoạt động để tập hợp, đoàn kết mọi người Việt Nam ở trong nước và ở nước ngoài, không phân biệt thành phần giai cấp, tầng lớp xã hội, dân tộc, tín ngưỡng, tôn giáo, quá khứ nhằm động viên mọi nguồn lực góp phần xây dựng và bảo vệ Tổ quốc."
+    },
+    {
         "id": "Điều 13.1",
         "article": "Điều 13",
         "clause": "1",
@@ -364,6 +399,13 @@
         "text": "Ủy ban thường vụ Quốc hội, Chính phủ phối hợp với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam ban hành nghị quyết liên tịch quy định chi tiết việc tổ chức tiếp xúc cử tri của đại biểu Quốc hội, đại biểu Hội đồng nhân dân."
     },
     {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Tuyên truyền, vận động Nhân dân thực hiện quyền làm chủ, thực hiện chính sách, pháp luật",
+        "text": "Mặt trận Tổ quốc Việt Nam tuyên truyền, vận động Nhân dân thực hiện quyền làm chủ, thực hiện chính sách, pháp luật với các nội dung sau đây:"
+    },
+    {
         "id": "Điều 17.1",
         "article": "Điều 17",
         "clause": "1",
@@ -404,6 +446,13 @@
         "clause": "2",
         "title": "Tiếp công dân, tham gia công tác giải quyết khiếu nại, tố cáo, đặc xá, cử bào chữa viên nhân dân",
         "text": "Ủy ban Mặt trận Tổ quốc Việt Nam từ cấp huyện trở lên có quyền cử bào chữa viên nhân dân để bào chữa cho người bị buộc tội là thành viên của tổ chức mình. CHƯƠNG IV THAM GIA XÂY DỰNG NHÀ NƯỚC"
+    },
+    {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Tham gia công tác bầu cử",
+        "text": "Mặt trận Tổ quốc Việt Nam theo quy định của pháp luật tổ chức hiệp thương, lựa chọn, giới thiệu người ứng cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân; tham gia các tổ chức phụ trách bầu cử; phối hợp với cơ quan nhà nước hữu quan tổ chức hội nghị cử tri ở cấp xã, các cuộc tiếp xúc giữa cử tri với người ứng cử; tham gia tuyên truyền, vận động cử tri thực hiện pháp luật về bầu cử."
     },
     {
         "id": "Điều 20.1",
@@ -922,5 +971,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Luật Mặt trận Tổ quốc Việt Nam số 14/1999/QH10 hết hiệu lực thi hành từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 41.0",
+        "article": "Điều 41",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Ủy ban thường vụ Quốc hội, Chính phủ phối hợp với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam quy định chi tiết các điều, khoản được giao trong Luật. --------------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 09 tháng 6 năm 2015. CHỦ TỊCH CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Sinh Hùng"
     }
 ]

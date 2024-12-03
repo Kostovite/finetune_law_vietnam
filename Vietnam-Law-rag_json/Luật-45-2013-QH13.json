@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và nghĩa vụ của người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -19,6 +26,13 @@
         "clause": "3",
         "title": "Đối tượng áp dụng",
         "text": "Các đối tượng khác có liên quan đến việc quản lý, sử dụng đất."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -231,6 +245,20 @@
         "text": "Hộ gia đình, cá nhân trực tiếp sản xuất nông nghiệp là hộ gia đình, cá nhân đã được Nhà nước giao, cho thuê, công nhận quyền sử dụng đất nông nghiệp; nhận chuyển quyền sử dụng đất nông nghiệp và có nguồn thu nhập ổn định từ sản xuất nông nghiệp trên đất đó."
     },
     {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Sở hữu đất đai",
+        "text": "Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý. Nhà nước trao quyền sử dụng đất cho người sử dụng đất theo quy định của Luật này."
+    },
+    {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Người sử dụng đất",
+        "text": "Người sử dụng đất được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất, nhận chuyển quyền sử dụng đất theo quy định của Luật này, bao gồm:"
+    },
+    {
         "id": "Điều 5.1",
         "article": "Điều 5",
         "clause": "1",
@@ -406,6 +434,13 @@
         "text": "Người đại diện cho cộng đồng dân cư là người chịu trách nhiệm đối với đất được giao cho cộng đồng dân cư quản lý."
     },
     {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Khuyến khích đầu tư vào đất đai",
+        "text": "Nhà nước có chính sách khuyến khích người sử dụng đất đầu tư lao động, vật tư tiền vốn và áp dụng thành tựu khoa học, công nghệ vào các việc sau đây:"
+    },
+    {
         "id": "Điều 9.1",
         "article": "Điều 9",
         "clause": "1",
@@ -425,6 +460,13 @@
         "clause": "3",
         "title": "Khuyến khích đầu tư vào đất đai",
         "text": "Phát triển kết cấu hạ tầng để làm tăng giá trị của đất."
+    },
+    {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Phân loại đất",
+        "text": "Căn cứ vào mục đích sử dụng, đất đai được phân loại như sau:"
     },
     {
         "id": "Điều 10.1",
@@ -572,6 +614,13 @@
         "clause": "3",
         "title": "Phân loại đất",
         "text": "Nhóm đất chưa sử dụng gồm các loại đất chưa xác định mục đích sử dụng."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Căn cứ để xác định loại đất",
+        "text": "Việc xác định loại đất theo một trong các căn cứ sau đây:"
     },
     {
         "id": "Điều 11.1",
@@ -728,6 +777,13 @@
         "text": "Quy định quyền và nghĩa vụ của người sử dụng đất."
     },
     {
+        "id": "Điều 14.0",
+        "article": "Điều 14",
+        "clause": "0",
+        "title": "Nhà nước quyết định mục đích sử dụng đất",
+        "text": "Nhà nước quyết định mục đích sử dụng đất thông qua quy hoạch sử dụng đất, kế hoạch sử dụng đất và cho phép chuyển mục đích sử dụng đất."
+    },
+    {
         "id": "Điều 15.1",
         "article": "Điều 15",
         "clause": "1",
@@ -791,6 +847,13 @@
         "text": "Nhà nước quyết định trưng dụng đất trong trường hợp thật cần thiết để thực hiện nhiệm vụ quốc phòng, an ninh hoặc trong tình trạng chiến tranh, tình trạng khẩn cấp, phòng, chống thiên tai."
     },
     {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Nhà nước trao quyền sử dụng đất cho người sử dụng đất",
+        "text": "Nhà nước trao quyền sử dụng đất cho người sử dụng đất thông qua các hình thức sau đây:"
+    },
+    {
         "id": "Điều 17.1",
         "article": "Điều 17",
         "clause": "1",
@@ -838,6 +901,13 @@
         "clause": "2",
         "title": "Nhà nước quyết định chính sách tài chính về đất đai",
         "text": "Nhà nước điều tiết phần giá trị tăng thêm từ đất mà không do đầu tư của người sử dụng đất mang lại thông qua chính sách thuế, tiền sử dụng đất, tiền thuê đất, đầu tư cơ sở hạ tầng và chính sách hỗ trợ cho người có đất thu hồi."
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Nhà nước quy định quyền và nghĩa vụ của người sử dụng đất",
+        "text": "Nhà nước quy định quyền và nghĩa vụ của người sử dụng đất phù hợp với hình thức giao đất, cho thuê đất, công nhận quyền sử dụng đất, nguồn gốc sử dụng đất và nghĩa vụ tài chính của người sử dụng đất."
     },
     {
         "id": "Điều 21.1",
@@ -2660,6 +2730,20 @@
         "text": "Nhu cầu sử dụng đất thể hiện trong dự án đầu tư, đơn xin giao đất, thuê đất, chuyển mục đích sử dụng đất."
     },
     {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Giao đất, cho thuê đất đối với đất đang có người sử dụng cho người khác",
+        "text": "Việc Nhà nước quyết định giao đất, cho thuê đất đối với đất đang có người sử dụng cho người khác chỉ được thực hiện sau khi cơ quan nhà nước có thẩm quyền quyết định thu hồi đất theo quy định của Luật này và phải thực hiện xong việc bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật đối với trường hợp phải giải phóng mặt bằng."
+    },
+    {
+        "id": "Điều 54.0",
+        "article": "Điều 54",
+        "clause": "0",
+        "title": "Giao đất không thu tiền sử dụng đất",
+        "text": "Nhà nước giao đất không thu tiền sử dụng đất trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 54.1",
         "article": "Điều 54",
         "clause": "1",
@@ -2693,6 +2777,13 @@
         "clause": "5",
         "title": "Giao đất không thu tiền sử dụng đất",
         "text": "Cộng đồng dân cư sử dụng đất nông nghiệp; cơ sở tôn giáo sử dụng đất phi nông nghiệp quy định tại khoản 1 Điều 159 của Luật này."
+    },
+    {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Giao đất có thu tiền sử dụng đất",
+        "text": "Nhà nước giao đất có thu tiền sử dụng đất trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 55.1",
@@ -3024,6 +3115,13 @@
         "text": "Người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài được Nhà nước cho thuê đất trả tiền thuê đất một lần cho cả thời gian thuê để thực hiện dự án đầu tư xây dựng nhà ở để bán hoặc để bán kết hợp cho thuê trước ngày Luật này có hiệu lực thi hành thì được tiếp tục thuê đất trong thời hạn sử dụng đất còn lại hoặc chuyển sang giao đất có thu tiền sử dụng đất theo quy định của Luật này nếu có nhu cầu. Chương 6. THU HỒI ĐẤT, TRƯNG DỤNG ĐẤT, BỒI THƯỜNG, HỖ TRỢ, TÁI ĐỊNH CƯ MỤC 1. THU HỒI ĐẤT, TRƯNG DỤNG ĐẤT"
     },
     {
+        "id": "Điều 61.0",
+        "article": "Điều 61",
+        "clause": "0",
+        "title": "Thu hồi đất vì mục đích quốc phòng, an ninh",
+        "text": "Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 61.1",
         "article": "Điều 61",
         "clause": "1",
@@ -3092,6 +3190,13 @@
         "clause": "10",
         "title": "Thu hồi đất vì mục đích quốc phòng, an ninh",
         "text": "Xây dựng cơ sở giam giữ, cơ sở giáo dục do Bộ Quốc phòng, Bộ Công an quản lý."
+    },
+    {
+        "id": "Điều 62.0",
+        "article": "Điều 62",
+        "clause": "0",
+        "title": "Thu hồi đất để phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng",
+        "text": "Nhà nước thu hồi đất để phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 62.1",
@@ -3169,6 +3274,13 @@
         "clause": "3đ",
         "title": "Thu hồi đất để phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng",
         "text": "Dự án khai thác khoáng sản được cơ quan có thẩm quyền cấp phép, trừ trường hợp khai thác khoáng sản làm vật liệu xây dựng thông thường, than bùn, khoáng sản tại các khu vực có khoáng sản phân tán, nhỏ lẻ và khai thác tận thu khoáng sản."
+    },
+    {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": "Căn cứ thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng",
+        "text": "Việc thu hồi đất vì mục đích quốc phòng, an ninh; phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng phải dựa trên các căn cứ sau đây:"
     },
     {
         "id": "Điều 63.1",
@@ -4172,6 +4284,13 @@
         "text": "Cộng đồng dân cư, cơ sở tôn giáo, tín ngưỡng đang sử dụng đất phi nông nghiệp, khi Nhà nước thu hồi đất mà có đủ điều kiện được bồi thường quy định tại Điều 75 của Luật này thì được bồi thường về đất theo quy định của Chính phủ."
     },
     {
+        "id": "Điều 82.0",
+        "article": "Điều 82",
+        "clause": "0",
+        "title": "Trường hợp Nhà nước thu hồi đất không được bồi thường về đất",
+        "text": "Nhà nước thu hồi đất không bồi thường về đất trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 82.1",
         "article": "Điều 82",
         "clause": "1",
@@ -4520,6 +4639,13 @@
         "clause": "5",
         "title": "Chi trả tiền bồi thường, hỗ trợ, tái định cư",
         "text": "Chính phủ quy định chi tiết Điều này."
+    },
+    {
+        "id": "Điều 94.0",
+        "article": "Điều 94",
+        "clause": "0",
+        "title": "Bồi thường thiệt hại đối với đất thuộc hành lang an toàn khi xây dựng công trình có hành lang bảo vệ an toàn",
+        "text": "Khi Nhà nước xây dựng công trình công cộng, quốc phòng, an ninh có hành lang bảo vệ an toàn mà không thu hồi đất nằm trong phạm vi hành lang an toàn thì người sử dụng đất được bồi thường thiệt hại do hạn chế khả năng sử dụng đất, thiệt hại tài sản gắn liền với đất theo quy định của Chính phủ. Chương 7. ĐĂNG KÝ ĐẤT ĐAI, CẤP GIẤY CHỨNG NHẬN QUYỀN SỬ DỤNG ĐẤT, QUYỀN SỞ HỮU NHÀ Ở VÀ TÀI SẢN KHÁC GẮN LIỀN VỚI ĐẤT MỤC 1. ĐĂNG KÝ ĐẤT ĐAI, NHÀ Ở VÀ TÀI SẢN KHÁC GẮN LIỀN VỚI ĐẤT"
     },
     {
         "id": "Điều 95.1",
@@ -5467,6 +5593,13 @@
         "text": "Chính phủ quy định phương pháp định giá đất."
     },
     {
+        "id": "Điều 113.0",
+        "article": "Điều 113",
+        "clause": "0",
+        "title": "Khung giá đất",
+        "text": "Chính phủ ban hành khung giá đất định kỳ 05 năm một lần đối với từng loại đất, theo từng vùng. Trong thời gian thực hiện khung giá đất mà giá đất phổ biến trên thị trường tăng từ 20% trở lên so với giá tối đa hoặc giảm từ 20% trở lên so với giá tối thiểu trong khung giá đất thì Chính phủ điều chỉnh khung giá đất cho phù hợp."
+    },
+    {
         "id": "Điều 114.1",
         "article": "Điều 114",
         "clause": "1",
@@ -6102,6 +6235,13 @@
         "clause": "5",
         "title": "Trách nhiệm xây dựng hệ thống thông tin đất đai",
         "text": "Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết về xây dựng, quản lý, khai thác hệ thống thông tin đất đai, điều kiện của tổ chức, cá nhân hoạt động tư vấn về xây dựng cơ sở dữ liệu, hệ thống thông tin đất đai. Chương 10. CHẾ ĐỘ SỬ DỤNG CÁC LOẠI ĐẤT MỤC 1. THỜI HẠN SỬ DỤNG ĐẤT"
+    },
+    {
+        "id": "Điều 125.0",
+        "article": "Điều 125",
+        "clause": "0",
+        "title": "Đất sử dụng ổn định lâu dài",
+        "text": "Người sử dụng đất được sử dụng đất ổn định lâu dài trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 125.1",
@@ -8246,6 +8386,13 @@
         "text": "Quyền sử dụng đất của tổ chức kinh tế là doanh nghiệp khi giải thể, phá sản được xử lý theo quy định của pháp luật."
     },
     {
+        "id": "Điều 178.0",
+        "article": "Điều 178",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của tổ chức kinh tế được thuê đất để xây dựng công trình ngầm",
+        "text": "Tổ chức kinh tế được Nhà nước cho thuê đất để đầu tư xây dựng công trình ngầm thì có các quyền và nghĩa vụ sau đây:"
+    },
+    {
         "id": "Điều 178.1",
         "article": "Điều 178",
         "clause": "1",
@@ -8792,6 +8939,13 @@
         "text": "Người nhận thừa kế trong các trường hợp quy định tại điểm c khoản 3 và khoản 4 Điều này được ủy quyền bằng văn bản cho người trông nom hoặc tạm sử dụng đất và thực hiện nghĩa vụ theo quy định của pháp luật về đất đai và quy định khác của pháp luật có liên quan."
     },
     {
+        "id": "Điều 187.0",
+        "article": "Điều 187",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài thuê đất để xây dựng công trình ngầm",
+        "text": "Người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài đầu tư xây dựng công trình ngầm được Nhà nước cho thuê đất có các quyền và nghĩa vụ sau đây:"
+    },
+    {
         "id": "Điều 187.1",
         "article": "Điều 187",
         "clause": "1",
@@ -8918,6 +9072,13 @@
         "text": "Đối với trường hợp thuê đất để thực hiện dự án xây dựng kinh doanh kết cấu hạ tầng thì thực hiện theo quy định tại Điều 194 của Luật này."
     },
     {
+        "id": "Điều 190.0",
+        "article": "Điều 190",
+        "clause": "0",
+        "title": "Điều kiện chuyển đổi quyền sử dụng đất nông nghiệp",
+        "text": "Hộ gia đình, cá nhân sử dụng đất nông nghiệp do được Nhà nước giao đất, do chuyển đổi, nhận chuyển nhượng, nhận thừa kế, được tặng cho quyền sử dụng đất hợp pháp từ người khác thì chỉ được chuyển đổi quyền sử dụng đất nông nghiệp trong cùng xã, phường, thị trấn cho hộ gia đình, cá nhân khác để thuận lợi cho sản xuất nông nghiệp và không phải nộp thuế thu nhập từ việc chuyển đổi quyền sử dụng đất và lệ phí trước bạ."
+    },
+    {
         "id": "Điều 191.1",
         "article": "Điều 191",
         "clause": "1",
@@ -8965,6 +9126,13 @@
         "clause": "3",
         "title": "Trường hợp hộ gia đình, cá nhân chuyển nhượng, tặng cho quyền sử dụng đất có điều kiện",
         "text": "Hộ gia đình, cá nhân là dân tộc thiểu số sử dụng đất do Nhà nước giao đất theo chính sách hỗ trợ của Nhà nước thì được chuyển nhượng, tặng cho quyền sử dụng đất sau 10 năm, kể từ ngày có quyết định giao đất theo quy định của Chính phủ."
+    },
+    {
+        "id": "Điều 193.0",
+        "article": "Điều 193",
+        "clause": "0",
+        "title": "Điều kiện nhận chuyển nhượng, nhận góp vốn, thuê quyền sử dụng đất nông nghiệp để thực hiện dự án đầu tư sản xuất, kinh doanh phi nông nghiệp",
+        "text": "Tổ chức kinh tế, hộ gia đình, cá nhân được nhận chuyển nhượng, nhận góp vốn, thuê quyền sử dụng đất nông nghiệp để thực hiện dự án đầu tư sản xuất, kinh doanh phi nông nghiệp khi có đủ các điều kiện sau đây:"
     },
     {
         "id": "Điều 193.1",
@@ -9478,6 +9646,13 @@
         "text": "Đối với trường hợp hòa giải thành mà có thay đổi hiện trạng về ranh giới, người sử dụng đất thì Ủy ban nhân dân cấp xã gửi biên bản hòa giải đến Phòng Tài nguyên và Môi trường đối với trường hợp tranh chấp đất đai giữa hộ gia đình, cá nhân, cộng đồng dân cư với nhau; gửi đến Sở Tài nguyên và Môi trường đối với các trường hợp khác. Phòng Tài nguyên và Môi trường, Sở Tài nguyên và Môi trường trình Ủy ban nhân dân cùng cấp quyết định công nhận việc thay đổi ranh giới thửa đất và cấp mới Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất."
     },
     {
+        "id": "Điều 203.0",
+        "article": "Điều 203",
+        "clause": "0",
+        "title": "Thẩm quyền giải quyết tranh chấp đất đai",
+        "text": "Tranh chấp đất đai đã được hòa giải tại Ủy ban nhân dân cấp xã mà không thành thì được giải quyết như sau:"
+    },
+    {
         "id": "Điều 203.1",
         "article": "Điều 203",
         "clause": "1",
@@ -9735,5 +9910,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Bãi bỏ Điều 57 của Luật hàng không dân dụng Việt Nam số 66/2006/QH11; Điều 2 của Luật số 34/2009/QH12 sửa đổi, bổ sung Điều 126 của Luật nhà ở và Điều 121 của Luật đất đai; Điều 4 của Luật số 38/2009/QH12 sửa đổi, bổ sung một số điều của các luật liên quan đến đầu tư xây dựng cơ bản; Điều 264 của Luật tố tụng hành chính số 64/2010/QH12; các quy định về trưng dụng đất trong Luật trưng mua, trưng dụng tài sản số 15/2008/QH12."
+    },
+    {
+        "id": "Điều 212.0",
+        "article": "Điều 212",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 6 thông qua ngày 29 tháng 11 năm 2013. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

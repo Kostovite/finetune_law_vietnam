@@ -13,17 +13,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về bảo tồn và phát triển bền vững đa dạng sinh học; quyền và nghĩa vụ của tổ chức, hộ gia đình, cá nhân trong bảo tồn và phát triển bền vững đa dạng sinh học.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với tổ chức, hộ gia đình, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài có hoạt động trực tiếp hoặc liên quan đến bảo tồn và phát triển bền vững đa dạng sinh học tại Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Bảo tồn đa dạng sinh học là việc bảo vệ sự phong phú của các hệ sinh thái tự nhiên quan trọng, đặc thù hoặc đại diện; bảo vệ môi trường sống tự nhiên thường xuyên hoặc theo mùa của loài hoang dã, cảnh quan môi trường, nét đẹp độc đáo của tự nhiên; nuôi, trồng, chăm sóc loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ; lưu giữ và bảo quản lâu dài các mẫu vật di truyền.",
@@ -202,7 +219,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Bảo đảm quản lý rủi ro do sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen gây ra đối với đa dạng sinh học.",
+                    "text": "Bảo đảm quản lý rủi ro do sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen gây ra đối với đa dạng sinh học. Điều 5. Chính sách của Nhà nước về bảo tồn và phát triển bền vững đa dạng sinh học",
                     "sub_clauses": []
                 },
                 {
@@ -304,7 +321,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Chuyển đổi trái phép mục đích sử dụng đất trong khu bảo tồn.",
+                    "text": "Chuyển đổi trái phép mục đích sử dụng đất trong khu bảo tồn. CHƯƠNG II QUY HOẠCH BẢO TỒN ĐA DẠNG SINH HỌC Mục I QUY HOẠCH TỔNG THỂ BẢO TỒN ĐA DẠNG SINH HỌC CỦA CẢ NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -345,7 +362,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Nguồn lực để thực hiện quy hoạch.",
+                    "text": "Nguồn lực để thực hiện quy hoạch. Điều 9. Nội dung quy hoạch tổng thể bảo tồn đa dạng sinh học của cả nước",
                     "sub_clauses": []
                 },
                 {
@@ -385,7 +402,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Tổ chức thực hiện quy hoạch bảo tồn đa dạng sinh học.",
+                    "text": "Tổ chức thực hiện quy hoạch bảo tồn đa dạng sinh học. Điều 10. Lập, phê duyệt, điều chỉnh quy hoạch tổng thể bảo tồn đa dạng sinh học của cả nước, quy hoạch bảo tồn đa dạng sinh học của bộ, cơ quan ngang bộ",
                     "sub_clauses": []
                 },
                 {
@@ -416,7 +433,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc tổ chức thực hiện quy hoạch tổng thể bảo tồn đa dạng sinh học của cả nước được quy định như sau:",
+                    "text": "Việc tổ chức thực hiện quy hoạch tổng thể bảo tồn đa dạng sinh học của cả nước được quy định như sau: Mục 2 QUY HOẠCH BẢO TỒN ĐA DẠNG SINH HỌC CỦA TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -537,7 +554,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban nhân dân cấp tỉnh tổ chức thực hiện quy hoạch bảo tồn đa dạng sinh học của tỉnh, thành phố trực thuộc trung ương.",
+                    "text": "Ủy ban nhân dân cấp tỉnh tổ chức thực hiện quy hoạch bảo tồn đa dạng sinh học của tỉnh, thành phố trực thuộc trung ương. CHƯƠNG III BẢO TỒN VÀ PHÁT TRIỂN BỀN VỮNG HỆ SINH THÁI TỰ NHIÊN Mục 1 KHU BẢO TỒN",
                     "sub_clauses": []
                 }
             ]
@@ -589,6 +606,11 @@
             "id": "Điều 17",
             "title": "Vườn quốc gia",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Vườn quốc gia phải có các tiêu chí chủ yếu sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Có hệ sinh thái tự nhiên quan trọng đối với quốc gia, quốc tế, đặc thù hoặc đại diện cho một vùng sinh thái tự nhiên;",
@@ -957,7 +979,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc quản lý khu bảo tồn phải được thực hiện theo quy định của Luật này và Quy chế quản lý khu bảo tồn.",
+                    "text": "Việc quản lý khu bảo tồn phải được thực hiện theo quy định của Luật này và Quy chế quản lý khu bảo tồn. Thủ tướng Chính phủ ban hành Quy chế quản lý khu bảo tồn.",
                     "sub_clauses": []
                 }
             ]
@@ -982,6 +1004,11 @@
             "id": "Điều 29",
             "title": "Quyền và trách nhiệm của Ban quản lý, tổ chức được giao quản lý khu bảo tồn",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Ban quản lý khu bảo tồn, tổ chức được giao quản lý khu bảo tồn có các quyền và trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Bảo tồn đa dạng sinh học theo quy định của Luật này và quy chế quản lý khu bảo tồn;",
@@ -1061,6 +1088,11 @@
             "title": "Quyền và nghĩa vụ của tổ chức, cá nhân có hoạt động hợp pháp trong khu bảo tồn",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân có hoạt động hợp pháp trong khu bảo tồn có các quyền và nghĩa vụ sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Khai thác nguồn lợi hợp pháp trong khu bảo tồn theo quy định của Luật này, quy chế quản lý khu bảo tồn và các quy định khác của pháp luật có liên quan;",
                     "sub_clauses": []
@@ -1103,7 +1135,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chủ dự án đầu tư trong vùng đệm của khu bảo tồn phải lập báo cáo đánh giá tác động môi trường trình Hội đồng thẩm định theo quy định của pháp luật về bảo vệ môi trường; trong thành phần Hội đồng thẩm định phải có đại diện ban quản lý khu bảo tồn.",
+                    "text": "Chủ dự án đầu tư trong vùng đệm của khu bảo tồn phải lập báo cáo đánh giá tác động môi trường trình Hội đồng thẩm định theo quy định của pháp luật về bảo vệ môi trường; trong thành phần Hội đồng thẩm định phải có đại diện ban quản lý khu bảo tồn. Trường hợp dự án đầu tư trong vùng đệm tiềm ẩn nguy cơ xảy ra sự cố môi trường hoặc phát tán chất thải độc hại thì quyết định phê duyệt báo cáo đánh giá tác động môi trường phải xác định khoảng cách an toàn để không gây tác động xấu đến khu bảo tồn, tổ chức được giao quản lý khu bảo tồn.",
                     "sub_clauses": []
                 }
             ]
@@ -1119,7 +1151,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Báo cáo hiện trạng đa dạng sinh học của khu bảo tồn phải có các nội dung chủ yếu sau đây:",
+                    "text": "Báo cáo hiện trạng đa dạng sinh học của khu bảo tồn phải có các nội dung chủ yếu sau đây: Mục 2 PHÁT TRIỂN BỀN VỮNG CÁC HỆ SINH THÁI TỰ NHIÊN Điều 34. Điều tra, đánh giá và xác lập chế độ phát triển bền vững các hệ sinh thái tự nhiên",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1156,7 +1188,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Hệ sinh thái tự nhiên trên các vùng đất ngập nước tự nhiên, vùng núi đá vôi, vùng đất chưa sử dụng không thuộc đối tượng quy định tại khoản 2 và khoản 3 Điều này được điều tra, đánh giá và xác lập chế độ phát triển bền vững theo quy định tại Điều 35 và Điều 36 của Luật này và các quy định khác của pháp luật có liên quan.",
+                    "text": "Hệ sinh thái tự nhiên trên các vùng đất ngập nước tự nhiên, vùng núi đá vôi, vùng đất chưa sử dụng không thuộc đối tượng quy định tại khoản 2 và khoản 3 Điều này được điều tra, đánh giá và xác lập chế độ phát triển bền vững theo quy định tại Điều 35 và Điều 36 của Luật này và các quy định khác của pháp luật có liên quan. Điều 35. Phát triển bền vững hệ sinh thái tự nhiên trên vùng đất ngập nước tự nhiên",
                     "sub_clauses": []
                 },
                 {
@@ -1171,7 +1203,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ủy ban nhân dân cấp tỉnh điều tra, thống kê, kiểm kê, đánh giá hiện trạng đa dạng sinh học, xác lập chế độ phát triển bền vững hệ sinh thái tự nhiên và xác lập vị trí, diện tích vùng đất ngập nước tự nhiên trên bản đồ hiện trạng sử dụng đất hoặc tọa độ trên mặt nước biển.",
+                    "text": "Ủy ban nhân dân cấp tỉnh điều tra, thống kê, kiểm kê, đánh giá hiện trạng đa dạng sinh học, xác lập chế độ phát triển bền vững hệ sinh thái tự nhiên và xác lập vị trí, diện tích vùng đất ngập nước tự nhiên trên bản đồ hiện trạng sử dụng đất hoặc tọa độ trên mặt nước biển. Điều 36. Phát triển bền vững hệ sinh thái tự nhiên trên vùng núi đá vôi và vùng đất chưa sử dụng không thuộc hệ sinh thái rừng",
                     "sub_clauses": []
                 },
                 {
@@ -1181,7 +1213,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban nhân dân cấp tỉnh điều tra, thống kê, đánh giá hiện trạng đa dạng sinh học và xác lập chế độ phát triển bền vững hệ sinh thái tự nhiên trên vùng núi đá vôi và vùng đất chưa sử dụng không thuộc hệ sinh thái rừng.",
+                    "text": "Ủy ban nhân dân cấp tỉnh điều tra, thống kê, đánh giá hiện trạng đa dạng sinh học và xác lập chế độ phát triển bền vững hệ sinh thái tự nhiên trên vùng núi đá vôi và vùng đất chưa sử dụng không thuộc hệ sinh thái rừng. CHƯƠNG IV BẢO TỒN VÀ PHÁT TRIỂN BỀN VỮNG  CÁC LOÀI SINH VẬT Mục 1 BẢO VỆ LOÀI THUỘC DANH MỤC LOÀI NGUY CẤP, QUÝ, HIẾM  ĐƯỢC ƯU TIÊN BẢO VỆ",
                     "sub_clauses": []
                 }
             ]
@@ -1315,7 +1347,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Định kỳ 3 năm một lần hoặc khi có nhu cầu, loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ phải được điều tra, đánh giá quần thể để sửa đổi, bổ sung.",
+                    "text": "Định kỳ 3 năm một lần hoặc khi có nhu cầu, loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ phải được điều tra, đánh giá quần thể để sửa đổi, bổ sung. Điều 41. Bảo tồn loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ",
                     "sub_clauses": []
                 },
                 {
@@ -1335,7 +1367,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định cụ thể thẩm quyền, trình tự, thủ tục đưa loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ vào cơ sở bảo tồn đa dạng sinh học hoặc thả vào nơi sinh sống tự nhiên của chúng.",
+                    "text": "Chính phủ quy định cụ thể thẩm quyền, trình tự, thủ tục đưa loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ vào cơ sở bảo tồn đa dạng sinh học hoặc thả vào nơi sinh sống tự nhiên của chúng. Mục 2 PHÁT TRIỂN BỀN VỮNG CÁC LOÀI SINH VẬT Điều 42. Thành lập cơ sở bảo tồn đa dạng sinh học",
                     "sub_clauses": []
                 },
                 {
@@ -1399,7 +1431,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định cụ thể điều kiện nuôi, trồng loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ, cứu hộ loài hoang dã, lưu giữ giống cây trồng, vật nuôi, vi sinh vật và nấm đặc hữu, lưu giữ, bảo quản nguồn gen và mẫu vật di truyền, đăng ký thành lập, cấp, thu hồi giấy chứng nhận cơ sở bảo tồn đa dạng sinh học.",
+                    "text": "Chính phủ quy định cụ thể điều kiện nuôi, trồng loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ, cứu hộ loài hoang dã, lưu giữ giống cây trồng, vật nuôi, vi sinh vật và nấm đặc hữu, lưu giữ, bảo quản nguồn gen và mẫu vật di truyền, đăng ký thành lập, cấp, thu hồi giấy chứng nhận cơ sở bảo tồn đa dạng sinh học. Điều 43. Quyền và nghĩa vụ của tổ chức, cá nhân quản lý cơ sở bảo tồn đa dạng sinh học",
                     "sub_clauses": []
                 },
                 {
@@ -1503,7 +1535,13 @@
         {
             "id": "Điều 46",
             "title": "Trao đổi, xuất khẩu, nhập khẩu, mua, bán, tặng cho, lưu giữ, vận chuyển các loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ và mẫu vật di truyền, sản phẩm của chúng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc trao đổi, xuất khẩu, nhập khẩu, mua, bán, tặng cho, lưu giữ, vận chuyển loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ và mẫu vật di truyền của chúng phục vụ mục đích bảo tồn đa dạng sinh học, nghiên cứu khoa học, du lịch sinh thái; việc trao đổi, xuất khẩu, nhập khẩu, mua, bán, tặng cho, vận chuyển một số loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ và các sản phẩm của chúng phục vụ mục đích thương mại được thực hiện theo quy định cụ thể của Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 47",
@@ -1526,7 +1564,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định cụ thể việc cứu hộ loài hoang dã thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ.",
+                    "text": "Chính phủ quy định cụ thể việc cứu hộ loài hoang dã thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ. Điều 48. Bảo vệ giống cây trồng, vật nuôi đặc hữu hoặc có giá trị đang bị đe dọa tuyệt chủng",
                     "sub_clauses": []
                 },
                 {
@@ -1552,7 +1590,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc tiếp cận nguồn gen loài vi sinh vật và nấm đặc hữu hoặc có giá trị đang bị đe dọa tuyệt chủng được thực hiện theo quy định tại Mục 1 và Mục 2 Chương V của Luật này và các quy định khác của pháp luật có liên quan.",
+                    "text": "Việc tiếp cận nguồn gen loài vi sinh vật và nấm đặc hữu hoặc có giá trị đang bị đe dọa tuyệt chủng được thực hiện theo quy định tại Mục 1 và Mục 2 Chương V của Luật này và các quy định khác của pháp luật có liên quan. Mục 3 KIỂM SOÁT LOÀI  NGOẠI LAI XÂM HẠI",
                     "sub_clauses": []
                 }
             ]
@@ -1652,7 +1690,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Các cơ quan thông tin đại chúng có trách nhiệm đưa tin, tuyên truyền về  loài ngoại lai xâm hại và biện pháp kiểm soát, cô lập, diệt trừ loài ngoại lai xâm hại.",
+                    "text": "Các cơ quan thông tin đại chúng có trách nhiệm đưa tin, tuyên truyền về  loài ngoại lai xâm hại và biện pháp kiểm soát, cô lập, diệt trừ loài ngoại lai xâm hại. CHƯƠNG V BẢO TỒN VÀ PHÁT TRIỂN  BỀN VỮNG  TÀI NGUYÊN DI TRUYỀN Mục 1 QUẢN LÝ, TIẾP CẬN NGUỒN GEN  VÀ CHIA SẺ LỢI ÍCH TỪ NGUỒN GEN",
                     "sub_clauses": []
                 }
             ]
@@ -1741,6 +1779,11 @@
             "title": "Trình tự, thủ tục tiếp cận nguồn gen",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trình tự, thủ tục tiếp cận nguồn gen được quy định như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Đăng ký tiếp cận nguồn gen;",
                     "sub_clauses": []
@@ -1757,7 +1800,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định cụ thể trình tự, thủ tục tiếp cận nguồn gen.",
+                    "text": "Chính phủ quy định cụ thể trình tự, thủ tục tiếp cận nguồn gen. Điều 58. Hợp đồng tiếp cận nguồn gen và chia sẻ lợi ích",
                     "sub_clauses": []
                 },
                 {
@@ -1819,7 +1862,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Tranh chấp, khiếu nại liên quan đến việc tiếp cận nguồn gen và chia sẻ lợi ích được giải quyết theo quy định của pháp luật Việt Nam và điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.",
+                    "text": "Tranh chấp, khiếu nại liên quan đến việc tiếp cận nguồn gen và chia sẻ lợi ích được giải quyết theo quy định của pháp luật Việt Nam và điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên. Điều 59. Giấy phép tiếp cận nguồn gen",
                     "sub_clauses": []
                 },
                 {
@@ -1901,7 +1944,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chính phủ quy định cụ thể thẩm quyền, trình tự, thủ tục cấp giấy phép tiếp cận nguồn gen.",
+                    "text": "Chính phủ quy định cụ thể thẩm quyền, trình tự, thủ tục cấp giấy phép tiếp cận nguồn gen. Điều 60. Quyền và nghĩa vụ của tổ chức, cá nhân được cấp giấy phép tiếp cận nguồn gen",
                     "sub_clauses": []
                 },
                 {
@@ -1979,7 +2022,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định cụ thể việc quản lý, chia sẻ lợi ích thu được từ việc tiếp cận nguồn gen.",
+                    "text": "Chính phủ quy định cụ thể việc quản lý, chia sẻ lợi ích thu được từ việc tiếp cận nguồn gen. Mục 2 LƯU GIỮ, BẢO QUẢN MẪU VẬT DI TRUYỀN; ĐÁNH GIÁ NGUỒN GEN; QUẢN LÝ THÔNG TIN VỀ NGUỒN GEN; BẢN QUYỀN TRI THỨC TRUYỀN THỐNG VỀ NGUỒN GEN",
                     "sub_clauses": []
                 }
             ]
@@ -2011,7 +2054,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Bộ, cơ quan ngang bộ tổ chức thực hiện chương trình điều tra, thu thập, đánh giá và xây dựng cơ sở dữ liệu về nguồn gen thuộc phạm vi quản lý và cung cấp thông tin về cơ sở dữ liệu về nguồn gen cho Bộ Tài nguyên và Môi trường.",
+                    "text": "Bộ, cơ quan ngang bộ tổ chức thực hiện chương trình điều tra, thu thập, đánh giá và xây dựng cơ sở dữ liệu về nguồn gen thuộc phạm vi quản lý và cung cấp thông tin về cơ sở dữ liệu về nguồn gen cho Bộ Tài nguyên và Môi trường. Bộ Tài nguyên và Môi trường thống nhất quản lý cơ sở dữ liệu quốc gia về nguồn gen.",
                     "sub_clauses": []
                 },
                 {
@@ -2037,7 +2080,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ Khoa học và Công nghệ chủ trì phối hợp với bộ, cơ quan ngang bộ có liên quan hướng dẫn thủ tục đăng ký bản quyền tri thức truyền thống về nguồn gen.",
+                    "text": "Bộ Khoa học và Công nghệ chủ trì phối hợp với bộ, cơ quan ngang bộ có liên quan hướng dẫn thủ tục đăng ký bản quyền tri thức truyền thống về nguồn gen. Mục 3 QUẢN LÝ RỦI RO DO SINH VẬT BIẾN ĐỔI GEN, MẪU VẬT DI TRUYỀN CỦA SINH VẬT BIẾN ĐỔI GEN GÂY RA ĐỐI VỚI ĐA DẠNG SINH HỌC Điều 65. Trách nhiệm quản lý rủi ro do sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen gây ra đối với đa dạng sinh học",
                     "sub_clauses": []
                 },
                 {
@@ -2060,7 +2103,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định cụ thể trách nhiệm của bộ, cơ quan ngang bộ và tổ chức, cá nhân trong việc quản lý rủi ro do sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen gây ra đối với đa dạng sinh học.",
+                    "text": "Chính phủ quy định cụ thể trách nhiệm của bộ, cơ quan ngang bộ và tổ chức, cá nhân trong việc quản lý rủi ro do sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen gây ra đối với đa dạng sinh học. Điều 66. Lập, thẩm định báo cáo đánh giá rủi ro do sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen gây ra đối với đa dạng sinh học; cấp giấy chứng nhận an toàn của sinh vật biển đổi gen, mẫu vật di truyền của sinh vật biển đổi gen đối với đa dạng sinh học",
                     "sub_clauses": []
                 },
                 {
@@ -2093,7 +2136,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định cụ thể việc lập, thẩm định báo cáo đánh giá rủi ro do sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen gây ra đối với đa dạng sinh học và việc cấp giấy chứng nhận an toàn của sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen đối với đa dạng sinh học.",
+                    "text": "Chính phủ quy định cụ thể việc lập, thẩm định báo cáo đánh giá rủi ro do sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen gây ra đối với đa dạng sinh học và việc cấp giấy chứng nhận an toàn của sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen đối với đa dạng sinh học. Điều 67. Công khai thông tin về mức độ rủi ro và biện pháp quản lý rủi ro do sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen gây ra đối với đa dạng sinh học",
                     "sub_clauses": []
                 },
                 {
@@ -2103,7 +2146,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định cụ thể việc công khai thông tin và biện pháp quản lý rủi ro.",
+                    "text": "Chính phủ quy định cụ thể việc công khai thông tin và biện pháp quản lý rủi ro. Điều 68. Quản lý cơ sở dữ liệu về sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen liên quan đến đa dạng sinh học",
                     "sub_clauses": []
                 },
                 {
@@ -2123,7 +2166,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Tổ chức, cá nhân cung cấp thông tin về sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen liên quan đến đa dạng sinh học phải chịu trách nhiệm về tính chính xác của thông tin do mình cung cấp.",
+                    "text": "Tổ chức, cá nhân cung cấp thông tin về sinh vật biến đổi gen, mẫu vật di truyền của sinh vật biến đổi gen liên quan đến đa dạng sinh học phải chịu trách nhiệm về tính chính xác của thông tin do mình cung cấp. CHƯƠNG VI HỢP TÁC QUỐC TẾ VỀ ĐA DẠNG SINH HỌC",
                     "sub_clauses": []
                 }
             ]
@@ -2159,6 +2202,11 @@
             "title": "Hợp tác với các nước có chung biên giới với Việt Nam",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Nhà nước ưu tiên hợp tác với các nước có chung biên giới với Việt Nam bằng các hoạt động sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Trao đổi thông tin, dự báo tình hình, biến động về đa dạng sinh học;",
                     "sub_clauses": []
@@ -2170,7 +2218,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tham gia các chương trình bảo tồn và phát triển bền vững đa dạng sinh học, các chương trình, dự án bảo vệ các loài di cư và bảo vệ hành lang đa dạng sinh học.",
+                    "text": "Tham gia các chương trình bảo tồn và phát triển bền vững đa dạng sinh học, các chương trình, dự án bảo vệ các loài di cư và bảo vệ hành lang đa dạng sinh học. CHƯƠNG VII CƠ CHẾ, NGUỒN LỰC BẢO TỒN VÀ PHÁT TRIỂN BỀN VỮNG ĐA DẠNG SINH HỌC Điều 71. Điều tra cơ bản, nghiên cứu khoa học, quản lý thông tin, số liệu về đa dạng sinh học",
                     "sub_clauses": []
                 },
                 {
@@ -2370,7 +2418,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tiền bồi thường thiệt hại về đa dạng sinh học cho Nhà nước được đầu tư cho hoạt động bảo tồn và phát triển bền vững đa dạng sinh học theo quy định của Luật này và các quy định khác của pháp luật có liên quan.",
+                    "text": "Tiền bồi thường thiệt hại về đa dạng sinh học cho Nhà nước được đầu tư cho hoạt động bảo tồn và phát triển bền vững đa dạng sinh học theo quy định của Luật này và các quy định khác của pháp luật có liên quan. CHƯƠNG VIII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2394,12 +2442,24 @@
         {
             "id": "Điều 77",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2009.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 78",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 4 thông qua ngày 13  tháng 11  năm 2008. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": []

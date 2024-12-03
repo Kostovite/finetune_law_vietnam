@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về đơn vị hành chính và tổ chức, hoạt động của chính quyền địa phương ở các đơn vị hành chính."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đơn vị hành chính",
+        "text": "Các đơn vị hành chính của nước Cộng hòa xã hội chủ nghĩa Việt Nam gồm có:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -411,6 +425,13 @@
         "clause": "4",
         "title": "Quan hệ công tác giữa chính quyền địa phương với Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội ở địa phương",
         "text": "Chính quyền địa phương có trách nhiệm lắng nghe, giải quyết và trả lời các kiến nghị của Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội ở địa phương về xây dựng chính quyền và phát triển kinh tế - xã hội ở địa phương. CHƯƠNG II CHÍNH QUYỀN ĐỊA PHƯƠNG Ở NÔNG THÔN Mục 1 NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA CHÍNH QUYỀN ĐỊA PHƯƠNG Ở TỈNH"
+    },
+    {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Chính quyền địa phương ở tỉnh",
+        "text": "Chính quyền địa phương ở tỉnh là cấp chính quyền địa phương gồm có Hội đồng nhân dân tỉnh và Ủy ban nhân dân tỉnh."
     },
     {
         "id": "Điều 17.1",
@@ -875,6 +896,13 @@
         "text": "Phân cấp, ủy quyền cho Ủy ban nhân dân cấp dưới, cơ quan, tổ chức khác thực hiện các nhiệm vụ, quyền hạn của Ủy ban nhân dân tỉnh."
     },
     {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân tỉnh",
+        "text": "Chủ tịch Ủy ban nhân dân tỉnh là người đứng đầu Ủy ban nhân dân tỉnh và có các nhiệm vụ, quyền hạn sau đây:"
+    },
+    {
         "id": "Điều 22.1",
         "article": "Điều 22",
         "clause": "1",
@@ -950,6 +978,13 @@
         "clause": "11",
         "title": "Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân tỉnh",
         "text": "Thực hiện nhiệm vụ, quyền hạn do cơ quan nhà nước ở trung ương phân cấp, ủy quyền. Mục 2 NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA CHÍNH QUYỀN ĐỊA PHƯƠNG Ở HUYỆN"
+    },
+    {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Chính quyền địa phương ở huyện",
+        "text": "Chính quyền địa phương ở huyện là cấp chính quyền địa phương gồm có Hội đồng nhân dân huyện và Ủy ban nhân dân huyện."
     },
     {
         "id": "Điều 24.1",
@@ -1225,6 +1260,13 @@
         "text": "Phân cấp, ủy quyền cho Ủy ban nhân dân cấp xã, cơ quan, tổ chức khác thực hiện các nhiệm vụ, quyền hạn của Ủy ban nhân dân huyện."
     },
     {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân huyện",
+        "text": "Chủ tịch Ủy ban nhân dân huyện là người đứng đầu Ủy ban nhân dân huyện và có các nhiệm vụ, quyền hạn sau đây:"
+    },
+    {
         "id": "Điều 29.1",
         "article": "Điều 29",
         "clause": "1",
@@ -1293,6 +1335,13 @@
         "clause": "10",
         "title": "Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân huyện",
         "text": "Thực hiện nhiệm vụ, quyền hạn do cơ quan nhà nước cấp trên phân cấp, ủy quyền. Mục 3 NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA CHÍNH QUYỀN ĐỊA PHƯƠNG Ở XÃ"
+    },
+    {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Chính quyền địa phương ở xã",
+        "text": "Chính quyền địa phương ở xã là cấp chính quyền địa phương gồm có Hội đồng nhân dân xã và Ủy ban nhân dân xã."
     },
     {
         "id": "Điều 31.1",
@@ -1435,6 +1484,13 @@
         "text": "Bãi bỏ một phần hoặc toàn bộ văn bản trái pháp luật của Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân xã."
     },
     {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Cơ cấu tổ chức của Ủy ban nhân dân xã",
+        "text": "Ủy ban nhân dân xã gồm Chủ tịch, Phó Chủ tịch, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an. Ủy ban nhân dân xã loại I có không quá hai Phó Chủ tịch; xã loại II và loại III có một Phó Chủ tịch."
+    },
+    {
         "id": "Điều 35.1",
         "article": "Điều 35",
         "clause": "1",
@@ -1454,6 +1510,13 @@
         "clause": "3",
         "title": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân xã",
         "text": "Thực hiện nhiệm vụ, quyền hạn do cơ quan nhà nước cấp trên phân cấp, ủy quyền cho Ủy ban nhân dân xã."
+    },
+    {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân xã",
+        "text": "Chủ tịch Ủy ban nhân dân xã là người đứng đầu Ủy ban nhân dân xã và có các nhiệm vụ, quyền hạn sau đây:"
     },
     {
         "id": "Điều 36.1",
@@ -1503,6 +1566,13 @@
         "clause": "7",
         "title": "Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân xã",
         "text": "Thực hiện nhiệm vụ, quyền hạn do cơ quan nhà nước cấp trên phân cấp, ủy quyền. CHƯƠNG III CHÍNH QUYỀN ĐỊA PHƯƠNG Ở ĐÔ THỊ Mục 1 NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA CHÍNH QUYỀN ĐỊA PHƯƠNG Ở THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG"
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Chính quyền địa phương ở thành phố trực thuộc trung ương",
+        "text": "Chính quyền địa phương ở thành phố trực thuộc trung ương là cấp chính quyền địa phương gồm có Hội đồng nhân dân thành phố trực thuộc trung ương và Ủy ban nhân dân thành phố trực thuộc trung ương."
     },
     {
         "id": "Điều 38.1",
@@ -1729,6 +1799,13 @@
         "text": "Thực hiện các biện pháp quản lý, bảo vệ không gian, kiến trúc và cảnh quan đô thị; tổ chức, chỉ đạo thực hiện nhiệm vụ bảo đảm trật tự công cộng, an toàn giao thông, chống ùn tắc giao thông. Mục 2 NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA CHÍNH QUYỀN ĐỊA PHƯƠNG Ở QUẬN"
     },
     {
+        "id": "Điều 44.0",
+        "article": "Điều 44",
+        "clause": "0",
+        "title": "Chính quyền địa phương ở quận",
+        "text": "Chính quyền địa phương ở quận là cấp chính quyền địa phương gồm có Hội đồng nhân dân quận và Ủy ban nhân dân quận."
+    },
+    {
         "id": "Điều 45.1",
         "article": "Điều 45",
         "clause": "1",
@@ -1953,6 +2030,13 @@
         "text": "Chỉ đạo và tổ chức thực hiện quy hoạch phát triển hạ tầng đô thị, xây dựng, giao thông và không gian, kiến trúc, cảnh quan đô thị; quản lý dân cư trên địa bàn quận theo phân cấp, ủy quyền của cơ quan nhà nước cấp trên. Mục 3 NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA CHÍNH QUYỀN ĐỊA PHƯƠNG Ở THỊ XÃ,                                            THÀNH PHỐ THUỘC TỈNH, THÀNH PHỐ THUỘC THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG"
     },
     {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Chính quyền địa phương ở thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương",
+        "text": "Chính quyền địa phương ở thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương là cấp chính quyền địa phương gồm có Hội đồng nhân dân thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương và Ủy ban nhân dân thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương."
+    },
+    {
         "id": "Điều 52.1",
         "article": "Điều 52",
         "clause": "1",
@@ -2149,6 +2233,13 @@
         "text": "Chỉ đạo và tổ chức thực hiện nhiệm vụ bảo đảm trật tự công cộng, an toàn giao thông; phòng, chống cháy, nổ, ùn tắc giao thông trên địa bàn. Mục 4 NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA CHÍNH QUYỀN ĐỊA PHƯƠNG Ở PHƯỜNG"
     },
     {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Chính quyền địa phương ở phường",
+        "text": "Chính quyền địa phương ở phường là cấp chính quyền địa phương gồm có Hội đồng nhân dân phường và Ủy ban nhân dân phường."
+    },
+    {
         "id": "Điều 59.1",
         "article": "Điều 59",
         "clause": "1",
@@ -2268,6 +2359,13 @@
         "text": "Bãi bỏ một phần hoặc toàn bộ văn bản trái pháp luật của Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân phường."
     },
     {
+        "id": "Điều 62.0",
+        "article": "Điều 62",
+        "clause": "0",
+        "title": "Cơ cấu tổ chức của Ủy ban nhân dân phường",
+        "text": "Ủy ban nhân dân phường gồm Chủ tịch, Phó Chủ tịch, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an. Ủy ban nhân dân phường loại I có không quá hai Phó Chủ tịch; phường loại II và loại III có một Phó Chủ tịch."
+    },
+    {
         "id": "Điều 63.1",
         "article": "Điều 63",
         "clause": "1",
@@ -2308,6 +2406,13 @@
         "clause": "3",
         "title": "Nhiệm vụ, quyền hạn của Chủ tịch Ủy ban nhân dân phường",
         "text": "Quản lý dân cư trên địa bàn phường theo quy định của pháp luật. Mục 5 NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA CHÍNH QUYỀN ĐỊA PHƯƠNG Ở THỊ TRẤN"
+    },
+    {
+        "id": "Điều 65.0",
+        "article": "Điều 65",
+        "clause": "0",
+        "title": "Chính quyền địa phương ở thị trấn",
+        "text": "Chính quyền địa phương ở thị trấn là cấp chính quyền địa phương gồm có Hội đồng nhân dân thị trấn và Ủy ban nhân dân thị trấn."
     },
     {
         "id": "Điều 66.1",
@@ -2415,6 +2520,13 @@
         "text": "Bãi bỏ một phần hoặc toàn bộ văn bản trái pháp luật của Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân thị trấn."
     },
     {
+        "id": "Điều 69.0",
+        "article": "Điều 69",
+        "clause": "0",
+        "title": "Cơ cấu tổ chức của Ủy ban nhân dân thị trấn",
+        "text": "Ủy ban nhân dân thị trấn gồm Chủ tịch, Phó Chủ tịch, Ủy viên phụ trách quân sự, Ủy viên phụ trách công an. Ủy ban nhân dân thị trấn loại I có không quá hai Phó Chủ tịch; thị trấn loại II và loại III có một Phó Chủ tịch."
+    },
+    {
         "id": "Điều 70.1",
         "article": "Điều 70",
         "clause": "1",
@@ -2497,6 +2609,13 @@
         "clause": "3",
         "title": "Nhiệm vụ, quyền hạn của chính quyền địa phương ở hải đảo",
         "text": "Việc quy định nhiệm vụ, quyền hạn cụ thể cho chính quyền địa phương tại các đơn vị hành chính ở hải đảo trong các văn bản quy phạm pháp luật khác phải bảo đảm tăng cường quyền tự chủ, tự chịu trách nhiệm của các cơ quan nhà nước tại địa phương, bảo đảm linh hoạt, chủ động ứng phó khi có sự kiện, tình huống đột xuất, bất ngờ xảy ra nhằm bảo vệ vững chắc độc lập, chủ quyền, toàn vẹn lãnh thổ quốc gia trên các vùng biển, hải đảo, phát huy lợi thế, tiềm năng kinh tế biển, hội nhập kinh tế quốc tế, bảo đảm thu hút người dân ra sinh sống, bảo vệ và phát triển hải đảo. CHƯƠNG V CHÍNH QUYỀN ĐỊA PHƯƠNG Ở ĐƠN VỊ HÀNH CHÍNH - KINH TẾ ĐẶC BIỆT"
+    },
+    {
+        "id": "Điều 74.0",
+        "article": "Điều 74",
+        "clause": "0",
+        "title": "Đơn vị hành chính - kinh tế đặc biệt",
+        "text": "Đơn vị hành chính - kinh tế đặc biệt do Quốc hội quyết định thành lập, được áp dụng các cơ chế, chính sách đặc biệt về kinh tế - xã hội, có chính quyền địa phương được tổ chức phù hợp với đặc điểm, yêu cầu, mục tiêu phát triển kinh tế - xã hội của đơn vị hành chính - kinh tế đặc biệt đó."
     },
     {
         "id": "Điều 75.1",
@@ -2644,6 +2763,13 @@
         "clause": "4",
         "title": "Khách mời tham dự kỳ họp Hội đồng nhân dân",
         "text": "Đại diện đơn vị vũ trang nhân dân, tổ chức xã hội, tổ chức kinh tế, khách quốc tế, cơ quan báo chí và công dân có thể được tham dự các phiên họp công khai của Hội đồng nhân dân."
+    },
+    {
+        "id": "Điều 82.0",
+        "article": "Điều 82",
+        "clause": "0",
+        "title": "Trách nhiệm của chủ tọa phiên họp Hội đồng nhân dân",
+        "text": "Chủ tịch Hội đồng nhân dân khai mạc và bế mạc kỳ họp, chủ tọa phiên họp Hội đồng nhân dân, bảo đảm thực hiện chương trình kỳ họp và những quy định về kỳ họp Hội đồng nhân dân. Phó Chủ tịch Hội đồng nhân dân giúp Chủ tịch Hội đồng nhân dân trong việc điều hành phiên họp theo sự phân công của Chủ tịch Hội đồng nhân dân. Tại kỳ họp thứ nhất của mỗi khóa Hội đồng nhân dân, người tiến hành triệu tập kỳ họp Hội đồng nhân dân quy định tại khoản 1 Điều 80 của Luật này khai mạc kỳ họp và chủ tọa các phiên họp Hội đồng nhân dân cho đến khi Hội đồng nhân dân bầu ra Chủ tịch Hội đồng nhân dân khóa mới."
     },
     {
         "id": "Điều 83.1",
@@ -3801,6 +3927,13 @@
         "text": "Chủ tịch Ủy ban nhân dân phải thông báo kết quả biểu quyết bằng hình thức gửi phiếu ghi ý kiến tại phiên họp Ủy ban nhân dân gần nhất."
     },
     {
+        "id": "Điều 119.0",
+        "article": "Điều 119",
+        "clause": "0",
+        "title": "Biên bản phiên họp Ủy ban nhân dân",
+        "text": "Các phiên họp Ủy ban nhân dân phải được lập thành biên bản. Biên bản phải ghi đầy đủ nội dung các ý kiến phát biểu và diễn biến của phiên họp, ý kiến kết luận của chủ tọa phiên họp hoặc kết quả biểu quyết."
+    },
+    {
         "id": "Điều 120.1",
         "article": "Điều 120",
         "clause": "1",
@@ -3925,6 +4058,13 @@
         "clause": "4",
         "title": "Điều động, cách chức Chủ tịch Ủy ban nhân dân, Phó Chủ tịch Ủy ban nhân dân",
         "text": "Người đã quyết định điều động, cách chức Chủ tịch Ủy ban nhân dân giao quyền Chủ tịch Ủy ban nhân dân; thông báo cho Hội đồng nhân dân về việc điều động, cách chức Chủ tịch Ủy ban nhân dân, Phó Chủ tịch Ủy ban nhân dân, giao quyền Chủ tịch Ủy ban nhân dân để Hội đồng nhân dân bầu Chủ tịch Ủy ban nhân dân, Phó Chủ tịch Ủy ban nhân dân mới tại kỳ họp gần nhất."
+    },
+    {
+        "id": "Điều 125.0",
+        "article": "Điều 125",
+        "clause": "0",
+        "title": "Tổ chức hội nghị trao đổi, đối thoại giữa Ủy ban nhân dân cấp xã với Nhân dân",
+        "text": "Hằng năm, Ủy ban nhân dân cấp xã có trách nhiệm tổ chức ít nhất một lần hội nghị trao đổi, đối thoại với Nhân dân ở địa phương về tình hình hoạt động của Ủy ban nhân dân và những vấn đề liên quan đến quyền và nghĩa vụ của công dân ở địa phương; trường hợp quy mô đơn vị hành chính cấp xã quá lớn, có thể tổ chức trao đổi, đối thoại với Nhân dân theo từng cụm thôn, tổ dân phố. Ủy ban nhân dân phải thông báo trên các phương tiện thông tin đại chúng và thông báo đến Trưởng thôn, Tổ trưởng tổ dân phố về thời gian, địa điểm, nội dung của hội nghị trao đổi, đối thoại với Nhân dân chậm nhất là 07 ngày trước ngày tổ chức hội nghị. Mục 3 TRỤ SỞ, KINH PHÍ HOẠT ĐỘNG, BỘ MÁY GIÚP VIỆC CỦA CHÍNH QUYỀN ĐỊA PHƯƠNG"
     },
     {
         "id": "Điều 126.1",
@@ -4515,6 +4655,13 @@
         "text": "Ủy ban thường vụ Quốc hội quyết định và công bố ngày bầu cử đại biểu Hội đồng nhân dân trong trường hợp giải tán Hội đồng nhân dân cấp tỉnh; Thường trực Hội đồng nhân dân cấp tỉnh quyết định và công bố ngày bầu cử đại biểu Hội đồng nhân dân trong trường hợp giải tán Hội đồng nhân dân cấp huyện, cấp xã. Việc bầu cử đại biểu Hội đồng nhân dân được thực hiện theo quy định của pháp luật về bầu cử. Hội đồng nhân dân mới được bầu ra làm nhiệm vụ cho đến khi hết nhiệm kỳ của Hội đồng nhân dân đã bị giải tán. CHƯƠNG VIII ĐIỀU KHOẢN THI HÀNH"
     },
     {
+        "id": "Điều 140.0",
+        "article": "Điều 140",
+        "clause": "0",
+        "title": "Sửa đổi, bổ sung Điều 4 của Luật quy hoạch đô thị",
+        "text": "Sửa đổi, bổ sung Điều 4 của Luật quy hoạch đô thị số 30/2009/QH12 như sau: “Điều 4. Phân loại đô thị"
+    },
+    {
         "id": "Điều 140.1",
         "article": "Điều 140",
         "clause": "1",
@@ -4564,6 +4711,13 @@
         "text": "Chính phủ trình Ủy ban thường vụ Quốc hội quy định cụ thể việc phân loại đô thị phù hợp từng giai đoạn phát triển kinh tế - xã hội.”"
     },
     {
+        "id": "Điều 141.0",
+        "article": "Điều 141",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2016. Luật tổ chức Hội đồng nhân dân và Ủy ban nhân dân số 11/2003/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ trường hợp quy định tại Điều 142 của Luật này."
+    },
+    {
         "id": "Điều 142.1",
         "article": "Điều 142",
         "clause": "1",
@@ -4576,5 +4730,12 @@
         "clause": "2",
         "title": "Điều khoản chuyển tiếp",
         "text": "Chấm dứt việc thực hiện thí điểm không tổ chức Hội đồng nhân dân huyện, quận, phường theo Nghị quyết số 26/2008/QH12 của Quốc hội, Nghị quyết số 724/2009/UBTVQH12 của Ủy ban thường vụ Quốc hội kể từ ngày 01 tháng 01 năm 2016. Ủy ban nhân dân huyện, quận, phường nơi không tổ chức Hội đồng nhân dân huyện, quận, phường tiếp tục giữ nguyên cơ cấu tổ chức và thực hiện các nhiệm vụ, quyền hạn theo quy định của Luật tổ chức Hội đồng nhân dân và Ủy ban nhân dân số 11/2003/QH11, Nghị quyết số 26/2008/QH12 của Quốc hội và Nghị quyết số 725/2009/UBTVQH12 của Ủy ban thường vụ Quốc hội cho đến khi bầu ra chính quyền địa phương ở huyện, quận, phường theo quy định của Luật này."
+    },
+    {
+        "id": "Điều 143.0",
+        "article": "Điều 143",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Ủy ban thường vụ Quốc hội, Chính phủ quy định chi tiết các điều, khoản được giao trong Luật và hướng dẫn việc thi hành Luật. ------------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 19 tháng 6 năm 2015. CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Sinh Hùng"
     }
 ]

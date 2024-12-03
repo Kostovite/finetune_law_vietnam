@@ -15,7 +15,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về hoạt động điện ảnh; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, cá nhân tham gia hoạt động điện ảnh; quản lý nhà nước về điện ảnh.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -43,13 +49,18 @@
             "title": "Giải thích từ ngữ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Điện ảnh là ngành nghệ thuật tổng hợp, áp dụng công nghệ nghe nhìn và các thủ pháp sáng tác để sản xuất phim.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Phim là tác phẩm điện ảnh, có nội dung, được biểu hiện bằng hình ảnh động liên tiếp hoặc hình ảnh do các thiết bị kỹ thuật, công nghệ tạo ra; có hoặc không có âm thanh và các hiệu ứng khác theo nguyên tắc của ngôn ngữ điện ảnh; được ghi trên các chất liệu, bằng kỹ thuật số hoặc phương tiện kỹ thuật khác và được phổ biến đến người xem, bao gồm các loại hình phim truyện, phim tài liệu, phim khoa học, phim hoạt hình và phim kết hợp nhiều loại hình.",
+                    "text": "Phim là tác phẩm điện ảnh, có nội dung, được biểu hiện bằng hình ảnh động liên tiếp hoặc hình ảnh do các thiết bị kỹ thuật, công nghệ tạo ra; có hoặc không có âm thanh và các hiệu ứng khác theo nguyên tắc của ngôn ngữ điện ảnh; được ghi trên các chất liệu, bằng kỹ thuật số hoặc phương tiện kỹ thuật khác và được phổ biến đến người xem, bao gồm các loại hình phim truyện, phim tài liệu, phim khoa học, phim hoạt hình và phim kết hợp nhiều loại hình. Phim không bao gồm sản phẩm ghi hình nhằm mục đích phổ biến tin tức trên dịch vụ phát thanh, truyền hình, không gian mạng; chương trình biểu diễn nghệ thuật, trò chơi điện tử; sản phẩm ghi hình về hoạt động của một hoặc nhiều người, mô tả các sự kiện, tình huống hoặc chương trình thực tế.",
                     "sub_clauses": []
                 },
                 {
@@ -267,6 +278,11 @@
             "title": "Tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp về điện ảnh",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp về điện ảnh được thành lập và hoạt động theo quy định của pháp luật về hội có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Bảo vệ quyền và lợi ích hợp pháp của hội viên theo quy định của pháp luật;",
                     "sub_clauses": []
@@ -374,7 +390,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Nghiêm cấm thực hiện các hành vi sau đây:",
+                    "text": "Nghiêm cấm thực hiện các hành vi sau đây: Chương II SẢN XUẤT PHIM",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -571,7 +587,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trình tự, thủ tục cấp Giấy phép cung cấp dịch vụ quay phim sử dụng bối cảnh tại Việt Nam cho tổ chức, cá nhân nước ngoài được quy định như sau:",
+                    "text": "Trình tự, thủ tục cấp Giấy phép cung cấp dịch vụ quay phim sử dụng bối cảnh tại Việt Nam cho tổ chức, cá nhân nước ngoài được quy định như sau: Trường hợp kịch bản phải sửa nội dung do vi phạm quy định tại Điều 9 của Luật này và quy định khác của pháp luật có liên quan hoặc hồ sơ phải sửa đổi, bổ sung thông tin theo yêu cầu của Bộ Văn hóa, Thể thao và Du lịch, trong thời hạn 20 ngày kể từ ngày nhận được kịch bản đã sửa nội dung hoặc hồ sơ đã sửa đổi, bổ sung đầy đủ thông tin, Bộ Văn hóa, Thể thao và Du lịch thực hiện cấp Giấy phép.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -648,7 +664,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chính phủ quy định chi tiết khoản 1 và điểm a khoản 3 Điều này.",
+                    "text": "Chính phủ quy định chi tiết khoản 1 và điểm a khoản 3 Điều này. Chương III PHÁT HÀNH PHIM",
                     "sub_clauses": []
                 }
             ]
@@ -694,7 +710,13 @@
         {
             "id": "Điều 16",
             "title": "Trao đổi, mua, bán, cho thuê phim",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân trao đổi, mua, bán, cho thuê phim theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 17",
@@ -717,7 +739,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Nhà nước khuyến khích, tạo điều kiện cho tổ chức, cá nhân tham gia xuất khẩu phim.",
+                    "text": "Nhà nước khuyến khích, tạo điều kiện cho tổ chức, cá nhân tham gia xuất khẩu phim. Chương IV PHỔ BIẾN PHIM",
                     "sub_clauses": []
                 }
             ]
@@ -1013,6 +1035,11 @@
             "title": "Phổ biến phim tại trụ sở cơ quan ngoại giao, cơ sở văn hóa nước ngoài được thành lập tại Việt Nam",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Việc phổ biến phim tại trụ sở cơ quan ngoại giao, cơ sở văn hóa nước ngoài được thành lập tại Việt Nam cho đối tượng không phải là cán bộ, nhân viên của tổ chức đó phải bảo đảm các quy định sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Thực hiện theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;",
                     "sub_clauses": []
@@ -1043,7 +1070,13 @@
         {
             "id": "Điều 26",
             "title": "Quảng cáo sản phẩm, hàng hóa, dịch vụ trong phim",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc quảng cáo sản phẩm, hàng hóa, dịch vụ trong phim được thực hiện theo quy định của pháp luật về quảng cáo và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 27",
@@ -1092,7 +1125,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trình tự, thủ tục cấp Giấy phép phân loại phim được quy định như sau:",
+                    "text": "Trình tự, thủ tục cấp Giấy phép phân loại phim được quy định như sau: Trường hợp phim phải điều chỉnh nội dung hoặc hồ sơ phải sửa đổi, bổ sung thông tin theo yêu cầu của cơ quan nhà nước có thẩm quyền quy định tại khoản 1 Điều này, trong thời hạn 15 ngày kể từ ngày nhận được bản phim đã điều chỉnh nội dung, 10 ngày kể từ ngày nhận được hồ sơ đã sửa đổi, bổ sung đầy đủ thông tin, Cơ quan nhà nước có thẩm quyền thực hiện cấp Giấy phép.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1117,7 +1150,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp thay đổi tên phim mà không thay đổi nội dung phim đã được cấp Giấy phép phân loại phim, tổ chức, cá nhân phải thông báo bằng văn bản cho cơ quan nhà nước có thẩm quyền đã cấp Giấy phép phân loại phim.",
+                    "text": "Trường hợp thay đổi tên phim mà không thay đổi nội dung phim đã được cấp Giấy phép phân loại phim, tổ chức, cá nhân phải thông báo bằng văn bản cho cơ quan nhà nước có thẩm quyền đã cấp Giấy phép phân loại phim. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được thông báo, nếu không đồng ý, Cơ quan nhà nước có thẩm quyền phải trả lời bằng văn bản và nêu rõ lý do.",
                     "sub_clauses": []
                 }
             ]
@@ -1142,7 +1175,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan cấp Giấy phép phân loại phim, tổ chức, cá nhân bị thu hồi Giấy phép phân loại phim có trách nhiệm khắc phục vi phạm quy định tại khoản 1 Điều này do mình gây ra.",
+                    "text": "Cơ quan cấp Giấy phép phân loại phim, tổ chức, cá nhân bị thu hồi Giấy phép phân loại phim có trách nhiệm khắc phục vi phạm quy định tại khoản 1 Điều này do mình gây ra. Việc tiếp tục đề nghị cấp Giấy phép phân loại phim sau khi đã khắc phục vi phạm thực hiện theo quy định tại Điều 27 của Luật này.",
                     "sub_clauses": []
                 }
             ]
@@ -1172,7 +1205,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trường hợp có nhu cầu tiếp tục phổ biến phim, tổ chức gửi văn bản đề xuất việc tiếp tục phổ biến phim đến cơ quan nhà nước có thẩm quyền xem xét, quyết định.",
+                    "text": "Trường hợp có nhu cầu tiếp tục phổ biến phim, tổ chức gửi văn bản đề xuất việc tiếp tục phổ biến phim đến cơ quan nhà nước có thẩm quyền xem xét, quyết định. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề xuất việc tiếp tục phổ biến phim, Cơ quan nhà nước có thẩm quyền xem xét, quyết định và thông báo kết quả bằng văn bản đến tổ chức đã đề xuất việc phổ biến phim.",
                     "sub_clauses": []
                 },
                 {
@@ -1252,7 +1285,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tiêu chí phân loại phim áp dụng chung cho các hình thức phổ biến phim do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định.",
+                    "text": "Tiêu chí phân loại phim áp dụng chung cho các hình thức phổ biến phim do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định. Chương V LƯU CHIỂU PHIM, LƯU TRỮ PHIM",
                     "sub_clauses": []
                 }
             ]
@@ -1374,7 +1407,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Mở mã khóa phim để đối chiếu, kiểm tra khi có yêu cầu của cơ quan nhà nước có thẩm quyền.",
+                    "text": "Mở mã khóa phim để đối chiếu, kiểm tra khi có yêu cầu của cơ quan nhà nước có thẩm quyền. Chương VI QUẢNG BÁ, XÚC TIẾN PHÁT TRIỂN ĐIỆN ẢNH; QUỸ HỖ TRỢ PHÁT TRIỂN ĐIỆN ẢNH Mục 1 QUẢNG BÁ, XÚC TIẾN PHÁT TRIỂN ĐIỆN ẢNH",
                     "sub_clauses": []
                 }
             ]
@@ -1458,7 +1491,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Trình tự, thủ tục cấp giấy phép tổ chức liên hoan phim, liên hoan phim chuyên ngành, chuyên đề, giải thưởng phim, cuộc thi phim, chương trình phim và tuần phim được quy định như sau:",
+                    "text": "Trình tự, thủ tục cấp giấy phép tổ chức liên hoan phim, liên hoan phim chuyên ngành, chuyên đề, giải thưởng phim, cuộc thi phim, chương trình phim và tuần phim được quy định như sau: Trường hợp hồ sơ phải điều chỉnh nội dung hoặc bổ sung thông tin theo yêu cầu của Bộ Văn hóa, Thể thao và Du lịch, trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ đã điều chỉnh nội dung hoặc bổ sung đầy đủ thông tin, Bộ Văn hóa, Thể thao và Du lịch thực hiện cấp giấy phép.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1540,7 +1573,13 @@
         {
             "id": "Điều 41",
             "title": "Chế độ ưu đãi đối với tổ chức nước ngoài sử dụng dịch vụ sản xuất phim tại Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức nước ngoài sản xuất phim sử dụng bối cảnh quay tại Việt Nam, các dịch vụ sản xuất phim do tổ chức của Việt Nam cung cấp được ưu đãi về thuế theo quy định của pháp luật về thuế. Mục 2 QUỸ HỖ TRỢ PHÁT TRIỂN ĐIỆN ẢNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 42",
@@ -1605,7 +1644,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Số dư kinh phí năm trước của Quỹ hỗ trợ phát triển điện ảnh được chuyển sang năm sau để tiếp tục sử dụng.",
+                    "text": "Số dư kinh phí năm trước của Quỹ hỗ trợ phát triển điện ảnh được chuyển sang năm sau để tiếp tục sử dụng. Chương VII TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ ĐIỆN ẢNH",
                     "sub_clauses": []
                 }
             ]
@@ -1666,7 +1705,13 @@
         {
             "id": "Điều 46",
             "title": "Trách nhiệm quản lý nhà nước về điện ảnh của Bộ, Cơ quan ngang Bộ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ, Cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Văn hóa, Thể thao và Du lịch thực hiện quản lý nhà nước về điện ảnh.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 47",
@@ -1679,7 +1724,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quy định tại khoản 1 Điều này và các nhiệm vụ sau đây:",
+                    "text": "Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quy định tại khoản 1 Điều này và các nhiệm vụ sau đây: Chương VIII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1712,7 +1757,13 @@
         {
             "id": "Điều 48",
             "title": "Sửa đổi, bổ sung Luật Đầu tư số 61/2020/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 72/2020/QH14 và Luật số 03/2022/QH15",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Sửa đổi, bổ sung mục 192 thuộc Phụ lục IV - Danh mục ngành, nghề đầu tư kinh doanh có điều kiện ban hành kèm theo Luật Đầu tư số 61/2020/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 72/2020/QH14 và Luật số 03/2022/QH15 như sau: 192 Kinh doanh dịch vụ phổ biến phim",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 49",
@@ -1736,16 +1787,20 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Giấy phép phổ biến phim, Quyết định phát sóng được cấp theo quy định của Luật Điện ảnh số 62/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 31/2009/QH12, Luật số 35/2018/QH14 và Luật số 61/2020/QH14 được tiếp tục thực hiện theo quy định trong Giấy phép phổ biến phim, Quyết định phát sóng.",
+                    "text": "Giấy phép phổ biến phim, Quyết định phát sóng được cấp theo quy định của Luật Điện ảnh số 62/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 31/2009/QH12, Luật số 35/2018/QH14 và Luật số 61/2020/QH14 được tiếp tục thực hiện theo quy định trong Giấy phép phổ biến phim, Quyết định phát sóng. Giấy phép hợp tác, liên doanh sản xuất phim, cung cấp dịch vụ sản xuất phim cho tổ chức, cá nhân nước ngoài được cấp theo quy định của Luật Điện ảnh số 62/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 31/2009/QH12, Luật số 35/2018/QH14 và Luật số 61/2020/QH14 thì tiếp tục có hiệu lực đến hết thời hạn ghi trong giấy phép.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Phim đã được cấp Giấy phép phổ biến phim hoặc Quyết định phát sóng nhưng chưa thực hiện cảnh báo và hiển thị mức phân loại phim đến người xem theo quy định của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch thì trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành phải bổ sung cảnh báo và hiển thị mức phân loại phim đến người xem trong trường hợp tiếp tục phổ biến.",
+                    "text": "Phim đã được cấp Giấy phép phổ biến phim hoặc Quyết định phát sóng nhưng chưa thực hiện cảnh báo và hiển thị mức phân loại phim đến người xem theo quy định của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch thì trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành phải bổ sung cảnh báo và hiển thị mức phân loại phim đến người xem trong trường hợp tiếp tục phổ biến. ____________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 3 thông qua ngày 15 tháng 6 năm 2022./. CHỦ TỊCH QUỐC HỘI Vương Đình Huệ",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 3 thông qua ngày 15 tháng 6 năm 2022./.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Vương Đình Huệ"
+    ]
 }

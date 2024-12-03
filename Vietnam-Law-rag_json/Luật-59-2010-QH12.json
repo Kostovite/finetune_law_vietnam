@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quyền và nghĩa vụ của người tiêu dùng; trách nhiệm của tổ chức, cá nhân kinh doanh hàng hoá, dịch vụ đối với người tiêu dùng; trách nhiệm của tổ chức xã hội trong việc tham gia bảo vệ quyền lợi người tiêu dùng; giải quyết tranh chấp giữa người tiêu dùng và tổ chức, cá nhân kinh doanh hàng hoá, dịch vụ; trách nhiệm quản lý nhà nước về bảo vệ quyền lợi người tiêu dùng."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với người tiêu dùng; tổ chức, cá nhân kinh doanh hàng hóa, dịch vụ; cơ quan, tổ chức, cá nhân có liên quan đến hoạt động bảo vệ quyền lợi người tiêu dùng trên lãnh thổ Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -539,6 +560,13 @@
         "text": "Chính phủ quy định chi tiết các hình thức giao kết hợp đồng khác với người tiêu dùng."
     },
     {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Giải thích hợp đồng giao kết với người tiêu dùng",
+        "text": "Trong trường hợp hiểu khác nhau về nội dung hợp đồng thì tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp giải thích theo hướng có lợi cho người tiêu dùng."
+    },
+    {
         "id": "Điều 16.1",
         "article": "Điều 16",
         "clause": "1",
@@ -679,6 +707,13 @@
         "text": "Trường hợp giao dịch bằng phương tiện điện tử thì tổ chức, cá nhân kinh doanh hàng hóa, dịch vụ có trách nhiệm tạo điều kiện cho người tiêu dùng truy nhập, tải, lưu giữ và in hóa đơn, chứng từ, tài liệu quy định tại khoản 1 Điều này."
     },
     {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Trách nhiệm bảo hành hàng hóa, linh kiện, phụ kiện",
+        "text": "Hàng hoá, linh kiện, phụ kiện được bảo hành theo thoả thuận của các bên hoặc bắt buộc bảo hành theo quy định của pháp luật. Trường hợp hàng hoá, linh kiện, phụ kiện được bảo hành, tổ chức, cá nhân kinh doanh hàng hoá có trách nhiệm:"
+    },
+    {
         "id": "Điều 21.1",
         "article": "Điều 21",
         "clause": "1",
@@ -726,6 +761,13 @@
         "clause": "7",
         "title": "Trách nhiệm bảo hành hàng hóa, linh kiện, phụ kiện",
         "text": "Chịu trách nhiệm về việc bảo hành hàng hóa, linh kiện, phụ kiện cho người tiêu dùng cả trong trường hợp ủy quyền cho tổ chức, cá nhân khác thực hiện việc bảo hành."
+    },
+    {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Trách nhiệm thu hồi hàng hóa có khuyết tật",
+        "text": "Khi phát hiện hàng hóa có khuyết tật, tổ chức, cá nhân sản xuất, nhập khẩu hàng hoá có trách nhiệm:"
     },
     {
         "id": "Điều 22.1",
@@ -838,6 +880,13 @@
         "clause": "3",
         "title": "Trách nhiệm bồi thường thiệt hại do hàng hóa có khuyết tật gây ra",
         "text": "Việc bồi thường thiệt hại được thực hiện theo quy định của pháp luật về dân sự."
+    },
+    {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Miễn trách nhiệm bồi thường thiệt hại do hàng hóa có khuyết tật gây ra",
+        "text": "Tổ chức, cá nhân kinh doanh hàng hoá quy định tại Điều 23 của Luật này được miễn trách nhiệm bồi thường thiệt hại khi chứng minh được khuyết tật của hàng hoá không thể phát hiện được với trình độ khoa học, kỹ thuật tại thời điểm tổ chức, cá nhân kinh doanh hàng hoá cung cấp cho người tiêu dùng."
     },
     {
         "id": "Điều 25.1",
@@ -1085,6 +1134,20 @@
         "text": "Tổ chức, cá nhân kinh doanh hàng hóa, dịch vụ có trách nhiệm tiếp nhận, tiến hành thương lượng với người tiêu dùng trong thời hạn không quá 07 ngày làm việc, kể từ ngày nhận được yêu cầu."
     },
     {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Kết quả thương lượng",
+        "text": "Kết quả thương lượng thành của tổ chức, cá nhân kinh doanh hàng hóa, dịch vụ với người tiêu dùng được lập thành văn bản, trừ trường hợp các bên có thoả thuận khác. Mục 2 HÒA GIẢI"
+    },
+    {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Hòa giải",
+        "text": "Tổ chức, cá nhân kinh doanh hàng hoá, dịch vụ và người tiêu dùng có quyền thoả thuận lựa chọn bên thứ ba là cá nhân hoặc tổ chức hòa giải để thực hiện việc hòa giải."
+    },
+    {
         "id": "Điều 34.1",
         "article": "Điều 34",
         "clause": "1",
@@ -1097,6 +1160,13 @@
         "clause": "2",
         "title": "Nguyên tắc thực hiện hòa giải",
         "text": "Tổ chức, cá nhân tiến hành hòa giải, các bên tham gia hòa giải phải bảo đảm bí mật thông tin liên quan đến việc hoà giải, trừ trường hợp các bên có thỏa thuận khác hoặc pháp luật có quy định khác."
+    },
+    {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Tổ chức hòa giải",
+        "text": "Tổ chức, cá nhân có đủ điều kiện theo quy định của Chính phủ được thành lập tổ chức hòa giải để giải quyết tranh chấp giữa người tiêu dùng và tổ chức, cá nhân kinh doanh hàng hoá, dịch vụ."
     },
     {
         "id": "Điều 36.1",
@@ -1160,6 +1230,34 @@
         "clause": "2",
         "title": "Biên bản hòa giải",
         "text": "Biên bản hòa giải phải có chữ ký của các bên tham gia hòa giải và chữ ký xác nhận của tổ chức, cá nhân tiến hành hoà giải."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Thực hiện kết quả hòa giải thành",
+        "text": "Các bên có trách nhiệm thực hiện kết quả hòa giải thành trong thời hạn đã thỏa thuận trong biên bản hòa giải; trường hợp một bên không tự nguyện thực hiện thì bên kia có quyền khởi kiện ra Toà án để yêu cầu giải quyết theo quy định của pháp luật. Mục 3 TRỌNG TÀI"
+    },
+    {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Hiệu lực của điều khoản trọng tài",
+        "text": "Tổ chức, cá nhân kinh doanh hàng hoá, dịch vụ phải thông báo về điều khoản trọng tài trước khi giao kết hợp đồng và được người tiêu dùng chấp thuận. Trường hợp điều khoản trọng tài do tổ chức, cá nhân kinh doanh hàng hoá, dịch vụ đưa vào hợp đồng theo mẫu hoặc điều kiện giao dịch chung thì khi xảy ra tranh chấp, người tiêu dùng là cá nhân có quyền lựa chọn phương thức giải quyết tranh chấp khác."
+    },
+    {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Trình tự, thủ tục giải quyết tranh chấp tại trọng tài",
+        "text": "Trình tự, thủ tục giải quyết tranh chấp tại trọng tài được thực hiện theo quy định của pháp luật về trọng tài thương mại."
+    },
+    {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Nghĩa vụ chứng minh",
+        "text": "Nghĩa vụ chứng minh trong giải quyết tranh chấp tại trọng tài được thực hiện theo quy định tại Điều 42 của Luật này. Mục 4 GIẢI QUYẾT TRANH CHẤP TẠI TÒA ÁN"
     },
     {
         "id": "Điều 41.1",
@@ -1281,6 +1379,20 @@
         "text": "Tòa án có trách nhiệm niêm yết công khai tại trụ sở Tòa án thông tin về việc thụ lý vụ án trong thời hạn 03 ngày làm việc, kể từ ngày thụ lý vụ án theo quy định của pháp luật tố tụng dân sự."
     },
     {
+        "id": "Điều 45.0",
+        "article": "Điều 45",
+        "clause": "0",
+        "title": "Thông báo bản án, quyết định của Tòa án giải quyết vụ án dân sự về bảo vệ quyền lợi người tiêu dùng do tổ chức xã hội khởi kiện",
+        "text": "Bản án, quyết định của Toà án giải quyết vụ án dân sự về bảo vệ quyền lợi người tiêu dùng do tổ chức xã hội khởi kiện phải được niêm yết công khai tại trụ sở Toà án và công bố công khai trên phương tiện thông tin đại chúng bằng hình thức thích hợp."
+    },
+    {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Tiền bồi thường thiệt hại trong vụ án dân sự về bảo vệ quyền lợi người tiêu dùng do tổ chức xã hội khởi kiện vì lợi ích công cộng",
+        "text": "Tiền bồi thường thiệt hại trong vụ án dân sự về bảo vệ quyền lợi người tiêu dùng do tổ chức xã hội tham gia bảo vệ quyền lợi người tiêu dùng khởi kiện vì lợi ích công cộng được thực hiện theo bản án, quyết định của Tòa án. CHƯƠNG V TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ BẢO VỆ QUYỀN LỢI NGƯỜI TIÊU DÙNG"
+    },
+    {
         "id": "Điều 47.1",
         "article": "Điều 47",
         "clause": "1",
@@ -1377,5 +1489,19 @@
         "clause": "4",
         "title": "Trách nhiệm của Ủy ban nhân dân các cấp",
         "text": "Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về bảo vệ quyền lợi người tiêu dùng theo thẩm quyền. CHƯƠNG VI ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 50.0",
+        "article": "Điều 50",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2011. Pháp lệnh bảo vệ quyền lợi người tiêu dùng số 13/1999/PL-UBTVQH10 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 8 thông qua ngày 17 tháng 11 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

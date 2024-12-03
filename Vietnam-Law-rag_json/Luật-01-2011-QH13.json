@@ -14,6 +14,13 @@
         "text": "Luật này áp dụng đối với cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, tổ chức kinh tế, đơn vị sự nghiệp, đơn vị vũ trang nhân dân (sau đây gọi chung là cơ quan, tổ chức) và cá nhân."
     },
     {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -285,6 +292,13 @@
         "clause": "4b",
         "title": "Quản lý tài liệu của cá nhân, gia đình, dòng họ",
         "text": "Trả phí bảo quản theo quy định của pháp luật đối với tài liệu ký gửi tại Lưu trữ lịch sử, trừ tài liệu đã được đăng ký."
+    },
+    {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Trách nhiệm của người đứng đầu cơ quan, tổ chức",
+        "text": "Người đứng đầu cơ quan, tổ chức trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm quản lý về lưu trữ, áp dụng các biện pháp nhằm nâng cao hiệu quả trong việc thu thập, quản lý, bảo quản và sử dụng tài liệu lưu trữ; ban hành quy chế về công tác lưu trữ của cơ quan, tổ chức mình."
     },
     {
         "id": "Điều 7.1",
@@ -784,6 +798,20 @@
         "text": "Mục lục hồ sơ, tài liệu nộp lưu và Biên bản giao nhận hồ sơ, tài liệu được lập thành 03 bản; cơ quan, tổ chức giao nộp hồ sơ, tài liệu giữ 01 bản, Lưu trữ lịch sử giữ 02 bản và được lưu trữ vĩnh viễn tại cơ quan, tổ chức, Lưu trữ lịch sử."
     },
     {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Quản lý tài liệu lưu trữ của cơ quan, tổ chức không thuộc Danh mục cơ quan, tổ chức thuộc nguồn nộp lưu tài liệu hoặc tài liệu không thuộc Danh mục tài liệu nộp lưu vào Lưu trữ lịch sử",
+        "text": "Tài liệu lưu trữ được hình thành trong quá trình hoạt động của cơ quan, tổ chức không thuộc Danh mục cơ quan, tổ chức thuộc nguồn nộp lưu tài liệu hoặc tài liệu không thuộc Danh mục tài liệu nộp lưu vào Lưu trữ lịch sử được quản lý tại Lưu trữ cơ quan."
+    },
+    {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Quản lý tài liệu lưu trữ trong trường hợp cơ quan, tổ chức chia, tách, sáp nhập, giải thể; tổ chức kinh tế là doanh nghiệp nhà nước chia, tách, sáp nhập, giải thể, chuyển đổi hình thức sở hữu hoặc phá sản",
+        "text": "Cơ quan, tổ chức chia, tách, sáp nhập, giải thể; tổ chức kinh tế là doanh nghiệp nhà nước chia, tách, sáp nhập, giải thể, chuyển đổi hình thức sở hữu hoặc phá sản thì người đứng đầu cơ quan, tổ chức, doanh nghiệp phải tổ chức quản lý và giao nộp tài liệu theo quy định sau đây:"
+    },
+    {
         "id": "Điều 24.1",
         "article": "Điều 24",
         "clause": "1",
@@ -1188,6 +1216,13 @@
         "clause": "7",
         "title": "Sử dụng tài liệu lưu trữ tại Lưu trữ lịch sử",
         "text": "Người sử dụng tài liệu lưu trữ tại Lưu trữ lịch sử phải có Giấy chứng minh nhân dân hoặc Hộ chiếu; trường hợp sử dụng để phục vụ công tác thì phải có giấy giới thiệu hoặc văn bản đề nghị của cơ quan, tổ chức nơi công tác."
+    },
+    {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Sử dụng tài liệu lưu trữ tại Lưu trữ cơ quan",
+        "text": "Người đứng đầu cơ quan, tổ chức căn cứ quy định của Luật này và các quy định khác của pháp luật có liên quan quy định việc sử dụng tài liệu lưu trữ tại Lưu trữ cơ quan của cơ quan, tổ chức mình."
     },
     {
         "id": "Điều 32.1",
@@ -1636,5 +1671,19 @@
         "clause": "2g",
         "title": "Hợp tác quốc tế về lưu trữ",
         "text": "Trao đổi Danh mục tài liệu lưu trữ, bản sao tài liệu lưu trữ và tư liệu nghiệp vụ lưu trữ."
+    },
+    {
+        "id": "Điều 41.0",
+        "article": "Điều 41",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2012. Pháp lệnh lưu trữ quốc gia số 34/2001/PL-UBTVQH10 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ và cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 2 thông qua ngày 11 tháng 11 năm 2011. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

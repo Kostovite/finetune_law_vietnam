@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động đầu tư kinh doanh tại Việt Nam và hoạt động đầu tư kinh doanh từ Việt Nam ra nước ngoài."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với nhà đầu tư và cơ quan, tổ chức, cá nhân liên quan đến hoạt động đầu tư kinh doanh."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -651,6 +672,13 @@
         "text": "Căn cứ điều kiện phát triển kinh tế - xã hội và nhu cầu thu hút đầu tư trong từng thời kỳ, Thủ tướng Chính phủ quyết định áp dụng các hình thức bảo đảm của Nhà nước để thực hiện dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của Quốc hội, Thủ tướng Chính phủ và những dự án đầu tư phát triển kết cấu hạ tầng quan trọng khác. Chính phủ quy định chi tiết khoản này."
     },
     {
+        "id": "Điều 12.0",
+        "article": "Điều 12",
+        "clause": "0",
+        "title": "Bảo đảm quyền chuyển tài sản của nhà đầu tư nước ngoài ra nước ngoài",
+        "text": "Sau khi thực hiện đầy đủ nghĩa vụ tài chính đối với Nhà nước Việt Nam theo quy định của pháp luật, nhà đầu tư nước ngoài được chuyển ra nước ngoài các tài sản sau đây:"
+    },
+    {
         "id": "Điều 12.1",
         "article": "Điều 12",
         "clause": "1",
@@ -1076,6 +1104,13 @@
         "clause": "3",
         "title": "Ngành, nghề ưu đãi đầu tư và địa bàn ưu đãi đầu tư",
         "text": "Căn cứ ngành, nghề, địa bàn ưu đãi đầu tư quy định tại khoản 1 và khoản 2 Điều này, Chính phủ ban hành, sửa đổi, bổ sung Danh mục ngành, nghề ưu đãi đầu tư và Danh mục địa bàn ưu đãi đầu tư; xác định ngành, nghề đặc biệt ưu đãi đầu tư trong Danh mục ngành, nghề ưu đãi đầu tư."
+    },
+    {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Thủ tục áp dụng ưu đãi đầu tư",
+        "text": "Căn cứ đối tượng quy định tại khoản 2 Điều 15 của Luật này, văn bản chấp thuận chủ trương đầu tư (nếu có), Giấy chứng nhận đăng ký đầu tư (nếu có), quy định khác của pháp luật có liên quan, nhà đầu tư tự xác định ưu đãi đầu tư và thực hiện thủ tục hưởng ưu đãi đầu tư tại cơ quan thuế, cơ quan tài chính, cơ quan hải quan và cơ quan khác có thẩm quyền tương ứng với từng loại ưu đãi đầu tư."
     },
     {
         "id": "Điều 18.1",
@@ -1673,6 +1708,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Thẩm quyền chấp thuận chủ trương đầu tư của Quốc hội",
+        "text": "Quốc hội chấp thuận chủ trương đầu tư đối với các dự án đầu tư sau đây:"
+    },
+    {
         "id": "Điều 30.1",
         "article": "Điều 30",
         "clause": "1",
@@ -1713,6 +1755,13 @@
         "clause": "4",
         "title": "Thẩm quyền chấp thuận chủ trương đầu tư của Quốc hội",
         "text": "Dự án đầu tư có yêu cầu áp dụng cơ chế, chính sách đặc biệt cần được Quốc hội quyết định."
+    },
+    {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Thẩm quyền chấp thuận chủ trương đầu tư của Thủ tướng Chính phủ",
+        "text": "Trừ các dự án đầu tư quy định tại Điều 30 của Luật này, Thủ tướng Chính phủ chấp thuận chủ trương đầu tư đối với các dự án đầu tư sau đây:"
     },
     {
         "id": "Điều 31.1",
@@ -5170,6 +5219,244 @@
         "article": "Điều 77",
         "clause": "12",
         "title": "Quy định chuyển tiếp",
-        "text": "Chính phủ quy định chi tiết Điều này. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 9 thông qua ngày 17 tháng 6 năm 2020."
+        "text": "Chính phủ quy định chi tiết Điều này. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 9 thông qua ngày 17 tháng 6 năm 2020. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân PHỤ LỤC (Ban hành kèm theo Luật Đầu tư số 61/2020/QH14) Phụ lục I CÁC CHẤT MA TÚY CẤM ĐẦU TƯ KINH DOANH A. Các chất và muối, đồng phân, ester, ether và muối của các đồng phân, ester, ether có thể tồn tại của các chất này STT Tên chất Tên khoa học Mã thông tin CAS 1 Acetorphine 3-O-acetyltetrahydro - 7 - α - (1 - hydroxyl - 1 - methylbutyl) - 6, 14 - endoetheno - oripavine 25333-77-1 2 Acetyl-alpha- methylfenanyl N- [1 - (α - methylphenethyl) - 4 - piperidyl] acetanilide 101860-00-8 3 Alphacetylmethadol α - 3 - acetoxy - 6 - dimethylamino - 4,4 - diphenylheptane 17199-58-5 4 Alpha-methylfentanyl N- [1 - (α - methylphenethyl) - 4 - peperidyl] propionanilide 79704-88-4 5 Beta-hydroxyfentanyl N- [1- ( β - hydroxyphenethyl) - 4 - peperidyl] propionanilide 78995-10-5 6 Beta-hydroxymethyl- 3-fentanyl N- [1 - (β - hydroxyphenethyl) - 3 - methyl - 4 - piperidyl] propinonanilide 78995-14-9 7 Desomorphine Dihydrodeoxymorphine 427-00-9 8 Etorphine Tetrahydro - 7α - (1 - hydroxy - 1 - methylbutyl) - 6,14 - endoetheno - oripavine 14521-96-1 9 Heroine Diacetylmorphine 561-27-3 10 Ketobemidone 4 - meta - hydroxyphenyl -1 - methyl - 4 - propionylpiperidine 469-79-4 11 3-methylfentanyl N- (3 - methyl - 1 - phenethyl - 4 - piperidyl) propionanilide 42045-86-3 12 3 -methylthiofentanyl N- [3 - methyl -1 [2 - (2 - thienyl) ethyl] - 4 - piperidyl] propionanilide 86052-04-2 13 Morphine methobromide và các chất dẫn xuất của Morphine Nitơ hóa trị V khác (5α,6α) - 17 - Methyl - 7,8 - didehydro - 4,5 - epoxymorphinan - 3,6 - diol - bromomethane (1:1) 125-23-5 14 Para-fluorofentanyl 4’ - fluoro - N-(1 - phenethyl - 4 - piperidyl) propionanilide 90736-23-5 15 PEPAP 1 - phenethyl - 4 - phenyl - 4 - piperidinol acetate 64-52-8 16 Thiofentanyl N - (1 [2- (2 - thienyl) ethyl] - 4 - piperidyl] - 4 - propionanilide 1165-22-6 B. Các chất và muối, đồng phân có thể tồn tại của các chất này STT Tên chất Tên khoa học Mã thông tin CAS 17 Brolamphetamine (DOB) 2,5 - dimethoxy - 4 - bromoamphetamine 64638-07-9 18 Cathinone (-) - α - aminopropiophenone 71031-15-7 19 DET N, N - diethyltryptamine 7558-72-7 20 Delta-9- tetrahydrocanabinol (6aR, 10aR) - 6a, 7, 8, 10a - tetrahydro - 6,6,9 - trimethyl - 3 - pentyl - 6H- dibenzo [b,d] pyran - 1 - ol 1972-08-3 21 DMA (±) - 2,5 - dimethoxy - α - methylphenylethylamine 2801-68-5 22 DMHP 3 - (1,2 - dimethylheptyl) -1 - hydroxy - 7, 8, 9, 10 - tetrahydro - 6,6,9 - trimethyl - 6H- dibenzo [b,d] pyran 32904-22-6 23 DMT N, N - dimethyltryptamine 61-50-7 24 DOET (±) - 4 - ethyl - 2,5 - dimethoxy - α - phenethylamine 22004-32-6 25 Eticyclidine N- ethyl -1 - phenylcylohexylamine 2201-15-2 26 Etryptamine 3 - (2 - aminobuty) indole 2235-90-7 27 MDMA (±) - N - α -dimethyl - 3,4 - (methylenedioxy) phenethylamine 42542-10-9 28 Mescalin 3,4,5 - trimethoxyphenethylamine 54-04-6 29 Methcathinone 2 - (methylamino) -1 - phenylpropan - 1 - one 5650-44-2 30 4-methylaminorex (±) - cis - 2 - amino - 4 - methyl - 5 - phenyl - 2 - oxazoline 3568-94-3 31 MMDA (±) - 5 - methoxy - 3,4 - methylenedioxy - α - methylphenylethylamine 13674-05-0 32 (+)-Lysergide (LSD) 9,10 - didehydro -N, N- diethyl - 6 - methylergoline - 8β carboxamide 50-37-3 33 N-hydroxy MDA (MDOH) (±) - N- hydroxy - [α - methyl - 3,4 - (methylenedyoxy) phenethyl] hydroxylamine 74698-47-8 34 N-ethyl MDA (±) N- ethyl - methyl - 3,4 - (methylenedioxy) phenethylamine 82801-81-8 35 Parahexyl 3 - hexyl - 7, 8, 9, 10 - tetrahydro - 6, 6, 9 - trimethyl - 6H- dibenzo [b,d] pyran - 1 - ol 117-51-1 36 PMA p - methoxy - α - methylphenethylamine 64-13-1 37 Psilocine, Psilotsin 3 - [2 - (dimetylamino) ethyl] indol - 4 - ol 520-53-6 38 Psilocybine 3 - [2 - dimetylaminoethyl] indol - 4 - yl dihydrogen phosphate 520-52-5 39 Rolicyclidine 1 - (1 - phenylcyclohexy) pyrrolidine 2201-39-0 40 STP, DOM 2,5 - dimethoxy - 4,α - dimethylphenethylamine 15588-95-1 41 Tenamfetamine (MDA) α - methyl - 3,4 - (methylendioxy) phenethylamine 4764-17-4 42 Tenocyclidine (TCP) 1 - [1 - (2 - thienyl) cyclohexyl] piperidine 21500-98-1 43 TMA (+) - 3,4,5 - trimethoxy - α - methylphenylethylamine 1082-88-8 C. Các chất và muối có thể tồn tại của các chất này STT Tên chất Tên khoa học Mã thông tin CAS 44 MPPP 1 - methyl - 4 - phenyl - 4 - piperidinol propionate (ester) 13147-09-6 D. Các chất sau STT Tên chất Tên khoa học Mã thông tin CAS 45 Cần sa và các chế phẩm từ cần sa 8063-14-7 46 Lá Khat Lá cây Catha edulis 47 Thuốc phiện và các chế phẩm từ thuốc phiện (trừ trường hợp ethyl este của acid béo iod hóa trong dầu hạt thuốc phiện mà không còn chứa chất ma túy từ thuốc phiện) Phụ lục II DANH MỤC HÓA CHẤT, KHOÁNG VẬT CẤM STT Tên hóa chất theo tiếng Việt Tên hóa chất theo tiếng Anh Mã HS Mã số CAS 1 Các hợp chất O-Alkyl (<C10, gồm cả cycloalkyl) alkyl (Me, Et, n-Pr hoặc i-Pr)- phosphonofloridat O-Alkyl (<=C10, incl. cycloalkyl) alkyl (Me, Et, n- Pr or i-Pr)- phosphonofluoridates"
+    },
+    {
+        "id": "Điều 77.2931.00",
+        "article": "Điều 77",
+        "clause": "2931.00",
+        "title": "Quy định chuyển tiếp",
+        "text": " Ví dụ: Example: • Sarin: O- Isopropylmetyl phosphonofloridat • Sarin: O-Isopropyl methylphosphonofluorid ate"
+    },
+    {
+        "id": "Điều 77.2931.9080",
+        "article": "Điều 77",
+        "clause": "2931.9080",
+        "title": "Quy định chuyển tiếp",
+        "text": " 107-44-8 • Soman: O-Pinacolyl metylphosphonofloridat • Soman: O-Pinacolyl metylphosphonofloridat"
+    },
+    {
+        "id": "Điều 77.2931.9080",
+        "article": "Điều 77",
+        "clause": "2931.9080",
+        "title": "Quy định chuyển tiếp",
+        "text": " 96-64-0 2 Các hợp chất O-Alkyl (<C10, gồm cả cycloalkyl) N,N- dialkyl(Me, Et, n-Pr hoặc i-Pr)- phosphoramidocyanidat O-Alkyl (<=C10, incl. cycloalkyl) N,N-dialkyl (Me, Et, n-Pr or i-Pr) phosphoramidocyanidates"
+    },
+    {
+        "id": "Điều 77.2931.00",
+        "article": "Điều 77",
+        "clause": "2931.00",
+        "title": "Quy định chuyển tiếp",
+        "text": " Ví dụ: Example: Tabun:O-Ethyl N,N- dimetyl phosphoramidocyanidat Tabun:O-Ethyl N,N- dimethyl phosphoramidocyanidate"
+    },
+    {
+        "id": "Điều 77.2931.9080",
+        "article": "Điều 77",
+        "clause": "2931.9080",
+        "title": "Quy định chuyển tiếp",
+        "text": " 77-81-6 3 Các hợp chất O-Alkyl (H hoặc<C10, gồm cả cycloalkyl) S-2- dialkyl (Me, Et, n-Pr hoặc i-Pr)- aminoetyl alkyl (Me, Et, n-Pr hoặc i-Pr) phosphonothiolat và các muối alkyl hóa hoặc proton hóa tương ứng O-Alkyl (H or <=C10, incl. cycloalkyl) S-2- dialkyl (Me, Et, n-Pr or i- Pr)-aminoethyl alkyl (Me, Et, n-Pr or i-Pr) phosphonothiolates and corresponding alkylated or protonated salts"
+    },
+    {
+        "id": "Điều 77.2930.90",
+        "article": "Điều 77",
+        "clause": "2930.90",
+        "title": "Quy định chuyển tiếp",
+        "text": " Ví dụ: Example: O-Etyl S-2- diisopropylaminoetyl metyl phosphonothiolat O-Ethyl S-2- diisopropylaminoethyl methyl phosphonothiolate"
+    },
+    {
+        "id": "Điều 77.2930.9099",
+        "article": "Điều 77",
+        "clause": "2930.9099",
+        "title": "Quy định chuyển tiếp",
+        "text": " 50782-69-9 4 Các chất khí gây bỏng chứa Lưu huỳnh: Sulfur mustards: •2- Cloroetylchlorometylsulfit • 2-Chloroethyl chloromethylsulfide"
+    },
+    {
+        "id": "Điều 77.2930.9099",
+        "article": "Điều 77",
+        "clause": "2930.9099",
+        "title": "Quy định chuyển tiếp",
+        "text": " 2625-76-5 • Khí gây bỏng: Bis (2- cloroetyl) sulfit • Mustard gas: Bis(2- chloroethyl) sulfide"
+    },
+    {
+        "id": "Điều 77.2930.9099",
+        "article": "Điều 77",
+        "clause": "2930.9099",
+        "title": "Quy định chuyển tiếp",
+        "text": " 505-60-2 • Bis (2-cloroetylthio) metan • Bis(2- chloroethylthio) methane"
+    },
+    {
+        "id": "Điều 77.2930.9099",
+        "article": "Điều 77",
+        "clause": "2930.9099",
+        "title": "Quy định chuyển tiếp",
+        "text": " 63869-13-6 • Sesquimustard: 1,2-Bis (2- cloroetylthio) etan • Sesquimustard: 1,2- Bis(2- chloroethylthio)ethane"
+    },
+    {
+        "id": "Điều 77.2930.9099",
+        "article": "Điều 77",
+        "clause": "2930.9099",
+        "title": "Quy định chuyển tiếp",
+        "text": " 3563-36-8 • 1,3-Bis (2- cloroetylthio) -n-propan • 1,3-Bis(2- chloroethylthio)-n- propane"
+    },
+    {
+        "id": "Điều 77.2930.9099",
+        "article": "Điều 77",
+        "clause": "2930.9099",
+        "title": "Quy định chuyển tiếp",
+        "text": " 63905-10-2 • 1,4-Bis (2- cloroetylthio) -n-butan • 1,4-Bis(2- chloroethylthio)-n-butane"
+    },
+    {
+        "id": "Điều 77.2930.9099",
+        "article": "Điều 77",
+        "clause": "2930.9099",
+        "title": "Quy định chuyển tiếp",
+        "text": " 142868- 93-7 • 1,5-Bis(2- cloroetylthio) -n-pentan • 1,5-Bis(2- chloroethylthio)-n-pentane"
+    },
+    {
+        "id": "Điều 77.2930.9099",
+        "article": "Điều 77",
+        "clause": "2930.9099",
+        "title": "Quy định chuyển tiếp",
+        "text": " 142868- 94-8 • Bis (2- cloroetylthiometyl) ete • Bis(2- chloroethylthiomethyl)ether"
+    },
+    {
+        "id": "Điều 77.2930.9099",
+        "article": "Điều 77",
+        "clause": "2930.9099",
+        "title": "Quy định chuyển tiếp",
+        "text": " 63918-90-1 • Khí gây bỏng chứa Lưu huỳnh và Oxy: Bis (2-cloroetylthioetyl) ete • O-Mustard: Bis(2- chloroethylthioethyl) ether"
+    },
+    {
+        "id": "Điều 77.2930.9099",
+        "article": "Điều 77",
+        "clause": "2930.9099",
+        "title": "Quy định chuyển tiếp",
+        "text": " 63918-89-8 5 Các hợp chất Lewisit: Lewisites: • Lewisit 1: 2- Clorovinyldicloroarsin • Lewisite 1: 2- Chlorovinyldichloroarsine"
+    },
+    {
+        "id": "Điều 77.2931.9080",
+        "article": "Điều 77",
+        "clause": "2931.9080",
+        "title": "Quy định chuyển tiếp",
+        "text": " 541-25-3 • Lewisit 2: Bis (2- chlorovinyl) cloroarsin • Lewisite 2: Bis(2- chlorovinyl)chloroarsine"
+    },
+    {
+        "id": "Điều 77.2931.9080",
+        "article": "Điều 77",
+        "clause": "2931.9080",
+        "title": "Quy định chuyển tiếp",
+        "text": " 40334-69-8 • Lewisit 3: Tris (2- chlorovinyl) arsin • Lewisite 3: Tris(2- chlorovinyl)arsine"
+    },
+    {
+        "id": "Điều 77.2931.9080",
+        "article": "Điều 77",
+        "clause": "2931.9080",
+        "title": "Quy định chuyển tiếp",
+        "text": " 40334-70-1 6 Hơi cay Nitơ: Nitrogen mustards: •HN1:Bis(2- chloroethyl) etylamin •HN1:Bis(2- chloroethyl)ethylamine"
+    },
+    {
+        "id": "Điều 77.2921.1999",
+        "article": "Điều 77",
+        "clause": "2921.1999",
+        "title": "Quy định chuyển tiếp",
+        "text": " 538-07-8 • HN2: Bis(2- chloroetyl) metylamin • HN2: Bis(2- chloroethyl) methylamine"
+    },
+    {
+        "id": "Điều 77.2921.1999",
+        "article": "Điều 77",
+        "clause": "2921.1999",
+        "title": "Quy định chuyển tiếp",
+        "text": " 51-75-2 •HN3:Tris(2- cloroetyl)amin •HN3:Tris(2- chloroethyl)amine"
+    },
+    {
+        "id": "Điều 77.2921.1999",
+        "article": "Điều 77",
+        "clause": "2921.1999",
+        "title": "Quy định chuyển tiếp",
+        "text": " 555-77-1 7 Saxitoxin Saxitoxin"
+    },
+    {
+        "id": "Điều 77.3002.90",
+        "article": "Điều 77",
+        "clause": "3002.90",
+        "title": "Quy định chuyển tiếp",
+        "text": " 35523-89-8 8 Ricin Ricin"
+    },
+    {
+        "id": "Điều 77.3002.90",
+        "article": "Điều 77",
+        "clause": "3002.90",
+        "title": "Quy định chuyển tiếp",
+        "text": " 9009-86-3 9 Các hợp chất Alkyl (Me, Et, n- Pr or i-Pr) phosphonyldiflorit Alkyl (Me, Et, n-Pr or i- Pr) phosphonyldifluorides Ví dụ: Example: DF: Metylphosphonyldiflorit DF: Methylphosphonyldlfluonde"
+    },
+    {
+        "id": "Điều 77.2931.9020",
+        "article": "Điều 77",
+        "clause": "2931.9020",
+        "title": "Quy định chuyển tiếp",
+        "text": " 676-99-3 10 Các hợp chất O-Alkyl (H hoặc<C 10, gồm cả cycloalkyl) 0-2- dialkyl(Me, Et, n-Pr hoặc i-Pr)- aminoetyl alkyl(Me, Et, n-Pr hoặc i-Pr) phosphonit và các muối alkyl hóa hoặc proton hóa tương ứng O-Alkyl (H or <=C10, incl. cycloalkyl) 0-2- dalkyl (Me, Et, n-Pr or i- Pr)-aminoethyl alkyl (Me, Et, n-Pr or i-Pr) phosphonites and corresponding alkylated or protonated salts"
+    },
+    {
+        "id": "Điều 77.2931.00",
+        "article": "Điều 77",
+        "clause": "2931.00",
+        "title": "Quy định chuyển tiếp",
+        "text": " Ví dụ: Example: QL: O-Ethyl 0-2- diisopropylaminoetyl metylphosphonit QL: O-Ethyl 0-2- diisopropylaminoethyl methylphosphonite"
+    },
+    {
+        "id": "Điều 77.2931.9080",
+        "article": "Điều 77",
+        "clause": "2931.9080",
+        "title": "Quy định chuyển tiếp",
+        "text": " 57856-11-8 11 Chlorosarin: O-Isopropyl metylphosphonocloridat Chlorosarin: O-Isopropyl methylphosphonochloridate"
+    },
+    {
+        "id": "Điều 77.2931.9080",
+        "article": "Điều 77",
+        "clause": "2931.9080",
+        "title": "Quy định chuyển tiếp",
+        "text": " 1445-76-7 12 Chlorosoman: O-Pinacolyl metylphosphonocloridat Chlorosoman: O-Pinacolyl methylphosphonochloridate"
+    },
+    {
+        "id": "Điều 77.2931.9080",
+        "article": "Điều 77",
+        "clause": "2931.9080",
+        "title": "Quy định chuyển tiếp",
+        "text": " 7040-57-5 13 Axit dodecyl benzen sunfonic (DBSA) Dodecyl benzene sulfonic acid (DBSA) 29041000 27176-87-0 14 Amiăng crocidolit Asbestos crocidolite"
+    },
+    {
+        "id": "Điều 77.2524.10.00",
+        "article": "Điều 77",
+        "clause": "2524.10.00",
+        "title": "Quy định chuyển tiếp",
+        "text": " 12001-28-4 15 Amiăng amosit Asbestos amosite"
+    },
+    {
+        "id": "Điều 77.2524.90.00",
+        "article": "Điều 77",
+        "clause": "2524.90.00",
+        "title": "Quy định chuyển tiếp",
+        "text": " 12172-73-5 16 Amiăng anthophyllit Asbestos anthophyllite"
+    },
+    {
+        "id": "Điều 77.2524.90.00",
+        "article": "Điều 77",
+        "clause": "2524.90.00",
+        "title": "Quy định chuyển tiếp",
+        "text": " 17068-78-9 77536-67-5 17 Amiăng actinolit Asbestos actinolite"
+    },
+    {
+        "id": "Điều 77.2524.90.00",
+        "article": "Điều 77",
+        "clause": "2524.90.00",
+        "title": "Quy định chuyển tiếp",
+        "text": " 77536-66-4 18 Amiăng tremolit Asbestos tremolite"
+    },
+    {
+        "id": "Điều 77.2524.90.00",
+        "article": "Điều 77",
+        "clause": "2524.90.00",
+        "title": "Quy định chuyển tiếp",
+        "text": " 77536-68-6 Phụ lục III DANH MỤC LOÀI THỰC VẬT RỪNG, ĐỘNG VẬT RỪNG, THỦY SẢN NGUY CẤP, QUÝ, HIẾM NHÓM I DANH MỤC LOÀI THỰC VẬT RỪNG, ĐỘNG VẬT RỪNG NGUY CẤP, QUÝ, HIẾM IA STT Tên Việt Nam Tên khoa học LỚP THÔNG PINOS ID A Họ Hoàng đàn Cupressaceae 1 Bách vàng Xanthocyparis vietnamensis 2 Bách đài loan Taiwania cryptomerioides 3 Hoàng đàn hữu liên Cupressus tonkinensis 4 Sa mộc dầu Cunninghamia konishii 5 Thông nước Glyptostrobus pensilis Họ Thông Pinaceae 6 Du sam đá vôi Keteleeria davidiana 7 Vân sam fan si pang Abies delavayi subsp. fansipanensis Họ Hoàng liên gai Berberidaceae 8 Các loài Hoàng liên gai thuộc chi Berberis Berber is spp. Họ Mao lương Ranunculaceae 9 Hoàng liên chân gà Coptis quinquesecta 10 Hoàng liên bắc Coptis chinensis Họ Ngũ gia bì Araliaceae 11 Sâm vũ diệp (Vũ diệp tam thất) Panax bipinnatifidus 12 Tam thất hoang Panax stipuleanatus LỚP HÀNH LILIOPSIDA Họ lan Orchidaceae 13 Lan kim tuyến Anoectochilus setaceus 14 Lan kim tuyến Anoectochilus acalcaratus 15 Lan kim tuyến Anoectochiius calcareus 16 Lan hài bóng Paphiopedilum vietnamense 17 Lan hài vàng Paphiopedilum villosum 18 Lan hài đài cuộn Paphiopedilum appletonianum 19 Lan hài chai Paphiopedilum callosum 20 Lan hài râu Paphiopediium dianthum 21 Lan hài hê len Paphiopedilum helenae 22 Lan hài henry Paphiopedilum henryanum 23 Lan hài xanh Paphiopedilum maiipoense 24 Lan hài chân tím Paphiopedilum tranlienianum 25 Lan hài lông Paphiopedilum hirsutissimum 26 Lan hài hằng Paphiopedilum hangianum 27 Lan hài đỏ Paphiopedilum delenatii 28 Lan hài trân châu Paphiopedilum emersonii 29 Lan hài hồng Paphiopedilum micranthum 30 Lan hài xuân cảnh Paphiopedilum canhii 31 Lan hài tía Paphiopedilum purpuratum 32 Lan hài trần tuấn Paphiopedilum trantuanhii 33 Lan hài đốm Paphiopedilum concolor 34 Lan hài tam đảo Paphiopedilum gratrixianum LỚP NGỌC LAN MAGNOLIOPSIDA Họ Dầu Dipterocarpaceae 35 Chai lá cong Shorea falcata 36 Kiền kiền phú quốc Hopea pierrei 37 Sao hình tim Hopea cordata 38 Sao mạng cà ná Hopea reticulata Họ Ngũ gia bì Araliaceae 39 Sâm ngọc linh Panax vietnamensis IB STT Tên Việt Nam Tên khoa học LỚP THÚ MAMMALIA BỘ LINH TRƯỞNG PRIMATES 1 Cu li lớn Nycticebus bengalensis 2 Cu li nhỏ Nycticebus pygmaeus 3 Chà vá chân đen Pygathrix nigripes 4 Chà vá chân nâu Pygathrix nemaeus 5 Chà vá chân xám Pygathrix cinerea 6 Voọc bạc đông dương Trachypithecus germaini 7 Voọc bạc trường sơn Trachypithecus margarita 8 Voọc cát bà Trachypithecus poliocephalus 9 Voọc đen má trắng Trachypithecus francoisi 10 Voọc hà tĩnh Trachypithecus hatinhensis 11 Voọc mông trắng Trachypithecus delacouri 12 Voọc mũi hếch Rhinopithecus avunculus 13 Voọc xám Trachypithecus crepusculus 14 Vượn cao vít Nomascus nasutus 15 Vượn đen tuyền Nomascus concolor 16 Vượn má hung Nomascus gabriellae 17 Vượn má trắng Nomascus leucogenys 18 Vượn má vàng trung bộ Nomascus annamensis 19 Vượn siki Nomascus siki BỘ THÚ ĂN THỊT CARNIVORA 20 Sói đỏ (Chó sói lửa) Cuon alpinus 21 Gấu chó Helarctos malayanus 22 Gấu ngựa Ursus thibetanus 23 Rái cá lông mượt Lutrogale perspicillata 24 Rái cá thường Lutra lutra 25 Rái cá vuốt bé Aonyx cinereus 26 Rái cá lông mũi Lutra sumatrana 27 Cầy mực Arctictis binturong 28 Cầy gấm Prionodon pardicolor 29 Báo gấm Neofelis nebulosa 30 Báo hoa mai Panthera pardus 31 Beo lửa Catopuma temminckii 32 Hổ đông dương Panthera tigris corbetti 33 Mèo cá Prionailurus viverrinus 34 Mèo gấm Pardofelis marmorata BỘ CÓ VÒI PROBOSCIDEA 35 Voi châu á Elephas maximus BỘ MÓNG GUỐC LẺ PERISSODACTYLA 36 Tê giác một sừng Rhinoceros sondaicus BỘ MÓNG GUỐC CHẴN ARTIODACTYLA 37 Bò rừng Bos javanicus 38 Bò tót Bos gaurus 39 Hươu vàng Axis porcinus annamiticus 40 Hươu xạ Moschus berezovskii 41 Mang lớn Megamuntiacus vuquangensis 42 Mang trường sơn Muntiacus truongsonensis 43 Nai cà tong Rucervus eldii 44 Sao la Pseudoryx nghetinhensis 45 Sơn dương Naemorhedus milneedwardsii BỘ TÊ TÊ PHOLIDOTA 46 Tê tê java Manis javanica 47 Tê tê vàng Manis pentadactyla BỘ THỎ RỪNG LAGOMORPHA 48 Thỏ vằn Nesolagus timminsi LỚP CHIM AVES BỘ BỒ NÔNG PELECANIFORMES 49 Bồ nông chân xám Pelecanus philippensis 50 Cò thìa Platalea minor 51 Quắm cánh xanh Pseudibis davisoni 52 Quắm lớn (Cò quắm lớn) Thaumatibis gigantea 53 Vạc hoa Gorsachius magnificus BỘ CỔ RẮN SULIFORMES 54 Cổ rắn Anhinga melanogaster BỘ BỒ NÔNG PELECANIFORMES 55 Cò trắng trung quốc Egretta eulophotes BỘ HẠC CICONEFORMES 56 Già đẫy nhỏ Leptoptilos javanicus 57 Hạc cổ trắng Ciconia episcopus 58 Hạc xám Mycteria cinerea BỘ ƯNG ACCIPITRIFORMES 59 Đại bàng đầu nâu Aquila heliaca 60 Kền kền ấn độ Gyps indicus 61 Kền kền ben gan Gyps bengalensis BỘ CẮT FALCONIFORMES 62 Cắt lớn Falco peregrinus BỘ CHOẮT CHARADRHFORMES 63 Choắt lớn mỏ vàng Tringa guttifer BỘ NGỖNG ANSER1FORMES 64 Ngan cánh trắng Asarcornis scutulata BỘ GÀ GALLIFORMES 65 Gà lôi lam mào trắng Lophura edwardsi 66 Gà lôi tía Tragopan temminckii 67 Gà lôi trắng Lophura nycthemera 68 Gà so cổ hung Arborophila davidi 69 Gà tiền mặt đỏ Polyplectron germaini 70 Gà tiền mặt vàng Polyplectron bicaicaratum 71 Trĩ sao Rheinardia ocellata BỘ SẾU GRUIFORMES 72 Sếu đầu đỏ (sếu cổ trụi) Grus antigone BỘ Ô TÁC OTIDIFORMES 73 Ô tác Houbaropsis bengalensis BỘ BỒ CÂU COLUMBIFORMES 74 Bồ câu ni cô ba Caloenas nicobarica BỘ HỒNG HOÀNG Bucerotiformes 75 Hồng hoàng Buceros bicornis 76 Niệc cổ hung Aceros nipalensis 77 Niệc mỏ vằn Rhyticeros undulatus 78 Niệc nâu Anorrhinus austeni BỘ SẺ PASSERRIFORMES 79 Khướu ngọc linh Trochalopteron ngoclinhense LỚP BÒ SÁT REPTILIA BỘ CÓ VẢY SQUAMATA 80 Tắc kè đuôi vàng Cnemaspis psychedelica 81 Thằn lằn cá sấu Shinisaurus crocodilurus 82 Kỳ đà vân Varanus nebulosus (Varanus bengalensis) 83 Rắn hổ chúa Ophiophagus hannah BỘ RÙA TESTUDINES 84 Rùa ba-ta-gua miền nam Batagur affinis 85 Rùa hộp trán vàng miền trung (Cuora bourreti) Cuora bourreti 86 Rùa hộp trán vàng miền nam (Cuora picturata) Cuora picturata 87 Rùa hộp trán vàng miền bắc Cuora galbinifrons 88 Rùa trung bộ Mauremys annamensis 89 Rùa đầu to Platysternon megacephaium 90 Giải sin-hoe Rafetus swinhoei 91 Giải Pelochelys cantorii BỘ CÁ SẤU CROCODILIA 92 Cá sấu nước lợ (Cá sấu hoa cà) Crocodylus porosus 93 Cá sấu nước ngọt (Cá sấu xiêm) Crocodylus siamensis DANH MỤC LOÀI THỦY SẢN NGUY CẤP, QUÝ, HIẾM NHÓM I STT Tên Việt Nam Tên khoa học I LỚP ĐỘNG VẬT CÓ VÚ MAMMALIAS 1 Họ cá heo biển (tất cả các loài, trừ cá heo trắng trung hoa - Sousa chinensis) Delphinidae 2 Họ cá heo chuột (tất cả các loài) Phocoenidae 3 Họ cá heo nước ngọt (tất cả các loài) Platanistidae 4 Họ cá voi lưng gù (tất cả các loài) Balaenopteridae 5 Họ cá voi mõm khoằm (tất cả các loài) Ziphiidae 6 Họ cá voi nhỏ (tất cả các loài) Physeteridae II LỚP CÁ XƯƠNG OSTEICHTHYES 7 Cá chình mun Anguilla bicolor 8 Cá chình nhật Anguilla japonica 9 Cá cháy bắc Tenualosareevesii 10 Cá mòi đường Albulavulpes 11 Cá đé Ilishaelongata 12 Cá thát lát khổng lồ Chitalalopis 13 Cá anh vũ Semilabeo obscurus 14 Cá chép gốc Procyprismerus 15 Cá hô Catlocarpiosiamensis 16 Cá học trò Balantiocheilosambusticauda 17 Cá lợ thân cao (Cá lợ) Cyprinus hyperdorsalis 18 Cá lợ thân thấp Cyprinus multitaeniata 19 Cá măng giả Luciocyprinuslangsoni 20 Cá may Gyrinocheilusaymonỉeri 21 Cá mè huế Chanodichthysflavpinnis 22 Cá mơn (Cá rồng) Scleropagesformosus 23 Cá pạo (Cá mị) Sinilabeograffeuilli 24 Cá rai Neolisochilusbenasi 25 Cá trốc Acrossocheilusannamensis 26 Cá trữ Cyprinus dai 27 Cá thơm Plecoglossusaltivelis 28 Cá niết cúc phương Pterocryptiscucphuongensis 29 Cá tra dầu Pangasianodongigas 30 Cá chen bầu Ompokbimaculatus 31 Cá vồ cờ Pangasius sanitwongsei 32 Cá sơn đài Ompokmiostoma 33 Cá bám đá Gyrinocheiluspennocki 34 Cá trê tối Clariasmeladerma 35 Cá trê trắng Clariasbatrachus 36 Cá trèo đồi Chana asiatica 37 Cá bàng chài vân sóng Cheilinusundulatus 38 Cá dao cạo Solenostomus paradoxus 39 Cá dây lưng gù Cyttopsiscypho 40 Cá kèn trung quốc Aulostomuschinensis 41 Cá mặt quỷ Scorpaenopsisdiabolus 42 Cá mặt trăng Molamola 43 Cá mặt trăng đuôi nhọn Masturuslanceolatus 44 Cá nòng nọc nhật bản Ateleopus japonicus 45 Cá ngựa nhật Hippocampus japonicus 46 Cá đường (Cá sủ giấy) Otolithoidesbiauratus 47 Cá kẽm chấm vàng Plectorhynchusflavomaculatus 48 Cá kẽm mép vẩy đen Plectorhynchusgibbosus 49 Cá song vân giun Epinephelusundulatostriatus 50 Cá mó đầu u Bolbometoponmuricatum 51 Cá mú dẹt Cromileptesaltivelis 52 Cá mú chấm bé Plectropomusleopardus 53 Cá mú sọc trắng Anyperodonleucogramm icus 54 Cá hoàng đế Pomacanthus imperator III LỚP CÁ SỤN CHONDRICHTHYES 55 Các loài cá đuối nạng Mobula sp. 56 Các loài cá đuối ó mặt quỷ Manta sp. 57 Cá đuối quạt Okamejeikenojei 58 Cá giống mõm tròn Rhinaancylostoma 59 Cá mập đầu bạc Carcharhinus albimarginatus 60 Cá mập đầu búa hình vỏ sò Sphyrna lewini 61 Cá mập đầu búa lớn Sphyrna mokarran 62 Cá mập đầu búa trơn Sphyrna zygaena 63 Cá mập đầu vây trắng Carcharhinus longimanus 64 Cá mập đốm đen đỉnh đuôi Carcharhinus melanopterus 65 Cá mập hiền Carcharhinus amblyrhynchoides 66 Cá mập lơ cát Carcharhinus leucas 67 Cá mập lụa Carcharhinus falciformis 68 Cá mập trắng lớn Carcharodon carcharias 69 Cá nhám lông nhung Cephaloscylliwn umbratìle 70 Cá nhám nâu Etmopterus lucifer 71 Cá nhám nhu mì Stegostomafasciatum 72 Cá nhám rang Rhinzoprionodonacutus 73 Cá nhám thu Lamna nasus 74 Cá nhám thu/cá mập sâu Pseudocarchariaskamoharai 75 Cá nhám voi Rhỉncodon typus 76 Các loài cá đao Pristidae spp. 77 Các loài cá mập đuôi dài Alopias spp. IV LỚP HAI MẢNH VỎ BIVALVIA 78 Trai bầu dục cánh cung Margaritanopsislaosensis 79 Trai cóc dày Gibbosulacrassa 80 Trai cóc hình lá Lamprotulablaisei 81 Trai cóc nhẵn Cuneopsisdemangei 82 Trai cóc vuông Protuniomessageri 83 Trai mẫu sơn Contradensfultoni 84 Trai sông bằng Pseudobaphiabanggiangensis V LỚP CHÂN BỤNG GASTROPODA 85 Các loài trai tai tượng Tridacna spp. 86 Họ ốc anh vũ (tất cả các loài) Nautilidae 87 Ốc đụn cái Tectusniloticus 88 Ốc đụn đực Tectuspyramis 89 Ốc mút vệt nâu Cremnoconchusm.es sageri 90 Ốc sứ mắt trĩ Cypraeaargus 91 Ốc tù và Charoniatritonis 92 Ốc xà cừ Turbo marmoratus VI LỚP SAN HÔ ANTHOZOA 93 Bộ san hô đá (tất cả các loài) Scleractinia 94 Bộ san hô cứng (tất cả các loài) Stolonifera 95 Bộ san hô đen (tất cảcác loài) Antipatharia 96 Bộ san hô sừng (tất cả các loài) Gorgonacea 97 Bộ san hô xanh (tất cả các loài) Helioporacea VII NGÀNH DA GAI ECHINODERMATA 98 Cầu gai đá Heterocentrotusmammillatus 99 Hải sâm hổ phách Thelenotaanax 100 Hải sâm lựu Thelenotaananas 101 Hải sâm mít hoa (Hải sâm dừa) Actỉnopygamauritiana 102 Hải sâm trắng (Hải sâm cát) Holothuria (Metriatyla) scabra 103 Hải sâm vú Microthelenobilis VIII GIỚI THỰC VẬT PLANTAE 104 Cỏ nàn Halophila beccarii 105 Cỏ xoan đơn Halophila decipiens 106 Cỏ lăn biển Syringodiumizoetifolium 107 Rong bắp sú Kappaphycus striatum 108 Rong bong bóng đỏ Scinaiaboergesenii 109 Rong câu chân vịt Hydropuntiaeucheumoides 110 Rong câu cong Gracilariaarcuata 111 Rong câu dẹp Gracilariatextorii 112 Rong câu đỏ Gracilaria rubra 113 Rong câu gậy Gracilariablodgettii 114 Rong chân vịt nhăn Cryptonemiaundulata 115 Rong đông gai dày Hypneaboergesenii 116 Rong đông sao Hypneacornuta 117 Rong hồng mạc nhăn Halymeniadilatata 118 Rong hồng mạc trơn Halymenỉamaculata 119 Rong hồng vân Betaphycusgelatinum 120 Rong hồng vân thỏi Eucheuma arnoldii 121 Rong kỳ lân Kappaphycuscottonii 122 Rong mơ Sargassum quinhonensis 123 Rong mơ mềm Sargassum tenerrimum 124 Rong nhớt Helminthodadiaaustralis 125 Rong sụn gai Eucheuma denticulatum 126 Rong tóc tiên Bangiafuscopurpurea Phụ lục IV DANH MỤC NGÀNH, NGHỀ ĐẦU TƯ KINH DOANH CÓ ĐIỀU KIỆN STT NGÀNH, NGHỀ 1 Sản xuất con dấu 2 Kinh doanh công cụ hỗ trợ (bao gồm cả sửa chữa) 3 Kinh doanh các loại pháo, trừ pháo nổ 4 Kinh doanh thiết bị, phần mềm ngụy trang dùng để ghi âm, ghi hình, định vị 5 Kinh doanh súng bắn sơn 6 Kinh doanh quân trang, quân dụng cho lực lượng vũ trang, vũ khí quân dụng, trang thiết bị, kỹ thuật, khí tài, phương tiện chuyên dùng quân sự, công an; linh kiện, bộ phận, phụ tùng, vật tư và trang thiết bị đặc chủng, công nghệ chuyên dùng chế tạo chúng 7 Kinh doanh dịch vụ cầm đồ 8 Kinh doanh dịch vụ xoa bóp 9 Kinh doanh thiết bị phát tín hiệu của xe được quyền ưu tiên 10 Kinh doanh dịch vụ bảo vệ 11 Kinh doanh dịch vụ phòng cháy, chữa cháy 12 Hành nghề luật sư 13 Hành nghề công chứng 14 Hành nghề giám định tư pháp trong các lĩnh vực tài chính, ngân hàng, xây dựng, cổ vật, di vật, bản quyền tác giả 15 Hành nghề đấu giá tài sản 16 Hành nghề thừa phát lại 17 Hành nghề quản lý, thanh lý tài sản của doanh nghiệp, hợp tác xã trong quá trình giải quyết phá sản 18 Kinh doanh dịch vụ kế toán 19 Kinh doanh dịch vụ kiểm toán 20 Kinh doanh dịch vụ làm thủ tục về thuế 21 Kinh doanh dịch vụ làm thủ tục hải quan 22 Kinh doanh hàng miễn thuế 23 Kinh doanh kho ngoại quan, địa điểm thu gom hàng lẻ 24 Kinh doanh địa điểm làm thủ tục hải quan, tập kết, kiểm tra, giám sát hải quan 25 Kinh doanh chứng khoán 26 Kinh doanh dịch vụ đăng ký, lưu ký, bù trừ và thanh toán chứng khoán của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam, tổ chức thị trường giao dịch chứng khoán niêm yết và các loại chứng khoán khác 27 Kinh doanh bảo hiểm 28 Kinh doanh tái bảo hiểm 29 Môi giới \"bảo hiểm, hoạt động phụ trợ\" bảo hiểm 30 Đại lý bảo hiểm 31 Kinh doanh dịch vụ thẩm định giá 32 Kinh doanh xổ số 33 Kinh doanh trò chơi điện tử có thưởng dành cho người nước ngoài 34 Kinh doanh dịch vụ xếp hạng tín nhiệm 35 Kinh doanh ca-si-nô (casino) 36 Kinh doanh đặt cược 37 Kinh doanh dịch vụ quản lý quỹ hưu trí tự nguyện 38 Kinh doanh xăng dầu 39 Kinh doanh khí 40 Kinh doanh dịch vụ giám định thương mại 41 Kinh doanh vật liệu nổ công nghiệp (bao gồm cả hoạt động tiêu hủy) 42 Kinh doanh tiền chất thuốc nổ 43 Kinh doanh ngành, nghề có sử dụng vật liệu nổ công nghiệp và tiền chất thuốc nổ 44 Kinh doanh dịch vụ nổ mìn 45 Kinh doanh hóa chất, trừ hóa chất bị cấm theo Công ước quốc tế về cấm phát triển, sản xuất, tàng trữ, sử dụng và phá hủy vũ khí hóa học 46 Kinh doanh rượu 47 Kinh doanh sản phẩm thuốc lá, nguyên liệu thuốc lá, máy móc, thiết bị thuộc chuyên ngành thuốc lá 48 Kinh doanh thực phẩm thuộc lĩnh vực quản lý chuyên ngành của Bộ Công Thương 49 Hoạt động Sở Giao dịch hàng hóa 50 Hoạt động phát điện, truyền tải, phân phối, bán buôn, bán lẻ, tư vấn chuyên ngành điện lực 51 Xuất khẩu gạo 52 Kinh doanh tạm nhập, tái xuất hàng hóa có thuế tiêu thụ đặc biệt 53 Kinh doanh tạm nhập, tái xuất hàng thực phẩm đông lạnh 54 Kinh doanh tạm nhập, tái xuất hàng hóa thuộc Danh mục hàng hóa đã qua sử dụng 55 Kinh doanh khoáng sản 56 Kinh doanh tiền chất công nghiệp 57 Hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến hoạt động mua bán hàng hóa của nhà cung cấp dịch vụ nước ngoài tại Việt Nam 58 Kinh doanh theo phương thức bán hàng đa cấp 59 Hoạt động thương mại điện tử 60 Hoạt động dầu khí 61 Kiểm toán năng lượng 62 Hoạt động giáo dục nghề nghiệp 63 Kiểm định chất lượng giáo dục nghề nghiệp 64 Kinh doanh dịch vụ đánh giá kỹ năng nghề 65 Kinh doanh dịch vụ kiểm định kỹ thuật an toàn lao động 66 Kinh doanh dịch vụ huấn luyện an toàn lao động, vệ sinh lao động 67 Kinh doanh dịch vụ việc làm 68 Kinh doanh dịch vụ đưa người lao động đi làm việc ở nước ngoài 69 Kinh doanh dịch vụ cai nghiện ma tuý tự nguyện, cai nghiện thuốc lá, điều trị HIV/AIDS, chăm sóc người cao tuổi, người khuyết tật, trẻ em 70 Kinh doanh dịch vụ cho thuê lại lao động 71 Kinh doanh vận tải đường bộ 72 Kinh doanh dịch vụ bảo hành, bảo dưỡng xe ô tô 73 Sản xuất, lắp ráp, nhập khẩu xe ô tô 74 Kinh doanh dịch vụ kiểm định xe cơ giới 75 Kinh doanh dịch vụ đào tạo lái xe ô tô 76 Kinh doanh dịch vụ đào tạo thẩm tra viên an toàn giao thông 77 Kinh doanh dịch vụ sát hạch lái xe 78 Kinh doanh dịch vụ thẩm tra an toàn giao thông 79 Kinh doanh vận tải đường thủy 80 Kinh doanh dịch vụ đóng mới, hoán cải, sửa chữa, phục hồi phương tiện thủy nội địa 81 Kinh doanh dịch vụ đào tạo thuyền viên và người lái phương tiện thủy nội địa 82 Đào tạo, huấn luyện thuyền viên hàng hải và tổ chức tuyển dụng, cung ứng thuyền viên hàng hải 83 Kinh doanh dịch vụ bảo đảm an toàn hàng hải 84 Kinh doanh vận tải biển 85 Kinh doanh dịch vụ lai dắt tàu biển 86 Nhập khẩu, phá dỡ tàu biển đã qua sử dụng 87 Kinh doanh dịch vụ đóng mới, hoán cải, sửa chữa tàu biển 88 Kinh doanh khai thác cảng biển 89 Kinh doanh vận tải hàng không 90 Kinh doanh dịch vụ thiết kế, sản xuất, bảo dưỡng, thử nghiệm tàu bay, động cơ tàu bay, cánh quạt tàu bay và trang bị, thiết bị tàu bay tại Việt Nam 91 Kinh doanh cảng hàng không, sân bay 92 Kinh doanh dịch vụ hàng không tại cảng hàng không, sân bay 93 Kinh doanh dịch vụ bảo đảm hoạt động bay 94 Kinh doanh dịch vụ đào tạo, huấn luyện nghiệp vụ nhân viên hàng không 95 Kinh doanh vận tải đường sắt 96 Kinh doanh kết cấu hạ tầng đường sắt 97 Kinh doanh đường sắt đô thị 98 Kinh doanh dịch vụ vận tải đa phương thức 99 Kinh doanh dịch vụ vận chuyển hàng nguy hiểm 100 Kinh doanh vận tải đường ống 101 Kinh doanh bất động sản 102 Kinh doanh nước sạch (nước sinh hoạt) 103 Kinh doanh dịch vụ kiến trúc 104 Kinh doanh dịch vụ tư vấn quản lý dự án đầu tư xây dựng 105 Kinh doanh dịch vụ khảo sát xây dựng 106 Kinh doanh dịch vụ thiết kế, thẩm tra thiết kế xây dựng 107 Kinh doanh dịch vụ tư vấn giám sát thi công xây dựng công trình 108 Kinh doanh dịch vụ thi công xây dựng công trình 109 Hoạt động xây dựng của nhà thầu nước ngoài 110 Kinh doanh dịch vụ quản lý chi phí đầu tư xây dựng 111 Kinh doanh dịch vụ kiểm định xây dựng 112 Kinh doanh dịch vụ thí nghiệm chuyên ngành xây dựng 113 Kinh doanh dịch vụ quản lý vận hành nhà chung cư 114 Kinh doanh dịch vụ quản lý, vận hành cơ sở hỏa táng 115 Kinh doanh dịch vụ lập thiết kế quy hoạch xây dựng 116 Kinh doanh sản phẩm amiăng trắng thuộc nhóm Serpentine 117 Kinh doanh dịch vụ bưu chính 118 Kinh doanh dịch vụ viễn thông 119 Kinh doanh dịch vụ chứng thực chữ ký số 120 Hoạt động của nhà xuất bản 121 Kinh doanh dịch vụ in, trừ in bao bì 122 Kinh doanh dịch vụ phát hành xuất bản phẩm 123 Kinh doanh dịch vụ mạng xã hội 124 Kinh doanh trò chơi trên mạng viễn thông, mạng Internet 125 Kinh doanh dịch vụ phát thanh, truyền hình trả tiền 126 Kinh doanh dịch vụ thiết lập trang thông tin điện tử tổng hợp 127 Dịch vụ gia công, tái chế, sửa chữa, làm mới sản phẩm công nghệ thông tin đã qua sử dụng thuộc Danh mục sản phẩm công nghệ thông tin đã qua sử dụng cấm nhập khẩu cho đối tác nước ngoài 128 Kinh doanh dịch vụ nội dung thông tin trên mạng viễn thông di động, mạng Internet 129 Kinh doanh dịch vụ đăng ký, duy trì tên miền 130 Kinh doanh dịch vụ trung tâm dữ liệu 131 Kinh doanh dịch vụ định danh và xác thực điện tử 132 Kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng 133 Kinh doanh dịch vụ phát hành báo chí nhập khẩu 134 Kinh doanh sản phẩm, dịch vụ mật mã dân sự 135 Kinh doanh các thiết bị gây nhiễu, phá sóng thông tin di động 136 Hoạt động của cơ sở giáo dục mầm non 137 Hoạt động của cơ sở giáo dục phổ thông 138 Hoạt động của cơ sở giáo dục đại học 139 Hoạt động của cơ sở giáo dục có vốn đầu tư nước ngoài, văn phòng đại diện giáo dục nước ngoài tại Việt Nam, phân hiệu cơ sở giáo dục có vốn đầu tư nước ngoài 140 Hoạt động của cơ sở giáo dục thường xuyên 141 Hoạt động của trường chuyên biệt 142 Hoạt động liên kết đào tạo với nước ngoài 143 Kiểm định chất lượng giáo dục 144 Kinh doanh dịch vụ tư vấn du học 145 Khai thác thủy sản 146 Kinh doanh thủy sản 147 Kinh doanh thức ăn thuỷ sản, thức ăn chăn nuôi 148 Kinh doanh dịch vụ khảo nghiệm thức ăn thủy sản, thức ăn chăn nuôi 149 Kinh doanh chế phẩm sinh học, vi sinh vật, hóa chất, chất xử lý môi trường trong nuôi trồng thủy sản, chăn nuôi 150 Kinh doanh đóng mới, cải hoán tàu cá 151 Đăng kiểm tàu cá 152 Đào tạo, bồi dưỡng thuyền viên tàu cá 153 Nuôi, trồng các loài thực vật, động vật hoang dã thuộc các Phụ lục của Công ước CITES và danh mục thực vật rừng, động vật rừng, thủy sản nguy cấp, quý, hiếm 154 Nuôi động vật rừng thông thường 155 Xuất khẩu, nhập khẩu, tái xuất khẩu, quá cảnh và nhập nội từ biển mẫu vật từ tự nhiên của các loài thuộc các Phụ lục của Công ước CITES và danh mục thực vật rừng, động vật rừng, thủy sản nguy cấp, quý, hiếm 156 Xuất khẩu, nhập khẩu, tái xuất khẩu mẫu vật nuôi sinh sản, nuôi sinh trưởng, trồng cấy nhân tạo của các loài thuộc các Phụ lục của Công ước CITES và danh mục thực vật rừng, động vật rừng, thủy sản nguy cấp, quý, hiếm 157 Chế biến, kinh doanh, vận chuyển, quảng cáo, trưng bày, cất giữ mẫu vật của các loài thực vật, động vật thuộc các Phụ lục của Công ước CITES và danh mục thực vật rừng, động vật rừng, thủy sản nguy cấp, quý, hiếm 158 Kinh doanh thuốc bảo vệ thực vật 159 Kinh doanh dịch vụ xử lý vật thể thuộc diện kiểm dịch thực vật 160 Kinh doanh dịch vụ khảo nghiệm thuốc bảo vệ thực vật 161 Kinh doanh dịch vụ bảo vệ thực vật 162 Kinh doanh thuốc thú y, vắc xin, chế phẩm sinh học, vi sinh vật, hóa chất dùng trong thú y 163 Kinh doanh dịch vụ kỹ thuật về thú y 164 Kinh doanh dịch vụ xét nghiệm, phẫu thuật động vật 165 Kinh doanh dịch vụ tiêm phòng, chẩn đoán bệnh, kê đơn, chữa bệnh, chăm sóc sức khỏe động vật 166 Kinh doanh dịch vụ kiểm nghiệm, khảo nghiệm thuốc thú y (bao gồm thuốc thú y, thuốc thú y thủy sản, vắc xin, chế phẩm sinh học, vi sinh vật, hóa chất dùng trong thú y, thú y thủy sản) 167 Kinh doanh chăn nuôi trang trại 168 Kinh doanh giết mổ gia súc, gia cầm 169 Kinh doanh thực phẩm thuộc lĩnh vực quản lý chuyên ngành của Bộ Nông nghiệp và Phát triển nông thôn 170 Kinh doanh dịch vụ cách ly kiểm dịch động vật, sản phẩm động vật 171 Kinh doanh phân bón 172 Kinh doanh dịch vụ khảo nghiệm phân bón 173 Kinh doanh giống cây trồng, giống vật nuôi 174 Kinh doanh giống thủy sản 175 Kinh doanh dịch vụ khảo nghiệm giống cây trồng, giống vật nuôi 176 Kinh doanh dịch vụ khảo nghiệm giống thủy sản 177 Kinh doanh dịch vụ thử nghiệm, khảo nghiệm chế phẩm sinh học, vi sinh vật, hóa chất, chất xử lý môi trường trong nuôi trồng thủy sản, chăn nuôi 178 Kinh doanh sản phẩm biến đổi gen 179 Kinh doanh dịch vụ khám bệnh, chữa bệnh 180 Kinh doanh dịch vụ phẫu thuật thẩm mỹ 181 Kinh doanh dược 182 Sản xuất mỹ phẩm 183 Kinh doanh hóa chất, chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng y tế 184 Kinh doanh trang thiết bị y tế 185 Kinh doanh dịch vụ giám định về sở hữu trí tuệ (bao gồm giám định về quyền tác giả và quyền liên quan, giám định sở hữu công nghiệp và giám định về quyền đối với giống cây trồng) 186 Kinh doanh dịch vụ tiến hành công việc bức xạ 187 Kinh doanh dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử 188 Kinh doanh dịch vụ đánh giá sự phù hợp 189 Kinh doanh dịch vụ kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường 190 Kinh doanh dịch vụ đánh giá, thẩm định giá và giám định công nghệ 191 Kinh doanh dịch vụ đại diện quyền sở hữu trí tuệ (bao gồm dịch vụ đại diện sở hữu công nghiệp và dịch vụ đại diện quyền đối với giống cây trồng) 192 Kinh doanh dịch vụ phát hành và phổ biến phim 193 Kinh doanh dịch vụ giám định cổ vật 194 Kinh doanh dịch vụ lập quy hoạch dự án, tổ chức thi công, giám sát thi công dự án bảo quản, tu bổ và phục hồi di tích 195 Kinh doanh dịch vụ ka-ra-ô-kê (karaoke), vũ trường 196 Kinh doanh dịch vụ lữ hành 197 Kinh doanh hoạt động thể thao của doanh nghiệp thể thao, câu lạc bộ thể thao chuyên nghiệp 198 Kinh doanh dịch vụ biểu diễn nghệ thuật, trình diễn thời trang, tổ chức thi người đẹp, người mẫu 199 Kinh doanh bản ghi âm, ghi hình ca múa nhạc, sân khấu 200 Kinh doanh dịch vụ lưu trú 201 Mua bán di vật, cổ vật, bảo vật quốc gia 202 Xuất khẩu di vật, cổ vật không thuộc sở hữu nhà nước, sở hữu của tổ chức chính trị, tổ chức chính trị-xã hội; nhập khẩu hàng hóa văn hóa thuộc diện quản lý chuyên ngành của Bộ Văn hóa, Thể thao và Du lịch 203 Kinh doanh dịch vụ bảo tàng 204 Kinh doanh trò chơi điện tử (trừ kinh doanh trò chơi điện tử có thưởng dành cho người nước ngoài và kinh doanh trò chơi điện tử có thưởng trên mạng) 205 Kinh doanh dịch vụ tư vấn điều tra, đánh giá đất đai 206 Kinh doanh dịch vụ về lập quy hoạch, kế hoạch sử dụng đất 207 Kinh doanh dịch vụ xây dựng hạ tầng kỹ thuật công nghệ thông tin, xây dựng phần mềm của hệ thống thông tin đất đai 208 Kinh doanh dịch vụ xây dựng cơ sở dữ liệu đất đai 209 Kinh doanh dịch vụ xác định giá đất 210 Kinh doanh dịch vụ đo đạc và bản đồ 211 Kinh doanh dịch vụ dự báo, cảnh báo khí tượng thủy văn 212 Kinh doanh dịch vụ khoan nước dưới đất, thăm dò nước dưới đất 213 Kinh doanh dịch vụ khai thác, sử dụng tài nguyên nước, xả nước thải vào nguồn nước 214 Kinh doanh dịch vụ điều tra cơ bản, tư vấn lập quy hoạch, đề án, báo cáo tài nguyên nước 215 Kinh doanh dịch vụ thăm dò khoáng sản 216 Khai thác khoáng sản 217 Kinh doanh dịch vụ vận chuyển, xử lý chất thải nguy hại 218 Nhập khẩu phế liệu 219 Kinh doanh dịch vụ quan trắc môi trường 220 Hoạt động kinh doanh của ngân hàng thương mại 221 Hoạt động kinh doanh của tổ chức tín dụng phi ngân hàng 222 Hoạt động kinh doanh của ngân hàng hợp tác xã, quỹ tín dụng nhân dân, tổ chức tài chính vi mô 223 Cung ứng dịch vụ trung gian thanh toán, cung ứng dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng 224 Cung ứng dịch vụ thông tin tín dụng 225 Hoạt động kinh doanh, cung ứng dịch vụ ngoại hối của tổ chức không phải là tổ chức tín dụng 226 Kinh doanh vàng 227 Hoạt động in, đúc tiền"
     }
 ]

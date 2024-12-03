@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về người nộp thuế, thu nhập chịu thuế, thu nhập được miễn thuế, căn cứ tính thuế, phương pháp tính thuế và ưu đãi thuế thu nhập doanh nghiệp."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -196,6 +203,13 @@
         "text": "Kỳ tính thuế thu nhập doanh nghiệp theo từng lần phát sinh thu nhập áp dụng đối với doanh nghiệp nước ngoài được quy định tại điểm c và điểm d khoản 2 Điều 2 của Luật này. Chương II CĂN CỨ VÀ PHƯƠNG PHÁP TÍNH THUẾ"
     },
     {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Căn cứ tính thuế",
+        "text": "Căn cứ tính thuế là thu nhập tính thuế và thuế suất."
+    },
+    {
         "id": "Điều 7.1",
         "article": "Điều 7",
         "clause": "1",
@@ -215,6 +229,13 @@
         "clause": "3",
         "title": "Xác định thu nhập tính thuế",
         "text": "Thu nhập từ hoạt động chuyển nhượng bất động sản phải xác định riêng để kê khai nộp thuế. Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này."
+    },
+    {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Doanh thu",
+        "text": "Doanh thu là toàn bộ tiền bán hàng, tiền gia công, tiền cung ứng dịch vụ, trợ giá, phụ thu, phụ trội mà doanh nghiệp được hưởng. Doanh thu được tính bằng đồng Việt Nam; trường hợp có doanh thu bằng ngoại tệ thì phải quy đổi ngoại tệ ra đồng Việt Nam theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm phát sinh doanh thu bằng ngoại tệ. Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này."
     },
     {
         "id": "Điều 9.1",
@@ -376,6 +397,13 @@
         "clause": "2",
         "title": "Phương pháp tính thuế",
         "text": "Phương pháp tính thuế đối với doanh nghiệp quy định tại điểm c và điểm d khoản 2 Điều 2 của Luật này được thực hiện theo quy định của Chính phủ."
+    },
+    {
+        "id": "Điều 12.0",
+        "article": "Điều 12",
+        "clause": "0",
+        "title": "Nơi  nộp thuế",
+        "text": "Doanh nghiệp nộp thuế tại nơi có trụ sở chính. Trường hợp doanh nghiệp có cơ sở sản xuất hạch toán phụ thuộc hoạt động tại địa bàn tỉnh, thành phố trực thuộc trung ương khác với địa bàn nơi doanh nghiệp có trụ sở chính thì số thuế được tính nộp theo tỷ lệ chi phí giữa nơi có cơ sở sản xuất và nơi có trụ sở chính. Việc phân cấp, quản lý, sử dụng nguồn thu được thực hiện theo quy định của Luật ngân sách nhà nước. Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này. Chương III ƯU ĐÃI THUẾ THU NHẬP DOANH NGHIỆP"
     },
     {
         "id": "Điều 13.1",
@@ -572,5 +600,12 @@
         "clause": "4",
         "title": "Hiệu lực thi hành",
         "text": "Doanh nghiệp thuộc diện hưởng thời gian miễn thuế, giảm thuế theo quy định của Luật thuế thu nhập doanh nghiệp số 09/2003/QH11 mà chưa có thu nhập chịu thuế thì thời điểm bắt đầu tính thời gian miễn thuế, giảm thuế được tính theo quy định của Luật này và kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều 4, 7, 8,  9, 10, 11, 12, 13, 14, 15, 18 và các nội dung cần thiết khác của Luật này theo yêu cầu quản lý. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 3 thông qua ngày 03 tháng 6 năm 2008. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

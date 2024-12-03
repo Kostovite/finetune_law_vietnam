@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về trình tự, thủ tục nộp đơn, thụ lý và mở thủ tục phá sản; xác định nghĩa vụ về tài sản và biện pháp bảo toàn tài sản trong quá trình giải quyết phá sản; thủ tục phục hồi hoạt động kinh doanh; tuyên bố phá sản và thi hành quyết định tuyên bố phá sản."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng­",
+        "text": "Luật này áp dụng đối với doanh nghiệp và hợp tác xã, liên hiệp hợp tác xã (sau đây gọi chung là hợp tác xã) được thành lập và hoạt động theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -12,6 +26,13 @@
         "clause": "2",
         "title": "Áp dụng Luật phá sản",
         "text": "Trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 4.1",
@@ -390,6 +411,13 @@
         "clause": "2",
         "title": "Từ chối hoặc thay đổi Thẩm phán trong quá trình giải quyết phá sản",
         "text": "Việc thay đổi Thẩm phán do Chánh án Tòa án nhân dân quyết định. Trường hợp Thẩm phán phụ trách việc phá sản là Chánh án thì việc thay đổi Thẩm phán do Tòa án nhân dân cấp trên trực tiếp quyết định. Quyết định thay đổi Thẩm phán của Chánh án là quyết định cuối cùng."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Cá nhân, doanh nghiệp hành nghề quản lý, thanh lý tài sản",
+        "text": "Cá nhân, doanh nghiệp được hành nghề quản lý, thanh lý tài sản trong quá trình giải quyết phá sản gồm:"
     },
     {
         "id": "Điều 11.1",
@@ -931,6 +959,13 @@
         "text": "Viện kiểm sát nhân dân tham gia các phiên họp xem xét kiến nghị, kháng nghị của Viện kiểm sát nhân dân; kiểm sát các quyết định giải quyết phá sản của Tòa án nhân dân."
     },
     {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Lệ phí phá sản",
+        "text": "Người nộp đơn yêu cầu mở thủ tục phá sản phải nộp lệ phí phá sản theo quy định của pháp luật về án phí, lệ phí Tòa án nhân dân. Trường hợp người nộp đơn quy định tại khoản 2 Điều 5 và điểm a khoản 1 Điều 105 của Luật này không phải nộp lệ phí phá sản."
+    },
+    {
         "id": "Điều 23.1",
         "article": "Điều 23",
         "clause": "1",
@@ -971,6 +1006,13 @@
         "clause": "2",
         "title": "Chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản",
         "text": "Chính phủ quy định chi tiết về chi phí Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản."
+    },
+    {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Việc yêu cầu, cấp, thông báo văn bản trong giải quyết phá sản",
+        "text": "Tòa án nhân dân, Viện kiểm sát nhân dân, cơ quan thi hành án dân sự, Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản có nghĩa vụ thực hiện việc yêu cầu, cấp, thông báo văn bản cho người tham gia thủ tục phá sản theo quy định của Luật này và pháp luật về tố tụng dân sự. CHƯƠNG II ĐƠN VÀ THỤ LÝ ĐƠN YÊU CẦU MỞ THỦ TỤC PHÁ SẢN"
     },
     {
         "id": "Điều 26.1",
@@ -1323,6 +1365,13 @@
         "text": "Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đơn đề nghị, Chánh án Tòa án nhân dân cấp trên trực tiếp giải quyết đề nghị xem xét lại việc chuyển đơn. Quyết định của Chánh án Tòa án nhân dân cấp trên trực tiếp là quyết định cuối cùng."
     },
     {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Thông báo sửa đổi, bổ sung đơn yêu cầu mở thủ tục phá sản",
+        "text": "Đơn yêu cầu mở thủ tục phá sản không đủ nội dung quy định tại Điều 26, Điều 27, Điều 28 hoặc Điều 29 của Luật này thì Tòa án nhân dân thông báo cho người nộp đơn biết để sửa đổi, bổ sung. Thời hạn sửa đổi, bổ sung do Tòa án nhân dân ấn định, nhưng không quá 10 ngày làm việc kể từ ngày người nộp đơn nhận được thông báo; trường hợp đặc biệt, Tòa án nhân dân có thể gia hạn nhưng không quá 15 ngày."
+    },
+    {
         "id": "Điều 35.1",
         "article": "Điều 35",
         "clause": "1",
@@ -1491,6 +1540,13 @@
         "text": "Nộp tạm ứng chi phí phá sản vào tài khoản do Tòa án nhân dân mở tại ngân hàng."
     },
     {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Thụ lý đơn yêu cầu mở thủ tục phá sản",
+        "text": "Tòa án nhân dân thụ lý đơn yêu cầu mở thủ tục phá sản khi nhận được biên lai nộp lệ phí phá sản, biên lai nộp tạm ứng chi phí phá sản. Trường hợp không phải nộp lệ phí phá sản, tạm ứng chi phí phá sản thì thời điểm thụ lý được tính từ ngày Tòa án nhân dân nhận đơn yêu cầu mở thủ tục phá sản hợp lệ."
+    },
+    {
         "id": "Điều 40.1",
         "article": "Điều 40",
         "clause": "1",
@@ -1503,6 +1559,13 @@
         "clause": "2",
         "title": "Thông báo việc thụ lý đơn yêu cầu mở thủ tục phá sản",
         "text": "Trường hợp người nộp đơn không phải là doanh nghiệp, hợp tác xã mất khả năng thanh toán thì trong thời hạn 15 ngày kể từ ngày nhận được thông báo của Tòa án nhân dân, doanh nghiệp, hợp tác xã mất khả năng thanh toán phải xuất trình cho Tòa án nhân dân các giấy tờ, tài liệu theo quy định tại khoản 3 Điều 28 của Luật này."
+    },
+    {
+        "id": "Điều 41.0",
+        "article": "Điều 41",
+        "clause": "0",
+        "title": "Tạm đình chỉ giải quyết yêu cầu doanh nghiệp, hợp tác xã mất khả năng thanh toán thực hiện nghĩa vụ về tài sản",
+        "text": "Trong thời hạn 05 ngày làm việc kể từ ngày Tòa án nhân dân thụ lý vụ việc phá sản, việc tạm đình chỉ thực hiện nghĩa vụ về tài sản của doanh nghiệp, hợp tác xã mất khả năng thanh toán được thực hiện như sau:"
     },
     {
         "id": "Điều 41.1",
@@ -2268,6 +2331,20 @@
         "text": "Trường hợp doanh nghiệp, hợp tác xã bị tuyên bố phá sản đã chuyển nhượng tài sản thuê hoặc mượn cho người khác mà không đòi lại được thì người cho thuê hoặc cho mượn có quyền yêu cầu bồi thường đối với tài sản đó như khoản nợ không có bảo đảm."
     },
     {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Trả lại tài sản nhận bảo đảm",
+        "text": "Doanh nghiệp, hợp tác xã mất khả năng thanh toán chỉ trả lại tài sản nhận bảo đảm cho cá nhân, tổ chức đã giao tài sản cho doanh nghiệp, hợp tác xã để bảo đảm thực hiện nghĩa vụ của mình đối với doanh nghiệp, hợp tác xã trước khi Tòa án nhân dân mở thủ tục phá sản trong trường hợp cá nhân, tổ chức đó đã thực hiện nghĩa vụ đối với doanh nghiệp, hợp tác xã."
+    },
+    {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Nhận lại hàng hoá đã bán",
+        "text": "Người bán đã gửi hàng hóa cho người mua là doanh nghiệp, hợp tác xã mất khả năng thanh toán nhưng chưa được thanh toán và người mua cũng chưa nhận được hàng hóa thì người bán được nhận lại hàng hoá đó. Nếu doanh nghiệp, hợp tác xã mất khả năng thanh toán đã nhận hàng hóa đó và không thể trả lại được thì người bán trở thành chủ nợ không có bảo đảm. CHƯƠNG V CÁC BIỆN PHÁP BẢO TOÀN TÀI SẢN"
+    },
+    {
         "id": "Điều 59.1",
         "article": "Điều 59",
         "clause": "1",
@@ -2821,6 +2898,13 @@
         "text": "Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đề nghị xem xét lại, Thẩm phán phải xem xét, giải quyết đề nghị, nếu thấy đề nghị có căn cứ thì sửa đổi, bổ sung vào danh sách người mắc nợ."
     },
     {
+        "id": "Điều 69.0",
+        "article": "Điều 69",
+        "clause": "0",
+        "title": "Đăng ký giao dịch bảo đảm của doanh nghiệp, hợp tác xã mất khả năng thanh toán",
+        "text": "Doanh nghiệp, hợp tác xã mất khả năng thanh toán cho người khác vay tài sản mà theo quy định của pháp luật phải đăng ký giao dịch bảo đảm nhưng chưa đăng ký thì doanh nghiệp, hợp tác xã phải thực hiện ngay việc đăng ký; trường hợp doanh nghiệp, hợp tác xã không thực hiện thì Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản phải thực hiện việc đăng ký giao dịch bảo đảm."
+    },
+    {
         "id": "Điều 70.1",
         "article": "Điều 70",
         "clause": "1",
@@ -3010,6 +3094,20 @@
         "text": "Trường hợp bên đương sự phải thực hiện nghĩa vụ về tài sản đối với doanh nghiệp, hợp tác xã mất khả năng thanh toán thì phải thanh toán cho doanh nghiệp, hợp tác xã giá trị tương ứng với nghĩa vụ tài sản đó."
     },
     {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Nghĩa vụ của ngân hàng nơi doanh nghiệp, hợp tác xã có tài khoản",
+        "text": "Kể từ ngày Tòa án nhân dân ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản, nghiêm cấm ngân hàng mà doanh nghiệp, hợp tác xã bị tuyên bố phá sản có tài khoản thực hiện việc thanh toán các khoản nợ của doanh nghiệp, hợp tác xã bị tuyên bố phá sản, trừ trường hợp có sự đồng ý bằng văn bản của Tòa án nhân dân hoặc cơ quan thi hành án dân sự."
+    },
+    {
+        "id": "Điều 74.0",
+        "article": "Điều 74",
+        "clause": "0",
+        "title": "Nghĩa vụ của người lao động",
+        "text": "Kể từ ngày Tòa án nhân dân quyết định mở thủ tục phá sản, người lao động có nghĩa vụ bảo vệ tài sản của doanh nghiệp, hợp tác xã; không được thực hiện hành vi nhằm che giấu, tẩu tán tài sản của doanh nghiệp, hợp tác xã. CHƯƠNG VI HỘI NGHỊ CHỦ NỢ"
+    },
+    {
         "id": "Điều 75.1",
         "article": "Điều 75",
         "clause": "1",
@@ -3050,6 +3148,13 @@
         "clause": "3",
         "title": "Nguyên tắc tiến hành Hội nghị chủ nợ",
         "text": "Công khai trong việc tiến hành Hội nghị chủ nợ."
+    },
+    {
+        "id": "Điều 77.0",
+        "article": "Điều 77",
+        "clause": "0",
+        "title": "Quyền tham gia Hội nghị chủ nợ",
+        "text": "Những người sau đây có quyền tham gia Hội nghị chủ nợ:"
     },
     {
         "id": "Điều 77.1",
@@ -3344,6 +3449,13 @@
         "clause": "4",
         "title": "Nghị quyết của Hội nghị chủ nợ",
         "text": "Trường hợp Hội nghị chủ nợ không thông qua được Nghị quyết theo quy định tại khoản 2 Điều 81 của Luật này thì Tòa án nhân dân tuyên bố doanh nghiệp, hợp tác xã phá sản."
+    },
+    {
+        "id": "Điều 84.0",
+        "article": "Điều 84",
+        "clause": "0",
+        "title": "Gửi Nghị quyết Hội nghị chủ nợ",
+        "text": "Trong thời hạn 03 ngày làm việc kể từ ngày tổ chức Hội nghị chủ nợ, Tòa án nhân dân gửi Nghị quyết Hội nghị chủ nợ cho Viện kiểm sát nhân dân cùng cấp và người có quyền, nghĩa vụ tham gia Hội nghị chủ nợ quy định tại Điều 77 và Điều 78 của Luật này."
     },
     {
         "id": "Điều 85.1",
@@ -3773,6 +3885,20 @@
         "text": "Trường hợp quy định tại điểm b và điểm c khoản 1 Điều 95 của Luật này, Thẩm phán ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản. CHƯƠNG VIII THỦ TỤC PHÁ SẢN TỔ CHỨC TÍN DỤNG"
     },
     {
+        "id": "Điều 97.0",
+        "article": "Điều 97",
+        "clause": "0",
+        "title": "Áp dụng quy định về thủ tục phá sản tổ chức tín dụng",
+        "text": "Thủ tục phá sản đối với tổ chức tín dụng thực hiện theo quy định tại Chương này. Những nội dung không quy định tại Chương này thì áp dụng theo quy định tương ứng của Luật này, trừ quy định tại Chương VI và Chương VII của Luật này."
+    },
+    {
+        "id": "Điều 98.0",
+        "article": "Điều 98",
+        "clause": "0",
+        "title": "Quyền, nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản",
+        "text": "Sau khi Ngân hàng Nhà nước Việt Nam có văn bản chấm dứt kiểm soát đặc biệt hoặc văn bản chấm dứt áp dụng hoặc không áp dụng biện pháp phục hồi khả năng thanh toán mà tổ chức tín dụng vẫn mất khả năng thanh toán thì những người sau đây có quyền, nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản:"
+    },
+    {
         "id": "Điều 98.1",
         "article": "Điều 98",
         "clause": "1",
@@ -3785,6 +3911,20 @@
         "clause": "2",
         "title": "Quyền, nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản",
         "text": "Tổ chức tín dụng có nghĩa vụ nộp đơn yêu cầu mở thủ tục phá sản; trường hợp tổ chức tín dụng không nộp đơn yêu cầu mở thủ tục phá sản thì Ngân hàng Nhà nước Việt Nam nộp đơn yêu cầu mở thủ tục phá sản đối với tổ chức tín dụng đó."
+    },
+    {
+        "id": "Điều 99.0",
+        "article": "Điều 99",
+        "clause": "0",
+        "title": "Thụ lý đơn yêu cầu mở thủ tục phá sản đối với tổ chức tín dụng",
+        "text": "Tòa án nhân dân thụ lý đơn yêu cầu mở thủ tục phá sản tổ chức tín dụng khi đã có văn bản chấm dứt kiểm soát đặc biệt hoặc văn bản chấm dứt áp dụng hoặc không áp dụng biện pháp phục hồi khả năng thanh toán của Ngân hàng Nhà nước Việt Nam mà tổ chức tín dụng vẫn mất khả năng thanh toán."
+    },
+    {
+        "id": "Điều 100.0",
+        "article": "Điều 100",
+        "clause": "0",
+        "title": "Hoàn trả khoản vay đặc biệt",
+        "text": "Tổ chức tín dụng được vay đặc biệt của Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng khác theo quy định của Luật các tổ chức tín dụng mà bị tuyên bố phá sản thì phải hoàn trả khoản vay đặc biệt này cho Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng khác trước khi thực hiện việc phân chia tài sản theo quy định tại Điều 101 của Luật này."
     },
     {
         "id": "Điều 101.1",
@@ -3857,6 +3997,34 @@
         "text": "Trường hợp giá trị tài sản không đủ để thanh toán theo quy định tại khoản 1 Điều này thì các đối tượng thuộc cùng một thứ tự ưu tiên được thanh toán theo tỷ lệ phần trăm tương ứng với số nợ."
     },
     {
+        "id": "Điều 102.0",
+        "article": "Điều 102",
+        "clause": "0",
+        "title": "Trả lại tài sản nhận ủy thác, nhận giữ hộ khi tổ chức tín dụng bị tuyên bố phá sản và thanh lý tài sản phá sản",
+        "text": "Trong thời hạn 10 ngày làm việc kể từ ngày nhận được quyết định tuyên bố tổ chức tín dụng phá sản, chủ sở hữu tài sản ủy thác cho tổ chức tín dụng, gửi tổ chức tín dụng giữ hộ, giao tổ chức tín dụng quản lý thông qua hợp đồng ủy thác, giữ hộ, quản lý tài sản phải xuất trình giấy tờ chứng minh quyền sở hữu và hồ sơ, giấy tờ liên quan với cơ quan thi hành án dân sự để nhận lại tài sản của mình."
+    },
+    {
+        "id": "Điều 103.0",
+        "article": "Điều 103",
+        "clause": "0",
+        "title": "Giao dịch của tổ chức tín dụng trong giai đoạn kiểm soát đặc biệt",
+        "text": "Giao dịch của tổ chức tín dụng thực hiện trong giai đoạn Ngân hàng Nhà nước Việt Nam áp dụng biện pháp kiểm soát đặc biệt hoặc áp dụng biện pháp phục hồi khả năng thanh toán dưới sự kiểm soát của Ngân hàng Nhà nước Việt Nam sẽ không áp dụng quy định về giao dịch vô hiệu quy định tại Điều 59 của Luật này."
+    },
+    {
+        "id": "Điều 104.0",
+        "article": "Điều 104",
+        "clause": "0",
+        "title": "Quyết định tuyên bố tổ chức tín dụng phá sản",
+        "text": "Trong thời hạn 30 ngày kể từ ngày Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản lập xong danh sách chủ nợ, danh sách người mắc nợ, bảng kê tài sản của tổ chức tín dụng, Tòa án nhân dân ra quyết định tuyên bố tổ chức tín dụng phá sản. Tòa án nhân dân tối cao hướng dẫn thi hành Điều này. CHƯƠNG IX TUYÊN BỐ DOANH NGHIỆP, HỢP TÁC XÃ PHÁ SẢN"
+    },
+    {
+        "id": "Điều 105.0",
+        "article": "Điều 105",
+        "clause": "0",
+        "title": "Tuyên bố doanh nghiệp, hợp tác xã phá sản theo thủ tục rút gọn",
+        "text": "1 Tòa án nhân dân giải quyết phá sản theo thủ tục rút gọn đối với các trường hợp sau:"
+    },
+    {
         "id": "Điều 105.2",
         "article": "Điều 105",
         "clause": "2",
@@ -3876,6 +4044,13 @@
         "clause": "4",
         "title": "Tuyên bố doanh nghiệp, hợp tác xã phá sản theo thủ tục rút gọn",
         "text": "Trường hợp Tòa án nhân dân ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản theo quy định tại điểm b khoản 1 Điều này thì người nộp đơn không được hoàn lại lệ phí phá sản, tiền tạm ứng chi phí phá sản đã nộp."
+    },
+    {
+        "id": "Điều 106.0",
+        "article": "Điều 106",
+        "clause": "0",
+        "title": "Quyết định tuyên bố phá sản khi Hội nghị chủ nợ không thành",
+        "text": "Trong thời hạn 15 ngày kể từ ngày nhận được báo cáo kết quả họp Hội nghị chủ nợ, Tòa án nhân dân ra quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản trong các trường hợp quy định tại khoản 3 Điều 80, khoản 4 Điều 83 và khoản 7 Điều 91 của Luật này."
     },
     {
         "id": "Điều 107.1",
@@ -4242,6 +4417,13 @@
         "text": "Quản tài viên, doanh nghiệp quản lý, thanh lý tài sản đại diện cho doanh nghiệp, hợp tác xã tham gia giải quyết tranh chấp về tài sản. CHƯƠNG XI THỦ TỤC PHÁ SẢN CÓ YẾU TỐ NƯỚC NGOÀI"
     },
     {
+        "id": "Điều 116.0",
+        "article": "Điều 116",
+        "clause": "0",
+        "title": "Người tham gia thủ tục phá sản là người nước ngoài",
+        "text": "Người tham gia thủ tục phá sản là người nước ngoài phải thực hiện theo quy định của pháp luật về phá sản của Việt Nam."
+    },
+    {
         "id": "Điều 117.1",
         "article": "Điều 117",
         "clause": "1",
@@ -4254,6 +4436,20 @@
         "clause": "2",
         "title": "Ủy thác tư pháp của Tòa án nhân dân Việt Nam đối với cơ quan có thẩm quyền của nước ngoài",
         "text": "Thủ tục ủy thác tư pháp được thực hiện theo quy định của pháp luật về tố tụng dân sự, pháp luật về tương trợ tư pháp."
+    },
+    {
+        "id": "Điều 118.0",
+        "article": "Điều 118",
+        "clause": "0",
+        "title": "Thủ tục công nhận và cho thi hành quyết định giải quyết phá sản của Tòa án nước ngoài",
+        "text": "Việc công nhận và cho thi hành quyết định giải quyết phá sản của Tòa án nước ngoài được thực hiện theo quy định của hiệp định tương trợ tư pháp mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và quy định khác của pháp luật về tương trợ tư pháp. CHƯƠNG XII THI HÀNH QUYẾT ĐỊNH TUYÊN BỐ DOANH NGHIỆP, HỢP TÁC XÃ PHÁ SẢN"
+    },
+    {
+        "id": "Điều 119.0",
+        "article": "Điều 119",
+        "clause": "0",
+        "title": "Thẩm quyền thi hành quyết định tuyên bố phá sản",
+        "text": "Thẩm quyền thi hành quyết định tuyên bố phá sản được thực hiện theo quy định của Luật này, pháp luật về thi hành án dân sự và quy định khác của pháp luật có liên quan."
     },
     {
         "id": "Điều 120.1",
@@ -4466,6 +4662,13 @@
         "text": "Trường hợp có tranh chấp về thu hồi lại tài sản hay phần chênh lệch giá trị tài sản của doanh nghiệp, hợp tác xã thì được xử lý theo quy định tại Điều 115 của Luật này."
     },
     {
+        "id": "Điều 126.0",
+        "article": "Điều 126",
+        "clause": "0",
+        "title": "Đình chỉ thi hành quyết định tuyên bố phá sản",
+        "text": "Thủ trưởng cơ quan thi hành án dân sự quyết định đình chỉ thi hành quyết định tuyên bố phá sản trong các trường hợp sau:"
+    },
+    {
         "id": "Điều 126.1",
         "article": "Điều 126",
         "clause": "1",
@@ -4506,6 +4709,13 @@
         "clause": "3",
         "title": "Xử lý tài sản của doanh nghiệp, hợp tác xã phát sinh sau khi quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản",
         "text": "Cơ quan thi hành án dân sự tổ chức thực hiện quyết định phân chia tài sản theo quy định tại khoản 2 Điều này."
+    },
+    {
+        "id": "Điều 128.0",
+        "article": "Điều 128",
+        "clause": "0",
+        "title": "Giải quyết khiếu nại việc thi hành Quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản",
+        "text": "Việc khiếu nại, giải quyết khiếu nại về việc thi hành quyết định tuyên bố doanh nghiệp, hợp tác xã phá sản được thực hiện theo pháp luật về thi hành án dân sự. CHƯƠNG XIII XỬ LÝ VI PHẠM"
     },
     {
         "id": "Điều 129.1",
@@ -4590,5 +4800,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Luật phá sản số 21/2004/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 133.0",
+        "article": "Điều 133",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 7 thông qua ngày 19 tháng 6 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

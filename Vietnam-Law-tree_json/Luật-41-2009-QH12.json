@@ -13,17 +13,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về hoạt động viễn thông, bao gồm đầu tư, kinh doanh viễn thông; viễn thông công ích; quản lý viễn thông; xây dựng công trình viễn thông; quyền và nghĩa vụ của tổ chức, cá nhân tham gia hoạt động viễn thông.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với tổ chức, cá nhân trong nước, tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc có liên quan đến hoạt động viễn thông tại Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Viễn thông là việc gửi, truyền, nhận và xử lý ký hiệu, tín hiệu, số liệu, chữ viết, hình ảnh, âm thanh hoặc dạng thông tin khác bằng đường cáp, sóng vô tuyến điện, phương tiện quang học và phương tiện điện từ khác.",
@@ -131,12 +148,12 @@
                 },
                 {
                     "number": "22",
-                    "text": "Tài nguyên Internet là tập hợp tên và số thuộc quyền quản lý của Việt Nam được quy hoạch thống nhất để bảo đảm cho hoạt động Internet.",
+                    "text": "Tài nguyên Internet là tập hợp tên và số thuộc quyền quản lý của Việt Nam được quy hoạch thống nhất để bảo đảm cho hoạt động Internet. Tài nguyên Internet bao gồm tên miền, địa chỉ Internet, số hiệu mạng và tên, số khác theo quy định của các tổ chức viễn thông và Internet quốc tế.",
                     "sub_clauses": []
                 },
                 {
                     "number": "23",
-                    "text": "Doanh nghiệp viễn thông là doanh nghiệp được thành lập theo pháp luật Việt Nam và được cấp giấy phép kinh doanh dịch vụ viễn thông.",
+                    "text": "Doanh nghiệp viễn thông là doanh nghiệp được thành lập theo pháp luật Việt Nam và được cấp giấy phép kinh doanh dịch vụ viễn thông. Doanh nghiệp viễn thông bao gồm doanh nghiệp cung cấp dịch vụ có hạ tầng mạng và doanh nghiệp cung cấp dịch vụ không có hạ tầng mạng.",
                     "sub_clauses": []
                 },
                 {
@@ -413,12 +430,24 @@
         {
             "id": "Điều 10",
             "title": "Cơ quan quản lý chuyên ngành về viễn thông",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan quản lý chuyên ngành về viễn thông là cơ quan thuộc Bộ Thông tin và Truyền thông, có trách nhiệm giúp Bộ trưởng Bộ Thông tin và Truyền thông thực hiện nhiệm vụ quản lý nhà nước về viễn thông theo sự phân công, phân cấp của cơ quan nhà nước có thẩm quyền.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 11",
             "title": "Thanh tra chuyên ngành về viễn thông",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thanh tra chuyên ngành về viễn thông và tổ chức bộ máy thanh tra chuyên ngành do Bộ Thông tin và Truyền thông thực hiện theo quy định của pháp luật về thanh tra.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 12",
@@ -451,7 +480,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Cản trở trái pháp luật, gây rối, phá hoại việc thiết lập cơ sở hạ tầng viễn thông, việc cung cấp và sử dụng hợp pháp các dịch vụ viễn thông.",
+                    "text": "Cản trở trái pháp luật, gây rối, phá hoại việc thiết lập cơ sở hạ tầng viễn thông, việc cung cấp và sử dụng hợp pháp các dịch vụ viễn thông. CHƯƠNG II KINH DOANH VIỄN THÔNG",
                     "sub_clauses": []
                 }
             ]
@@ -462,12 +491,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Kinh doanh viễn thông bao gồm kinh doanh dịch vụ viễn thông và kinh doanh hàng hoá viễn thông.",
+                    "text": "Kinh doanh viễn thông bao gồm kinh doanh dịch vụ viễn thông và kinh doanh hàng hoá viễn thông. Kinh doanh dịch vụ viễn thông là hoạt động đầu tư cơ sở hạ tầng viễn thông công cộng, cung cấp dịch vụ viễn thông nhằm mục đích sinh lợi. Kinh doanh hàng hoá viễn thông là hoạt động đầu tư, sản xuất, mua bán, cho thuê phần mềm và vật tư, thiết bị viễn thông nhằm mục đích sinh lợi.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Việc kinh doanh dịch vụ viễn thông phải theo các quy định của Luật này và quy định khác của pháp luật có liên quan.",
+                    "text": "Việc kinh doanh dịch vụ viễn thông phải theo các quy định của Luật này và quy định khác của pháp luật có liên quan. Việc kinh doanh hàng hoá viễn thông phải theo các quy định tại Điều 51 và Điều 52 của Luật này và các quy định khác của pháp luật có liên quan.",
                     "sub_clauses": []
                 }
             ]
@@ -546,6 +575,11 @@
             "id": "Điều 15",
             "title": "Quyền, nghĩa vụ của đại lý dịch vụ viễn thông",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Ngoài các quyền, nghĩa vụ quy định tại Luật thương mại, đại lý dịch vụ viễn thông còn có các quyền, nghĩa vụ sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Thiết lập hệ thống thiết bị đầu cuối tại địa điểm được sử dụng để cung cấp dịch vụ viễn thông cho người sử dụng dịch vụ viễn thông tại địa điểm đó theo thoả thuận trong hợp đồng đại lý dịch vụ viễn thông;",
@@ -667,7 +701,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Nhà nước nắm cổ phần chi phối trong doanh nghiệp cung cấp dịch vụ có hạ tầng mạng có tầm quan trọng đặc biệt đối với hoạt động của toàn bộ cơ sở hạ tầng viễn thông quốc gia và ảnh hưởng trực tiếp đến phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh.",
+                    "text": "Nhà nước nắm cổ phần chi phối trong doanh nghiệp cung cấp dịch vụ có hạ tầng mạng có tầm quan trọng đặc biệt đối với hoạt động của toàn bộ cơ sở hạ tầng viễn thông quốc gia và ảnh hưởng trực tiếp đến phát triển kinh tế - xã hội, bảo đảm quốc phòng, an ninh. Thủ tướng Chính phủ ban hành Danh mục doanh nghiệp cung cấp dịch vụ có hạ tầng mạng do Nhà nước nắm cổ phần chi phối.",
                     "sub_clauses": []
                 },
                 {
@@ -688,7 +722,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hình thức, điều kiện đầu tư nước ngoài và tỷ lệ phần vốn góp của nhà đầu tư nước ngoài kinh doanh dịch vụ viễn thông phải theo các quy định của pháp luật Việt Nam, điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.",
+                    "text": "Hình thức, điều kiện đầu tư nước ngoài và tỷ lệ phần vốn góp của nhà đầu tư nước ngoài kinh doanh dịch vụ viễn thông phải theo các quy định của pháp luật Việt Nam, điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên. Chính phủ quy định chi tiết hình thức, điều kiện đầu tư nước ngoài và tỷ lệ phần vốn góp của nhà đầu tư nước ngoài trong kinh doanh dịch vụ viễn thông.",
                     "sub_clauses": []
                 },
                 {
@@ -793,7 +827,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Bộ Thông tin và Truyền thông chủ trì phối hợp với Bộ Công thương quy định chi tiết việc thực hiện các khoản 1, 5 và 6 Điều này.",
+                    "text": "Bộ Thông tin và Truyền thông chủ trì phối hợp với Bộ Công thương quy định chi tiết việc thực hiện các khoản 1, 5 và 6 Điều này. CHƯƠNG III VIỄN THÔNG CÔNG ÍCH",
                     "sub_clauses": []
                 }
             ]
@@ -809,7 +843,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Dịch vụ viễn thông công ích bao gồm dịch vụ viễn thông phổ cập và dịch vụ viễn thông bắt buộc.",
+                    "text": "Dịch vụ viễn thông công ích bao gồm dịch vụ viễn thông phổ cập và dịch vụ viễn thông bắt buộc. Dịch vụ viễn thông phổ cập là dịch vụ viễn thông được cung cấp đến mọi người dân theo danh mục, điều kiện, chất lượng và giá cước do Nhà nước quy định. Dịch vụ viễn thông bắt buộc là dịch vụ viễn thông được cung cấp theo yêu cầu của Nhà nước để bảo đảm thông tin liên lạc trong trường hợp khẩn cấp theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -863,7 +897,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Quỹ dịch vụ viễn thông công ích Việt Nam là tổ chức tài chính nhà nước, hoạt động không vì mục đích lợi nhuận để hỗ trợ thực hiện chính sách của Nhà nước về cung cấp dịch vụ viễn thông công ích.",
+                    "text": "Quỹ dịch vụ viễn thông công ích Việt Nam là tổ chức tài chính nhà nước, hoạt động không vì mục đích lợi nhuận để hỗ trợ thực hiện chính sách của Nhà nước về cung cấp dịch vụ viễn thông công ích. 2 Quỹ dịch vụ viễn thông công ích Việt Nam được hình thành từ các nguồn sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -886,7 +920,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bộ Tài chính chủ trì phối hợp với Bộ Thông tin và Truyền thông ban hành quy định về việc hạch toán, thu nộp các khoản đóng góp cho Quỹ dịch vụ viễn thông công ích Việt Nam; Quy chế quản lý tài chính Quỹ dịch vụ viễn thông công ích Việt Nam.",
+                    "text": "Bộ Tài chính chủ trì phối hợp với Bộ Thông tin và Truyền thông ban hành quy định về việc hạch toán, thu nộp các khoản đóng góp cho Quỹ dịch vụ viễn thông công ích Việt Nam; Quy chế quản lý tài chính Quỹ dịch vụ viễn thông công ích Việt Nam. CHƯƠNG IV THIẾT LẬP MẠNG VÀ CUNG CẤP DỊCH VỤ VIỄN THÔNG",
                     "sub_clauses": []
                 }
             ]
@@ -1000,6 +1034,11 @@
             "id": "Điều 26",
             "title": "Từ chối cung cấp dịch vụ viễn thông",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Doanh nghiệp viễn thông không được từ chối giao kết hợp đồng hoặc đơn phương chấm dứt hợp đồng với người sử dụng dịch vụ viễn thông, trừ các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Người sử dụng dịch vụ viễn thông vi phạm hợp đồng đã giao kết;",
@@ -1200,7 +1239,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Các bên giao kết Hợp đồng sử dụng dịch vụ viễn thông được miễn trách nhiệm bồi thường thiệt hại trong trường hợp bất khả kháng.",
+                    "text": "Các bên giao kết Hợp đồng sử dụng dịch vụ viễn thông được miễn trách nhiệm bồi thường thiệt hại trong trường hợp bất khả kháng. CHƯƠNG V CẤP GIẤY PHÉP VIỄN THÔNG",
                     "sub_clauses": []
                 }
             ]
@@ -1466,6 +1505,11 @@
             "title": "Miễn giấy phép viễn thông",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân hoạt động viễn thông được miễn giấy phép viễn thông trong các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Kinh doanh hàng hóa viễn thông;",
                     "sub_clauses": []
@@ -1516,7 +1560,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ Tài chính chủ trì phối hợp với Bộ Thông tin và Truyền thông quy định hoặc trình cơ quan nhà nước có thẩm quyền quy định chi tiết mức thu, chế độ thu, nộp, quản lý và sử dụng phí quyền hoạt động viễn thông.",
+                    "text": "Bộ Tài chính chủ trì phối hợp với Bộ Thông tin và Truyền thông quy định hoặc trình cơ quan nhà nước có thẩm quyền quy định chi tiết mức thu, chế độ thu, nộp, quản lý và sử dụng phí quyền hoạt động viễn thông. CHƯƠNG VI KẾT NỐI VÀ CHIA SẺ CƠ SỞ HẠ TẦNG VIỄN THÔNG",
                     "sub_clauses": []
                 }
             ]
@@ -1666,7 +1710,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bộ Thông tin và Truyền thông quy định chi tiết việc chia sẻ cơ sở hạ tầng viễn thông.",
+                    "text": "Bộ Thông tin và Truyền thông quy định chi tiết việc chia sẻ cơ sở hạ tầng viễn thông. CHƯƠNG VII TÀI NGUYÊN VIỄN THÔNG",
                     "sub_clauses": []
                 }
             ]
@@ -1931,7 +1975,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Nhà nước bồi thường cho tổ chức, cá nhân bị thu hồi kho số viễn thông, tài nguyên Internet quy định tại điểm a và điểm b khoản 2 Điều này.",
+                    "text": "Nhà nước bồi thường cho tổ chức, cá nhân bị thu hồi kho số viễn thông, tài nguyên Internet quy định tại điểm a và điểm b khoản 2 Điều này. CHƯƠNG VIII QUẢN LÝ TIÊU CHUẨN, QUY CHUẨN KỸ THUẬT, CHẤT LƯỢNG VÀ GIÁ CƯỚC VIỄN THÔNG",
                     "sub_clauses": []
                 }
             ]
@@ -2057,6 +2101,11 @@
             "title": "Căn cứ xác định giá cước viễn thông",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Giá cước viễn thông được xác định dựa trên cơ sở các căn cứ sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Chính sách và mục tiêu phát triển viễn thông từng thời kỳ; pháp luật về giá, điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;",
                     "sub_clauses": []
@@ -2109,7 +2158,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Doanh nghiệp viễn thông có trách nhiệm:",
+                    "text": "Doanh nghiệp viễn thông có trách nhiệm: CHƯƠNG IX CÔNG TRÌNH VIỄN THÔNG",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2252,7 +2301,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tổ chức, cá nhân có trách nhiệm tuân thủ các quy định về quy hoạch, thiết kế, xây dựng và sử dụng chung cơ sở hạ tầng kỹ thuật giao thông, cung cấp năng lượng, chiếu sáng công cộng, cấp nước, thoát nước, viễn thông và các công trình hạ tầng kỹ thuật khác.",
+                    "text": "Tổ chức, cá nhân có trách nhiệm tuân thủ các quy định về quy hoạch, thiết kế, xây dựng và sử dụng chung cơ sở hạ tầng kỹ thuật giao thông, cung cấp năng lượng, chiếu sáng công cộng, cấp nước, thoát nước, viễn thông và các công trình hạ tầng kỹ thuật khác. CHƯƠNG X ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2276,8 +2325,18 @@
         {
             "id": "Điều 63",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 6 thông qua ngày 23 tháng 11 năm 2009. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 6 thông qua ngày 23 tháng 11 năm 2009.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Phú Trọng"
+    ]
 }

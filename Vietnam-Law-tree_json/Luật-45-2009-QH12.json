@@ -13,7 +13,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về đối tượng chịu thuế, người nộp thuế, căn cứ tính thuế, kê khai thuế, nộp thuế, miễn thuế, giảm thuế tài nguyên.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -77,7 +83,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người nộp thuế tài nguyên trong một số trường hợp được quy định cụ thể như sau:",
+                    "text": "Người nộp thuế tài nguyên trong một số trường hợp được quy định cụ thể như sau: CHƯƠNG II CĂN CỨ TÍNH THUẾ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -98,7 +104,13 @@
         {
             "id": "Điều 4",
             "title": "Căn cứ tính thuế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Căn cứ tính thuế tài nguyên là sản lượng tài nguyên tính thuế, giá tính thuế và thuế suất.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 5",
@@ -131,7 +143,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Đối với tài nguyên được khai thác thủ công, phân tán hoặc khai thác lưu động, không thường xuyên, sản lượng tài nguyên khai thác dự kiến trong một năm có giá trị dưới 200.000.000 đồng thì thực hiện khoán sản lượng tài nguyên khai thác theo mùa vụ hoặc định kỳ để tính thuế. Cơ quan thuế phối hợp với cơ quan có liên quan ở địa phương xác định sản lượng tài nguyên khai thác được khoán để tính thuế.",
+                    "text": "Đối với tài nguyên được khai thác thủ công, phân tán hoặc khai thác lưu động, không thường xuyên, sản lượng tài nguyên khai thác dự kiến trong một năm có giá trị dưới 200.000.000 đồng thì thực hiện khoán sản lượng tài nguyên khai thác theo mùa vụ hoặc định kỳ để tính thuế. Cơ quan thuế phối hợp với cơ quan có liên quan ở địa phương xác định sản lượng tài nguyên khai thác được khoán để tính thuế. Chính phủ quy định chi tiết Điều này.",
                     "sub_clauses": []
                 }
             ]
@@ -183,7 +195,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Ủy ban nhân dân cấp tỉnh quy định cụ thể giá tính thuế đối với tài nguyên chưa xác định được giá bán đơn vị sản phẩm tài nguyên, trừ dầu thô, khí thiên nhiên, khí than và nước thiên nhiên dùng cho sản xuất thủy điện.",
+                    "text": "Ủy ban nhân dân cấp tỉnh quy định cụ thể giá tính thuế đối với tài nguyên chưa xác định được giá bán đơn vị sản phẩm tài nguyên, trừ dầu thô, khí thiên nhiên, khí than và nước thiên nhiên dùng cho sản xuất thủy điện. Chính phủ quy định chi tiết Điều này.",
                     "sub_clauses": []
                 }
             ]
@@ -194,17 +206,17 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Biểu khung thuế suất thuế tài nguyên được quy định như sau:",
+                    "text": "Biểu khung thuế suất thuế tài nguyên được quy định như sau: Số thứ tự Nhóm, loại tài nguyên Thuế suất (%) I Khoáng sản kim loại 1 Sắt, măng-gan (mangan) 7-20 2 Ti-tan (titan) 7-20 3 Vàng 9-25 4 Đất hiếm 12-25 5 Bạch kim, bạc, thiếc 7-25 6 Vôn-phờ-ram (wolfram), ăng-ti-moan (antimoan) 7-25 7 Chì, kẽm, nhôm, bô-xít (bouxite), đồng, ni-ken (niken) 7-25 8 Cô-ban (coban), mô-lip-đen (molipden), thuỷ ngân, ma-nhê (magie), va-na-đi (vanadi) 7-25 9 Khoáng sản kim loại khác 5-25 II Khoáng sản không kim loại 1 Đất khai thác để san lấp, xây dựng công trình 3- 10 2 Đá, trừ đá nung vôi và sản xuất xi măng; sỏi; cát, trừ cát làm thủy tinh 5-15 3 Đất làm gạch 5-15 4 Gờ-ra-nít (granite), sét chịu lửa 7-20 5 Đô-lô-mít (dolomite), quắc-zít (quartzite) 7-20 6 Cao lanh, mi-ca (mica), thạch anh kỹ thuật, cát làm thủy tinh 7-15 7 Pi-rít (pirite), phốt-pho-rít (phosphorite), đá nung vôi và sản xuất xi măng 5-15 8 A-pa-tít (apatit), séc-păng-tin (secpentin) 3-10 9 Than an-tra-xít (antraxit) hầm lò 4-20 10 Than an-tra-xít (antraxit) lộ thiên 6-20 11 Than nâu, than mỡ 6-20 12 Than khác 4-20 13 Kim cương, ru-bi (rubi), sa-phia (sapphire) 16-30 14 E-mô-rốt (emerald), a-lếch-xan-đờ-rít (alexandrite), ô-pan (opan) quý màu đen 16-30 15 Adít, rô-đô-lít (rodolite), py-rốp (pyrope), bê-rin (berin), sờ-pi-nen (spinen), tô-paz (topaz) 12-25 16 Thạch anh tinh thể màu tím xanh, vàng lục, da cam; cờ-ri-ô-lít (cryolite); ô-pan (opan) quý màu trắng, đỏ lửa; phen-sờ-phát (fenspat); birusa; nê-phờ-rít (nefrite) 12-25 17 Khoáng sản không kim loại khác 4-25 III Dầu thô 6-40 IV Khí thiên nhiên, khí than 1-30 V Sản phẩm của rừng tự nhiên 1 Gỗ nhóm I 25-35 2 Gỗ nhóm II 20-30 3 Gỗ nhóm III, IV 15-20 4 Gỗ nhóm V, VI, VII, VIII và các loại gỗ khác 10-15 5 Cành, ngọn, gốc, rễ 10-20 6 Củi 1-5 7 Tre, trúc, nứa, mai, giang, tranh, vầu, lồ ô 10-15 8 Trầm hương, kỳ nam 25-30 9 Hồi, quế, sa nhân, thảo quả 10-15 10 Sản phẩm khác của rừng tự nhiên 5-15 VI Hải sản tự nhiên 1 Ngọc trai, bào ngư, hải sâm 6-10 2 Hải sản tự nhiên khác 1-5 VII Nước thiên nhiên 1 Nước khoáng thiên nhiên, nước nóng thiên nhiên, nước thiên nhiên tinh lọc đóng chai, đóng hộp 8-10 2 Nước thiên nhiên dùng cho sản xuất thủy điện 2-5 3 Nước thiên nhiên dùng cho sản xuất, kinh doanh, trừ nước quy định tại điểm 1 và điểm 2 Nhóm này",
                     "sub_clauses": []
                 },
                 {
                     "number": "3.1",
-                    "text": "",
+                    "text": " Nước mặt 1-3",
                     "sub_clauses": []
                 },
                 {
                     "number": "3.2",
-                    "text": "",
+                    "text": " Nước dưới đất 3-8 VIII Yến sào thiên nhiên 10-20 IX Tài nguyên khác 1-20",
                     "sub_clauses": []
                 },
                 {
@@ -214,7 +226,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Căn cứ vào quy định tại khoản 1 và khoản 2 Điều này, Ủy ban thường vụ Quốc hội quy định mức thuế suất cụ thể đối với từng loại tài nguyên trong từng thời kỳ bảo đảm các nguyên tắc sau:",
+                    "text": "Căn cứ vào quy định tại khoản 1 và khoản 2 Điều này, Ủy ban thường vụ Quốc hội quy định mức thuế suất cụ thể đối với từng loại tài nguyên trong từng thời kỳ bảo đảm các nguyên tắc sau: CHƯƠNG III KÊ KHAI, NỘP THUẾ; MIỄN, GIẢM THUẾ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -235,7 +247,13 @@
         {
             "id": "Điều 8",
             "title": "Kê khai, nộp thuế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người nộp thuế tài nguyên thực hiện đăng ký, kê khai, tính và nộp thuế theo quy định của pháp luật về quản lý thuế.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 9",
@@ -273,7 +291,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Trường hợp khác được miễn, giảm thuế do Ủy ban thường vụ Quốc hội quy định.",
+                    "text": "Trường hợp khác được miễn, giảm thuế do Ủy ban thường vụ Quốc hội quy định. CHƯƠNG IV ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -311,7 +329,13 @@
         {
             "id": "Điều 11",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 6 thông qua ngày 25 tháng 11 năm 2009. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": []

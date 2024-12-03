@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về bí mật nhà nước, hoạt động bảo vệ bí mật nhà nước và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -187,6 +201,13 @@
         "clause": "2",
         "title": "Kinh phí, cơ sở vật chất phục vụ bảo vệ bí mật nhà nước",
         "text": "Việc quản lý, sử dụng kinh phí, cơ sở vật chất phục vụ bảo vệ bí mật nhà nước thực hiện theo quy định của pháp luật. Chương II PHẠM VI, PHÂN LOẠI, BAN HÀNH DANH MỤC BÍ MẬT NHÀ NƯỚC"
+    },
+    {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Phạm vi bí mật nhà nước",
+        "text": "Phạm vi bí mật nhà nước là giới hạn thông tin quan trọng trong các lĩnh vực sau đây chưa công khai, nếu bị lộ, bị mất có thể gây nguy hại đến lợi ích quốc gia, dân tộc:"
     },
     {
         "id": "Điều 7.1",
@@ -572,6 +593,13 @@
         "clause": "15b",
         "title": "Phạm vi bí mật nhà nước",
         "text": "Thông tin kiểm toán về tài chính công, tài sản công."
+    },
+    {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Phân loại bí mật nhà nước",
+        "text": "Căn cứ vào tính chất quan trọng của nội dung thông tin, mức độ nguy hại nếu bị lộ, bị mất, bí mật nhà nước được phân loại thành 03 độ mật, bao gồm:"
     },
     {
         "id": "Điều 8.1",
@@ -1818,5 +1846,12 @@
         "clause": "3",
         "title": "Hiệu lực thi hành",
         "text": "Pháp lệnh Bảo vệ bí mật nhà nước số 30/2000/PL-UBTVQH10 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+    },
+    {
+        "id": "Điều 28.0",
+        "article": "Điều 28",
+        "clause": "0",
+        "title": "Điều khoản chuyển tiếp",
+        "text": "Bí mật nhà nước đã được xác định trước ngày 01 tháng 01 năm 2019 được xác định thời hạn bảo vệ theo quy định tại khoản 1 Điều 19 của Luật này. Cơ quan, tổ chức đã xác định bí mật nhà nước có trách nhiệm xác định thời hạn bảo vệ đối với bí mật nhà nước đó bảo đảm kết thúc trước ngày 01 tháng 7 năm 2021. Trường hợp thời hạn bảo vệ bí mật nhà nước kết thúc trước thời điểm Luật này có hiệu lực thi hành thì phải tiến hành gia hạn thời hạn bảo vệ bí mật nhà nước theo quy định tại Điều 20 của Luật này tính từ thời điểm gia hạn; nếu không được gia hạn thì phải giải mật theo quy định của Pháp lệnh Bảo vệ bí mật nhà nước số 30/2000/PL-UBTVQH10. Trường hợp thời hạn bảo vệ bí mật nhà nước kết thúc sau thời điểm Luật này có hiệu lực thi hành thì bí mật nhà nước thuộc danh mục bí mật nhà nước được ban hành theo quy định của Luật này tiếp tục được bảo vệ đến hết thời hạn đã được xác định hoặc gia hạn; nếu không còn thuộc danh mục bí mật nhà nước thì phải giải mật theo quy định của Luật này. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua ngày 15 tháng 11 năm 2018. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

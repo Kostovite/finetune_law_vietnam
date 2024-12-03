@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về nghĩa vụ quân sự; nhiệm vụ, quyền hạn của cơ quan, tổ chức, cá nhân và chế độ, chính sách trong việc thực hiện nghĩa vụ quân sự."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân có liên quan đến nghĩa vụ quân sự."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -117,6 +138,13 @@
         "clause": "4đ",
         "title": "Nghĩa vụ quân sự",
         "text": "Công dân phục vụ trên tàu kiểm ngư từ đủ 24 tháng trở lên."
+    },
+    {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Trách nhiệm của cơ quan, tổ chức, cá nhân và gia đình trong thực hiện nghĩa vụ quân sự",
+        "text": "Cơ quan, tổ chức, cá nhân và gia đình có trách nhiệm giáo dục, động viên và tạo điều kiện cho công dân thực hiện nghĩa vụ quân sự."
     },
     {
         "id": "Điều 6.1",
@@ -425,6 +453,13 @@
         "clause": "2",
         "title": "Đối tượng không được đăng ký nghĩa vụ quân sự",
         "text": "Khi hết thời hạn áp dụng các biện pháp quy định tại khoản 1 Điều này, công dân được đăng ký nghĩa vụ quân sự."
+    },
+    {
+        "id": "Điều 14.0",
+        "article": "Điều 14",
+        "clause": "0",
+        "title": "Đối tượng miễn đăng ký nghĩa vụ quân sự",
+        "text": "Người khuyết tật, người mắc bệnh hiểm nghèo, bệnh tâm thần hoặc bệnh mãn tính theo quy định của pháp luật."
     },
     {
         "id": "Điều 15.1",
@@ -833,6 +868,13 @@
         "text": "Công dân nữ đã đăng ký nghĩa vụ quân sự theo quy định tại khoản 2 Điều 12 của Luật này."
     },
     {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Độ tuổi phục vụ của hạ sĩ quan, binh sĩ dự bị",
+        "text": "Độ tuổi phục vụ trong ngạch dự bị của hạ sĩ quan, binh sĩ được quy định như sau:"
+    },
+    {
         "id": "Điều 25.1",
         "article": "Điều 25",
         "clause": "1",
@@ -845,6 +887,13 @@
         "clause": "2",
         "title": "Độ tuổi phục vụ của hạ sĩ quan, binh sĩ dự bị",
         "text": "Công dân nữ đến hết 40 tuổi."
+    },
+    {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Nhóm tuổi phục vụ của hạ sĩ quan, binh sĩ dự bị",
+        "text": "Tuổi phục vụ của hạ sĩ quan, binh sĩ dự bị được chia thành hai nhóm như sau:"
     },
     {
         "id": "Điều 26.1",
@@ -910,6 +959,20 @@
         "text": "Ủy ban nhân dân cấp huyện chỉ đạo phòng y tế phối hợp với cơ quan liên quan tổ chức kiểm tra sức khoẻ đối với hạ sĩ quan, binh sĩ dự bị."
     },
     {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Giải ngạch dự bị",
+        "text": "Hạ sĩ quan, binh sĩ dự bị hết độ tuổi hoặc không còn đủ sức khoẻ phục vụ trong ngạch dự bị thì được giải ngạch theo quyết định của Chỉ huy trưởng Ban Chỉ huy quân sự cấp huyện. CHƯƠNG IV NHẬP NGŨ VÀ XUẤT NGŨ TRONG THỜI BÌNH Mục 1 GỌI CÔNG DÂN NHẬP NGŨ"
+    },
+    {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Độ tuổi gọi nhập ngũ",
+        "text": "Công dân đủ 18 tuổi được gọi nhập ngũ; độ tuổi gọi nhập ngũ từ đủ 18 tuổi đến hết 25 tuổi; công dân được đào tạo trình độ cao đẳng, đại học đã được tạm hoãn gọi nhập ngũ thì độ tuổi gọi nhập ngũ đến hết 27 tuổi."
+    },
+    {
         "id": "Điều 31.1",
         "article": "Điều 31",
         "clause": "1",
@@ -950,6 +1013,20 @@
         "clause": "2",
         "title": "Tiêu chuẩn công dân được gọi nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân",
         "text": "Tiêu chuẩn công dân được gọi thực hiện nghĩa vụ tham gia Công an nhân dân theo quy định tại Điều 7 của Luật Công an nhân dân."
+    },
+    {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Công nhận binh sĩ tại ngũ",
+        "text": "Công dân đến 17 tuổi, có nguyện vọng phục vụ lâu dài trong Quân đội nhân dân, có đủ tiêu chuẩn theo quy định của pháp luật, đang học tập tại nhà trường quân đội thì được công nhận là binh sĩ tại ngũ."
+    },
+    {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Số lần, thời điểm gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân trong năm",
+        "text": "Hằng năm, gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân một lần vào tháng hai hoặc tháng ba; trường hợp cần thiết vì lý do quốc phòng, an ninh thì được gọi công dân nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân lần thứ hai. Đối với địa phương có thảm họa hoặc dịch bệnh nguy hiểm thì được điều chỉnh thời gian gọi nhập ngũ và thực hiện nghĩa vụ tham gia Công an nhân dân."
     },
     {
         "id": "Điều 34.1",
@@ -1351,6 +1428,20 @@
         "text": "Ủy ban nhân dân cấp huyện, cấp xã và cơ quan, tổ chức phải tổ chức tiếp nhận hạ sĩ quan, binh sĩ xuất ngũ."
     },
     {
+        "id": "Điều 45.0",
+        "article": "Điều 45",
+        "clause": "0",
+        "title": "Trách nhiệm của hạ sĩ quan, binh sĩ xuất ngũ",
+        "text": "Hạ sĩ quan, binh sĩ xuất ngũ; hạ sĩ quan, chiến sĩ hoàn thành thực hiện nghĩa vụ tham gia Công an nhân dân khi về nơi cư trú hoặc nơi làm việc, học tập trong thời hạn 15 ngày làm việc phải đến cơ quan đăng ký nghĩa vụ quân sự để đăng ký phục vụ trong ngạch dự bị. CHƯƠNG V NHẬP NGŨ THEO LỆNH ĐỘNG VIÊN, XUẤT NGŨ KHI BÃI BỎ TÌNH TRẠNG CHIẾN TRANH HOẶC TÌNH TRẠNG KHẨN CẤP VỀ QUỐC PHÒNG"
+    },
+    {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Gọi nhập ngũ khi có lệnh động viên",
+        "text": "Khi có lệnh tổng động viên hoặc động viên cục bộ, việc gọi nhập ngũ thực hiện theo quyết định của Thủ tướng Chính phủ và lệnh của Bộ trưởng Bộ Quốc phòng."
+    },
+    {
         "id": "Điều 47.1",
         "article": "Điều 47",
         "clause": "1",
@@ -1589,6 +1680,20 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Chế độ, chính sách đối với hạ sĩ quan, binh sĩ dự bị",
+        "text": "Hạ sĩ quan, binh sĩ dự bị trong thời gian tập trung huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu thì bản thân và gia đình được hưởng chế độ chính sách theo quy định của Chính phủ. Trường hợp bị thương, bị bệnh hoặc từ trần trong khi làm nhiệm vụ thì bản thân và gia đình được hưởng chế độ ưu đãi theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 52.0",
+        "article": "Điều 52",
+        "clause": "0",
+        "title": "Trách nhiệm của cơ quan, tổ chức trong thực hiện chế độ, chính sách đối với gia đình hạ sĩ quan, binh sĩ",
+        "text": "Ủy ban nhân dân các cấp, cơ quan, tổ chức trong phạm vi chức năng, quyền hạn có trách nhiệm thực hiện chế độ, chính sách đối với gia đình hạ sĩ quan, binh sĩ tại ngũ và hạ sĩ quan, binh sĩ dự bị."
+    },
+    {
         "id": "Điều 53.1",
         "article": "Điều 53",
         "clause": "1",
@@ -1715,6 +1820,13 @@
         "text": "Bộ, cơ quan ngang bộ và cơ quan, tổ chức trong phạm vi nhiệm vụ, quyền hạn có trách nhiệm phối hợp với Bộ Quốc phòng thực hiện quy định của pháp luật về nghĩa vụ quân sự."
     },
     {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận",
+        "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận trong phạm vi nhiệm vụ, quyền hạn có trách nhiệm giám sát việc thực hiện pháp luật về nghĩa vụ quân sự của cơ quan, tổ chức, cá nhân."
+    },
+    {
         "id": "Điều 58.1",
         "article": "Điều 58",
         "clause": "1",
@@ -1825,5 +1937,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Luật nghĩa vụ quân sự ngày 30 tháng 12 năm 1981; Luật sửa đổi, bổ sung một số điều của Luật nghĩa vụ quân sự ngày 21 tháng 12 năm 1990; Luật sửa đổi, bổ sung một số điều của Luật nghĩa vụ quân sự ngày 22 tháng 6 năm 1994 và Luật sửa đổi, bổ sung một số điều của Luật nghĩa vụ quân sự số 43/2005/QH11 ngày 14 tháng 6 năm 2005 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+    },
+    {
+        "id": "Điều 62.0",
+        "article": "Điều 62",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ, các bộ quy định chi tiết thi hành các điều, khoản được giao trong Luật. ------------------------------------------------------------------------------------------------------------ Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 19 tháng 6 năm 2015. CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Sinh Hùng"
     }
 ]

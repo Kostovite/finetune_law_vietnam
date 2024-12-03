@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về việc trưng mua, trưng dụng tài sản; quyền và trách nhiệm của cơ quan nhà nước trong việc trưng mua, trưng dụng tài sản; quyền và nghĩa vụ của người có tài sản trưng mua, trưng dụng; quyền và nghĩa vụ của người khác có liên quan đến việc trưng mua, trưng dụng tài sản."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -82,6 +96,13 @@
         "clause": "5",
         "title": "Nguyên tắc trưng mua, trưng dụng tài sản",
         "text": "Việc quản lý, sử dụng tài sản trưng mua, trưng dụng phải đúng mục đích, tiết kiệm và có hiệu quả."
+    },
+    {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Điều kiện trưng mua, trưng dụng tài sản",
+        "text": "Việc trưng mua, trưng dụng tài sản chỉ được thực hiện khi Nhà nước có nhu cầu sử dụng tài sản mà các biện pháp huy động khác không thực hiện được, thuộc một trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 5.1",
@@ -299,6 +320,13 @@
         "clause": "2",
         "title": "Quyền và nghĩa vụ của người có tài sản trưng mua, trưng dụng",
         "text": "Người có tài sản trưng mua, trưng dụng có nghĩa vụ chấp hành quyết định trưng mua, trưng dụng tài sản."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Quản lý, lưu trữ các tài liệu liên quan đến việc trưng mua, trưng dụng tài sản",
+        "text": "Các tài liệu liên quan đến việc trưng mua, trưng dụng tài sản phải được lập thành hồ sơ và được quản lý, lưu  trữ theo quy định của pháp luật."
     },
     {
         "id": "Điều 12.1",
@@ -539,6 +567,13 @@
         "text": "Trường hợp người có tài sản trưng mua hoặc người đại diện hợp pháp không có mặt tại địa điểm bàn giao, tiếp nhận tài sản trưng mua theo thời hạn đã quy định thì trong biên bản bàn giao, tiếp nhận tài sản phải ghi rõ sự vắng mặt của họ và có xác nhận của Ủy ban nhân dân cấp xã nơi có tài sản trưng mua."
     },
     {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Cưỡng chế thi hành quyết định trưng mua tài sản",
+        "text": "Trường hợp quyết định trưng mua tài sản đã được thực hiện theo đúng quy định của pháp luật mà người có tài sản trưng mua không chấp hành thì người quyết định trưng mua tài sản ra quyết định cưỡng chế thi hành và tổ chức cưỡng chế thi hành hoặc giao cho Chủ tịch Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là Uỷ ban nhân dân cấp huyện) nơi có tài sản trưng mua tổ chức cưỡng chế thi hành."
+    },
+    {
         "id": "Điều 18.1",
         "article": "Điều 18",
         "clause": "1",
@@ -607,6 +642,27 @@
         "clause": "3",
         "title": "Thanh toán tiền trưng mua tài sản",
         "text": "Bộ Tài chính, cơ quan tài chính địa phương chịu trách nhiệm thanh toán tiền trưng mua tài sản cho người có tài sản trưng mua theo đúng quy định tại khoản 1 và khoản 2 Điều này và quy định của pháp luật về ngân sách nhà nước."
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Kinh phí thanh toán tiền trưng mua tài sản",
+        "text": "Kinh phí thanh toán tiền trưng mua tài sản do ngân sách nhà nước chi trả theo quy định của pháp luật về ngân sách nhà nước."
+    },
+    {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Quản lý, sử dụng tài sản trưng mua",
+        "text": "Việc quản lý, sử dụng tài sản trưng mua được thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản nhà nước."
+    },
+    {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Hiến, tặng cho tài sản trưng mua",
+        "text": "Trường hợp người có tài sản trưng mua tự nguyện hiến, tặng cho tài sản trưng mua cho Nhà nước thì Nhà nước không phải thanh toán tiền cho người hiến, tặng cho tài sản. Việc hiến, tặng cho tài sản được lập thành văn bản. Chương III TRƯNG DỤNG TÀI SẢN"
     },
     {
         "id": "Điều 23.1",
@@ -866,6 +922,27 @@
         "clause": "4",
         "title": "Bàn giao, tiếp nhận tài sản trưng dụng",
         "text": "Trường hợp người có tài sản trưng dụng, người đại diện hợp pháp hoặc người đang quản lý, sử dụng hợp pháp tài sản trưng dụng không có mặt tại địa điểm bàn giao, tiếp nhận tài sản theo thời gian đã quy định thì trong biên bản bàn giao, tiếp nhận tài sản phải ghi rõ sự vắng mặt của họ và có xác nhận của Ủy ban nhân dân cấp xã nơi có tài sản trưng dụng."
+    },
+    {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Bàn giao, tiếp nhận tài sản trong trường hợp quyết định trưng dụng bằng lời nói",
+        "text": "Người đang quản lý, sử dụng tài sản trưng dụng phải giao ngay tài sản cho cá nhân, đại diện tổ chức được giao quản lý, sử dụng tài sản trưng dụng sau khi có quyết định trưng dụng tài sản bằng lời nói."
+    },
+    {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Cưỡng chế thi hành quyết định trưng dụng tài sản",
+        "text": "Trường hợp quyết định trưng dụng tài sản đã được thực hiện theo đúng quy định của pháp luật mà người có tài sản trưng dụng không chấp hành thì người quyết định trưng dụng tài sản ra quyết định cưỡng chế thi hành và tổ chức cưỡng chế thi hành hoặc giao cho Chủ tịch Ủy ban nhân dân cấp huyện nơi có tài sản trưng dụng tổ chức cưỡng chế thi hành."
+    },
+    {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Quản lý, sử dụng tài sản trưng dụng",
+        "text": "Tổ chức, cá nhân được giao quản lý, sử dụng tài sản trưng dụng có trách nhiệm sau đây:"
     },
     {
         "id": "Điều 32.1",
@@ -1299,6 +1376,6 @@
         "article": "Điều 42",
         "clause": "2",
         "title": "Hiệu lực thi hành",
-        "text": "Đối với các trường hợp Nhà nước đã thực hiện việc trưng mua, trưng dụng tài sản của các tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư trước ngày Luật này có hiệu lực thi hành thì thực hiện theo các quy định của pháp luật tại thời điểm trưng mua, trưng dụng."
+        "text": "Đối với các trường hợp Nhà nước đã thực hiện việc trưng mua, trưng dụng tài sản của các tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư trước ngày Luật này có hiệu lực thi hành thì thực hiện theo các quy định của pháp luật tại thời điểm trưng mua, trưng dụng. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 3 thông qua ngày 03 tháng 6  năm 2008. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

@@ -15,7 +15,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về nguyên tắc, nội dung, nguồn lực hỗ trợ doanh nghiệp nhỏ và vừa; trách nhiệm của cơ quan, tổ chức và cá nhân liên quan đến hỗ trợ doanh nghiệp nhỏ và vừa.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -37,6 +43,11 @@
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Doanh nghiệp nhỏ và vừa do phụ nữ làm chủ là doanh nghiệp nhỏ và vừa có một hoặc nhiều phụ nữ sở hữu từ 51% vốn điều lệ trở lên, trong đó có ít nhất một người quản lý điều hành doanh nghiệp đó.",
@@ -135,7 +146,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Trường hợp doanh nghiệp nhỏ và vừa đồng thời đáp ứng điều kiện của các mức hỗ trợ khác nhau trong cùng một nội dung hỗ trợ theo quy định của Luật này và quy định khác của pháp luật có liên quan thì doanh nghiệp được lựa chọn mức hỗ trợ có lợi nhất.",
+                    "text": "Trường hợp doanh nghiệp nhỏ và vừa đồng thời đáp ứng điều kiện của các mức hỗ trợ khác nhau trong cùng một nội dung hỗ trợ theo quy định của Luật này và quy định khác của pháp luật có liên quan thì doanh nghiệp được lựa chọn mức hỗ trợ có lợi nhất. Trường hợp nhiều doanh nghiệp nhỏ và vừa cùng đáp ứng điều kiện hỗ trợ theo quy định của Luật này thì ưu tiên lựa chọn doanh nghiệp nhỏ và vừa do phụ nữ làm chủ, doanh nghiệp nhỏ và vừa sử dụng nhiều lao động nữ hơn.",
                     "sub_clauses": []
                 },
                 {
@@ -204,7 +215,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Sử dụng nguồn lực hỗ trợ không đúng mục đích đã cam kết.",
+                    "text": "Sử dụng nguồn lực hỗ trợ không đúng mục đích đã cam kết. Chương II NỘI DUNG HỖ TRỢ DOANH NGHIỆP NHỎ VÀ VỪA Mục 1. HỖ TRỢ CHUNG",
                     "sub_clauses": []
                 }
             ]
@@ -241,7 +252,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Quỹ bảo lãnh tín dụng doanh nghiệp nhỏ và vừa thực hiện chức năng cấp bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa.",
+                    "text": "Quỹ bảo lãnh tín dụng doanh nghiệp nhỏ và vừa thực hiện chức năng cấp bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa. Việc bảo lãnh tín dụng cho doanh nghiệp nhỏ và vừa dựa trên tài sản bảo đảm hoặc phương án sản xuất, kinh doanh khả thi hoặc xếp hạng tín nhiệm của doanh nghiệp nhỏ và vừa.",
                     "sub_clauses": []
                 },
                 {
@@ -288,7 +299,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc hỗ trợ giá thuê mặt bằng cho doanh nghiệp nhỏ và vừa quy định tại khoản 2 Điều này được thực hiện thông qua việc bù giá cho nhà đầu tư hạ tầng khu công nghiệp, khu công nghệ cao, cụm công nghiệp để giảm giá cho thuê mặt bằng đối với doanh nghiệp nhỏ và vừa.",
+                    "text": "Việc hỗ trợ giá thuê mặt bằng cho doanh nghiệp nhỏ và vừa quy định tại khoản 2 Điều này được thực hiện thông qua việc bù giá cho nhà đầu tư hạ tầng khu công nghiệp, khu công nghệ cao, cụm công nghiệp để giảm giá cho thuê mặt bằng đối với doanh nghiệp nhỏ và vừa. Số tiền bù giá được trừ vào số tiền thuê đất hoặc được hỗ trợ từ ngân sách địa phương.",
                     "sub_clauses": []
                 },
                 {
@@ -422,7 +433,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Mục 2. HỖ TRỢ DOANH NGHIỆP NHỎ VÀ VỪA CHUYỂN ĐỔI TỪ HỘ KINH DOANH, KHỞI NGHIỆP SÁNG TẠO, THAM GIA CỤM LIÊN KẾT NGÀNH, CHUỖI GIÁ TRỊ",
                     "sub_clauses": []
                 }
             ]
@@ -663,7 +674,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương III TRÁCH NHIỆM TRONG HOẠT ĐỘNG HỖ TRỢ DOANH NGHIỆP NHỎ VÀ VỪA",
                     "sub_clauses": []
                 }
             ]
@@ -994,7 +1005,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Quyết định xử lý vi phạm đối với cơ quan, tổ chức, cá nhân vi phạm pháp luật về hỗ trợ doanh nghiệp nhỏ và vừa phải được công bố trên trang thông tin điện tử của cơ quan thực hiện hỗ trợ và Cổng thông tin quốc gia hỗ trợ doanh nghiệp nhỏ và vừa.",
+                    "text": "Quyết định xử lý vi phạm đối với cơ quan, tổ chức, cá nhân vi phạm pháp luật về hỗ trợ doanh nghiệp nhỏ và vừa phải được công bố trên trang thông tin điện tử của cơ quan thực hiện hỗ trợ và Cổng thông tin quốc gia hỗ trợ doanh nghiệp nhỏ và vừa. Chương IV ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1005,7 +1016,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Sửa đổi, bổ sung một số điều của Luật Đầu tư số 67/2014/QH13 như sau:",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật Đầu tư số 67/2014/QH13 như sau: “o) Đầu tư kinh doanh chuỗi phân phối sản phẩm của doanh nghiệp nhỏ và vừa; đầu tư kinh doanh cơ sở kỹ thuật hỗ trợ doanh nghiệp nhỏ và vừa, cơ sở ươm tạo doanh nghiệp nhỏ và vừa; đầu tư kinh doanh khu làm việc chung hỗ trợ doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo theo quy định của pháp luật về hỗ trợ doanh nghiệp nhỏ và vừa.”; “2. Chính phủ quy định chi tiết các hình thức hỗ trợ đầu tư quy định tại khoản 1 Điều này đối với doanh nghiệp công nghệ cao, doanh nghiệp khoa học và công nghệ, tổ chức khoa học và công nghệ, doanh nghiệp đầu tư vào nông nghiệp, nông thôn, doanh nghiệp đầu tư vào giáo dục, phổ biến pháp luật và các đối tượng khác phù hợp với định hướng phát triển kinh tế - xã hội trong từng thời kỳ.”.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1019,7 +1030,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Sửa đổi điểm c khoản 3 Điều 14 của Luật Đấu thầu số 43/2013/QH13 như sau:",
+                    "text": "Sửa đổi điểm c khoản 3 Điều 14 của Luật Đấu thầu số 43/2013/QH13 như sau: “c) Nhà thầu là doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ.”.",
                     "sub_clauses": []
                 }
             ]
@@ -1027,7 +1038,13 @@
         {
             "id": "Điều 34",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2018.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 35",
@@ -1040,11 +1057,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Kể từ ngày Luật này có hiệu lực thi hành, các cam kết do Quỹ phát triển doanh nghiệp nhỏ và vừa thực hiện trước ngày Luật này có hiệu lực được tiếp tục thực hiện, nếu các bên không có thỏa thuận khác.",
+                    "text": "Kể từ ngày Luật này có hiệu lực thi hành, các cam kết do Quỹ phát triển doanh nghiệp nhỏ và vừa thực hiện trước ngày Luật này có hiệu lực được tiếp tục thực hiện, nếu các bên không có thỏa thuận khác. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 12 tháng 6 năm 2017. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 12 tháng 6 năm 2017.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định nguyên tắc, trình tự, thủ tục, tổ chức, nhiệm vụ, quyền hạn của cơ quan, người có thẩm quyền trong thi hành bản án, quyết định về hình phạt tù, tử hình, cảnh cáo, cải tạo không giam giữ, cấm cư trú, quản chế, trục xuất, tước một số quyền công dân, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định, án treo, tha tù trước thời hạn có điều kiện, hình phạt đình chỉ hoạt động có thời hạn, đình chỉ hoạt động vĩnh viễn, cấm kinh doanh, cấm hoạt động trong một số lĩnh vực nhất định, cấm huy động vốn, biện pháp tư pháp; quyền, nghĩa vụ của người, pháp nhân thương mại chấp hành án hình sự, biện pháp tư pháp; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan trong thi hành án hình sự, biện pháp tư pháp."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -26,6 +33,13 @@
         "clause": "4",
         "title": "Bản án, quyết định được thi hành",
         "text": "Bản án, quyết định về áp dụng biện pháp tư pháp bắt buộc chữa bệnh, giáo dục tại trường giáo dưỡng; buộc khôi phục lại tình trạng ban đầu, buộc thực hiện một số biện pháp nhằm khắc phục, ngăn chặn hậu quả tiếp tục xảy ra đối với pháp nhân thương mại thuộc thẩm quyền của cơ quan thi hành án hình sự."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -259,6 +273,27 @@
         "text": "Bảo đảm sự tham gia của cơ quan, tổ chức, cá nhân và gia đình trong hoạt động thi hành án hình sự, tái hòa nhập cộng đồng theo quy định của pháp luật."
     },
     {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Trách nhiệm phối hợp của cơ quan, tổ chức, cá nhân trong thi hành án hình sự",
+        "text": "Cơ quan, tổ chức, cá nhân, trong phạm vi nhiệm vụ, quyền hạn, nghĩa vụ của mình, có trách nhiệm phối hợp và thực hiện yêu cầu của cơ quan, người có thẩm quyền trong thi hành án hình sự theo quy định của Luật này."
+    },
+    {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Giám sát việc thi hành án hình sự",
+        "text": "Quốc hội, Hội đồng nhân dân, Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận giám sát hoạt động của cơ quan, tổ chức, người có thẩm quyền và cơ quan, tổ chức, cá nhân khác có liên quan trong thi hành án hình sự theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Kiểm sát việc thi hành án hình sự",
+        "text": "Viện kiểm sát nhân dân kiểm sát việc tuân theo pháp luật của cơ quan, người có thẩm quyền và cơ quan, tổ chức, cá nhân khác có liên quan trong thi hành án hình sự."
+    },
+    {
         "id": "Điều 8.1",
         "article": "Điều 8",
         "clause": "1",
@@ -271,6 +306,13 @@
         "clause": "2",
         "title": "Phổ biến, giáo dục pháp luật về thi hành án hình sự",
         "text": "Ủy ban nhân dân các cấp, cơ quan, tổ chức khác, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tổ chức thực hiện việc phổ biến, giáo dục pháp luật, vận động Nhân dân chấp hành pháp luật về thi hành án hình sự."
+    },
+    {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Hợp tác quốc tế trong thi hành án hình sự",
+        "text": "Hợp tác quốc tế trong thi hành án hình sự giữa cơ quan có thẩm quyền của nước Cộng hòa xã hội chủ nghĩa Việt Nam với cơ quan có thẩm quyền tương ứng của nước ngoài được thực hiện trên cơ sở tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng, cùng có lợi, phù hợp với Hiến pháp, pháp luật của Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên. Trường hợp giữa Việt Nam và nước có liên quan chưa có điều ước quốc tế thì việc hợp tác quốc tế trong thi hành án hình sự được thực hiện theo nguyên tắc có đi có lại nhưng không trái với Hiến pháp của Việt Nam, phù hợp với pháp luật quốc tế và tập quán quốc tế."
     },
     {
         "id": "Điều 10.1",
@@ -1076,6 +1118,13 @@
         "clause": "3",
         "title": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp xã trong thi hành án hình sự",
         "text": "Đối với huyện không có đơn vị hành chính cấp xã thì cơ quan thi hành án hình sự Công an cấp huyện thực hiện nhiệm vụ, quyền hạn quy định tại khoản 1 Điều này."
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của đơn vị quân đội trong thi hành án hình sự",
+        "text": "Đơn vị quân đội thực hiện nhiệm vụ, quyền hạn về giám sát, giáo dục người được hưởng án treo, người chấp hành án phạt cải tạo không giam giữ, cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định, tước một số quyền công dân; quản lý người được hoãn, tạm đình chỉ chấp hành án phạt tù, người được tha tù trước thời hạn có điều kiện."
     },
     {
         "id": "Điều 21.1",
@@ -2737,6 +2786,13 @@
         "text": "Phạm nhân được ở theo buồng giam tập thể, trừ phạm nhân đang bị giam riêng theo quy định tại các điểm d, đ, e, g khoản 2 và khoản 3 Điều 30 của Luật này. Chỗ nằm tối thiểu của mỗi phạm nhân là 02 m2. Đối với phạm nhân có con nhỏ ở cùng thì được bố trí chỗ nằm tối thiểu là 03 m2."
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Chế độ mặc và tư trang của phạm nhân",
+        "text": "Phạm nhân được cấp quần áo theo mẫu thống nhất, khăn mặt, chăn, chiếu, màn, dép, mũ hoặc nón, xà phòng, kem và bàn chải đánh răng; phạm nhân nữ được cấp thêm đồ dùng cần thiết cho vệ sinh của phụ nữ. Phạm nhân tham gia lao động được cấp thêm quần áo để lao động và căn cứ vào điều kiện công việc cụ thể được cấp dụng cụ bảo hộ lao động cần thiết. Chính phủ quy định chi tiết Điều này."
+    },
+    {
         "id": "Điều 50.1",
         "article": "Điều 50",
         "clause": "1",
@@ -2987,6 +3043,13 @@
         "clause": "3",
         "title": "Thủ tục giải quyết trường hợp phạm nhân chết",
         "text": "Trường hợp thân nhân hoặc đại diện của phạm nhân có đơn đề nghị được nhận tử thi hoặc hài cốt của phạm nhân và tự chịu chi phí, thì trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp huyện có thể xem xét, giải quyết, trừ trường hợp có căn cứ cho rằng việc đó ảnh hưởng đến an ninh, trật tự và vệ sinh môi trường. Việc nhận hài cốt chỉ được giải quyết sau thời hạn 03 năm kể từ ngày mai táng. Trường hợp phạm nhân là người nước ngoài thì việc nhận tử thi hoặc hài cốt phải được cơ quan quản lý thi hành án hình sự xem xét, quyết định. Mục 3. THA TÙ TRƯỚC THỜI HẠN CÓ ĐIỀU KIỆN"
+    },
+    {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Thời điểm xét tha tù trước thời hạn có điều kiện",
+        "text": "Việc xét tha tù trước thời hạn có điều kiện được thực hiện mỗi năm 03 đợt vào thời điểm kết thúc quý I, kết thúc quý II và kết thúc năm xếp loại."
     },
     {
         "id": "Điều 58.1",
@@ -3673,6 +3736,20 @@
         "clause": "4",
         "title": "Hủy quyết định tha tù trước thời hạn có điều kiện",
         "text": "Trình tự, thủ tục Tòa án xem xét, quyết định hủy quyết định tha tù trước thời hạn có điều kiện thực hiện theo quy định tại Điều 368 của Bộ luật Tố tụng hình sự."
+    },
+    {
+        "id": "Điều 72.0",
+        "article": "Điều 72",
+        "clause": "0",
+        "title": "Trách nhiệm của gia đình người được tha tù trước thời hạn có điều kiện",
+        "text": "Gia đình người được tha tù trước thời hạn có điều kiện có trách nhiệm phối hợp với Ủy ban nhân dân cấp xã, đơn vị quân đội trong việc quản lý người được tha tù trước thời hạn có điều kiện; thông báo kết quả chấp hành các nghĩa vụ của người được tha tù trước thời hạn có điều kiện với Ủy ban nhân dân cấp xã, đơn vị quân đội được giao quản lý khi có yêu cầu; có mặt tại cuộc họp kiểm điểm người được tha tù trước thời hạn có điều kiện theo yêu cầu của Ủy ban nhân dân cấp xã, đơn vị quân đội được giao quản lý người đó. Mục 4. QUY ĐỊNH ĐỐI VỚI PHẠM NHÂN LÀ NGƯỜI DƯỚI 18 TUỔI"
+    },
+    {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Phạm vi áp dụng",
+        "text": "Phạm nhân là người dưới 18 tuổi chấp hành án theo quy định tại Mục này và các quy định khác không trái với quy định tại Mục này; khi đủ 18 tuổi thì chuyển sang thực hiện chế độ quản lý giam giữ, giáo dục đối với người từ đủ 18 tuổi trở lên."
     },
     {
         "id": "Điều 74.1",
@@ -6349,6 +6426,13 @@
         "text": "Trong thời hạn 03 ngày làm việc kể từ ngày ra quyết định kéo dài thời hạn buộc phải rời khỏi lãnh thổ Việt Nam đối với người chấp hành án, Tòa án phải gửi quyết định đó cho cơ quan thi hành án hình sự Công an cấp tỉnh nơi Tòa án đã ra quyết định thi hành án có trụ sở, Viện kiểm sát cùng cấp."
     },
     {
+        "id": "Điều 124.0",
+        "article": "Điều 124",
+        "clause": "0",
+        "title": "Chi phí trục xuất",
+        "text": "Người chấp hành án phạt trục xuất phải chịu chi phí vé máy bay, ô tô, tàu hỏa, tàu biển để rời khỏi lãnh thổ Việt Nam; trường hợp người chấp hành án phạt trục xuất không có khả năng tự chịu chi phí thì cơ quan thi hành án hình sự Công an cấp tỉnh phối hợp với cơ quan quản lý xuất nhập cảnh yêu cầu cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước mà người đó mang quốc tịch hoặc cơ quan đại diện của tổ chức quốc tế mà người đó làm việc, cơ quan, tổ chức đã bảo lãnh người đó vào Việt Nam giải quyết kinh phí đưa người chấp hành án phạt trục xuất về nước; trường hợp đã yêu cầu mà cơ quan, tổ chức đó vẫn chưa giải quyết được kinh phí nhưng vì lý do an ninh quốc gia cần phải trục xuất ngay thì Thủ trưởng cơ quan thi hành án hình sự Công an cấp tỉnh báo cáo cơ quan quản lý thi hành án hình sự thuộc Bộ Công an quyết định việc sử dụng ngân sách nhà nước chi trả vé máy bay, ô tô, tàu hỏa, tàu biển cho người chấp hành án phạt trục xuất. Chương VIII THI HÀNH ÁN PHẠT TƯỚC MỘT SỐ QUYỀN CÔNG DÂN"
+    },
+    {
         "id": "Điều 125.1",
         "article": "Điều 125",
         "clause": "1",
@@ -6410,6 +6494,13 @@
         "clause": "6",
         "title": "Thủ tục thi hành án phạt tước một số quyền công dân",
         "text": "Trường hợp người chấp hành án chết, Ủy ban nhân dân cấp xã nơi người chấp hành án cư trú thông báo cho cơ quan thi hành án hình sự Công an cấp huyện để thông báo cho Tòa án đã ra quyết định thi hành án. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông báo, Tòa án đã ra quyết định thi hành án phải ra quyết định đình chỉ thi hành án và gửi cho cơ quan thi hành án hình sự Công an cấp huyện, Viện kiểm sát cùng cấp, Ủy ban nhân dân cấp xã nơi người chấp hành án cư trú, Sở Tư pháp nơi Tòa án đã ra quyết định thi hành án có trụ sở."
+    },
+    {
+        "id": "Điều 126.0",
+        "article": "Điều 126",
+        "clause": "0",
+        "title": "Tước quyền ứng cử đại biểu cơ quan quyền lực nhà nước",
+        "text": "Trong thời gian bị tước quyền ứng cử đại biểu cơ quan quyền lực nhà nước, người chấp hành án không được tham gia ứng cử đại biểu cơ quan quyền lực nhà nước."
     },
     {
         "id": "Điều 127.1",
@@ -7147,6 +7238,13 @@
         "text": "Chứng chỉ học văn hóa, học nghề do trường giáo dưỡng cấp cho học sinh có giá trị như chứng chỉ của cơ sở giáo dục phổ thông, giáo dục nghề nghiệp."
     },
     {
+        "id": "Điều 148.0",
+        "article": "Điều 148",
+        "clause": "0",
+        "title": "Chế độ sinh hoạt văn hóa, văn nghệ, vui chơi giải trí",
+        "text": "Ngoài giờ học văn hóa, học nghề, lao động, học sinh được tham gia các hoạt động văn hóa, văn nghệ, thể dục thể thao, đọc sách báo, xem truyền hình và các hoạt động vui chơi giải trí khác do trường giáo dưỡng tổ chức."
+    },
+    {
         "id": "Điều 149.1",
         "article": "Điều 149",
         "clause": "1",
@@ -7203,6 +7301,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 152.0",
+        "article": "Điều 152",
+        "clause": "0",
+        "title": "Thủ tục giải quyết trường hợp học sinh chết",
+        "text": "Trường hợp học sinh chết, Hiệu trưởng phải báo ngay cho cơ quan điều tra, Viện kiểm sát nhân dân cấp huyện nơi có trường giáo dưỡng để xác định nguyên nhân chết; đồng thời phải báo ngay cho thân nhân của người chết biết. Sau khi được cơ quan điều tra và Viện kiểm sát cho phép mai táng, trường giáo dưỡng có trách nhiệm tổ chức mai táng, báo cáo cơ quan quản lý thi hành án hình sự thuộc Bộ Công an và thông báo cho Tòa án đã ra quyết định áp dụng biện pháp tư pháp giáo dục tại trường giáo dưỡng. Kinh phí cho việc mai táng do ngân sách nhà nước cấp. Trường hợp thân nhân của người chết đề nghị nhận tử thi để mai táng và tự chịu chi phí thì trường giáo dưỡng giao cho thân nhân của người chết thực hiện. Việc tổ chức mai táng phải bảo đảm an ninh, trật tự, vệ sinh môi trường."
+    },
+    {
         "id": "Điều 153.1",
         "article": "Điều 153",
         "clause": "1",
@@ -7215,6 +7320,13 @@
         "clause": "2",
         "title": "Chế độ gặp thân nhân, liên lạc, nhận quà của học sinh trường giáo dưỡng",
         "text": "Học sinh được gửi và nhận thư, nhận quà là tiền, đồ vật, trừ rượu, bia, thuốc lá, các chất kích thích khác, đồ vật và các loại văn hóa phẩm thuộc danh mục cấm. Trường giáo dưỡng có trách nhiệm kiểm tra thư, quà trước khi học sinh gửi hoặc nhận. Học sinh có tiền hoặc giấy tờ có giá thì phải gửi trường giáo dưỡng để quản lý và sử dụng theo quy định của trường giáo dưỡng."
+    },
+    {
+        "id": "Điều 154.0",
+        "article": "Điều 154",
+        "clause": "0",
+        "title": "Chấm dứt trước thời hạn việc chấp hành biện pháp tư pháp giáo dục tại trường giáo dưỡng",
+        "text": "Học sinh đã chấp hành được một phần hai thời hạn chấp hành biện pháp tư pháp giáo dục tại trường giáo dưỡng, tích cực học tập, tu dưỡng và chấp hành tốt nội quy của trường thì Hiệu trưởng trường giáo dưỡng đề nghị Tòa án nhân dân cấp huyện nơi có trường xem xét, quyết định chấm dứt trước thời hạn việc chấp hành biện pháp tư pháp giáo dục tại trường giáo dưỡng. Tòa án đã ra quyết định chấm dứt trước thời hạn phải gửi quyết định đó cho học sinh, trường giáo dưỡng, Tòa án đã ra quyết định áp dụng biện pháp tư pháp giáo dục tại trường giáo dưỡng, Viện kiểm sát cùng cấp, cơ quan quản lý thi hành án hình sự thuộc Bộ Công an, người đại diện của học sinh. Ngay sau khi nhận được quyết định, Hiệu trưởng trường giáo dưỡng phải làm thủ tục cho học sinh ra trường."
     },
     {
         "id": "Điều 155.1",
@@ -7560,6 +7672,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 161.0",
+        "article": "Điều 161",
+        "clause": "0",
+        "title": "Hồ sơ thi hành án",
+        "text": "Cơ quan thi hành án hình sự Công an cấp tỉnh, cơ quan thi hành án hình sự cấp quân khu có trách nhiệm lập hồ sơ thi hành án đối với pháp nhân thương mại. Hồ sơ bao gồm:"
+    },
+    {
         "id": "Điều 161.1",
         "article": "Điều 161",
         "clause": "1",
@@ -7819,6 +7938,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 165.0",
+        "article": "Điều 165",
+        "clause": "0",
+        "title": "Chuyển giao nghĩa vụ thi hành án trong trường hợp pháp nhân thương mại tổ chức lại",
+        "text": "Trường hợp pháp nhân thương mại chấp hành án được chia, tách, hợp nhất, sáp nhập, chuyển đổi loại hình doanh nghiệp theo quy định của pháp luật thì pháp nhân thương mại kế thừa các quyền và nghĩa vụ của pháp nhân thương mại chấp hành án có trách nhiệm thực hiện nghĩa vụ thi hành án theo quy định của Luật này và quy định khác của pháp luật có liên quan. Pháp nhân thương mại không được lợi dụng việc chia, tách, hợp nhất, sáp nhập, chuyển đổi loại hình doanh nghiệp hoặc giải thể, phá sản để trốn tránh nghĩa vụ thi hành án. Chính phủ quy định chi tiết Điều này."
+    },
+    {
         "id": "Điều 166.1",
         "article": "Điều 166",
         "clause": "1",
@@ -7973,6 +8099,20 @@
         "text": "Người làm công tác thi hành án hình sự phải được đào tạo, huấn luyện, bồi dưỡng chuyên môn nghiệp vụ, pháp luật và kiến thức khác phù hợp với nhiệm vụ, quyền hạn được giao."
     },
     {
+        "id": "Điều 171.0",
+        "article": "Điều 171",
+        "clause": "0",
+        "title": "Bảo đảm cơ sở vật chất phục vụ hoạt động thi hành án hình sự",
+        "text": "Căn cứ yêu cầu công tác thi hành án hình sự, địa bàn hoạt động và điều kiện kinh tế - xã hội, Nhà nước bảo đảm cơ sở vật chất của cơ quan quản lý thi hành án hình sự, cơ quan thi hành án hình sự, bao gồm đất đai, trụ sở, công trình; trang thiết bị, vũ khí, công cụ hỗ trợ, phương tiện giao thông, thông tin liên lạc, kỹ thuật nghiệp vụ và các điều kiện vật chất, kỹ thuật khác; ưu tiên bảo đảm cơ sở vật chất cho cơ quan đóng ở vùng sâu, vùng xa, miền núi, hải đảo, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, địa bàn trọng yếu về an ninh quốc gia, trật tự, an toàn xã hội."
+    },
+    {
+        "id": "Điều 172.0",
+        "article": "Điều 172",
+        "clause": "0",
+        "title": "Trang bị và sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ trong thi hành án hình sự",
+        "text": "Sĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, chiến sĩ Công an nhân dân, Quân đội nhân dân khi thực hiện nhiệm vụ thi hành án hình sự được trang bị và sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 173.1",
         "article": "Điều 173",
         "clause": "1",
@@ -7985,6 +8125,13 @@
         "clause": "2",
         "title": "Cơ sở dữ liệu về thi hành án hình sự",
         "text": "Việc xây dựng, thu thập, lưu trữ, xử lý, bảo vệ, khai thác, sử dụng cơ sở dữ liệu về thi hành án hình sự do Chính phủ quy định."
+    },
+    {
+        "id": "Điều 174.0",
+        "article": "Điều 174",
+        "clause": "0",
+        "title": "Bảo đảm kinh phí cho hoạt động thi hành án hình sự",
+        "text": "Nhà nước bảo đảm kinh phí cho hoạt động thi hành án hình sự. Việc lập dự toán, sử dụng và quyết toán kinh phí bảo đảm cho hoạt động thi hành án hình sự được thực hiện theo quy định của Luật Ngân sách nhà nước."
     },
     {
         "id": "Điều 175.1",
@@ -8624,6 +8771,20 @@
         "text": "Giữ nguyên, sửa đổi, hủy bỏ hoặc yêu cầu sửa đổi, hủy bỏ một phần quyết định bị khiếu nại hoặc buộc chấm dứt thực hiện quyết định, hành vi bị khiếu nại; việc bồi thường thiệt hại, khắc phục hậu quả do quyết định, hành vi trái pháp luật gây ra. Mục 2. TỐ CÁO VÀ GIẢI QUYẾT TỐ CÁO TRONG THI HÀNH ÁN HÌNH SỰ"
     },
     {
+        "id": "Điều 190.0",
+        "article": "Điều 190",
+        "clause": "0",
+        "title": "Người có quyền tố cáo trong thi hành án hình sự",
+        "text": "Người chấp hành án và mọi công dân có quyền tố cáo với cơ quan, người có thẩm quyền về hành vi vi phạm pháp luật của bất kỳ người có thẩm quyền nào trong thi hành án hình sự mà gây thiệt hại hoặc đe dọa gây thiệt hại lợi ích của Nhà nước, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân."
+    },
+    {
+        "id": "Điều 191.0",
+        "article": "Điều 191",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của người tố cáo, người bị tố cáo trong thi hành án hình sự",
+        "text": "Quyền và nghĩa vụ của người tố cáo, người bị tố cáo trong thi hành án hình sự được thực hiện theo quy định của Luật Tố cáo."
+    },
+    {
         "id": "Điều 192.1",
         "article": "Điều 192",
         "clause": "1",
@@ -8995,6 +9156,13 @@
         "text": "Chỉ đạo cơ quan thi hành án dân sự chủ trì, phối hợp với trại giam, trại tạm giam, cơ quan thi hành án hình sự Công an cấp tỉnh, cơ quan thi hành án hình sự Công an cấp huyện, cơ quan thi hành án hình sự cấp quân khu trong việc cung cấp thông tin, chuyển giao giấy tờ, tiền, tài sản, việc thu, nộp tiền, tài sản có liên quan đến phạm nhân là người phải thi hành án dân sự, người được thi hành án dân sự; phối hợp với cơ quan thi hành án hình sự và cơ quan có liên quan trong thi hành án đối với pháp nhân thương mại."
     },
     {
+        "id": "Điều 200.0",
+        "article": "Điều 200",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Bộ Y tế trong thi hành án hình sự",
+        "text": "Phối hợp với Bộ Công an, Bộ Quốc phòng trong việc chỉ đạo, hướng dẫn việc phòng, chống dịch bệnh, khám bệnh,chữa bệnh cho phạm nhân, học sinh trường giáo dưỡng; chỉ đạo công tác giám định theo thẩm quyền; tổ chức các cơ sở chuyên khoa y tế để thực hiện biện pháp tư pháp bắt buộc chữa bệnh theo quy định của Luật này."
+    },
+    {
         "id": "Điều 201.1",
         "article": "Điều 201",
         "clause": "1",
@@ -9007,6 +9175,20 @@
         "clause": "2",
         "title": "Nhiệm vụ, quyền hạn của Bộ Lao động - Thương binh và Xã hội trong thi hành án hình sự",
         "text": "Chỉ đạo cơ quan chuyên môn về lao động, thương binh và xã hội thuộc Ủy ban nhân dân cấp tỉnh và các cơ sở bảo trợ xã hội tiếp nhận, chăm sóc, nuôi dưỡng trẻ em là con phạm nhân không có người thân nhận chăm sóc, nuôi dưỡng theo quy định của Luật này và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 202.0",
+        "article": "Điều 202",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Bộ Giáo dục và Đào tạo trong thi hành án hình sự",
+        "text": "Phối hợp với Bộ Công an, Bộ Quốc phòng chỉ đạo, hướng dẫn việc xây dựng chương trình, tài liệu, đào tạo giáo viên, tham gia dạy văn hóa cho phạm nhân, học sinh trường giáo dưỡng theo quy định của Luật này và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 203.0",
+        "article": "Điều 203",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ, cơ quan ngang Bộ trong thi hành án hình sự",
+        "text": "Bộ, cơ quan ngang Bộ, trong phạm vi chức năng, nhiệm vụ của mình, có trách nhiệm phối hợp với Bộ Công an, Bộ Quốc phòng trong thi hành án hình sự."
     },
     {
         "id": "Điều 204.1",
@@ -9083,6 +9265,6 @@
         "article": "Điều 207",
         "clause": "3",
         "title": "Quy định chuyển tiếp",
-        "text": "Đối với việc thi hành bản án, quyết định theo Luật Thi hành án hình sự số 53/2010/QH12 nhưng đến ngày Luật này có hiệu lực mà còn khiếu nại, tố cáo thì việc giải quyết khiếu nại, tố cáo được áp dụng theo quy định của Luật Thi hành án hình sự số 53/2010/QH12 và các văn bản quy định chi tiết, hướng dẫn thi hành Luật. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 14 tháng 6 năm 2019."
+        "text": "Đối với việc thi hành bản án, quyết định theo Luật Thi hành án hình sự số 53/2010/QH12 nhưng đến ngày Luật này có hiệu lực mà còn khiếu nại, tố cáo thì việc giải quyết khiếu nại, tố cáo được áp dụng theo quy định của Luật Thi hành án hình sự số 53/2010/QH12 và các văn bản quy định chi tiết, hướng dẫn thi hành Luật. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 14 tháng 6 năm 2019. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

@@ -15,7 +15,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định việc quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -69,6 +75,11 @@
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Thuế là một khoản nộp ngân sách nhà nước bắt buộc của tổ chức, hộ gia đình, hộ kinh doanh, cá nhân theo quy định của các luật thuế.",
@@ -609,6 +620,11 @@
             "title": "Hợp tác quốc tế về thuế của cơ quan quản lý thuế",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, cơ quan quản lý thuế có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tham mưu giúp Bộ trưởng Bộ Tài chính đề xuất đàm phán, ký kết và thực hiện quyền, nghĩa vụ và bảo đảm lợi ích của nước Cộng hòa xã hội chủ nghĩa Việt Nam theo các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;",
                     "sub_clauses": []
@@ -655,7 +671,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Hằng năm, cơ quan quản lý thuế nộp báo cáo kế toán, thống kê về thuế cho cơ quan có thẩm quyền và thực hiện công khai thông tin theo quy định của pháp luật.",
+                    "text": "Hằng năm, cơ quan quản lý thuế nộp báo cáo kế toán, thống kê về thuế cho cơ quan có thẩm quyền và thực hiện công khai thông tin theo quy định của pháp luật. Chương II NHIỆM VỤ, QUYỀN HẠN VÀ TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN TRONG QUẢN LÝ THUẾ",
                     "sub_clauses": []
                 }
             ]
@@ -1192,7 +1208,13 @@
         {
             "id": "Điều 23",
             "title": "Nhiệm vụ, quyền hạn của cơ quan điều tra, Viện kiểm sát, Tòa án",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan điều tra, Viện kiểm sát, Tòa án, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tiếp nhận, xử lý, giải quyết tin báo, tố giác tội phạm và kiến nghị khởi tố, khởi tố, điều tra, truy tố, xét xử kịp thời, nghiêm minh tội phạm trong lĩnh vực thuế theo quy định của pháp luật và thông báo kết quả xử lý cho cơ quan quản lý thuế.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 24",
@@ -1342,7 +1364,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Yêu cầu người bán hàng, người cung cấp dịch vụ phải giao hóa đơn, chứng từ bán hàng hóa, dịch vụ đúng số lượng, chủng loại, giá trị thực thanh toán khi mua hàng hóa, dịch vụ.",
+                    "text": "Yêu cầu người bán hàng, người cung cấp dịch vụ phải giao hóa đơn, chứng từ bán hàng hóa, dịch vụ đúng số lượng, chủng loại, giá trị thực thanh toán khi mua hàng hóa, dịch vụ. Chương III ĐĂNG KÝ THUẾ",
                     "sub_clauses": []
                 }
             ]
@@ -1679,7 +1701,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người nộp thuế đăng ký thuế cùng với đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký kinh doanh khi có thay đổi thông tin đăng ký thuế thì thực hiện thông báo thay đổi thông tin đăng ký thuế cùng với việc thay đổi nội dung đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký kinh doanh theo quy định của pháp luật.",
+                    "text": "Người nộp thuế đăng ký thuế cùng với đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký kinh doanh khi có thay đổi thông tin đăng ký thuế thì thực hiện thông báo thay đổi thông tin đăng ký thuế cùng với việc thay đổi nội dung đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký kinh doanh theo quy định của pháp luật. Trường hợp người nộp thuế thay đổi địa chỉ trụ sở dẫn đến thay đổi cơ quan thuế quản lý, người nộp thuế phải thực hiện các thủ tục về thuế với cơ quan thuế quản lý trực tiếp theo quy định của Luật này trước khi đăng ký thay đổi thông tin với cơ quan đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký kinh doanh.",
                     "sub_clauses": []
                 },
                 {
@@ -1930,7 +1952,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trường hợp hồ sơ đăng ký thuế cùng với đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký kinh doanh từ hệ thống thông tin quốc gia về đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký kinh doanh (sau đây gọi chung là hệ thống thông tin quốc gia về đăng ký kinh doanh) thì cơ quan tiếp nhận hồ sơ đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký kinh doanh chuyển hồ sơ đến cơ quan thuế để thực hiện xử lý hồ sơ đăng ký thuế và trả kết quả cho người nộp thuế theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+                    "text": "Trường hợp hồ sơ đăng ký thuế cùng với đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký kinh doanh từ hệ thống thông tin quốc gia về đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký kinh doanh (sau đây gọi chung là hệ thống thông tin quốc gia về đăng ký kinh doanh) thì cơ quan tiếp nhận hồ sơ đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký kinh doanh chuyển hồ sơ đến cơ quan thuế để thực hiện xử lý hồ sơ đăng ký thuế và trả kết quả cho người nộp thuế theo quy định của Luật này và quy định khác của pháp luật có liên quan. Chương IV KHAI THUẾ, TÍNH THUẾ",
                     "sub_clauses": []
                 }
             ]
@@ -2283,7 +2305,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan quản lý thuế tiếp nhận hồ sơ khai thuế thông báo về việc tiếp nhận hồ sơ khai thuế; trường hợp hồ sơ không hợp pháp, không đầy đủ, không đúng mẫu quy định thì thông báo cho người nộp thuế trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ.",
+                    "text": "Cơ quan quản lý thuế tiếp nhận hồ sơ khai thuế thông báo về việc tiếp nhận hồ sơ khai thuế; trường hợp hồ sơ không hợp pháp, không đầy đủ, không đúng mẫu quy định thì thông báo cho người nộp thuế trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ. Chương V ẤN ĐỊNH THUẾ",
                     "sub_clauses": []
                 }
             ]
@@ -2520,7 +2542,13 @@
         {
             "id": "Điều 54",
             "title": "Trách nhiệm của người nộp thuế trong việc nộp số tiền thuế ấn định",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người nộp thuế phải nộp số tiền thuế ấn định theo quyết định xử lý về thuế của cơ quan quản lý thuế; trường hợp không đồng ý với số tiền thuế do cơ quan quản lý thuế ấn định thì người nộp thuế vẫn phải nộp số tiền thuế đó, đồng thời có quyền đề nghị cơ quan quản lý thuế giải thích hoặc khiếu nại, khởi kiện về việc ấn định thuế. Người nộp thuế có trách nhiệm cung cấp các hồ sơ, tài liệu để chứng minh cho việc khiếu nại, khởi kiện. Chương VI NỘP THUẾ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 55",
@@ -2528,7 +2556,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trường hợp người nộp thuế tính thuế, thời hạn nộp thuế chậm nhất là ngày cuối cùng của thời hạn nộp hồ sơ khai thuế. Trường hợp khai bổ sung hồ sơ khai thuế, thời hạn nộp thuế là thời hạn nộp hồ sơ khai thuế của kỳ tính thuế có sai, sót.",
+                    "text": "Trường hợp người nộp thuế tính thuế, thời hạn nộp thuế chậm nhất là ngày cuối cùng của thời hạn nộp hồ sơ khai thuế. Trường hợp khai bổ sung hồ sơ khai thuế, thời hạn nộp thuế là thời hạn nộp hồ sơ khai thuế của kỳ tính thuế có sai, sót. Đối với thuế thu nhập doanh nghiệp thì tạm nộp theo quý, thời hạn nộp thuế chậm nhất là ngày 30 của tháng đầu quý sau. Đối với dầu thô, thời hạn nộp thuế tài nguyên, thuế thu nhập doanh nghiệp theo lần xuất bán dầu thô là 35 ngày kể từ ngày xuất bán đối với dầu thô bán nội địa hoặc kể từ ngày thông quan hàng hóa theo quy định của pháp luật về hải quan đối với dầu thô xuất khẩu. Đối với khí thiên nhiên, thời hạn nộp thuế tài nguyên, thuế thu nhập doanh nghiệp theo tháng.",
                     "sub_clauses": []
                 },
                 {
@@ -2709,7 +2737,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Không tính tiền chậm nộp trong các trường hợp sau đây:",
+                    "text": "Không tính tiền chậm nộp trong các trường hợp sau đây: Số tiền nợ thuế không tính chậm nộp là tổng số tiền thuế còn nợ ngân sách nhà nước của người nộp thuế nhưng không vượt quá số tiền ngân sách nhà nước chưa thanh toán;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2749,7 +2777,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người nộp thuế có số tiền thuế, tiền chậm nộp, tiền phạt đã nộp lớn hơn số tiền thuế, tiền chậm nộp, tiền phạt phải nộp thì được bù trừ số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa với số tiền thuế, tiền chậm nộp, tiền phạt còn nợ hoặc trừ vào số tiền thuế, tiền chậm nộp, tiền phạt phải nộp của lần nộp thuế tiếp theo hoặc được hoàn trả số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa khi người nộp thuế không còn nợ tiền thuế, tiền chậm nộp, tiền phạt.",
+                    "text": "Người nộp thuế có số tiền thuế, tiền chậm nộp, tiền phạt đã nộp lớn hơn số tiền thuế, tiền chậm nộp, tiền phạt phải nộp thì được bù trừ số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa với số tiền thuế, tiền chậm nộp, tiền phạt còn nợ hoặc trừ vào số tiền thuế, tiền chậm nộp, tiền phạt phải nộp của lần nộp thuế tiếp theo hoặc được hoàn trả số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa khi người nộp thuế không còn nợ tiền thuế, tiền chậm nộp, tiền phạt. Trường hợp người nộp thuế đề nghị bù trừ tiền thuế, tiền chậm nộp, tiền phạt nộp thừa với số tiền thuế, tiền chậm nộp, tiền phạt còn nợ thì không tính tiền chậm nộp tương ứng với khoản tiền bù trừ trong khoảng thời gian từ ngày phát sinh khoản nộp thừa đến ngày cơ quan quản lý thuế thực hiện bù trừ.",
                     "sub_clauses": []
                 },
                 {
@@ -2798,7 +2826,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp số tiền thuế, tiền chậm nộp, tiền phạt đã nộp lớn hơn số tiền thuế, tiền chậm nộp, tiền phạt được xác định theo quyết định giải quyết khiếu nại của cơ quan có thẩm quyền hoặc bản án, quyết định của Tòa án thì người nộp thuế được hoàn trả số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa.",
+                    "text": "Trường hợp số tiền thuế, tiền chậm nộp, tiền phạt đã nộp lớn hơn số tiền thuế, tiền chậm nộp, tiền phạt được xác định theo quyết định giải quyết khiếu nại của cơ quan có thẩm quyền hoặc bản án, quyết định của Tòa án thì người nộp thuế được hoàn trả số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa. Người nộp thuế có quyền yêu cầu cơ quan quản lý thuế trả tiền lãi theo mức 0,03%/ngày tính trên số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa. Nguồn tiền trả lãi được chi trả từ ngân sách trung ương theo quy định của pháp luật về ngân sách nhà nước.",
                     "sub_clauses": []
                 },
                 {
@@ -2860,7 +2888,13 @@
         {
             "id": "Điều 63",
             "title": "Gia hạn nộp thuế trong trường hợp đặc biệt",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quyết định việc gia hạn nộp thuế cho các đối tượng, ngành, nghề kinh doanh gặp khó khăn đặc biệt trong từng thời kỳ nhất định. Việc gia hạn nộp thuế không dẫn đến điều chỉnh dự toán thu ngân sách nhà nước đã được Quốc hội quyết định.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 64",
@@ -2916,7 +2950,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan quản lý thuế xử lý hồ sơ gia hạn nộp thuế theo quy định sau đây:",
+                    "text": "Cơ quan quản lý thuế xử lý hồ sơ gia hạn nộp thuế theo quy định sau đây: Chương VII TRÁCH NHIỆM HOÀN THÀNH NGHĨA VỤ NỘP THUẾ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3024,7 +3058,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trường hợp Tòa án ra quyết định hủy bỏ quyết định tuyên bố một người là đã chết, mất tích hoặc mất năng lực hành vi dân sự thì số nợ tiền thuế, tiền chậm nộp, tiền phạt đã xóa theo quy định tại Điều 85 của Luật này được phục hồi lại, nhưng không bị tính tiền chậm nộp cho thời gian bị tuyên bố là đã chết, mất tích hoặc mất năng lực hành vi dân sự.",
+                    "text": "Trường hợp Tòa án ra quyết định hủy bỏ quyết định tuyên bố một người là đã chết, mất tích hoặc mất năng lực hành vi dân sự thì số nợ tiền thuế, tiền chậm nộp, tiền phạt đã xóa theo quy định tại Điều 85 của Luật này được phục hồi lại, nhưng không bị tính tiền chậm nộp cho thời gian bị tuyên bố là đã chết, mất tích hoặc mất năng lực hành vi dân sự. Chương VIII THỦ TỤC HOÀN THUẾ",
                     "sub_clauses": []
                 }
             ]
@@ -3195,7 +3229,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đối với hồ sơ thuộc diện hoàn thuế trước, chậm nhất là 06 ngày làm việc kể từ ngày cơ quan quản lý thuế có thông báo về việc chấp nhận hồ sơ và thời hạn giải quyết hồ sơ hoàn thuế, cơ quan quản lý thuế phải quyết định hoàn thuế cho người nộp thuế hoặc thông báo chuyển hồ sơ của người nộp thuế sang kiểm tra trước hoàn thuế nếu thuộc trường hợp quy định tại khoản 2 Điều 73 của Luật này hoặc thông báo không hoàn thuế cho người nộp thuế nếu hồ sơ không đủ điều kiện hoàn thuế.",
+                    "text": "Đối với hồ sơ thuộc diện hoàn thuế trước, chậm nhất là 06 ngày làm việc kể từ ngày cơ quan quản lý thuế có thông báo về việc chấp nhận hồ sơ và thời hạn giải quyết hồ sơ hoàn thuế, cơ quan quản lý thuế phải quyết định hoàn thuế cho người nộp thuế hoặc thông báo chuyển hồ sơ của người nộp thuế sang kiểm tra trước hoàn thuế nếu thuộc trường hợp quy định tại khoản 2 Điều 73 của Luật này hoặc thông báo không hoàn thuế cho người nộp thuế nếu hồ sơ không đủ điều kiện hoàn thuế. Trường hợp thông tin khai trên hồ sơ hoàn thuế khác với thông tin quản lý của cơ quan quản lý thuế thì cơ quan quản lý thuế thông báo bằng văn bản để người nộp thuế giải trình, bổ sung thông tin. Thời gian giải trình, bổ sung thông tin không tính trong thời hạn giải quyết hồ sơ hoàn thuế.",
                     "sub_clauses": []
                 },
                 {
@@ -3247,7 +3281,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thủ tục, thẩm quyền, trách nhiệm thanh tra, kiểm tra của cơ quan quản lý thuế đối với hồ sơ hoàn thuế được thực hiện theo quy định của Luật này và Luật Thanh tra.",
+                    "text": "Thủ tục, thẩm quyền, trách nhiệm thanh tra, kiểm tra của cơ quan quản lý thuế đối với hồ sơ hoàn thuế được thực hiện theo quy định của Luật này và Luật Thanh tra. Chương IX KHÔNG THU THUẾ, MIỄN THUẾ, GIẢM THUẾ; KHOANH TIỀN THUẾ NỢ; XÓA NỢ TIỀN THUẾ, TIỀN CHẬM NỘP, TIỀN PHẠT Mục 1 KHÔNG THU THUẾ, MIỄN THUẾ, GIẢM THUẾ",
                     "sub_clauses": []
                 }
             ]
@@ -3396,7 +3430,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp cần kiểm tra thực tế để có đủ căn cứ giải quyết hồ sơ miễn thuế, giảm thuế thì trong thời hạn 40 ngày kể từ ngày nhận đủ hồ sơ, cơ quan quản lý thuế ban hành quyết định miễn thuế, giảm thuế hoặc thông báo bằng văn bản cho người nộp thuế lý do không được miễn thuế, giảm thuế.",
+                    "text": "Trường hợp cần kiểm tra thực tế để có đủ căn cứ giải quyết hồ sơ miễn thuế, giảm thuế thì trong thời hạn 40 ngày kể từ ngày nhận đủ hồ sơ, cơ quan quản lý thuế ban hành quyết định miễn thuế, giảm thuế hoặc thông báo bằng văn bản cho người nộp thuế lý do không được miễn thuế, giảm thuế. Mục 2 KHOANH TIỀN THUẾ NỢ",
                     "sub_clauses": []
                 }
             ]
@@ -3407,27 +3441,27 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người nộp thuế là người đã chết, người bị Tòa án tuyên bố là đã chết, mất tích hoặc mất năng lực hành vi dân sự.",
+                    "text": "Người nộp thuế là người đã chết, người bị Tòa án tuyên bố là đã chết, mất tích hoặc mất năng lực hành vi dân sự. Thời gian khoanh nợ được tính từ ngày được cấp giấy chứng tử hoặc giấy báo tử hoặc các giấy tờ thay cho giấy báo tử theo quy định của pháp luật về hộ tịch hoặc quyết định của Tòa án tuyên bố là đã chết, mất tích, mất năng lực hành vi dân sự.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Người nộp thuế có quyết định giải thể gửi cơ quan quản lý thuế, cơ quan đăng ký kinh doanh để làm thủ tục giải thể, cơ quan đăng ký kinh doanh đã thông báo người nộp thuế đang làm thủ tục giải thể trên hệ thống thông tin quốc gia về đăng ký kinh doanh nhưng người nộp thuế chưa hoàn thành thủ tục giải thể.",
+                    "text": "Người nộp thuế có quyết định giải thể gửi cơ quan quản lý thuế, cơ quan đăng ký kinh doanh để làm thủ tục giải thể, cơ quan đăng ký kinh doanh đã thông báo người nộp thuế đang làm thủ tục giải thể trên hệ thống thông tin quốc gia về đăng ký kinh doanh nhưng người nộp thuế chưa hoàn thành thủ tục giải thể. Thời gian khoanh nợ được tính từ ngày cơ quan đăng ký kinh doanh có thông báo về việc người nộp thuế đang làm thủ tục giải thể trên hệ thống thông tin quốc gia về đăng ký kinh doanh.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Người nộp thuế đã nộp đơn yêu cầu mở thủ tục phá sản hoặc bị người có quyền, nghĩa vụ liên quan nộp đơn yêu cầu mở thủ tục phá sản theo quy định của pháp luật về phá sản.",
+                    "text": "Người nộp thuế đã nộp đơn yêu cầu mở thủ tục phá sản hoặc bị người có quyền, nghĩa vụ liên quan nộp đơn yêu cầu mở thủ tục phá sản theo quy định của pháp luật về phá sản. Thời gian khoanh nợ được tính từ ngày Tòa án có thẩm quyền thông báo thụ lý đơn yêu cầu mở thủ tục phá sản hoặc người nộp thuế đã gửi hồ sơ phá sản doanh nghiệp đến cơ quan quản lý thuế nhưng đang trong thời gian làm các thủ tục thanh toán, xử lý nợ theo quy định của Luật Phá sản.",
                     "sub_clauses": []
                 },
                 {
                     "number": "4",
-                    "text": "Người nộp thuế không còn hoạt động kinh doanh tại địa chỉ kinh doanh đã đăng ký với cơ quan đăng ký kinh doanh, cơ quan quản lý thuế đã phối hợp với Ủy ban nhân dân cấp xã nơi người nộp thuế có trụ sở hoặc địa chỉ liên lạc để kiểm tra, xác minh thông tin người nộp thuế không hiện diện tại địa bàn và thông báo trên toàn quốc về việc người nộp thuế hoặc đại diện theo pháp luật của người nộp thuế không hiện diện tại địa chỉ nơi người nộp thuế có trụ sở, địa chỉ liên lạc đã đăng ký với cơ quan quản lý thuế.",
+                    "text": "Người nộp thuế không còn hoạt động kinh doanh tại địa chỉ kinh doanh đã đăng ký với cơ quan đăng ký kinh doanh, cơ quan quản lý thuế đã phối hợp với Ủy ban nhân dân cấp xã nơi người nộp thuế có trụ sở hoặc địa chỉ liên lạc để kiểm tra, xác minh thông tin người nộp thuế không hiện diện tại địa bàn và thông báo trên toàn quốc về việc người nộp thuế hoặc đại diện theo pháp luật của người nộp thuế không hiện diện tại địa chỉ nơi người nộp thuế có trụ sở, địa chỉ liên lạc đã đăng ký với cơ quan quản lý thuế. Thời gian khoanh nợ được tính từ ngày cơ quan quản lý thuế có văn bản thông báo trên toàn quốc về việc người nộp thuế hoặc đại diện theo pháp luật của người nộp thuế không hiện diện tại địa chỉ kinh doanh, địa chỉ liên lạc đã đăng ký với cơ quan quản lý thuế.",
                     "sub_clauses": []
                 },
                 {
                     "number": "5",
-                    "text": "Người nộp thuế đã bị cơ quan quản lý thuế có văn bản đề nghị cơ quan có thẩm quyền thu hồi hoặc đã bị cơ quan có thẩm quyền thu hồi giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký hợp tác xã, giấy phép thành lập và hoạt động, giấy phép hành nghề.",
+                    "text": "Người nộp thuế đã bị cơ quan quản lý thuế có văn bản đề nghị cơ quan có thẩm quyền thu hồi hoặc đã bị cơ quan có thẩm quyền thu hồi giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký hợp tác xã, giấy phép thành lập và hoạt động, giấy phép hành nghề. Thời gian khoanh nợ được tính từ ngày cơ quan quản lý thuế có văn bản đề nghị cơ quan có thẩm quyền thu hồi hoặc từ ngày có hiệu lực của quyết định thu hồi giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký hợp tác xã, giấy phép thành lập và hoạt động, giấy phép hành nghề.",
                     "sub_clauses": []
                 }
             ]
@@ -3448,7 +3482,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ quan quản lý thuế tiếp tục theo dõi các khoản tiền thuế nợ được khoanh và phối hợp với các cơ quan có liên quan để thu hồi tiền thuế nợ khi người nộp thuế có khả năng nộp thuế hoặc thực hiện xóa nợ theo quy định tại Điều 85 của Luật này.",
+                    "text": "Cơ quan quản lý thuế tiếp tục theo dõi các khoản tiền thuế nợ được khoanh và phối hợp với các cơ quan có liên quan để thu hồi tiền thuế nợ khi người nộp thuế có khả năng nộp thuế hoặc thực hiện xóa nợ theo quy định tại Điều 85 của Luật này. Mục 3 XÓA NỢ TIỀN THUẾ, TIỀN CHẬM NỘP, TIỀN PHẠT",
                     "sub_clauses": []
                 }
             ]
@@ -3469,7 +3503,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Các khoản nợ tiền thuế, tiền chậm nộp, tiền phạt của người nộp thuế không thuộc trường hợp quy định tại khoản 1 và khoản 2 Điều này mà cơ quan quản lý thuế đã áp dụng biện pháp cưỡng chế quy định tại điểm g khoản 1 Điều 125 của Luật này và các khoản nợ tiền thuế, tiền chậm nộp, tiền phạt này đã quá 10 năm kể từ ngày hết thời hạn nộp thuế nhưng không có khả năng thu hồi.",
+                    "text": "Các khoản nợ tiền thuế, tiền chậm nộp, tiền phạt của người nộp thuế không thuộc trường hợp quy định tại khoản 1 và khoản 2 Điều này mà cơ quan quản lý thuế đã áp dụng biện pháp cưỡng chế quy định tại điểm g khoản 1 Điều 125 của Luật này và các khoản nợ tiền thuế, tiền chậm nộp, tiền phạt này đã quá 10 năm kể từ ngày hết thời hạn nộp thuế nhưng không có khả năng thu hồi. Người nộp thuế là cá nhân, cá nhân kinh doanh, chủ hộ gia đình, chủ hộ kinh doanh, chủ doanh nghiệp tư nhân và công ty trách nhiệm hữu hạn một thành viên đã được xóa nợ tiền thuế, tiền chậm nộp, tiền phạt quy định tại khoản này trước khi quay lại sản xuất, kinh doanh hoặc thành lập cơ sở sản xuất, kinh doanh mới thì phải hoàn trả cho Nhà nước khoản nợ tiền thuế, tiền chậm nộp, tiền phạt đã được xóa.",
                     "sub_clauses": []
                 },
                 {
@@ -3573,7 +3607,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người có thẩm quyền phải ra quyết định xóa nợ tiền thuế, tiền chậm nộp, tiền phạt hoặc thông báo không thuộc diện được xóa nợ tiền thuế, tiền chậm nộp, tiền phạt cho cơ quan đã gửi hồ sơ trong thời hạn 60 ngày kể từ ngày nhận đủ hồ sơ.",
+                    "text": "Người có thẩm quyền phải ra quyết định xóa nợ tiền thuế, tiền chậm nộp, tiền phạt hoặc thông báo không thuộc diện được xóa nợ tiền thuế, tiền chậm nộp, tiền phạt cho cơ quan đã gửi hồ sơ trong thời hạn 60 ngày kể từ ngày nhận đủ hồ sơ. Chương X ÁP DỤNG HÓA ĐƠN, CHỨNG TỪ ĐIỆN TỬ",
                     "sub_clauses": []
                 }
             ]
@@ -3594,7 +3628,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Hóa đơn điện tử có mã của cơ quan thuế là hóa đơn điện tử được cơ quan thuế cấp mã trước khi tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ gửi cho người mua.",
+                    "text": "Hóa đơn điện tử có mã của cơ quan thuế là hóa đơn điện tử được cơ quan thuế cấp mã trước khi tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ gửi cho người mua. Mã của cơ quan thuế trên hóa đơn điện tử bao gồm số giao dịch là một dãy số duy nhất do hệ thống của cơ quan thuế tạo ra và một chuỗi ký tự được cơ quan thuế mã hóa dựa trên thông tin của người bán lập trên hóa đơn.",
                     "sub_clauses": []
                 },
                 {
@@ -3698,7 +3732,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ quan thuế có trách nhiệm tổ chức xây dựng, quản lý và phát triển cơ sở dữ liệu, hạ tầng kỹ thuật của hệ thống thông tin về hóa đơn; tổ chức thực hiện nhiệm vụ thu thập, xử lý thông tin, quản lý cơ sở dữ liệu hóa đơn và bảo đảm duy trì, vận hành, bảo mật, bảo đảm an ninh, an toàn hệ thống thông tin về hóa đơn; xây dựng định dạng chuẩn về hóa đơn.",
+                    "text": "Cơ quan thuế có trách nhiệm tổ chức xây dựng, quản lý và phát triển cơ sở dữ liệu, hạ tầng kỹ thuật của hệ thống thông tin về hóa đơn; tổ chức thực hiện nhiệm vụ thu thập, xử lý thông tin, quản lý cơ sở dữ liệu hóa đơn và bảo đảm duy trì, vận hành, bảo mật, bảo đảm an ninh, an toàn hệ thống thông tin về hóa đơn; xây dựng định dạng chuẩn về hóa đơn. Cơ sở dữ liệu về hóa đơn điện tử được sử dụng để phục vụ công tác quản lý thuế và cung cấp thông tin hóa đơn điện tử cho tổ chức, cá nhân có liên quan.",
                     "sub_clauses": []
                 },
                 {
@@ -3734,7 +3768,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết các loại chứng từ điện tử quy định tại Điều này và việc quản lý, sử dụng chứng từ điện tử.",
+                    "text": "Chính phủ quy định chi tiết các loại chứng từ điện tử quy định tại Điều này và việc quản lý, sử dụng chứng từ điện tử. Chương XI THÔNG TIN NGƯỜI NỘP THUẾ",
                     "sub_clauses": []
                 }
             ]
@@ -3915,7 +3949,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương XII TỔ CHỨC KINH DOANH DỊCH VỤ LÀM THỦ TỤC VỀ THUẾ, LÀM THỦ TỤC HẢI QUAN",
                     "sub_clauses": []
                 }
             ]
@@ -4034,7 +4068,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người được cấp chứng chỉ hành nghề dịch vụ làm thủ tục về thuế phải có các tiêu chuẩn sau đây:",
+                    "text": "Người được cấp chứng chỉ hành nghề dịch vụ làm thủ tục về thuế phải có các tiêu chuẩn sau đây: Kỳ thi lấy chứng chỉ hành nghề dịch vụ làm thủ tục về thuế gồm môn pháp luật về thuế và môn kế toán.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4096,7 +4130,13 @@
         {
             "id": "Điều 106",
             "title": "Tổ chức kinh doanh dịch vụ làm thủ tục hải quan",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức kinh doanh dịch vụ làm thủ tục hải quan (sau đây gọi là đại lý làm thủ tục hải quan) thực hiện theo quy định của pháp luật về hải quan. Chương XIII KIỂM TRA THUẾ, THANH TRA THUẾ Mục 1 QUY ĐỊNH CHUNG VỀ KIỂM TRA THUẾ, THANH TRA THUẾ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 107",
@@ -4140,7 +4180,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp kiểm tra thuế, thanh tra thuế mà phát hiện hành vi trốn thuế có dấu hiệu tội phạm thì cơ quan quản lý thuế chuyển hồ sơ cho cơ quan điều tra có thẩm quyền để điều tra theo quy định của pháp luật; cơ quan quản lý thuế có trách nhiệm phối hợp với cơ quan tiến hành tố tụng trong việc điều tra, truy tố, xét xử theo quy định của pháp luật.",
+                    "text": "Trường hợp kiểm tra thuế, thanh tra thuế mà phát hiện hành vi trốn thuế có dấu hiệu tội phạm thì cơ quan quản lý thuế chuyển hồ sơ cho cơ quan điều tra có thẩm quyền để điều tra theo quy định của pháp luật; cơ quan quản lý thuế có trách nhiệm phối hợp với cơ quan tiến hành tố tụng trong việc điều tra, truy tố, xét xử theo quy định của pháp luật. Mục 2 KIỂM TRA THUẾ",
                     "sub_clauses": []
                 }
             ]
@@ -4165,7 +4205,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc xử lý kết quả kiểm tra thuế tại trụ sở của cơ quan quản lý thuế được quy định như sau:",
+                    "text": "Việc xử lý kết quả kiểm tra thuế tại trụ sở của cơ quan quản lý thuế được quy định như sau: Trường hợp hết thời hạn theo thông báo của cơ quan quản lý thuế mà người nộp thuế không giải trình, bổ sung thông tin, tài liệu hoặc không khai bổ sung hồ sơ thuế hoặc giải trình, khai bổ sung hồ sơ thuế không đúng thì thủ trưởng cơ quan quản lý thuế quyết định ấn định số tiền thuế phải nộp hoặc ra quyết định kiểm tra thuế tại trụ sở của người nộp thuế hoặc làm căn cứ để xây dựng kế hoạch kiểm tra, thanh tra theo nguyên tắc quản lý rủi ro trong quản lý thuế.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4350,7 +4390,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Công chức quản lý thuế khi thực hiện kiểm tra thuế có nhiệm vụ, quyền hạn sau đây:",
+                    "text": "Công chức quản lý thuế khi thực hiện kiểm tra thuế có nhiệm vụ, quyền hạn sau đây: Mục 3 THANH TRA THUẾ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4772,7 +4812,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Kết luận thanh tra lại, công khai kết luận thanh tra lại được quy định như sau:",
+                    "text": "Kết luận thanh tra lại, công khai kết luận thanh tra lại được quy định như sau: Trong thời hạn 15 ngày kể từ ngày ký kết luận thanh tra lại, người ra quyết định thanh tra lại phải gửi kết luận thanh tra lại cho thủ trưởng cơ quan quản lý nhà nước cùng cấp, cơ quan thanh tra nhà nước cấp trên; Mục 4 BIỆN PHÁP ÁP DỤNG TRONG THANH TRA THUẾ ĐỐI VỚI TRƯỜNG HỢP CÓ DẤU HIỆU TRỐN THUẾ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4802,7 +4842,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong trường hợp yêu cầu cung cấp thông tin bằng trả lời trực tiếp thì người được yêu cầu cung cấp thông tin phải có mặt đúng thời gian, địa điểm ghi trong văn bản để cung cấp thông tin theo nội dung được yêu cầu và chịu trách nhiệm về tính chính xác, trung thực của thông tin đã cung cấp; trường hợp không thể có mặt thì việc cung cấp thông tin được thực hiện bằng văn bản.",
+                    "text": "Trong trường hợp yêu cầu cung cấp thông tin bằng trả lời trực tiếp thì người được yêu cầu cung cấp thông tin phải có mặt đúng thời gian, địa điểm ghi trong văn bản để cung cấp thông tin theo nội dung được yêu cầu và chịu trách nhiệm về tính chính xác, trung thực của thông tin đã cung cấp; trường hợp không thể có mặt thì việc cung cấp thông tin được thực hiện bằng văn bản. Trong quá trình thu thập thông tin bằng trả lời trực tiếp, các thành viên của đoàn thanh tra phải lập biên bản làm việc và được ghi âm, ghi hình công khai.",
                     "sub_clauses": []
                 }
             ]
@@ -4828,7 +4868,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Khi tạm giữ tài liệu, tang vật liên quan đến hành vi trốn thuế trưởng đoàn thanh tra thuế phải lập biên bản tạm giữ. Trong biên bản tạm giữ phải ghi rõ tên, số lượng, chủng loại của tài liệu, tang vật bị tạm giữ; chữ ký của người thực hiện tạm giữ, người đang quản lý tài liệu, tang vật vi phạm. Người ra quyết định tạm giữ có trách nhiệm bảo quản tài liệu, tang vật tạm giữ và chịu trách nhiệm trước pháp luật nếu tài liệu, tang vật bị mất, bán, đánh tráo hoặc hư hỏng.",
+                    "text": "Khi tạm giữ tài liệu, tang vật liên quan đến hành vi trốn thuế trưởng đoàn thanh tra thuế phải lập biên bản tạm giữ. Trong biên bản tạm giữ phải ghi rõ tên, số lượng, chủng loại của tài liệu, tang vật bị tạm giữ; chữ ký của người thực hiện tạm giữ, người đang quản lý tài liệu, tang vật vi phạm. Người ra quyết định tạm giữ có trách nhiệm bảo quản tài liệu, tang vật tạm giữ và chịu trách nhiệm trước pháp luật nếu tài liệu, tang vật bị mất, bán, đánh tráo hoặc hư hỏng. Trong trường hợp tài liệu, tang vật cần được niêm phong thì việc niêm phong phải được tiến hành ngay trước mặt người có tài liệu, tang vật; nếu người có tài liệu, tang vật vắng mặt thì việc niêm phong phải được tiến hành trước mặt đại diện gia đình hoặc đại diện tổ chức và đại diện chính quyền cấp xã, người chứng kiến.",
                     "sub_clauses": []
                 },
                 {
@@ -4874,7 +4914,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Mọi trường hợp khám nơi cất giấu tài liệu, tang vật liên quan đến hành vi trốn thuế đều phải có quyết định bằng văn bản và phải lập biên bản. Quyết định và biên bản khám nơi cất giấu tài liệu, tang vật phải được giao cho người chủ nơi bị khám 01 bản.",
+                    "text": "Mọi trường hợp khám nơi cất giấu tài liệu, tang vật liên quan đến hành vi trốn thuế đều phải có quyết định bằng văn bản và phải lập biên bản. Quyết định và biên bản khám nơi cất giấu tài liệu, tang vật phải được giao cho người chủ nơi bị khám 01 bản. Chương XIV CƯỠNG CHẾ THI HÀNH QUYẾT ĐỊNH HÀNH CHÍNH VỀ QUẢN LÝ THUẾ",
                     "sub_clauses": []
                 }
             ]
@@ -4905,7 +4945,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chưa thực hiện biện pháp cưỡng chế thuế đối với trường hợp người nộp thuế được cơ quan quản lý thuế khoanh tiền thuế nợ trong thời hạn khoanh nợ; không tính tiền chậm nộp thuế theo quy định của Luật này; được nộp dần tiền thuế nợ trong thời hạn nhưng không quá 12 tháng kể từ ngày bắt đầu của thời hạn cưỡng chế thuế.",
+                    "text": "Chưa thực hiện biện pháp cưỡng chế thuế đối với trường hợp người nộp thuế được cơ quan quản lý thuế khoanh tiền thuế nợ trong thời hạn khoanh nợ; không tính tiền chậm nộp thuế theo quy định của Luật này; được nộp dần tiền thuế nợ trong thời hạn nhưng không quá 12 tháng kể từ ngày bắt đầu của thời hạn cưỡng chế thuế. Việc nộp dần tiền thuế nợ được thủ trưởng cơ quan quản lý trực tiếp người nộp thuế xem xét trên cơ sở đề nghị của người nộp thuế và phải có bảo lãnh của tổ chức tín dụng. Bộ trưởng Bộ Tài chính quy định số lần nộp dần và hồ sơ, thủ tục về nộp dần tiền thuế nợ.",
                     "sub_clauses": []
                 },
                 {
@@ -5314,7 +5354,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương XV XỬ PHẠT VI PHẠM HÀNH CHÍNH VỀ QUẢN LÝ THUẾ Mục 1 QUY ĐỊNH CHUNG",
                     "sub_clauses": []
                 }
             ]
@@ -5479,7 +5519,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Mục 2 HÀNH VI VI PHẠM HÀNH CHÍNH VỀ QUẢN LÝ THUẾ",
                     "sub_clauses": []
                 }
             ]
@@ -5709,7 +5749,13 @@
         {
             "id": "Điều 146",
             "title": "Xử phạt vi phạm hành chính về phí, lệ phí, hóa đơn trong lĩnh vực quản lý thuế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc xử phạt vi phạm hành chính về phí, lệ phí, hóa đơn trong lĩnh vực quản lý thuế thực hiện theo quy định của Chính phủ. Chương XVI KHIẾU NẠI, TỐ CÁO, KHỞI KIỆN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 147",
@@ -5735,7 +5781,13 @@
         {
             "id": "Điều 148",
             "title": "Khởi kiện",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc khởi kiện quyết định hành chính, hành vi hành chính của cơ quan quản lý thuế, công chức quản lý thuế được thực hiện theo quy định của pháp luật về tố tụng hành chính.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 149",
@@ -5753,7 +5805,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Đối với vụ việc khiếu nại phức tạp, thủ trưởng cơ quan quản lý thuế là người giải quyết khiếu nại thực hiện tham vấn các cơ quan, tổ chức có liên quan, bao gồm cả khiếu nại lần đầu. Khi thực hiện việc tham vấn, thủ trưởng cơ quan quản lý thuế phải ban hành quyết định thành lập Hội đồng tham vấn. Hội đồng tham vấn hoạt động theo nguyên tắc biểu quyết theo đa số. Kết quả biểu quyết là cơ sở để thủ trưởng cơ quan quản lý thuế tham khảo khi ra quyết định xử lý khiếu nại. Thủ trưởng cơ quan quản lý thuế là người ra quyết định và chịu trách nhiệm về quyết định xử lý khiếu nại.",
+                    "text": "Đối với vụ việc khiếu nại phức tạp, thủ trưởng cơ quan quản lý thuế là người giải quyết khiếu nại thực hiện tham vấn các cơ quan, tổ chức có liên quan, bao gồm cả khiếu nại lần đầu. Khi thực hiện việc tham vấn, thủ trưởng cơ quan quản lý thuế phải ban hành quyết định thành lập Hội đồng tham vấn. Hội đồng tham vấn hoạt động theo nguyên tắc biểu quyết theo đa số. Kết quả biểu quyết là cơ sở để thủ trưởng cơ quan quản lý thuế tham khảo khi ra quyết định xử lý khiếu nại. Thủ trưởng cơ quan quản lý thuế là người ra quyết định và chịu trách nhiệm về quyết định xử lý khiếu nại. Chương XVII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -5761,7 +5813,13 @@
         {
             "id": "Điều 150",
             "title": "Bổ sung một điều vào Luật Kế toán số 88/2015/QH13",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bổ sung Điều 70a vào sau Điều 70 trong Chương IV như sau: “Điều 70a. Cung cấp dịch vụ kế toán của tổ chức kinh doanh dịch vụ làm thủ tục về thuế Tổ chức kinh doanh dịch vụ làm thủ tục về thuế được cung cấp dịch vụ kế toán cho doanh nghiệp siêu nhỏ khi có ít nhất một người có chứng chỉ kế toán viên.”.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 151",
@@ -5800,11 +5858,16 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đối với các khoản tiền thuế nợ đến hết ngày 30 tháng 6 năm 2020 thì được xử lý theo quy định của Luật này, trừ trường hợp quy định tại khoản 1 Điều này.",
+                    "text": "Đối với các khoản tiền thuế nợ đến hết ngày 30 tháng 6 năm 2020 thì được xử lý theo quy định của Luật này, trừ trường hợp quy định tại khoản 1 Điều này. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 13 tháng 6 năm 2019. CHỦ TỊCH QUỐC HỘI (đã ký) Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 13 tháng 6 năm 2019.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "(đã ký)",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

@@ -15,17 +15,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về thành lập, hoạt động thư viện; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, cá nhân trong hoạt động thư viện; quản lý nhà nước về thư viện.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam; tổ chức, cá nhân nước ngoài hoạt động thư viện hoặc có liên quan đến hoạt động thư viện trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Thư viện là thiết chế văn hóa, thông tin, giáo dục, khoa học thực hiện việc xây dựng, xử lý, lưu giữ, bảo quản, cung cấp tài nguyên thông tin phục vụ nhu cầu của người sử dụng.",
@@ -252,7 +269,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Xâm nhập trái phép vào hệ thống thông tin thư viện, cơ sở dữ liệu thư viện; làm sai lệch, gián đoạn hoặc phá hoại hệ thống thông tin thư viện, cơ sở dữ liệu thư viện.",
+                    "text": "Xâm nhập trái phép vào hệ thống thông tin thư viện, cơ sở dữ liệu thư viện; làm sai lệch, gián đoạn hoặc phá hoại hệ thống thông tin thư viện, cơ sở dữ liệu thư viện. Chương II THÀNH LẬP THƯ VIỆN Mục 1 MẠNG LƯỚI THƯ VIỆN",
                     "sub_clauses": []
                 }
             ]
@@ -463,7 +480,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thư viện chuyên ngành là thư viện có tài nguyên thông tin chuyên sâu về một ngành, lĩnh vực hoặc nhiều ngành, lĩnh vực phục vụ cán bộ, công chức, viên chức, người lao động của cơ quan, tổ chức chủ quản.",
+                    "text": "Thư viện chuyên ngành là thư viện có tài nguyên thông tin chuyên sâu về một ngành, lĩnh vực hoặc nhiều ngành, lĩnh vực phục vụ cán bộ, công chức, viên chức, người lao động của cơ quan, tổ chức chủ quản. Thư viện chuyên ngành gồm thư viện của cơ quan nhà nước; thư viện của tổ chức khoa học và công nghệ; thư viện của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp; thư viện của tổ chức kinh tế.",
                     "sub_clauses": []
                 },
                 {
@@ -674,7 +691,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây:",
+                    "text": "Thư viện của tổ chức, cá nhân nước ngoài có phục vụ người Việt Nam thực hiện chức năng, nhiệm vụ quy định tại Điều 4 của Luật này và các chức năng, nhiệm vụ sau đây: Mục 2 THÀNH LẬP, SÁP NHẬP, HỢP NHẤT, CHIA, TÁCH, GIẢI THỂ THƯ VIỆN",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -875,7 +892,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Thẩm quyền tiếp nhận hồ sơ thông báo được quy định như sau:",
+                    "text": "Thẩm quyền tiếp nhận hồ sơ thông báo được quy định như sau: Chương III HOẠT ĐỘNG THƯ VIỆN",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1477,7 +1494,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết Điều này.",
+                    "text": "Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết Điều này. Chương IV QUYỀN, NGHĨA VỤ VÀ TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN TRONG HOẠT ĐỘNG THƯ VIỆN Mục 1 QUYỀN, NGHĨA VỤ VÀ TRÁCH NHIỆM CỦA THƯ VIỆN, NGƯỜI LÀM CÔNG TÁC THƯ VIỆN, NGƯỜI SỬ DỤNG THƯ VIỆN",
                     "sub_clauses": []
                 }
             ]
@@ -1751,7 +1768,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Người đang chấp hành hình phạt tù, học tập, cải tạo tại trại giam, cơ sở giáo dục bắt buộc, trường giáo dưỡng, cơ sở cai nghiện bắt buộc được tạo điều kiện sử dụng tài nguyên thông tin của thư viện tại nơi giam giữ, học tập và chữa bệnh.",
+                    "text": "Người đang chấp hành hình phạt tù, học tập, cải tạo tại trại giam, cơ sở giáo dục bắt buộc, trường giáo dưỡng, cơ sở cai nghiện bắt buộc được tạo điều kiện sử dụng tài nguyên thông tin của thư viện tại nơi giam giữ, học tập và chữa bệnh. Mục 2 TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN CÓ LIÊN QUAN",
                     "sub_clauses": []
                 }
             ]
@@ -1874,7 +1891,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Tổ chức xã hội - nghề nghiệp về thư viện được thành lập và hoạt động theo quy định của pháp luật về hội có trách nhiệm sau đây:",
+                    "text": "Tổ chức xã hội - nghề nghiệp về thư viện được thành lập và hoạt động theo quy định của pháp luật về hội có trách nhiệm sau đây: Chương V TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ THƯ VIỆN",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1983,7 +2000,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:",
+                    "text": "Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây: Chương VI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2024,8 +2041,18 @@
         {
             "id": "Điều 52",
             "title": "Điều khoản chuyển tiếp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thư viện thành lập, đăng ký hoạt động trước ngày Luật này có hiệu lực thi hành được tiếp tục hoạt động mà không phải thực hiện thủ tục thông báo hoạt động theo quy định của Luật này. --------------------------------------------------------- Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 21 tháng 11 năm 2019. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 21 tháng 11 năm 2019.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Nguyễn Thị Kim Ngân"
+    ]
 }

@@ -16,17 +16,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về hoạt động giao thông đường thủy nội địa; các điều kiện bảo đảm an toàn giao thông đường thuỷ nội địa đối với kết cấu hạ tầng, phương tiện và người tham gia giao thông, vận tải đường thuỷ nội địa.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với tổ chức, cá nhân liên quan đến hoạt động giao thông đường thuỷ nội địa. Trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc gia nhập có quy định khác với Luật này thì áp dụng quy định của điều ước quốc tế đó.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Hoạt động giao thông đường thuỷ nội địa là hoạt động của người, phương tiện tham gia giao thông, vận tải đường thuỷ nội địa; quy hoạch phát triển, xây dựng, khai thác, bảo vệ kết cấu hạ tầng giao thông đường thuỷ nội địa và quản lý nhà nước về giao thông đường thuỷ nội địa.",
@@ -319,7 +336,7 @@
                 },
                 {
                     "number": "13",
-                    "text": "Các hành vi khác vi phạm pháp luật về giao thông đường thuỷ nội địa.",
+                    "text": "Các hành vi khác vi phạm pháp luật về giao thông đường thuỷ nội địa. Chương 2: QUY HOẠCH, XÂY DỰNG VÀ BẢO VỆ KẾT CẤU HẠ TẦNG GIAO THÔNG ĐƯỜNG THUỶ NỘI ĐỊA",
                     "sub_clauses": []
                 }
             ]
@@ -374,7 +391,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Quy hoạch phát triển kết cấu hạ tầng giao thông đường thuỷ nội địa phải căn cứ vào chiến lược phát triển kinh tế - xã hội, quy hoạch lưu vực sông, các quy hoạch khác có liên quan và nhiệm vụ bảo đảm quốc phòng, an ninh.",
+                    "text": "Quy hoạch phát triển kết cấu hạ tầng giao thông đường thuỷ nội địa phải căn cứ vào chiến lược phát triển kinh tế - xã hội, quy hoạch lưu vực sông, các quy hoạch khác có liên quan và nhiệm vụ bảo đảm quốc phòng, an ninh. Các ngành khi lập quy hoạch, dự án xây dựng công trình có liên quan đến giao thông đường thuỷ nội địa phải có ý kiến tham gia bằng văn bản của cơ quan quản lý nhà nước có thẩm quyền về giao thông đường thuỷ nội địa, trừ các công trình phòng, chống lụt, bão, bảo vệ đê.",
                     "sub_clauses": []
                 },
                 {
@@ -402,7 +419,13 @@
         {
             "id": "Điều 11",
             "title": "Xây dựng mới, cải tạo, nâng cấp kết cấu hạ tầng giao thông đường thuỷ nội địa",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc xây dựng mới, cải tạo, nâng cấp kết cấu hạ tầng giao thông đường thuỷ nội địa phải tuân theo quy hoạch, bảo đảm tiêu chuẩn kỹ thuật, điều kiện an toàn giao thông cho mọi đối tượng tham gia giao thông và tuân theo quy định của pháp luật về đầu tư, xây dựng, đê điều và phòng, chống lụt, bão.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 12",
@@ -454,7 +477,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cảng thuỷ nội địa là hệ thống các công trình được xây dựng để phương tiện, tàu biển neo đậu, xếp, dỡ hàng hoá, đón, trả hành khách và thực hiện các dịch vụ khác. Cảng thuỷ nội địa bao gồm cảng công cộng và cảng chuyên dùng.",
+                    "text": "Cảng thuỷ nội địa là hệ thống các công trình được xây dựng để phương tiện, tàu biển neo đậu, xếp, dỡ hàng hoá, đón, trả hành khách và thực hiện các dịch vụ khác. Cảng thuỷ nội địa bao gồm cảng công cộng và cảng chuyên dùng. Bến thuỷ nội địa là vị trí độc lập được gia cố để phương tiện neo đậu, xếp, dỡ hàng hoá, đón, trả hành khách. Bến thuỷ nội địa bao gồm bến công cộng và bến chuyên dùng. Cảng, bến thuỷ nội địa chuyên dùng là cảng, bến thuỷ nội địa của một hoặc một số tổ chức kinh tế chỉ dùng để xếp, dỡ hàng hoá, vật tư phục vụ cho sản xuất hoặc phục vụ đóng mới, sửa chữa phương tiện cho chính tổ chức đó.",
                     "sub_clauses": []
                 },
                 {
@@ -543,7 +566,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trong phạm vi hành lang bảo vệ luồng, hoạt động thuỷ sản và các hoạt động khác không được làm che khuất báo hiệu, ảnh hưởng đến tầm nhìn của người trực tiếp điều khiển phương tiện và phải theo hướng dẫn của đơn vị quản lý đường thuỷ nội địa.",
+                    "text": "Trong phạm vi hành lang bảo vệ luồng, hoạt động thuỷ sản và các hoạt động khác không được làm che khuất báo hiệu, ảnh hưởng đến tầm nhìn của người trực tiếp điều khiển phương tiện và phải theo hướng dẫn của đơn vị quản lý đường thuỷ nội địa. Khi hành lang luồng thay đổi, đơn vị quản lý đường thuỷ nội địa phải thông báo và yêu cầu tổ chức, cá nhân có hoạt động thủy sản hoặc các hoạt động khác phải di chuyển, thu hẹp hoặc thanh thải vật chướng ngại do họ gây ra trên luồng mới.",
                     "sub_clauses": []
                 },
                 {
@@ -662,7 +685,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Vật chướng ngại trái phép trên luồng, hành lang bảo vệ luồng phải được thanh thải để bảo đảm an toàn giao thông.",
+                    "text": "Vật chướng ngại trái phép trên luồng, hành lang bảo vệ luồng phải được thanh thải để bảo đảm an toàn giao thông. Đơn vị quản lý đường thuỷ nội địa có trách nhiệm lập hồ sơ theo dõi vật chướng ngại có ảnh hưởng đến an toàn giao thông đường thuỷ nội địa.",
                     "sub_clauses": []
                 },
                 {
@@ -711,6 +734,11 @@
             "title": "Quản lý, bảo trì đường thuỷ nội địa",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Nội dung quản lý, bảo trì đường thuỷ nội địa bao gồm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Khảo sát, theo dõi, thông báo tình trạng thực tế của luồng; tổ chức giao thông; thanh tra, kiểm tra việc bảo vệ công trình thuộc kết cấu hạ tầng giao thông đường thuỷ nội địa;",
                     "sub_clauses": []
@@ -742,7 +770,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định cụ thể việc quản lý, sử dụng nguồn tài chính để quản lý, bảo trì đường thuỷ nội địa.",
+                    "text": "Chính phủ quy định cụ thể việc quản lý, sử dụng nguồn tài chính để quản lý, bảo trì đường thuỷ nội địa. Chương 3: PHƯƠNG TIỆN THUỶ NỘI ĐỊA",
                     "sub_clauses": []
                 }
             ]
@@ -903,7 +931,13 @@
         {
             "id": "Điều 28",
             "title": "Nhập khẩu phương tiện",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Phương tiện nhập khẩu phải bảo đảm chất lượng, an toàn kỹ thuật và bảo vệ môi trường; việc nhập khẩu phương tiện phải thực hiện theo quy định của pháp luật. Chương 4 THUYỀN VIÊN VÀ NGƯỜI LÁI PHƯƠNG TIỆN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 29",
@@ -911,7 +945,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chức danh thuyền viên trên phương tiện bao gồm thuyền trưởng, thuyền phó, máy trưởng, máy phó, thuỷ thủ, thợ máy.",
+                    "text": "Chức danh thuyền viên trên phương tiện bao gồm thuyền trưởng, thuyền phó, máy trưởng, máy phó, thuỷ thủ, thợ máy. Chủ phương tiện có trách nhiệm bố trí đủ các chức danh, định biên thuyền viên làm việc trên phương tiện và lập danh bạ thuyền viên theo quy định.",
                     "sub_clauses": []
                 },
                 {
@@ -1166,7 +1200,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Uỷ ban nhân dân cấp tỉnh tổ chức việc đào tạo, cấp chứng chỉ lái phương tiện, giấy chứng nhận học tập pháp luật về giao thông đường thuỷ nội địa cho người lái phương tiện.",
+                    "text": "Uỷ ban nhân dân cấp tỉnh tổ chức việc đào tạo, cấp chứng chỉ lái phương tiện, giấy chứng nhận học tập pháp luật về giao thông đường thuỷ nội địa cho người lái phương tiện. Chương 5: QUY TẮC GIAO THÔNG VÀ TÍN HIỆU CỦA PHƯƠNG TIỆN Mục 1: QUY TẮC GIAO THÔNG",
                     "sub_clauses": []
                 }
             ]
@@ -1301,6 +1335,11 @@
             "id": "Điều 40",
             "title": "Phương tiện tránh nhau khi đi cắt hướng nhau",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Khi hai phương tiện đi cắt hướng nhau có nguy cơ va chạm, thuyền trưởng, người lái phương tiện phải giảm tốc độ, tránh và nhường đường theo nguyên tắc sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Phương tiện thô sơ phải tránh và nhường đường cho phương tiện có động cơ;",
@@ -1447,7 +1486,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Neo đậu phương tiện trong cảng, bến thuỷ nội địa phải đúng nơi quy định, chấp hành nội quy của cảng, bến thuỷ nội địa và phải bố trí người trông coi phương tiện.",
+                    "text": "Neo đậu phương tiện trong cảng, bến thuỷ nội địa phải đúng nơi quy định, chấp hành nội quy của cảng, bến thuỷ nội địa và phải bố trí người trông coi phương tiện. Phương tiện neo đậu ở phía bờ phải để thuyền viên của các phương tiện đậu ở phía ngoài và những người thi hành công vụ đi qua.",
                     "sub_clauses": []
                 },
                 {
@@ -1462,7 +1501,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Phương tiện không được neo đậu ở giữa luồng, khu vực luồng giao nhau, luồng cong gấp, trong hành lang bảo vệ cầu hoặc các công trình khác và những nơi có báo hiệu cấm neo đậu.",
+                    "text": "Phương tiện không được neo đậu ở giữa luồng, khu vực luồng giao nhau, luồng cong gấp, trong hành lang bảo vệ cầu hoặc các công trình khác và những nơi có báo hiệu cấm neo đậu. Mục 2: TÍN HIỆU CỦA PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG THUỶ NỘI ĐỊA",
                     "sub_clauses": []
                 }
             ]
@@ -1547,6 +1586,11 @@
             "title": "Âm hiệu thông báo",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Thuyền trưởng, người lái phương tiện thông báo tình trạng hoạt động của phương tiện mà mình đang điều khiển bằng âm hiệu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Bốn tiếng ngắn là tín hiệu gọi các phương tiện khác đến giúp đỡ;",
                     "sub_clauses": []
@@ -1598,6 +1642,11 @@
             "title": "Âm hiệu khi tầm nhìn bị hạn chế",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Khi có sương mù, mưa to hoặc vì lý do khác mà tầm nhìn bị hạn chế, phương tiện phải phát âm hiệu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Cách hai phút phát một tiếng dài là tín hiệu phương tiện đi chậm hay đã dừng máy nhưng còn di chuyển theo quán tính;",
                     "sub_clauses": []
@@ -1613,6 +1662,11 @@
             "id": "Điều 49",
             "title": "Phân loại phương tiện để bố trí tín hiệu",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Các phương tiện được chia ra 6 loại để bố trí tín hiệu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Loại A là loại phương tiện có động cơ tổng công suất máy chính từ 50 mã lực trở lên;",
@@ -1876,6 +1930,11 @@
             "title": "Tín hiệu trên phương tiện mất chủ động",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Khi phương tiện không còn hoạt động theo sự điều khiển của thuyền trưởng, người lái phương tiện thì phải phát âm hiệu theo quy định tại khoản 9 Điều 47 của Luật này, đồng thời phải bố trí tín hiệu theo quy định sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Ban đêm, thắp một đèn đỏ đặt ở vị trí cao nhất của phương tiện, nếu còn di chuyển theo quán tính thì phương tiện loại A phải thắp thêm đèn mạn và đèn trắng lái, phương tiện loại B phải thắp thêm đèn nửa xanh nửa đỏ;",
                     "sub_clauses": []
@@ -1893,7 +1952,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ban đêm, phương tiện có chiều dài lớn nhất từ 45 mét trở xuống thắp ở phía mũi một đèn trắng đặt cao hơn mặt nước ít nhất 3 mét; phương tiện có chiều dài lớn nhất trên 45 mét thắp thêm ở phía lái một đèn trắng và đặt thấp hơn đèn trắng ở phía mũi 1 mét.",
+                    "text": "Ban đêm, phương tiện có chiều dài lớn nhất từ 45 mét trở xuống thắp ở phía mũi một đèn trắng đặt cao hơn mặt nước ít nhất 3 mét; phương tiện có chiều dài lớn nhất trên 45 mét thắp thêm ở phía lái một đèn trắng và đặt thấp hơn đèn trắng ở phía mũi 1 mét. Tại nơi có báo hiệu chiều rộng luồng bị hạn chế, phương tiện neo thắp thêm một đèn trắng đặt tại vị trí gần tim luồng nhất của phương tiện. Các bè neo ở ngoài cảng, bến thuỷ nội địa thắp một đèn đỏ đặt ở giữa bè và hai đèn trắng đặt ở hai góc bè phía luồng.",
                     "sub_clauses": []
                 },
                 {
@@ -2059,6 +2118,11 @@
             "title": "Tín hiệu báo trạm kiểm soát, phương tiện tuần tra, kiểm soát giao thông",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Cảnh sát giao thông đường thuỷ bố trí tín hiệu báo trạm kiểm soát, phương tiện tuần tra, kiểm soát giao thông như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tại trạm kiểm soát giao thông, ở vị trí cao, dễ quan sát nhất:",
                     "sub_clauses": [
@@ -2093,6 +2157,11 @@
             "title": "Tín hiệu gọi phương tiện để kiểm soát giao thông",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Ngoài tín hiệu quy định tại Điều 65 của Luật này, Cảnh sát giao thông đường thuỷ khi gọi phương tiện để kiểm soát phải phát tín hiệu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Ban đêm, hướng đèn hiệu về phía phương tiện cần kiểm soát, phát một chớp sáng dài, một chớp sáng ngắn, một chớp sáng dài, đồng thời phát âm hiệu một tiếng dài, một tiếng ngắn, một tiếng dài;",
                     "sub_clauses": []
@@ -2113,6 +2182,11 @@
             "id": "Điều 67",
             "title": "Tín hiệu trên phương tiện làm nhiệm vụ đặc biệt",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Ngoài đèn hiệu quy định tại Điều 50 của Luật này, phương tiện khi làm nhiệm vụ đặc biệt phải sử dụng đồng thời âm hiệu, đèn hiệu, cờ hiệu theo quy định sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Còi ưu tiên có âm hiệu đặc biệt;",
@@ -2167,7 +2241,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ban ngày, trên cột đèn treo cờ hiệu \"Cờ chữ H\".",
+                    "text": "Ban ngày, trên cột đèn treo cờ hiệu \"Cờ chữ H\". Chương 6: HOẠT ĐỘNG CỦA CẢNG, BẾN THUỶ NỘI ĐỊA, CẢNG VỤ VÀ HOA TIÊU ĐƯỜNG THUỶ NỘI ĐỊA",
                     "sub_clauses": []
                 }
             ]
@@ -2312,7 +2386,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc sử dụng hoa tiêu không làm miễn, giảm trách nhiệm chỉ huy của thuyền trưởng, kể cả trong trường hợp việc sử dụng hoa tiêu là bắt buộc.",
+                    "text": "Việc sử dụng hoa tiêu không làm miễn, giảm trách nhiệm chỉ huy của thuyền trưởng, kể cả trong trường hợp việc sử dụng hoa tiêu là bắt buộc. Thuyền trưởng có quyền lựa chọn hoa tiêu hoặc yêu cầu thay thế hoa tiêu.",
                     "sub_clauses": []
                 },
                 {
@@ -2333,7 +2407,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hoa tiêu có nghĩa vụ chỉ dẫn cho thuyền trưởng về tình trạng luồng ở khu vực dẫn phương tiện, tàu biển; kiến nghị với thuyền trưởng về các hành vi không phù hợp với quy định bảo đảm an toàn giao thông đường thuỷ nội địa và các quy định khác của pháp luật.",
+                    "text": "Hoa tiêu có nghĩa vụ chỉ dẫn cho thuyền trưởng về tình trạng luồng ở khu vực dẫn phương tiện, tàu biển; kiến nghị với thuyền trưởng về các hành vi không phù hợp với quy định bảo đảm an toàn giao thông đường thuỷ nội địa và các quy định khác của pháp luật. Khi thuyền trưởng cố ý không thực hiện các chỉ dẫn hoặc khuyến nghị hợp lý của hoa tiêu thì hoa tiêu có quyền từ chối dẫn phương tiện, tàu biển với sự làm chứng của người thứ ba.",
                     "sub_clauses": []
                 },
                 {
@@ -2367,7 +2441,13 @@
         {
             "id": "Điều 76",
             "title": "Trách nhiệm của chủ phương tiện và hoa tiêu khi có tổn thất",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khi xảy ra tổn thất do lỗi của hoa tiêu gây ra, chủ phương tiện phải chịu trách nhiệm bồi thường tổn thất như đối với tổn thất do lỗi của thuyền viên gây ra; hoa tiêu được miễn bồi thường thiệt hại vật chất nhưng phải chịu trách nhiệm hành chính hoặc hình sự theo quy định của pháp luật. Chương 7: VẬN TẢI ĐƯỜNG THUỶ NỘI ĐỊA",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 77",
@@ -2395,7 +2475,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Người kinh doanh vận tải hàng hoá dễ cháy, dễ nổ trên đường thuỷ nội địa phải mua bảo hiểm trách nhiệm dân sự của người kinh doanh vận tải đối với người thứ ba; người kinh doanh vận tải hành khách phải mua bảo hiểm trách nhiệm dân sự của người kinh doanh vận tải đối với hành khách.",
+                    "text": "Người kinh doanh vận tải hàng hoá dễ cháy, dễ nổ trên đường thuỷ nội địa phải mua bảo hiểm trách nhiệm dân sự của người kinh doanh vận tải đối với người thứ ba; người kinh doanh vận tải hành khách phải mua bảo hiểm trách nhiệm dân sự của người kinh doanh vận tải đối với hành khách. Điều kiện bảo hiểm, mức phí bảo hiểm, số tiền bảo hiểm tối thiểu do Chính phủ quy định.",
                     "sub_clauses": []
                 },
                 {
@@ -2506,7 +2586,13 @@
         {
             "id": "Điều 80",
             "title": "Vận tải bằng phương tiện nhỏ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Phương tiện không có động cơ trọng tải toàn phần dưới 5 tấn, phương tiện có động cơ công suất máy chính dưới 5 mã lực, phương tiện không có động cơ có sức chở đến 12 người, khi chở người phải có đủ chỗ ngồi ổn định, an toàn và có đủ dụng cụ cứu sinh tương ứng với số người trên phương tiện; khi chở hàng hoá không được chở quá trọng tải quy định, không được xếp hàng hoá che khuất tầm nhìn của người lái phương tiện, không gây mất ổn định và không làm ảnh hưởng đến việc điều khiển phương tiện.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 81",
@@ -2683,12 +2769,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Giấy gửi hàng hoá là bộ phận của hợp đồng vận tải do người thuê vận tải lập và gửi cho người kinh doanh vận tải trước khi giao hàng hoá. Giấy gửi hàng hoá có thể lập cho cả khối lượng hàng hoá thuê vận tải hoặc theo từng chuyến do hai bên thoả thuận trong hợp đồng.",
+                    "text": "Giấy gửi hàng hoá là bộ phận của hợp đồng vận tải do người thuê vận tải lập và gửi cho người kinh doanh vận tải trước khi giao hàng hoá. Giấy gửi hàng hoá có thể lập cho cả khối lượng hàng hoá thuê vận tải hoặc theo từng chuyến do hai bên thoả thuận trong hợp đồng. Giấy gửi hàng hoá phải ghi rõ loại hàng hoá; ký hiệu, mã hiệu hàng hóa; số lượng, trọng lượng hàng hoá; nơi giao hàng hoá, nơi nhận hàng hoá; tên và địa chỉ của người gửi hàng; tên và địa chỉ của người nhận hàng; những yêu cầu khi xếp, dỡ, vận tải hàng hoá.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Giấy vận chuyển là chứng từ giao nhận hàng hoá giữa người kinh doanh vận tải và người thuê vận tải, là chứng cứ để giải quyết tranh chấp.",
+                    "text": "Giấy vận chuyển là chứng từ giao nhận hàng hoá giữa người kinh doanh vận tải và người thuê vận tải, là chứng cứ để giải quyết tranh chấp. Giấy vận chuyển do người kinh doanh vận tải lập sau khi hàng hoá đã xếp lên phương tiện và phải có chữ ký của người thuê vận tải hoặc người được người thuê vận tải uỷ quyền. Giấy vận chuyển phải ghi rõ loại hàng hoá; ký hiệu, mã hiệu hàng hoá; số lượng, trọng lượng hàng hoá; nơi giao hàng hoá, nơi nhận hàng hoá; tên và địa chỉ của người gửi hàng, tên và địa chỉ của người nhận hàng; cước phí vận tải và các chi phí phát sinh; các chi tiết khác mà người kinh doanh vận tải và người thuê vận tải thoả thuận ghi vào giấy vận chuyển; xác nhận của người kinh doanh vận tải về tình trạng hàng hoá nhận vận tải.",
                     "sub_clauses": []
                 }
             ]
@@ -2961,7 +3047,13 @@
         {
             "id": "Điều 96",
             "title": "Vận tải hàng hoá siêu trường, siêu trọng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc vận tải hàng hoá siêu trường, siêu trọng phải sử dụng loại phương tiện phù hợp với loại hàng hoá và phải có phương án bảo đảm an toàn trong quá trình vận tải được cơ quan nhà nước có thẩm quyền phê duyệt.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 97",
@@ -3000,7 +3092,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thi hài, hài cốt chỉ được vận tải khi có đủ giấy tờ theo quy định của pháp luật.",
+                    "text": "Thi hài, hài cốt chỉ được vận tải khi có đủ giấy tờ theo quy định của pháp luật. Chương 8: QUẢN LÝ NHÀ NƯỚC VỀ GIAO THÔNG ĐƯỜNG THUỶ NỘI ĐỊA",
                     "sub_clauses": []
                 }
             ]
@@ -3078,7 +3170,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức và hoạt động của thanh tra giao thông đường thuỷ nội địa theo quy định của pháp luật về thanh tra.",
+                    "text": "Tổ chức và hoạt động của thanh tra giao thông đường thuỷ nội địa theo quy định của pháp luật về thanh tra. Chương 9: ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -3086,12 +3178,24 @@
         {
             "id": "Điều 102",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2005.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 103",
             "title": "Hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam Khoá XI, kỳ họp thứ 5 thông qua ngày 15 tháng 6 năm 2004. Nguyễn Văn An (Đã ký)",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": []

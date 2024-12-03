@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định biện pháp giảm mức tiêu thụ rượu, bia; biện pháp quản lý việc cung cấp rượu, bia; biện pháp giảm tác hại của rượu, bia; điều kiện bảo đảm cho hoạt động phòng, chống tác hại của rượu, bia; quản lý nhà nước và trách nhiệm của cơ quan, tổ chức, cá nhân trong phòng, chống tác hại của rượu, bia."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -392,6 +406,13 @@
         "text": "Các địa điểm công cộng theo quy định của Chính phủ."
     },
     {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Quản lý việc khuyến mại rượu, bia có độ cồn dưới 15 độ",
+        "text": "Tổ chức, cá nhân thực hiện khuyến mại rượu, bia có độ cồn dưới 15 độ phải tuân thủ các quy định của Luật này và quy định khác của pháp luật về khuyến mại."
+    },
+    {
         "id": "Điều 12.1",
         "article": "Điều 12",
         "clause": "1",
@@ -476,6 +497,13 @@
         "text": "Chính phủ quy định chi tiết điểm d khoản 3, khoản 4 và khoản 5 Điều này."
     },
     {
+        "id": "Điều 13.0",
+        "article": "Điều 13",
+        "clause": "0",
+        "title": "Quản lý việc quảng cáo rượu có độ cồn từ 5,5 độ đến dưới 15 độ và bia có độ cồn từ 5,5 độ trở lên",
+        "text": "Tổ chức, cá nhân thực hiện quảng cáo rượu có độ cồn từ 5,5 độ đến dưới 15 độ và bia có độ cồn từ 5,5 độ trở lên phải tuân thủ quy định tại Điều 12 của Luật này và không quảng cáo trong trường hợp sau đây:"
+    },
+    {
         "id": "Điều 13.1",
         "article": "Điều 13",
         "clause": "1",
@@ -488,6 +516,13 @@
         "clause": "2",
         "title": "Quản lý việc quảng cáo rượu có độ cồn từ 5,5 độ đến dưới 15 độ và bia có độ cồn từ 5,5 độ trở lên",
         "text": "Trên các phương tiện quảng cáo ngoài trời, trừ biển hiệu của cơ sở kinh doanh rượu, bia."
+    },
+    {
+        "id": "Điều 14.0",
+        "article": "Điều 14",
+        "clause": "0",
+        "title": "Quản lý việc tài trợ của tổ chức, cá nhân kinh doanh rượu, bia",
+        "text": "Tổ chức, cá nhân kinh doanh rượu, bia thực hiện tài trợ phải tuân thủ các quy định của pháp luật có liên quan đến việc tài trợ và không được tài trợ bằng sản phẩm rượu, bia. Chương III BIỆN PHÁP QUẢN LÝ VIỆC CUNG CẤP RƯỢU, BIA"
     },
     {
         "id": "Điều 15.1",
@@ -635,6 +670,13 @@
         "clause": "2",
         "title": "Biện pháp quản lý đối với sản xuất rượu thủ công không nhằm mục đích kinh doanh",
         "text": "Ủy ban nhân dân các cấp hướng dẫn việc thực hiện các quy định của pháp luật về an toàn thực phẩm; báo cáo sản lượng và tình hình bảo đảm an toàn thực phẩm đối với sản xuất rượu thủ công không nhằm mục đích kinh doanh trên địa bàn."
+    },
+    {
+        "id": "Điều 18.0",
+        "article": "Điều 18",
+        "clause": "0",
+        "title": "Bảo đảm chất lượng, an toàn thực phẩm đối với rượu, bia",
+        "text": "Rượu, bia được kinh doanh, lưu hành tại Việt Nam phải bảo đảm tiêu chuẩn, quy chuẩn kỹ thuật, chất lượng sản phẩm, hàng hóa và an toàn thực phẩm theo quy định của pháp luật."
     },
     {
         "id": "Điều 19.1",
@@ -1299,6 +1341,6 @@
         "article": "Điều 35",
         "clause": "2",
         "title": "Sửa đổi, bổ sung quy định của một số luật khác",
-        "text": "Kể từ ngày Luật này có hiệu lực đến ngày 01 tháng 01 năm 2022, việc cấp phép sản xuất rượu thủ công quy định tại khoản 2 Điều 15 của Luật này và việc đăng ký sản xuất rượu thủ công quy định tại khoản 3 Điều 15 của Luật này không phải nộp phí, lệ phí. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 14 tháng 6 năm 2019."
+        "text": "Kể từ ngày Luật này có hiệu lực đến ngày 01 tháng 01 năm 2022, việc cấp phép sản xuất rượu thủ công quy định tại khoản 2 Điều 15 của Luật này và việc đăng ký sản xuất rượu thủ công quy định tại khoản 3 Điều 15 của Luật này không phải nộp phí, lệ phí. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 14 tháng 6 năm 2019. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

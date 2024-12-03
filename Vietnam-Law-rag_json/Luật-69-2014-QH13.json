@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định việc đầu tư vốn nhà nước vào doanh nghiệp; quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp và giám sát việc đầu tư, quản lý, sử dụng vốn nhà nước tại doanh nghiệp."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -40,6 +47,13 @@
         "clause": "4",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan, tổ chức, cá nhân khác có liên quan đến hoạt động đầu tư, quản lý, sử dụng vốn nhà nước tại doanh nghiệp."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -2254,6 +2268,13 @@
         "text": "Tiền lương, thù lao, tiền thưởng của Kiểm soát viên do cơ quan đại diện chủ sở hữu, cơ quan nhà nước có thẩm quyền quyết định, chi trả."
     },
     {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": " Tiêu chuẩn người đại diện phần vốn nhà nước, người đại diện phần vốn của doanh nghiệp",
+        "text": "Người đại diện phần vốn nhà nước, người đại diện phần vốn của doanh nghiệp phải đáp ứng các tiêu chuẩn sau đây:"
+    },
+    {
         "id": "Điều 46.1",
         "article": "Điều 46",
         "clause": "1",
@@ -3080,6 +3101,13 @@
         "text": "Nguồn quỹ khen thưởng của người lao động, quỹ thưởng của người quản lý doanh nghiệp, Kiểm soát viên."
     },
     {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": " Xử lý vi phạm",
+        "text": "Cơ quan, tổ chức, cá nhân có hành vi vi phạm các quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. CHƯƠNG X ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
         "id": "Điều 64.1",
         "article": "Điều 64",
         "clause": "1",
@@ -3099,5 +3127,19 @@
         "clause": "3",
         "title": " Điều khoản chuyển tiếp",
         "text": "Việc xử lý hoạt động quản lý, sử dụng vốn, tài sản tại doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ, quản lý vốn nhà nước tại công ty cổ phần, công ty trách nhiệm hữu hạn hai thành viên trở lên phát sinh trước ngày Luật này có hiệu lực thi hành thì thực hiện theo quy định hiện hành đến hết ngày 31 tháng 12 năm 2015."
+    },
+    {
+        "id": "Điều 65.0",
+        "article": "Điều 65",
+        "clause": "0",
+        "title": " Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2015."
+    },
+    {
+        "id": "Điều 66.0",
+        "article": "Điều 66",
+        "clause": "0",
+        "title": " Quy định chi tiết",
+        "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. ------------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 8 thông qua ngày 26 tháng 11 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về nguyên tắc, chính sách bảo vệ quyền lợi người tiêu dùng; quyền và nghĩa vụ của người tiêu dùng; trách nhiệm của tổ chức, cá nhân kinh doanh đối với người tiêu dùng; hoạt động bảo vệ quyền lợi người tiêu dùng của cơ quan, tổ chức; giải quyết tranh chấp giữa người tiêu dùng và tổ chức, cá nhân kinh doanh; quản lý nhà nước về bảo vệ quyền lợi người tiêu dùng."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -33,6 +40,13 @@
         "clause": "5",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan, tổ chức, cá nhân trong nước và nước ngoài có liên quan đến bảo vệ quyền lợi người tiêu dùng."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -1099,6 +1113,13 @@
         "text": "Tổ chức, cá nhân kinh doanh phải hủy bỏ thông tin của người tiêu dùng khi hết thời hạn lưu trữ theo quy định tại điểm c khoản 1 Điều 16 của Luật này hoặc quy định khác của pháp luật có liên quan."
     },
     {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Cung cấp thông tin về sản phẩm, hàng hóa, dịch vụ, hợp đồng theo mẫu, điều kiện giao dịch chung cho người tiêu dùng",
+        "text": "Tổ chức, cá nhân kinh doanh có trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 21.1",
         "article": "Điều 21",
         "clause": "1",
@@ -1370,6 +1391,20 @@
         "clause": "5",
         "title": "Hợp đồng giao kết với người tiêu dùng, hợp đồng theo mẫu, điều kiện giao dịch chung",
         "text": "Chính phủ quy định chi tiết khoản 2 Điều này."
+    },
+    {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Giải thích hợp đồng giao kết với người tiêu dùng, hợp đồng theo mẫu, điều kiện giao dịch chung",
+        "text": "Trong trường hợp hiểu khác nhau về nội dung hợp đồng giao kết với người tiêu dùng, hợp đồng theo mẫu, điều kiện giao dịch chung thì việc giải thích được thực hiện theo hướng có lợi cho người tiêu dùng."
+    },
+    {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Điều khoản không được phép quy định trong hợp đồng giao kết với người tiêu dùng, hợp đồng theo mẫu, điều kiện giao dịch chung",
+        "text": "Trong hợp đồng giao kết với người tiêu dùng, hợp đồng theo mẫu, điều kiện giao dịch chung, tổ chức, cá nhân kinh doanh không được quy định các điều khoản sau đây:"
     },
     {
         "id": "Điều 25.1",
@@ -1881,6 +1916,13 @@
         "clause": "5",
         "title": "Bồi thường thiệt hại do sản phẩm, hàng hóa có khuyết tật gây ra",
         "text": "Việc bồi thường thiệt hại được thực hiện theo quy định của pháp luật về dân sự và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Miễn trách nhiệm bồi thường thiệt hại do sản phẩm, hàng hóa có khuyết tật gây ra",
+        "text": "Tổ chức, cá nhân kinh doanh quy định tại Điều 34 của Luật này được miễn trách nhiệm bồi thường thiệt hại trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 35.1",
@@ -3346,6 +3388,13 @@
         "text": "Tổ chức hòa giải theo quy định tại điểm a và điểm c khoản 1 Điều này có trách nhiệm công nhận, công bố Danh sách hòa giải viên đủ điều kiện theo quy định của Luật này và chỉ định các hòa giải viên tham gia thực hiện việc hòa giải theo yêu cầu của các bên."
     },
     {
+        "id": "Điều 64.0",
+        "article": "Điều 64",
+        "clause": "0",
+        "title": "Hòa giải viên",
+        "text": "Hòa giải viên hòa giải tranh chấp giữa người tiêu dùng và tổ chức, cá nhân kinh doanh bao gồm:"
+    },
+    {
         "id": "Điều 64.1",
         "article": "Điều 64",
         "clause": "1",
@@ -3505,6 +3554,13 @@
         "clause": "2",
         "title": "Hiệu lực của điều khoản trọng tài",
         "text": "Trường hợp điều khoản trọng tài do tổ chức, cá nhân kinh doanh đưa vào hợp đồng theo mẫu hoặc điều kiện giao dịch chung thì khi xảy ra tranh chấp, người tiêu dùng có quyền lựa chọn phương thức giải quyết tranh chấp khác."
+    },
+    {
+        "id": "Điều 68.0",
+        "article": "Điều 68",
+        "clause": "0",
+        "title": "Trình tự, thủ tục giải quyết tranh chấp tại trọng tài",
+        "text": "Trình tự, thủ tục giải quyết tranh chấp tại trọng tài được thực hiện theo quy định của pháp luật về trọng tài thương mại."
     },
     {
         "id": "Điều 69.1",
@@ -3924,7 +3980,7 @@
         "article": "Điều 80",
         "clause": "2",
         "title": "Điều khoản chuyển tiếp",
-        "text": "Đối với hợp đồng theo mẫu, điều kiện giao dịch chung đã được công khai, áp dụng đối với người tiêu dùng trước ngày Luật này có hiệu lực thi hành thì việc áp dụng pháp luật được quy định như sau: Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 5 thông qua ngày 20 tháng 6 năm 2023."
+        "text": "Đối với hợp đồng theo mẫu, điều kiện giao dịch chung đã được công khai, áp dụng đối với người tiêu dùng trước ngày Luật này có hiệu lực thi hành thì việc áp dụng pháp luật được quy định như sau: Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 5 thông qua ngày 20 tháng 6 năm 2023. CHỦ TỊCH QUỐC HỘI Vương Đình Huệ"
     },
     {
         "id": "Điều 80.2a",

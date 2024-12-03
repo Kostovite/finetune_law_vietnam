@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về phòng bệnh, chữa bệnh, chống dịch bệnh động vật; kiểm dịch động vật, sản phẩm động vật; kiểm soát giết mổ động vật, sơ chế, chế biến động vật, sản phẩm động vật; kiểm tra vệ sinh thú y; quản lý thuốc thú y; hành nghề thú y."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, cá nhân trong nước và tổ chức, cá nhân nước ngoài có liên quan đến hoạt động thú y tại Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -796,6 +817,13 @@
         "clause": "2",
         "title": "Hợp tác quốc tế về thú y",
         "text": "Cục Thú y là cơ quan đầu mối thực hiện hợp tác quốc tế về thú y theo phân công của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn."
+    },
+    {
+        "id": "Điều 12.0",
+        "article": "Điều 12",
+        "clause": "0",
+        "title": "Phí, lệ phí về thú y",
+        "text": "Tổ chức, cá nhân có hoạt động liên quan đến lĩnh vực thú y phải trả phí, lệ phí theo quy định của pháp luật về phí và lệ phí."
     },
     {
         "id": "Điều 13.1",
@@ -4088,6 +4116,13 @@
         "text": "Trong thời hạn 01 ngày làm việc, kể từ ngày nhận được đăng ký kiểm dịch, cơ quan quản lý chuyên ngành thú y địa phương cấp Giấy chứng nhận kiểm dịch."
     },
     {
+        "id": "Điều 56.0",
+        "article": "Điều 56",
+        "clause": "0",
+        "title": "Trình tự, nội dung kiểm dịch động vật, sản phẩm động vật thủy sản xuất khẩu không dùng làm thực phẩm",
+        "text": "Trình tự, nội dung kiểm dịch động vật, sản phẩm động vật thủy sản có trong Danh mục động vật, sản phẩm động vật thủy sản thuộc diện phải kiểm dịch xuất khẩu không dùng làm thực phẩm thực hiện theo quy định tại Điều 41 và Điều 42 của Luật này."
+    },
+    {
         "id": "Điều 57.1",
         "article": "Điều 57",
         "clause": "1",
@@ -4191,6 +4226,13 @@
         "clause": "3c",
         "title": "Trình tự kiểm dịch động vật, sản phẩm động vật thủy sản xuất khẩu dùng làm thực phẩm",
         "text": "Trường hợp chủ hàng có yêu cầu đổi Giấy chứng nhận kiểm dịch đối với lô hàng, cơ quan có thẩm quyền kiểm dịch kiểm tra lô hàng và cấp đổi Giấy chứng nhận kiểm dịch."
+    },
+    {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Trình tự, nội dung kiểm dịch động vật, sản phẩm động vật thủy sản nhập khẩu, tạm nhập tái xuất, tạm xuất tái nhập, chuyển cửa khẩu, kho ngoại quan, quá cảnh lãnh thổ Việt Nam; động vật thủy sản tham gia hội chợ, triển lãm, thi đấu thể thao, biểu diễn nghệ thuật; sản phẩm động vật thủy sản tham gia hội chợ, triển lãm; vận chuyển mẫu bệnh phẩm thủy sản",
+        "text": "Trình tự, nội dung kiểm dịch động vật, sản phẩm động vật thủy sản nhập khẩu, tạm nhập tái xuất, tạm xuất tái nhập, chuyển cửa khẩu, kho ngoại quan, quá cảnh lãnh thổ Việt Nam; động vật thủy sản tham gia hội chợ, triển lãm, thi đấu thể thao, biểu diễn nghệ thuật; sản phẩm động vật thủy sản tham gia hội chợ, triển lãm; vận chuyển mẫu bệnh phẩm thủy sản được thực hiện theo quy định tại các điều 44, 45, 46, 47, 48, 49, 50, 51 và 52 của Luật này. Mục 3 TRÁCH NHIỆM VÀ QUYỀN HẠN CỦA TỔ CHỨC, CÁ NHÂN VỀ KIỂM DỊCH ĐỘNG VẬT, SẢN PHẨM ĐỘNG VẬT"
     },
     {
         "id": "Điều 59.1",
@@ -5054,6 +5096,13 @@
         "text": "Có biện pháp thu gom, xử lý nước thải, chất thải bảo đảm an toàn dịch bệnh và theo quy định của pháp luật về bảo vệ môi trường."
     },
     {
+        "id": "Điều 74.0",
+        "article": "Điều 74",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn",
+        "text": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành:"
+    },
+    {
         "id": "Điều 74.1",
         "article": "Điều 74",
         "clause": "1",
@@ -5852,6 +5901,13 @@
         "text": "Bồi thường thiệt hại theo quy định của pháp luật."
     },
     {
+        "id": "Điều 90.0",
+        "article": "Điều 90",
+        "clause": "0",
+        "title": "Điều kiện sản xuất thuốc thú y",
+        "text": "Tổ chức, cá nhân sản xuất thuốc thú y phải bảo đảm các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 90.1",
         "article": "Điều 90",
         "clause": "1",
@@ -6006,6 +6062,13 @@
         "text": "Chấp hành, thực hiện quy định của pháp luật khác về phòng, chống cháy nổ, hóa chất, an toàn lao động, môi trường."
     },
     {
+        "id": "Điều 92.0",
+        "article": "Điều 92",
+        "clause": "0",
+        "title": "Điều kiện buôn bán thuốc thú y",
+        "text": "Tổ chức, cá nhân buôn bán thuốc thú y phải bảo đảm các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 92.1",
         "article": "Điều 92",
         "clause": "1",
@@ -6102,6 +6165,13 @@
         "clause": "2đ",
         "title": "Quyền và nghĩa vụ của tổ chức, cá nhân buôn bán thuốc thú y",
         "text": "Khi phát hiện thuốc thú y của cơ sở buôn bán của mình không bảo đảm các yêu cầu theo quy định thì có trách nhiệm thông báo cho đại lý trực tiếp hoặc cơ sở sản xuất đã cung cấp thuốc thú y để thu hồi ngay toàn bộ thuốc thú y đó đang lưu hành trên thị trường; tham gia thu hồi thuốc thú y đã bán ra."
+    },
+    {
+        "id": "Điều 94.0",
+        "article": "Điều 94",
+        "clause": "0",
+        "title": "Điều kiện nhập khẩu thuốc thú y",
+        "text": "Tổ chức, cá nhân nhập khẩu thuốc thú y phải bảo đảm các điều kiện sau đây:"
     },
     {
         "id": "Điều 94.1",
@@ -6804,6 +6874,13 @@
         "text": "Cơ quan nhà nước có thẩm quyền chỉ định cơ sở kiểm nghiệm thuốc thú y thực hiện việc kiểm định thuốc thú y quy định tại khoản 2 Điều này."
     },
     {
+        "id": "Điều 103.0",
+        "article": "Điều 103",
+        "clause": "0",
+        "title": "Nhãn thuốc thú y",
+        "text": "Thuốc thú y lưu hành trên thị trường phải có nhãn đáp ứng yêu cầu sau đây:"
+    },
+    {
         "id": "Điều 103.1",
         "article": "Điều 103",
         "clause": "1",
@@ -7308,6 +7385,13 @@
         "text": "Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, cơ quan tiếp nhận hồ sơ quyết định việc cấp lại Chứng chỉ hành nghề thú y; trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do."
     },
     {
+        "id": "Điều 111.0",
+        "article": "Điều 111",
+        "clause": "0",
+        "title": "Không cấp Chứng chỉ hành nghề thú y",
+        "text": "Cá nhân không được cấp Chứng chỉ hành nghề thú y trong trường hợp sau đây:"
+    },
+    {
         "id": "Điều 111.1",
         "article": "Điều 111",
         "clause": "1",
@@ -7481,5 +7565,12 @@
         "clause": "3",
         "title": "Hiệu lực thi hành",
         "text": "Các loại giấy phép, giấy chứng nhận, chứng chỉ trong lĩnh vực thú y đã được cấp trước ngày Luật này có hiệu lực mà chưa hết thời hạn thì vẫn có giá trị sử dụng cho đến khi hết thời hạn."
+    },
+    {
+        "id": "Điều 116.0",
+        "article": "Điều 116",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. ­­­­ Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 19 tháng 6 năm 2015. CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Sinh Hùng"
     }
 ]

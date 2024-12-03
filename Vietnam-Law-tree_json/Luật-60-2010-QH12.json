@@ -17,12 +17,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định việc điều tra cơ bản địa chất về khoáng sản; bảo vệ khoáng sản chưa khai thác; thăm dò, khai thác khoáng sản; quản lý nhà nước về khoáng sản trong phạm vi đất liền, hải đảo, nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa của nước Cộng hòa xã hội chủ nghĩa Việt Nam. Khoáng sản là dầu khí; khoáng sản là nước thiên nhiên không phải là nước khoáng, nước nóng thiên nhiên không thuộc phạm vi điều chỉnh của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Khoáng sản là khoáng vật, khoáng chất có ích được tích tụ tự nhiên ở thể rắn, thể lỏng, thể khí tồn tại trong lòng đất, trên mặt đất, bao gồm cả khoáng vật, khoáng chất ở bãi thải của mỏ.",
@@ -243,7 +254,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Các hành vi khác theo quy định của pháp luật.",
+                    "text": "Các hành vi khác theo quy định của pháp luật. CHƯƠNG II CHIẾN LƯỢC, QUY HOẠCH KHOÁNG SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -628,7 +639,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời hạn 30 ngày, kể từ ngày quy hoạch khoáng sản được phê duyệt hoặc được điều chỉnh, cơ quan tổ chức lập quy hoạch khoáng sản có trách nhiệm công bố công khai quy hoạch khoáng sản.",
+                    "text": "Trong thời hạn 30 ngày, kể từ ngày quy hoạch khoáng sản được phê duyệt hoặc được điều chỉnh, cơ quan tổ chức lập quy hoạch khoáng sản có trách nhiệm công bố công khai quy hoạch khoáng sản. CHƯƠNG III BẢO VỆ KHOÁNG SẢN CHƯA KHAI THÁC",
                     "sub_clauses": []
                 }
             ]
@@ -755,7 +766,13 @@
         {
             "id": "Điều 20",
             "title": "Kinh phí cho công tác bảo vệ khoáng sản chưa khai thác",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước bảo đảm kinh phí cho công tác bảo vệ khoáng sản chưa khai thác. Kinh phí cho công tác bảo vệ khoáng sản chưa khai thác được bố trí trong dự toán ngân sách nhà nước hằng năm. CHƯƠNG IV ĐIỀU TRA CƠ BẢN ĐỊA CHẤT VỀ KHOÁNG SẢN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 21",
@@ -763,7 +780,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Điều tra cơ bản địa chất về khoáng sản do Nhà nước thực hiện theo quy hoạch đã được phê duyệt.",
+                    "text": "Điều tra cơ bản địa chất về khoáng sản do Nhà nước thực hiện theo quy hoạch đã được phê duyệt. Kinh phí cho điều tra cơ bản địa chất về khoáng sản được bố trí trong dự toán ngân sách nhà nước hằng năm.",
                     "sub_clauses": []
                 },
                 {
@@ -872,7 +889,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức, cá nhân tham gia đầu tư điều tra cơ bản địa chất về khoáng sản được ưu tiên sử dụng thông tin về khoáng sản trong khu vực đã điều tra khi tham gia hoạt động khoáng sản.",
+                    "text": "Tổ chức, cá nhân tham gia đầu tư điều tra cơ bản địa chất về khoáng sản được ưu tiên sử dụng thông tin về khoáng sản trong khu vực đã điều tra khi tham gia hoạt động khoáng sản. CHƯƠNG V KHU VỰC KHOÁNG SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -914,7 +931,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Căn cứ vào yêu cầu bảo đảm quốc phòng, an ninh; ngăn ngừa, giảm thiểu tác động đến môi trường, cảnh quan thiên nhiên, di tích lịch sử - văn hóa; bảo vệ rừng đặc dụng, công trình hạ tầng, việc thăm dò, khai thác khoáng sản có thể bị hạn chế về:",
+                    "text": "Căn cứ vào yêu cầu bảo đảm quốc phòng, an ninh; ngăn ngừa, giảm thiểu tác động đến môi trường, cảnh quan thiên nhiên, di tích lịch sử - văn hóa; bảo vệ rừng đặc dụng, công trình hạ tầng, việc thăm dò, khai thác khoáng sản có thể bị hạn chế về: Căn cứ yêu cầu của bộ, cơ quan ngang bộ, cơ quan quản lý nhà nước có thẩm quyền cấp giấy phép quy định tại Điều 82 của Luật này quyết định hình thức hạn chế hoạt động khoáng sản.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -942,7 +959,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Khu vực có khoáng sản phân tán, nhỏ lẻ là khu vực chỉ phù hợp với hình thức khai thác nhỏ được xác định trên cơ sở kết quả đánh giá khoáng sản trong giai đoạn điều tra cơ bản địa chất về khoáng sản hoặc kết quả thăm dò khoáng sản được cơ quan nhà nước có thẩm quyền phê duyệt.",
+                    "text": "Khu vực có khoáng sản phân tán, nhỏ lẻ là khu vực chỉ phù hợp với hình thức khai thác nhỏ được xác định trên cơ sở kết quả đánh giá khoáng sản trong giai đoạn điều tra cơ bản địa chất về khoáng sản hoặc kết quả thăm dò khoáng sản được cơ quan nhà nước có thẩm quyền phê duyệt. Khu vực có khoáng sản phân tán, nhỏ lẻ được giới hạn bởi các đoạn thẳng nối các điểm khép góc thể hiện trên bản đồ địa hình hệ tọa độ quốc gia với tỷ lệ thích hợp.",
                     "sub_clauses": []
                 },
                 {
@@ -1037,7 +1054,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ Tài nguyên và Môi trường chủ trì, phối hợp với bộ, cơ quan ngang bộ có liên quan khoanh định, trình Thủ tướng Chính phủ quyết định khu vực dự trữ khoáng sản quốc gia.",
+                    "text": "Bộ Tài nguyên và Môi trường chủ trì, phối hợp với bộ, cơ quan ngang bộ có liên quan khoanh định, trình Thủ tướng Chính phủ quyết định khu vực dự trữ khoáng sản quốc gia. CHƯƠNG VI BẢO VỆ MÔI TRƯỜNG, SỬ DỤNG ĐẤT, NƯỚC, HẠ TẦNG KỸ THUẬT TRONG HOẠT ĐỘNG KHOÁNG SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -1098,7 +1115,13 @@
         {
             "id": "Điều 33",
             "title": "Bảo hiểm trong hoạt động khoáng sản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân hoạt động khoáng sản phải mua bảo hiểm phương tiện, công trình phục vụ hoạt động khoáng sản và các bảo hiểm khác theo quy định của pháp luật. CHƯƠNG VII THĂM DÒ KHOÁNG SẢN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 34",
@@ -1181,7 +1204,13 @@
         {
             "id": "Điều 37",
             "title": "Lựa chọn diện tích lập đề án thăm dò khoáng sản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân quy định tại Điều 34 của Luật này có nhu cầu thăm dò khoáng sản được tiến hành khảo sát tại thực địa, lấy mẫu trên mặt đất để lựa chọn diện tích lập đề án thăm dò khoáng sản sau khi có sự chấp thuận bằng văn bản của Ủy ban nhân dân cấp tỉnh nơi có khu vực dự kiến thăm dò khoáng sản.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 38",
@@ -1345,7 +1374,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Giấy phép thăm dò khoáng sản có thời hạn không quá 48 tháng và có thể được gia hạn nhiều lần, nhưng tổng thời gian gia hạn không quá 48 tháng; mỗi lần gia hạn, tổ chức, cá nhân thăm dò khoáng sản phải trả lại ít nhất 30% diện tích khu vực thăm dò khoáng sản theo giấy phép đã cấp.",
+                    "text": "Giấy phép thăm dò khoáng sản có thời hạn không quá 48 tháng và có thể được gia hạn nhiều lần, nhưng tổng thời gian gia hạn không quá 48 tháng; mỗi lần gia hạn, tổ chức, cá nhân thăm dò khoáng sản phải trả lại ít nhất 30% diện tích khu vực thăm dò khoáng sản theo giấy phép đã cấp. Thời hạn thăm dò khoáng sản bao gồm thời gian thực hiện đề án thăm dò khoáng sản, thời gian trình phê duyệt trữ lượng khoáng sản và thời gian lập dự án đầu tư khai thác khoáng sản; trường hợp chuyển nhượng quyền thăm dò khoáng sản cho tổ chức, cá nhân khác thì thời hạn thăm dò là thời gian còn lại của Giấy phép thăm dò khoáng sản đã cấp trước đó.",
                     "sub_clauses": []
                 }
             ]
@@ -1461,7 +1490,13 @@
         {
             "id": "Điều 44",
             "title": "Thăm dò khoáng sản độc hại",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngoài việc thực hiện nghĩa vụ quy định tại khoản 2 Điều 42 của Luật này, tổ chức, cá nhân thăm dò khoáng sản độc hại phải thực hiện các biện pháp ngăn ngừa ô nhiễm môi trường, tác động xấu đến sức khỏe con người; trường hợp đã gây ô nhiễm môi trường thì phải xác định đầy đủ các yếu tố gây ô nhiễm, thực hiện các biện pháp khắc phục, giảm thiểu ô nhiễm; trường hợp thăm dò khoáng sản độc hại có chứa chất phóng xạ còn phải thực hiện quy định của Luật năng lượng nguyên tử và các quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 45",
@@ -1469,7 +1504,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tổ chức, cá nhân thăm dò khoáng sản ở khu vực không đấu giá quyền khai thác khoáng sản được ưu tiên cấp Giấy phép khai thác khoáng sản đối với trữ lượng khoáng sản đã được cơ quan nhà nước có thẩm quyền phê duyệt trong thời hạn 06 tháng, kể từ ngày Giấy phép thăm dò khoáng sản hết hạn.",
+                    "text": "Tổ chức, cá nhân thăm dò khoáng sản ở khu vực không đấu giá quyền khai thác khoáng sản được ưu tiên cấp Giấy phép khai thác khoáng sản đối với trữ lượng khoáng sản đã được cơ quan nhà nước có thẩm quyền phê duyệt trong thời hạn 06 tháng, kể từ ngày Giấy phép thăm dò khoáng sản hết hạn. Hết thời hạn ưu tiên quy định tại khoản này, tổ chức, cá nhân đã thăm dò không đề nghị cấp Giấy phép khai thác khoáng sản đối với khu vực đã thăm dò thì mất quyền ưu tiên đề nghị cấp Giấy phép khai thác khoáng sản.",
                     "sub_clauses": []
                 },
                 {
@@ -1669,7 +1704,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thẩm quyền phê duyệt trữ lượng khoáng sản được quy định như sau:",
+                    "text": "Thẩm quyền phê duyệt trữ lượng khoáng sản được quy định như sau: Chính phủ quy định tổ chức và hoạt động của Hội đồng đánh giá trữ lượng khoáng sản quốc gia;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1683,7 +1718,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức, cá nhân thăm dò khoáng sản thuộc thẩm quyền cấp giấy phép của Bộ Tài nguyên và Môi trường phải nộp báo cáo kết quả thăm dò khoáng sản kèm theo quyết định phê duyệt trữ lượng khoáng sản cho Bộ Tài nguyên và Môi trường.",
+                    "text": "Tổ chức, cá nhân thăm dò khoáng sản thuộc thẩm quyền cấp giấy phép của Bộ Tài nguyên và Môi trường phải nộp báo cáo kết quả thăm dò khoáng sản kèm theo quyết định phê duyệt trữ lượng khoáng sản cho Bộ Tài nguyên và Môi trường. Tổ chức, cá nhân thăm dò khoáng sản thuộc thẩm quyền cấp giấy phép của Ủy ban nhân dân cấp tỉnh phải nộp báo cáo kết quả thăm dò khoáng sản kèm theo quyết định phê duyệt trữ lượng khoáng sản cho Ủy ban nhân dân cấp tỉnh và Bộ Tài nguyên và Môi trường.",
                     "sub_clauses": []
                 },
                 {
@@ -1726,7 +1761,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định thủ tục thẩm định, phê duyệt trữ lượng khoáng sản.",
+                    "text": "Chính phủ quy định thủ tục thẩm định, phê duyệt trữ lượng khoáng sản. CHƯƠNG VIII KHAI THÁC KHOÁNG SẢN VÀ KHAI THÁC TẬN THU KHOÁNG SẢN Mục 1 KHAI THÁC KHOÁNG SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -1847,7 +1882,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Giấy phép khai thác khoáng sản có thời hạn không quá 30 năm và có thể được gia hạn nhiều lần, nhưng tổng thời gian gia hạn không quá 20 năm.",
+                    "text": "Giấy phép khai thác khoáng sản có thời hạn không quá 30 năm và có thể được gia hạn nhiều lần, nhưng tổng thời gian gia hạn không quá 20 năm. Trường hợp chuyển nhượng quyền khai thác khoáng sản cho tổ chức, cá nhân khác thì thời hạn khai thác là thời gian còn lại của Giấy phép khai thác khoáng sản đã cấp trước đó.",
                     "sub_clauses": []
                 }
             ]
@@ -1949,7 +1984,13 @@
         {
             "id": "Điều 56",
             "title": "Khai thác khoáng sản độc hại có chứa chất phóng xạ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngoài việc thực hiện nghĩa vụ quy định tại khoản 2 Điều 55 của Luật này, tổ chức, cá nhân khai thác khoáng sản độc hại có chứa chất phóng xạ còn phải thực hiện quy định của Luật năng lượng nguyên tử và các quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 57",
@@ -2223,7 +2264,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Giám đốc điều hành mỏ phải có các tiêu chuẩn sau đây:",
+                    "text": "Giám đốc điều hành mỏ phải có các tiêu chuẩn sau đây: Giám đốc điều hành khai thác lộ thiên mỏ không kim loại không sử dụng vật liệu nổ công nghiệp, khai thác bằng phương pháp thủ công khoáng sản làm vật liệu xây dựng thông thường thì phải có trình độ trung cấp khai thác mỏ và có thời gian trực tiếp khai thác khoáng sản tại mỏ lộ thiên ít nhất là 02 năm; trường hợp có trình độ trung cấp địa chất thăm dò thì phải được tập huấn về kỹ thuật khai thác mỏ và có thời gian trực tiếp khai thác khoáng sản tại mỏ lộ thiên ít nhất là 03 năm.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2319,7 +2360,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức, cá nhân khai thác khoáng sản làm vật liệu xây dựng thông thường không phải đề nghị cấp Giấy phép khai thác khoáng sản trong các trường hợp sau đây:",
+                    "text": "Tổ chức, cá nhân khai thác khoáng sản làm vật liệu xây dựng thông thường không phải đề nghị cấp Giấy phép khai thác khoáng sản trong các trường hợp sau đây: Trước khi tiến hành khai thác khoáng sản, tổ chức, cá nhân phải đăng ký khu vực, công suất, khối lượng, phương pháp, thiết bị và kế hoạch khai thác tại Ủy ban nhân dân cấp tỉnh;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2389,7 +2430,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết việc chuyển nhượng quyền khai thác khoáng sản.",
+                    "text": "Chính phủ quy định chi tiết việc chuyển nhượng quyền khai thác khoáng sản. Mục 2 KHAI THÁC TẬN THU KHOÁNG SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -2397,12 +2438,24 @@
         {
             "id": "Điều 67",
             "title": "Khai thác tận thu khoáng sản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khai thác tận thu khoáng sản là hoạt động khai thác khoáng sản còn lại ở bãi thải của mỏ đã có quyết định đóng cửa mỏ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 68",
             "title": "Thời hạn Giấy phép khai thác tận thu khoáng sản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Giấy phép khai thác tận thu khoáng sản có thời hạn không quá 05 năm, kể cả thời gian gia hạn Giấy phép.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 69",
@@ -2548,7 +2601,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trường hợp Giấy phép khai thác tận thu khoáng sản bị thu hồi theo quy định tại điểm b khoản 1 Điều này thì tổ chức, cá nhân khai thác tận thu khoáng sản được bồi thường thiệt hại theo quy định của pháp luật.",
+                    "text": "Trường hợp Giấy phép khai thác tận thu khoáng sản bị thu hồi theo quy định tại điểm b khoản 1 Điều này thì tổ chức, cá nhân khai thác tận thu khoáng sản được bồi thường thiệt hại theo quy định của pháp luật. Mục 3 ĐÓNG CỬA MỎ KHOÁNG SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -2557,6 +2610,11 @@
             "id": "Điều 73",
             "title": "Đóng cửa mỏ khoáng sản",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân khai thác khoáng sản phải lập đề án đóng cửa mỏ đối với toàn bộ hoặc một phần diện tích khai thác khoáng sản trong các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Đã khai thác hết toàn bộ hoặc một phần trữ lượng;",
@@ -2596,7 +2654,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ Tài nguyên và Môi trường quy định nội dung, thủ tục phê duyệt, nghiệm thu kết quả thực hiện đề án đóng cửa mỏ khoáng sản và quyết định đóng cửa mỏ khoáng sản.",
+                    "text": "Bộ Tài nguyên và Môi trường quy định nội dung, thủ tục phê duyệt, nghiệm thu kết quả thực hiện đề án đóng cửa mỏ khoáng sản và quyết định đóng cửa mỏ khoáng sản. CHƯƠNG IX TÀI CHÍNH VỀ KHOÁNG SẢN VÀ ĐẤU GIÁ QUYỀN KHAI THÁC KHOÁNG SẢN Mục 1 TÀI CHÍNH VỀ KHOÁNG SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -2638,7 +2696,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định cụ thể phương pháp tính, mức thu tiền cấp quyền khai thác khoáng sản.",
+                    "text": "Chính phủ quy định cụ thể phương pháp tính, mức thu tiền cấp quyền khai thác khoáng sản. Mục 2 ĐẤU GIÁ QUYỀN KHAI THÁC KHOÁNG SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -2689,7 +2747,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định nguyên tắc, điều kiện, thủ tục đấu giá quyền khai thác khoáng sản.",
+                    "text": "Chính phủ quy định nguyên tắc, điều kiện, thủ tục đấu giá quyền khai thác khoáng sản. CHƯƠNG X TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ KHOÁNG SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -2866,7 +2924,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức và hoạt động của thanh tra chuyên ngành về khoáng sản thực hiện theo quy định của Luật này và pháp luật về thanh tra.",
+                    "text": "Tổ chức và hoạt động của thanh tra chuyên ngành về khoáng sản thực hiện theo quy định của Luật này và pháp luật về thanh tra. CHƯƠNG XI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2895,13 +2953,29 @@
         {
             "id": "Điều 85",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2011. Luật khoáng sản ngày 20 tháng 3 năm 1996 và Luật sửa đổi, bổ sung một số điều của Luật khoáng sản số 46/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 86",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 8 thông qua ngày 17 tháng 11 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 8 thông qua ngày 17 tháng 11 năm 2010.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Phú Trọng"
+    ]
 }

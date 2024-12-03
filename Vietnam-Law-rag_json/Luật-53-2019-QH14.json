@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về xây dựng, huy động lực lượng dự bị động viên; chế độ, chính sách; trách nhiệm của cơ quan, tổ chức, cá nhân trong xây dựng, huy động lực lượng dự bị động viên."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -644,6 +658,20 @@
         "text": "Nam quân nhân chuyên nghiệp dự bị và hạ sĩ quan, binh sĩ dự bị không quá 45 tuổi; nữ quân nhân dự bị không quá 40 tuổi được sắp xếp vào đơn vị bảo đảm chiến đấu."
     },
     {
+        "id": "Điều 18.0",
+        "article": "Điều 18",
+        "clause": "0",
+        "title": "Sắp xếp phương tiện kỹ thuật dự bị vào đơn vị dự bị động viên",
+        "text": "Phương tiện kỹ thuật dự bị được sắp xếp vào đơn vị dự bị động viên có tính năng đúng yêu cầu sử dụng trong biên chế của từng đơn vị Quân đội nhân dân; trường hợp không có thì sắp xếp phương tiện kỹ thuật dự bị có tính năng tương tự."
+    },
+    {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Thẩm quyền sắp xếp quân nhân dự bị, phương tiện kỹ thuật dự bị vào đơn vị dự bị động viên",
+        "text": "Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện chủ trì, phối hợp với đơn vị thường trực của Quân đội nhân dân có chỉ tiêu tiếp nhận lực lượng dự bị động viên thực hiện việc sắp xếp quân nhân dự bị, phương tiện kỹ thuật dự bị vào đơn vị dự bị động viên."
+    },
+    {
         "id": "Điều 20.1",
         "article": "Điều 20",
         "clause": "1",
@@ -1057,6 +1085,13 @@
         "text": "Quân nhân dự bị tham gia bảo hiểm xã hội, bảo hiểm y tế mà bị ốm đau, bị tai nạn, chết hoặc bị suy giảm khả năng lao động thì được hưởng chế độ, chính sách theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế; trường hợp không tham gia bảo hiểm xã hội, bảo hiểm y tế thì được hưởng chế độ, chính sách theo quy định của Chính phủ."
     },
     {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Chế độ trợ cấp đối với gia đình quân nhân dự bị",
+        "text": "Gia đình quân nhân dự bị được hưởng trợ cấp trong thời gian quân nhân dự bị tập trung huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu và huy động khi chưa đến mức tổng động viên hoặc động viên cục bộ theo quy định của Chính phủ."
+    },
+    {
         "id": "Điều 32.1",
         "article": "Điều 32",
         "clause": "1",
@@ -1379,6 +1414,13 @@
         "text": "Kiểm tra, thanh tra, xử lý vi phạm, giải quyết khiếu nại, tố cáo, sơ kết, tổng kết, thi đua, khen thưởng về xây dựng, huy động lực lượng dự bị động viên."
     },
     {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Quốc phòng",
+        "text": "Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về xây dựng, huy động lực lượng dự bị động viên và có trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 36.1",
         "article": "Điều 36",
         "clause": "1",
@@ -1498,6 +1540,20 @@
         "text": "Chủ trì, phối hợp với đơn vị Quân đội nhân dân thực hiện xây dựng, huy động, tiếp nhận lực lượng dự bị động viên."
     },
     {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận",
+        "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tuyên truyền, vận động Nhân dân thực hiện pháp luật về lực lượng dự bị động viên; giám sát việc thực hiện pháp luật về lực lượng dự bị động viên."
+    },
+    {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Trách nhiệm của cơ quan, tổ chức",
+        "text": "Cơ quan, tổ chức nơi quân nhân dự bị đang lao động, học tập, làm việc có trách nhiệm phối hợp với địa phương bố trí thời gian cho quân nhân dự bị tập trung huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu và thực hiện nhiệm vụ khi chưa đến mức tổng động viên hoặc động viên cục bộ; tiếp nhận, bố trí công việc cho quân nhân dự bị khi kết thúc huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu và thực hiện xong nhiệm vụ. Chương V ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
         "id": "Điều 41.1",
         "article": "Điều 41",
         "clause": "1",
@@ -1509,6 +1565,6 @@
         "article": "Điều 41",
         "clause": "2",
         "title": "Hiệu lực thi hành",
-        "text": "Pháp lệnh về lực lượng dự bị động viên ngày 27 tháng 8 năm 1996 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 26 tháng 11 năm 2019."
+        "text": "Pháp lệnh về lực lượng dự bị động viên ngày 27 tháng 8 năm 1996 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 26 tháng 11 năm 2019. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

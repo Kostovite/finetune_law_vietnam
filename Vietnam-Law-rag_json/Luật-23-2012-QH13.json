@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định việc thành lập, tổ chức và hoạt động của hợp tác xã, liên hiệp hợp tác xã trong các ngành, lĩnh vực của nền kinh tế."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với hợp tác xã, liên hiệp hợp tác xã, thành viên hợp tác xã (sau đây gọi là thành viên), hợp tác xã thành viên của liên hiệp hợp tác xã (sau đây gọi là hợp tác xã thành viên) và tổ chức, hộ gia đình, cá nhân có liên quan đến việc thành lập, tổ chức, hoạt động của hợp tác xã, liên hiệp hợp tác xã."
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -19,6 +33,13 @@
         "clause": "3",
         "title": "Hợp tác xã, liên hiệp hợp tác xã",
         "text": "Khi hợp tác xã, liên hiệp hợp tác xã phát triển đến trình độ cao hơn thì sẽ hình thành các doanh nghiệp của hợp tác xã, liên hiệp hợp tác xã; doanh nghiệp của hợp tác xã, liên hiệp hợp tác xã hoạt động theo Luật doanh nghiệp."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 4.1",
@@ -1330,6 +1351,13 @@
         "text": "Chính phủ quy định cơ quan nhà nước có thẩm quyền cấp giấy chứng nhận đăng ký; trình tự, thủ tục cấp và nội dung của giấy chứng nhận đăng ký."
     },
     {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Điều kiện cấp giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã",
+        "text": "Hợp tác xã, liên hiệp hợp tác xã được cấp giấy chứng nhận đăng ký khi có đủ các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 24.1",
         "article": "Điều 24",
         "clause": "1",
@@ -1356,6 +1384,13 @@
         "clause": "4",
         "title": "Điều kiện cấp giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã",
         "text": "Có trụ sở chính theo quy định tại Điều 26 của Luật này."
+    },
+    {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Sổ đăng ký thành viên, hợp tác xã thành viên",
+        "text": "Hợp tác xã, liên hiệp hợp tác xã phải lập sổ đăng ký thành viên, hợp tác xã thành viên ngay sau khi được cấp giấy chứng nhận đăng ký. Sổ đăng ký phải có các nội dung sau đây:"
     },
     {
         "id": "Điều 25.1",
@@ -1421,6 +1456,13 @@
         "text": "Chữ ký của người đại diện theo pháp luật của hợp tác xã, liên hiệp hợp tác xã."
     },
     {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Trụ sở chính của hợp tác xã, liên hiệp hợp tác xã",
+        "text": "Trụ sở chính của hợp tác xã, liên hiệp hợp tác xã là địa điểm giao dịch của hợp tác xã, liên hiệp hợp tác xã trên lãnh thổ Việt Nam, có địa chỉ được xác định gồm số nhà, tên đường, phố, xã, phường, thị trấn, huyện, quận, thị xã, thành phố thuộc tỉnh, tỉnh, thành phố trực thuộc trung ương; số điện thoại, số fax và thư điện tử (nếu có)."
+    },
+    {
         "id": "Điều 27.1",
         "article": "Điều 27",
         "clause": "1",
@@ -1461,6 +1503,13 @@
         "clause": "2",
         "title": "Thay đổi nội dung đăng ký của hợp tác xã, liên hiệp hợp tác xã",
         "text": "Khi hợp tác xã, liên hiệp hợp tác xã thay đổi nội dung điều lệ, số lượng thành viên, hợp tác xã thành viên, thành viên hội đồng quản trị, ban kiểm soát hoặc kiểm soát viên, địa điểm kinh doanh thì phải gửi thông báo đến cơ quan nhà nước có thẩm quyền đã cấp giấy chứng nhận đăng ký trong thời hạn 15 ngày, kể từ ngày thay đổi. CHƯƠNG IV TỔ CHỨC QUẢN LÝ HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ"
+    },
+    {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Cơ cấu tổ chức",
+        "text": "Cơ cấu tổ chức hợp tác xã, liên hiệp hợp tác xã gồm đại hội thành viên, hội đồng quản trị, giám đốc (tổng giám đốc) và ban kiểm soát hoặc kiểm soát viên."
     },
     {
         "id": "Điều 30.1",
@@ -1517,6 +1566,13 @@
         "clause": "5",
         "title": "Đại hội thành viên",
         "text": "Đại biểu tham dự đại hội đại biểu thành viên phải thể hiện được ý kiến, nguyện vọng và có trách nhiệm thông tin về kết quả đại hội cho tất cả thành viên, hợp tác xã thành viên mà mình đại diện."
+    },
+    {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Triệu tập đại hội thành viên",
+        "text": "­1. Đại hội thành viên thường niên phải được họp trong thời hạn 03 tháng, kể từ ngày kết thúc năm tài chính do hội đồng quản trị triệu tập. Đại hội thành viên bất thường do hội đồng quản trị, ban kiểm soát hoặc kiểm soát viên hoặc thành viên đại diện của ít nhất một phần ba tổng số thành viên, hợp tác xã thành viên triệu tập theo quy định tại các khoản 2, 3 và 4 Điều này."
     },
     {
         "id": "Điều 31.2",
@@ -1580,6 +1636,13 @@
         "clause": "6",
         "title": "Triệu tập đại hội thành viên",
         "text": "Đại hội thành viên được tiến hành khi có ít nhất 75% tổng số thành viên, hợp tác xã thành viên hoặc đại biểu thành viên tham dự; trường hợp không đủ số lượng thành viên thì phải hoãn đại hội thành viên. Trường hợp cuộc họp lần thứ nhất không đủ điều kiện tiến hành thì triệu tập họp lần thứ hai trong thời hạn 30 ngày, kể từ ngày dự định họp lần thứ nhất. Cuộc họp của đại hội thành viên lần thứ hai được tiến hành khi có ít nhất 50% tổng số thành viên, hợp tác xã thành viên hoặc đại biểu thành viên tham dự. Trường hợp cuộc họp lần thứ hai không đủ điều kiện tiến hành thì triệu tập họp lần thứ ba trong thời hạn 20 ngày, kể từ ngày dự định họp lần thứ hai. Trong trường hợp này, cuộc họp của đại hội thành viên được tiến hành không phụ thuộc vào số thành viên tham dự."
+    },
+    {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Quyền hạn và nhiệm vụ của đại hội thành viên",
+        "text": "Đại hội thành viên quyết định các nội dung sau đây:"
     },
     {
         "id": "Điều 32.1",
@@ -2457,6 +2520,13 @@
         "text": "Việc sử dụng vốn của hợp tác xã, liên hiệp hợp tác xã để góp vốn, mua cổ phần, thành lập doanh nghiệp do Chính phủ quy định."
     },
     {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Phân phối thu nhập",
+        "text": "Sau khi hoàn thành nghĩa vụ tài chính theo quy định của pháp luật, thu nhập của hợp tác xã, liên hiệp hợp tác xã được phân phối như sau:"
+    },
+    {
         "id": "Điều 46.1",
         "article": "Điều 46",
         "clause": "1",
@@ -2933,6 +3003,20 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Giải quyết yêu cầu tuyên bố phá sản đối với hợp tác xã, liên hiệp hợp tác xã",
+        "text": "Việc giải quyết phá sản đối với hợp tác xã, liên hiệp hợp tác xã được thực hiện theo quy định của pháp luật về phá sản, trừ việc giải quyết tài sản không chia quy định tại khoản 2 Điều 48 của Luật này."
+    },
+    {
+        "id": "Điều 56.0",
+        "article": "Điều 56",
+        "clause": "0",
+        "title": "Thu hồi giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã",
+        "text": "Hợp tác xã, liên hiệp hợp tác xã bị thu hồi giấy chứng nhận đăng ký thuộc một trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 56.1",
         "article": "Điều 56",
         "clause": "1",
@@ -2980,6 +3064,13 @@
         "clause": "7",
         "title": "Thu hồi giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã",
         "text": "Chuyển trụ sở chính sang địa phương khác với nơi đăng ký trong thời hạn 01 năm mà không đăng ký với cơ quan nhà nước có thẩm quyền. CHƯƠNG VII TỔ CHỨC ĐẠI DIỆN CỦA HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ"
+    },
+    {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Tổ chức đại diện của hợp tác xã, liên hiệp hợp tác xã",
+        "text": "Tổ chức đại diện của hợp tác xã, liên hiệp hợp tác xã do các hợp tác xã, liên hiệp hợp tác xã tự nguyện thành lập nhằm bảo vệ quyền, lợi ích hợp pháp của mình. Tổ chức đại diện của hợp tác xã, liên hiệp hợp tác xã có thể được tổ chức theo ngành, lĩnh vực, vùng lãnh thổ; được tổ chức, hoạt động theo quy định của pháp luật về hội và pháp luật có liên quan."
     },
     {
         "id": "Điều 58.1",
@@ -3169,5 +3260,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Luật hợp tác xã số 18/2003/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 64.0",
+        "article": "Điều 64",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 4 thông qua ngày 20 tháng 11 năm 2012. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

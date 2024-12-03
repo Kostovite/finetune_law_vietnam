@@ -1,5 +1,33 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về tổ chức và hoạt động xuất bản; quyền và nghĩa vụ của cơ quan, tổ chức, cá nhân tham gia hoạt động xuất bản. Hoạt động xuất bản bao gồm các lĩnh vực xuất bản, in và phát hành xuất bản phẩm."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân trong nước, tổ chức nước ngoài hoạt động trên lãnh thổ Việt Nam, cá nhân nước ngoài cư trú tại Việt Nam có liên quan đến hoạt động xuất bản."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Vị trí, mục đích của hoạt động xuất bản",
+        "text": "Hoạt động xuất bản thuộc lĩnh vực văn hóa, tư tưởng nhằm phổ biến, giới thiệu tri thức thuộc các lĩnh vực của đời sống xã hội, giá trị văn hóa dân tộc và tinh hoa văn hóa nhân loại, đáp ứng nhu cầu đời sống tinh thần của nhân dân, nâng cao dân trí, xây dựng đạo đức và lối sống tốt đẹp của người Việt Nam, mở rộng giao lưu văn hóa với các nước, phát triển kinh tế - xã hội, đấu tranh chống mọi tư tưởng và hành vi làm tổn hại lợi ích quốc gia, góp phần vào sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 4.1",
         "article": "Điều 4",
         "clause": "1",
@@ -343,6 +371,13 @@
         "text": "Chính phủ quy định chi tiết điều kiện thành lập và nội dung hoạt động, thủ tục cấp, cấp đổi, cấp lại, gia hạn giấy phép thành lập văn phòng đại diện tại Việt Nam của nhà xuất bản nước ngoài, tổ chức phát hành xuất bản phẩm nước ngoài."
     },
     {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Khiếu nại, tố cáo trong hoạt động xuất bản",
+        "text": "Việc khiếu nại, tố cáo trong hoạt động xuất bản được thực hiện theo quy định của pháp luật về khiếu nại, tố cáo."
+    },
+    {
         "id": "Điều 10.1",
         "article": "Điều 10",
         "clause": "1",
@@ -495,6 +530,13 @@
         "clause": "2",
         "title": "Đối tượng thành lập nhà xuất bản và loại hình tổ chức nhà xuất bản",
         "text": "Nhà xuất bản tổ chức và hoạt động theo loại hình đơn vị sự nghiệp công lập hoặc doanh nghiệp kinh doanh có điều kiện do Nhà nước là chủ sở hữu."
+    },
+    {
+        "id": "Điều 13.0",
+        "article": "Điều 13",
+        "clause": "0",
+        "title": "Điều kiện thành lập nhà xuất bản",
+        "text": "Việc thành lập nhà xuất bản phải có đủ các điều kiện sau đây:"
     },
     {
         "id": "Điều 13.1",
@@ -1120,6 +1162,13 @@
         "text": "Chứng chỉ hành nghề biên tập được cấp lại trong trường hợp bị mất hoặc bị hư hỏng."
     },
     {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Quyền tác giả trong lĩnh vực xuất bản",
+        "text": "Việc xuất bản tác phẩm, tài liệu và tái bản xuất bản phẩm chỉ được thực hiện sau khi có văn bản chấp thuận của tác giả, chủ sở hữu quyền tác giả theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 22.1",
         "article": "Điều 22",
         "clause": "1",
@@ -1363,6 +1412,13 @@
         "clause": "7g",
         "title": "Liên kết trong hoạt động xuất bản",
         "text": "Chịu trách nhiệm trước pháp luật về hoạt động liên kết xuất bản và xuất bản phẩm liên kết."
+    },
+    {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Tác phẩm, tài liệu phải thẩm định nội dung trước khi tái bản",
+        "text": "Tác phẩm, tài liệu sau đây nếu nội dung có dấu hiệu vi phạm quy định tại khoản 1 Điều 10 của Luật này thì nhà xuất bản phải tổ chức thẩm định trước khi đăng ký xuất bản để tái bản:"
     },
     {
         "id": "Điều 24.1",
@@ -2492,6 +2548,13 @@
         "text": "Xuất bản phẩm có nội dung vi phạm khoản 1 Điều 10 của Luật này không được đưa vào Việt Nam dưới mọi hình thức."
     },
     {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Xuất khẩu xuất bản phẩm",
+        "text": "Xuất bản phẩm đã được xuất bản và lưu hành hợp pháp tại Việt Nam được phép xuất khẩu ra nước ngoài."
+    },
+    {
         "id": "Điều 44.1",
         "article": "Điều 44",
         "clause": "1",
@@ -2709,6 +2772,13 @@
         "text": "Việc chuyển xuất bản phẩm điện tử sang xuất bản phẩm in để phổ biến tới nhiều người phải tuân thủ các quy định của Luật này và pháp luật về sở hữu trí tuệ."
     },
     {
+        "id": "Điều 47.0",
+        "article": "Điều 47",
+        "clause": "0",
+        "title": "Kỹ thuật, công nghệ để xuất bản và phát hành xuất bản phẩm điện tử",
+        "text": "Cơ quan, tổ chức, cá nhân xuất bản và phát hành xuất bản phẩm điện tử phải:"
+    },
+    {
         "id": "Điều 47.1",
         "article": "Điều 47",
         "clause": "1",
@@ -2742,6 +2812,13 @@
         "clause": "3",
         "title": "Nộp lưu chiểu xuất bản phẩm điện tử và nộp cho Thư viện Quốc gia Việt Nam",
         "text": "Thư viện Quốc gia Việt Nam lưu trữ và chỉ được sử dụng xuất bản phẩm điện tử vào việc phục vụ bạn đọc tại Thư viện Quốc gia Việt Nam theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Quảng cáo trên xuất bản phẩm điện tử",
+        "text": "Việc quảng cáo trên xuất bản phẩm điện tử thực hiện theo quy định sau đây:"
     },
     {
         "id": "Điều 49.1",
@@ -2903,5 +2980,33 @@
         "clause": "5b",
         "title": "Trách nhiệm của cơ quan, tổ chức, cá nhân xuất bản, phát hành xuất bản phẩm điện tử",
         "text": "Thực hiện các quy định của pháp luật về sở hữu trí tuệ hoặc yêu cầu cơ quan, tổ chức, cá nhân sử dụng dịch vụ phải thực hiện đúng quy định về sở hữu trí tuệ khi phát hành xuất bản phẩm điện tử."
+    },
+    {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Nhập khẩu xuất bản phẩm điện tử",
+        "text": "Cơ sở phát hành nhập khẩu xuất bản phẩm điện tử để kinh doanh hoặc phổ biến phải được cơ quan quản lý nhà nước về hoạt động xuất bản cấp giấy phép theo quy định của Luật này và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 52.0",
+        "article": "Điều 52",
+        "clause": "0",
+        "title": "Quy định chi tiết về xuất bản và phát hành xuất bản phẩm điện tử",
+        "text": "Chính phủ quy định chi tiết hoạt động xuất bản và phát hành xuất bản phẩm điện tử phù hợp với từng giai đoạn phát triển công nghệ. CHƯƠNG VI ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2013 và thay thế Luật xuất bản số 30/2004/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 12/2008/QH12."
+    },
+    {
+        "id": "Điều 54.0",
+        "article": "Điều 54",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 4 thông qua ngày 20 tháng 11 năm 2012. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

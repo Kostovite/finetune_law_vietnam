@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động chuyển giao công nghệ tại Việt Nam, từ nước ngoài vào Việt Nam, từ Việt Nam ra nước ngoài; quyền và nghĩa vụ của tổ chức, cá nhân tham gia hoạt động chuyển giao công nghệ; thẩm định công nghệ dự án đầu tư; hợp đồng chuyển giao công nghệ; biện pháp khuyến khích chuyển giao công nghệ, phát triển thị trường khoa học và công nghệ; quản lý nhà nước về chuyển giao công nghệ."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -369,6 +383,13 @@
         "clause": "3b",
         "title": "Quyền chuyển giao công nghệ",
         "text": "Quyền chuyển giao tiếp quyền sử dụng công nghệ của bên nhận chuyển giao cho bên thứ ba."
+    },
+    {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Góp vốn bằng công nghệ vào dự án đầu tư",
+        "text": "Tổ chức, cá nhân có quyền chuyển giao công nghệ quy định tại Điều 7 của Luật này được quyền góp vốn bằng công nghệ vào dự án đầu tư; trường hợp dự án đầu tư có sử dụng vốn nhà nước thì công nghệ đưa vào góp vốn phải được thẩm định giá theo quy định của pháp luật."
     },
     {
         "id": "Điều 9.1",
@@ -922,6 +943,13 @@
         "clause": "2đ",
         "title": "Nội dung giải trình về sử dụng công nghệ trong hồ sơ dự án đầu tư",
         "text": "Chi phí đầu tư cho công nghệ, máy móc, thiết bị, đào tạo, hỗ trợ kỹ thuật."
+    },
+    {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Trình tự thẩm định hoặc có ý kiến về công nghệ dự án đầu tư trong giai đoạn quyết định chủ trương đầu tư",
+        "text": "Trình tự thẩm định hoặc có ý kiến về công nghệ trong giai đoạn quyết định chủ trương đầu tư thực hiện như sau:"
     },
     {
         "id": "Điều 17.1",
@@ -2016,6 +2044,13 @@
         "text": "Bộ trưởng Bộ Khoa học và Công nghệ ban hành mẫu văn bản đề nghị gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ, mẫu Giấy chứng nhận đăng ký gia hạn, sửa đổi, bổ sung nội dung chuyển giao công nghệ."
     },
     {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Nghĩa vụ bảo mật trong việc cấp Giấy phép chuyển giao công nghệ, Giấy chứng nhận đăng ký chuyển giao công nghệ",
+        "text": "Cơ quan, cá nhân có trách nhiệm trong việc cấp Giấy phép chuyển giao công nghệ, Giấy chứng nhận đăng ký chuyển giao công nghệ có trách nhiệm giữ bí mật thông tin hồ sơ. Chương IV BIỆN PHÁP KHUYẾN KHÍCH CHUYỂN GIAO CÔNG NGHỆ, PHÁT TRIỂN THỊ TRƯỜNG KHOA HỌC VÀ CÔNG NGHỆ Mục 1. THÚC ĐẨY ỨNG DỤNG, ĐỔI MỚI CÔNG NGHỆ"
+    },
+    {
         "id": "Điều 35.1",
         "article": "Điều 35",
         "clause": "1",
@@ -2310,6 +2345,13 @@
         "text": "Thủ tướng Chính phủ quyết định việc thành lập, quản lý, sử dụng Quỹ Đổi mới công nghệ quốc gia."
     },
     {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Chính sách thuế để thúc đẩy hoạt động chuyển giao, ứng dụng, đổi mới công nghệ",
+        "text": "Những đối tượng sau đây được hưởng ưu đãi theo quy định của pháp luật về thuế:"
+    },
+    {
         "id": "Điều 39.1",
         "article": "Điều 39",
         "clause": "1",
@@ -2385,6 +2427,13 @@
         "clause": "2",
         "title": "Biện pháp phát triển thị trường khoa học và công nghệ",
         "text": "Căn cứ vào nhiệm vụ phát triển kinh tế - xã hội của đất nước trong từng thời kỳ, Bộ Khoa học và Công nghệ chủ trì, phối hợp với Bộ, cơ quan ngang Bộ có liên quan xây dựng, trình Thủ tướng Chính phủ phê duyệt chương trình để phát triển thị trường khoa học và công nghệ quốc gia."
+    },
+    {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Phát triển nguồn cung, nguồn cầu của thị trường khoa học và công nghệ",
+        "text": "Phát triển nguồn cung, nguồn cầu của thị trường khoa học và công nghệ thông qua các hoạt động sau đây:"
     },
     {
         "id": "Điều 42.1",
@@ -2730,6 +2779,13 @@
         "text": "Chính phủ quy định cụ thể thẩm quyền, trình tự, thủ tục, điều kiện cấp Giấy chứng nhận đủ điều kiện hoạt động dịch vụ đánh giá, giám định công nghệ; điều kiện đặc thù về nhân lực, cơ sở vật chất - kỹ thuật đối với tổ chức thực hiện hoạt động thẩm định giá công nghệ. Mục 4. CHUYỂN GIAO CÔNG NGHỆ CHO VÙNG NÔNG THÔN, MIỀN NÚI, HẢI ĐẢO, ĐỊA BÀN CÓ ĐIỀU KIỆN KINH TẾ - XÃ HỘI KHÓ KHĂN, ĐẶC BIỆT KHÓ KHĂN"
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Công nghệ khuyến khích chuyển giao cho vùng nông thôn, miền núi, hải đảo, địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn",
+        "text": "Công nghệ quy định tại Điều 9 của Luật này và công nghệ sau đây được khuyến khích chuyển giao cho vùng nông thôn, miền núi, hải đảo, địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn:"
+    },
+    {
         "id": "Điều 49.1",
         "article": "Điều 49",
         "clause": "1",
@@ -3031,6 +3087,13 @@
         "text": "Hằng năm, thống kê về tình hình chuyển giao, ứng dụng, đổi mới công nghệ và gửi Bộ Khoa học và Công nghệ."
     },
     {
+        "id": "Điều 56.0",
+        "article": "Điều 56",
+        "clause": "0",
+        "title": "Trách nhiệm của Ủy ban nhân dân cấp tỉnh",
+        "text": "Trong phạm vi chức năng, quyền hạn của mình, Ủy ban nhân dân cấp tỉnh thực hiện quản lý nhà nước về hoạt động chuyển giao công nghệ có trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 56.1",
         "article": "Điều 56",
         "clause": "1",
@@ -3080,6 +3143,13 @@
         "text": "Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo, xử lý vi phạm pháp luật về chuyển giao công nghệ theo thẩm quyền."
     },
     {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Thống kê chuyển giao, ứng dụng, đổi mới công nghệ",
+        "text": "Việc thống kê chuyển giao, ứng dụng, đổi mới công nghệ được thực hiện theo quy định của pháp luật về thống kê và các quy định sau đây:"
+    },
+    {
         "id": "Điều 57.1",
         "article": "Điều 57",
         "clause": "1",
@@ -3115,6 +3185,13 @@
         "text": "Bộ Khoa học và Công nghệ quy định cụ thể việc triển khai thu thập số liệu thống kê về chuyển giao, ứng dụng, đổi mới công nghệ."
     },
     {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Trách nhiệm của cơ quan đại diện ngoại giao Việt Nam ở nước ngoài đối với hoạt động chuyển giao công nghệ",
+        "text": "Cơ quan đại diện ngoại giao Việt Nam ở nước ngoài có trách nhiệm tìm kiếm công nghệ, hỗ trợ, thúc đẩy hoạt động chuyển giao công nghệ, tạo điều kiện thuận lợi cho tổ chức, cá nhân thực hiện hoạt động xúc tiến chuyển giao công nghệ từ nước ngoài vào Việt Nam và từ Việt Nam ra nước ngoài. Chương VI ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
         "id": "Điều 59.1",
         "article": "Điều 59",
         "clause": "1",
@@ -3147,6 +3224,6 @@
         "article": "Điều 60",
         "clause": "3",
         "title": "Quy định chuyển tiếp",
-        "text": "Tổ chức thực hiện dịch vụ đánh giá, thẩm định giá, giám định công nghệ được thành lập và hoạt động trước ngày Luật này có hiệu lực, trong thời hạn 12 tháng kể từ ngày Luật này có hiệu lực, phải tiến hành đăng ký đủ điều kiện hoạt động tại cơ quan quản lý nhà nước có thẩm quyền. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 19 tháng 6 năm 2017."
+        "text": "Tổ chức thực hiện dịch vụ đánh giá, thẩm định giá, giám định công nghệ được thành lập và hoạt động trước ngày Luật này có hiệu lực, trong thời hạn 12 tháng kể từ ngày Luật này có hiệu lực, phải tiến hành đăng ký đủ điều kiện hoạt động tại cơ quan quản lý nhà nước có thẩm quyền. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 19 tháng 6 năm 2017. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

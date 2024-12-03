@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về tài nguyên du lịch, phát triển sản phẩm du lịch và hoạt động du lịch; quyền, nghĩa vụ của khách du lịch, tổ chức, cá nhân kinh doanh du lịch, cơ quan, tổ chức, cá nhân khác, cộng đồng dân cư có hoạt động liên quan đến du lịch; quản lý nhà nước về du lịch."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -19,6 +26,13 @@
         "clause": "3",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan quản lý nhà nước về du lịch, cơ quan khác, tổ chức, cá nhân, cộng đồng dân cư có hoạt động liên quan đến du lịch."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -2443,6 +2457,13 @@
         "text": "Dịch vụ liên quan khác phục vụ khách du lịch."
     },
     {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Phát triển các loại dịch vụ du lịch khác",
+        "text": "Nhà nước khuyến khích tổ chức, cá nhân thực hiện các hoạt động sau đây:"
+    },
+    {
         "id": "Điều 55.1",
         "article": "Điều 55",
         "clause": "1",
@@ -3598,6 +3619,13 @@
         "text": "Thực hiện các nhiệm vụ khác theo quy định của Luật này."
     },
     {
+        "id": "Điều 76.0",
+        "article": "Điều 76",
+        "clause": "0",
+        "title": "Sửa đổi, bổ sung Danh mục phí, lệ phí ban hành kèm theo Luật Phí và lệ phí số 97/2015/QH13",
+        "text": "Sửa đổi, bổ sung mục 3.1 và mục 3.2 thuộc phần VII - Phí thuộc lĩnh vực văn hóa, thể thao, du lịch trong Danh mục phí, lệ phí ban hành kèm theo Luật Phí và lệ phí số 97/2015/QH13 như sau:"
+    },
+    {
         "id": "Điều 76.3.1",
         "article": "Điều 76",
         "clause": "3.1",
@@ -3651,6 +3679,6 @@
         "article": "Điều 78",
         "clause": "4",
         "title": "Quy định chuyển tiếp",
-        "text": "Cơ sở lưu trú du lịch đã được công nhận hạng theo quyết định của cơ quan nhà nước có thẩm quyền trước ngày Luật này có hiệu lực được tiếp tục sử dụng hạng đã được công nhận cho đến hết thời hạn theo quyết định. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 19 tháng 6 năm 2017."
+        "text": "Cơ sở lưu trú du lịch đã được công nhận hạng theo quyết định của cơ quan nhà nước có thẩm quyền trước ngày Luật này có hiệu lực được tiếp tục sử dụng hạng đã được công nhận cho đến hết thời hạn theo quyết định. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 19 tháng 6 năm 2017. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

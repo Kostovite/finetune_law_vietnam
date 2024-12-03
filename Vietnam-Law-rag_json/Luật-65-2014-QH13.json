@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về sở hữu, phát triển, quản lý, sử dụng nhà ở; giao dịch về nhà ở; quản lý nhà nước về nhà ở tại Việt Nam. Đối với giao dịch mua bán, cho thuê, cho thuê mua nhà ở thương mại của các doanh nghiệp, hợp tác xã kinh doanh bất động sản thì thực hiện theo quy định của pháp luật về kinh doanh bất động sản."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, hộ gia đình, cá nhân có liên quan đến sở hữu, phát triển, quản lý, sử dụng, giao dịch về nhà ở và quản lý nhà nước về nhà ở tại Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -131,6 +152,13 @@
         "clause": "19",
         "title": "Giải thích từ ngữ",
         "text": "Nhà ở hình thành trong tương lai là nhà ở đang trong quá trình đầu tư xây dựng và chưa được nghiệm thu đưa vào sử dụng."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Quyền có chỗ ở và quyền sở hữu nhà ở",
+        "text": "Hộ gia đình, cá nhân có quyền có chỗ ở thông qua việc đầu tư xây dựng, mua, thuê, thuê mua, nhận tặng cho, nhận thừa kế, nhận góp vốn, nhận đổi, mượn, ở nhờ, quản lý nhà ở theo ủy quyền và các hình thức khác theo quy định của pháp luật. Tổ chức, hộ gia đình, cá nhân có nhà ở hợp pháp thông qua các hình thức quy định tại khoản 2 Điều 8 của Luật này có quyền sở hữu đối với nhà ở đó theo quy định của Luật này."
     },
     {
         "id": "Điều 5.1",
@@ -1925,6 +1953,13 @@
         "text": "Các thành viên trong nhóm hợp tác phải thoả thuận về cách thức góp vốn, nhân công, vật liệu, thời gian thực hiện, quyền và nghĩa vụ của các thành viên và cam kết thực hiện thoả thuận của nhóm hợp tác. CHƯƠNG IV CHÍNH SÁCH VỀ NHÀ Ở XÃ HỘI Mục 1 NHỮNG QUY ĐỊNH CHUNG"
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Đối tượng được hưởng chính sách hỗ trợ về nhà ở xã hội",
+        "text": "Các đối tượng sau đây nếu đáp ứng điều kiện quy định tại Điều 51 của Luật này thì được hưởng chính sách hỗ trợ về nhà ở xã hội:"
+    },
+    {
         "id": "Điều 49.1",
         "article": "Điều 49",
         "clause": "1",
@@ -2385,6 +2420,13 @@
         "clause": "2",
         "title": "Ưu đãi đối với tổ chức tự lo chỗ ở cho người lao động",
         "text": "Trường hợp doanh nghiệp, hợp tác xã sản xuất công nghiệp, dịch vụ tự đầu tư xây dựng nhà ở để bố trí cho người lao động của doanh nghiệp mình ở mà không thu tiền thuê nhà hoặc có thu tiền thuê nhà với giá thuê không vượt quá giá thuê nhà ở xã hội do Ủy ban nhân dân cấp tỉnh ban hành thì ngoài các ưu đãi quy định tại khoản 1 Điều 58 của Luật này, doanh nghiệp này còn được tính chi phí xây dựng nhà ở vào giá thành sản xuất khi tính thuế thu nhập doanh nghiệp."
+    },
+    {
+        "id": "Điều 60.0",
+        "article": "Điều 60",
+        "clause": "0",
+        "title": "Xác định giá thuê, giá thuê mua nhà ở xã hội do Nhà nước đầu tư",
+        "text": "Việc xác định giá thuê, giá thuê mua nhà ở xã hội do Nhà nước đầu tư bằng nguồn vốn hoặc hình thức quy định tại khoản 1 Điều 53 của Luật này được thực hiện như sau:"
     },
     {
         "id": "Điều 60.1",
@@ -4634,6 +4676,13 @@
         "text": "Chính phủ quy định chi tiết việc phá dỡ nhà chung cư để cải tạo, xây dựng lại nhà chung cư và việc bố trí nhà ở cho người được tái định cư. CHƯƠNG VIII GIAO DỊCH VỀ NHÀ Ở Mục 1 QUY ĐỊNH CHUNG VỀ CÁC GIAO DỊCH VỀ NHÀ Ở"
     },
     {
+        "id": "Điều 117.0",
+        "article": "Điều 117",
+        "clause": "0",
+        "title": "Các hình thức giao dịch về nhà ở",
+        "text": "Giao dịch về nhà ở bao gồm các hình thức mua bán, cho thuê, cho thuê mua nhà ở, chuyển nhượng hợp đồng mua bán nhà ở thương mại, tặng cho, đổi, thừa kế, thế chấp, góp vốn, cho mượn, cho ở nhờ và uỷ quyền quản lý nhà ở."
+    },
+    {
         "id": "Điều 118.1",
         "article": "Điều 118",
         "clause": "1",
@@ -4914,6 +4963,13 @@
         "text": "Trường hợp bên mua nhà ở thương mại của chủ đầu tư nếu thuộc diện chưa nộp hồ sơ đề nghị cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận đối với nhà ở đó và có nhu cầu thì được chuyển nhượng hợp đồng mua bán nhà ở; bên nhận chuyển nhượng hợp đồng có trách nhiệm thực hiện đầy đủ nghĩa vụ theo hợp đồng mua bán nhà ở đã ký với chủ đầu tư. Trình tự, thủ tục chuyển nhượng, nội dung và mẫu văn bản chuyển nhượng hợp đồng mua bán nhà ở được thực hiện theo quy định của Bộ trưởng Bộ Xây dựng; bên chuyển nhượng hợp đồng phải nộp thuế, lệ phí theo quy định của pháp luật về thuế, lệ phí."
     },
     {
+        "id": "Điều 124.0",
+        "article": "Điều 124",
+        "clause": "0",
+        "title": "Giá mua bán nhà ở, giá chuyển nhượng hợp đồng mua bán nhà ở thương mại",
+        "text": "Giá mua bán nhà ở, giá chuyển nhượng hợp đồng mua bán nhà ở do các bên thoả thuận và được ghi rõ trong hợp đồng mua bán nhà ở, văn bản chuyển nhượng hợp đồng mua bán nhà ở; trường hợp Nhà nước có quy định về giá mua bán nhà ở thì các bên phải thực hiện theo quy định đó."
+    },
+    {
         "id": "Điều 125.1",
         "article": "Điều 125",
         "clause": "1",
@@ -4961,6 +5017,13 @@
         "clause": "2",
         "title": "Mua bán nhà ở đang cho thuê",
         "text": "Trường hợp bán nhà ở đang cho thuê thuộc sở hữu nhà nước thì thực hiện theo quy định tại Mục 2 Chương VI của Luật này."
+    },
+    {
+        "id": "Điều 128.0",
+        "article": "Điều 128",
+        "clause": "0",
+        "title": "Mua trước nhà ở",
+        "text": "Khi các bên đã ký kết hợp đồng mua bán nhà ở nhưng Nhà nước có nhu cầu mua nhà ở đó để sử dụng vào mục đích quốc phòng, an ninh, lợi ích quốc gia, lợi ích công cộng thì Chủ tịch Uỷ ban nhân dân cấp tỉnh ban hành quyết định mua trước nhà ở đó. Giá mua bán, điều kiện và phương thức thanh toán tiền mua nhà ở được thực hiện theo thoả thuận trong hợp đồng mua bán nhà ở mà các bên đã ký kết. Nhà nước bồi thường thiệt hại cho các bên (nếu có). Hợp đồng mua bán nhà ở do các bên đã ký kết không còn giá trị pháp lý. Mục 3 CHO THUÊ NHÀ Ở"
     },
     {
         "id": "Điều 129.1",
@@ -5348,6 +5411,27 @@
         "text": "Bên thuê nhà ở được tiếp tục thuê nhà ở đến hết hạn hợp đồng thuê nhà ở đã ký với chủ sở hữu nhà ở cũ, trừ trường hợp các bên có thoả thuận khác"
     },
     {
+        "id": "Điều 141.0",
+        "article": "Điều 141",
+        "clause": "0",
+        "title": "Thanh toán giá trị chênh lệch",
+        "text": "Khi đổi nhà ở và chuyển quyền sở hữu nhà ở cho nhau, nếu có chênh lệch về giá trị nhà ở thì các bên đổi nhà ở phải thanh toán giá trị chênh lệch đó, trừ trường hợp các bên có thoả thuận khác. Mục 7 THỪA KẾ NHÀ Ở"
+    },
+    {
+        "id": "Điều 142.0",
+        "article": "Điều 142",
+        "clause": "0",
+        "title": "Thừa kế nhà ở thuộc sở hữu chung hợp nhất",
+        "text": "Nhà ở thuộc sở hữu chung hợp nhất mà người thừa kế là một hoặc các chủ sở hữu nhà ở thuộc sở hữu chung còn lại thì những người này được thừa kế nhà ở đó theo di chúc hoặc theo pháp luật; trường hợp có người thừa kế không phải là chủ sở hữu nhà ở thuộc sở hữu chung hợp nhất thì người thừa kế được thanh toán phần giá trị nhà ở mà họ được thừa kế, trừ trường hợp các bên có thỏa thuận khác."
+    },
+    {
+        "id": "Điều 143.0",
+        "article": "Điều 143",
+        "clause": "0",
+        "title": "Thừa kế nhà ở thuộc sở hữu chung theo phần",
+        "text": "Nhà ở thuộc sở hữu chung theo phần thì phần nhà ở của người để lại thừa kế được chia cho những người thừa kế theo di chúc hoặc theo pháp luật; nếu nhà ở được bán để chia giá trị thì những người thừa kế được ưu tiên mua; nếu những người thừa kế không mua thì các chủ sở hữu nhà ở thuộc sở hữu chung khác được quyền ưu tiên mua phần thừa kế nhà ở đó và thanh toán cho những người thừa kế giá trị nhà ở đã mua. Mục 8 THẾ CHẤP NHÀ Ở"
+    },
+    {
         "id": "Điều 144.1",
         "article": "Điều 144",
         "clause": "1",
@@ -5360,6 +5444,13 @@
         "clause": "2",
         "title": "Bên thế chấp và bên nhận thế chấp nhà ở",
         "text": "Chủ sở hữu nhà ở là cá nhân được thế chấp nhà ở tại tổ chức tín dụng, tổ chức kinh tế đang hoạt động tại Việt Nam hoặc cá nhân theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 145.0",
+        "article": "Điều 145",
+        "clause": "0",
+        "title": "Thế chấp nhà ở thuộc sở hữu chung",
+        "text": "Việc thế chấp nhà ở thuộc sở hữu chung phải được sự đồng ý bằng văn bản của các chủ sở hữu nhà ở thuộc sở hữu chung, trừ trường hợp thế chấp nhà ở thuộc sở hữu chung theo phần. Các chủ sở hữu nhà ở thuộc sở hữu chung hợp nhất có trách nhiệm liên đới trong việc thực hiện nghĩa vụ của bên thế chấp nhà ở theo quy định của Bộ luật dân sự."
     },
     {
         "id": "Điều 146.1",
@@ -5388,6 +5479,13 @@
         "clause": "2",
         "title": "Thế chấp dự án đầu tư xây dựng nhà ở và thế chấp nhà ở hình thành trong tương lai",
         "text": "Tổ chức, cá nhân xây dựng nhà ở hình thành trong tương lai trên thửa đất ở hợp pháp của mình; tổ chức, cá nhân mua nhà ở hình thành trong tương lai trong dự án đầu tư xây dựng nhà ở của chủ đầu tư được thế chấp nhà ở này tại tổ chức tín dụng đang hoạt động tại Việt Nam để vay vốn phục vụ cho xây dựng nhà ở hoặc để mua chính nhà ở đó."
+    },
+    {
+        "id": "Điều 148.0",
+        "article": "Điều 148",
+        "clause": "0",
+        "title": "Điều kiện thế chấp dự án đầu tư xây dựng nhà ở và thế chấp nhà ở hình thành trong tương lai",
+        "text": "1 Điều kiện thế chấp dự án đầu tư xây dựng nhà ở, thế chấp nhà ở hình thành trong tương lai được quy định như sau: Trường hợp người thế chấp nhà ở hình thành trong tương lai mua nhà ở của chủ đầu tư trong dự án đầu tư xây dựng nhà ở thì phải có hợp đồng mua bán nhà ở ký kết với chủ đầu tư, có văn bản chuyển nhượng hợp đồng mua bán nhà ở nếu là bên nhận chuyển nhượng hợp đồng mua bán nhà ở theo quy định, có giấy tờ chứng minh đã đóng tiền mua nhà ở cho chủ đầu tư theo tiến độ thỏa thuận trong hợp đồng mua bán và không thuộc diện đang có khiếu nại, khiếu kiện, tranh chấp về hợp đồng mua bán nhà ở hoặc về việc chuyển nhượng hợp đồng mua bán nhà ở này."
     },
     {
         "id": "Điều 148.2",
@@ -5794,6 +5892,13 @@
         "clause": "2c",
         "title": "Nghĩa vụ của chủ sở hữu nhà ở là tổ chức, cá nhân nước ngoài",
         "text": "Thực hiện thanh toán tiền mua, thuê mua nhà ở thông qua tổ chức tín dụng đang hoạt động tại Việt Nam."
+    },
+    {
+        "id": "Điều 163.0",
+        "article": "Điều 163",
+        "clause": "0",
+        "title": "Hệ thống thông tin về nhà ở",
+        "text": "Hệ thống thông tin về nhà ở bao gồm:"
     },
     {
         "id": "Điều 163.1",
@@ -6405,6 +6510,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 180.0",
+        "article": "Điều 180",
+        "clause": "0",
+        "title": "Xử lý vi phạm pháp luật về nhà ở khi gây thiệt hại cho Nhà nước, tổ chức, hộ gia đình, cá nhân",
+        "text": "Người có hành vi vi phạm pháp luật về nhà ở nếu gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, hộ gia đình, cá nhân thì ngoài việc bị xử lý theo quy định tại Điều 179 của Luật này còn phải bồi thường thiệt hại cho Nhà nước hoặc cho người bị thiệt hại. CHƯƠNG XIII ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
         "id": "Điều 181.1",
         "article": "Điều 181",
         "clause": "1",
@@ -6452,5 +6564,12 @@
         "clause": "5",
         "title": "Điều khoản chuyển tiếp",
         "text": "Chính phủ quy định chi tiết Điều này."
+    },
+    {
+        "id": "Điều 183.0",
+        "article": "Điều 183",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. --------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 25 tháng 11 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

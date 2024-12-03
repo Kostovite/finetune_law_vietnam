@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định nguyên tắc, điều kiện, phạm vi, hình thức hoạt động kiểm toán độc lập; quyền, nghĩa vụ của kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và đơn vị được kiểm toán."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập."
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -12,6 +26,20 @@
         "clause": "2",
         "title": "Áp dụng Luật kiểm toán độc lập, điều ước quốc tế và các luật có liên quan",
         "text": "Trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Mục đích của kiểm toán độc lập",
+        "text": "Hoạt động kiểm toán độc lập nhằm góp phần công khai, minh bạch thông tin kinh tế, tài chính của đơn vị được kiểm toán và doanh nghiệp, tổ chức khác; làm lành mạnh môi trường đầu tư; thực hành tiết kiệm, chống lãng phí, phòng, chống tham nhũng; phát hiện và ngăn chặn vi phạm pháp luật; nâng cao hiệu lực, hiệu quả quản lý, điều hành kinh tế, tài chính của Nhà nước và hoạt động kinh doanh của doanh nghiệp."
+    },
+    {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 5.1",
@@ -229,6 +257,13 @@
         "clause": "3",
         "title": "Kiểm toán bắt buộc",
         "text": "Doanh nghiệp, tổ chức bắt buộc phải kiểm toán khi nộp báo cáo tài chính cho cơ quan nhà nước có thẩm quyền và khi công khai báo cáo tài chính phải có báo cáo kiểm toán đính kèm; trường hợp cơ quan nhà nước khi nhận báo cáo tài chính của doanh nghiệp, tổ chức bắt buộc phải kiểm toán mà không có báo cáo kiểm toán đính kèm thì có trách nhiệm thông báo với cơ quan nhà nước có thẩm quyền để xử lý theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Khuyến khích kiểm toán",
+        "text": "Nhà nước khuyến khích doanh nghiệp, tổ chức thuê doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam thực hiện kiểm toán báo cáo tài chính, báo cáo quyết toán dự án hoàn thành và các công việc kiểm toán khác trước khi nộp cho cơ quan nhà nước có thẩm quyền hoặc trước khi công khai tài chính."
     },
     {
         "id": "Điều 11.1",
@@ -686,6 +721,13 @@
         "text": "Người bị đình chỉ hành nghề kiểm toán."
     },
     {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Quyền của kiểm toán viên hành nghề",
+        "text": "Khi hành nghề tại doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề có các quyền sau đây:"
+    },
+    {
         "id": "Điều 17.1",
         "article": "Điều 17",
         "clause": "1",
@@ -726,6 +768,13 @@
         "clause": "6",
         "title": "Quyền của kiểm toán viên hành nghề",
         "text": "Quyền khác theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 18.0",
+        "article": "Điều 18",
+        "clause": "0",
+        "title": "Nghĩa vụ của kiểm toán viên hành nghề",
+        "text": "Khi hành nghề tại doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 18.1",
@@ -803,6 +852,13 @@
         "clause": "11",
         "title": "Nghĩa vụ của kiểm toán viên hành nghề",
         "text": "Nghĩa vụ khác theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Các trường hợp kiểm toán viên hành nghề không được thực hiện kiểm toán",
+        "text": "Kiểm toán viên hành nghề không được thực hiện kiểm toán trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 19.1",
@@ -1057,6 +1113,13 @@
         "text": "Trong thời hạn sáu tháng, kể từ ngày đăng ký kinh doanh dịch vụ kiểm toán mà doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam không được cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán thì phải làm thủ tục xóa ngành nghề kinh doanh dịch vụ kiểm toán."
     },
     {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán",
+        "text": "Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán gồm có:"
+    },
+    {
         "id": "Điều 22.1",
         "article": "Điều 22",
         "clause": "1",
@@ -1188,6 +1251,13 @@
         "clause": "2",
         "title": "Lệ phí cấp, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán",
         "text": "Bộ trưởng Bộ Tài chính quy định mức lệ phí cấp, cấp lại, điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán."
+    },
+    {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Những thay đổi phải thông báo cho Bộ Tài chính",
+        "text": "Trong thời hạn mười ngày, kể từ ngày có thay đổi về những nội dung sau đây, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam phải thông báo bằng văn bản cho Bộ Tài chính:"
     },
     {
         "id": "Điều 26.1",
@@ -1862,6 +1932,13 @@
         "text": "Doanh nghiệp kiểm toán có các quyền, thực hiện nghĩa vụ của chi nhánh và giải quyết các vấn đề liên quan đến việc chấm dứt hoạt động của chi nhánh."
     },
     {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Doanh nghiệp kiểm toán nước ngoài",
+        "text": "Doanh nghiệp kiểm toán nước ngoài thực hiện hoạt động kiểm toán tại Việt Nam dưới các hình thức sau:"
+    },
+    {
         "id": "Điều 36.1",
         "article": "Điều 36",
         "clause": "1",
@@ -2450,6 +2527,13 @@
         "text": "Báo cáo kiểm toán về báo cáo tài chính hợp nhất của tập đoàn, tổng công ty theo mô hình công ty mẹ - công ty con được thực hiện theo quy định của chuẩn mực kiểm toán."
     },
     {
+        "id": "Điều 47.0",
+        "article": "Điều 47",
+        "clause": "0",
+        "title": "Báo cáo kiểm toán về các công việc kiểm toán khác",
+        "text": "Báo cáo kiểm toán về các công việc kiểm toán khác được lập trên cơ sở quy định tại Điều 46 của Luật này và chuẩn mực kiểm toán phù hợp với từng cuộc kiểm toán."
+    },
+    {
         "id": "Điều 48.1",
         "article": "Điều 48",
         "clause": "1",
@@ -2518,6 +2602,13 @@
         "clause": "5",
         "title": "Bảo quản, lưu trữ hồ sơ kiểm toán",
         "text": "Chính phủ quy định chi tiết về lưu trữ, sử dụng và tiêu hủy hồ sơ kiểm toán."
+    },
+    {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Hồ sơ, tài liệu về dịch vụ liên quan",
+        "text": "Việc bảo quản, lưu trữ , sử dụng và tiêu huỷ hồ sơ, tài liệu về dịch vụ liên quan quy định tại điểm b khoản 1 Điều 40 của Luật này được thực hiện theo quy định tại Điều 49 và Điều 50 của Luật này. Mục 4 KIỂM SOÁT CHẤT LƯỢNG DỊCH VỤ KIỂM TOÁN"
     },
     {
         "id": "Điều 52.1",
@@ -2597,6 +2688,13 @@
         "text": "Bộ Tài chính quy định tiêu chuẩn, điều kiện lựa chọn, thủ tục xem xét, chấp thuận và các trường hợp đình chỉ hoặc huỷ bỏ tư cách doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam và kiểm toán viên hành nghề được thực hiện kiểm toán báo cáo tài chính của các đơn vị có lợi ích công chúng, trừ trường hợp pháp luật có quy định khác."
     },
     {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Công khai thông tin của doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề được chấp thuận kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng",
+        "text": "Thông tin về doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, kiểm toán viên hành nghề được chấp thuận kiểm toán báo cáo tài chính của đơn vị có lợi ích công chúng phải công khai bao gồm:"
+    },
+    {
         "id": "Điều 55.1",
         "article": "Điều 55",
         "clause": "1",
@@ -2658,6 +2756,13 @@
         "clause": "2",
         "title": "Tính độc lập, khách quan",
         "text": "Kiểm toán viên hành nghề đã thực hiện kiểm toán cho đơn vị có lợi ích công chúng chỉ được giữ vị trí quản lý, điều hành, thành viên ban kiểm soát, kế toán trưởng của đơn vị có lợi ích công chúng đó sau mười hai tháng, kể từ ngày kết thúc cuộc kiểm toán. CHƯƠNG VII XỬ LÝ VI PHẠM VÀ GIẢI QUYẾT TRANH CHẤP"
+    },
+    {
+        "id": "Điều 59.0",
+        "article": "Điều 59",
+        "clause": "0",
+        "title": "Các hành vi vi phạm pháp luật về kiểm toán độc lập",
+        "text": "Các hành vi vi phạm pháp luật về kiểm toán độc lập gồm có:"
     },
     {
         "id": "Điều 59.1",
@@ -2889,5 +2994,19 @@
         "clause": "3",
         "title": "Điều khoản chuyển tiếp",
         "text": "Doanh nghiệp kiểm toán trách nhiệm hữu hạn một thành viên có vốn đầu tư nước ngoài được thành lập và hoạt động theo quy định của pháp luật trước ngày Luật này có hiệu lực được phép hoạt động theo hình thức công ty trách nhiệm hữu hạn một thành viên đến hết thời hạn của Giấy chứng nhận đầu tư hoặc Giấy phép đầu tư."
+    },
+    {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2012."
+    },
+    {
+        "id": "Điều 64.0",
+        "article": "Điều 64",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác trong Luật này để đáp ứng yêu cầu quản lý nhà nước. --------------------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 9 thông qua ngày 29 tháng 3 năm 2011. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

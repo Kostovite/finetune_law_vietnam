@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định chính sách, nguyên tắc, nhiệm vụ, hoạt động, lực lượng, bảo đảm và trách nhiệm của cơ quan, tổ chức, cá nhân về biên phòng."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1.\tBiên phòng là tổng thể các hoạt động, biện pháp bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc và bảo đảm an ninh, trật tự, an toàn xã hội ở khu vực biên giới bằng sức mạnh tổng hợp của toàn dân tộc.",
         "article": "Điều 2",
         "clause": "1.\tBiên phòng là tổng thể các hoạt động, biện pháp bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc và bảo đảm an ninh, trật tự, an toàn xã hội ở khu vực biên giới bằng sức mạnh tổng hợp của toàn dân tộc.",
@@ -1176,6 +1190,13 @@
         "text": ""
     },
     {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Bảo đảm nguồn lực tài chính",
+        "text": "Nhà nước bảo đảm ngân sách cho nhiệm vụ biên phòng theo quy định của pháp luật về ngân sách nhà nước; huy động các nguồn lực tài chính cho nhiệm vụ biên phòng; ưu tiên xây dựng cơ sở hạ tầng, công trình biên giới, cửa khẩu và xây dựng lực lượng nòng cốt, chuyên trách thực thi nhiệm vụ biên phòng."
+    },
+    {
         "id": "Điều 27.1.\tLực lượng thực thi nhiệm vụ biên phòng ở khu vực biên giới được hưởng chế độ, chính sách ưu đãi theo quy định của pháp luật.",
         "article": "Điều 27",
         "clause": "1.\tLực lượng thực thi nhiệm vụ biên phòng ở khu vực biên giới được hưởng chế độ, chính sách ưu đãi theo quy định của pháp luật.",
@@ -1293,6 +1314,13 @@
         "clause": "2",
         "title": "Trách nhiệm của Bộ Quốc phòng",
         "text": "Bộ trưởng Bộ Quốc phòng quy định nhiệm vụ, quyền hạn của các lực lượng thuộc quyền trong quản lý, bảo vệ biên giới quốc gia, khu vực biên giới."
+    },
+    {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Ngoại giao",
+        "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ Ngoại giao có trách nhiệm chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an, cơ quan có liên quan và chính quyền địa phương thực hiện các nội dung sau đây:"
     },
     {
         "id": "Điều 30.1",
@@ -1491,6 +1519,20 @@
         "text": "Ủy ban nhân dân các cấp tham gia, phối hợp với cơ quan, tổ chức để thực thi nhiệm vụ biên phòng, xây dựng nền biên phòng toàn dân, thế trận biên phòng toàn dân vững mạnh; tuyên truyền, phổ biến, giáo dục pháp luật về biên phòng; tham gia thực hiện các chương trình phát triển kinh tế, văn hóa, xã hội, khoa học, công nghệ, đối ngoại ở biên giới; thực hiện Ngày biên phòng toàn dân; thực hiện chính sách hậu phương quân đội."
     },
     {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận",
+        "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với cơ quan, tổ chức có liên quan tuyên truyền, vận động Nhân dân thực hiện pháp luật về biên phòng; giám sát việc thực hiện pháp luật về biên phòng. Chương VI ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Sửa đổi, bổ sung Điều 21 của Luật Biên giới quốc gia số 06/2003/QH11 như sau:",
+        "text": "“Điều 21"
+    },
+    {
         "id": "Điều 35.1.\tTrường hợp vì lý do quốc phòng, an ninh, lý do đặc biệt khác hoặc theo đề nghị, thông báo của nước hữu quan, người, phương tiện, hàng hóa có thể bị hạn chế hoặc tạm dừng qua lại biên giới quốc gia, kể cả việc đi qua không gây hại trong lãnh hải Việt Nam.",
         "article": "Điều 35",
         "clause": "1.\tTrường hợp vì lý do quốc phòng, an ninh, lý do đặc biệt khác hoặc theo đề nghị, thông báo của nước hữu quan, người, phương tiện, hàng hóa có thể bị hạn chế hoặc tạm dừng qua lại biên giới quốc gia, kể cả việc đi qua không gây hại trong lãnh hải Việt Nam.",
@@ -1523,6 +1565,6 @@
         "article": "Điều 36",
         "clause": "2.\tPháp lệnh Bộ đội Biên phòng số 02/1997/PL-UBTVQH9 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành .",
         "title": "Hiệu lực thi hành",
-        "text": " Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 10 thông qua ngày 11 tháng 11 năm 2020."
+        "text": " Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 10 thông qua ngày 11 tháng 11 năm 2020. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân"
     }
 ]

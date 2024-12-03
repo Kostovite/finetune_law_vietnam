@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định việc phòng ngừa, phát hiện, xử lý hành vi mua bán người và các hành vi khác vi phạm pháp luật về phòng, chống mua bán người; tiếp nhận, xác minh, bảo vệ và hỗ trợ nạn nhân; hợp tác quốc tế trong phòng, chống mua bán người; trách nhiệm của Chính phủ, các bộ, ngành và địa phương trong phòng, chống mua bán người."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -406,6 +420,20 @@
         "text": "Phối hợp với các cơ quan chức năng của nước có chung đường biên giới trong việc tuần tra, kiểm soát biên giới nhằm phòng ngừa, phát hiện, ngăn chặn hành vi quy định tại các khoản 1, 2, 3, 4 và 5 Điều 3 của Luật này."
     },
     {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Quản lý các hoạt động kinh doanh, dịch vụ",
+        "text": "Các hoạt động hỗ trợ kết hôn giữa công dân Việt Nam với người nước ngoài, cho, nhận con nuôi, giới thiệu việc làm, đưa người Việt Nam đi lao động, học tập ở nước ngoài, tuyển dụng người nước ngoài làm việc  tại Việt Nam, dịch vụ văn hóa, du lịch và các hoạt động kinh doanh, dịch vụ có điều kiện khác dễ bị lợi dụng phải được quản lý, kiểm tra thường xuyên, chặt chẽ nhằm kịp thời phát hiện và ngăn chặn việc lợi dụng các hoạt động này để thực hiện hành vi quy định tại các khoản 1, 2, 3, 4 và 5 Điều 3 của Luật này."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Lồng ghép nội dung phòng ngừa mua bán người vào các chương trình phát triển kinh tế - xã hội",
+        "text": "Chính phủ, các bộ, ngành, địa phương cần thực hiện việc lồng ghép nội dung phòng ngừa mua bán người vào chương trình phòng, chống tội phạm, phòng, chống tệ nạn xã hội, đào tạo nghề, giải quyết việc làm, giảm nghèo, bình đẳng giới, bảo vệ trẻ em, chương trình vì sự tiến bộ của phụ nữ và chương trình khác về phát triển kinh tế - xã hội."
+    },
+    {
         "id": "Điều 12.1",
         "article": "Điều 12",
         "clause": "1",
@@ -623,6 +651,13 @@
         "text": "Cơ quan, tổ chức có thẩm quyền thông qua hoạt động kiểm tra, thanh tra chủ động phát hiện, xử lý theo thẩm quyền hoặc kiến nghị xử lý hành vi quy định tại Điều 3 của Luật này."
     },
     {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Phát hiện, ngăn chặn hành vi vi phạm thông qua hoạt động nghiệp vụ phòng, chống tội phạm",
+        "text": "Cơ quan, đơn vị, cá nhân trong Công an nhân dân, Quân đội nhân dân được giao nhiệm vụ phòng, chống mua bán người có trách nhiệm thực hiện các hoạt động sau đây:"
+    },
+    {
         "id": "Điều 21.1",
         "article": "Điều 21",
         "clause": "1",
@@ -819,6 +854,13 @@
         "text": "Giấy tờ, tài liệu do cơ quan nước ngoài cấp đã được cơ quan đại diện Việt Nam ở nước ngoài hoặc Bộ Ngoại giao Việt Nam hợp pháp hóa lãnh sự chứng minh người đó là nạn nhân. MỤC 2. BẢO VỆ NẠN NHÂN"
     },
     {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Giải cứu, bảo vệ nạn nhân",
+        "text": "Khi có căn cứ để cho rằng một người bị mua bán thì cơ quan, đơn vị, cá nhân quy định tại Điều 21 của Luật này có trách nhiệm áp dụng các biện pháp cần thiết để giải cứu; trường hợp người đó bị xâm hại hoặc có nguy cơ bị xâm hại đến tính mạng, sức khỏe, danh dự, nhân phẩm và tài sản thì áp dụng các biện pháp bảo vệ."
+    },
+    {
         "id": "Điều 30.1",
         "article": "Điều 30",
         "clause": "1",
@@ -943,6 +985,27 @@
         "clause": "4",
         "title": "Đối tượng và chế độ hỗ trợ",
         "text": "Chính phủ quy định chi tiết về các chế độ hỗ trợ; trình tự, thủ tục thực hiện chế độ hỗ trợ đối với nạn nhân."
+    },
+    {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Hỗ trợ nhu cầu thiết yếu và chi phí đi lại",
+        "text": "Trong trường hợp cần thiết, nạn nhân được bố trí chỗ ở tạm thời, được hỗ trợ về ăn, mặc và các vật dụng cá nhân thiết yếu khác trên cơ sở điều kiện thực tế và đặc điểm về lứa tuổi, giới tính, tình trạng sức khỏe của nạn nhân. Nạn nhân có nguyện vọng trở về nơi cư trú mà không có khả năng chi trả tiền tàu xe và tiền ăn trong thời gian đi đường thì được hỗ trợ các khoản chi phí này."
+    },
+    {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Hỗ trợ y tế",
+        "text": "Trong thời gian lưu trú tại cơ sở bảo trợ xã hội hoặc cơ sở hỗ trợ nạn nhân, nếu nạn nhân cần được chăm sóc y tế để phục hồi sức khỏe thì được xem xét hỗ trợ chi phí khám, chữa bệnh."
+    },
+    {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Hỗ trợ tâm lý",
+        "text": "Nạn nhân được hỗ trợ để ổn định tâm lý trong thời gian lưu trú tại cơ sở bảo trợ xã hội hoặc cơ sở hỗ trợ nạn nhân"
     },
     {
         "id": "Điều 36.1",
@@ -1281,6 +1344,13 @@
         "text": "Thực hiện hợp tác quốc tế trong phòng, chống mua bán người theo thẩm quyền."
     },
     {
+        "id": "Điều 45.0",
+        "article": "Điều 45",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Y tế",
+        "text": "Chỉ đạo, hướng dẫn cơ sở y tế thực hiện việc phối hợp với cơ sở bảo trợ xã hội và cơ sở hỗ trợ nạn nhân trong hỗ trợ y tế cho nạn nhân."
+    },
+    {
         "id": "Điều 46.1",
         "article": "Điều 46",
         "clause": "1",
@@ -1470,6 +1540,13 @@
         "text": "Tạo điều kiện cho nạn nhân hòa nhập cộng đồng."
     },
     {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Nguyên tắc hợp tác quốc tế",
+        "text": "Nhà nước Việt Nam thực hiện chính sách hợp tác quốc tế trong lĩnh vực phòng, chống mua bán người trên nguyên tắc bình đẳng, tự nguyện, tôn trọng độc lập, chủ quyền."
+    },
+    {
         "id": "Điều 54.1",
         "article": "Điều 54",
         "clause": "1",
@@ -1496,5 +1573,26 @@
         "clause": "2",
         "title": "Hợp tác quốc tế trong việc giải cứu và hồi hương nạn nhân",
         "text": "Nhà nước Việt Nam tạo điều kiện thuận lợi trong việc hồi hương nạn nhân là người nước ngoài trở về nước mà người đó có quốc tịch hoặc có nơi thường trú cuối cùng; áp dụng các biện pháp để việc hồi hương nạn nhân được tiến hành theo đúng pháp luật và thỏa thuận quốc tế giữa Việt Nam với các nước, bảo đảm an toàn tính mạng, sức khỏe, danh dự, nhân phẩm của nạn nhân."
+    },
+    {
+        "id": "Điều 56.0",
+        "article": "Điều 56",
+        "clause": "0",
+        "title": "Tương trợ tư pháp",
+        "text": "Quan hệ tương trợ tư pháp giữa Việt Nam và nước có liên quan được thực hiện trên cơ sở các điều ước quốc tế mà Việt Nam và nước đó cùng là thành viên hoặc trên nguyên tắc có đi có lại phù hợp với pháp luật của Việt Nam, pháp luật và tập quán quốc tế. Nhà nước Việt Nam dành ưu tiên cho nước ký kết điều ước quốc tế song phương với Việt Nam sự tương trợ tư pháp trong hoạt động phòng, chống mua bán người. Chương 8. ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2012."
+    },
+    {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 9 thông qua ngày 29 tháng 3 năm 2011. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

@@ -1,5 +1,33 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động bảo hiểm tiền gửi, quyền và nghĩa vụ của người được bảo hiểm tiền gửi, tổ chức tham gia bảo hiểm tiền gửi, tổ chức bảo hiểm tiền gửi và quản lý nhà nước về bảo hiểm tiền gửi."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với người được bảo hiểm tiền gửi, tổ chức tham gia bảo hiểm tiền gửi, tổ chức bảo hiểm tiền gửi, cơ quan, tổ chức và cá nhân khác có liên quan đến hoạt động bảo hiểm tiền gửi."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Mục đích của bảo hiểm tiền gửi",
+        "text": "Bảo hiểm tiền gửi nhằm bảo vệ quyền và lợi ích hợp pháp của người gửi tiền, góp phần duy trì sự ổn định của hệ thống các tổ chức tín dụng, bảo đảm sự phát triển an toàn, lành mạnh của hoạt động ngân hàng."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 4.1",
         "article": "Điều 4",
         "clause": "1",
@@ -392,6 +420,13 @@
         "text": "Bản sao giấy chứng nhận đăng ký kinh doanh."
     },
     {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Niêm yết Chứng nhận tham gia bảo hiểm tiền gửi",
+        "text": "Tổ chức tham gia bảo hiểm tiền gửi phải niêm yết công khai bản sao Chứng nhận tham gia bảo hiểm tiền gửi tại tất cả các điểm giao dịch có nhận tiền gửi."
+    },
+    {
         "id": "Điều 16.1",
         "article": "Điều 16",
         "clause": "1",
@@ -425,6 +460,13 @@
         "clause": "2",
         "title": "Cấp lại Chứng nhận tham gia bảo hiểm tiền gửi",
         "text": "Chứng nhận tham gia bảo hiểm tiền gửi bị mất, rách nát, hư hỏng được cấp lại trong thời hạn 05 ngày làm việc, kể từ ngày nhận được đơn đề nghị cấp lại Chứng nhận tham gia bảo hiểm tiền gửi của tổ chức tham gia bảo hiểm tiền gửi. Mục 2 TIỀN GỬI ĐƯỢC BẢO HIỂM"
+    },
+    {
+        "id": "Điều 18.0",
+        "article": "Điều 18",
+        "clause": "0",
+        "title": "Tiền gửi được bảo hiểm",
+        "text": "Tiền gửi được bảo hiểm là tiền gửi bằng đồng Việt Nam của cá nhân gửi tại tổ chức tham gia bảo hiểm tiền gửi dưới hình thức tiền gửi có kỳ hạn, tiền gửi không kỳ hạn, tiền gửi tiết kiệm, chứng chỉ tiền gửi, kỳ phiếu, tín phiếu và các hình thức tiền gửi khác theo quy định của Luật các tổ chức tín dụng, trừ các loại tiền gửi quy định tại Điều 19 của Luật này."
     },
     {
         "id": "Điều 19.1",
@@ -509,6 +551,20 @@
         "clause": "4",
         "title": "Phí nộp thiếu, nộp chậm",
         "text": "Trong trường hợp tổ chức tham gia bảo hiểm tiền gửi không nộp hoặc nộp không đầy đủ phí bảo hiểm tiền gửi mà Ngân hàng Nhà nước Việt Nam phải trích tài khoản của tổ chức tham gia bảo hiểm tiền gửi để nộp phí theo quy định tại khoản 3 Điều này lần thứ hai, thì tổ chức bảo hiểm tiền gửi có văn bản đề nghị Ngân hàng Nhà nước Việt Nam đình chỉ hoặc tạm đình chỉ hoạt động nhận tiền gửi của tổ chức tham gia bảo hiểm tiền gửi. Mục 4 TRẢ TIỀN BẢO HIỂM"
+    },
+    {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Thời điểm phát sinh nghĩa vụ trả tiền bảo hiểm",
+        "text": "Nghĩa vụ trả tiền bảo hiểm phát sinh kể từ thời điểm Ngân hàng Nhà nước Việt Nam có văn bản chấm dứt kiểm soát đặc biệt hoặc văn bản chấm dứt áp dụng hoặc văn bản không áp dụng các biện pháp phục hồi khả năng thanh toán mà tổ chức tín dụng là tổ chức tham gia bảo hiểm tiền gửi vẫn lâm vào tình trạng phá sản hoặc Ngân hàng Nhà nước Việt Nam có văn bản xác định chi nhánh ngân hàng nước ngoài là tổ chức tham gia bảo hiểm tiền gửi mất khả năng chi trả tiền gửi cho người gửi tiền."
+    },
+    {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Thời hạn trả tiền bảo hiểm",
+        "text": "Trong thời hạn 60 ngày, kể từ thời điểm phát sinh nghĩa vụ trả tiền bảo hiểm, tổ chức bảo hiểm tiền gửi có trách nhiệm trả tiền bảo hiểm cho người được bảo hiểm tiền gửi."
     },
     {
         "id": "Điều 24.1",
@@ -602,6 +658,13 @@
         "text": "Sau thời hạn 10 năm, kể từ ngày tổ chức bảo hiểm tiền gửi có thông báo lần thứ nhất về việc trả tiền bảo hiểm, những khoản tiền bảo hiểm không có người nhận sẽ được xác lập quyền sở hữu nhà nước và bổ sung vào nguồn vốn hoạt động của tổ chức bảo hiểm tiền gửi, người có quyền sở hữu khoản tiền gửi được bảo hiểm sẽ không có quyền yêu cầu tổ chức bảo hiểm tiền gửi trả số tiền bảo hiểm đó."
     },
     {
+        "id": "Điều 27.0",
+        "article": "Điều 27",
+        "clause": "0",
+        "title": "Xử lý số tiền gửi vượt hạn mức trả tiền bảo hiểm",
+        "text": "Số tiền gửi của người được bảo hiểm tiền gửi bao gồm tiền gốc và tiền lãi vượt quá hạn mức trả tiền bảo hiểm sẽ được giải quyết trong quá trình xử lý tài sản của tổ chức tham gia bảo hiểm tiền gửi theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 28.1",
         "article": "Điều 28",
         "clause": "1",
@@ -656,6 +719,13 @@
         "clause": "4",
         "title": "Nguồn vốn hoạt động",
         "text": "Nguồn thu khác theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Hoạt động đầu tư",
+        "text": "Tổ chức bảo hiểm tiền gửi đ­ược sử dụng nguồn vốn tạm thời nhàn rỗi để mua trái phiếu Chính phủ, tín phiếu Ngân hàng Nhà nước Việt Nam và gửi tiền tại Ngân hàng Nhà nước Việt Nam."
     },
     {
         "id": "Điều 32.1",
@@ -810,5 +880,26 @@
         "clause": "2c",
         "title": "Khiếu nại về bảo hiểm tiền gửi",
         "text": "Thống đốc Ngân hàng Nhà nước Việt Nam có trách nhiệm giải quyết khiếu nại trong thời hạn 30 ngày, kể từ ngày nhận được đơn khiếu nại. Trường hợp không đồng ý với quyết định giải quyết khiếu nại của Thống đốc Ngân hàng Nhà nước Việt Nam, người khiếu nại có quyền khởi kiện tại Tòa án theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Điều khoản chuyển tiếp",
+        "text": "Chứng nhận bảo hiểm tiền gửi được cấp trước ngày Luật này có hiệu lực tiếp tục có giá trị sử dụng."
+    },
+    {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2013."
+    },
+    {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 3 thông qua ngày 18 tháng 6 năm 2012. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

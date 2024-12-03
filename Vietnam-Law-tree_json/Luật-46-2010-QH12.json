@@ -17,7 +17,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về tổ chức và hoạt động của Ngân hàng Nhà nước Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -210,12 +216,23 @@
         {
             "id": "Điều 5",
             "title": "Trách nhiệm của bộ, cơ quan ngang bộ, Uỷ ban nhân dân các cấp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ, cơ quan ngang bộ, Uỷ ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình phối hợp với Ngân hàng Nhà nước trong việc quản lý nhà nước về tiền tệ và ngân hàng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 6",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau: Hoạt động ngân hàng là việc kinh doanh, cung ứng thường xuyên một hoặc một số nghiệp vụ sau đây: Nhận tiền gửi; Cấp tín dụng; Cung ứng dịch vụ thanh toán qua tài khoản. Ngoại hối bao gồm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "3",
                     "text": "Hoạt động ngoại hối là hoạt động của người cư trú, người không cư trú trong các giao dịch vãng lai, giao dịch vốn, sử dụng ngoại hối trên lãnh thổ Việt Nam, hoạt động cung ứng dịch vụ ngoại hối và các giao dịch khác liên quan đến ngoại hối.",
@@ -263,7 +280,7 @@
                 },
                 {
                     "number": "12",
-                    "text": "Giám sát ngân hàng là hoạt động của Ngân hàng Nhà nước trong việc thu thập, tổng hợp, phân tích thông tin về đối tượng giám sát ngân hàng thông qua hệ thống thông tin, báo cáo nhằm phòng ngừa, phát hiện, ngăn chặn và xử lý kịp thời rủi ro gây mất an toàn hoạt động ngân hàng, vi phạm quy định an toàn hoạt động ngân hàng và các quy định khác của pháp luật có liên quan.",
+                    "text": "Giám sát ngân hàng là hoạt động của Ngân hàng Nhà nước trong việc thu thập, tổng hợp, phân tích thông tin về đối tượng giám sát ngân hàng thông qua hệ thống thông tin, báo cáo nhằm phòng ngừa, phát hiện, ngăn chặn và xử lý kịp thời rủi ro gây mất an toàn hoạt động ngân hàng, vi phạm quy định an toàn hoạt động ngân hàng và các quy định khác của pháp luật có liên quan. CHƯƠNG II TỔ CHỨC CỦA NGÂN HÀNG NHÀ NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -326,12 +343,24 @@
         {
             "id": "Điều 9",
             "title": "Cán bộ, công chức của Ngân hàng Nhà nước",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc tuyển dụng, sử dụng, quản lý cán bộ, công chức Ngân hàng Nhà nước về nguyên tắc thực hiện theo quy định của Luật cán bộ, công chức. Thủ tướng Chính phủ quy định cơ chế tuyển dụng, chế độ đãi ngộ cán bộ, công chức phù hợp với hoạt động nghiệp vụ đặc thù của Ngân hàng Nhà nước. CHƯƠNG III HOẠT ĐỘNG CỦA  NGÂN HÀNG NHÀ NƯỚC Mục 1 THỰC HIỆN CHÍNH SÁCH TIỀN TỆ QUỐC GIA",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 10",
             "title": "Công cụ thực hiện chính sách tiền tệ quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thống đốc Ngân hàng Nhà nước quyết định việc sử dụng công cụ thực hiện chính sách tiền tệ quốc gia, bao gồm tái cấp vốn, lãi suất, tỷ giá hối đoái, dự trữ bắt buộc, nghiệp vụ thị trường mở và các công cụ, biện pháp khác theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 11",
@@ -399,6 +428,11 @@
             "title": "Dự trữ bắt buộc",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Dự trữ bắt buộc là số tiền mà tổ chức tín dụng phải gửi tại Ngân hàng Nhà nước để thực hiện chính sách tiền tệ quốc gia.",
+                    "sub_clauses": []
+                },
+                {
                     "number": "2",
                     "text": "Ngân hàng Nhà nước quy định tỷ lệ dự trữ bắt buộc đối với từng loại hình tổ chức tín dụng và từng loại tiền gửi tại tổ chức tín dụng nhằm thực hiện chính sách tiền tệ quốc gia.",
                     "sub_clauses": []
@@ -421,7 +455,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ngân hàng Nhà nước quy định loại giấy tờ có giá được phép giao dịch thông qua nghiệp vụ thị trường mở.",
+                    "text": "Ngân hàng Nhà nước quy định loại giấy tờ có giá được phép giao dịch thông qua nghiệp vụ thị trường mở. Mục 2 PHÁT HÀNH TIỀN GIẤY, TIỀN KIM LOẠI",
                     "sub_clauses": []
                 }
             ]
@@ -429,7 +463,13 @@
         {
             "id": "Điều 16",
             "title": "Đơn vị tiền",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Đơn vị tiền của nước Cộng hoà xã hội chủ nghĩa Việt Nam là \"Đồng\", ký hiệu quốc gia là \"đ\", ký hiệu quốc tế là \"VND\", một đồng bằng mười hào, một hào bằng mười xu.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 17",
@@ -476,17 +516,35 @@
         {
             "id": "Điều 19",
             "title": "Xử lý tiền rách nát, hư hỏng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước quy định tiêu chuẩn phân loại tiền rách nát, hư hỏng; đổi, thu hồi các loại tiền rách nát, hư hỏng do quá trình lưu thông; không đổi những đồng tiền rách nát, hư hỏng do hành vi huỷ hoại.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 20",
             "title": "Thu hồi, thay thế tiền",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước thu hồi và rút khỏi lưu thông các loại tiền không còn thích hợp và phát hành các loại tiền khác thay thế. Các loại tiền thu hồi được đổi lấy các loại tiền khác với giá trị tương đương trong thời hạn do Ngân hàng Nhà nước quy định. Sau thời hạn thu hồi, các loại tiền thuộc diện thu hồi không còn giá trị lưu hành.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 21",
             "title": "Tiền mẫu, tiền lưu niệm",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước tổ chức thực hiện việc thiết kế, in, đúc, bán ở trong nước và nước ngoài các loại tiền mẫu, tiền lưu niệm phục vụ cho mục đích sưu tập hoặc mục đích khác theo quy định của Thủ tướng Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 22",
@@ -525,7 +583,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Các hành vi bị cấm khác theo quy định của pháp luật.",
+                    "text": "Các hành vi bị cấm khác theo quy định của pháp luật. Mục 3 CHO VAY, BẢO LÃNH, TẠM ỨNG CHO NGÂN SÁCH",
                     "sub_clauses": []
                 }
             ]
@@ -563,12 +621,24 @@
         {
             "id": "Điều 25",
             "title": "Bảo lãnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước không bảo lãnh cho tổ chức, cá nhân vay vốn, trừ trường hợp bảo lãnh cho tổ chức tín dụng vay vốn nước ngoài theo quyết định của Thủ tướng Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 26",
             "title": "Tạm ứng cho ngân sách nhà nước",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước tạm ứng cho ngân sách trung ương để xử lý thiếu hụt tạm thời quỹ ngân sách nhà nước theo quyết định của Thủ tướng Chính phủ. Khoản tạm ứng này phải được hoàn trả trong năm ngân sách, trừ trường hợp đặc biệt do Uỷ ban thường vụ Quốc hội quyết định. Mục 4 HOẠT ĐỘNG THANH TOÁN VÀ NGÂN QUỸ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 27",
@@ -610,12 +680,24 @@
         {
             "id": "Điều 29",
             "title": "Dịch vụ ngân quỹ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước cung ứng dịch vụ ngân quỹ thông qua việc thu, chi tiền cho chủ tài khoản, vận chuyển, kiểm đếm, phân loại và xử lý tiền trong lưu thông.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 30",
             "title": "Đại lý cho Kho bạc Nhà nước",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước làm đại lý cho Kho bạc Nhà nước trong việc tổ chức đấu thầu, phát hành, lưu ký và thanh toán tín phiếu kho bạc, trái phiếu kho bạc. Mục 5 QUẢN LÝ NGOẠI HỐI VÀ HOẠT ĐỘNG NGOẠI HỐI",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 31",
@@ -708,12 +790,24 @@
         {
             "id": "Điều 33",
             "title": "Hoạt động ngoại hối của Ngân hàng Nhà nước",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước thực hiện việc mua, bán ngoại hối trên thị trường trong nước vì mục tiêu chính sách tiền tệ quốc gia; mua, bán ngoại hối trên thị trường quốc tế và thực hiện giao dịch ngoại hối khác theo quy định của Thủ tướng Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 34",
             "title": "Mua, bán ngoại tệ giữa Dự trữ ngoại hối nhà nước với ngân sách nhà nước",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thủ tướng Chính phủ quy định mức ngoại tệ Bộ Tài chính được giữ lại từ nguồn thu ngân sách để chi các khoản chi ngoại tệ thường xuyên của ngân sách nhà nước. Số ngoại tệ còn lại Bộ Tài chính bán cho Dự trữ ngoại hối nhà nước tập trung tại Ngân hàng Nhà nước. Mục 6 HOẠT ĐỘNG THÔNG TIN, BÁO CÁO",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 35",
@@ -739,7 +833,13 @@
         {
             "id": "Điều 36",
             "title": "Nguyên tắc cung cấp thông tin",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thông tin do tổ chức, cá nhân cung cấp cho Ngân hàng Nhà nước phải bảo đảm chính xác, trung thực, đầy đủ, kịp thời.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 37",
@@ -815,7 +915,13 @@
         {
             "id": "Điều 39",
             "title": "Thống kê, phân tích, dự báo tiền tệ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước tổ chức thống kê, thu thập thông tin về kinh tế, tiền tệ và ngân hàng trong nước và nước ngoài phục vụ việc nghiên cứu, phân tích và dự báo diễn biến tiền tệ để xây dựng và điều hành chính sách tiền tệ quốc gia.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 40",
@@ -850,42 +956,90 @@
         {
             "id": "Điều 41",
             "title": "Hoạt động xuất bản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước tổ chức xuất bản các ấn phẩm về tiền tệ và ngân hàng theo quy định của pháp luật. CHƯƠNG IV TÀI CHÍNH, KẾ TOÁN CỦA NGÂN HÀNG NHÀ NƯỚC",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 42",
             "title": "Vốn pháp định",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Vốn pháp định của Ngân hàng Nhà nước do ngân sách nhà nước cấp. Mức vốn pháp định của Ngân hàng Nhà nước do Thủ tướng Chính phủ quyết định.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 43",
             "title": "Thu, chi tài chính",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thu, chi tài chính của Ngân hàng Nhà nước về nguyên tắc thực hiện theo quy định của Luật ngân sách nhà nước. Thủ tướng Chính phủ quy định những nội dung thu, chi tài chính phù hợp với hoạt động nghiệp vụ đặc thù của Ngân hàng Nhà nước.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 44",
             "title": "Kết quả tài chính",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Kết quả tài chính hằng năm của Ngân hàng Nhà nước được xác định bằng nguồn thu về hoạt động nghiệp vụ ngân hàng và các nguồn thu khác, sau khi trừ chi phí hoạt động và các khoản dự phòng rủi ro.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 45",
             "title": "Các quỹ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước được trích từ kết quả tài chính hằng năm để lập các quỹ sau đây: Mức trích lập và việc sử dụng các quỹ tại khoản 1 Điều này thực hiện theo quy định của Thủ tướng Chính phủ. Kết quả tài chính của Ngân hàng Nhà nước sau khi trích lập các quỹ tại khoản 1 Điều này được nộp vào ngân sách nhà nước.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 46",
             "title": "Hạch toán kế toán",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước thực hiện hạch toán kế toán theo các chuẩn mực kế toán của Việt Nam và theo chế độ kế toán đặc thù của Ngân hàng trung ương theo quy định của Thủ tướng Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 47",
             "title": "Kiểm toán",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Báo cáo tài chính hằng năm của Ngân hàng Nhà nước được Kiểm toán Nhà nước kiểm toán và xác nhận.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 48",
             "title": "Năm tài chính",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Năm tài chính của Ngân hàng Nhà nước bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 năm dương lịch. CHƯƠNG V THANH TRA, GIÁM SÁT NGÂN HÀNG",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 49",
@@ -906,7 +1060,13 @@
         {
             "id": "Điều 50",
             "title": "Mục đích thanh tra, giám sát ngân hàng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thanh tra, giám sát ngân hàng nhằm góp phần bảo đảm sự phát triển an toàn, lành mạnh của hệ thống các tổ chức tín dụng và hệ thống tài chính; bảo vệ quyền và lợi ích hợp pháp của người gửi tiền và khách hàng của tổ chức tín dụng; duy trì và nâng cao lòng tin của công chúng đối với hệ thống các tổ chức tín dụng; bảo đảm việc chấp hành chính sách, pháp luật về tiền tệ và ngân hàng; góp phần nâng cao hiệu quả và hiệu lực quản lý nhà nước trong lĩnh vực tiền tệ và ngân hàng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 51",
@@ -944,6 +1104,11 @@
             "title": "Đối tượng thanh tra ngân hàng",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước thanh tra các đối tượng sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, văn phòng đại diện của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng. Trong trường hợp cần thiết, Ngân hàng Nhà nước yêu cầu cơ quan nhà nước có thẩm quyền thanh tra hoặc phối hợp thanh tra công ty con, công ty liên kết của tổ chức tín dụng;",
                     "sub_clauses": []
@@ -980,6 +1145,11 @@
             "id": "Điều 54",
             "title": "Căn cứ ra quyết định thanh tra",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Việc ra quyết định thanh tra phải trên cơ sở một trong các căn cứ sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Chương trình, kế hoạch thanh tra;",
@@ -1036,7 +1206,13 @@
         {
             "id": "Điều 56",
             "title": "Đối tượng giám sát ngân hàng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước thực hiện việc giám sát ngân hàng đối với mọi hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài. Trong trường hợp cần thiết, Ngân hàng Nhà nước yêu cầu cơ quan nhà nước có thẩm quyền giám sát hoặc phối hợp giám sát công ty con, công ty liên kết của tổ chức tín dụng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 57",
@@ -1162,7 +1338,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ngân hàng Nhà nước thỏa thuận với cơ quan có thẩm quyền thanh tra, giám sát ngân hàng của nước ngoài về hình thức, nội dung, cơ chế trao đổi thông tin và phối hợp thanh tra, giám sát phù hợp với quy định của pháp luật Việt Nam.",
+                    "text": "Ngân hàng Nhà nước thỏa thuận với cơ quan có thẩm quyền thanh tra, giám sát ngân hàng của nước ngoài về hình thức, nội dung, cơ chế trao đổi thông tin và phối hợp thanh tra, giám sát phù hợp với quy định của pháp luật Việt Nam. CHƯƠNG VI KIỂM TOÁN NỘI BỘ",
                     "sub_clauses": []
                 }
             ]
@@ -1232,7 +1408,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thực hiện kiểm toán tài chính, kiểm toán hoạt động và các nhiệm vụ khác của Ngân hàng Nhà nước.",
+                    "text": "Thực hiện kiểm toán tài chính, kiểm toán hoạt động và các nhiệm vụ khác của Ngân hàng Nhà nước. CHƯƠNG VII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1256,8 +1432,18 @@
         {
             "id": "Điều 66",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 7 thông qua ngày 16 tháng 6 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 7 thông qua ngày 16 tháng 6 năm 2010.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Phú Trọng"
+    ]
 }

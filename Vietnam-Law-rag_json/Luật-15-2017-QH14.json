@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quản lý nhà nước đối với tài sản công; chế độ quản lý, sử dụng tài sản công; quyền và nghĩa vụ của các cơ quan, tổ chức, đơn vị, cá nhân trong việc quản lý, sử dụng tài sản công. Đối với tài sản công là tiền thuộc ngân sách nhà nước, các quỹ tài chính nhà nước ngoài ngân sách, dự trữ ngoại hối nhà nước được quản lý, sử dụng theo quy định của pháp luật có liên quan."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -40,6 +47,13 @@
         "clause": "6",
         "title": "Đối tượng áp dụng",
         "text": "Doanh nghiệp, tổ chức, cá nhân khác có liên quan đến quản lý, sử dụng tài sản công."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -131,6 +145,13 @@
         "clause": "13",
         "title": "Giải thích từ ngữ",
         "text": "Cơ sở dữ liệu quốc gia về tài sản công là tập hợp các dữ liệu về tài sản công được sắp xếp, tổ chức để truy cập, khai thác, quản lý và cập nhật thông qua phương tiện điện tử."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Phân loại tài sản công",
+        "text": "Tài sản công tại Luật này được phân loại như sau:"
     },
     {
         "id": "Điều 4.1",
@@ -789,6 +810,13 @@
         "clause": "8",
         "title": "Nhiệm vụ, quyền hạn của Chính phủ",
         "text": "Thực hiện nhiệm vụ, quyền hạn khác theo quy định của Luật này và pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 14.0",
+        "article": "Điều 14",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Kiểm toán nhà nước",
+        "text": "Kiểm toán nhà nước thực hiện kiểm toán việc quản lý, sử dụng tài sản công, các hoạt động liên quan đến việc quản lý, sử dụng tài sản công và báo cáo, công khai kết quả kiểm toán theo quy định của Luật Kiểm toán nhà nước."
     },
     {
         "id": "Điều 15.1",
@@ -2758,6 +2786,13 @@
         "text": "Phương thức mua sắm tài sản công, hình thức lựa chọn nhà thầu cung cấp tài sản phục vụ hoạt động của đơn vị sự nghiệp công lập thực hiện theo quy định tại các khoản 2, 3 và 4 Điều 31 của Luật này."
     },
     {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Thuê tài sản, khoán kinh phí sử dụng tài sản công tại đơn vị sự nghiệp công lập",
+        "text": "Việc thuê tài sản, khoán kinh phí sử dụng tài sản công tại đơn vị sự nghiệp công lập được thực hiện theo quy định tại Điều 32 và Điều 33 của Luật này."
+    },
+    {
         "id": "Điều 54.1",
         "article": "Điều 54",
         "clause": "1",
@@ -3402,6 +3437,13 @@
         "text": "Chính phủ quy định chi tiết Điều này. Mục 5. CHẾ ĐỘ QUẢN LÝ, SỬ DỤNG TÀI SẢN CÔNG TẠI ĐƠN VỊ LỰC LƯỢNG VŨ TRANG NHÂN DÂN"
     },
     {
+        "id": "Điều 64.0",
+        "article": "Điều 64",
+        "clause": "0",
+        "title": "Tài sản công tại đơn vị lực lượng vũ trang nhân dân",
+        "text": "Tài sản công tại đơn vị lực lượng vũ trang nhân dân là tài sản Nhà nước giao cho Bộ Quốc phòng, Bộ Công an quản lý, sử dụng phục vụ nhiệm vụ quốc phòng, an ninh và nhiệm vụ khác do Nhà nước giao, bao gồm:"
+    },
+    {
         "id": "Điều 64.1",
         "article": "Điều 64",
         "clause": "1",
@@ -3841,6 +3883,13 @@
         "clause": "3",
         "title": "Quản lý, sử dụng tài sản công phục vụ hoạt động của cơ quan dự trữ nhà nước",
         "text": "Chính phủ quy định chi tiết Điều này."
+    },
+    {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Quản lý, sử dụng hàng hóa, vật tư thuộc Danh mục hàng dự trữ quốc gia",
+        "text": "Việc quản lý, sử dụng hàng hóa, vật tư thuộc Danh mục hàng dự trữ quốc gia được thực hiện theo quy định của pháp luật về dự trữ quốc gia. Chương IV CHẾ ĐỘ QUẢN LÝ, SỬ DỤNG TÀI SẢN KẾT CẤU HẠ TẦNG Mục 1. QUY ĐỊNH CHUNG VỀ QUẢN LÝ, SỬ DỤNG TÀI SẢN KẾT CẤU HẠ TẦNG"
     },
     {
         "id": "Điều 74.1",
@@ -4662,6 +4711,13 @@
         "text": "Cơ quan được giao thực hiện nhiệm vụ quản lý tài sản công quy định tại các khoản 1, 2 và 3 Điều 19 của Luật này hoặc đối tượng có tài sản bán có trách nhiệm tổ chức bán tài sản theo quy định của pháp luật."
     },
     {
+        "id": "Điều 91.0",
+        "article": "Điều 91",
+        "clause": "0",
+        "title": "Sử dụng tài sản kết cấu hạ tầng để thanh toán cho nhà đầu tư khi thực hiện dự án đầu tư xây dựng công trình theo hình thức hợp đồng xây dựng - chuyển giao",
+        "text": "Việc sử dụng tài sản kết cấu hạ tầng để thanh toán cho nhà đầu tư khi thực hiện dự án đầu tư xây dựng công trình theo hình thức hợp đồng xây dựng - chuyển giao được thực hiện theo quy định tại Điều 44 của Luật này."
+    },
+    {
         "id": "Điều 92.1",
         "article": "Điều 92",
         "clause": "1",
@@ -5045,6 +5101,13 @@
         "clause": "2b",
         "title": "Hình thành tài sản của dự án",
         "text": "Việc hình thành tài sản thực hiện theo quy định của Luật này, quy định của pháp luật có liên quan và văn kiện dự án (nếu có)."
+    },
+    {
+        "id": "Điều 102.0",
+        "article": "Điều 102",
+        "clause": "0",
+        "title": "Sử dụng tài sản phục vụ hoạt động của dự án",
+        "text": "Việc sử dụng tài sản phục vụ hoạt động của dự án được thực hiện theo mục tiêu của dự án, quy định tại Mục 3 Chương III của Luật này và pháp luật có liên quan. Điều 103. Xử lý tài sản phục vụ hoạt động của dự án"
     },
     {
         "id": "Điều 102.1",
@@ -5523,6 +5586,13 @@
         "text": "Đối với tài sản có quyết định bán, cơ quan được giao thực hiện nhiệm vụ quản lý tài sản công quy định tại các khoản 1, 2 và 3 Điều 19 của Luật này hoặc đơn vị chủ trì quản lý tài sản tổ chức bán tài sản theo quy định của Luật này và pháp luật có liên quan."
     },
     {
+        "id": "Điều 112.0",
+        "article": "Điều 112",
+        "clause": "0",
+        "title": "Quản lý số tiền thu được từ việc xử lý tài sản được xác lập quyền sở hữu toàn dân",
+        "text": "Số tiền thu được từ việc xử lý tài sản được xác lập quyền sở hữu toàn dân được nộp vào tài khoản tạm giữ tại Kho bạc Nhà nước, sau khi trừ đi các chi phí có liên quan, phần còn lại được nộp toàn bộ vào ngân sách nhà nước. Chương VII CHẾ ĐỘ QUẢN LÝ, SỬ DỤNG, KHAI THÁC NGUỒN LỰC TÀI CHÍNH TỪ ĐẤT ĐAI, TÀI NGUYÊN Mục 1. CHẾ ĐỘ QUẢN LÝ, SỬ DỤNG, KHAI THÁC NGUỒN LỰC TÀI CHÍNH TỪ ĐẤT ĐAI"
+    },
+    {
         "id": "Điều 113.1",
         "article": "Điều 113",
         "clause": "1",
@@ -5586,6 +5656,27 @@
         "text": "Khai thác nguồn lực tài chính khác từ đất đai theo quy định của pháp luật."
     },
     {
+        "id": "Điều 115.0",
+        "article": "Điều 115",
+        "clause": "0",
+        "title": "Thu tiền sử dụng đất, tiền thuê đất, thuê mặt nước",
+        "text": "Việc thu tiền sử dụng đất, tiền thuê đất, thuê mặt nước được thực hiện theo quy định của pháp luật về đất đai và pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 116.0",
+        "article": "Điều 116",
+        "clause": "0",
+        "title": "Thu thuế, phí, lệ phí liên quan đến đất đai",
+        "text": "Việc thu thuế sử dụng đất, thuế thu nhập từ chuyển quyền sử dụng đất, phí, lệ phí trước bạ đất và các loại thuế, phí, lệ phí khác liên quan đến đất đai thực hiện theo quy định của pháp luật về thuế, pháp luật về phí và lệ phí."
+    },
+    {
+        "id": "Điều 117.0",
+        "article": "Điều 117",
+        "clause": "0",
+        "title": "Sử dụng giá trị quyền sử dụng đất để thanh toán cho nhà đầu tư khi thực hiện dự án đầu tư xây dựng công trình theo hình thức hợp đồng xây dựng - chuyển giao",
+        "text": "Việc sử dụng giá trị quyền sử dụng đất để thanh toán cho nhà đầu tư khi thực hiện dự án đầu tư xây dựng công trình theo hình thức hợp đồng xây dựng - chuyển giao phải tuân thủ quy định tại các khoản 1, 2, 3, 4 và 5 Điều 44 của Luật này và các quy định sau đây:"
+    },
+    {
         "id": "Điều 117.1",
         "article": "Điều 117",
         "clause": "1",
@@ -5647,6 +5738,13 @@
         "clause": "5",
         "title": "Khai thác quỹ đất để tạo vốn phát triển kết cấu hạ tầng",
         "text": "Chính phủ quy định chi tiết Điều này. Mục 2. CHẾ ĐỘ QUẢN LÝ, SỬ DỤNG, KHAI THÁC NGUỒN LỰC TÀI CHÍNH TỪ TÀI NGUYÊN"
+    },
+    {
+        "id": "Điều 119.0",
+        "article": "Điều 119",
+        "clause": "0",
+        "title": "Tài nguyên",
+        "text": "Tài nguyên quy định tại Mục này bao gồm:"
     },
     {
         "id": "Điều 119.1",
@@ -5745,6 +5843,20 @@
         "clause": "2",
         "title": "Thu tiền cấp quyền khai thác tài nguyên, thu tiền sử dụng tài nguyên, tiền thuê tài nguyên",
         "text": "Mức thu, phương thức thu tiền cấp quyền khai thác tài nguyên, tiền sử dụng tài nguyên, tiền thuê tài nguyên thực hiện theo quy định của Chính phủ."
+    },
+    {
+        "id": "Điều 123.0",
+        "article": "Điều 123",
+        "clause": "0",
+        "title": "Thu thuế tài nguyên, phí, lệ phí trong quản lý, sử dụng, khai thác tài nguyên",
+        "text": "Việc thu thuế tài nguyên, phí bay qua vùng trời Việt Nam, phí bảo vệ nguồn lợi thủy sản, phí tham quan danh lam thắng cảnh, phí khai thác, sử dụng nguồn nước, phí khai thác, sử dụng tài liệu, dữ liệu về tài nguyên và các loại thuế, phí, lệ phí khác liên quan đến tài nguyên thực hiện theo quy định của pháp luật về thuế, pháp luật về phí và lệ phí."
+    },
+    {
+        "id": "Điều 124.0",
+        "article": "Điều 124",
+        "clause": "0",
+        "title": "Quản lý, sử dụng các khoản thu từ khai thác tài nguyên",
+        "text": "Việc quản lý, sử dụng các khoản thu từ khai thác tài nguyên được thực hiện theo quy định của pháp luật về ngân sách nhà nước, pháp luật về phí và lệ phí và pháp luật có liên quan. Chương VIII HỆ THỐNG THÔNG TIN VỀ TÀI SẢN CÔNG VÀ CƠ SỞ DỮ LIỆU QUỐC GIA VỀ TÀI SẢN CÔNG"
     },
     {
         "id": "Điều 125.1",
@@ -5929,6 +6041,13 @@
         "text": "Tổ chức, cá nhân có nhu cầu về thông tin, dữ liệu tài sản công được khai thác, sử dụng theo quy định của pháp luật."
     },
     {
+        "id": "Điều 129.0",
+        "article": "Điều 129",
+        "clause": "0",
+        "title": "Sử dụng thông tin về tài sản công",
+        "text": "Thông tin lưu giữ trong Cơ sở dữ liệu quốc gia về tài sản công được sử dụng để:"
+    },
+    {
         "id": "Điều 129.1",
         "article": "Điều 129",
         "clause": "1",
@@ -6039,5 +6158,12 @@
         "clause": "3",
         "title": "Hiệu lực thi hành",
         "text": "Tài sản nhà nước được quy định tại các văn bản quy phạm pháp luật ban hành trước ngày Luật này có hiệu lực thi hành là tài sản công."
+    },
+    {
+        "id": "Điều 134.0",
+        "article": "Điều 134",
+        "clause": "0",
+        "title": "Quy định chuyển tiếp",
+        "text": "Căn cứ quy định tại Luật này, Chính phủ quy định xử lý chuyển tiếp việc sắp xếp lại tài sản công tại cơ quan, tổ chức, đơn vị; xử lý tài sản công; sử dụng tài sản công vào mục đích kinh doanh, cho thuê, liên doanh, liên kết; khai thác tài sản kết cấu hạ tầng theo hợp đồng và các nội dung khác trong quản lý, sử dụng tài sản công bảo đảm các nguyên tắc quy định tại Luật này kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 21 tháng 6 năm 2017. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

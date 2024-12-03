@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quyền, nghĩa vụ và trách nhiệm của người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, doanh nghiệp, đơn vị sự nghiệp và cơ quan, tổ chức, cá nhân có liên quan đến lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; bồi dưỡng kỹ năng nghề, ngoại ngữ, giáo dục định hướng cho người lao động; Quỹ Hỗ trợ việc làm ngoài nước; chính sách đối với người lao động; quản lý nhà nước trong lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -26,6 +33,13 @@
         "clause": "4",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan, tổ chức, cá nhân có liên quan đến lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -2870,6 +2884,13 @@
         "text": "Việc bảo lãnh được thực hiện theo, quy định của Bộ luật Dân sự. Trường hợp bên bảo lãnh không thực hiện đúng nghĩa vụ bảo lãnh thì doanh nghiệp dịch vụ, đơn vị sự nghiệp có quyền yêu cầu bên bảo lãnh thanh toán giá trị nghĩa vụ vi phạm và bồi thường thiệt hại."
     },
     {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Thời hạn thực hiện nghĩa vụ bảo lãnh",
+        "text": "Thời hạn thực hiện nghĩa vụ bảo lãnh do bên bảo lãnh và doanh nghiệp dịch vụ, đơn vị sự nghiệp thỏa thuận; nếu không thỏa thuận được thì bên bảo lãnh phải thực hiện nghĩa vụ bảo lãnh trong một thời hạn hợp lý do doanh nghiệp dịch vụ, đơn vị sự nghiệp ấn định tính từ thời điểm bên bảo lãnh nhận được thông báo của doanh nghiệp dịch vụ, đơn vị sự nghiệp về việc thực hiện nghĩa vụ thay cho người lao động."
+    },
+    {
         "id": "Điều 58.1",
         "article": "Điều 58",
         "clause": "1",
@@ -2959,6 +2980,34 @@
         "clause": "4",
         "title": "Hỗ trợ tạo việc làm và khởi nghiệp",
         "text": "Doanh nghiệp dịch vụ hỗ trợ giới thiệu việc làm cho người lao động sau khi về nước."
+    },
+    {
+        "id": "Điều 61.0",
+        "article": "Điều 61",
+        "clause": "0",
+        "title": "Hỗ trợ hòa nhập xã hội",
+        "text": "Khuyến khích tổ chức, cá nhân tham gia thực hiện hỗ trợ người lao động sau khi về nước tiếp cận dịch vụ tư vấn tâm lý xã hội tự nguyện nhằm hòa nhập xã hội. Chương IV BỒI DƯỠNG KỸ NĂNG NGHỀ, NGOẠI NGỮ, GIÁO DỤC ĐỊNH HƯỚNG CHO NGƯỜI LAO ĐỘNG"
+    },
+    {
+        "id": "Điều 62.0",
+        "article": "Điều 62",
+        "clause": "0",
+        "title": "Mục đích bồi dưỡng kỹ năng nghề, ngoại ngữ, giáo dục định hướng",
+        "text": "Bồi dưỡng kỹ năng nghề, ngoại ngữ, giáo dục định hướng cho người lao động trước khi đi làm việc ở nước ngoài để có kỹ năng nghề, ngoại ngữ, kiến thức cơ bản về pháp luật và kiến thức cần thiết khác phù hợp với yêu cầu của thị trường lao động ngoài nước."
+    },
+    {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": "Bồi dưỡng kỹ năng nghề, ngoại ngữ",
+        "text": "Khi sơ tuyển, tuyển chọn, nếu người lao động chưa đáp ứng điều kiện về kỹ năng nghề, ngoại ngữ theo yêu cầu của bên nước ngoài tiếp nhận lao động thì doanh nghiệp dịch vụ, đơn vị sự nghiệp có thể thỏa thuận với người lao động về việc bồi dưỡng kỹ năng nghề, ngoại ngữ cho người lao động."
+    },
+    {
+        "id": "Điều 64.0",
+        "article": "Điều 64",
+        "clause": "0",
+        "title": "Hỗ trợ đối với cơ sở giáo dục nghề nghiệp",
+        "text": "Nhà nước có chính sách hỗ trợ đầu tư cho cơ sở giáo dục nghề nghiệp tham gia vào việc bồi dưỡng, nâng cao trình độ kỹ năng nghề, ngoại ngữ cho người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng để đáp ứng yêu cầu của bên nước ngoài tiếp nhận lao động và phù hợp với quy định của Luật Giáo dục nghề nghiệp."
     },
     {
         "id": "Điều 65.1",
@@ -3392,6 +3441,6 @@
         "article": "Điều 74",
         "clause": "2",
         "title": "Quy định chuyển tiếp",
-        "text": "Chính phủ quy định về hồ sơ, thủ tục đổi Giấy phép quy định tại điểm b khoản 1 Điều này. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 10 thông qua ngày 13 tháng 11 năm 2020."
+        "text": "Chính phủ quy định về hồ sơ, thủ tục đổi Giấy phép quy định tại điểm b khoản 1 Điều này. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 10 thông qua ngày 13 tháng 11 năm 2020. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân"
     }
 ]

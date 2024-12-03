@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động thủy sản; quyền và nghĩa vụ của tổ chức, cá nhân hoạt động thủy sản hoặc có liên quan đến hoạt động thủy sản; quản lý nhà nước về thủy sản."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài hoạt động thủy sản hoặc có liên quan đến hoạt động thủy sản trong nội địa, đảo, quần đảo và vùng biển Việt Nam; tổ chức, cá nhân Việt Nam khai thác thủy sản ngoài vùng biển Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -201,6 +222,13 @@
         "clause": "29",
         "title": "Giải thích từ ngữ",
         "text": "Tổ chức quản lý nghề cá khu vực là tổ chức có trách nhiệm điều phối quản lý và thiết lập các biện pháp quản lý, bảo tồn đàn cá di cư và các loài tại vùng biển quốc tế."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Sở hữu nguồn lợi thủy sản",
+        "text": "Nguồn lợi thủy sản thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý. Tổ chức, cá nhân có quyền khai thác nguồn lợi thủy sản theo quy định của pháp luật."
     },
     {
         "id": "Điều 5.1",
@@ -2275,6 +2303,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Điều kiện cơ sở mua bán, nhập khẩu thức ăn thủy sản, sản phẩm xử lý môi trường nuôi trồng thủy sản",
+        "text": "Cơ sở mua bán, nhập khẩu thức ăn thủy sản, sản phẩm xử lý môi trường nuôi trồng thủy sản phải đáp ứng các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 33.1",
         "article": "Điều 33",
         "clause": "1",
@@ -2772,6 +2807,13 @@
         "text": "Chính phủ quy định trình tự, thủ tục xác nhận nguồn gốc loài thủy sản quy định tại khoản 2 Điều này; điều kiện, thẩm quyền, trình tự và thủ tục chứng nhận cơ sở đủ điều kiện nuôi sinh sản, nuôi sinh trưởng, cơ sở trồng cấy nhân tạo loài thủy sản thuộc Phụ lục của Công ước quốc tế về buôn bán các loài động vật, thực vật hoang dã nguy cấp; các loài thủy sản nguy cấp, quý, hiếm."
     },
     {
+        "id": "Điều 41.0",
+        "article": "Điều 41",
+        "clause": "0",
+        "title": "Quan trắc, cảnh báo môi trường, phòng, chống dịch bệnh trong nuôi trồng thủy sản",
+        "text": "Việc quan trắc, cảnh báo môi trường, phòng, chống dịch bệnh trong nuôi trồng thủy sản thực hiện theo quy định của pháp luật về thú y và quy định khác của pháp luật có liên quan."
+    },
+    {
         "id": "Điều 42.1",
         "article": "Điều 42",
         "clause": "1",
@@ -2882,6 +2924,13 @@
         "clause": "2i",
         "title": "Quyền và nghĩa vụ của tổ chức, cá nhân nuôi trồng thủy sản",
         "text": "Trả lại đất, khu vực biển nuôi trồng thủy sản khi có quyết định thu hồi theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Giao, cho thuê, thu hồi đất để nuôi trồng thủy sản",
+        "text": "Việc giao, cho thuê, thu hồi đất để nuôi trồng thủy sản thực hiện theo quy định của pháp luật về đất đai."
     },
     {
         "id": "Điều 44.1",
@@ -3148,6 +3197,13 @@
         "clause": "5",
         "title": "Quyền của tổ chức, cá nhân được giao khu vực biển để nuôi trồng thủy sản",
         "text": "Chính phủ quy định việc trả lại khu vực biển, thế chấp quyền sử dụng khu vực biển; việc cho thuê, góp vốn, chuyển nhượng quyền sử dụng khu vực biển được giao giữa các tổ chức, cá nhân Việt Nam; việc tổ chức, cá nhân Việt Nam cho thuê, góp vốn, chuyển nhượng quyền sử dụng khu vực biển được giao cho nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài để nuôi trồng thủy sản; quyền của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài được giao khu vực biển, được thuê, nhận góp vốn, nhận chuyển nhượng quyền sử dụng khu vực biển từ tổ chức, cá nhân Việt Nam để nuôi trồng thủy sản; việc bồi thường khi bị thu hồi khu vực biển vì mục đích công cộng, quốc phòng, an ninh."
+    },
+    {
+        "id": "Điều 47.0",
+        "article": "Điều 47",
+        "clause": "0",
+        "title": "Nghĩa vụ của tổ chức, cá nhân được giao khu vực biển để nuôi trồng thủy sản",
+        "text": "Tổ chức, cá nhân được giao khu vực biển để nuôi trồng thủy sản có nghĩa vụ quy định tại khoản 2 Điều 42 của Luật này và nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 47.1",
@@ -3680,6 +3736,13 @@
         "clause": "8",
         "title": "Trách nhiệm của tổ chức, cá nhân khai thác thủy sản ngoài vùng biển Việt Nam",
         "text": "Chủ tàu cá phải mua bảo hiểm cho thuyền viên và người làm việc trên tàu cá; chịu mọi chi phí trong quá trình đưa tàu cá đi khai thác ngoài vùng biển Việt Nam. Mục 3. HOẠT ĐỘNG THỦY SẢN CỦA TÀU NƯỚC NGOÀI TRONG VÙNG BIỂN VIỆT NAM"
+    },
+    {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Điều kiện cấp phép cho tổ chức, cá nhân nước ngoài có tàu hoạt động thủy sản trong vùng biển Việt Nam",
+        "text": "Tổ chức, cá nhân nước ngoài có tàu được cấp phép hoạt động thủy sản trong vùng biển Việt Nam khi đáp ứng các điều kiện sau đây:"
     },
     {
         "id": "Điều 55.1",
@@ -4303,6 +4366,13 @@
         "clause": "2",
         "title": "Quản lý đóng mới, cải hoán, thuê, mua tàu cá",
         "text": "Tổ chức, cá nhân đóng mới, cải hoán, thuê, mua tàu cá có chiều dài lớn nhất từ 06 mét trở lên hoạt động trên biển phải được Ủy ban nhân dân cấp tỉnh chấp thuận."
+    },
+    {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": "Điều kiện cơ sở đóng mới, cải hoán tàu cá",
+        "text": "Cơ sở được cấp Giấy chứng nhận đủ điều kiện đóng mới, cải hoán tàu cá khi đáp ứng các điều kiện sau đây:"
     },
     {
         "id": "Điều 63.1",
@@ -6006,6 +6076,13 @@
         "text": "Ủy ban nhân dân cấp tỉnh thông báo danh sách khu neo đậu tránh trú bão cho tàu cá trên địa bàn. Chương VI KIỂM NGƯ"
     },
     {
+        "id": "Điều 87.0",
+        "article": "Điều 87",
+        "clause": "0",
+        "title": "Chức năng của Kiểm ngư",
+        "text": "Kiểm ngư là lực lượng chuyên trách của Nhà nước, thực hiện chức năng thực thi pháp luật Việt Nam và điều ước quốc tế có liên quan mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên về khai thác và bảo vệ nguồn lợi thủy sản."
+    },
+    {
         "id": "Điều 88.1",
         "article": "Điều 88",
         "clause": "1",
@@ -6745,6 +6822,6 @@
         "article": "Điều 105",
         "clause": "3",
         "title": "Quy định chuyển tiếp",
-        "text": "Các quy chuẩn kỹ thuật quốc gia, định mức kinh tế - kỹ thuật đã được ban hành trước ngày Luật này có hiệu lực thì tiếp tục được áp dụng cho đến khi bị bãi bỏ hoặc thay thế. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV kỳ họp thứ 4 thông qua ngày 21 tháng 11 năm 2017."
+        "text": "Các quy chuẩn kỹ thuật quốc gia, định mức kinh tế - kỹ thuật đã được ban hành trước ngày Luật này có hiệu lực thì tiếp tục được áp dụng cho đến khi bị bãi bỏ hoặc thay thế. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV kỳ họp thứ 4 thông qua ngày 21 tháng 11 năm 2017. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

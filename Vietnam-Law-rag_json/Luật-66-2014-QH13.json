@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về kinh doanh bất động sản, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh bất động sản và quản lý nhà nước về kinh doanh bất động sản."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -12,6 +19,13 @@
         "clause": "2",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan, tổ chức, cá nhân có liên quan đến kinh doanh bất động sản tại Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -96,6 +110,13 @@
         "clause": "4",
         "title": "Nguyên tắc kinh doanh bất động sản",
         "text": "Tổ chức, cá nhân có quyền kinh doanh bất động sản tại khu vực ngoài phạm vi bảo vệ quốc phòng, an ninh theo quy hoạch và kế hoạch sử dụng đất được cơ quan nhà nước có thẩm quyền phê duyệt."
+    },
+    {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Các loại bất động sản đưa vào kinh doanh",
+        "text": "Các loại bất động sản đưa vào kinh doanh theo quy định của Luật này (sau đây gọi là bất động sản) bao gồm:"
     },
     {
         "id": "Điều 5.1",
@@ -595,6 +616,13 @@
         "text": "Người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài kinh doanh bất động sản được mua, nhận chuyển nhượng, thuê, thuê mua bất động sản để kinh doanh theo quy định tại Điều 11 của Luật này."
     },
     {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Giá mua bán, chuyển nhượng, cho thuê, cho thuê mua bất động sản",
+        "text": "Giá mua bán, chuyển nhượng, cho thuê, cho thuê mua bất động sản do các bên thỏa thuận và được ghi rõ trong hợp đồng. Trường hợp Nhà nước có quy định về giá thì các bên phải thực hiện theo quy định đó."
+    },
+    {
         "id": "Điều 16.1",
         "article": "Điều 16",
         "clause": "1",
@@ -670,6 +698,13 @@
         "clause": "4",
         "title": "Hợp đồng kinh doanh bất động sản",
         "text": "Chính phủ quy định các loại hợp đồng mẫu kinh doanh bất động sản."
+    },
+    {
+        "id": "Điều 18.0",
+        "article": "Điều 18",
+        "clause": "0",
+        "title": "Nội dung hợp đồng mua bán, cho thuê, cho thuê mua nhà, công trình xây dựng",
+        "text": "Hợp đồng mua bán, cho thuê, cho thuê mua nhà, công trình xây dựng phải có các nội dung chính sau đây:"
     },
     {
         "id": "Điều 18.1",
@@ -992,6 +1027,13 @@
         "clause": "6",
         "title": "Nghĩa vụ của bên mua nhà, công trình xây dựng",
         "text": "Các nghĩa vụ khác trong hợp đồng. Mục 3 CHO THUÊ NHÀ, CÔNG TRÌNH XÂY DỰNG"
+    },
+    {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Nguyên tắc cho thuê nhà, công trình xây dựng",
+        "text": "Nhà, công trình xây dựng cho thuê phải bảo đảm chất lượng, an toàn, vệ sinh môi trường và các dịch vụ cần thiết khác để vận hành, sử dụng bình thường theo công năng, thiết kế và các thỏa thuận trong hợp đồng."
     },
     {
         "id": "Điều 26.1",
@@ -1918,6 +1960,20 @@
         "text": "Các nghĩa vụ khác trong hợp đồng."
     },
     {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của các bên trong việc cho thuê lại quyền sử dụng đất",
+        "text": "Quyền và nghĩa vụ của bên cho thuê lại, bên thuê lại quyền sử dụng đất được thực hiện theo quy định tại các điều 42, 43, 44 và 45 của Luật này."
+    },
+    {
+        "id": "Điều 47.0",
+        "article": "Điều 47",
+        "clause": "0",
+        "title": "Nội dung hợp đồng chuyển nhượng, cho thuê, cho thuê lại quyền sử dụng đất",
+        "text": "Hợp đồng chuyển nhượng, cho thuê, cho thuê lại quyền sử dụng đất phải có các nội dung chính sau đây:"
+    },
+    {
         "id": "Điều 47.1",
         "article": "Điều 47",
         "clause": "1",
@@ -2240,6 +2296,13 @@
         "text": "Các quyền và nghĩa vụ khác trong hợp đồng."
     },
     {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Nội dung hợp đồng chuyển nhượng toàn bộ hoặc một phần dự án bất động sản",
+        "text": "Hợp đồng chuyển nhượng toàn bộ hoặc một phần dự án bất động sản phải có các nội dung chính sau đây:"
+    },
+    {
         "id": "Điều 53.1",
         "article": "Điều 53",
         "clause": "1",
@@ -2401,6 +2464,13 @@
         "text": "Chủ đầu tư phải sử dụng tiền ứng trước của khách hàng theo đúng mục đích đã cam kết."
     },
     {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của các bên trong mua bán, thuê mua bất động sản hình thành trong tương lai",
+        "text": "Ngoài các quyền và nghĩa vụ của các bên trong mua bán, thuê mua bất động sản quy định tại Chương II của Luật này, các bên còn có các quyền và nghĩa vụ sau đây:"
+    },
+    {
         "id": "Điều 58.1",
         "article": "Điều 58",
         "clause": "1",
@@ -2448,6 +2518,13 @@
         "clause": "5",
         "title": "Chuyển nhượng hợp đồng mua bán, thuê mua nhà ở hình thành trong tương lai",
         "text": "Chính phủ quy định chi tiết Điều này. CHƯƠNG IV KINH DOANH DỊCH VỤ BẤT ĐỘNG SẢN Mục 1 QUY ĐỊNH CHUNG"
+    },
+    {
+        "id": "Điều 60.0",
+        "article": "Điều 60",
+        "clause": "0",
+        "title": "Phạm vi kinh doanh dịch vụ bất động sản của tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài",
+        "text": "Tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài có quyền kinh doanh các dịch vụ môi giới bất động sản, sàn giao dịch bất động sản, tư vấn bất động sản, quản lý bất động sản theo quy định của Luật này."
     },
     {
         "id": "Điều 61.1",
@@ -3386,5 +3463,19 @@
         "clause": "4",
         "title": "Điều khoản chuyển tiếp",
         "text": "Chứng chỉ định giá bất động sản đã được cấp trước ngày Luật này có hiệu lực thi hành có giá trị pháp lý trong thời hạn 05 năm kể từ ngày Luật này có hiệu lực thi hành; hết thời hạn trên, người được cấp chứng chỉ định giá bất động sản phải có đủ điều kiện về thẩm định giá viên theo quy định của pháp luật về giá."
+    },
+    {
+        "id": "Điều 81.0",
+        "article": "Điều 81",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2015. Luật kinh doanh bất động sản số 63/2006/QH11 hết hiệu lực thi hành kể từ ngày Luật này có hiệu lực thi hành."
+    },
+    {
+        "id": "Điều 82.0",
+        "article": "Điều 82",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 25 tháng 11 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

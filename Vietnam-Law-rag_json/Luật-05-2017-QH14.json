@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về biện pháp quản lý ngoại thương, phát triển hoạt động ngoại thương; giải quyết tranh chấp về áp dụng biện pháp quản lý ngoại thương."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -19,6 +26,13 @@
         "clause": "3",
         "title": "Đối tượng áp dụng",
         "text": "Tổ chức, cá nhân trong nước và nước ngoài khác có liên quan."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -679,6 +693,13 @@
         "text": "Bộ Công Thương công bố việc áp dụng biện pháp hạn ngạch thuế quan và quyết định phương thức phân giao hạn ngạch thuế quan. Tiểu mục 4. CHỈ ĐỊNH CỬA KHẨU XUẤT KHẨU, NHẬP KHẨU"
     },
     {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Biện pháp chỉ định cửa khẩu xuất khẩu, nhập khẩu",
+        "text": "Chỉ định cửa khẩu xuất khẩu, nhập khẩu là biện pháp do cơ quan nhà nước có thẩm quyền áp dụng để quyết định cửa khẩu được xuất khẩu, nhập khẩu hàng hóa nhất định."
+    },
+    {
         "id": "Điều 24.1",
         "article": "Điều 24",
         "clause": "1",
@@ -712,6 +733,13 @@
         "clause": "2",
         "title": "Thẩm quyền áp dụng biện pháp chỉ định cửa khẩu xuất khẩu, nhập khẩu",
         "text": "Quyết định áp dụng biện pháp chỉ định cửa khẩu xuất khẩu, nhập khẩu phải được công bố công khai trên phương tiện thông tin đại chúng chậm nhất là 45 ngày trước ngày có hiệu lực. Tiểu mục 5. CHỈ ĐỊNH THƯƠNG NHÂN XUẤT KHẨU, NHẬP KHẨU"
+    },
+    {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Biện pháp chỉ định thương nhân xuất khẩu, nhập khẩu",
+        "text": "Chỉ định thương nhân xuất khẩu, nhập khẩu là biện pháp do cơ quan nhà nước có thẩm quyền áp dụng để quyết định thương nhân xuất khẩu, nhập khẩu đối với một số loại hàng hóa nhất định."
     },
     {
         "id": "Điều 27.1",
@@ -840,6 +868,13 @@
         "text": "Chính phủ quy định chi tiết về xuất xứ hàng hóa và chứng nhận xuất xứ hàng hóa."
     },
     {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Áp dụng biện pháp chứng nhận xuất xứ hàng hóa",
+        "text": "Áp dụng biện pháp chứng nhận xuất xứ hàng hóa trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 33.1",
         "article": "Điều 33",
         "clause": "1",
@@ -903,6 +938,13 @@
         "text": "Giấy chứng nhận lưu hành tự do bao gồm giấy chứng nhận mang tính đặc thù hoặc mang đầy đủ nội dung của giấy chứng nhận lưu hành tự do và các loại văn bản chứng nhận có nội dung tương tự."
     },
     {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Áp dụng biện pháp chứng nhận lưu hành tự do",
+        "text": "Áp dụng biện pháp chứng nhận lưu hành tự do trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 37.1",
         "article": "Điều 37",
         "clause": "1",
@@ -915,6 +957,13 @@
         "clause": "2",
         "title": "Áp dụng biện pháp chứng nhận lưu hành tự do",
         "text": "Theo đề nghị của thương nhân xuất khẩu, nhập khẩu hàng hóa đối với trường hợp không thuộc quy định tại khoản 1 Điều này."
+    },
+    {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Thẩm quyền áp dụng biện pháp chứng nhận lưu hành tự do",
+        "text": "Chính phủ quy định Danh mục hàng hóa phải áp dụng giấy chứng nhận lưu hành tự do; quy định thẩm quyền và trình tự, thủ tục cấp giấy chứng nhận lưu hành tự do. Mục 6. CÁC BIỆN PHÁP QUẢN LÝ HOẠT ĐỘNG NGOẠI THƯƠNG KHÁC Tiểu mục 1. TẠM NHẬP, TÁI XUẤT, TẠM XUẤT, TÁI NHẬP, CHUYỂN KHẨU"
     },
     {
         "id": "Điều 39.1",
@@ -1274,6 +1323,13 @@
         "text": "Đại lý mua bán hàng hóa cho thương nhân nước ngoài phải làm thủ tục xuất khẩu, nhập khẩu hàng hóa, thực hiện nghĩa vụ thuế và các nghĩa vụ tài chính khác theo quy định của pháp luật."
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Quản lý hoạt động thuê thương nhân nước ngoài làm đại lý mua bán hàng hóa tại nước ngoài",
+        "text": "Thương nhân được thuê thương nhân nước ngoài làm đại lý mua bán hàng hóa tại nước ngoài đối với hàng hóa không thuộc Danh mục hàng hóa cấm xuất khẩu, cấm nhập khẩu hoặc hàng hóa tạm ngừng xuất khẩu. Tiểu mục 4. ỦY THÁC VÀ NHẬN ỦY THÁC XUẤT KHẨU, NHẬP KHẨU"
+    },
+    {
         "id": "Điều 50.1",
         "article": "Điều 50",
         "clause": "1",
@@ -1552,6 +1608,13 @@
         "clause": "2",
         "title": "Áp dụng biện pháp quản lý mua bán hàng hóa giữa các khu vực hải quan riêng",
         "text": "Việc vận chuyển hàng hóa giữa các khu vực hải quan riêng phải chịu sự giám sát của cơ quan hải quan theo quy định của pháp luật về hải quan và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 59.0",
+        "article": "Điều 59",
+        "clause": "0",
+        "title": "Trường hợp ngoại lệ",
+        "text": "Trong trường hợp cần thiết nhằm chống gian lận thương mại và chuyển tải bất hợp pháp, Thủ tướng Chính phủ cho phép áp dụng hoặc không áp dụng một hoặc một số biện pháp quản lý ngoại thương đối với hàng hóa quy định tại các điều 56, 57 và 58 của Luật này. Chương III CÁC BIỆN PHÁP KỸ THUẬT, KIỂM DỊCH Mục 1. ÁP DỤNG BIỆN PHÁP KỸ THUẬT, KIỂM DỊCH"
     },
     {
         "id": "Điều 60.1",
@@ -1951,6 +2014,13 @@
         "clause": "5c",
         "title": "Trình tự, thủ tục điều tra vụ việc phòng vệ thương mại",
         "text": "Cơ quan điều tra thực hiện các nghĩa vụ thông báo khác theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+    },
+    {
+        "id": "Điều 71.0",
+        "article": "Điều 71",
+        "clause": "0",
+        "title": "Chấm dứt điều tra vụ việc phòng vệ thương mại",
+        "text": "Bộ trưởng Bộ Công Thương quyết định chấm dứt điều tra trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 71.1",
@@ -2695,6 +2765,13 @@
         "text": "Các biện pháp chống trợ cấp khác."
     },
     {
+        "id": "Điều 84.0",
+        "article": "Điều 84",
+        "clause": "0",
+        "title": "Trợ cấp",
+        "text": "Trợ cấp là sự đóng góp của Chính phủ hoặc bất kỳ tổ chức công nào ở quốc gia có hàng hóa nhập khẩu vào Việt Nam dưới các hình thức sau đây đem lại lợi ích cho tổ chức, cá nhân nhận trợ cấp:"
+    },
+    {
         "id": "Điều 84.1",
         "article": "Điều 84",
         "clause": "1",
@@ -2749,6 +2826,13 @@
         "clause": "8",
         "title": "Trợ cấp",
         "text": "Bất kỳ hình thức trợ cấp nào khác không thuộc quy định tại các khoản 1, 2, 3, 4, 5, 6 và 7 của Điều này được xác định dựa trên nguyên tắc công bằng, hợp lý, không trái với điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+    },
+    {
+        "id": "Điều 85.0",
+        "article": "Điều 85",
+        "clause": "0",
+        "title": "Các trợ cấp có thể bị áp dụng biện pháp chống trợ cấp",
+        "text": "Các trợ cấp sau đây có thể bị áp dụng biện pháp chống trợ cấp, trừ trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác:"
     },
     {
         "id": "Điều 85.1",
@@ -3953,5 +4037,12 @@
         "clause": "3",
         "title": "Hiệu lực thi hành",
         "text": "Bãi bỏ khoản 3 Ðiều 28, khoản 3 Ðiều 29, khoản 3 Ðiều 30, các điều 31, 33, 242, 243, 244, 245, 246 và 247 của Luật Thương mại số 36/2005/QH11."
+    },
+    {
+        "id": "Điều 113.0",
+        "article": "Điều 113",
+        "clause": "0",
+        "title": "Quy định chuyển tiếp",
+        "text": "Kể từ ngày Luật này có hiệu lực thi hành, các vụ việc phòng vệ thương mại đã được cơ quan nhà nước có thẩm quyền tiếp nhận hồ sơ khiếu nại, điều tra trước ngày Luật này có hiệu lực thì được tiếp tục xem xét, giải quyết theo quy định của Pháp lệnh về Tự vệ trong nhập khẩu hàng hóa nước ngoài vào Việt Nam số 42/2002/PL-UBTVQH10, Pháp lệnh Chống bán phá giá hàng hóa nhập khẩu vào Việt Nam số 20/2004/PL-UBTVQH11, Pháp lệnh Chống trợ cấp hàng hóa nhập khẩu vào Việt Nam số 22/2004/PL-UBTVQH11. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 12 tháng 6 năm 2017. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

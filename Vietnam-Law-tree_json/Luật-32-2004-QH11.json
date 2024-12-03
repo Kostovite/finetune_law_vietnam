@@ -12,17 +12,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về chính sách an ninh quốc gia; nguyên tắc, nhiệm vụ, biện pháp bảo vệ an ninh quốc gia; quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức, công dân trong bảo vệ an ninh quốc gia.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với cơ quan, tổ chức, công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam; cá nhân, tổ chức nước ngoài, tổ chức quốc tế cư trú, hoạt động trên lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam; trong trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc gia nhập quy định khác thì áp dụng theo điều ước quốc tế đó.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "An ninh quốc gia là sự ổn định, phát triển bền vững của chế độ xã hội chủ nghĩa và Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam, sự bất khả xâm phạm độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc.",
@@ -136,12 +153,24 @@
         {
             "id": "Điều 7",
             "title": "Bảo đảm điều kiện cho hoạt động bảo vệ an ninh quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước bảo đảm ngân sách và cơ sở vật chất cho các hoạt động bảo vệ an ninh quốc gia trong mọi tình huống, ưu tiên các địa bàn chiến lược, xung yếu, quan trọng về an ninh quốc gia; có chính sách huy động thành tựu khoa học và công nghệ phục vụ hoạt động bảo vệ an ninh quốc gia.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 8",
             "title": "Trách nhiệm, nghĩa vụ bảo vệ an ninh quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bảo vệ an ninh quốc gia là sự nghiệp của toàn dân. Cơ quan, tổ chức, công dân có trách nhiệm, nghĩa vụ bảo vệ an ninh quốc gia theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 9",
@@ -188,7 +217,13 @@
         {
             "id": "Điều 11",
             "title": "Hợp tác quốc tế trong lĩnh vực bảo vệ an ninh quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam thực hiện chính sách hợp tác quốc tế đa phương, song phương với các nước, các tổ chức quốc tế trong hoạt động bảo vệ an ninh quốc gia phù hợp với pháp luật Việt Nam và pháp luật quốc tế; thực hiện các điều ước quốc tế liên quan đến lĩnh vực bảo vệ an ninh quốc gia mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc gia nhập.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 12",
@@ -247,7 +282,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Hành vi khác xâm phạm an ninh quốc gia được quy định tại Bộ luật hình sự và các văn bản pháp luật có liên quan.",
+                    "text": "Hành vi khác xâm phạm an ninh quốc gia được quy định tại Bộ luật hình sự và các văn bản pháp luật có liên quan. CHƯƠNG II BẢO VỆ AN NINH QUỐC GIA",
                     "sub_clauses": []
                 }
             ]
@@ -395,12 +430,24 @@
         {
             "id": "Điều 19",
             "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên trong bảo vệ an ninh quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tuyên truyền, động viên nhân dân xây dựng khối đại đoàn kết toàn dân tộc, nghiêm chỉnh chấp hành pháp luật về bảo vệ an ninh quốc gia; giám sát việc thực hiện pháp luật về bảo vệ an ninh quốc gia của tổ chức, cá nhân.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 20",
             "title": "Bảo vệ an ninh quốc gia khi có tình trạng khẩn cấp, tình trạng chiến tranh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khi có tình trạng khẩn cấp, tình trạng chiến tranh, việc bảo vệ an ninh quốc gia được thực hiện theo quy định của pháp luật về tình trạng khẩn cấp, tình trạng chiến tranh. Hội đồng quốc phòng và an ninh có trách nhiệm động viên mọi lực lượng và khả năng của đất nước để bảo vệ Tổ quốc; thực hiện những nhiệm vụ và quyền hạn đặc biệt do Quốc hội giao.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 21",
@@ -450,7 +497,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan, tổ chức, cá nhân phải chấp hành các mệnh lệnh, quyết định của cơ quan và người thi hành các biện pháp quy định tại khoản 1 Điều này.",
+                    "text": "Cơ quan, tổ chức, cá nhân phải chấp hành các mệnh lệnh, quyết định của cơ quan và người thi hành các biện pháp quy định tại khoản 1 Điều này. CHƯƠNG III CƠ QUAN CHUYÊN TRÁCH BẢO VỆ AN NINH QUỐC GIA",
                     "sub_clauses": []
                 }
             ]
@@ -629,7 +676,13 @@
         {
             "id": "Điều 26",
             "title": "Trang bị và sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ của cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia được trang bị và sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ để thực hiện nhiệm vụ bảo vệ an ninh quốc gia theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 27",
@@ -650,7 +703,13 @@
         {
             "id": "Điều 28",
             "title": "Chế độ, chính sách đối với cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cán bộ, chiến sĩ cơ quan chuyên trách bảo vệ an ninh quốc gia được tuyển chọn, bồi dưỡng, đào tạo, được phong, thăng hàm, cấp lực lượng vũ trang nhân dân và hưởng chế độ, chính sách ưu đãi theo quy định của pháp luật. CHƯƠNG IV QUẢN LÝ NHÀ NƯỚC VỀ AN NINH QUỐC GIA",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 29",
@@ -707,33 +766,73 @@
         {
             "id": "Điều 31",
             "title": "Trách nhiệm của Bộ Quốc phòng trong quản lý nhà nước về an ninh quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Quốc phòng trong phạm vi nhiệm vụ, quyền hạn của mình chịu trách nhiệm trước Chính phủ phối hợp với Bộ Công an thực hiện quản lý nhà nước về bảo vệ an ninh quốc gia; chỉ đạo các lực lượng thuộc quyền phối hợp chặt chẽ với lực lượng Công an nhân dân và chính quyền địa phương để bảo vệ an ninh quốc gia theo quy định của pháp luật. Quy chế phối hợp giữa Bộ Công an với Bộ Quốc phòng trong việc thực hiện nhiệm vụ bảo vệ an ninh quốc gia do Thủ tướng Chính phủ quy định.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 32",
             "title": "Trách nhiệm của Bộ Ngoại giao trong quản lý nhà nước về an ninh quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Ngoại giao trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện các nhiệm vụ bảo vệ an ninh quốc gia theo quy định tại Điều 14 của Luật này, các quy định khác của pháp luật có liên quan và phối hợp với Bộ Công an, Bộ Quốc phòng, các cơ quan hữu quan khác để bảo vệ an ninh quốc gia. Quy chế phối hợp giữa Bộ Công an với Bộ Ngoại giao trong việc thực hiện nhiệm vụ bảo vệ an ninh quốc gia do Thủ tướng Chính phủ quy định.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 33",
             "title": "Trách nhiệm của các bộ, cơ quan ngang bộ trong quản lý nhà nước về an ninh quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Các bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm thực hiện các nhiệm vụ bảo vệ an ninh quốc gia theo quy định tại Điều 14 của Luật này, các quy định khác của pháp luật có liên quan và phối hợp với các cơ quan hữu quan để bảo vệ an ninh quốc gia.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 34",
             "title": "Trách nhiệm của Uỷ ban nhân dân các cấp trong quản lý nhà nước về an ninh quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Uỷ ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về bảo vệ an ninh quốc gia tại địa phương; thực hiện các nhiệm vụ bảo vệ an ninh quốc gia theo quy định của Luật này và các quy định khác của pháp luật có liên quan. CHƯƠNG V ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 35",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2005. Những quy định trước đây trái với Luật này đều bãi bỏ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 36",
             "title": "Hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XI, kỳ họp thứ 6 thông qua ngày 03 tháng 12 năm 2004. Nguyễn Văn An (Đã ký)",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XI, kỳ họp thứ 6 thông qua ngày 03 tháng 12 năm 2004.",
+        "Nguyễn Văn An",
+        "(Đã ký)"
+    ]
 }

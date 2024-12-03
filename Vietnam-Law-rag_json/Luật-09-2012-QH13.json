@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về các biện pháp giảm nhu cầu sử dụng thuốc lá, biện pháp kiểm soát nguồn cung cấp thuốc lá và điều kiện bảo đảm để phòng, chống tác hại của thuốc lá."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -784,6 +798,13 @@
         "text": "Chính phủ quy định cụ thể mức tăng diện tích in cảnh báo sức khỏe phù hợp với từng thời kỳ."
     },
     {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Hoạt động tài trợ",
+        "text": "Tổ chức, cá nhân kinh doanh thuốc lá chỉ được tài trợ nhân đạo cho chương trình xóa đói, giảm nghèo; phòng, chống thiên tai, dịch bệnh, thảm họa; phòng, chống buôn lậu thuốc lá và không được thông báo trên phương tiện thông tin đại chúng về việc tài trợ đó."
+    },
+    {
         "id": "Điều 17.1",
         "article": "Điều 17",
         "clause": "1",
@@ -1055,6 +1076,13 @@
         "clause": "3",
         "title": "Quy chuẩn kỹ thuật quốc gia về thuốc lá",
         "text": "Bộ trưởng Bộ Y tế ban hành quy chuẩn kỹ thuật quốc gia về thuốc lá điếu."
+    },
+    {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Số lượng điếu thuốc lá trong bao, gói",
+        "text": "Sau 03 năm, kể từ ngày Luật này có hiệu lực, số lượng điếu thuốc lá đóng gói trong 01 bao thuốc lá không được ít hơn 20 điếu, trừ thuốc lá xì gà và thuốc lá được sản xuất để xuất khẩu."
     },
     {
         "id": "Điều 25.1",
@@ -1405,5 +1433,26 @@
         "clause": "8",
         "title": "Trách nhiệm xử lý vi phạm pháp luật về phòng, chống tác hại của thuốc lá",
         "text": "Cơ quan, người có thẩm quyền thanh tra, kiểm tra việc thực hiện pháp luật về phòng, chống tác hại của thuốc lá quy định tại các khoản 2, 4, 6 và 7 Điều này, nếu phát hiện vi phạm có dấu hiệu tội phạm thì phải chuyển cơ quan tiến hành tố tụng để truy cứu trách nhiệm hình sự theo quy định của pháp luật. CHƯƠNG V ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 5 năm 2013."
+    },
+    {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Điều khoản chuyển tiếp",
+        "text": "Bao, tút, hộp thuốc lá được sản xuất, nhập khẩu để tiêu thụ tại thị trường Việt Nam theo quy định tương ứng của pháp luật về ghi nhãn, in cảnh báo sức khỏe trước ngày Luật này có hiệu lực sẽ không được sử dụng sau 06 tháng kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 3 thông qua ngày 18 tháng 6 năm 2012. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

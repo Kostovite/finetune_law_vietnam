@@ -17,12 +17,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về đối tượng chịu thuế, đối tượng không chịu thuế, người nộp thuế, căn cứ tính thuế, khai thuế, tính thuế, nộp thuế và hoàn thuế bảo vệ môi trường.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Thuế bảo vệ môi trường là loại thuế gián thu, thu vào sản phẩm, hàng hóa (sau đây gọi chung là hàng hóa) khi sử dụng gây tác động xấu đến môi trường.",
@@ -137,7 +148,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Trường hợp xét thấy cần thiết phải bổ sung đối tượng chịu thuế khác cho phù hợp với từng thời kỳ thì Ủy ban thường vụ Quốc hội xem xét, quy định.",
+                    "text": "Trường hợp xét thấy cần thiết phải bổ sung đối tượng chịu thuế khác cho phù hợp với từng thời kỳ thì Ủy ban thường vụ Quốc hội xem xét, quy định. Chính phủ quy định chi tiết Điều này.",
                     "sub_clauses": []
                 }
             ]
@@ -182,7 +193,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người nộp thuế bảo vệ môi trường trong một số trường hợp cụ thể được quy định như sau:",
+                    "text": "Người nộp thuế bảo vệ môi trường trong một số trường hợp cụ thể được quy định như sau: Chương 2. CĂN CỨ TÍNH THUẾ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -229,7 +240,13 @@
         {
             "id": "Điều 7",
             "title": "Phương pháp tính thuế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Số thuế bảo vệ môi trường phải nộp bằng số lượng đơn vị hàng hóa chịu thuế nhân với mức thuế tuyệt đối quy định trên một đơn vị hàng hóa.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 8",
@@ -237,57 +254,57 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Mức thuế tuyệt đối được quy định theo Biểu khung thuế dưới đây:",
+                    "text": "Mức thuế tuyệt đối được quy định theo Biểu khung thuế dưới đây: Số thứ tự Hàng hóa Đơn vị tính Mức thuế (đồng/1 đơn vị hàng hóa) I Xăng, dầu, mỡ nhờn 1 Xăng, trừ etanol Lít",
                     "sub_clauses": []
                 },
                 {
                     "number": "1.000-4.000",
-                    "text": "",
+                    "text": " 2 Nhiên liệu bay Lít",
                     "sub_clauses": []
                 },
                 {
                     "number": "1.000-3.000",
-                    "text": "",
+                    "text": " 3 Dầu diezel Lít 500-2.000 4 Dầu hỏa Lít 300-2.000 5 Dầu mazut Lít 300-2.000 6 Dầu nhờn Lít 300-2.000 7 Mỡ nhờn Kg 300-2.000 II Than đá 1 Than nâu Tấn",
                     "sub_clauses": []
                 },
                 {
                     "number": "10.000-30.000",
-                    "text": "",
+                    "text": " 2 Than an-tra-xít (antraxit) Tấn",
                     "sub_clauses": []
                 },
                 {
                     "number": "20.000-50.000",
-                    "text": "",
+                    "text": " 3 Than mỡ Tấn",
                     "sub_clauses": []
                 },
                 {
                     "number": "10.000-30.000",
-                    "text": "",
+                    "text": " 4 Than đá khác Tấn",
                     "sub_clauses": []
                 },
                 {
                     "number": "10.000-30.000",
-                    "text": "",
+                    "text": " III Dung dịch Hydro-chloro-fluoro-carbon (HCFC) kg",
                     "sub_clauses": []
                 },
                 {
                     "number": "1.000-5.000",
-                    "text": "",
+                    "text": " IV Túi ni lông thuộc diện chịu thuế kg",
                     "sub_clauses": []
                 },
                 {
                     "number": "30.000-50.000",
-                    "text": "",
+                    "text": " V Thuốc diệt cỏ thuộc loại hạn chế sử dụng kg 500-2.000 VI Thuốc trừ mối thuộc loại hạn chế sử dụng kg",
                     "sub_clauses": []
                 },
                 {
                     "number": "1.000-3.000",
-                    "text": "",
+                    "text": " VII Thuốc bảo quản lâm sản thuộc loại hạn chế sử dụng kg",
                     "sub_clauses": []
                 },
                 {
                     "number": "1.000-3.000",
-                    "text": "",
+                    "text": " VIII Thuốc khử trùng kho thuộc loại hạn chế sử dụng kg",
                     "sub_clauses": []
                 },
                 {
@@ -297,7 +314,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Căn cứ vào Biểu khung thuế quy định tại khoản 1 Điều này, Ủy ban thường vụ Quốc hội quy định mức thuế cụ thể đối với từng loại hàng hóa chịu thuế bảo đảm các nguyên tắc sau:",
+                    "text": "Căn cứ vào Biểu khung thuế quy định tại khoản 1 Điều này, Ủy ban thường vụ Quốc hội quy định mức thuế cụ thể đối với từng loại hàng hóa chịu thuế bảo đảm các nguyên tắc sau: Chương 3. KHAI THUẾ, TÍNH THUẾ, NỘP THUẾ VÀ HOÀN THUẾ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -363,6 +380,11 @@
             "title": "Hoàn thuế",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Người nộp thuế bảo vệ môi trường được hoàn thuế đã nộp trong các trường hợp sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Hàng hóa nhập khẩu còn lưu kho, lưu bãi tại cửa khẩu và đang chịu sự giám sát của cơ quan Hải quan được tái xuất khẩu ra nước ngoài;",
                     "sub_clauses": []
@@ -384,7 +406,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Hàng hóa tạm nhập khẩu để tham gia hội chợ, triển lãm, giới thiệu sản phẩm theo quy định của pháp luật khi tái xuất khẩu ra nước ngoài.",
+                    "text": "Hàng hóa tạm nhập khẩu để tham gia hội chợ, triển lãm, giới thiệu sản phẩm theo quy định của pháp luật khi tái xuất khẩu ra nước ngoài. Chương 4. ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -408,8 +430,18 @@
         {
             "id": "Điều 13",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 8 thông qua ngày 15 tháng 11 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 8 thông qua ngày 15 tháng 11 năm 2010.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Phú Trọng"
+    ]
 }

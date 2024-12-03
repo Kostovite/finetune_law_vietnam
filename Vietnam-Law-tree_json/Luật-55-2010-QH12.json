@@ -17,12 +17,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về quyền và nghĩa vụ của tổ chức, cá nhân trong bảo đảm an toàn thực phẩm; điều kiện bảo đảm an toàn đối với thực phẩm, sản xuất, kinh doanh thực phẩm và nhập khẩu, xuất khẩu thực phẩm; quảng cáo, ghi nhãn thực phẩm; kiểm nghiệm thực phẩm; phân tích nguy cơ đối với an toàn thực phẩm; phòng ngừa, ngăn chặn và khắc phục sự cố về an toàn thực phẩm; thông tin, giáo dục, truyền thông về an toàn thực phẩm; trách nhiệm quản lý nhà nước về an toàn thực phẩm.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "An toàn thực phẩm là việc bảo đảm để thực phẩm không gây hại đến sức khỏe, tính mạng con người.",
@@ -376,7 +387,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định cụ thể về hành vi, hình thức và mức xử phạt các hành vi vi phạm hành chính trong lĩnh vực an toàn thực phẩm quy định tại Điều này.",
+                    "text": "Chính phủ quy định cụ thể về hành vi, hình thức và mức xử phạt các hành vi vi phạm hành chính trong lĩnh vực an toàn thực phẩm quy định tại Điều này. CHƯƠNG II QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN TRONG BẢO ĐẢM AN TOÀN THỰC PHẨM",
                     "sub_clauses": []
                 }
             ]
@@ -577,7 +588,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người tiêu dùng thực phẩm có các nghĩa vụ sau đây:",
+                    "text": "Người tiêu dùng thực phẩm có các nghĩa vụ sau đây: CHƯƠNG III ĐIỀU KIỆN BẢO ĐẢM AN TOÀN ĐỐI VỚI THỰC PHẨM",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -661,7 +672,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thực phẩm đã qua chế biến bao gói sẵn phải đăng ký bản công bố hợp quy với cơ quan nhà nước có thẩm quyền trước khi lưu thông trên thị trường.",
+                    "text": "Thực phẩm đã qua chế biến bao gói sẵn phải đăng ký bản công bố hợp quy với cơ quan nhà nước có thẩm quyền trước khi lưu thông trên thị trường. Chính phủ quy định cụ thể việc đăng ký bản công bố hợp quy và thời hạn của bản đăng ký công bố hợp quy đối với thực phẩm đã qua chế biến bao gói sẵn.",
                     "sub_clauses": []
                 }
             ]
@@ -776,7 +787,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Đăng ký bản công bố hợp quy với cơ quan nhà nước có thẩm quyền trước khi lưu thông trên thị trường.",
+                    "text": "Đăng ký bản công bố hợp quy với cơ quan nhà nước có thẩm quyền trước khi lưu thông trên thị trường. Chính phủ quy định cụ thể việc đăng ký bản công bố hợp quy và thời hạn của bản đăng ký công bố hợp quy đối với phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm.",
                     "sub_clauses": []
                 }
             ]
@@ -797,7 +808,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Đăng ký bản công bố hợp quy với cơ quan nhà nước có thẩm quyền trước khi lưu thông trên thị trường.",
+                    "text": "Đăng ký bản công bố hợp quy với cơ quan nhà nước có thẩm quyền trước khi lưu thông trên thị trường. Chính phủ quy định cụ thể việc đăng ký bản công bố hợp quy và thời hạn của bản đăng ký công bố hợp quy đối với dụng cụ, vật liệu bao gói, chứa đựng thực phẩm. CHƯƠNG IV ĐIỀU KIỆN BẢO ĐẢM AN TOÀN THỰC PHẨM TRONG SẢN XUẤT, KINH DOANH THỰC PHẨM Mục 1 ĐIỀU KIỆN CHUNG VỀ BẢO ĐẢM AN TOÀN THỰC PHẨM TRONG SẢN XUẤT, KINH DOANH THỰC PHẨM",
                     "sub_clauses": []
                 }
             ]
@@ -946,7 +957,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh) ban hành quy chuẩn kỹ thuật địa phương, quy định cụ thể điều kiện bảo đảm an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm nhỏ lẻ đối với thực phẩm đặc thù trên địa bàn tỉnh.",
+                    "text": "Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh) ban hành quy chuẩn kỹ thuật địa phương, quy định cụ thể điều kiện bảo đảm an toàn thực phẩm trong sản xuất, kinh doanh thực phẩm nhỏ lẻ đối với thực phẩm đặc thù trên địa bàn tỉnh. Mục 2 ĐIỀU KIỆN BẢO ĐẢM AN TOÀN THỰC PHẨM TRONG SẢN XUẤT, KINH DOANH THỰC PHẨM TƯƠI SỐNG",
                     "sub_clauses": []
                 }
             ]
@@ -1012,7 +1023,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ trưởng Bộ Nông nghiệp và Phát triển Nông thôn quy định cụ thể điều kiện bảo đảm an toàn thực phẩm đối với cơ sở kinh doanh thực phẩm tươi sống.",
+                    "text": "Bộ trưởng Bộ Nông nghiệp và Phát triển Nông thôn quy định cụ thể điều kiện bảo đảm an toàn thực phẩm đối với cơ sở kinh doanh thực phẩm tươi sống. Mục 3 ĐIỀU KIỆN BẢO ĐẢM AN TOÀN THỰC PHẨM TRONG SƠ CHẾ, CHẾ BIẾN THỰC PHẨM, KINH DOANH THỰC PHẨM  ĐÃ QUA CHẾ BIẾN",
                     "sub_clauses": []
                 }
             ]
@@ -1077,7 +1088,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ sở kinh doanh thực phẩm đã qua chế biến không bao gói sẵn phải bảo đảm các điều kiện sau đây:",
+                    "text": "Cơ sở kinh doanh thực phẩm đã qua chế biến không bao gói sẵn phải bảo đảm các điều kiện sau đây: Mục 4 ĐIỀU KIỆN BẢO ĐẢM AN TOÀN THỰC PHẨM TRONG KINH DOANH DỊCH VỤ ĂN UỐNG",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1178,7 +1189,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thực phẩm bày bán phải để trong tủ kính hoặc thiết bị bảo quản hợp vệ sinh, chống được bụi, mưa, nắng và sự xâm nhập của côn trùng và động vật gây hại; được bày bán trên bàn hoặc giá cao hơn mặt đất.",
+                    "text": "Thực phẩm bày bán phải để trong tủ kính hoặc thiết bị bảo quản hợp vệ sinh, chống được bụi, mưa, nắng và sự xâm nhập của côn trùng và động vật gây hại; được bày bán trên bàn hoặc giá cao hơn mặt đất. Mục 5 ĐIỀU KIỆN BẢO ĐẢM AN TOÀN THỰC PHẨM  TRONG KINH DOANH THỨC ĂN ĐƯỜNG PHỐ",
                     "sub_clauses": []
                 }
             ]
@@ -1246,7 +1257,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban nhân dân các cấp có trách nhiệm quản lý hoạt động kinh doanh thức ăn đường phố trên địa bàn.",
+                    "text": "Ủy ban nhân dân các cấp có trách nhiệm quản lý hoạt động kinh doanh thức ăn đường phố trên địa bàn. CHƯƠNG V CHỨNG NHẬN CƠ SỞ ĐỦ ĐIỀU KIỆN AN TOÀN THỰC PHẨM TRONG SẢN XUẤT, KINH DOANH THỰC PHẨM",
                     "sub_clauses": []
                 }
             ]
@@ -1284,7 +1295,13 @@
         {
             "id": "Điều 35",
             "title": "Thẩm quyền cấp, thu hồi Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ trưởng Bộ Y tế, Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn, Bộ trưởng Bộ Công thương quy định cụ thể thẩm quyền cấp, thu hồi Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm thuộc lĩnh vực được phân công quản lý.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 36",
@@ -1343,7 +1360,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trước 06 tháng tính đến ngày Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm hết hạn, tổ chức, cá nhân sản xuất, kinh doanh thực phẩm phải nộp hồ sơ xin cấp lại Giấy chứng nhận trong trường hợp tiếp tục sản xuất, kinh doanh. Hồ sơ, trình tự, thủ tục cấp lại được thực hiện theo quy định tại Điều 36 của Luật này.",
+                    "text": "Trước 06 tháng tính đến ngày Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm hết hạn, tổ chức, cá nhân sản xuất, kinh doanh thực phẩm phải nộp hồ sơ xin cấp lại Giấy chứng nhận trong trường hợp tiếp tục sản xuất, kinh doanh. Hồ sơ, trình tự, thủ tục cấp lại được thực hiện theo quy định tại Điều 36 của Luật này. CHƯƠNG VI NHẬP KHẨU VÀ XUẤT KHẨU THỰC PHẨM Mục 1 ĐIỀU KIỆN BẢO ĐẢM AN TOÀN ĐỐI VỚI THỰC PHẨM NHẬP KHẨU",
                     "sub_clauses": []
                 }
             ]
@@ -1437,7 +1454,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ trưởng Bộ Y tế, Bộ trưởng Bộ Nông nghiệp và Phát triển Nông thôn, Bộ trưởng Bộ Công thương quy định cụ thể cơ quan kiểm tra nhà nước về an toàn thực phẩm, việc áp dụng phương thức kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, dụng cụ, vật liệu bao gói, chứa đựng thực phẩm nhập khẩu thuộc lĩnh vực được phân công quản lý.",
+                    "text": "Bộ trưởng Bộ Y tế, Bộ trưởng Bộ Nông nghiệp và Phát triển Nông thôn, Bộ trưởng Bộ Công thương quy định cụ thể cơ quan kiểm tra nhà nước về an toàn thực phẩm, việc áp dụng phương thức kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm, dụng cụ, vật liệu bao gói, chứa đựng thực phẩm nhập khẩu thuộc lĩnh vực được phân công quản lý. Mục 2 ĐIỀU KIỆN BẢO ĐẢM AN TOÀN ĐỐI VỚI THỰC PHẨM XUẤT KHẨU",
                     "sub_clauses": []
                 }
             ]
@@ -1469,7 +1486,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ trưởng Bộ Y tế, Bộ trưởng Bộ Nông nghiệp và Phát triển Nông thôn, Bộ trưởng Bộ Công thương quy định hồ sơ, thủ tục cấp các loại giấy chứng nhận quy định tại khoản 1 Điều này thuộc lĩnh vực được phân công quản lý.",
+                    "text": "Bộ trưởng Bộ Y tế, Bộ trưởng Bộ Nông nghiệp và Phát triển Nông thôn, Bộ trưởng Bộ Công thương quy định hồ sơ, thủ tục cấp các loại giấy chứng nhận quy định tại khoản 1 Điều này thuộc lĩnh vực được phân công quản lý. CHƯƠNG VII QUẢNG CÁO, GHI NHÃN THỰC PHẨM",
                     "sub_clauses": []
                 }
             ]
@@ -1490,7 +1507,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Người phát hành quảng cáo, người kinh doanh dịch vụ quảng cáo, tổ chức, cá nhân có thực phẩm quảng cáo chỉ được tiến hành quảng cáo khi đã được thẩm định nội dung và chỉ được quảng cáo đúng nội dung đã được xác nhận.",
+                    "text": "Người phát hành quảng cáo, người kinh doanh dịch vụ quảng cáo, tổ chức, cá nhân có thực phẩm quảng cáo chỉ được tiến hành quảng cáo khi đã được thẩm định nội dung và chỉ được quảng cáo đúng nội dung đã được xác nhận. Bộ trưởng Bộ Y tế, Bộ trưởng Bộ Nông nghiệp và Phát triển Nông thôn, Bộ trưởng Bộ Công thương quy định cụ thể loại thực phẩm phải đăng ký quảng cáo, thẩm quyền, trình tự, thủ tục xác nhận nội dung quảng cáo thực phẩm thuộc lĩnh vực được phân công quản lý.",
                     "sub_clauses": []
                 }
             ]
@@ -1501,7 +1518,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tổ chức, cá nhân sản xuất, nhập khẩu thực phẩm, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm tại Việt Nam phải thực hiện việc ghi nhãn thực phẩm theo quy định của pháp luật về nhãn hàng hóa.",
+                    "text": "Tổ chức, cá nhân sản xuất, nhập khẩu thực phẩm, phụ gia thực phẩm, chất hỗ trợ chế biến thực phẩm tại Việt Nam phải thực hiện việc ghi nhãn thực phẩm theo quy định của pháp luật về nhãn hàng hóa. Đối với thời hạn sử dụng thực phẩm thể hiện trên nhãn thì tùy theo loại sản phẩm được ghi là “hạn sử dụng”, “sử dụng đến ngày” hoặc “sử dụng tốt nhất trước ngày”.",
                     "sub_clauses": []
                 },
                 {
@@ -1528,7 +1545,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Căn cứ điều kiện kinh tế - xã hội trong từng thời kỳ, Chính phủ quy định cụ thể về ghi nhãn thực phẩm, thời hạn sử dụng thực phẩm; quy định cụ thể thực phẩm biến đổi gen phải ghi nhãn, mức tỷ lệ thành phần thực phẩm có gen biến đổi phải ghi nhãn.",
+                    "text": "Căn cứ điều kiện kinh tế - xã hội trong từng thời kỳ, Chính phủ quy định cụ thể về ghi nhãn thực phẩm, thời hạn sử dụng thực phẩm; quy định cụ thể thực phẩm biến đổi gen phải ghi nhãn, mức tỷ lệ thành phần thực phẩm có gen biến đổi phải ghi nhãn. CHƯƠNG VIII KIỂM NGHIỆM THỰC PHẨM, PHÂN TÍCH NGUY CƠ ĐỐI VỚI AN TOÀN THỰC PHẨM, PHÒNG NGỪA, NGĂN CHẶN VÀ KHẮC PHỤC SỰ CỐ VỀ AN TOÀN THỰC PHẨM Mục 1 KIỂM NGHIỆM THỰC PHẨM",
                     "sub_clauses": []
                 }
             ]
@@ -1539,7 +1556,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Kiểm nghiệm thực phẩm được thực hiện trong các trường hợp sau đây:",
+                    "text": "Kiểm nghiệm thực phẩm được thực hiện trong các trường hợp sau đây: Việc kiểm nghiệm thực phẩm phục vụ hoạt động quản lý nhà nước được thực hiện tại cơ sở kiểm nghiệm thực phẩm do Bộ trưởng Bộ quản lý ngành chỉ định.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1643,7 +1660,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chi phí lấy mẫu và kiểm nghiệm trong tranh chấp, khiếu nại về an toàn thực phẩm do người khởi kiện, khiếu nại chi trả. Trường hợp kết quả kiểm nghiệm khẳng định tổ chức, cá nhân sản xuất, kinh doanh thực phẩm vi phạm quy định về an toàn thực phẩm thì tổ chức, cá nhân đó phải hoàn trả chi phí lấy mẫu và kiểm nghiệm an toàn thực phẩm tranh chấp cho người khởi kiện, khiếu nại.",
+                    "text": "Chi phí lấy mẫu và kiểm nghiệm trong tranh chấp, khiếu nại về an toàn thực phẩm do người khởi kiện, khiếu nại chi trả. Trường hợp kết quả kiểm nghiệm khẳng định tổ chức, cá nhân sản xuất, kinh doanh thực phẩm vi phạm quy định về an toàn thực phẩm thì tổ chức, cá nhân đó phải hoàn trả chi phí lấy mẫu và kiểm nghiệm an toàn thực phẩm tranh chấp cho người khởi kiện, khiếu nại. Mục 2 PHÂN TÍCH NGUY CƠ ĐỐI VỚI AN TOÀN THỰC PHẨM",
                     "sub_clauses": []
                 }
             ]
@@ -1730,7 +1747,13 @@
         {
             "id": "Điều 51",
             "title": "Trách nhiệm thực hiện phân tích nguy cơ đối với an toàn thực phẩm",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Y tế, Bộ Nông nghiệp và Phát triển Nông thôn, Bộ Công thương tổ chức việc phân tích nguy cơ đối với an toàn thực phẩm thuộc lĩnh vực được phân công quản lý theo quy định tại Điều 49 và Điều 50 của Luật này. Mục 3 PHÒNG NGỪA, NGĂN CHẶN VÀ KHẮC PHỤC SỰ CỐ VỀ AN TOÀN THỰC PHẨM",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 52",
@@ -1844,7 +1867,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Tổ chức, cá nhân cung cấp thực phẩm mà gây ngộ độc phải chịu toàn bộ chi phí điều trị cho người bị ngộ độc và bồi thường thiệt hại theo quy định của pháp luật về dân sự.",
+                    "text": "Tổ chức, cá nhân cung cấp thực phẩm mà gây ngộ độc phải chịu toàn bộ chi phí điều trị cho người bị ngộ độc và bồi thường thiệt hại theo quy định của pháp luật về dân sự. Mục 4 TRUY XUẤT NGUỒN GỐC THỰC PHẨM, THU HỒI VÀ XỬ LÝ ĐỐI VỚI THỰC PHẨM KHÔNG BẢO ĐẢM AN TOÀN",
                     "sub_clauses": []
                 }
             ]
@@ -1964,7 +1987,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Tổ chức, cá nhân sản xuất, kinh doanh thực phẩm không bảo đảm an toàn có trách nhiệm công bố thông tin về sản phẩm bị thu hồi và chịu trách nhiệm thu hồi, xử lý thực phẩm không bảo đảm an toàn trong thời hạn do cơ quan nhà nước có thẩm quyền quyết định; chịu mọi chi phí cho việc thu hồi, xử lý thực phẩm không bảo đảm an toàn.",
+                    "text": "Tổ chức, cá nhân sản xuất, kinh doanh thực phẩm không bảo đảm an toàn có trách nhiệm công bố thông tin về sản phẩm bị thu hồi và chịu trách nhiệm thu hồi, xử lý thực phẩm không bảo đảm an toàn trong thời hạn do cơ quan nhà nước có thẩm quyền quyết định; chịu mọi chi phí cho việc thu hồi, xử lý thực phẩm không bảo đảm an toàn. Trong trường hợp quá thời hạn thu hồi mà tổ chức, cá nhân sản xuất, kinh doanh thực phẩm không thực hiện việc thu hồi thì bị cưỡng chế thu hồi theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -1991,7 +2014,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Bộ tr­ưởng Bộ Y tế, Bộ trưởng Bộ Nông nghiệp và Phát triển Nông thôn, Bộ trưởng Bộ Công thương quy định cụ thể việc thu hồi và xử lý đối với thực phẩm không bảo đảm an toàn thuộc lĩnh vực được phân công quản lý.",
+                    "text": "Bộ tr­ưởng Bộ Y tế, Bộ trưởng Bộ Nông nghiệp và Phát triển Nông thôn, Bộ trưởng Bộ Công thương quy định cụ thể việc thu hồi và xử lý đối với thực phẩm không bảo đảm an toàn thuộc lĩnh vực được phân công quản lý. CHƯƠNG IX THÔNG TIN, GIÁO DỤC, TRUYỀN THÔNG VỀ AN TOÀN THỰC PHẨM",
                     "sub_clauses": []
                 }
             ]
@@ -2142,7 +2165,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Mặt trận Tổ quốc Việt Nam, các đoàn thể, tổ chức xã hội có trách nhiệm thông tin, giáo dục, truyền thông về an toàn thực phẩm thuộc phạm vi trách nhiệm của mình.",
+                    "text": "Mặt trận Tổ quốc Việt Nam, các đoàn thể, tổ chức xã hội có trách nhiệm thông tin, giáo dục, truyền thông về an toàn thực phẩm thuộc phạm vi trách nhiệm của mình. CHƯƠNG X QUẢN LÝ NHÀ NƯỚC VỀ AN TOÀN THỰC PHẨM Mục 1 TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ AN TOÀN THỰC PHẨM",
                     "sub_clauses": []
                 }
             ]
@@ -2339,7 +2362,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Thanh tra, kiểm tra, xử lý vi phạm pháp luật về an toàn thực phẩm trên địa bàn quản lý.",
+                    "text": "Thanh tra, kiểm tra, xử lý vi phạm pháp luật về an toàn thực phẩm trên địa bàn quản lý. Mục 2 THANH TRA AN TOÀN THỰC PHẨM",
                     "sub_clauses": []
                 }
             ]
@@ -2386,7 +2409,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Việc thực hiện các quy định khác của pháp luật về an toàn thực phẩm.",
+                    "text": "Việc thực hiện các quy định khác của pháp luật về an toàn thực phẩm. Mục 3 KIỂM TRA AN TOÀN THỰC PHẨM",
                     "sub_clauses": []
                 }
             ]
@@ -2496,7 +2519,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong quá trình kiểm tra an toàn thực phẩm, đoàn kiểm tra có những nhiệm vụ, quyền hạn sau đây:",
+                    "text": "Trong quá trình kiểm tra an toàn thực phẩm, đoàn kiểm tra có những nhiệm vụ, quyền hạn sau đây: CHƯƠNG XI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2533,12 +2556,24 @@
         {
             "id": "Điều 71",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2011. Pháp lệnh vệ sinh an toàn thực phẩm số 12/2003/PL-UBTVQH11 hết hiệu lực kể từ ngày Luật này có hiệu lực.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 72",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": []

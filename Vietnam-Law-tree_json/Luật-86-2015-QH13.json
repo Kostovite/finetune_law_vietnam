@@ -15,17 +15,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về hoạt động an toàn thông tin mạng, quyền, trách nhiệm của cơ quan, tổ chức, cá nhân trong việc bảo đảm an toàn thông tin mạng; mật mã dân sự; tiêu chuẩn, quy chuẩn kỹ thuật về an toàn thông tin mạng; kinh doanh trong lĩnh vực an toàn thông tin mạng; phát triển nguồn nhân lực an toàn thông tin mạng; quản lý nhà nước về an toàn thông tin mạng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam, tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc có liên quan đến hoạt động an toàn thông tin mạng tại Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "An toàn thông tin mạng là sự bảo vệ thông tin, hệ thống thông tin trên mạng tránh bị truy nhập, sử dụng, tiết lộ, gián đoạn, sửa đổi hoặc phá hoại trái phép nhằm bảo đảm tính nguyên vẹn, tính bảo mật và tính khả dụng của thông tin.",
@@ -257,7 +274,13 @@
         {
             "id": "Điều 8",
             "title": "Xử lý vi phạm pháp luật về an toàn thông tin mạng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người nào có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. Chương II BẢO ĐẢM AN TOÀN THÔNG TIN MẠNG Mục 1. BẢO VỆ THÔNG TIN MẠNG",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 9",
@@ -270,7 +293,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thông tin thuộc phạm vi bí mật nhà nước được phân loại và bảo vệ theo quy định của pháp luật về bảo vệ bí mật nhà nước.",
+                    "text": "Thông tin thuộc phạm vi bí mật nhà nước được phân loại và bảo vệ theo quy định của pháp luật về bảo vệ bí mật nhà nước. Cơ quan, tổ chức sử dụng thông tin đã phân loại và chưa phân loại trong hoạt động thuộc lĩnh vực của mình phải có trách nhiệm xây dựng quy định, thủ tục để xử lý thông tin; xác định nội dung và phương pháp ghi truy nhập được phép vào thông tin đã được phân loại.",
                     "sub_clauses": []
                 }
             ]
@@ -506,7 +529,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan, tổ chức, cá nhân sử dụng dịch vụ trên mạng có trách nhiệm thông báo kịp thời cho doanh nghiệp cung cấp dịch vụ hoặc bộ phận chuyên trách ứng cứu sự cố khi phát hiện các hành vi phá hoại hoặc sự cố an toàn thông tin mạng.",
+                    "text": "Cơ quan, tổ chức, cá nhân sử dụng dịch vụ trên mạng có trách nhiệm thông báo kịp thời cho doanh nghiệp cung cấp dịch vụ hoặc bộ phận chuyên trách ứng cứu sự cố khi phát hiện các hành vi phá hoại hoặc sự cố an toàn thông tin mạng. Mục 2. BẢO VỆ THÔNG TIN CÁ NHÂN",
                     "sub_clauses": []
                 }
             ]
@@ -633,7 +656,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Định kỳ hằng năm tổ chức thanh tra, kiểm tra đối với tổ chức, cá nhân xử lý thông tin cá nhân; tổ chức thanh tra, kiểm tra đột xuất trong trường hợp cần thiết.",
+                    "text": "Định kỳ hằng năm tổ chức thanh tra, kiểm tra đối với tổ chức, cá nhân xử lý thông tin cá nhân; tổ chức thanh tra, kiểm tra đột xuất trong trường hợp cần thiết. Mục 3. BẢO VỆ HỆ THỐNG THÔNG TIN",
                     "sub_clauses": []
                 }
             ]
@@ -856,7 +879,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Ban Cơ yếu Chính phủ chủ trì tổ chức triển khai giải pháp dùng mật mã để bảo vệ thông tin trong hệ thống thông tin quan trọng quốc gia của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội; phối hợp với chủ quản hệ thống thông tin quan trọng quốc gia trong việc giám sát an toàn thông tin mạng theo quy định của pháp luật.",
+                    "text": "Ban Cơ yếu Chính phủ chủ trì tổ chức triển khai giải pháp dùng mật mã để bảo vệ thông tin trong hệ thống thông tin quan trọng quốc gia của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội; phối hợp với chủ quản hệ thống thông tin quan trọng quốc gia trong việc giám sát an toàn thông tin mạng theo quy định của pháp luật. Mục 4. NGĂN CHẶN XUNG ĐỘT THÔNG TIN TRÊN MẠNG",
                     "sub_clauses": []
                 }
             ]
@@ -914,7 +937,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết về trách nhiệm thực hiện và các biện pháp ngăn chặn hoạt động sử dụng mạng để khủng bố quy định tại khoản 1 Điều này.",
+                    "text": "Chính phủ quy định chi tiết về trách nhiệm thực hiện và các biện pháp ngăn chặn hoạt động sử dụng mạng để khủng bố quy định tại khoản 1 Điều này. Chương III MẬT MÃ DÂN SỰ",
                     "sub_clauses": []
                 }
             ]
@@ -1044,7 +1067,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Việc sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự được thực hiện trong trường hợp doanh nghiệp đã được cấp Giấy phép thay đổi tên, thay đổi người đại diện theo pháp luật hoặc thay đổi, bổ sung sản phẩm, dịch vụ mật mã dân sự.",
+                    "text": "Việc sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự được thực hiện trong trường hợp doanh nghiệp đã được cấp Giấy phép thay đổi tên, thay đổi người đại diện theo pháp luật hoặc thay đổi, bổ sung sản phẩm, dịch vụ mật mã dân sự. Doanh nghiệp có trách nhiệm nộp hồ sơ đề nghị sửa đổi, bổ sung Giấy phép tại Ban Cơ yếu Chính phủ. Hồ sơ được lập thành hai bộ, gồm: Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ, Ban Cơ yếu Chính phủ thẩm định, sửa đổi, bổ sung và cấp lại Giấy phép cho doanh nghiệp; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1071,7 +1094,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Doanh nghiệp không vi phạm các quy định của pháp luật về kinh doanh sản phẩm, dịch vụ mật mã dân sự được gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự một lần với thời gian gia hạn không quá 01 năm.",
+                    "text": "Doanh nghiệp không vi phạm các quy định của pháp luật về kinh doanh sản phẩm, dịch vụ mật mã dân sự được gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự một lần với thời gian gia hạn không quá 01 năm. Hồ sơ đề nghị gia hạn Giấy phép phải được gửi tới Ban Cơ yếu Chính phủ chậm nhất là 60 ngày trước ngày Giấy phép hết hạn. Hồ sơ đề nghị gia hạn Giấy phép được lập thành hai bộ, gồm: Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ, Ban Cơ yếu Chính phủ thẩm định, quyết định gia hạn và cấp lại Giấy phép cho doanh nghiệp; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1244,7 +1267,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Tổ chức, cá nhân sử dụng sản phẩm mật mã dân sự không do doanh nghiệp được cấp phép kinh doanh sản phẩm mật mã dân sự cung cấp phải khai báo với Ban Cơ yếu Chính phủ, trừ cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước ngoài và cơ quan đại diện của tổ chức quốc tế liên Chính phủ tại Việt Nam.",
+                    "text": "Tổ chức, cá nhân sử dụng sản phẩm mật mã dân sự không do doanh nghiệp được cấp phép kinh doanh sản phẩm mật mã dân sự cung cấp phải khai báo với Ban Cơ yếu Chính phủ, trừ cơ quan đại diện ngoại giao, cơ quan lãnh sự của nước ngoài và cơ quan đại diện của tổ chức quốc tế liên Chính phủ tại Việt Nam. Chương IV TIÊU CHUẨN, QUY CHUẨN KỸ THUẬT AN TOÀN THÔNG TIN MẠNG",
                     "sub_clauses": []
                 }
             ]
@@ -1358,7 +1381,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Việc thừa nhận kết quả đánh giá hợp chuẩn, hợp quy về an toàn thông tin mạng giữa Việt Nam với quốc gia, vùng lãnh thổ khác, giữa tổ chức chứng nhận sự phù hợp của Việt Nam với tổ chức chứng nhận sự phù hợp của quốc gia, vùng lãnh thổ khác được thực hiện theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật.",
+                    "text": "Việc thừa nhận kết quả đánh giá hợp chuẩn, hợp quy về an toàn thông tin mạng giữa Việt Nam với quốc gia, vùng lãnh thổ khác, giữa tổ chức chứng nhận sự phù hợp của Việt Nam với tổ chức chứng nhận sự phù hợp của quốc gia, vùng lãnh thổ khác được thực hiện theo quy định của pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật. Chương V KINH DOANH TRONG LĨNH VỰC AN TOÀN THÔNG TIN MẠNG Mục 1. CẤP GIẤY PHÉP KINH DOANH SẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG",
                     "sub_clauses": []
                 }
             ]
@@ -1379,7 +1402,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng phải tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan.",
+                    "text": "Việc kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng phải tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan. Điều kiện kinh doanh, trình tự thủ tục cấp Giấy phép kinh doanh sản phẩm, dịch vụ mật mã dân sự, việc xuất khẩu, nhập khẩu sản phẩm mật mã dân sự, trách nhiệm của doanh nghiệp kinh doanh sản phẩm, dịch vụ mật mã dân sự và việc sử dụng sản phẩm, dịch vụ mật mã dân sự thực hiện theo quy định tại Chương III của Luật này. Điều kiện kinh doanh, trình tự, thủ tục cấp Giấy phép kinh doanh dịch vụ chứng thực chữ ký điện tử thực hiện theo quy định của pháp luật về giao dịch điện tử.",
                     "sub_clauses": []
                 }
             ]
@@ -1643,7 +1666,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Việc sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng được thực hiện trong trường hợp doanh nghiệp đã được cấp Giấy phép thay đổi tên, thay đổi người đại diện theo pháp luật hoặc thay đổi, bổ sung sản phẩm, dịch vụ an toàn thông tin mạng mà mình cung cấp.",
+                    "text": "Việc sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng được thực hiện trong trường hợp doanh nghiệp đã được cấp Giấy phép thay đổi tên, thay đổi người đại diện theo pháp luật hoặc thay đổi, bổ sung sản phẩm, dịch vụ an toàn thông tin mạng mà mình cung cấp. Doanh nghiệp có trách nhiệm nộp hồ sơ đề nghị sửa đổi, bổ sung nội dung Giấy phép tại Bộ Thông tin và Truyền thông. Hồ sơ được lập thành hai bộ, gồm đơn đề nghị sửa đổi, bổ sung nội dung Giấy phép, báo cáo mô tả chi tiết nội dung đề nghị sửa đổi, bổ sung và các tài liệu khác có liên quan. Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ, Bộ Thông tin và Truyền thông thẩm định, sửa đổi, bổ sung và cấp lại Giấy phép cho doanh nghiệp; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.",
                     "sub_clauses": []
                 },
                 {
@@ -1653,7 +1676,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Doanh nghiệp không vi phạm quy định của pháp luật về kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng được gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng một lần với thời gian gia hạn không quá 01 năm. Hồ sơ đề nghị gia hạn Giấy phép phải được gửi tới Bộ Thông tin và Truyền thông chậm nhất là 60 ngày trước ngày Giấy phép hết hạn. Hồ sơ đề nghị gia hạn Giấy phép được lập thành hai bộ, gồm:",
+                    "text": "Doanh nghiệp không vi phạm quy định của pháp luật về kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng được gia hạn Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng một lần với thời gian gia hạn không quá 01 năm. Hồ sơ đề nghị gia hạn Giấy phép phải được gửi tới Bộ Thông tin và Truyền thông chậm nhất là 60 ngày trước ngày Giấy phép hết hạn. Hồ sơ đề nghị gia hạn Giấy phép được lập thành hai bộ, gồm: Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ, Bộ Thông tin và Truyền thông thẩm định, quyết định gia hạn và cấp lại Giấy phép cho doanh nghiệp; trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lý do.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1738,7 +1761,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Phối hợp, tạo điều kiện cho cơ quan nhà nước có thẩm quyền thực hiện các biện pháp nghiệp vụ khi có yêu cầu.",
+                    "text": "Phối hợp, tạo điều kiện cho cơ quan nhà nước có thẩm quyền thực hiện các biện pháp nghiệp vụ khi có yêu cầu. Mục 2. QUẢN LÝ NHẬP KHẨU SẢN PHẨM AN TOÀN THÔNG TIN MẠNG",
                     "sub_clauses": []
                 }
             ]
@@ -1798,7 +1821,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bộ Thông tin và Truyền thông quy định chi tiết về trình tự, thủ tục, hồ sơ cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng theo giấy phép.",
+                    "text": "Bộ Thông tin và Truyền thông quy định chi tiết về trình tự, thủ tục, hồ sơ cấp Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng theo giấy phép. Chương VI PHÁT TRIỂN NGUỒN NHÂN LỰC AN TOÀN THÔNG TIN MẠNG",
                     "sub_clauses": []
                 }
             ]
@@ -1845,7 +1868,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ Lao động – Thương binh và Xã hội chủ trì, phối hợp với Bộ Thông tin và Truyền thông, bộ, ngành có liên quan công nhận văn bằng, chứng chỉ giáo dục nghề nghiệp về an toàn thông tin mạng do tổ chức nước ngoài cấp.",
+                    "text": "Bộ Lao động – Thương binh và Xã hội chủ trì, phối hợp với Bộ Thông tin và Truyền thông, bộ, ngành có liên quan công nhận văn bằng, chứng chỉ giáo dục nghề nghiệp về an toàn thông tin mạng do tổ chức nước ngoài cấp. Chương VII QUẢN LÝ NHÀ NƯỚC VỀ AN TOÀN THÔNG TIN MẠNG",
                     "sub_clauses": []
                 }
             ]
@@ -2071,7 +2094,7 @@
                 },
                 {
                     "number": "11",
-                    "text": "Ủy ban nhân dân cấp tỉnh trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về an toàn thông tin mạng ở địa phương.",
+                    "text": "Ủy ban nhân dân cấp tỉnh trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về an toàn thông tin mạng ở địa phương. Chương VIII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2079,13 +2102,29 @@
         {
             "id": "Điều 53",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 54",
             "title": "Quy định chi tiết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ, cơ quan nhà nước có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 10 thông qua ngày 19 tháng 11 năm 2015. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 10 thông qua ngày 19 tháng 11 năm 2015.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

@@ -15,7 +15,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Tòa án nhân dân; về Thẩm phán, Hội thẩm và các chức danh khác trong Tòa án nhân dân; về bảo đảm hoạt động của Tòa án nhân dân.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -23,12 +29,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tòa án nhân dân là cơ quan xét xử của nước Cộng hòa xã hội chủ nghĩa Việt Nam, thực hiện quyền tư pháp.",
+                    "text": "Tòa án nhân dân là cơ quan xét xử của nước Cộng hòa xã hội chủ nghĩa Việt Nam, thực hiện quyền tư pháp. Tòa án nhân dân có nhiệm vụ bảo vệ công lý, bảo vệ quyền con người, quyền công dân, bảo vệ chế độ xã hội chủ nghĩa, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân. Bằng hoạt động của mình, Tòa án góp phần giáo dục công dân trung thành với Tổ quốc, nghiêm chỉnh chấp hành pháp luật, tôn trọng những quy tắc của cuộc sống xã hội, ý thức đấu tranh phòng, chống tội phạm, các vi phạm pháp luật khác.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Tòa án nhân danh nước Cộng hòa xã hội chủ nghĩa Việt Nam xét xử các vụ án hình sự, dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động, hành chính và giải quyết các việc khác theo quy định của pháp luật; xem xét đầy đủ, khách quan, toàn diện các tài liệu, chứng cứ đã được thu thập trong quá trình tố tụng; căn cứ vào kết quả tranh tụng ra bản án, quyết định việc có tội hoặc không có tội, áp dụng hoặc không áp dụng hình phạt, biện pháp tư pháp, quyết định về quyền và nghĩa vụ về tài sản, quyền nhân thân.",
+                    "text": "Tòa án nhân danh nước Cộng hòa xã hội chủ nghĩa Việt Nam xét xử các vụ án hình sự, dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động, hành chính và giải quyết các việc khác theo quy định của pháp luật; xem xét đầy đủ, khách quan, toàn diện các tài liệu, chứng cứ đã được thu thập trong quá trình tố tụng; căn cứ vào kết quả tranh tụng ra bản án, quyết định việc có tội hoặc không có tội, áp dụng hoặc không áp dụng hình phạt, biện pháp tư pháp, quyết định về quyền và nghĩa vụ về tài sản, quyền nhân thân. Bản án, quyết định của Tòa án nhân dân có hiệu lực pháp luật phải được cơ quan, tổ chức, cá nhân tôn trọng; cơ quan, tổ chức, cá nhân hữu quan phải nghiêm chỉnh chấp hành.",
                     "sub_clauses": []
                 },
                 {
@@ -69,7 +75,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Ra quyết định thi hành bản án hình sự, hoãn chấp hành hình phạt tù, tạm đình chỉ chấp hành hình phạt tù, giảm hoặc miễn chấp hành hình phạt, xóa án tích, miễn, giảm nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước; thực hiện các quyền hạn khác theo quy định của Bộ luật hình sự, Luật thi hành án hình sự, Luật thi hành án dân sự.",
+                    "text": "Ra quyết định thi hành bản án hình sự, hoãn chấp hành hình phạt tù, tạm đình chỉ chấp hành hình phạt tù, giảm hoặc miễn chấp hành hình phạt, xóa án tích, miễn, giảm nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước; thực hiện các quyền hạn khác theo quy định của Bộ luật hình sự, Luật thi hành án hình sự, Luật thi hành án dân sự. Ra quyết định hoãn, miễn, giảm, tạm đình chỉ chấp hành biện pháp xử lý hành chính do Tòa án áp dụng và thực hiện các quyền hạn khác theo quy định của Luật xử lý vi phạm hành chính.",
                     "sub_clauses": []
                 },
                 {
@@ -139,7 +145,13 @@
         {
             "id": "Điều 5",
             "title": "Nguyên tắc tổ chức của Tòa án nhân dân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Các Tòa án nhân dân được tổ chức độc lập theo thẩm quyền xét xử.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 6",
@@ -147,7 +159,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chế độ xét xử sơ thẩm, phúc thẩm được bảo đảm.",
+                    "text": "Chế độ xét xử sơ thẩm, phúc thẩm được bảo đảm. Bản án, quyết định sơ thẩm của Tòa án có thể bị kháng cáo, kháng nghị theo quy định của luật tố tụng. Bản án, quyết định sơ thẩm không bị kháng cáo, kháng nghị trong thời hạn do luật định thì có hiệu lực pháp luật. Bản án, quyết định sơ thẩm bị kháng cáo, kháng nghị thì vụ án phải được xét xử phúc thẩm. Bản án, quyết định phúc thẩm của Tòa án có hiệu lực pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -176,7 +188,13 @@
         {
             "id": "Điều 8",
             "title": "Thực hiện chế độ xét xử có Hội thẩm tham gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc xét xử sơ thẩm của Tòa án có Hội thẩm tham gia theo quy định của luật tố tụng, trừ trường hợp xét xử theo thủ tục rút gọn.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 9",
@@ -197,7 +215,13 @@
         {
             "id": "Điều 10",
             "title": "Tòa án nhân dân xét xử tập thể",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tòa án nhân dân xét xử tập thể và quyết định theo đa số, trừ trường hợp xét xử theo thủ tục rút gọn. Thành phần Hội đồng xét xử ở mỗi cấp xét xử do luật tố tụng quy định.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 11",
@@ -218,22 +242,46 @@
         {
             "id": "Điều 12",
             "title": "Bảo đảm quyền bình đẳng trước Tòa án nhân dân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tòa án xét xử theo nguyên tắc mọi người đều bình đẳng trước pháp luật, không phân biệt dân tộc, giới tính, tín ngưỡng, tôn giáo, thành phần xã hội, địa vị xã hội; cá nhân, cơ quan, tổ chức đều bình đẳng trước Tòa án.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 13",
             "title": "Bảo đảm tranh tụng trong xét xử",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nguyên tắc tranh tụng trong xét xử được bảo đảm. Tòa án có trách nhiệm bảo đảm cho những người tham gia tố tụng thực hiện quyền tranh tụng trong xét xử. Việc thực hiện nguyên tắc tranh tụng trong xét xử theo quy định của luật tố tụng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 14",
             "title": "Trách nhiệm chứng minh tội phạm và việc bảo đảm quyền bào chữa của bị can, bị cáo, quyền bảo vệ lợi ích hợp pháp của đương sự",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người bị buộc tội được coi là không có tội cho đến khi được chứng minh theo trình tự luật định và có bản án kết tội của Tòa án đã có hiệu lực pháp luật. Quyền bào chữa của bị can, bị cáo, quyền bảo vệ lợi ích hợp pháp của đương sự được bảo đảm. Bị can, bị cáo có quyền tự bào chữa, nhờ luật sư hoặc người khác bào chữa; đương sự khác trong vụ án có quyền tự mình hoặc nhờ người bảo vệ lợi ích hợp pháp của mình. Tòa án có trách nhiệm bảo đảm quyền bào chữa của bị can, bị cáo, quyền bảo vệ lợi ích hợp pháp của đương sự.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 15",
             "title": "Tiếng nói, chữ viết dùng trước Tòa án nhân dân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tiếng nói, chữ viết dùng trước Tòa án là tiếng Việt. Tòa án bảo đảm cho những người tham gia tố tụng quyền dùng tiếng nói, chữ viết của dân tộc mình trước Tòa án nhân dân, trường hợp này phải có phiên dịch.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 16",
@@ -288,7 +336,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tòa án nhân dân tối cao chủ trì, phối hợp với Bộ Quốc phòng quản lý các Tòa án quân sự về tổ chức.",
+                    "text": "Tòa án nhân dân tối cao chủ trì, phối hợp với Bộ Quốc phòng quản lý các Tòa án quân sự về tổ chức. Quy chế phối hợp giữa Tòa án nhân dân tối cao và Bộ Quốc phòng trong việc quản lý các Tòa án quân sự về tổ chức do Ủy ban thường vụ Quốc hội quy định.",
                     "sub_clauses": []
                 }
             ]
@@ -296,7 +344,13 @@
         {
             "id": "Điều 19",
             "title": "Giám sát hoạt động của Tòa án nhân dân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Quốc hội, các cơ quan của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, đại biểu Hội đồng nhân dân, Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận giám sát hoạt động của Tòa án nhân dân theo quy định của luật. Chương II TÒA ÁN NHÂN DÂN TỐI CAO Mục 1 NHIỆM VỤ, QUYỀN HẠN, CƠ CẤU TỔ CHỨC CỦA TÒA ÁN NHÂN DÂN TỐI CAO",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 20",
@@ -304,7 +358,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tòa án nhân dân tối cao là cơ quan xét xử cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+                    "text": "Tòa án nhân dân tối cao là cơ quan xét xử cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam. Tòa án nhân dân tối cao giám đốc thẩm, tái thẩm bản án, quyết định của các Tòa án đã có hiệu lực pháp luật bị kháng nghị theo quy định của luật tố tụng.",
                     "sub_clauses": []
                 },
                 {
@@ -404,7 +458,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Phiên họp của Hội đồng Thẩm phán Tòa án nhân dân tối cao phải có ít nhất hai phần ba tổng số thành viên tham gia; quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao phải được quá nửa tổng số thành viên biểu quyết tán thành.",
+                    "text": "Phiên họp của Hội đồng Thẩm phán Tòa án nhân dân tối cao phải có ít nhất hai phần ba tổng số thành viên tham gia; quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao phải được quá nửa tổng số thành viên biểu quyết tán thành. Viện trưởng Viện kiểm sát nhân dân tối cao, Bộ trưởng Bộ Tư pháp có trách nhiệm tham dự phiên họp của Hội đồng Thẩm phán Tòa án nhân dân tối cao khi thảo luận, thông qua nghị quyết của Hội đồng Thẩm phán Tòa án nhân dân tối cao.",
                     "sub_clauses": []
                 },
                 {
@@ -433,7 +487,13 @@
         {
             "id": "Điều 24",
             "title": "Bộ máy giúp việc của Tòa án nhân dân tối cao",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ máy giúp việc của Tòa án nhân dân tối cao gồm các vụ và các đơn vị tương đương. Chánh án Tòa án nhân dân tối cao trình Ủy ban thường vụ Quốc hội phê chuẩn tổ chức bộ máy; nhiệm vụ, quyền hạn của các đơn vị trong bộ máy giúp việc.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 25",
@@ -446,7 +506,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc thành lập cơ sở đào tạo, bồi dưỡng của Tòa án nhân dân tối cao được thực hiện theo quy định của luật.",
+                    "text": "Việc thành lập cơ sở đào tạo, bồi dưỡng của Tòa án nhân dân tối cao được thực hiện theo quy định của luật. Mục 2 CHÁNH ÁN, PHÓ CHÁNH ÁN TÒA ÁN NHÂN DÂN TỐI CAO",
                     "sub_clauses": []
                 }
             ]
@@ -457,7 +517,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chánh án Tòa án nhân dân tối cao do Quốc hội bầu, miễn nhiệm, bãi nhiệm theo đề nghị của Chủ tịch nước.",
+                    "text": "Chánh án Tòa án nhân dân tối cao do Quốc hội bầu, miễn nhiệm, bãi nhiệm theo đề nghị của Chủ tịch nước. Nhiệm kỳ của Chánh án Tòa án nhân dân tối cao theo nhiệm kỳ của Quốc hội.",
                     "sub_clauses": []
                 },
                 {
@@ -518,7 +578,7 @@
                 },
                 {
                     "number": "10",
-                    "text": "Trình Ủy ban thường vụ Quốc hội quyết định thành lập, giải thể Tòa án nhân dân cấp cao; Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương; Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương; Tòa án quân sự quân khu và tương đương; Tòa án quân sự khu vực; quy định về phạm vi thẩm quyền theo lãnh thổ của Tòa án nhân dân cấp cao và thành lập các Tòa chuyên trách khác của Tòa án nhân dân khi xét thấy cần thiết.",
+                    "text": "Trình Ủy ban thường vụ Quốc hội quyết định thành lập, giải thể Tòa án nhân dân cấp cao; Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương; Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương; Tòa án quân sự quân khu và tương đương; Tòa án quân sự khu vực; quy định về phạm vi thẩm quyền theo lãnh thổ của Tòa án nhân dân cấp cao và thành lập các Tòa chuyên trách khác của Tòa án nhân dân khi xét thấy cần thiết. Trình Ủy ban thường vụ Quốc hội phê chuẩn cơ cấu tổ chức, nhiệm vụ, quyền hạn bộ máy giúp việc của Tòa án nhân dân tối cao.",
                     "sub_clauses": []
                 },
                 {
@@ -564,7 +624,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Phó Chánh án Tòa án nhân dân tối cao được Chủ tịch nước bổ nhiệm trong số các Thẩm phán Tòa án nhân dân tối cao. Nhiệm kỳ của Phó Chánh án Tòa án nhân dân tối cao là 05 năm, kể từ ngày được bổ nhiệm.",
+                    "text": "Phó Chánh án Tòa án nhân dân tối cao được Chủ tịch nước bổ nhiệm trong số các Thẩm phán Tòa án nhân dân tối cao. Nhiệm kỳ của Phó Chánh án Tòa án nhân dân tối cao là 05 năm, kể từ ngày được bổ nhiệm. Phó Chánh án Tòa án nhân dân tối cao do Chủ tịch nước miễn nhiệm, cách chức.",
                     "sub_clauses": []
                 },
                 {
@@ -574,7 +634,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thực hiện nhiệm vụ, quyền hạn theo quy định của luật tố tụng.",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn theo quy định của luật tố tụng. CHƯƠNG III TÒA ÁN NHÂN DÂN CẤP CAO Mục 1 NHIỆM VỤ, QUYỀN HẠN, CƠ CẤU TỔ CHỨC CỦA TÒA ÁN NHÂN DÂN CẤP CAO",
                     "sub_clauses": []
                 }
             ]
@@ -601,7 +661,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ cấu tổ chức của Tòa án nhân dân cấp cao gồm:",
+                    "text": "Cơ cấu tổ chức của Tòa án nhân dân cấp cao gồm: Trường hợp cần thiết, Ủy ban thường vụ Quốc hội quyết định thành lập Tòa chuyên trách khác theo đề nghị của Chánh án Tòa án nhân dân tối cao;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -630,7 +690,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ủy ban Thẩm phán Tòa án nhân dân cấp cao gồm Chánh án, các Phó Chánh án là Thẩm phán cao cấp và một số Thẩm phán cao cấp do Chánh án Tòa án nhân dân tối cao quyết định theo đề nghị của Chánh án Tòa án nhân dân cấp cao.",
+                    "text": "Ủy ban Thẩm phán Tòa án nhân dân cấp cao gồm Chánh án, các Phó Chánh án là Thẩm phán cao cấp và một số Thẩm phán cao cấp do Chánh án Tòa án nhân dân tối cao quyết định theo đề nghị của Chánh án Tòa án nhân dân cấp cao. Số lượng thành viên Ủy ban Thẩm phán Tòa án nhân dân cấp cao không dưới mười một người và không quá mười ba người.",
                     "sub_clauses": []
                 },
                 {
@@ -673,7 +733,13 @@
         {
             "id": "Điều 33",
             "title": "Nhiệm vụ, quyền hạn của Tòa chuyên trách Tòa án nhân dân cấp cao",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tòa chuyên trách Tòa án nhân dân cấp cao phúc thẩm vụ việc mà bản án, quyết định của Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương thuộc phạm vi thẩm quyền theo lãnh thổ chưa có hiệu lực pháp luật bị kháng cáo, kháng nghị theo quy định của luật tố tụng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 34",
@@ -686,7 +752,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chánh án Tòa án nhân dân tối cao quyết định thành lập và quy định nhiệm vụ, quyền hạn của Văn phòng, các đơn vị khác thuộc bộ máy giúp việc của Tòa án nhân dân cấp cao.",
+                    "text": "Chánh án Tòa án nhân dân tối cao quyết định thành lập và quy định nhiệm vụ, quyền hạn của Văn phòng, các đơn vị khác thuộc bộ máy giúp việc của Tòa án nhân dân cấp cao. Mục 2 CHÁNH ÁN, PHÓ CHÁNH ÁN TÒA ÁN NHÂN DÂN CẤP CAO",
                     "sub_clauses": []
                 }
             ]
@@ -697,7 +763,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chánh án Tòa án nhân dân cấp cao do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.",
+                    "text": "Chánh án Tòa án nhân dân cấp cao do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức. Nhiệm kỳ của Chánh án Tòa án nhân dân cấp cao là 05 năm, kể từ ngày được bổ nhiệm.",
                     "sub_clauses": []
                 },
                 {
@@ -738,7 +804,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Phó Chánh án Tòa án nhân dân cấp cao do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.",
+                    "text": "Phó Chánh án Tòa án nhân dân cấp cao do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức. Nhiệm kỳ của Phó Chánh án Tòa án nhân dân cấp cao là 05 năm, kể từ ngày được bổ nhiệm.",
                     "sub_clauses": []
                 },
                 {
@@ -748,7 +814,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thực hiện nhiệm vụ, quyền hạn theo quy định của luật tố tụng.",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn theo quy định của luật tố tụng. Chương IV TÒA ÁN NHÂN DÂN TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG Mục 1 NHIỆM VỤ, QUYỀN HẠN, CƠ CẤU TỔ CHỨC CỦA TÒA ÁN NHÂN DÂN TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG",
                     "sub_clauses": []
                 }
             ]
@@ -785,7 +851,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ cấu tổ chức của Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương gồm:",
+                    "text": "Cơ cấu tổ chức của Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương gồm: Trường hợp cần thiết, Ủy ban thường vụ Quốc hội quyết định thành lập Tòa chuyên trách khác theo đề nghị của Chánh án Tòa án nhân dân tối cao. Căn cứ quy định tại điểm này và yêu cầu thực tế xét xử ở mỗi Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Chánh án Tòa án nhân dân tối cao quyết định việc tổ chức các Tòa chuyên trách;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -814,7 +880,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ủy ban Thẩm phán Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương gồm Chánh án, Phó Chánh án và một số Thẩm phán. Số lượng thành viên của Ủy ban Thẩm phán do Chánh án Tòa án nhân dân tối cao quyết định theo đề nghị của Chánh án Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương.",
+                    "text": "Ủy ban Thẩm phán Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương gồm Chánh án, Phó Chánh án và một số Thẩm phán. Số lượng thành viên của Ủy ban Thẩm phán do Chánh án Tòa án nhân dân tối cao quyết định theo đề nghị của Chánh án Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương. Phiên họp Ủy ban Thẩm phán Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương do Chánh án chủ trì.",
                     "sub_clauses": []
                 },
                 {
@@ -868,7 +934,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chánh án Tòa án nhân dân tối cao quyết định thành lập và quy định nhiệm vụ, quyền hạn của Văn phòng, phòng và các đơn vị tương đương thuộc bộ máy giúp việc của Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương.",
+                    "text": "Chánh án Tòa án nhân dân tối cao quyết định thành lập và quy định nhiệm vụ, quyền hạn của Văn phòng, phòng và các đơn vị tương đương thuộc bộ máy giúp việc của Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương. Mục 2 CHÁNH ÁN, PHÓ CHÁNH ÁN TÒA ÁN NHÂN DÂN TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG",
                     "sub_clauses": []
                 }
             ]
@@ -879,7 +945,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chánh án Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.",
+                    "text": "Chánh án Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức. Nhiệm kỳ của Chánh án Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương là 05 năm, kể từ ngày được bổ nhiệm.",
                     "sub_clauses": []
                 },
                 {
@@ -924,7 +990,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Phó Chánh án Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.",
+                    "text": "Phó Chánh án Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức. Nhiệm kỳ của Phó Chánh án Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương là 05 năm, kể từ ngày được bổ nhiệm.",
                     "sub_clauses": []
                 },
                 {
@@ -934,7 +1000,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thực hiện nhiệm vụ, quyền hạn theo quy định của luật tố tụng.",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn theo quy định của luật tố tụng. Chương V TÒA ÁN NHÂN DÂN HUYỆN, QUẬN, THỊ XÃ, THÀNH PHỐ THUỘC TỈNH VÀ TƯƠNG ĐƯƠNG Mục 1 NHIỆM VỤ, QUYỀN HẠN, CƠ CẤU TỔ CHỨC CỦA TÒA ÁN NHÂN DÂN HUYỆN, QUẬN, THỊ XÃ, THÀNH PHỐ THUỘC TỈNH VÀ TƯƠNG ĐƯƠNG",
                     "sub_clauses": []
                 }
             ]
@@ -961,7 +1027,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương có thể có Tòa hình sự, Tòa dân sự, Tòa gia đình và người chưa thành niên, Tòa xử lý hành chính. Trường hợp cần thiết, Ủy ban thường vụ Quốc hội quyết định thành lập Tòa chuyên trách khác theo đề nghị của Chánh án Tòa án nhân dân tối cao.",
+                    "text": "Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương có thể có Tòa hình sự, Tòa dân sự, Tòa gia đình và người chưa thành niên, Tòa xử lý hành chính. Trường hợp cần thiết, Ủy ban thường vụ Quốc hội quyết định thành lập Tòa chuyên trách khác theo đề nghị của Chánh án Tòa án nhân dân tối cao. Căn cứ quy định tại khoản này và yêu cầu, thực tế xét xử ở mỗi Tòa án nhân dân huyện, quận, thị xã, thành phố trực thuộc tỉnh và tương đương, Chánh án Tòa án nhân dân tối cao quyết định việc tổ chức Tòa chuyên trách.",
                     "sub_clauses": []
                 },
                 {
@@ -979,7 +1045,13 @@
         {
             "id": "Điều 46",
             "title": "Nhiệm vụ, quyền hạn của bộ máy giúp việc Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chánh án Tòa án nhân dân tối cao quyết định thành lập và quy định nhiệm vụ, quyền hạn của bộ máy giúp việc Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương. Mục 2 CHÁNH ÁN, PHÓ CHÁNH ÁN TÒA ÁN NHÂN DÂN HUYỆN, QUẬN, THỊ XÃ, THÀNH PHỐ THUỘC TỈNH VÀ TƯƠNG ĐƯƠNG",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 47",
@@ -987,7 +1059,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chánh án Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.",
+                    "text": "Chánh án Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức. Nhiệm kỳ của Chánh án Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương là 05 năm, kể từ ngày được bổ nhiệm.",
                     "sub_clauses": []
                 },
                 {
@@ -1016,7 +1088,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Phó Chánh án Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức.",
+                    "text": "Phó Chánh án Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức. Nhiệm kỳ của Phó Chánh án Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương là 05 năm, kể từ ngày được bổ nhiệm.",
                     "sub_clauses": []
                 },
                 {
@@ -1026,7 +1098,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thực hiện nhiệm vụ, quyền hạn theo quy định của luật tố tụng.",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn theo quy định của luật tố tụng. Chương VI TÒA ÁN QUÂN SỰ Mục 1 NHIỆM VỤ, QUYỀN HẠN, CƠ CẤU TỔ CHỨC CỦA TÒA ÁN QUÂN SỰ",
                     "sub_clauses": []
                 }
             ]
@@ -1034,7 +1106,13 @@
         {
             "id": "Điều 49",
             "title": "Nhiệm vụ, quyền hạn của Tòa án quân sự",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Các Tòa án quân sự được tổ chức trong Quân đội nhân dân Việt Nam để xét xử những vụ án mà bị cáo là quân nhân tại ngũ và những vụ án khác theo quy định của luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 50",
@@ -1111,7 +1189,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ủy ban Thẩm phán Tòa án quân sự trung ương bao gồm Chánh án, Phó Chánh án là Thẩm phán cao cấp và một số Thẩm phán cao cấp do Chánh án Tòa án nhân dân tối cao quyết định theo đề nghị của Chánh án Tòa án quân sự trung ương.",
+                    "text": "Ủy ban Thẩm phán Tòa án quân sự trung ương bao gồm Chánh án, Phó Chánh án là Thẩm phán cao cấp và một số Thẩm phán cao cấp do Chánh án Tòa án nhân dân tối cao quyết định theo đề nghị của Chánh án Tòa án quân sự trung ương. Tổng số thành viên Ủy ban Thẩm phán Tòa án quân sự trung ương không quá 07 người.",
                     "sub_clauses": []
                 },
                 {
@@ -1138,7 +1216,13 @@
         {
             "id": "Điều 53",
             "title": "Việc tổ chức xét xử của Ủy ban Thẩm phán Tòa án quân sự Trung ương.",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban Thẩm phán Tòa án quân sự trung ương tổ chức xét xử theo quy định tại Điều 32 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 54",
@@ -1213,7 +1297,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ủy ban Thẩm phán Tòa án quân sự quân khu và tương đương gồm Chánh án, Phó Chánh án và một số Thẩm phán. Số lượng thành viên của Ủy ban Thẩm phán do Chánh án Tòa án nhân dân tối cao quyết định theo đề nghị của Chánh án Tòa án quân sự quân khu và tương đương.",
+                    "text": "Ủy ban Thẩm phán Tòa án quân sự quân khu và tương đương gồm Chánh án, Phó Chánh án và một số Thẩm phán. Số lượng thành viên của Ủy ban Thẩm phán do Chánh án Tòa án nhân dân tối cao quyết định theo đề nghị của Chánh án Tòa án quân sự quân khu và tương đương. Phiên họp Ủy ban Thẩm phán Tòa án quân sự quân khu và tương đương do Chánh án chủ trì.",
                     "sub_clauses": []
                 },
                 {
@@ -1265,7 +1349,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chánh án Tòa án nhân dân tối cao quyết định thành lập và quy định nhiệm vụ, quyền hạn của bộ máy giúp việc trong Tòa án quân sự khu vực sau khi thống nhất với Bộ trưởng Bộ Quốc phòng.",
+                    "text": "Chánh án Tòa án nhân dân tối cao quyết định thành lập và quy định nhiệm vụ, quyền hạn của bộ máy giúp việc trong Tòa án quân sự khu vực sau khi thống nhất với Bộ trưởng Bộ Quốc phòng. Mục 2 CHÁNH ÁN, PHÓ CHÁNH ÁN TÒA ÁN QUÂN SỰ",
                     "sub_clauses": []
                 }
             ]
@@ -1276,7 +1360,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chánh án Tòa án quân sự trung ương là Phó Chánh án Tòa án nhân dân tối cao do Chủ tịch nước bổ nhiệm, miễn nhiệm, cách chức.",
+                    "text": "Chánh án Tòa án quân sự trung ương là Phó Chánh án Tòa án nhân dân tối cao do Chủ tịch nước bổ nhiệm, miễn nhiệm, cách chức. Nhiệm kỳ của Chánh án Tòa án quân sự trung ương là 05 năm, kể từ ngày được bổ nhiệm.",
                     "sub_clauses": []
                 },
                 {
@@ -1325,7 +1409,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Phó Chánh án Tòa án quân sự trung ương do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức sau khi thống nhất với Bộ trưởng Bộ Quốc phòng.",
+                    "text": "Phó Chánh án Tòa án quân sự trung ương do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức sau khi thống nhất với Bộ trưởng Bộ Quốc phòng. Nhiệm kỳ của Phó Chánh án Tòa án quân sự trung ương là 05 năm, kể từ ngày được bổ nhiệm.",
                     "sub_clauses": []
                 },
                 {
@@ -1346,7 +1430,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chánh án Tòa án quân sự quân khu và tương đương do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức sau khi thống nhất với Bộ trưởng Bộ Quốc phòng.",
+                    "text": "Chánh án Tòa án quân sự quân khu và tương đương do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức sau khi thống nhất với Bộ trưởng Bộ Quốc phòng. Nhiệm kỳ của Chánh án Tòa án quân sự quân khu và tương đương là 05 năm, kể từ ngày được bổ nhiệm.",
                     "sub_clauses": []
                 },
                 {
@@ -1375,7 +1459,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Phó Chánh án Tòa án quân sự quân khu và tương đương do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức sau khi thống nhất với Bộ trưởng Bộ Quốc phòng.",
+                    "text": "Phó Chánh án Tòa án quân sự quân khu và tương đương do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức sau khi thống nhất với Bộ trưởng Bộ Quốc phòng. Nhiệm kỳ của Phó Chánh án Tòa án quân sự quân khu và tương đương là 05 năm, kể từ ngày được bổ nhiệm.",
                     "sub_clauses": []
                 },
                 {
@@ -1396,7 +1480,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chánh án Tòa án quân sự khu vực do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức sau khi thống nhất với Bộ trưởng Bộ Quốc phòng.",
+                    "text": "Chánh án Tòa án quân sự khu vực do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức sau khi thống nhất với Bộ trưởng Bộ Quốc phòng. Nhiệm kỳ của Chánh án Tòa án quân sự khu vực là 05 năm, kể từ ngày được bổ nhiệm.",
                     "sub_clauses": []
                 },
                 {
@@ -1425,7 +1509,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Phó Chánh án Tòa án quân sự khu vực do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức sau khi thống nhất với Bộ trưởng Bộ Quốc phòng.",
+                    "text": "Phó Chánh án Tòa án quân sự khu vực do Chánh án Tòa án nhân dân tối cao bổ nhiệm, miễn nhiệm, cách chức sau khi thống nhất với Bộ trưởng Bộ Quốc phòng. Nhiệm kỳ của Phó Chánh án Tòa án quân sự khu vực là 05 năm, kể từ ngày được bổ nhiệm.",
                     "sub_clauses": []
                 },
                 {
@@ -1435,7 +1519,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thực hiện nhiệm vụ, quyền hạn theo quy định của Bộ luật tố tụng hình sự.",
+                    "text": "Thực hiện nhiệm vụ, quyền hạn theo quy định của Bộ luật tố tụng hình sự. Chương VII THẨM PHÁN",
                     "sub_clauses": []
                 }
             ]
@@ -1776,7 +1860,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hội đồng thi tuyển chọn Thẩm phán sơ cấp, Thẩm phán trung cấp, Thẩm phán cao cấp gồm Chánh án Tòa án nhân tối cao làm Chủ tịch; 01 Phó Chánh án Tòa án nhân dân tối cao, đại diện lãnh đạo Bộ Quốc phòng, Bộ Nội vụ là Ủy viên.",
+                    "text": "Hội đồng thi tuyển chọn Thẩm phán sơ cấp, Thẩm phán trung cấp, Thẩm phán cao cấp gồm Chánh án Tòa án nhân tối cao làm Chủ tịch; 01 Phó Chánh án Tòa án nhân dân tối cao, đại diện lãnh đạo Bộ Quốc phòng, Bộ Nội vụ là Ủy viên. Danh sách Ủy viên Hội đồng thi tuyển chọn Thẩm phán sơ cấp, Thẩm phán trung cấp, Thẩm phán cao cấp do Chánh án Tòa án nhân dân tối cao quyết định.",
                     "sub_clauses": []
                 },
                 {
@@ -1811,7 +1895,13 @@
         {
             "id": "Điều 74",
             "title": "Nhiệm kỳ của Thẩm phán",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhiệm kỳ đầu của các Thẩm phán là 05 năm; trường hợp được bổ nhiệm lại hoặc được bổ nhiệm vào ngạch Thẩm phán khác thì nhiệm kỳ tiếp theo là 10 năm.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 75",
@@ -2073,7 +2163,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Theo đề nghị của Hội đồng tuyển chọn, giám sát Thẩm phán quốc gia, Chánh án Tòa án nhân dân tối cao trình Chủ tịch nước quyết định miễn nhiệm, cách chức Thẩm phán các Tòa án khác.",
+                    "text": "Theo đề nghị của Hội đồng tuyển chọn, giám sát Thẩm phán quốc gia, Chánh án Tòa án nhân dân tối cao trình Chủ tịch nước quyết định miễn nhiệm, cách chức Thẩm phán các Tòa án khác. Chương VIII HỘI THẨM",
                     "sub_clauses": []
                 }
             ]
@@ -2150,17 +2240,17 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương đề xuất nhu cầu về số lượng, cơ cấu thành phần Hội thẩm đề nghị Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp lựa chọn và giới thiệu người đủ tiêu chuẩn theo quy định tại Điều 85 của Luật này để Hội đồng nhân dân có thẩm quyền theo luật định bầu Hội thẩm nhân dân;",
+                    "text": "Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương đề xuất nhu cầu về số lượng, cơ cấu thành phần Hội thẩm đề nghị Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp lựa chọn và giới thiệu người đủ tiêu chuẩn theo quy định tại Điều 85 của Luật này để Hội đồng nhân dân có thẩm quyền theo luật định bầu Hội thẩm nhân dân; Chánh án Tòa án nhân dân sau khi thống nhất với Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp đề nghị Hội đồng nhân dân miễn nhiệm, bãi nhiệm Hội thẩm nhân dân.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Hội thẩm quân nhân Tòa án quân sự quân khu và tương đương do Chủ nhiệm Tổng cục chính trị Quân đội nhân dân Việt Nam cử theo sự giới thiệu của cơ quan chính trị quân khu, quân đoàn, quân chủng, tổng cục hoặc cấp tương đương.",
+                    "text": "Hội thẩm quân nhân Tòa án quân sự quân khu và tương đương do Chủ nhiệm Tổng cục chính trị Quân đội nhân dân Việt Nam cử theo sự giới thiệu của cơ quan chính trị quân khu, quân đoàn, quân chủng, tổng cục hoặc cấp tương đương. Chánh án Tòa án quân sự quân khu và tương đương sau khi thống nhất với cơ quan chính trị quân khu, quân đoàn, quân chủng, tổng cục hoặc cấp tương đương đề nghị Chủ nhiệm Tổng cục chính trị Quân đội nhân dân Việt Nam miễn nhiệm, bãi nhiệm Hội thẩm quân nhân Tòa án quân sự quân khu và tương đương.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Hội thẩm quân nhân Tòa án quân sự khu vực do Chính ủy quân khu, quân đoàn, quân chủng, tổng cục hoặc cấp tương đương cử theo sự giới thiệu của cơ quan chính trị sư đoàn hoặc cấp tương đương.",
+                    "text": "Hội thẩm quân nhân Tòa án quân sự khu vực do Chính ủy quân khu, quân đoàn, quân chủng, tổng cục hoặc cấp tương đương cử theo sự giới thiệu của cơ quan chính trị sư đoàn hoặc cấp tương đương. Chánh án Tòa án quân sự khu vực sau khi thống nhất với cơ quan chính trị sư đoàn hoặc cấp tương đương đề nghị Chính ủy quân khu, quân đoàn, quân chủng, tổng cục hoặc cấp tương đương miễn nhiệm, bãi nhiệm Hội thẩm quân nhân Tòa án quân sự khu vực.",
                     "sub_clauses": []
                 }
             ]
@@ -2171,7 +2261,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Nhiệm kỳ của Hội thẩm nhân dân theo nhiệm kỳ của Hội đồng nhân dân đã bầu ra Hội thẩm nhân dân.",
+                    "text": "Nhiệm kỳ của Hội thẩm nhân dân theo nhiệm kỳ của Hội đồng nhân dân đã bầu ra Hội thẩm nhân dân. Khi Hội đồng nhân dân hết nhiệm kỳ, Hội thẩm nhân dân tiếp tục làm nhiệm vụ cho đến khi Hội đồng nhân dân khoá mới bầu ra Hội thẩm nhân dân mới.",
                     "sub_clauses": []
                 },
                 {
@@ -2187,7 +2277,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hội thẩm được tập huấn, bồi dưỡng nghiệp vụ, tham gia hội nghị tổng kết công tác xét xử của Tòa án.",
+                    "text": "Hội thẩm được tập huấn, bồi dưỡng nghiệp vụ, tham gia hội nghị tổng kết công tác xét xử của Tòa án. Kinh phí tập huấn, bồi dưỡng nghiệp vụ Hội thẩm được dự toán trong kinh phí hoạt động của Tòa án, có sự hỗ trợ của ngân sách địa phương theo quy định của luật.",
                     "sub_clauses": []
                 },
                 {
@@ -2202,7 +2292,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Hội thẩm được hưởng phụ cấp xét xử, được cấp trang phục, Giấy chứng minh Hội thẩm để làm nhiệm vụ xét xử.",
+                    "text": "Hội thẩm được hưởng phụ cấp xét xử, được cấp trang phục, Giấy chứng minh Hội thẩm để làm nhiệm vụ xét xử. Chế độ phụ cấp xét xử, mẫu trang phục, cấp phát và sử dụng trang phục, Giấy chứng minh Hội thẩm do Ủy ban thường vụ Quốc hội quy định theo đề nghị của Chánh án Tòa án nhân dân tối cao.",
                     "sub_clauses": []
                 }
             ]
@@ -2248,7 +2338,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Chịu trách nhiệm trước pháp luật về việc thực hiện nhiệm vụ, quyền hạn của mình; nếu có hành vi vi phạm pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật bãi nhiệm hoặc truy cứu trách nhiệm hình sự theo quy định của luật.",
+                    "text": "Chịu trách nhiệm trước pháp luật về việc thực hiện nhiệm vụ, quyền hạn của mình; nếu có hành vi vi phạm pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật bãi nhiệm hoặc truy cứu trách nhiệm hình sự theo quy định của luật. Hội thẩm trong khi thực hiện nhiệm vụ, quyền hạn của mình mà gây thiệt hại thì Tòa án nơi Hội thẩm đó thực hiện nhiệm vụ xét xử phải có trách nhiệm bồi thường và Hội thẩm đã gây thiệt hại có trách nhiệm bồi hoàn cho Tòa án theo quy định của pháp luật.",
                     "sub_clauses": []
                 }
             ]
@@ -2275,7 +2365,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hội thẩm được tổ chức thành Đoàn Hội thẩm.",
+                    "text": "Hội thẩm được tổ chức thành Đoàn Hội thẩm. Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam chủ trì phối hợp với Bộ Nội vụ và Tòa án nhân dân tối cao trình Ủy ban thường vụ Quốc hội ban hành Quy chế tổ chức và hoạt động của Đoàn Hội thẩm.",
                     "sub_clauses": []
                 },
                 {
@@ -2290,7 +2380,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trong thời gian Hội thẩm làm nhiệm vụ theo sự phân công của Chánh án Tòa án thì cơ quan, tổ chức, đơn vị vũ trang nhân dân có Hội thẩm đó không được điều động, phân công Hội thẩm làm việc khác, trừ trường hợp đặc biệt và phải thông báo cho Chánh án Tòa án biết.",
+                    "text": "Trong thời gian Hội thẩm làm nhiệm vụ theo sự phân công của Chánh án Tòa án thì cơ quan, tổ chức, đơn vị vũ trang nhân dân có Hội thẩm đó không được điều động, phân công Hội thẩm làm việc khác, trừ trường hợp đặc biệt và phải thông báo cho Chánh án Tòa án biết. Chương IX THƯ KÝ TÒA ÁN, THẨM TRA VIÊN",
                     "sub_clauses": []
                 }
             ]
@@ -2301,7 +2391,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thư ký Tòa án là người có trình độ cử nhân luật trở lên được Tòa án tuyển dụng, được đào tạo nghiệp vụ Thư ký Tòa án và bổ nhiệm vào ngạch Thư ký Tòa án.",
+                    "text": "Thư ký Tòa án là người có trình độ cử nhân luật trở lên được Tòa án tuyển dụng, được đào tạo nghiệp vụ Thư ký Tòa án và bổ nhiệm vào ngạch Thư ký Tòa án. Thư ký Tòa án có các ngạch: Tiêu chuẩn, điều kiện và việc thi nâng ngạch Thư ký Tòa án do Chánh án Tòa án nhân dân tối cao quy định.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2319,12 +2409,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tòa án nhân dân tối cao, Tòa án nhân dân cấp cao, Tòa án quân sự trung ương, Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Tòa án quân sự quân khu và tương đương có các ngạch Thư ký Tòa án quy định tại khoản 1 Điều này.",
+                    "text": "Tòa án nhân dân tối cao, Tòa án nhân dân cấp cao, Tòa án quân sự trung ương, Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Tòa án quân sự quân khu và tương đương có các ngạch Thư ký Tòa án quy định tại khoản 1 Điều này. Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương, Tòa án quân sự khu vực có các ngạch Thư ký Tòa án quy định tại điểm a và điểm b khoản 1 Điều này.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Chánh án Tòa án nhân dân tối cao bổ nhiệm vào các ngạch Thư ký Tòa án tại Tòa án nhân dân tối cao và bổ nhiệm vào ngạch Thư ký viên cao cấp tại Tòa án nhân dân cấp cao, Tòa án quân sự trung ương, Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Tòa án quân sự quân khu và tương đương.",
+                    "text": "Chánh án Tòa án nhân dân tối cao bổ nhiệm vào các ngạch Thư ký Tòa án tại Tòa án nhân dân tối cao và bổ nhiệm vào ngạch Thư ký viên cao cấp tại Tòa án nhân dân cấp cao, Tòa án quân sự trung ương, Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Tòa án quân sự quân khu và tương đương. Chánh án Tòa án nhân dân cấp cao, Tòa án quân sự trung ương bổ nhiệm vào các ngạch Thư ký viên, Thư ký viên chính tại Tòa án nhân dân cấp cao, Tòa án quân sự trung ương. Chánh án Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương bổ nhiệm vào các ngạch Thư ký viên, Thư ký viên chính tại Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương và tại Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương. Chánh án Tòa án quân sự quân khu và tương đương bổ nhiệm vào các ngạch Thư ký viên, Thư ký viên chính tại Tòa án quân sự quân khu và tương đương, Tòa án quân sự khu vực.",
                     "sub_clauses": []
                 },
                 {
@@ -2354,7 +2444,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thẩm tra viên là công chức chuyên môn của Tòa án đã làm Thư ký Tòa án từ 05 năm trở lên, được đào tạo nghiệp vụ Thẩm tra viên và bổ nhiệm vào ngạch Thẩm tra viên.",
+                    "text": "Thẩm tra viên là công chức chuyên môn của Tòa án đã làm Thư ký Tòa án từ 05 năm trở lên, được đào tạo nghiệp vụ Thẩm tra viên và bổ nhiệm vào ngạch Thẩm tra viên. Thẩm tra viên có các ngạch: Tiêu chuẩn, điều kiện và việc thi nâng ngạch Thẩm tra viên do Chánh án Tòa án nhân dân tối cao quy định.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2372,12 +2462,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tòa án nhân dân tối cao, Tòa án nhân dân cấp cao, Tòa án quân sự trung ương có các ngạch Thẩm tra viên quy định tại khoản 1 Điều này.",
+                    "text": "Tòa án nhân dân tối cao, Tòa án nhân dân cấp cao, Tòa án quân sự trung ương có các ngạch Thẩm tra viên quy định tại khoản 1 Điều này. Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Tòa án quân sự quân khu và tương đương, Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương, Tòa án quân sự khu vực có các ngạch Thẩm tra viên quy định tại điểm a và điểm b khoản 1 Điều này.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Chánh án Tòa án nhân dân tối cao bổ nhiệm vào các ngạch Thẩm tra viên tại Tòa án nhân dân tối cao và bổ nhiệm vào ngạch Thẩm tra viên cao cấp tại Tòa án nhân dân cấp cao, Tòa án quân sự trung ương.",
+                    "text": "Chánh án Tòa án nhân dân tối cao bổ nhiệm vào các ngạch Thẩm tra viên tại Tòa án nhân dân tối cao và bổ nhiệm vào ngạch Thẩm tra viên cao cấp tại Tòa án nhân dân cấp cao, Tòa án quân sự trung ương. Chánh án Tòa án nhân dân cấp cao, Chánh án Tòa án quân sự trung ương bổ nhiệm vào các ngạch Thẩm tra viên, Thẩm tra viên chính tại Tòa án nhân dân cấp cao, Tòa án quân sự trung ương. Chánh án Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương bổ nhiệm vào các ngạch Thẩm tra viên, Thẩm tra viên chính tại Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương và tại Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương. Chánh án Tòa án quân sự quân khu và tương đương bổ nhiệm vào các ngạch Thẩm tra viên, Thẩm tra viên chính tại Tòa án quân sự quân khu và tương đương, Tòa án quân sự khu vực.",
                     "sub_clauses": []
                 },
                 {
@@ -2415,7 +2505,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Nhà nước có chính sách ưu tiên về tiền lương, phụ cấp đối với Thư ký Tòa án, Thẩm tra viên.",
+                    "text": "Nhà nước có chính sách ưu tiên về tiền lương, phụ cấp đối với Thư ký Tòa án, Thẩm tra viên. Chế độ tiền lương, phụ cấp do Ủy ban thường vụ Quốc hội quy định.",
                     "sub_clauses": []
                 },
                 {
@@ -2430,7 +2520,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Thư ký Tòa án, Thẩm tra viên được khen thưởng theo quy định của pháp luật về thi đua, khen thưởng.",
+                    "text": "Thư ký Tòa án, Thẩm tra viên được khen thưởng theo quy định của pháp luật về thi đua, khen thưởng. Chương X BẢO ĐẢM HOẠT ĐỘNG CỦA TÒA ÁN NHÂN DÂN",
                     "sub_clauses": []
                 }
             ]
@@ -2499,7 +2589,13 @@
         {
             "id": "Điều 97",
             "title": "Chế độ, chính sách đối với công chức khác, viên chức và người lao động của Tòa án nhân dân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Công chức khác, viên chức và người lao động của Tòa án nhân dân được cấp trang phục và hưởng chế độ chính sách theo quy định của pháp luật. Chương XI ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 98",
@@ -2512,11 +2608,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Luật này thay thế Luật tổ chức Tòa án nhân dân số 33/2002/QH10.",
+                    "text": "Luật này thay thế Luật tổ chức Tòa án nhân dân số 33/2002/QH10. Pháp lệnh Thẩm phán và Hội thẩm Tòa án nhân dân số 02/2002/PL-UBTVQH11, Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh Thẩm phán và Hội thẩm Tòa án nhân dân số 14/2011/PL-UBTVQH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Pháp lệnh tổ chức Tòa án quân sự số 04/2002/PL-UBTVQH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ các quy định tại các điều 3, 4, 5, khoản 1 Điều 26, khoản 2 Điều 29 tiếp tục có hiệu lực thi hành cho đến khi bị hủy bỏ. ----------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 24 tháng 11 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 24 tháng 11 năm 2014.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

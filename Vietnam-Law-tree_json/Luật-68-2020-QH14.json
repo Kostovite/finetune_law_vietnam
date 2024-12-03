@@ -15,12 +15,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về việc thực hiện quyền tự do cư trú của công dân Việt Nam trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam; việc đăng ký, quản lý cư trú; quyền, nghĩa vụ, trách nhiệm của công dân, cơ quan, tổ chức về đăng ký, quản lý cư trú.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Chỗ ở hợp pháp là nơi được sử dụng để sinh sống, thuộc quyền sở hữu hoặc quyền sử dụng của công dân, bao gồm nhà ở, tàu, thuyền, phương tiện khác có khả năng di chuyển hoặc chỗ ở khác theo quy định của pháp luật.",
@@ -165,7 +176,13 @@
         {
             "id": "Điều 6",
             "title": "Hợp tác quốc tế về quản lý cư trú",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam thực hiện hợp tác quốc tế về quản lý cư trú phù hợp với pháp luật Việt Nam và pháp luật quốc tế; thực hiện điều ước quốc tế liên quan đến quản lý cư trú mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 7",
@@ -233,7 +250,7 @@
                 },
                 {
                     "number": "13",
-                    "text": "Truy nhập, khai thác, hủy hoại, làm cản trở, gián đoạn hoạt động, thay đổi, xóa, phát tán, cung cấp trái phép thông tin trong Cơ sở dữ liệu về cư trú.",
+                    "text": "Truy nhập, khai thác, hủy hoại, làm cản trở, gián đoạn hoạt động, thay đổi, xóa, phát tán, cung cấp trái phép thông tin trong Cơ sở dữ liệu về cư trú. Chương II QUYỀN, NGHĨA VỤ CỦA CÔNG DÂN VỀ CƯ TRÚ",
                     "sub_clauses": []
                 }
             ]
@@ -321,7 +338,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chủ hộ là người có năng lực hành vi dân sự đầy đủ do các thành viên hộ gia đình thống nhất đề cử; trường hợp hộ gia đình không có người có năng lực hành vi dân sự đầy đủ thì chủ hộ là người được các thành viên hộ gia đình thống nhất đề cử; trường hợp các thành viên hộ gia đình không đề cử được thì chủ hộ là thành viên hộ gia đình do Tòa án quyết định.",
+                    "text": "Chủ hộ là người có năng lực hành vi dân sự đầy đủ do các thành viên hộ gia đình thống nhất đề cử; trường hợp hộ gia đình không có người có năng lực hành vi dân sự đầy đủ thì chủ hộ là người được các thành viên hộ gia đình thống nhất đề cử; trường hợp các thành viên hộ gia đình không đề cử được thì chủ hộ là thành viên hộ gia đình do Tòa án quyết định. Trường hợp hộ gia đình chỉ có một người thì người đó là chủ hộ.",
                     "sub_clauses": []
                 },
                 {
@@ -331,7 +348,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Thành viên hộ gia đình có quyền và nghĩa vụ thống nhất đề cử chủ hộ; thực hiện đầy đủ quy định về đăng ký, quản lý cư trú.",
+                    "text": "Thành viên hộ gia đình có quyền và nghĩa vụ thống nhất đề cử chủ hộ; thực hiện đầy đủ quy định về đăng ký, quản lý cư trú. Chương III NƠI CƯ TRÚ",
                     "sub_clauses": []
                 }
             ]
@@ -427,7 +444,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Nơi cư trú của người sinh sống, người làm nghề lưu động trên tàu, thuyền hoặc phương tiện khác có khả năng di chuyển (sau đây gọi chung là phương tiện) là nơi đăng ký phương tiện đó, trừ trường hợp có nơi cư trú khác theo quy định của Luật này.",
+                    "text": "Nơi cư trú của người sinh sống, người làm nghề lưu động trên tàu, thuyền hoặc phương tiện khác có khả năng di chuyển (sau đây gọi chung là phương tiện) là nơi đăng ký phương tiện đó, trừ trường hợp có nơi cư trú khác theo quy định của Luật này. Đối với phương tiện không phải đăng ký hoặc có nơi đăng ký phương tiện không trùng với nơi thường xuyên đậu, đỗ thì nơi cư trú của người sinh sống, người làm nghề lưu động là nơi phương tiện đó thường xuyên đậu, đỗ.",
                     "sub_clauses": []
                 },
                 {
@@ -505,7 +522,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương IV ĐĂNG KÝ THƯỜNG TRÚ",
                     "sub_clauses": []
                 }
             ]
@@ -886,7 +903,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ tách hộ bao gồm tờ khai thay đổi thông tin cư trú, trong đó ghi rõ ý kiến đồng ý cho tách hộ của chủ hộ, chủ sở hữu chỗ ở hợp pháp, trừ trường hợp đã có ý kiến đồng ý bằng văn bản.",
+                    "text": "Hồ sơ tách hộ bao gồm tờ khai thay đổi thông tin cư trú, trong đó ghi rõ ý kiến đồng ý cho tách hộ của chủ hộ, chủ sở hữu chỗ ở hợp pháp, trừ trường hợp đã có ý kiến đồng ý bằng văn bản. Trường hợp tách hộ sau ly hôn quy định tại điểm b khoản 1 Điều này thì hồ sơ tách hộ bao gồm tờ khai thay đổi thông tin cư trú, giấy tờ, tài liệu chứng minh việc ly hôn và việc tiếp tục được sử dụng chỗ ở hợp pháp đó.",
                     "sub_clauses": []
                 },
                 {
@@ -943,7 +960,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thủ tục điều chỉnh thông tin về cư trú được thực hiện như sau:",
+                    "text": "Thủ tục điều chỉnh thông tin về cư trú được thực hiện như sau: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, cơ quan đăng ký cư trú có trách nhiệm điều chỉnh thông tin về hộ tịch trong Cơ sở dữ liệu về cư trú và thông báo cho người đăng ký về việc đã cập nhật thông tin; trường hợp từ chối điều chỉnh thì phải thông báo bằng văn bản và nêu rõ lý do; Chương V ĐĂNG KÝ TẠM TRÚ, THÔNG BÁO LƯU TRÚ, KHAI BÁO TẠM VẮNG",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1002,12 +1019,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người đăng ký tạm trú nộp hồ sơ đăng ký tạm trú đến cơ quan đăng ký cư trú nơi mình dự kiến tạm trú.",
+                    "text": "Người đăng ký tạm trú nộp hồ sơ đăng ký tạm trú đến cơ quan đăng ký cư trú nơi mình dự kiến tạm trú. Khi tiếp nhận hồ sơ đăng ký tạm trú, cơ quan đăng ký cư trú kiểm tra và cấp phiếu tiếp nhận hồ sơ cho người đăng ký; trường hợp hồ sơ chưa đầy đủ thì hướng dẫn người đăng ký bổ sung hồ sơ. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, cơ quan đăng ký cư trú có trách nhiệm thẩm định, cập nhật thông tin về nơi tạm trú mới, thời hạn tạm trú của người đăng ký vào Cơ sở dữ liệu về cư trú và thông báo cho người đăng ký về việc đã cập nhật thông tin đăng ký tạm trú; trường hợp từ chối đăng ký thì phải trả lời bằng văn bản và nêu rõ lý do.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn 15 ngày trước ngày kết thúc thời hạn tạm trú đã đăng ký, công dân phải làm thủ tục gia hạn tạm trú.",
+                    "text": "Trong thời hạn 15 ngày trước ngày kết thúc thời hạn tạm trú đã đăng ký, công dân phải làm thủ tục gia hạn tạm trú. Hồ sơ, thủ tục gia hạn tạm trú thực hiện theo quy định tại khoản 1 và khoản 2 Điều này. Sau khi thẩm định hồ sơ, cơ quan đăng ký cư trú có trách nhiệm cập nhật thông tin về thời hạn tạm trú mới của người đăng ký vào Cơ sở dữ liệu về cư trú và thông báo cho người đăng ký về việc đã cập nhật thông tin đăng ký tạm trú; trường hợp từ chối đăng ký thì phải trả lời bằng văn bản và nêu rõ lý do.",
                     "sub_clauses": []
                 }
             ]
@@ -1125,7 +1142,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trước khi đi khỏi nơi cư trú, người quy định tại điểm a và điểm b khoản 1 Điều này phải đến khai báo tạm vắng tại cơ quan đăng ký cư trú nơi người đó cư trú; khi đến khai báo tạm vắng phải nộp đề nghị khai báo tạm vắng và văn bản đồng ý của cơ quan có thẩm quyền giám sát, quản lý, giáo dục người đó.",
+                    "text": "Trước khi đi khỏi nơi cư trú, người quy định tại điểm a và điểm b khoản 1 Điều này phải đến khai báo tạm vắng tại cơ quan đăng ký cư trú nơi người đó cư trú; khi đến khai báo tạm vắng phải nộp đề nghị khai báo tạm vắng và văn bản đồng ý của cơ quan có thẩm quyền giám sát, quản lý, giáo dục người đó. Cơ quan đăng ký cư trú có trách nhiệm hướng dẫn, kiểm tra nội dung khai báo. Trong thời hạn 01 ngày làm việc kể từ ngày nhận được đề nghị khai báo tạm vắng, cơ quan đăng ký cư trú cấp phiếu khai báo tạm vắng cho công dân; trường hợp phức tạp thì thời gian giải quyết có thể kéo dài hơn nhưng không quá 02 ngày làm việc.",
                     "sub_clauses": []
                 },
                 {
@@ -1140,7 +1157,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Cơ quan đăng ký cư trú có trách nhiệm cập nhật thông tin khai báo tạm vắng của công dân vào Cơ sở dữ liệu về cư trú và thông báo cho người khai báo về việc đã cập nhật thông tin khai báo tạm vắng khi có yêu cầu.",
+                    "text": "Cơ quan đăng ký cư trú có trách nhiệm cập nhật thông tin khai báo tạm vắng của công dân vào Cơ sở dữ liệu về cư trú và thông báo cho người khai báo về việc đã cập nhật thông tin khai báo tạm vắng khi có yêu cầu. Chương VI TRÁCH NHIỆM QUẢN LÝ CƯ TRÚ",
                     "sub_clauses": []
                 }
             ]
@@ -1271,7 +1288,13 @@
         {
             "id": "Điều 35",
             "title": "Hủy bỏ đăng ký thường trú, đăng ký tạm trú",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp cơ quan, người có trách nhiệm thực hiện việc đăng ký thường trú, đăng ký tạm trú không đúng thẩm quyền, không đúng đối tượng và điều kiện theo quy định của Luật này thì cơ quan đã thực hiện việc đăng ký hoặc thủ trưởng cấp trên trực tiếp của cơ quan đã đăng ký có trách nhiệm ra quyết định hủy bỏ việc đăng ký đó. Cơ quan đã đăng ký có trách nhiệm thông báo bằng văn bản cho người đăng ký và nêu rõ lý do.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 36",
@@ -1315,7 +1338,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết việc xây dựng, quản lý, sử dụng Cơ sở dữ liệu về cư trú, thông tin trong Cơ sở dữ liệu về cư trú và việc cung cấp, trao đổi thông tin, tài liệu từ Cơ sở dữ liệu về cư trú cho cơ quan, tổ chức, cá nhân.",
+                    "text": "Chính phủ quy định chi tiết việc xây dựng, quản lý, sử dụng Cơ sở dữ liệu về cư trú, thông tin trong Cơ sở dữ liệu về cư trú và việc cung cấp, trao đổi thông tin, tài liệu từ Cơ sở dữ liệu về cư trú cho cơ quan, tổ chức, cá nhân. Chương VII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1326,7 +1349,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Sửa đổi, bổ sung khoản 1 Điều 9 của Luật Căn cước công dân số 59/2014/QH13 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 1 Điều 9 của Luật Căn cước công dân số 59/2014/QH13 như sau: “1. Nội dung thông tin được thu thập, cập nhật gồm:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1404,7 +1427,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Sửa đổi, bổ sung khoản 7 Điều 2 của Luật Bảo hiểm y tế số 25/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 46/2014/QH13, Luật số 97/2015/QH13 và Luật số 35/2018/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 7 Điều 2 của Luật Bảo hiểm y tế số 25/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 46/2014/QH13, Luật số 97/2015/QH13 và Luật số 35/2018/QH14 như sau: “7. Hộ gia đình tham gia bảo hiểm y tế (sau đây gọi chung là hộ gia đình) là những người cùng đăng ký thường trú hoặc cùng đăng ký tạm trú tại một chỗ ở hợp pháp theo quy định của pháp luật về cư trú.”.",
                     "sub_clauses": []
                 },
                 {
@@ -1435,16 +1458,20 @@
                 },
                 {
                     "number": "3",
-                    "text": "Kể từ ngày Luật này có hiệu lực thi hành, Sổ hộ khẩu, Sổ tạm trú đã được cấp vẫn được sử dụng và có giá trị như giấy tờ, tài liệu xác nhận về cư trú theo quy định của Luật này cho đến hết ngày 31 tháng 12 năm 2022.",
+                    "text": "Kể từ ngày Luật này có hiệu lực thi hành, Sổ hộ khẩu, Sổ tạm trú đã được cấp vẫn được sử dụng và có giá trị như giấy tờ, tài liệu xác nhận về cư trú theo quy định của Luật này cho đến hết ngày 31 tháng 12 năm 2022. Trường hợp thông tin trong Sổ hộ khẩu, Sổ tạm trú khác với thông tin trong Cơ sở dữ liệu về cư trú thì sử dụng thông tin trong Cơ sở dữ liệu về cư trú. Khi công dân thực hiện các thủ tục đăng ký cư trú dẫn đến thay đổi thông tin trong Sổ hộ khẩu, Sổ tạm trú thì cơ quan đăng ký cư trú có trách nhiệm thu hồi Sổ hộ khẩu, Sổ tạm trú đã cấp, thực hiện điều chỉnh, cập nhật thông tin trong Cơ sở dữ liệu về cư trú theo quy định của Luật này và không cấp mới, cấp lại Sổ hộ khẩu, Sổ tạm trú.",
                     "sub_clauses": []
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ, Bộ, cơ quan ngang Bộ và cơ quan khác có liên quan rà soát các văn bản quy phạm pháp luật thuộc thẩm quyền ban hành có nội dung quy định liên quan đến Sổ hộ khẩu, Sổ tạm trú hoặc có yêu cầu xuất trình giấy tờ, tài liệu xác nhận về cư trú để sửa đổi, bổ sung cho phù hợp với quy định của Luật này, hạn chế việc sử dụng thông tin về nơi cư trú là điều kiện để thực hiện các thủ tục hành chính.",
+                    "text": "Chính phủ, Bộ, cơ quan ngang Bộ và cơ quan khác có liên quan rà soát các văn bản quy phạm pháp luật thuộc thẩm quyền ban hành có nội dung quy định liên quan đến Sổ hộ khẩu, Sổ tạm trú hoặc có yêu cầu xuất trình giấy tờ, tài liệu xác nhận về cư trú để sửa đổi, bổ sung cho phù hợp với quy định của Luật này, hạn chế việc sử dụng thông tin về nơi cư trú là điều kiện để thực hiện các thủ tục hành chính. __________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 10 thông qua ngày 13 tháng 11 năm 2020. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 10 thông qua ngày 13 tháng 11 năm 2020.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Nguyễn Thị Kim Ngân"
+    ]
 }

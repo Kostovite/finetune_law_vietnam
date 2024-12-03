@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về trình tự, thủ tục cung cấp, tiếp nhận, cập nhật thông tin lý lịch tư pháp; lập Lý lịch tư pháp; tổ chức và quản lý cơ sở dữ liệu lý lịch tư pháp; cấp Phiếu lý lịch tư pháp; quản lý nhà nước về lý lịch tư pháp."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -103,6 +117,13 @@
         "clause": "3",
         "title": "Đối tượng quản lý lý lịch tư pháp",
         "text": "Công dân Việt Nam, người nước ngoài bị Toà án Việt Nam cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã trong quyết định tuyên bố phá sản đã có hiệu lực pháp luật."
+    },
+    {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Trách nhiệm cung cấp thông tin lý lịch tư pháp",
+        "text": "Toà án, Viện kiểm sát, cơ quan thi hành án dân sự, cơ quan có thẩm quyền thuộc Bộ Công an, cơ quan thi hành án thuộc Bộ Quốc phòng và cơ quan, tổ chức có liên quan có trách nhiệm cung cấp thông tin lý lịch tư pháp đầy đủ, chính xác, đúng trình tự, thủ tục cho cơ quan quản lý cơ sở dữ liệu lý lịch tư pháp theo quy định của Luật này và các quy định khác của pháp luật."
     },
     {
         "id": "Điều 7.1",
@@ -427,6 +448,20 @@
         "text": "Thực hiện chế độ thống kê, báo cáo về việc quản lý cơ sở dữ liệu lý lịch tư pháp tại địa phương."
     },
     {
+        "id": "Điều 14.0",
+        "article": "Điều 14",
+        "clause": "0",
+        "title": "Bảo vệ, lưu trữ cơ sở dữ liệu lý lịch tư pháp",
+        "text": "Cơ sở dữ liệu lý lịch tư pháp là tài sản quốc gia phải được bảo vệ chặt chẽ, an toàn, lưu trữ lâu dài. Chỉ người có thẩm quyền mới được tiếp cận, khai thác cơ sở dữ liệu lý lịch tư pháp. Chính phủ quy định cụ thể việc bảo vệ và lưu trữ cơ sở dữ liệu lý lịch tư pháp. CHƯƠNG III CUNG CẤP, TIẾP NHẬN, CẬP NHẬT, XỬ LÝ THÔNG TIN LÝ LỊCH TƯ PHÁP VÀ LẬP LÝ LỊCH TƯ PHÁP Mục 1 CUNG CẤP, TIẾP NHẬN THÔNG TIN LÝ LỊCH TƯ PHÁP VỀ ÁN TÍCH"
+    },
+    {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Nguồn thông tin lý lịch tư pháp về án tích",
+        "text": "Thông tin lý lịch tư pháp về án tích được xác lập từ các nguồn sau đây:"
+    },
+    {
         "id": "Điều 15.1",
         "article": "Điều 15",
         "clause": "1",
@@ -686,6 +721,13 @@
         "text": "Đối với các quyết định, giấy chứng nhận quy định tại khoản 1 và khoản 2 Điều này thì gửi bản chính hoặc bản sao quyết định, giấy chứng nhận."
     },
     {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Nhiệm vụ của Viện kiểm sát nhân dân tối cao trong việc cung cấp thông tin lý lịch tư pháp về án tích",
+        "text": "Viện kiểm sát nhân dân tối cao có nhiệm vụ gửi cho Trung tâm lý lịch tư pháp quốc gia bản sao trích lục bản án, trích lục án tích của công dân Việt Nam do cơ quan có thẩm quyền của nước ngoài cung cấp trong thời hạn 10 ngày, kể từ ngày nhận được trích lục bản án, trích lục án tích."
+    },
+    {
         "id": "Điều 18.1",
         "article": "Điều 18",
         "clause": "1",
@@ -726,6 +768,20 @@
         "clause": "2",
         "title": "Nhiệm vụ của cơ quan thi hành án thuộc Bộ Quốc phòng trong việc cung cấp thông tin lý lịch tư pháp về án tích",
         "text": "Cơ quan thi hành án quân khu và tương đương có nhiệm vụ gửi quyết định, giấy xác nhận, văn bản thông báo quy định tại khoản 11 Điều 15 của Luật này cho Trung tâm lý lịch tư pháp quốc gia trong thời hạn 10 ngày, kể từ ngày ra quyết định, cấp giấy xác nhận hoặc kể từ ngày người bị kết án đã thực hiện xong nghĩa vụ thi hành án."
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Nhiệm vụ của cơ quan thi hành án dân sự trong việc cung cấp thông tin lý lịch tư pháp về án tích",
+        "text": "Cơ quan thi hành án dân sự có nhiệm vụ gửi quyết định, giấy xác nhận, văn bản thông báo quy định tại khoản 11 Điều 15 của Luật này cho Sở Tư pháp nơi cơ quan đó có trụ sở trong thời hạn 10 ngày, kể từ ngày ra quyết định, cấp giấy xác nhận hoặc kể từ ngày người bị kết án đã thực hiện xong nghĩa vụ thi hành án."
+    },
+    {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Nhiệm vụ của cơ quan, tổ chức khác trong việc cung cấp thông tin lý lịch tư pháp về án tích",
+        "text": "Cơ quan, tổ chức có thẩm quyền cấp giấy chứng nhận đã chấp hành xong hình phạt cải tạo không giam giữ, phạt tù cho hưởng án treo và các hình phạt bổ sung có nhiệm vụ gửi giấy chứng nhận cho Sở Tư pháp nơi cơ quan, tổ chức có trụ sở trong thời hạn 10 ngày, kể từ ngày cấp giấy chứng nhận."
     },
     {
         "id": "Điều 22.1",
@@ -775,6 +831,13 @@
         "clause": "3",
         "title": "Bổ sung, đính chính thông tin lý lịch tư pháp",
         "text": "Cơ quan quản lý cơ sở dữ liệu lý lịch tư pháp có nhiệm vụ cung cấp thông tin đã được bổ sung, đính chính theo quy định tại khoản 2 Điều 22 và khoản 1 Điều 23 của Luật này trong thời hạn 10 ngày, kể từ ngày nhận được thông tin bổ sung, đính chính."
+    },
+    {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Hình thức cung cấp thông tin lý lịch tư pháp về án tích",
+        "text": "Thông tin lý lịch tư pháp về án tích được gửi trực tiếp, qua bưu điện hoặc mạng Internet, mạng máy tính. Mục 2 LẬP LÝ LỊCH TƯ PHÁP, CẬP NHẬT, XỬ LÝ THÔNG TIN LÝ LỊCH TƯ PHÁP VỀ ÁN TÍCH"
     },
     {
         "id": "Điều 26.1",
@@ -847,6 +910,13 @@
         "text": "Trường hợp một người bị kết án về nhiều tội và đã được tổng hợp hình phạt theo quy định của Bộ luật hình sự thì Lý lịch tư pháp của người đó ghi rõ từng tội danh, điều khoản luật được áp dụng và hình phạt chung đối với các tội đó."
     },
     {
+        "id": "Điều 27.0",
+        "article": "Điều 27",
+        "clause": "0",
+        "title": "Cập nhật thông tin lý lịch tư pháp về án tích trong trường hợp miễn chấp hành hình phạt, giảm thời hạn chấp hành hình phạt, hoãn chấp hành hình phạt tù, tạm đình chỉ chấp hành hình phạt tù",
+        "text": "Trường hợp Lý lịch tư pháp của một người đã được lập, sau đó có quyết định của Toà án về miễn chấp hành hình phạt, giảm thời hạn chấp hành hình phạt, hoãn chấp hành hình phạt tù, tạm đình chỉ chấp hành hình phạt tù thì Sở Tư pháp cập nhật các thông tin này vào Lý lịch tư pháp của người đó."
+    },
+    {
         "id": "Điều 28.1",
         "article": "Điều 28",
         "clause": "1",
@@ -875,6 +945,13 @@
         "text": "Trường hợp Lý lịch tư pháp được lập trên cơ sở nhiều bản án, quyết định thì thông tin về bản án, quyết định bị huỷ trong Lý lịch tư pháp được xóa bỏ."
     },
     {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Cập nhật thông tin lý lịch tư pháp đối với những bản án tiếp theo",
+        "text": "Trường hợp Lý lịch tư pháp của một người đã được lập mà sau đó bị kết án bằng bản án khác thì Sở Tư pháp bổ sung những thông tin của bản án tiếp theo vào Lý lịch tư pháp của người đó."
+    },
+    {
         "id": "Điều 30.1",
         "article": "Điều 30",
         "clause": "1",
@@ -887,6 +964,13 @@
         "clause": "2",
         "title": "Cập nhật thông tin lý lịch tư pháp trong trường hợp chấp hành xong bản án hoặc được đặc xá, đại xá",
         "text": "Khi nhận được giấy chứng nhận đã chấp hành xong hình phạt tù thì Trung tâm lý lịch tư pháp quốc gia ghi vào Lý lịch tư pháp của người đó theo nội dung của giấy chứng nhận; trường hợp được đặc xá thì ghi “đã chấp hành xong hình phạt tù theo quyết định đặc xá”; trường hợp được đại xá thì ghi “được miễn trách nhiệm hình sự theo quyết định đại xá”."
+    },
+    {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Cập nhật thông tin lý lịch tư pháp trong trường hợp trục xuất",
+        "text": "Trường hợp người bị kết án đã thi hành hình phạt trục xuất thì Trung tâm lý lịch tư pháp quốc gia ghi “đã bị trục xuất” vào Lý lịch tư pháp của người đó."
     },
     {
         "id": "Điều 32.1",
@@ -938,6 +1022,27 @@
         "text": "Trường hợp người bị kết án được Toà án quyết định xoá án tích theo quy định của Bộ luật hình sự và Bộ luật tố tụng hình sự thì Sở Tư pháp ghi “đã được xóa án tích” vào Lý lịch tư pháp của người đó."
     },
     {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Cập nhật thông tin lý lịch tư pháp bổ sung",
+        "text": "Trường hợp Lý lịch tư pháp được cập nhật thông tin theo quy định tại Điều 27, Điều 28, Điều 29, khoản 1 Điều 30 và Điều 33 của Luật này thì Sở Tư pháp phải gửi thông tin đó cho Trung tâm lý lịch tư pháp quốc gia trong thời hạn 05 ngày làm việc, kể từ ngày hoàn thành việc cập nhật thông tin. Trung tâm lý lịch tư pháp quốc gia cập nhật vào cơ sở dữ liệu lý lịch tư pháp ngay sau khi nhận được thông tin bổ sung. Bộ trưởng Bộ Tư pháp quy định mẫu cung cấp thông tin lý lịch tư pháp bổ sung."
+    },
+    {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Xử lý thông tin lý lịch tư pháp khi tội phạm được xóa bỏ",
+        "text": "Trường hợp người bị kết án về một tội nhưng tội phạm này được xoá bỏ theo quy định của Bộ luật hình sự thì thông tin về tội đó được xóa bỏ trong Lý lịch tư pháp của người đó. Mục 3 THÔNG TIN VỀ CẤM ĐẢM NHIỆM CHỨC VỤ, THÀNH LẬP, QUẢN LÝ DOANH NGHIỆP, HỢP TÁC XÃ THEO QUYẾT ĐỊNH TUYÊN BỐ PHÁ SẢN"
+    },
+    {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Nguồn thông tin lý lịch tư pháp về cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã",
+        "text": "Thông tin lý lịch tư pháp về cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã được xác lập từ quyết định tuyên bố phá sản đã có hiệu lực pháp luật của Toà án theo quy định của Luật phá sản."
+    },
+    {
         "id": "Điều 37.1",
         "article": "Điều 37",
         "clause": "1",
@@ -985,6 +1090,20 @@
         "clause": "2",
         "title": "Lập Lý lịch tư pháp và cập nhật thông tin về cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã",
         "text": "Trường hợp người bị Tòa án cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã theo quyết định tuyên bố phá sản đã có Lý lịch tư pháp thì Sở Tư pháp ghi vào Lý lịch tư pháp của người đó theo quyết định của Tòa án và gửi thông tin đó cho Trung tâm lý lịch tư pháp quốc gia. Việc cập nhật thông tin bổ sung được thực hiện theo quy định tại Điều 34 của Luật này."
+    },
+    {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Xử lý thông tin lý lịch tư pháp khi hết thời hạn không được thành lập, quản lý doanh nghiệp, hợp tác xã",
+        "text": "Thông tin về việc cá nhân không được thành lập, quản lý doanh nghiệp, hợp tác xã được xóa bỏ trong Lý lịch tư pháp của cá nhân đó khi hết thời hạn theo quyết định tuyên bố phá sản của Tòa án."
+    },
+    {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Hình thức cung cấp thông tin lý lịch tư pháp về cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã",
+        "text": "Thông tin lý lịch tư pháp về cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã được gửi trực tiếp, qua bưu điện hoặc mạng Internet, mạng máy tính. CHƯƠNG IV CẤP PHIẾU LÝ LỊCH TƯ PHÁP Mục 1 PHIẾU LÝ LỊCH TƯ PHÁP"
     },
     {
         "id": "Điều 41.1",
@@ -1302,6 +1421,13 @@
         "text": "Trường hợp khẩn cấp quy định tại khoản 1 Điều 46 của Luật này thì thời hạn không quá 24 giờ, kể từ thời điểm nhận được yêu cầu."
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Từ chối cấp Phiếu lý lịch tư pháp",
+        "text": "Cơ quan quản lý cơ sở dữ liệu lý lịch tư pháp có quyền từ chối cấp Phiếu lý lịch tư pháp trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 49.1",
         "article": "Điều 49",
         "clause": "1",
@@ -1321,6 +1447,13 @@
         "clause": "3",
         "title": "Từ chối cấp Phiếu lý lịch tư pháp",
         "text": "Giấy tờ kèm theo Tờ khai yêu cầu cấp Phiếu lý lịch tư pháp không đầy đủ hoặc giả mạo. Trường hợp từ chối cấp Phiếu lý lịch tư pháp thì phải thông báo bằng văn bản nêu rõ lý do."
+    },
+    {
+        "id": "Điều 50.0",
+        "article": "Điều 50",
+        "clause": "0",
+        "title": "Bổ sung, đính chính, thu hồi, hủy bỏ Phiếu lý lịch tư pháp",
+        "text": "Cơ quan cấp Phiếu lý lịch tư pháp có trách nhiệm bổ sung, đính chính, thu hồi, hủy bỏ Phiếu lý lịch tư pháp trong trường hợp Phiếu lý lịch tư pháp được cấp có nội dung không chính xác hoặc trái pháp luật. CHƯƠNG V XỬ LÝ VI PHẠM VÀ GIẢI QUYẾT KHIẾU NẠI, TỐ CÁOVỀ LÝ LỊCH TƯ PHÁP"
     },
     {
         "id": "Điều 51.1",
@@ -1393,6 +1526,20 @@
         "text": "Thời hạn giải quyết khiếu nại của Giám đốc Sở Tư pháp, Giám đốc Trung tâm lý lịch tư pháp quốc gia là 15 ngày, kể từ ngày nhận được khiếu nại. Thời hạn giải quyết khiếu nại của Chủ tịch Ủy ban nhân dân cấp tỉnh, Bộ trưởng Bộ Tư pháp là 30 ngày, kể từ ngày nhận được khiếu nại."
     },
     {
+        "id": "Điều 54.0",
+        "article": "Điều 54",
+        "clause": "0",
+        "title": "Tố cáo",
+        "text": "Công dân có quyền tố cáo với cơ quan, tổ chức, cá nhân có thẩm quyền về hành vi vi phạm pháp luật của người có thẩm quyền trong quản lý lý lịch tư pháp gây thiệt hại hoặc đe dọa gây thiệt hại đến lợi ích của Nhà nước, quyền, lợi ích hợp pháp của công dân, cơ quan, tổ chức. Việc giải quyết tố cáo được thực hiện theo quy định của pháp luật về giải quyết tố cáo. CHƯƠNG VI ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2010."
+    },
+    {
         "id": "Điều 56.1",
         "article": "Điều 56",
         "clause": "1",
@@ -1412,5 +1559,12 @@
         "clause": "3",
         "title": "Điều khoản chuyển tiếp",
         "text": "Chính phủ phối hợp với Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao hướng dẫn thủ tục tra cứu, trao đổi, cung cấp thông tin lý lịch tư pháp quy định tại khoản 1 và khoản 2 Điều này."
+    },
+    {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong phạm vi nhiệm vụ, quyền hạn của mình quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã đ­ược Quốc hội nư­ớc Cộng hòa xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 5 thông qua ngày 17 tháng 6 năm 2009. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

@@ -20,7 +20,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về chức năng, nhiệm vụ, quyền hạn và tổ chức của cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài (sau đây gọi là cơ quan đại diện) và quản lý nhà nước đối với cơ quan đại diện.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -74,6 +80,11 @@
             "title": "Giải thích từ ngữ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong Luật này, những từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Cơ quan đại diện ngoại giao là Đại sứ quán.",
                     "sub_clauses": []
@@ -115,7 +126,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Nhân viên cơ quan đại diện là người đảm nhận công việc hành chính, kỹ thuật hoặc phục vụ.",
+                    "text": "Nhân viên cơ quan đại diện là người đảm nhận công việc hành chính, kỹ thuật hoặc phục vụ. CHƯƠNG II NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN ĐẠI DIỆN",
                     "sub_clauses": []
                 }
             ]
@@ -383,17 +394,17 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan đại diện ngoại giao là cơ quan đại diện cao nhất của Nhà nước Việt Nam tại quốc gia tiếp nhận.",
+                    "text": "Cơ quan đại diện ngoại giao là cơ quan đại diện cao nhất của Nhà nước Việt Nam tại quốc gia tiếp nhận. Cơ quan đại diện ngoại giao có thể thực hiện chức năng đại diện tại một hay nhiều quốc gia hoặc tổ chức quốc tế và có thể thực hiện chức năng, nhiệm vụ ngoại giao, lãnh sự do quốc gia khác ủy nhiệm. Cơ quan đại diện ngoại giao có trách nhiệm thống nhất quản lý hoạt động đối ngoại của nước Cộng hòa xã hội chủ nghĩa Việt Nam tại quốc gia tiếp nhận và có quyền kiểm tra hoạt động đối ngoại của cơ quan đại diện lãnh sự tại quốc gia tiếp nhận.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Cơ quan đại diện lãnh sự thực hiện chức năng, nhiệm vụ lãnh sự tại khu vực lãnh sự và có thể thực hiện chức năng, nhiệm vụ này ngoài khu vực lãnh sự theo thỏa thuận giữa nước Cộng hòa xã hội chủ nghĩa Việt Nam và quốc gia tiếp nhận.",
+                    "text": "Cơ quan đại diện lãnh sự thực hiện chức năng, nhiệm vụ lãnh sự tại khu vực lãnh sự và có thể thực hiện chức năng, nhiệm vụ này ngoài khu vực lãnh sự theo thỏa thuận giữa nước Cộng hòa xã hội chủ nghĩa Việt Nam và quốc gia tiếp nhận. Cơ quan đại diện lãnh sự có thể thực hiện chức năng, nhiệm vụ lãnh sự tại một hay nhiều quốc gia hoặc chức năng, nhiệm vụ lãnh sự do quốc gia khác ủy nhiệm tại quốc gia tiếp nhận và chức năng, nhiệm vụ ngoại giao tại quốc gia tiếp nhận theo thỏa thuận giữa nước Cộng hòa xã hội chủ nghĩa Việt Nam và quốc gia tiếp nhận. Cơ quan đại diện lãnh sự có trách nhiệm thống nhất quản lý hoạt động đối ngoại của nước Cộng hòa xã hội chủ nghĩa Việt Nam tại quốc gia tiếp nhận trong trường hợp không có cơ quan đại diện ngoại giao tại quốc gia đó.",
                     "sub_clauses": []
                 },
                 {
                     "number": "4",
-                    "text": "Cơ quan đại diện tại tổ chức quốc tế có thể thực hiện chức năng, nhiệm vụ đại diện tại một hay nhiều tổ chức quốc tế và có thể thực hiện một số nhiệm vụ lãnh sự tại quốc gia nơi đặt trụ sở của tổ chức quốc tế theo thỏa thuận giữa nước Cộng hòa xã hội chủ nghĩa Việt Nam và quốc gia đó.",
+                    "text": "Cơ quan đại diện tại tổ chức quốc tế có thể thực hiện chức năng, nhiệm vụ đại diện tại một hay nhiều tổ chức quốc tế và có thể thực hiện một số nhiệm vụ lãnh sự tại quốc gia nơi đặt trụ sở của tổ chức quốc tế theo thỏa thuận giữa nước Cộng hòa xã hội chủ nghĩa Việt Nam và quốc gia đó. CHƯƠNG III TỔ CHỨC BỘ MÁY, BIÊN CHẾ, KINH PHÍ VÀ TRỤ SỞ CỦA CƠ QUAN ĐẠI DIỆN",
                     "sub_clauses": []
                 }
             ]
@@ -510,7 +521,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Nhà nước bảo đảm các điều kiện về trụ sở, cơ sở vật chất, kỹ thuật và trang thiết bị cần thiết để cơ quan đại diện và thành viên cơ quan đại diện thực hiện chức năng, nhiệm vụ và quyền hạn được giao. Cơ quan đại diện được trang bị và sử dụng hệ thống thông tin liên lạc riêng để duy trì liên lạc thường xuyên và bảo mật với cơ quan, tổ chức có thẩm quyền.",
+                    "text": "Nhà nước bảo đảm các điều kiện về trụ sở, cơ sở vật chất, kỹ thuật và trang thiết bị cần thiết để cơ quan đại diện và thành viên cơ quan đại diện thực hiện chức năng, nhiệm vụ và quyền hạn được giao. Cơ quan đại diện được trang bị và sử dụng hệ thống thông tin liên lạc riêng để duy trì liên lạc thường xuyên và bảo mật với cơ quan, tổ chức có thẩm quyền. CHƯƠNG IV THÀNH VIÊN CƠ QUAN ĐẠI DIỆN",
                     "sub_clauses": []
                 }
             ]
@@ -521,7 +532,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thành viên cơ quan đại diện phải là cán bộ, công chức, viên chức theo quy định của pháp luật và đáp ứng quy định của Bộ Ngoại giao.",
+                    "text": "Thành viên cơ quan đại diện phải là cán bộ, công chức, viên chức theo quy định của pháp luật và đáp ứng quy định của Bộ Ngoại giao. Quy định này không áp dụng đối với nhân viên hợp đồng được quy định tại Điều 29 của Luật này.",
                     "sub_clauses": []
                 },
                 {
@@ -849,7 +860,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Quyền và nghĩa vụ của nhân viên hợp đồng được quy định tại hợp đồng tuyển dụng.",
+                    "text": "Quyền và nghĩa vụ của nhân viên hợp đồng được quy định tại hợp đồng tuyển dụng. CHƯƠNG V CHỈ ĐẠO, QUẢN LÝ, GIÁM SÁT VÀ PHỐI HỢP CÔNG TÁC ĐỐI VỚI CƠ QUAN ĐẠI DIỆN",
                     "sub_clauses": []
                 }
             ]
@@ -878,7 +889,13 @@
         {
             "id": "Điều 31",
             "title": "Giám sát cơ quan đại diện",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Quốc hội, các cơ quan của Quốc hội và đại biểu Quốc hội thực hiện quyền giám sát đối với hoạt động của cơ quan đại diện theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 32",
@@ -972,7 +989,13 @@
         {
             "id": "Điều 34",
             "title": "Phối hợp công tác giữa đoàn được cử đi công tác nước ngoài và cơ quan đại diện",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Đoàn được cử đi công tác nước ngoài thông báo kịp thời cho cơ quan đại diện về nội dung, chương trình hoạt động tại quốc gia, tổ chức quốc tế tiếp nhận để phối hợp công tác và thông báo kết quả hoạt động cho cơ quan đại diện sau khi kết thúc đợt công tác.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 35",
@@ -985,7 +1008,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan đại diện phối hợp với cơ quan có cán bộ biệt phái chỉ đạo, quản lý công tác của cán bộ biệt phái và đánh giá về việc hoàn thành nhiệm vụ chuyên môn, nghiệp vụ của cán bộ biệt phái.",
+                    "text": "Cơ quan đại diện phối hợp với cơ quan có cán bộ biệt phái chỉ đạo, quản lý công tác của cán bộ biệt phái và đánh giá về việc hoàn thành nhiệm vụ chuyên môn, nghiệp vụ của cán bộ biệt phái. CHƯƠNG VI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1001,11 +1024,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Pháp lệnh lãnh sự ngày 13 tháng 11 năm 1990 và Pháp lệnh về cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài ngày 15 tháng 12 năm 1993 hết hiệu lực kể từ ngày Luật này có hiệu lực.",
+                    "text": "Pháp lệnh lãnh sự ngày 13 tháng 11 năm 1990 và Pháp lệnh về cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài ngày 15 tháng 12 năm 1993 hết hiệu lực kể từ ngày Luật này có hiệu lực. _______________________ Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 5 thông qua ngày 18 tháng 6 năm 2009. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 5 thông qua ngày 18 tháng 6 năm 2009.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Phú Trọng"
+    ]
 }

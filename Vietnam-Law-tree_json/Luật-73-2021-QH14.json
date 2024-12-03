@@ -15,12 +15,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về phòng, chống ma túy; quản lý người sử dụng trái phép chất ma túy; cai nghiện ma túy; trách nhiệm của cá nhân, gia đình, cơ quan, tổ chức trong phòng, chống ma túy; quản lý nhà nước và hợp tác quốc tế về phòng, chống ma túy.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Chất ma túy là chất gây nghiện, chất hướng thần được quy định trong danh mục chất ma túy do Chính phủ ban hành.",
@@ -236,7 +247,7 @@
                 },
                 {
                     "number": "12",
-                    "text": "Các hành vi bị nghiêm cấm khác do luật định liên quan đến ma túy.",
+                    "text": "Các hành vi bị nghiêm cấm khác do luật định liên quan đến ma túy. Chương II TRÁCH NHIỆM PHÒNG, CHỐNG MA TÚY",
                     "sub_clauses": []
                 }
             ]
@@ -307,7 +318,13 @@
         {
             "id": "Điều 9",
             "title": "Trách nhiệm của cơ quan báo chí",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan báo chí có trách nhiệm phối hợp với cơ quan, tổ chức có liên quan tuyên truyền chủ trương, chính sách, pháp luật về phòng, chống ma túy.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 10",
@@ -365,7 +382,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định việc phối hợp của các cơ quan chuyên trách phòng, chống tội phạm về ma túy.",
+                    "text": "Chính phủ quy định việc phối hợp của các cơ quan chuyên trách phòng, chống tội phạm về ma túy. Chương III KIỂM SOÁT CÁC HOẠT ĐỘNG HỢP PHÁP LIÊN QUAN ĐẾN MA TÚY",
                     "sub_clauses": []
                 }
             ]
@@ -434,12 +451,24 @@
         {
             "id": "Điều 15",
             "title": "Kiểm soát hoạt động liên quan đến thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc kiểm soát hoạt động liên quan đến thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc thực hiện theo quy định của pháp luật về dược, trừ hoạt động quy định tại điểm b khoản 1 và khoản 2 Điều 17 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 16",
             "title": "Kiểm soát hoạt động liên quan đến thuốc thú y có chứa chất ma túy, tiền chất",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc kiểm soát hoạt động liên quan đến thuốc thú y có chứa chất ma túy, tiền chất thực hiện theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 17",
@@ -474,12 +503,24 @@
         {
             "id": "Điều 18",
             "title": "Lập hồ sơ các hoạt động hợp pháp liên quan đến ma túy",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan, tổ chức, cá nhân khi tiến hành hoạt động quy định tại khoản 1 Điều 12 của Luật này có trách nhiệm lập hồ sơ và báo cáo theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 19",
             "title": "Kiểm soát hoạt động hợp pháp liên quan đến ma túy vì mục đích quốc phòng, an ninh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hoạt động nghiên cứu, giám định, sản xuất, vận chuyển, tồn trữ, bảo quản, sử dụng, nhập khẩu, xuất khẩu, tạm nhập, tái xuất, tạm xuất, tái nhập, quá cảnh chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất vì mục đích quốc phòng, an ninh thực hiện theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 20",
@@ -487,7 +528,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Việc mang theo thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất dự phòng cho việc sơ cứu, cấp cứu trên tàu thủy, tàu bay, tàu hỏa, ô tô hoặc các phương tiện vận tải khác trong cuộc hành trình, du lịch quốc tế không bị coi là mang hàng xuất khẩu, nhập khẩu, quá cảnh lãnh thổ Việt Nam.",
+                    "text": "Việc mang theo thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất dự phòng cho việc sơ cứu, cấp cứu trên tàu thủy, tàu bay, tàu hỏa, ô tô hoặc các phương tiện vận tải khác trong cuộc hành trình, du lịch quốc tế không bị coi là mang hàng xuất khẩu, nhập khẩu, quá cảnh lãnh thổ Việt Nam. Người chỉ huy, người điều khiển phương tiện vận tải có trách nhiệm khai báo với cơ quan Hải quan của Việt Nam, giải trình về số lượng thuốc đã sử dụng, áp dụng các biện pháp an toàn thích hợp để ngăn chặn việc sử dụng không đúng mục đích hoặc vận chuyển trái phép các thuốc đó và chịu sự kiểm soát của cơ quan có thẩm quyền của Việt Nam.",
                     "sub_clauses": []
                 },
                 {
@@ -500,7 +541,13 @@
         {
             "id": "Điều 21",
             "title": "Xử lý chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất thu giữ trong vụ việc vi phạm pháp luật",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất bị thu giữ trong các vụ án hình sự, vụ việc vi phạm hành chính được xử lý theo quy định của pháp luật về tố tụng hình sự, pháp luật về xử lý vi phạm hành chính. Chương IV QUẢN LÝ NGƯỜI SỬ DỤNG TRÁI PHÉP CHẤT MA TÚY",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 22",
@@ -530,7 +577,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người đứng đầu cơ sở cai nghiện ma túy, cơ sở điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế; người có thẩm quyền xử phạt vi phạm hành chính đối với hành vi sử dụng trái phép chất ma túy tiến hành xét nghiệm chất ma túy theo thẩm quyền hoặc đề nghị cơ quan, người có chuyên môn xét nghiệm chất ma túy trong cơ thể đối với các trường hợp quy định tại khoản 1 Điều này.",
+                    "text": "Người đứng đầu cơ sở cai nghiện ma túy, cơ sở điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế; người có thẩm quyền xử phạt vi phạm hành chính đối với hành vi sử dụng trái phép chất ma túy tiến hành xét nghiệm chất ma túy theo thẩm quyền hoặc đề nghị cơ quan, người có chuyên môn xét nghiệm chất ma túy trong cơ thể đối với các trường hợp quy định tại khoản 1 Điều này. Trường hợp có kết quả xét nghiệm dương tính thì gửi ngay kết quả đến Chủ tịch Ủy ban nhân dân cấp xã nơi người có kết quả xét nghiệm dương tính cư trú, trừ trường hợp người đó đang cai nghiện ma túy bắt buộc.",
                     "sub_clauses": []
                 },
                 {
@@ -546,7 +593,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Quản lý người sử dụng trái phép chất ma túy là biện pháp phòng ngừa nhằm giúp người sử dụng trái phép chất ma túy không tiếp tục sử dụng trái phép chất ma túy, phòng ngừa các hành vi vi phạm pháp luật của họ.",
+                    "text": "Quản lý người sử dụng trái phép chất ma túy là biện pháp phòng ngừa nhằm giúp người sử dụng trái phép chất ma túy không tiếp tục sử dụng trái phép chất ma túy, phòng ngừa các hành vi vi phạm pháp luật của họ. Quản lý người sử dụng trái phép chất ma túy không phải là biện pháp xử lý hành chính.",
                     "sub_clauses": []
                 },
                 {
@@ -684,7 +731,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Công an cấp xã giúp Ủy ban nhân dân cùng cấp đưa ra khỏi danh sách người sử dụng trái phép chất ma túy trong các trường hợp sau đây:",
+                    "text": "Công an cấp xã giúp Ủy ban nhân dân cùng cấp đưa ra khỏi danh sách người sử dụng trái phép chất ma túy trong các trường hợp sau đây: Chương V CAI NGHIỆN MA TÚY",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -972,7 +1019,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Người cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy có trách nhiệm sau đây:",
+                    "text": "Người cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy có trách nhiệm sau đây: Trường hợp người cai nghiện ma túy tự nguyện tại cơ sở cai nghiện ma túy công lập mà có hoàn cảnh khó khăn được xét giảm hoặc miễn chi phí phải nộp.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1000,6 +1047,11 @@
             "id": "Điều 32",
             "title": "Đối tượng bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Người nghiện ma túy từ đủ 18 tuổi trở lên bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc theo quy định của Luật Xử lý vi phạm hành chính khi thuộc một trong các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Không đăng ký, không thực hiện hoặc tự ý chấm dứt cai nghiện ma túy tự nguyện;",
@@ -1113,7 +1165,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Hồ sơ đề nghị Tòa án nhân dân cấp huyện xem xét, quyết định đưa vào cơ sở cai nghiện bắt buộc bao gồm:",
+                    "text": "Hồ sơ đề nghị Tòa án nhân dân cấp huyện xem xét, quyết định đưa vào cơ sở cai nghiện bắt buộc bao gồm: Trong nội dung văn bản của Trưởng phòng Phòng Lao động - Thương binh và Xã hội phải nêu ý kiến về bảo vệ quyền trẻ em.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1348,7 +1400,13 @@
         {
             "id": "Điều 39",
             "title": "Miễn chấp hành thời gian còn lại trong quyết định đưa vào cơ sở cai nghiện bắt buộc đối với người từ đủ 14 tuổi đến dưới 18 tuổi đang cai nghiện ma túy bắt buộc",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người từ đủ 14 tuổi đến dưới 18 tuổi đang cai nghiện ma túy bắt buộc mà bị phát hiện thực hiện hành vi phạm tội trước hoặc trong thời gian chấp hành quyết định cai nghiện ma túy bắt buộc và bị Tòa án xử phạt tù nhưng không được hưởng án treo thì được miễn chấp hành thời gian còn lại trong quyết định đưa vào cơ sở cai nghiện bắt buộc.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 40",
@@ -1483,7 +1541,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Công an cấp xã giúp Ủy ban nhân dân cùng cấp đưa ra khỏi danh sách người nghiện ma túy, người bị quản lý sau cai nghiện ma túy đối với các trường hợp sau đây:",
+                    "text": "Công an cấp xã giúp Ủy ban nhân dân cùng cấp đưa ra khỏi danh sách người nghiện ma túy, người bị quản lý sau cai nghiện ma túy đối với các trường hợp sau đây: Chương VI QUẢN LÝ NHÀ NƯỚC VỀ PHÒNG, CHỐNG MA TÚY",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1729,7 +1787,13 @@
         {
             "id": "Điều 50",
             "title": "Trách nhiệm của Bộ Tài chính",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chỉ đạo cơ quan Hải quan thực hiện hoạt động phòng, chống ma túy theo quy định của Luật này và quy định khác của pháp luật có liên quan. Chương VII HỢP TÁC QUỐC TẾ VỀ PHÒNG, CHỐNG MA TÚY",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 51",
@@ -1750,12 +1814,24 @@
         {
             "id": "Điều 52",
             "title": "Chính sách hợp tác quốc tế về phòng, chống ma túy",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước Việt Nam thực hiện chính sách hợp tác quốc tế đa phương và song phương trong lĩnh vực phòng, chống ma túy trên nguyên tắc tôn trọng độc lập, chủ quyền quốc gia với các nước; khuyến khích tổ chức quốc tế, tổ chức, cá nhân nước ngoài hợp tác với cơ quan, tổ chức của Việt Nam hỗ trợ lẫn nhau về cơ sở vật chất, tăng cường năng lực pháp luật, thông tin, công nghệ đào tạo và y tế cho hoạt động phòng, chống ma túy.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 53",
             "title": "Chuyển giao hàng hóa có kiểm soát",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước Việt Nam thực hiện yêu cầu chuyển giao hàng hóa có kiểm soát trên cơ sở điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên để phát hiện và truy cứu trách nhiệm hình sự đối với người phạm tội về ma túy. Việc quyết định áp dụng và tiến hành biện pháp này thực hiện theo thỏa thuận giữa cơ quan có thẩm quyền của Việt Nam và của nước có liên quan. Chương VIII ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 54",
@@ -1805,11 +1881,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành, cơ sở cai nghiện ma túy bắt buộc được thành lập theo quy định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12 phải đáp ứng đủ điều kiện của cơ sở cai nghiện ma túy công lập theo quy định của Luật này.",
+                    "text": "Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành, cơ sở cai nghiện ma túy bắt buộc được thành lập theo quy định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12 phải đáp ứng đủ điều kiện của cơ sở cai nghiện ma túy công lập theo quy định của Luật này. Các cơ sở khác về cai nghiện ma túy theo quy định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12 đã được cấp giấy phép hoạt động trước ngày Luật này có hiệu lực thi hành được tiếp tục hoạt động cho đến khi hết thời hạn của giấy phép. ____________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 11 thông qua ngày 30 tháng 3 năm 2021. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 11 thông qua ngày 30 tháng 3 năm 2021.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Nguyễn Thị Kim Ngân"
+    ]
 }

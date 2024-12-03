@@ -27,7 +27,13 @@
         {
             "id": "Điều 2",
             "title": "Hoạt động chữ thập đỏ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hoạt động chữ thập đỏ là hoạt động nhân đạo dựa vào cộng đồng do Hội Chữ thập đỏ thực hiện hoặc phối hợp với tổ chức, cá nhân  thực hiện về cứu trợ khẩn cấp và trợ giúp nhân đạo; chăm sóc sức khoẻ; sơ cấp cứu ban đầu; hiến máu nhân đạo, hiến mô, bộ phận cơ thể người và hiến xác; tìm kiếm tin tức thân nhân thất lạc do chiến tranh, thiên tai, thảm họa; tuyên truyền các giá trị nhân đạo; tham gia phòng ngừa, ứng phó thảm họa.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
@@ -133,7 +139,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Sử dụng biểu tượng chữ thập đỏ trái pháp luật.",
+                    "text": "Sử dụng biểu tượng chữ thập đỏ trái pháp luật. Chương II HOẠT ĐỘNG CHỮ THẬP ĐỎ",
                     "sub_clauses": []
                 }
             ]
@@ -199,6 +205,11 @@
             "title": "Hoạt động chữ thập đỏ về chăm sóc sức khỏe",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Hoạt động chữ thập đỏ về chăm sóc sức khoẻ là hoạt động góp phần bảo vệ và nâng cao sức khoẻ nhân dân, tham gia phòng, chống dịch bệnh, bao gồm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tuyên truyền, phổ biến kiến thức về chăm sóc sức khỏe; vận động, hướng dẫn và hỗ trợ nhân dân thực hiện biện pháp chăm sóc sức khỏe cho bản thân, gia đình và cộng đồng;",
                     "sub_clauses": []
@@ -224,6 +235,11 @@
             "id": "Điều 9",
             "title": "Hoạt động chữ thập đỏ về sơ cấp cứu ban đầu",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Hoạt động chữ thập đỏ về sơ cấp cứu ban đầu là hoạt động sơ cấp cứu đối với nạn nhân chiến tranh, thiên tai, dịch bệnh, hoả hoạn, tai nạn giao thông và các tai nạn, thảm họa khác, bao gồm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tổ chức sơ cấp cứu tại chỗ, kịp thời đưa nạn nhân đến cơ sở y tế và báo tin cho gia đình, cơ quan, tổ chức nơi nạn nhân làm việc hoặc Uỷ ban nhân dân cấp xã nơi nạn nhân cư trú;",
@@ -283,6 +299,11 @@
             "title": "Hoạt động chữ thập đỏ về tìm kiếm tin tức thân nhân thất lạc do chiến tranh, thiên tai, thảm họa",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Hoạt động chữ thập đỏ về tìm kiếm tin tức thân nhân thất lạc do chiến tranh, thiên tai, thảm họa là hoạt động cung cấp thông tin về thân nhân hoặc hỗ trợ việc gặp gỡ, đoàn tụ cho cá nhân, gia đình bị thất lạc do chiến tranh, thiên tai, thảm họa ở trong nước và ở nước ngoài, bao gồm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tuyên truyền về mục đích, ý nghĩa, phạm vi của hoạt động chữ thập đỏ về tìm kiếm tin tức thân nhân;",
                     "sub_clauses": []
@@ -303,6 +324,11 @@
             "id": "Điều 12",
             "title": "Hoạt động chữ thập đỏ về tuyên truyền các giá trị nhân đạo",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Hoạt động chữ thập đỏ về tuyên truyền các giá trị nhân đạo là hoạt động nhằm nâng cao nhận thức của tổ chức, cá nhân về các nội dung sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Mục đích, ý nghĩa, nội dung của hoạt động chữ thập đỏ; truyền thống nhân ái, tình thương yêu con người, tinh thần đoàn kết của dân tộc Việt Nam;",
@@ -325,6 +351,11 @@
             "title": "Hoạt động chữ thập đỏ về phòng ngừa, ứng phó thảm hoạ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Hoạt động chữ thập đỏ về phòng ngừa, ứng phó thảm họa là hoạt động góp phần làm giảm thiểu nguy cơ xảy ra thảm họa, thiệt hại về người và tài sản khi xảy ra thảm họa, bao gồm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tuyên truyền, phổ biến kiến thức, hướng dẫn kỹ năng cho hội viên, tình nguyện viên chữ thập đỏ, nhân dân về phòng ngừa, ứng phó thảm họa;",
                     "sub_clauses": []
@@ -336,7 +367,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tham gia tổ chức việc sơ tán, di dời, bảo vệ nhân dân, cứu người bị nạn, hoạt động phục hồi mang tính cộng đồng sau thảm họa.",
+                    "text": "Tham gia tổ chức việc sơ tán, di dời, bảo vệ nhân dân, cứu người bị nạn, hoạt động phục hồi mang tính cộng đồng sau thảm họa. Chương III BIỂU TƯỢNG TRONG HOẠT ĐỘNG CHỮ THẬP ĐỎ",
                     "sub_clauses": []
                 }
             ]
@@ -376,7 +407,13 @@
         {
             "id": "Điều 16",
             "title": "Biểu tượng trăng lưỡi liềm đỏ, biểu tượng pha lê đỏ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Biểu tượng trăng lưỡi liềm đỏ, biểu tượng pha lê đỏ do tổ chức quốc tế, tổ chức nước ngoài thuộc Phong trào chữ thập đỏ và trăng lưỡi liềm đỏ quốc tế sử dụng ở Việt Nam được tôn trọng và được pháp luật bảo hộ. Chương IV VẬN ĐỘNG, QUYÊN GÓP, TIẾP NHẬN, QUẢN LÝ, SỬ DỤNG NGUỒN LỰC CHO HOẠT ĐỘNG CHỮ THẬP ĐỎ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 17 ",
@@ -400,7 +437,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hội Chữ thập đỏ tổ chức vận động, quyên góp tiền, hiện vật, công sức, trí tuệ của tổ chức, cá nhân để thực hiện hoạt động chữ thập đỏ.",
+                    "text": "Hội Chữ thập đỏ tổ chức vận động, quyên góp tiền, hiện vật, công sức, trí tuệ của tổ chức, cá nhân để thực hiện hoạt động chữ thập đỏ. Trường hợp xảy ra thiên tai, thảm họa, dịch bệnh nguy hiểm gây hậu quả nghiêm trọng về người và tài sản, Hội Chữ thập đỏ ra lời kêu gọi tổ chức chữ thập đỏ trong nước và nước ngoài ủng hộ. Chính phủ hướng dẫn, chỉ đạo các cơ quan nhà nước hữu quan tạo điều kiện thuận lợi, thực hiện nhanh chóng thủ tục xuất cảnh, nhập cảnh, hải quan đối với người, tiền và hiện vật phục vụ hoạt động chữ thập đỏ trong trường hợp xảy ra thiên tai, thảm họa, dịch bệnh nguy hiểm.",
                     "sub_clauses": []
                 },
                 {
@@ -444,7 +481,13 @@
         {
             "id": "Điều 20",
             "title": "Miễn, giảm thuế đối với hàng hoá, dịch vụ phục vụ hoạt động chữ thập đỏ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hàng hoá, dịch vụ phục vụ hoạt động chữ thập đỏ được miễn, giảm thuế theo quy định của pháp luật về thuế.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 21",
@@ -541,7 +584,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Việc thành lập, tổ chức, hoạt động và quản lý Quỹ hoạt động chữ thập đỏ được thực hiện theo quy định của Chính phủ.",
+                    "text": "Việc thành lập, tổ chức, hoạt động và quản lý Quỹ hoạt động chữ thập đỏ được thực hiện theo quy định của Chính phủ. Chương V HỢP TÁC QUỐC TẾ VỀ HOẠT ĐỘNG CHỮ THẬP ĐỎ",
                     "sub_clauses": []
                 }
             ]
@@ -549,7 +592,13 @@
         {
             "id": "Điều 23",
             "title": "Nguyên tắc hợp tác quốc tế về hoạt động chữ thập đỏ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hợp tác quốc tế trong hoạt động chữ thập đỏ được thực hiện trên cơ sở tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ, bình đẳng, phù hợp với các quy định của pháp luật Việt Nam và pháp luật quốc tế về hoạt động chữ thập đỏ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 24",
@@ -585,7 +634,13 @@
         {
             "id": "Điều 25",
             "title": "Hoạt động chữ thập đỏ của tổ chức quốc tế, tổ chức, cá nhân nước ngoài tại Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức thuộc Phong trào chữ thập đỏ và trăng lưỡi liềm đỏ quốc tế, tổ chức quốc tế khác, tổ chức, cá nhân nước ngoài khi tham gia hoạt động chữ thập đỏ tại Việt Nam phải tuân thủ pháp luật Việt Nam và được Nhà nước Việt Nam tạo điều kiện thuận lợi.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 26",
@@ -603,7 +658,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Nhà nước tạo điều kiện để Hội Chữ thập đỏ tham gia các hoạt động cứu trợ quốc tế.",
+                    "text": "Nhà nước tạo điều kiện để Hội Chữ thập đỏ tham gia các hoạt động cứu trợ quốc tế. Chương VI HỘI CHỮ THẬP ĐỎ",
                     "sub_clauses": []
                 }
             ]
@@ -652,7 +707,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hội Chữ thập đỏ tiếp nhận, quản lý và sử dụng theo quy định của pháp luật đối với tài sản mà Nhà nước giao và tài sản do tổ chức, cá nhân tặng.",
+                    "text": "Hội Chữ thập đỏ tiếp nhận, quản lý và sử dụng theo quy định của pháp luật đối với tài sản mà Nhà nước giao và tài sản do tổ chức, cá nhân tặng. Chương VII TRÁCH NHIỆM CỦA CƠ QUAN NHÀ NƯỚC, CƠ QUAN                                                      THÔNG TIN ĐẠI CHÚNG TRONG HOẠT ĐỘNG CHỮ THẬP ĐỎ",
                     "sub_clauses": []
                 }
             ]
@@ -774,12 +829,24 @@
         {
             "id": "Điều 33",
             "title": "Trách nhiệm của cơ quan thông tin đại chúng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan thông tin đại chúng có trách nhiệm thông tin, tuyên truyền và phối hợp vận động nhân dân tham gia hoạt động chữ thập đỏ, nêu điển hình tốt, phê phán biểu hiện tiêu cực trong thực hiện pháp luật về hoạt động chữ thập đỏ. Việc thực hiện thông tin, tuyên truyền về hoạt động chữ thập đỏ không thu phí, trừ trường hợp thực hiện theo hợp đồng với chương trình, dự án do tổ chức, cá nhân tài trợ. Chương VIII ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 34",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2009. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 3 thông qua ngày 03 tháng 6 năm 2008. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": []

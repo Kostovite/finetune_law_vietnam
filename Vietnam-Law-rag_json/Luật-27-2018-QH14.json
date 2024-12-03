@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động đo đạc và bản đồ cơ bản; hoạt động đo đạc và bản đồ chuyên ngành; chất lượng sản phẩm đo đạc và bản đồ; công trình hạ tầng đo đạc; thông tin, dữ liệu, sản phẩm đo đạc và bản đồ; hạ tầng dữ liệu không gian địa lý quốc gia; điều kiện kinh doanh dịch vụ đo đạc và bản đồ; quyền, nghĩa vụ của tổ chức, cá nhân hoạt động đo đạc và bản đồ; quản lý nhà nước về đo đạc và bản đồ."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân hoạt động đo đạc và bản đồ; khai thác, sử dụng thông tin, dữ liệu, sản phẩm đo đạc và bản đồ hoặc hoạt động khác có liên quan đến đo đạc và bản đồ trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -1489,6 +1510,13 @@
         "clause": "5",
         "title": "Thành lập tập bản đồ; đo đạc, thành lập các loại bản đồ chuyên ngành khác",
         "text": "Tổ chức, cá nhân được thành lập tập bản đồ của địa phương, khu vực, quốc gia và ngành; đo đạc, thành lập các loại bản đồ chuyên ngành quy định tại khoản 9 Điều 22 của Luật này. Chương IV CHẤT LƯỢNG SẢN PHẨM ĐO ĐẠC VÀ BẢN ĐỒ"
+    },
+    {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Tiêu chuẩn, quy chuẩn kỹ thuật về đo đạc và bản đồ",
+        "text": "Việc xây dựng, công bố, ban hành và áp dụng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia, quy chuẩn kỹ thuật địa phương về đo đạc và bản đồ được thực hiện theo quy định của pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật, bảo đảm đồng bộ, thống nhất, phù hợp với xu hướng phát triển công nghệ."
     },
     {
         "id": "Điều 33.1",
@@ -3297,6 +3325,13 @@
         "text": "Tổ chức, cá nhân có hành vi vi phạm pháp luật về đo đạc và bản đồ thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt hành chính, xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
     },
     {
+        "id": "Điều 60.0",
+        "article": "Điều 60",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2019."
+    },
+    {
         "id": "Điều 61.1",
         "article": "Điều 61",
         "clause": "1",
@@ -3322,6 +3357,6 @@
         "article": "Điều 61",
         "clause": "4",
         "title": "Điều khoản chuyển tiếp",
-        "text": "Quy chuẩn kỹ thuật, định mức kinh tế - kỹ thuật về đo đạc và bản đồ được ban hành trước ngày Luật này có hiệu lực thi hành mà không trái với quy định của Luật này thì tiếp tục được áp dụng cho đến khi bị bãi bỏ hoặc thay thế. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 5 thông qua ngày 14 tháng 6 năm 2018."
+        "text": "Quy chuẩn kỹ thuật, định mức kinh tế - kỹ thuật về đo đạc và bản đồ được ban hành trước ngày Luật này có hiệu lực thi hành mà không trái với quy định của Luật này thì tiếp tục được áp dụng cho đến khi bị bãi bỏ hoặc thay thế. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 5 thông qua ngày 14 tháng 6 năm 2018. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

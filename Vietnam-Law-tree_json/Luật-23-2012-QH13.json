@@ -17,12 +17,24 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định việc thành lập, tổ chức và hoạt động của hợp tác xã, liên hiệp hợp tác xã trong các ngành, lĩnh vực của nền kinh tế.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với hợp tác xã, liên hiệp hợp tác xã, thành viên hợp tác xã (sau đây gọi là thành viên), hợp tác xã thành viên của liên hiệp hợp tác xã (sau đây gọi là hợp tác xã thành viên) và tổ chức, hộ gia đình, cá nhân có liên quan đến việc thành lập, tổ chức, hoạt động của hợp tác xã, liên hiệp hợp tác xã.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
@@ -49,6 +61,11 @@
             "id": "Điều 4",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Nhu cầu chung của thành viên, hợp tác xã thành viên là nhu cầu sử dụng sản phẩm, dịch vụ giống nhau phát sinh thường xuyên, ổn định từ hoạt động sản xuất, kinh doanh, đời sống của thành viên, hợp tác xã thành viên. Đối với hợp tác xã tạo việc làm thì nhu cầu chung của thành viên là nhu cầu việc làm của thành viên trong hợp tác xã do hợp tác xã tạo ra.",
@@ -118,7 +135,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Mức độ sử dụng sản phẩm, dịch vụ của thành viên, hợp tác xã thành viên là tỷ lệ giá trị sản phẩm, dịch vụ mà từng thành viên, hợp tác xã thành viên sử dụng trên tổng giá trị sản phẩm, dịch vụ do hợp tác xã, liên hiệp hợp tác xã cung ứng cho tất cả thành viên, hợp tác xã thành viên.",
+                    "text": "Mức độ sử dụng sản phẩm, dịch vụ của thành viên, hợp tác xã thành viên là tỷ lệ giá trị sản phẩm, dịch vụ mà từng thành viên, hợp tác xã thành viên sử dụng trên tổng giá trị sản phẩm, dịch vụ do hợp tác xã, liên hiệp hợp tác xã cung ứng cho tất cả thành viên, hợp tác xã thành viên. Đối với hợp tác xã tạo việc làm thì mức độ sử dụng sản phẩm, dịch vụ là công sức lao động đóng góp của thành viên đối với hợp tác xã được thể hiện bằng tỷ lệ tiền lương của từng thành viên trên tổng tiền lương của tất cả thành viên.",
                     "sub_clauses": []
                 }
             ]
@@ -129,7 +146,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Công nhận và bảo hộ quyền sở hữu tài sản, vốn, thu nhập, các quyền và lợi ích hợp pháp khác của hợp tác xã, liên hiệp hợp tác xã.",
+                    "text": "Công nhận và bảo hộ quyền sở hữu tài sản, vốn, thu nhập, các quyền và lợi ích hợp pháp khác của hợp tác xã, liên hiệp hợp tác xã. Trường hợp Nhà nước trưng mua, trưng dụng tài sản của hợp tác xã, liên hiệp hợp tác xã vì lý do quốc phòng, an ninh hoặc lợi ích quốc gia thì được thanh toán, bồi thường theo quy định của pháp luật về trưng mua, trưng dụng tài sản.",
                     "sub_clauses": []
                 },
                 {
@@ -486,7 +503,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Thực hiện không đúng các nguyên tắc tổ chức, hoạt động theo quy định tại Điều 7 của Luật này.",
+                    "text": "Thực hiện không đúng các nguyên tắc tổ chức, hoạt động theo quy định tại Điều 7 của Luật này. CHƯƠNG II THÀNH VIÊN, HỢP TÁC XÃ THÀNH VIÊN",
                     "sub_clauses": []
                 }
             ]
@@ -497,7 +514,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cá nhân, hộ gia đình, pháp nhân trở thành thành viên hợp tác xã phải đáp ứng đủ các điều kiện sau đây:",
+                    "text": "Cá nhân, hộ gia đình, pháp nhân trở thành thành viên hợp tác xã phải đáp ứng đủ các điều kiện sau đây: Đối với hợp tác xã tạo việc làm thì thành viên chỉ là cá nhân;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -746,7 +763,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Khi góp đủ vốn, thành viên, hợp tác xã thành viên được hợp tác xã, liên hiệp hợp tác xã cấp giấy chứng nhận vốn góp. Giấy chứng nhận vốn góp có các nội dung chủ yếu sau đây:",
+                    "text": "Khi góp đủ vốn, thành viên, hợp tác xã thành viên được hợp tác xã, liên hiệp hợp tác xã cấp giấy chứng nhận vốn góp. Giấy chứng nhận vốn góp có các nội dung chủ yếu sau đây: Trường hợp thành viên là pháp nhân thì phải ghi rõ tên, trụ sở chính, số quyết định thành lập hoặc số đăng ký; họ, tên, địa chỉ thường trú, quốc tịch, số chứng minh nhân dân hoặc hộ chiếu của người đại diện theo pháp luật của pháp nhân. Đối với hợp tác xã thành viên thì phải ghi rõ tên, trụ sở chính, số giấy chứng nhận đăng ký của hợp tác xã thành viên; họ, tên, địa chỉ thường trú, quốc tịch, số chứng minh nhân dân hoặc hộ chiếu của người đại diện theo pháp luật của hợp tác xã thành viên;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -788,7 +805,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp thành viên là cá nhân chết thì người thừa kế nếu đáp ứng đủ điều kiện của Luật này và điều lệ, tự nguyện tham gia hợp tác xã thì trở thành thành viên và tiếp tục thực hiện các quyền, nghĩa vụ của thành viên; nếu không tham gia hợp tác xã thì được hưởng thừa kế theo quy định của pháp luật.",
+                    "text": "Trường hợp thành viên là cá nhân chết thì người thừa kế nếu đáp ứng đủ điều kiện của Luật này và điều lệ, tự nguyện tham gia hợp tác xã thì trở thành thành viên và tiếp tục thực hiện các quyền, nghĩa vụ của thành viên; nếu không tham gia hợp tác xã thì được hưởng thừa kế theo quy định của pháp luật. Trường hợp thành viên là cá nhân bị Tòa án tuyên bố mất tích, việc trả lại vốn góp và quản lý tài sản của người mất tích được thực hiện theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -808,7 +825,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Trường hợp người thừa kế tự nguyện để lại tài sản thừa kế cho hợp tác xã thì vốn góp đó được đưa vào tài sản không chia của hợp tác xã.",
+                    "text": "Trường hợp người thừa kế tự nguyện để lại tài sản thừa kế cho hợp tác xã thì vốn góp đó được đưa vào tài sản không chia của hợp tác xã. CHƯƠNG III THÀNH LẬP VÀ ĐĂNG KÝ HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ",
                     "sub_clauses": []
                 }
             ]
@@ -819,7 +836,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Sáng lập viên hợp tác xã là cá nhân, hộ gia đình, pháp nhân tự nguyện cam kết sáng lập, tham gia thành lập hợp tác xã.",
+                    "text": "Sáng lập viên hợp tác xã là cá nhân, hộ gia đình, pháp nhân tự nguyện cam kết sáng lập, tham gia thành lập hợp tác xã. Sáng lập viên liên hiệp hợp tác xã là hợp tác xã tự nguyện cam kết sáng lập, tham gia thành lập liên hiệp hợp tác xã.",
                     "sub_clauses": []
                 },
                 {
@@ -835,7 +852,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hội nghị thành lập hợp tác xã, liên hiệp hợp tác xã do sáng lập viên tổ chức theo quy định của Luật này.",
+                    "text": "Hội nghị thành lập hợp tác xã, liên hiệp hợp tác xã do sáng lập viên tổ chức theo quy định của Luật này. Thành phần tham gia hội nghị thành lập hợp tác xã bao gồm sáng lập viên là cá nhân, người đại diện hợp pháp của sáng lập viên; người đại diện hợp pháp của hộ gia đình, pháp nhân và cá nhân khác có nguyện vọng gia nhập hợp tác xã. Thành phần tham gia hội nghị thành lập liên hiệp hợp tác xã bao gồm người đại diện hợp pháp của sáng lập viên và của các hợp tác xã có nguyện vọng gia nhập liên hiệp hợp tác xã.",
                     "sub_clauses": []
                 },
                 {
@@ -938,7 +955,7 @@
                 },
                 {
                     "number": "13",
-                    "text": "Việc cung ứng, tiêu thụ sản phẩm, dịch vụ, việc làm mà hợp tác xã, liên hiệp hợp tác xã cam kết cung ứng, tiêu thụ cho thành viên, hợp tác xã thành viên ra thị trường.",
+                    "text": "Việc cung ứng, tiêu thụ sản phẩm, dịch vụ, việc làm mà hợp tác xã, liên hiệp hợp tác xã cam kết cung ứng, tiêu thụ cho thành viên, hợp tác xã thành viên ra thị trường. Tỷ lệ cung ứng, tiêu thụ sản phẩm, dịch vụ, việc làm mà hợp tác xã, liên hiệp hợp tác xã cam kết cung ứng, tiêu thụ cho thành viên, hợp tác xã thành viên ra thị trường cho từng lĩnh vực, loại hình theo quy định của Chính phủ.",
                     "sub_clauses": []
                 },
                 {
@@ -1056,6 +1073,11 @@
             "title": "Điều kiện cấp giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Hợp tác xã, liên hiệp hợp tác xã được cấp giấy chứng nhận đăng ký khi có đủ các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Ngành, nghề sản xuất, kinh doanh mà pháp luật không cấm;",
                     "sub_clauses": []
@@ -1081,6 +1103,11 @@
             "id": "Điều 25",
             "title": "Sổ đăng ký thành viên, hợp tác xã thành viên",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Hợp tác xã, liên hiệp hợp tác xã phải lập sổ đăng ký thành viên, hợp tác xã thành viên ngay sau khi được cấp giấy chứng nhận đăng ký. Sổ đăng ký phải có các nội dung sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tên, địa chỉ trụ sở chính của hợp tác xã, liên hiệp hợp tác xã; số và ngày cấp giấy chứng nhận đăng ký;",
@@ -1129,7 +1156,13 @@
         {
             "id": "Điều 26",
             "title": "Trụ sở chính của hợp tác xã, liên hiệp hợp tác xã",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trụ sở chính của hợp tác xã, liên hiệp hợp tác xã là địa điểm giao dịch của hợp tác xã, liên hiệp hợp tác xã trên lãnh thổ Việt Nam, có địa chỉ được xác định gồm số nhà, tên đường, phố, xã, phường, thị trấn, huyện, quận, thị xã, thành phố thuộc tỉnh, tỉnh, thành phố trực thuộc trung ương; số điện thoại, số fax và thư điện tử (nếu có).",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 27",
@@ -1168,7 +1201,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Khi hợp tác xã, liên hiệp hợp tác xã thay đổi nội dung điều lệ, số lượng thành viên, hợp tác xã thành viên, thành viên hội đồng quản trị, ban kiểm soát hoặc kiểm soát viên, địa điểm kinh doanh thì phải gửi thông báo đến cơ quan nhà nước có thẩm quyền đã cấp giấy chứng nhận đăng ký trong thời hạn 15 ngày, kể từ ngày thay đổi.",
+                    "text": "Khi hợp tác xã, liên hiệp hợp tác xã thay đổi nội dung điều lệ, số lượng thành viên, hợp tác xã thành viên, thành viên hội đồng quản trị, ban kiểm soát hoặc kiểm soát viên, địa điểm kinh doanh thì phải gửi thông báo đến cơ quan nhà nước có thẩm quyền đã cấp giấy chứng nhận đăng ký trong thời hạn 15 ngày, kể từ ngày thay đổi. CHƯƠNG IV TỔ CHỨC QUẢN LÝ HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ",
                     "sub_clauses": []
                 }
             ]
@@ -1176,7 +1209,13 @@
         {
             "id": "Điều 29",
             "title": "Cơ cấu tổ chức",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ cấu tổ chức hợp tác xã, liên hiệp hợp tác xã gồm đại hội thành viên, hội đồng quản trị, giám đốc (tổng giám đốc) và ban kiểm soát hoặc kiểm soát viên.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 30",
@@ -1227,8 +1266,13 @@
             "title": "Triệu tập đại hội thành viên",
             "content": [
                 {
+                    "number": "0",
+                    "text": "­1. Đại hội thành viên thường niên phải được họp trong thời hạn 03 tháng, kể từ ngày kết thúc năm tài chính do hội đồng quản trị triệu tập. Đại hội thành viên bất thường do hội đồng quản trị, ban kiểm soát hoặc kiểm soát viên hoặc thành viên đại diện của ít nhất một phần ba tổng số thành viên, hợp tác xã thành viên triệu tập theo quy định tại các khoản 2, 3 và 4 Điều này.",
+                    "sub_clauses": []
+                },
+                {
                     "number": "2",
-                    "text": "Hội đồng quản trị triệu tập đại hội thành viên bất thường trong những trường hợp sau đây:",
+                    "text": "Hội đồng quản trị triệu tập đại hội thành viên bất thường trong những trường hợp sau đây: Trong thời hạn 15 ngày, kể từ ngày nhận được đề nghị của ban kiểm soát, kiểm soát viên hoặc đề nghị của ít nhất một phần ba tổng số thành viên, hợp tác xã thành viên, hội đồng quản trị phải triệu tập đại hội thành viên bất thường.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1265,7 +1309,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Đại hội thành viên được tiến hành khi có ít nhất 75% tổng số thành viên, hợp tác xã thành viên hoặc đại biểu thành viên tham dự; trường hợp không đủ số lượng thành viên thì phải hoãn đại hội thành viên.",
+                    "text": "Đại hội thành viên được tiến hành khi có ít nhất 75% tổng số thành viên, hợp tác xã thành viên hoặc đại biểu thành viên tham dự; trường hợp không đủ số lượng thành viên thì phải hoãn đại hội thành viên. Trường hợp cuộc họp lần thứ nhất không đủ điều kiện tiến hành thì triệu tập họp lần thứ hai trong thời hạn 30 ngày, kể từ ngày dự định họp lần thứ nhất. Cuộc họp của đại hội thành viên lần thứ hai được tiến hành khi có ít nhất 50% tổng số thành viên, hợp tác xã thành viên hoặc đại biểu thành viên tham dự. Trường hợp cuộc họp lần thứ hai không đủ điều kiện tiến hành thì triệu tập họp lần thứ ba trong thời hạn 20 ngày, kể từ ngày dự định họp lần thứ hai. Trong trường hợp này, cuộc họp của đại hội thành viên được tiến hành không phụ thuộc vào số thành viên tham dự.",
                     "sub_clauses": []
                 }
             ]
@@ -1274,6 +1318,11 @@
             "id": "Điều 32",
             "title": "Quyền hạn và nhiệm vụ của đại hội thành viên",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Đại hội thành viên quyết định các nội dung sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Thông qua báo cáo kết quả hoạt động trong năm; báo cáo hoạt động của hội đồng quản trị và ban kiểm soát hoặc kiểm soát viên;",
@@ -1395,7 +1444,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trường hợp không chấp thuận kiến nghị quy định tại khoản 2 Điều này, người triệu tập phải báo cáo đại hội thành viên trước khi quyết định chương trình đại hội thành viên.",
+                    "text": "Trường hợp không chấp thuận kiến nghị quy định tại khoản 2 Điều này, người triệu tập phải báo cáo đại hội thành viên trước khi quyết định chương trình đại hội thành viên. Các kiến nghị được chấp thuận phải được đưa vào chương trình dự kiến. Chương trình đại hội thành viên phải được đại hội thành viên biểu quyết thông qua.",
                     "sub_clauses": []
                 }
             ]
@@ -1455,7 +1504,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Hội đồng quản trị hợp tác xã họp định kỳ theo quy định của điều lệ nhưng ít nhất 03 tháng một lần; hội đồng quản trị liên hiệp hợp tác xã họp định kỳ theo quy định của điều lệ nhưng ít nhất 06 tháng một lần do chủ tịch hội đồng quản trị hoặc thành viên hội đồng quản trị được chủ tịch hội đồng quản trị uỷ quyền triệu tập.",
+                    "text": "Hội đồng quản trị hợp tác xã họp định kỳ theo quy định của điều lệ nhưng ít nhất 03 tháng một lần; hội đồng quản trị liên hiệp hợp tác xã họp định kỳ theo quy định của điều lệ nhưng ít nhất 06 tháng một lần do chủ tịch hội đồng quản trị hoặc thành viên hội đồng quản trị được chủ tịch hội đồng quản trị uỷ quyền triệu tập. Hội đồng quản trị họp bất thường khi có yêu cầu của ít nhất một phần ba tổng số thành viên hội đồng quản trị hoặc chủ tịch hội đồng quản trị, trưởng ban kiểm soát hoặc kiểm soát viên, giám đốc (tổng giám đốc) hợp tác xã, liên hiệp hợp tác xã.",
                     "sub_clauses": []
                 },
                 {
@@ -1651,7 +1700,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ban kiểm soát hoặc kiểm soát viên do đại hội thành viên bầu trực tiếp trong số thành viên, đại diện hợp tác xã thành viên theo thể thức bỏ phiếu kín. Số lượng thành viên ban kiểm soát do đại hội thành viên quyết định nhưng không quá 07 người.",
+                    "text": "Ban kiểm soát hoặc kiểm soát viên do đại hội thành viên bầu trực tiếp trong số thành viên, đại diện hợp tác xã thành viên theo thể thức bỏ phiếu kín. Số lượng thành viên ban kiểm soát do đại hội thành viên quyết định nhưng không quá 07 người. Hợp tác xã có từ 30 thành viên trở lên, liên hiệp hợp tác xã có từ 10 hợp tác xã thành viên trở lên phải bầu ban kiểm soát. Đối với hợp tác xã có dưới 30 thành viên, liên hiệp hợp tác xã có dưới 10 hợp tác xã thành viên, việc thành lập ban kiểm soát hoặc kiểm soát viên do điều lệ quy định.",
                     "sub_clauses": []
                 },
                 {
@@ -1850,7 +1899,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thành viên hội đồng quản trị, thành viên ban kiểm soát hoặc kiểm soát viên, giám đốc (tổng giám đốc) sau khi bị miễn nhiệm, bãi nhiệm, cách chức hoặc chấm dứt hợp đồng lao động phải chịu trách nhiệm đối với các quyết định của mình trong thời gian đảm nhiệm chức vụ đó.",
+                    "text": "Thành viên hội đồng quản trị, thành viên ban kiểm soát hoặc kiểm soát viên, giám đốc (tổng giám đốc) sau khi bị miễn nhiệm, bãi nhiệm, cách chức hoặc chấm dứt hợp đồng lao động phải chịu trách nhiệm đối với các quyết định của mình trong thời gian đảm nhiệm chức vụ đó. CHƯƠNG V TÀI SẢN, TÀI CHÍNH CỦA HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ",
                     "sub_clauses": []
                 }
             ]
@@ -1882,7 +1931,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Vốn điều lệ của hợp tác xã, liên hiệp hợp tác xã giảm khi hợp tác xã, liên hiệp hợp tác xã trả lại vốn góp cho thành viên, hợp tác xã thành viên.",
+                    "text": "Vốn điều lệ của hợp tác xã, liên hiệp hợp tác xã giảm khi hợp tác xã, liên hiệp hợp tác xã trả lại vốn góp cho thành viên, hợp tác xã thành viên. Trường hợp vốn điều lệ giảm mà có thành viên, hợp tác xã thành viên có vốn góp vượt quá mức vốn góp tối đa theo quy định tại khoản 1, khoản 2 Điều 17 của Luật này thì phải trả lại phần vốn vượt mức vốn góp tối đa theo quy định tại khoản 1 Điều 18 của Luật này hoặc huy động thêm vốn của thành viên, hợp tác xã thành viên khác hoặc kết nạp thành viên, hợp tác xã thành viên mới để bảo đảm về tỷ lệ vốn góp tối đa theo quy định của Luật này và điều lệ. Đối với hợp tác xã, liên hiệp hợp tác xã hoạt động trong ngành, nghề yêu cầu phải có vốn pháp định thì vốn điều lệ sau khi giảm không được thấp hơn vốn pháp định áp dụng đối với ngành, nghề đó.",
                     "sub_clauses": []
                 }
             ]
@@ -1893,7 +1942,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hợp tác xã, liên hiệp hợp tác xã ưu tiên huy động vốn từ thành viên, hợp tác xã thành viên để đầu tư, mở rộng sản xuất, kinh doanh trên cơ sở thỏa thuận với thành viên, hợp tác xã thành viên.",
+                    "text": "Hợp tác xã, liên hiệp hợp tác xã ưu tiên huy động vốn từ thành viên, hợp tác xã thành viên để đầu tư, mở rộng sản xuất, kinh doanh trên cơ sở thỏa thuận với thành viên, hợp tác xã thành viên. Trường hợp huy động vốn từ thành viên, hợp tác xã thành viên chưa đáp ứng đủ nhu cầu thì hợp tác xã, liên hiệp hợp tác xã huy động vốn từ các nguồn khác theo quy định của pháp luật và điều lệ.",
                     "sub_clauses": []
                 },
                 {
@@ -1947,6 +1996,11 @@
             "id": "Điều 46",
             "title": "Phân phối thu nhập",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Sau khi hoàn thành nghĩa vụ tài chính theo quy định của pháp luật, thu nhập của hợp tác xã, liên hiệp hợp tác xã được phân phối như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Trích lập quỹ đầu tư phát triển với tỷ lệ không thấp hơn 20% trên thu nhập; trích lập quỹ dự phòng tài chính với tỷ lệ không thấp hơn 5% trên thu nhập;",
@@ -2135,12 +2189,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Việc trả lại vốn góp cho thành viên, hợp tác xã thành viên chỉ được thực hiện sau khi hợp tác xã, liên hiệp hợp tác xã đã quyết toán thuế của năm tài chính và bảo đảm khả năng thanh toán các khoản nợ, nghĩa vụ tài chính của hợp tác xã, liên hiệp hợp tác xã.",
+                    "text": "Việc trả lại vốn góp cho thành viên, hợp tác xã thành viên chỉ được thực hiện sau khi hợp tác xã, liên hiệp hợp tác xã đã quyết toán thuế của năm tài chính và bảo đảm khả năng thanh toán các khoản nợ, nghĩa vụ tài chính của hợp tác xã, liên hiệp hợp tác xã. Thành viên, hợp tác xã thành viên chỉ được trả lại vốn góp sau khi đã thực hiện đầy đủ nghĩa vụ tài chính của mình đối với hợp tác xã, liên hiệp hợp tác xã. Cá nhân hoặc tập thể quyết định việc trả lại vốn góp cho thành viên, hợp tác xã thành viên không đúng quy định tại khoản này phải chịu trách nhiệm bồi thường thiệt hại cho hợp tác xã, liên hiệp hợp tác xã.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Việc trả lại vốn góp cho thành viên, hợp tác xã thành viên do điều lệ quy định, phù hợp với quy định tại khoản 1 Điều này và các quy định của pháp luật có liên quan.",
+                    "text": "Việc trả lại vốn góp cho thành viên, hợp tác xã thành viên do điều lệ quy định, phù hợp với quy định tại khoản 1 Điều này và các quy định của pháp luật có liên quan. CHƯƠNG VI CHIA, TÁCH, HỢP NHẤT, SÁP NHẬP, GIẢI THỂ, PHÁ SẢN HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ",
                     "sub_clauses": []
                 }
             ]
@@ -2166,7 +2220,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Hợp tác xã, liên hiệp hợp tác xã bị chia chấm dứt tồn tại sau khi các hợp tác xã, liên hiệp hợp tác xã mới được cấp giấy chứng nhận đăng ký. Các hợp tác xã, liên hiệp hợp tác xã mới phải liên đới chịu trách nhiệm về các khoản nợ chưa thanh toán, hợp đồng lao động và nghĩa vụ khác của hợp tác xã, liên hiệp hợp tác xã bị chia.",
+                    "text": "Hợp tác xã, liên hiệp hợp tác xã bị chia chấm dứt tồn tại sau khi các hợp tác xã, liên hiệp hợp tác xã mới được cấp giấy chứng nhận đăng ký. Các hợp tác xã, liên hiệp hợp tác xã mới phải liên đới chịu trách nhiệm về các khoản nợ chưa thanh toán, hợp đồng lao động và nghĩa vụ khác của hợp tác xã, liên hiệp hợp tác xã bị chia. Hợp tác xã, liên hiệp hợp tác xã bị tách và được tách phải liên đới chịu trách nhiệm về các khoản nợ chưa thanh toán, hợp đồng lao động và nghĩa vụ khác của hợp tác xã, liên hiệp hợp tác xã bị tách. Tài sản không chia của hợp tác xã, liên hiệp hợp tác xã bị chia, tách được chuyển thành tài sản không chia của các hợp tác xã, liên hiệp hợp tác xã sau khi chia, tách theo phương án do đại hội thành viên quyết định.",
                     "sub_clauses": []
                 }
             ]
@@ -2232,7 +2286,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Giải thể tự nguyện:",
+                    "text": "Giải thể tự nguyện: Đại hội thành viên, hợp tác xã thành viên quyết định việc giải thể tự nguyện và thành lập hội đồng giải thể tự nguyện. Hội đồng giải thể tự nguyện gồm đại diện hội đồng quản trị, ban kiểm soát hoặc kiểm soát viên, ban điều hành, đại diện của thành viên, hợp tác xã thành viên. Trong thời hạn 60 ngày, kể từ ngày đại hội thành viên ra nghị quyết giải thể tự nguyện, hội đồng giải thể tự nguyện có trách nhiệm thực hiện các công việc sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2246,7 +2300,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Giải thể bắt buộc:",
+                    "text": "Giải thể bắt buộc: Ủy ban nhân dân cùng cấp với cơ quan nhà nước cấp giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã quyết định giải thể bắt buộc đối với hợp tác xã, liên hiệp hợp tác xã thuộc một trong các trường hợp sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2313,12 +2367,23 @@
         {
             "id": "Điều 55",
             "title": "Giải quyết yêu cầu tuyên bố phá sản đối với hợp tác xã, liên hiệp hợp tác xã",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc giải quyết phá sản đối với hợp tác xã, liên hiệp hợp tác xã được thực hiện theo quy định của pháp luật về phá sản, trừ việc giải quyết tài sản không chia quy định tại khoản 2 Điều 48 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 56",
             "title": "Thu hồi giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Hợp tác xã, liên hiệp hợp tác xã bị thu hồi giấy chứng nhận đăng ký thuộc một trong các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Giải thể, phá sản, bị hợp nhất, bị sáp nhập;",
@@ -2351,7 +2416,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Chuyển trụ sở chính sang địa phương khác với nơi đăng ký trong thời hạn 01 năm mà không đăng ký với cơ quan nhà nước có thẩm quyền.",
+                    "text": "Chuyển trụ sở chính sang địa phương khác với nơi đăng ký trong thời hạn 01 năm mà không đăng ký với cơ quan nhà nước có thẩm quyền. CHƯƠNG VII TỔ CHỨC ĐẠI DIỆN CỦA HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ",
                     "sub_clauses": []
                 }
             ]
@@ -2359,7 +2424,13 @@
         {
             "id": "Điều 57",
             "title": "Tổ chức đại diện của hợp tác xã, liên hiệp hợp tác xã",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức đại diện của hợp tác xã, liên hiệp hợp tác xã do các hợp tác xã, liên hiệp hợp tác xã tự nguyện thành lập nhằm bảo vệ quyền, lợi ích hợp pháp của mình. Tổ chức đại diện của hợp tác xã, liên hiệp hợp tác xã có thể được tổ chức theo ngành, lĩnh vực, vùng lãnh thổ; được tổ chức, hoạt động theo quy định của pháp luật về hội và pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 58",
@@ -2402,7 +2473,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Nhà nước hỗ trợ, tạo điều kiện để liên minh hợp tác xã thực hiện các hoạt động được giao.",
+                    "text": "Nhà nước hỗ trợ, tạo điều kiện để liên minh hợp tác xã thực hiện các hoạt động được giao. CHƯƠNG VIII QUẢN LÝ NHÀ NƯỚC ĐỐI VỚI HỢP TÁC XÃ, LIÊN HIỆP HỢP TÁC XÃ",
                     "sub_clauses": []
                 }
             ]
@@ -2485,7 +2556,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc kiểm toán hợp tác xã, liên hiệp hợp tác xã do Chính phủ quy định.",
+                    "text": "Việc kiểm toán hợp tác xã, liên hiệp hợp tác xã do Chính phủ quy định. CHƯƠNG IX ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2530,7 +2601,13 @@
         {
             "id": "Điều 64",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 4 thông qua ngày 20 tháng 11 năm 2012. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": []

@@ -36,12 +36,23 @@
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân trực tiếp tham gia giao dịch điện tử hoặc có liên quan đến giao dịch điện tử.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Giao dịch điện tử là giao dịch được thực hiện bằng phương tiện điện tử.",
@@ -212,7 +223,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Hành vi khác bị nghiêm cấm theo quy định của luật.",
+                    "text": "Hành vi khác bị nghiêm cấm theo quy định của luật. Chương II THÔNG ĐIỆP DỮ LIỆU Mục 1 GIÁ TRỊ PHÁP LÝ CỦA THÔNG ĐIỆP DỮ LIỆU",
                     "sub_clauses": []
                 }
             ]
@@ -236,7 +247,13 @@
         {
             "id": "Điều 8",
             "title": "Giá trị pháp lý của thông điệp dữ liệu",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thông tin trong thông điệp dữ liệu không bị phủ nhận giá trị pháp lý chỉ vì thông tin đó được thể hiện dưới dạng thông điệp dữ liệu.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 9",
@@ -259,8 +276,13 @@
             "title": "Thông điệp dữ liệu có giá trị như bản gốc",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Thông điệp dữ liệu được sử dụng và có giá trị như bản gốc khi đáp ứng đủ các yêu cầu sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
-                    "text": "Thông tin trong thông điệp dữ liệu được bảo đảm toàn vẹn kể từ khi được khởi tạo lần đầu tiên dưới dạng một thông điệp dữ liệu hoàn chỉnh.",
+                    "text": "Thông tin trong thông điệp dữ liệu được bảo đảm toàn vẹn kể từ khi được khởi tạo lần đầu tiên dưới dạng một thông điệp dữ liệu hoàn chỉnh. Thông tin trong thông điệp dữ liệu được xem là toàn vẹn khi thông tin đó chưa bị thay đổi, trừ những thay đổi về hình thức phát sinh trong quá trình gửi, lưu trữ hoặc hiển thị thông điệp dữ liệu;",
                     "sub_clauses": []
                 },
                 {
@@ -375,7 +397,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Nội dung, thời hạn lưu trữ đối với thông điệp dữ liệu được thực hiện theo quy định của pháp luật về lưu trữ và quy định khác của pháp luật có liên quan. Việc lưu trữ thông điệp dữ liệu có giá trị như lưu trữ văn bản giấy.",
+                    "text": "Nội dung, thời hạn lưu trữ đối với thông điệp dữ liệu được thực hiện theo quy định của pháp luật về lưu trữ và quy định khác của pháp luật có liên quan. Việc lưu trữ thông điệp dữ liệu có giá trị như lưu trữ văn bản giấy. Mục 2 GỬI, NHẬN THÔNG ĐIỆP DỮ LIỆU",
                     "sub_clauses": []
                 }
             ]
@@ -438,6 +460,11 @@
             "title": "Thời điểm, địa điểm gửi thông điệp dữ liệu",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trường hợp các bên tham gia giao dịch không có thỏa thuận khác thì thời điểm, địa điểm gửi thông điệp dữ liệu được quy định như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Thời điểm gửi một thông điệp dữ liệu là thời điểm thông điệp dữ liệu đó rời khỏi hệ thống thông tin dưới sự kiểm soát của người khởi tạo hoặc người đại diện của người khởi tạo. Trường hợp hệ thống thông tin nằm ngoài sự kiểm soát của người khởi tạo hoặc người đại diện của người khởi tạo, thời điểm gửi một thông điệp dữ liệu là thời điểm thông điệp dữ liệu này nhập vào hệ thống thông tin;",
                     "sub_clauses": []
@@ -491,6 +518,11 @@
             "title": "Thời điểm, địa điểm nhận thông điệp dữ liệu",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trường hợp các bên tham gia giao dịch không có thỏa thuận khác thì thời điểm, địa điểm nhận thông điệp dữ liệu được quy định như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Trường hợp người nhận đã chỉ định một hệ thống thông tin để nhận thông điệp dữ liệu thì thời điểm nhận là thời điểm thông điệp dữ liệu nhập vào hệ thống thông tin được chỉ định và có thể truy cập được; nếu người nhận không chỉ định một hệ thống thông tin để nhận thông điệp dữ liệu thì thời điểm nhận thông điệp dữ liệu là thời điểm thông điệp dữ liệu đó nhập vào bất kỳ hệ thống thông tin nào của người nhận và có thể truy cập được;",
                     "sub_clauses": []
@@ -505,7 +537,13 @@
         {
             "id": "Điều 18",
             "title": "Gửi, nhận tự động thông điệp dữ liệu",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp người khởi tạo hoặc người nhận chỉ định một hoặc nhiều hệ thống thông tin tự động gửi hoặc nhận thông điệp dữ liệu thì việc gửi, nhận thông điệp dữ liệu thực hiện theo quy định tại các điều 14, 15, 16 và 17 của Luật này. Mục 3 CHỨNG THƯ ĐIỆN TỬ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 19",
@@ -585,7 +623,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hệ thống thông tin phục vụ lưu trữ, xử lý chứng thư điện tử phải đáp ứng yêu cầu bảo đảm an toàn thông tin mạng tối thiểu cấp độ 3 theo quy định của pháp luật về an toàn thông tin mạng.",
+                    "text": "Hệ thống thông tin phục vụ lưu trữ, xử lý chứng thư điện tử phải đáp ứng yêu cầu bảo đảm an toàn thông tin mạng tối thiểu cấp độ 3 theo quy định của pháp luật về an toàn thông tin mạng. Chương III CHỮ KÝ ĐIỆN TỬ VÀ DỊCH VỤ TIN CẬY Mục 1 CHỮ KÝ ĐIỆN TỬ",
                     "sub_clauses": []
                 }
             ]
@@ -841,7 +879,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức, cá nhân lựa chọn và chịu trách nhiệm về việc chấp nhận chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài trên thông điệp dữ liệu trong giao dịch quốc tế.",
+                    "text": "Tổ chức, cá nhân lựa chọn và chịu trách nhiệm về việc chấp nhận chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài trên thông điệp dữ liệu trong giao dịch quốc tế. Mục 2 DỊCH VỤ TIN CẬY",
                     "sub_clauses": []
                 }
             ]
@@ -875,7 +913,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tổ chức cung cấp dịch vụ tin cậy phải có giấy phép kinh doanh dịch vụ do Bộ Thông tin và Truyền thông cấp, trừ dịch vụ chứng thực hợp đồng điện tử trong thương mại. Tổ chức được quyền đăng ký một hoặc các dịch vụ quy định tại khoản 1 Điều này. Thời hạn của giấy phép kinh doanh dịch vụ tin cậy là 10 năm.",
+                    "text": "Tổ chức cung cấp dịch vụ tin cậy phải có giấy phép kinh doanh dịch vụ do Bộ Thông tin và Truyền thông cấp, trừ dịch vụ chứng thực hợp đồng điện tử trong thương mại. Tổ chức được quyền đăng ký một hoặc các dịch vụ quy định tại khoản 1 Điều này. Thời hạn của giấy phép kinh doanh dịch vụ tin cậy là 10 năm. Tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại phải đáp ứng điều kiện hoạt động cung cấp dịch vụ chứng thực hợp đồng điện tử theo quy định của pháp luật về thương mại điện tử và điều kiện kinh doanh dịch vụ tin cậy theo quy định tại Điều 29 của Luật này.",
                     "sub_clauses": []
                 },
                 {
@@ -999,6 +1037,11 @@
             "title": "Dịch vụ chứng thực thông điệp dữ liệu",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Dịch vụ chứng thực thông điệp dữ liệu bao gồm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Dịch vụ lưu trữ và xác nhận tính toàn vẹn của thông điệp dữ liệu;",
                     "sub_clauses": []
@@ -1057,7 +1100,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương IV GIAO KẾT VÀ THỰC HIỆN HỢP ĐỒNG ĐIỆN TỬ",
                     "sub_clauses": []
                 }
             ]
@@ -1118,12 +1161,24 @@
         {
             "id": "Điều 37",
             "title": "Việc nhận, gửi, thời điểm, địa điểm nhận, gửi thông điệp dữ liệu trong giao kết và thực hiện hợp đồng điện tử",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc nhận, gửi, thời điểm, địa điểm nhận, gửi thông điệp dữ liệu trong giao kết và thực hiện hợp đồng điện tử được thực hiện theo quy định tại các điều 15, 16, 17 và 18 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 38",
             "title": "Giá trị pháp lý của thông báo trong giao kết và thực hiện hợp đồng điện tử",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong giao kết và thực hiện hợp đồng điện tử, thông báo dưới dạng thông điệp dữ liệu có giá trị pháp lý như thông báo bằng văn bản giấy. Chương V GIAO DỊCH ĐIỆN TỬ CỦA CƠ QUAN NHÀ NƯỚC",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 39",
@@ -1366,7 +1421,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương VI HỆ THỐNG THÔNG TIN PHỤC VỤ GIAO DỊCH ĐIỆN TỬ",
                     "sub_clauses": []
                 }
             ]
@@ -1377,7 +1432,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hệ thống thông tin phục vụ giao dịch điện tử là tập hợp phần cứng, phần mềm và cơ sở dữ liệu được thiết lập với chức năng, tính năng chính để phục vụ giao dịch điện tử, bảo đảm xác thực, tin cậy trong giao dịch điện tử.",
+                    "text": "Hệ thống thông tin phục vụ giao dịch điện tử là tập hợp phần cứng, phần mềm và cơ sở dữ liệu được thiết lập với chức năng, tính năng chính để phục vụ giao dịch điện tử, bảo đảm xác thực, tin cậy trong giao dịch điện tử. Hệ thống thông tin phục vụ giao dịch điện tử được phân loại theo chủ quản hệ thống thông tin; chức năng, tính năng của hệ thống thông tin phục vụ giao dịch điện tử; quy mô, số lượng người sử dụng tại Việt Nam hoặc số lượng truy cập hằng tháng từ người sử dụng tại Việt Nam.",
                     "sub_clauses": []
                 },
                 {
@@ -1520,7 +1575,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ Thông tin và Truyền thông thiết lập, vận hành hệ thống tiếp nhận, tổng hợp dữ liệu phục vụ quản lý nhà nước về giao dịch điện tử của cơ quan nhà nước quy định tại khoản 1 Điều này theo quy định của Chính phủ; chủ trì xây dựng, ban hành hoặc đề nghị cơ quan nhà nước có thẩm quyền ban hành quy định về kỹ thuật đối với mô hình tham chiếu kết nối phục vụ chia sẻ dữ liệu bằng phương tiện điện tử, định danh thiết bị, tiêu chí tín nhiệm mạng của hệ thống thông tin phục vụ giao dịch điện tử.",
+                    "text": "Bộ Thông tin và Truyền thông thiết lập, vận hành hệ thống tiếp nhận, tổng hợp dữ liệu phục vụ quản lý nhà nước về giao dịch điện tử của cơ quan nhà nước quy định tại khoản 1 Điều này theo quy định của Chính phủ; chủ trì xây dựng, ban hành hoặc đề nghị cơ quan nhà nước có thẩm quyền ban hành quy định về kỹ thuật đối với mô hình tham chiếu kết nối phục vụ chia sẻ dữ liệu bằng phương tiện điện tử, định danh thiết bị, tiêu chí tín nhiệm mạng của hệ thống thông tin phục vụ giao dịch điện tử. Chương VII QUẢN LÝ NHÀ NƯỚC VỀ GIAO DỊCH ĐIỆN TỬ",
                     "sub_clauses": []
                 }
             ]
@@ -1597,7 +1652,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bộ trưởng Bộ Quốc phòng thực hiện quản lý nhà nước về giao dịch điện tử trong lĩnh vực cơ yếu, chữ ký số chuyên dùng công vụ trên cơ sở tiêu chuẩn, quy chuẩn kỹ thuật quốc gia về chữ ký số theo quy định của pháp luật.",
+                    "text": "Bộ trưởng Bộ Quốc phòng thực hiện quản lý nhà nước về giao dịch điện tử trong lĩnh vực cơ yếu, chữ ký số chuyên dùng công vụ trên cơ sở tiêu chuẩn, quy chuẩn kỹ thuật quốc gia về chữ ký số theo quy định của pháp luật. Chương VIII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1608,12 +1663,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Sửa đổi, bổ sung mục 119 thuộc Phụ lục IV - Danh mục ngành, nghề đầu tư kinh doanh có điều kiện ban hành kèm theo Luật Đầu tư số 61/2020/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 72/2020/QH14, Luật số 03/2022/QH15, Luật số 05/2022/QH15, Luật số 08/2022/QH15 và Luật số 09/2022/QH15 như sau:",
+                    "text": "Sửa đổi, bổ sung mục 119 thuộc Phụ lục IV - Danh mục ngành, nghề đầu tư kinh doanh có điều kiện ban hành kèm theo Luật Đầu tư số 61/2020/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 72/2020/QH14, Luật số 03/2022/QH15, Luật số 05/2022/QH15, Luật số 08/2022/QH15 và Luật số 09/2022/QH15 như sau: 119 Kinh doanh dịch vụ tin cậy",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Sửa đổi, bổ sung mục 7 thuộc Phần VI - Phí thuộc lĩnh vực thông tin và truyền thông trong Danh mục Phí, lệ phí ban hành kèm theo Luật Phí và lệ phí số 97/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 09/2017/QH14, Luật số 23/2018/QH14, Luật số 72/2020/QH14 và Luật số 16/2023/QH15 như sau:",
+                    "text": "Sửa đổi, bổ sung mục 7 thuộc Phần VI - Phí thuộc lĩnh vực thông tin và truyền thông trong Danh mục Phí, lệ phí ban hành kèm theo Luật Phí và lệ phí số 97/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 09/2017/QH14, Luật số 23/2018/QH14, Luật số 72/2020/QH14 và Luật số 16/2023/QH15 như sau: 7 Phí dịch vụ duy trì hệ thống kiểm tra trạng thái chứng thư chữ ký số Bộ Tài chính",
                     "sub_clauses": []
                 },
                 {
@@ -1660,7 +1715,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Giấy phép cung cấp dịch vụ chứng thực chữ ký số công cộng, Giấy phép sử dụng chứng thư số nước ngoài tại Việt Nam, Giấy chứng nhận đăng ký hoạt động của tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng, Giấy chứng nhận đủ điều kiện đảm bảo an toàn cho chữ ký số chuyên dùng đã được cấp trước ngày Luật này có hiệu lực thi hành và đến ngày Luật này có hiệu lực thi hành vẫn còn hiệu lực thì được tiếp tục sử dụng đến hết thời hạn của giấy phép, giấy chứng nhận.",
+                    "text": "Giấy phép cung cấp dịch vụ chứng thực chữ ký số công cộng, Giấy phép sử dụng chứng thư số nước ngoài tại Việt Nam, Giấy chứng nhận đăng ký hoạt động của tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng, Giấy chứng nhận đủ điều kiện đảm bảo an toàn cho chữ ký số chuyên dùng đã được cấp trước ngày Luật này có hiệu lực thi hành và đến ngày Luật này có hiệu lực thi hành vẫn còn hiệu lực thì được tiếp tục sử dụng đến hết thời hạn của giấy phép, giấy chứng nhận. Việc cấp chứng thư số theo giấy phép, giấy chứng nhận quy định tại khoản này được thực hiện theo quy định của Luật Giao dịch điện tử số 51/2005/QH11 và các văn bản quy phạm pháp luật quy định chi tiết Luật Giao dịch điện tử số 51/2005/QH11.",
                     "sub_clauses": []
                 },
                 {
@@ -1680,11 +1735,15 @@
                 },
                 {
                     "number": "7",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. ______________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 5 thông qua ngày 22 tháng 6 năm 2023. CHỦ TỊCH QUỐC HỘI Đã ký: Vương Đình Huệ",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 5 thông qua ngày 22 tháng 6 năm 2023.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Vương Đình Huệ"
+    ]
 }

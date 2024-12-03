@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về phòng ngừa, phát hiện tham nhũng; xử lý tham nhũng và hành vi khác vi phạm pháp luật về phòng, chống tham nhũng."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -117,6 +124,13 @@
         "clause": "2c",
         "title": "Các hành vi tham nhũng",
         "text": "Đưa hối lộ, môi giới hối lộ để giải quyết công việc của doanh nghiệp, tổ chức mình vì vụ lợi."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -1015,6 +1029,13 @@
         "text": "Kế hoạch chuyển đổi vị trí công tác phải nêu rõ mục đích, yêu cầu, trường hợp cụ thể phải chuyển đổi vị trí công tác, thời gian thực hiện chuyển đổi, quyền, nghĩa vụ của người phải chuyển đổi vị trí công tác và biện pháp tổ chức thực hiện. Mục 5. CẢI CÁCH HÀNH CHÍNH, ỨNG DỤNG KHOA HỌC, CÔNG NGHỆ TRONG QUẢN LÝ VÀ THANH TOÁN KHÔNG DÙNG TIỀN MẶT"
     },
     {
+        "id": "Điều 27.0",
+        "article": "Điều 27",
+        "clause": "0",
+        "title": "Cải cách hành chính",
+        "text": "Cơ quan, tổ chức, đơn vị, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 27.1",
         "article": "Điều 27",
         "clause": "1",
@@ -1230,6 +1251,13 @@
         "clause": "3",
         "title": "Nhiệm vụ, quyền hạn của Cơ quan kiểm soát tài sản, thu nhập",
         "text": "Việc yêu cầu, đề nghị quy định tại các điểm b, d và đ khoản 2 Điều này phải được thực hiện bằng văn bản do Tổ trưởng Tổ xác minh tài sản, thu nhập, người đứng đầu hoặc cấp phó của người đứng đầu Cơ quan kiểm soát tài sản, thu nhập ký. Trình tự, thủ tục yêu cầu, thực hiện yêu cầu cung cấp thông tin quy định tại điểm b khoản 2 Điều này do Chính phủ quy định."
+    },
+    {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Trách nhiệm của cơ quan, tổ chức, đơn vị, cá nhân có liên quan trong kiểm soát tài sản, thu nhập",
+        "text": "Kho bạc nhà nước, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài tại Việt Nam, cơ quan công an, quản lý thuế, hải quan, quản lý về đất đai, đăng ký tài sản và cơ quan, tổ chức, đơn vị, cá nhân khác có liên quan, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:"
     },
     {
         "id": "Điều 32.1",
@@ -1503,6 +1531,13 @@
         "clause": "6",
         "title": "Công khai bản kê khai tài sản, thu nhập",
         "text": "Chính phủ quy định chi tiết về thời điểm, hình thức và việc tổ chức công khai bản kê khai quy định tại các khoản 1,2 và 5 Điều này."
+    },
+    {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Theo dõi biến động tài sản, thu nhập",
+        "text": "Cơ quan kiểm soát tài sản, thu nhập theo dõi biến động về tài sản, thu nhập của người có nghĩa vụ kê khai thông qua phân tích, đánh giá thông tin từ bản kê khai hoặc từ các nguồn thông tin khác. Trường hợp phát hiện tài sản, thu nhập có biến động từ 300.000.000 đồng trở lên so với tài sản, thu nhập đã kê khai lần liền trước đó mà người có nghĩa vụ kê khai không kê khai thì Cơ quan kiểm soát tài sản, thu nhập có quyền yêu cầu người đó cung cấp, bổ sung thông tin có liên quan; trường hợp tài sản, thu nhập có biến động tăng thì phải giải trình về nguồn gốc của tài sản, thu nhập tăng thêm. Tiểu mục 3 XÁC MINH TÀI SẢN, THU NHẬP"
     },
     {
         "id": "Điều 41.1",
@@ -2296,6 +2331,13 @@
         "text": "Tổng Thanh tra Chính phủ, Tổng Kiểm toán nhà nước có trách nhiệm phối hợp xử lý trùng lặp trong hoạt động thanh tra, kiểm toán vụ việc có dấu hiệu tham nhũng."
     },
     {
+        "id": "Điều 62.0",
+        "article": "Điều 62",
+        "clause": "0",
+        "title": "Trách nhiệm xử lý vụ việc có dấu hiệu tham nhũng được phát hiện qua hoạt động thanh tra, kiểm toán",
+        "text": "Trong quá trình thanh tra, kiểm toán nếu phát hiện vụ việc có dấu hiệu tham nhũng thì người ra quyết định thanh tra, người ra quyết định kiểm toán phải chỉ đạo xác minh, làm rõ vụ việc tham nhũng và xử lý như sau:"
+    },
+    {
         "id": "Điều 62.1",
         "article": "Điều 62",
         "clause": "1",
@@ -2392,6 +2434,13 @@
         "clause": "2",
         "title": "Bảo vệ người phản ánh, tố cáo, báo cáo về hành vi tham nhũng",
         "text": "Người phản ánh, báo cáo về hành vi tham nhũng được áp dụng các biện pháp bảo vệ như bảo vệ người tố cáo."
+    },
+    {
+        "id": "Điều 68.0",
+        "article": "Điều 68",
+        "clause": "0",
+        "title": "Khen thưởng người phản ánh, tố cáo, báo cáo về hành vi tham nhũng",
+        "text": "Người có thành tích trong việc phản ánh, tố cáo, báo cáo về hành vi tham nhũng thì được khen thưởng theo quy định của pháp luật."
     },
     {
         "id": "Điều 69.1",
@@ -2821,6 +2870,13 @@
         "text": "Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Thanh tra Chính phủ quản lý nhà nước về công tác phòng, chống tham nhũng."
     },
     {
+        "id": "Điều 85.0",
+        "article": "Điều 85",
+        "clause": "0",
+        "title": "Trách nhiệm của Ủy ban nhân dân các cấp",
+        "text": "Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 85.1",
         "article": "Điều 85",
         "clause": "1",
@@ -2870,6 +2926,13 @@
         "text": "Tòa án nhân dân tối cao giám đốc thẩm, tái thẩm các vụ án tham nhũng thuộc thẩm quyền, giám đốc việc xét xử các vụ án tham nhũng của các tòa án khác, tổng kết thực tiễn xét xử, bảo đảm áp dụng thống nhất pháp luật trong xét xử các vụ án tham nhũng."
     },
     {
+        "id": "Điều 87.0",
+        "article": "Điều 87",
+        "clause": "0",
+        "title": "Trách nhiệm của Kiểm toán nhà nước",
+        "text": "Kiểm toán nhà nước có trách nhiệm kiểm toán nhằm phòng ngừa, phát hiện tham nhũng, kiểm toán vụ việc có dấu hiệu tham nhũng theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 88.1",
         "article": "Điều 88",
         "clause": "1",
@@ -2896,6 +2959,13 @@
         "clause": "2",
         "title": "Trách nhiệm phối hợp của Cơ quan thanh tra, Kiểm toán nhà nước, Cơ quan điều tra, Viện kiểm sát nhân dân, Tòa án nhân dân và cơ quan, tổ chức, đơn vị khác",
         "text": "Cơ quan, tổ chức, đơn vị khác, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tạo điều kiện, phối hợp với Cơ quan thanh tra, Kiểm toán nhà nước, Cơ quan điều tra, Viện kiểm sát nhân dân, Tòa án nhân dân trong việc phát hiện, xử lý tham nhũng. Chương VIII HỢP TÁC QUỐC TẾ VỀ PHÒNG, CHỐNG THAM NHŨNG"
+    },
+    {
+        "id": "Điều 89.0",
+        "article": "Điều 89",
+        "clause": "0",
+        "title": "Nguyên tắc chung về hợp tác quốc tế",
+        "text": "Nhà nước cam kết thực hiện các điều ước quốc tế về phòng, chống tham nhũng mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; hợp tác với các nước, tổ chức quốc tế, tổ chức, cá nhân nước ngoài trong hoạt động phòng, chống tham nhũng trên nguyên tắc tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ và các bên cùng có lợi."
     },
     {
         "id": "Điều 90.1",
@@ -3066,6 +3136,13 @@
         "text": "Chính phủ quy định chi tiết việc xử lý kỷ luật, xử phạt vi phạm hành chính quy định tại Điều này."
     },
     {
+        "id": "Điều 95.0",
+        "article": "Điều 95",
+        "clause": "0",
+        "title": "Xử lý hành vi khác vi phạm pháp luật về phòng, chống tham nhũng trong doanh nghiệp, tổ chức khu vực ngoài nhà nước",
+        "text": "Doanh nghiệp, tổ chức khu vực ngoài nhà nước là công ty đại chúng, tổ chức tín dụng và tổ chức xã hội do Thủ tướng Chính phủ, Bộ trưởng Bộ Nội vụ hoặc Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định thành lập hoặc phê duyệt điều lệ có huy động các khoản đóng góp của Nhân dân để hoạt động từ thiện vi phạm quy định tại Điều 80 của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý như sau:"
+    },
+    {
         "id": "Điều 95.1",
         "article": "Điều 95",
         "clause": "1",
@@ -3091,6 +3168,6 @@
         "article": "Điều 96",
         "clause": "2",
         "title": "Hiệu lực thi hành",
-        "text": "Luật Phòng, chống tham nhũng số 55/2005/QH11 được sửa đổi, bổ sung một số điều theo Luật số 01/2007/QH12 và Luật số 27/2012/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua ngày 20 tháng 11 năm 2018."
+        "text": "Luật Phòng, chống tham nhũng số 55/2005/QH11 được sửa đổi, bổ sung một số điều theo Luật số 01/2007/QH12 và Luật số 27/2012/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua ngày 20 tháng 11 năm 2018. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

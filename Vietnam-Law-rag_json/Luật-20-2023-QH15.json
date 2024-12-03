@@ -21,6 +21,20 @@
         "text": "Trường hợp luật khác quy định hoặc không quy định giao dịch được thực hiện bằng phương tiện điện tử thì được áp dụng theo quy định của Luật này. Trường hợp luật khác quy định không được thực hiện giao dịch bằng phương tiện điện tử thì thực hiện theo quy định của luật đó."
     },
     {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân trực tiếp tham gia giao dịch điện tử hoặc có liên quan đến giao dịch điện tử."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -252,6 +266,13 @@
         "text": "Thông điệp dữ liệu được tạo ra, phát sinh trong quá trình giao dịch hoặc được chuyển đổi từ văn bản giấy."
     },
     {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Giá trị pháp lý của thông điệp dữ liệu",
+        "text": "Thông tin trong thông điệp dữ liệu không bị phủ nhận giá trị pháp lý chỉ vì thông tin đó được thể hiện dưới dạng thông điệp dữ liệu."
+    },
+    {
         "id": "Điều 9.1",
         "article": "Điều 9",
         "clause": "1",
@@ -264,6 +285,13 @@
         "clause": "2",
         "title": "Thông điệp dữ liệu có giá trị như văn bản",
         "text": "Trường hợp pháp luật yêu cầu văn bản phải được công chứng, chứng thực thì thông điệp dữ liệu được xem là đáp ứng yêu cầu nếu được công chứng theo quy định của pháp luật về công chứng; chứng thực theo quy định của Luật này và pháp luật về chứng thực."
+    },
+    {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Thông điệp dữ liệu có giá trị như bản gốc",
+        "text": "Thông điệp dữ liệu được sử dụng và có giá trị như bản gốc khi đáp ứng đủ các yêu cầu sau đây:"
     },
     {
         "id": "Điều 10.1",
@@ -490,6 +518,13 @@
         "text": "Người khởi tạo phải chịu trách nhiệm trước pháp luật về nội dung thông điệp dữ liệu do mình khởi tạo."
     },
     {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Thời điểm, địa điểm gửi thông điệp dữ liệu",
+        "text": "Trường hợp các bên tham gia giao dịch không có thỏa thuận khác thì thời điểm, địa điểm gửi thông điệp dữ liệu được quy định như sau:"
+    },
+    {
         "id": "Điều 15.1",
         "article": "Điều 15",
         "clause": "1",
@@ -553,6 +588,13 @@
         "text": "Trường hợp người khởi tạo đã gửi thông điệp dữ liệu mà không tuyên bố về việc người nhận phải gửi thông báo xác nhận và cũng chưa nhận được thông báo xác nhận, trừ trường hợp quy định tại điểm a khoản này, thì người khởi tạo có thể thông báo cho người nhận là chưa nhận được thông báo xác nhận và ấn định khoảng thời gian hợp lý để người nhận gửi thông báo xác nhận; nếu người khởi tạo vẫn không nhận được thông báo xác nhận trong khoảng thời gian đã ấn định thì người khởi tạo có quyền xem là chưa gửi thông điệp dữ liệu đó."
     },
     {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Thời điểm, địa điểm nhận thông điệp dữ liệu",
+        "text": "Trường hợp các bên tham gia giao dịch không có thỏa thuận khác thì thời điểm, địa điểm nhận thông điệp dữ liệu được quy định như sau:"
+    },
+    {
         "id": "Điều 17.1",
         "article": "Điều 17",
         "clause": "1",
@@ -565,6 +607,13 @@
         "clause": "2",
         "title": "Thời điểm, địa điểm nhận thông điệp dữ liệu",
         "text": "Ở bất kỳ địa điểm nào thông điệp dữ liệu được nhận thì địa điểm nhận thông điệp dữ liệu vẫn được coi là trụ sở của người nhận nếu người nhận là cơ quan, tổ chức hoặc nơi cư trú của người nhận nếu người nhận là cá nhân. Trường hợp người nhận có nhiều trụ sở thì địa điểm nhận thông điệp dữ liệu là trụ sở chính hoặc trụ sở có mối liên hệ mật thiết nhất với giao dịch."
+    },
+    {
+        "id": "Điều 18.0",
+        "article": "Điều 18",
+        "clause": "0",
+        "title": "Gửi, nhận tự động thông điệp dữ liệu",
+        "text": "Trường hợp người khởi tạo hoặc người nhận chỉ định một hoặc nhiều hệ thống thông tin tự động gửi hoặc nhận thông điệp dữ liệu thì việc gửi, nhận thông điệp dữ liệu thực hiện theo quy định tại các điều 14, 15, 16 và 17 của Luật này. Mục 3 CHỨNG THƯ ĐIỆN TỬ"
     },
     {
         "id": "Điều 19.1",
@@ -1183,6 +1232,13 @@
         "text": "Nguồn thời gian của tổ chức cung cấp dịch vụ cấp dấu thời gian phải theo quy định của pháp luật về nguồn thời gian chuẩn quốc gia."
     },
     {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Dịch vụ chứng thực thông điệp dữ liệu",
+        "text": "Dịch vụ chứng thực thông điệp dữ liệu bao gồm:"
+    },
+    {
         "id": "Điều 32.1",
         "article": "Điều 32",
         "clause": "1",
@@ -1314,6 +1370,20 @@
         "clause": "3",
         "title": "Nguyên tắc giao kết và thực hiện hợp đồng điện tử",
         "text": "Việc giao kết và thực hiện hợp đồng điện tử phải tuân thủ quy định của Luật này, quy định của pháp luật về hợp đồng và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Việc nhận, gửi, thời điểm, địa điểm nhận, gửi thông điệp dữ liệu trong giao kết và thực hiện hợp đồng điện tử",
+        "text": "Việc nhận, gửi, thời điểm, địa điểm nhận, gửi thông điệp dữ liệu trong giao kết và thực hiện hợp đồng điện tử được thực hiện theo quy định tại các điều 15, 16, 17 và 18 của Luật này."
+    },
+    {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Giá trị pháp lý của thông báo trong giao kết và thực hiện hợp đồng điện tử",
+        "text": "Trong giao kết và thực hiện hợp đồng điện tử, thông báo dưới dạng thông điệp dữ liệu có giá trị pháp lý như thông báo bằng văn bản giấy. Chương V GIAO DỊCH ĐIỆN TỬ CỦA CƠ QUAN NHÀ NƯỚC"
     },
     {
         "id": "Điều 39.1",
@@ -1999,6 +2069,6 @@
         "article": "Điều 53",
         "clause": "7",
         "title": "Quy định chuyển tiếp",
-        "text": "Chính phủ quy định chi tiết Điều này. ______________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 5 thông qua ngày 22 tháng 6 năm 2023."
+        "text": "Chính phủ quy định chi tiết Điều này. ______________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 5 thông qua ngày 22 tháng 6 năm 2023. CHỦ TỊCH QUỐC HỘI Đã ký: Vương Đình Huệ"
     }
 ]

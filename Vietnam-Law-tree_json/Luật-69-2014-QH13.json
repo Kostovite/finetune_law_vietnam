@@ -18,7 +18,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định việc đầu tư vốn nhà nước vào doanh nghiệp; quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp và giám sát việc đầu tư, quản lý, sử dụng vốn nhà nước tại doanh nghiệp.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -59,6 +65,11 @@
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Cơ quan đại diện chủ sở hữu là cơ quan, tổ chức được Chính phủ giao thực hiện quyền, trách nhiệm của đại diện chủ sở hữu nhà nước đối với doanh nghiệp do mình quyết định thành lập hoặc được giao quản lý và thực hiện quyền, trách nhiệm đối với phần vốn nhà nước đầu tư tại công ty cổ phần, công ty trách nhiệm hữu hạn hai thành viên trở lên.",
@@ -287,7 +298,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Tiết lộ, sử dụng thông tin do doanh nghiệp hoặc cơ quan quản lý nhà nước cung cấp không đúng quy định của pháp luật.",
+                    "text": "Tiết lộ, sử dụng thông tin do doanh nghiệp hoặc cơ quan quản lý nhà nước cung cấp không đúng quy định của pháp luật. CHƯƠNG II ĐẦU TƯ VỐN NHÀ NƯỚC VÀO DOANH NGHIỆP Mục 1 ĐẦU TƯ VỐN NHÀ NƯỚC ĐỂ THÀNH LẬP DOANH NGHIỆP DO NHÀ NƯỚC NẮM GIỮ 100% VỐN ĐIỀU LỆ",
                     "sub_clauses": []
                 }
             ]
@@ -415,7 +426,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết trình tự, thủ tục đầu tư vốn nhà nước để thành lập doanh nghiệp.",
+                    "text": "Chính phủ quy định chi tiết trình tự, thủ tục đầu tư vốn nhà nước để thành lập doanh nghiệp. Mục 2 ĐẦU TƯ BỔ SUNG VỐN ĐIỀU LỆ ĐỐI VỚI DOANH NGHIỆP DO NHÀ NƯỚC NẮM GIỮ 100% VỐN ĐIỀU LỆ ĐANG HOẠT ĐỘNG",
                     "sub_clauses": []
                 }
             ]
@@ -523,7 +534,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chính phủ quy định chi tiết tiêu chí đánh giá hiệu quả, trình tự, thủ tục đầu tư bổ sung vốn điều lệ đối với doanh nghiệp đang hoạt động.",
+                    "text": "Chính phủ quy định chi tiết tiêu chí đánh giá hiệu quả, trình tự, thủ tục đầu tư bổ sung vốn điều lệ đối với doanh nghiệp đang hoạt động. Mục 3 ĐẦU TƯ BỔ SUNG VỐN NHÀ NƯỚC TẠI CÔNG TY CỔ PHẦN, CÔNG TY TRÁCH NHIỆM HỮU HẠN HAI THÀNH VIÊN TRỞ LÊN",
                     "sub_clauses": []
                 }
             ]
@@ -617,7 +628,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết trình tự, thủ tục đầu tư bổ sung vốn nhà nước tại công ty cổ phần, công ty trách nhiệm hữu hạn hai thành viên trở lên.",
+                    "text": "Chính phủ quy định chi tiết trình tự, thủ tục đầu tư bổ sung vốn nhà nước tại công ty cổ phần, công ty trách nhiệm hữu hạn hai thành viên trở lên. Mục 4 ĐẦU TƯ VỐN NHÀ NƯỚC ĐỂ MUA LẠI MỘT PHẦN HOẶC TOÀN BỘ DOANH NGHIỆP",
                     "sub_clauses": []
                 }
             ]
@@ -720,7 +731,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết trình tự, thủ tục đầu tư vốn nhà nước để mua lại một phần hoặc toàn bộ doanh nghiệp.",
+                    "text": "Chính phủ quy định chi tiết trình tự, thủ tục đầu tư vốn nhà nước để mua lại một phần hoặc toàn bộ doanh nghiệp. CHƯƠNG III QUẢN LÝ, SỬ DỤNG VỐN, TÀI SẢN TẠI DOANH NGHIỆP DO NHÀ NƯỚC NẮM GIỮ 100% VỐN ĐIỀU LỆ",
                     "sub_clauses": []
                 }
             ]
@@ -804,7 +815,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thẩm quyền huy động vốn:",
+                    "text": "Thẩm quyền huy động vốn: Việc huy động vốn phục vụ sản xuất, kinh doanh phải bảo đảm tổng số nợ phải trả bao gồm các khoản bảo lãnh đối với công ty con quy định tại khoản 4 Điều này không quá ba lần vốn chủ sở hữu của doanh nghiệp được ghi trên báo cáo tài chính quý hoặc báo cáo tài chính năm của doanh nghiệp tại thời điểm gần nhất với thời điểm huy động vốn. Hội đồng thành viên hoặc Chủ tịch công ty phân cấp cho Tổng giám đốc hoặc Giám đốc quyết định phương án huy động vốn theo quy định tại điều lệ hoặc quy chế tài chính của doanh nghiệp;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -843,7 +854,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thẩm quyền quyết định dự án đầu tư, xây dựng, mua, bán tài sản cố định của doanh nghiệp:",
+                    "text": "Thẩm quyền quyết định dự án đầu tư, xây dựng, mua, bán tài sản cố định của doanh nghiệp: Hội đồng thành viên hoặc Chủ tịch công ty phân cấp cho Tổng giám đốc hoặc Giám đốc quyết định các dự án đầu tư, xây dựng, mua, bán tài sản cố định theo quy định tại điều lệ hoặc quy chế tài chính của doanh nghiệp;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -994,7 +1005,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Thẩm quyền quyết định đầu tư vốn ra ngoài doanh nghiệp:",
+                    "text": "Thẩm quyền quyết định đầu tư vốn ra ngoài doanh nghiệp: Hội đồng thành viên hoặc Chủ tịch công ty phân cấp cho Tổng giám đốc hoặc Giám đốc quyết định các dự án đầu tư ra ngoài doanh nghiệp theo quy định tại điều lệ hoặc quy chế tài chính của doanh nghiệp;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1019,7 +1030,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hội đồng thành viên hoặc Chủ tịch công ty báo cáo cơ quan đại diện chủ sở hữu xem xét, quyết định chủ trương dự án đầu tư ra nước ngoài.",
+                    "text": "Hội đồng thành viên hoặc Chủ tịch công ty báo cáo cơ quan đại diện chủ sở hữu xem xét, quyết định chủ trương dự án đầu tư ra nước ngoài. Trường hợp dự án đầu tư ra nước ngoài thuộc thẩm quyền quyết định chủ trương đầu tư của Quốc hội thì Thủ tướng Chính phủ quyết định đầu tư sau khi Quốc hội quyết định chủ trương đầu tư; trường hợp dự án đầu tư ra nước ngoài thuộc thẩm quyền quyết định chủ trương đầu tư của Thủ tướng Chính phủ thì cơ quan đại diện chủ sở hữu quyết định đầu tư sau khi Thủ tướng Chính phủ quyết định chủ trương đầu tư.",
                     "sub_clauses": []
                 },
                 {
@@ -1282,7 +1293,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hội đồng thành viên hoặc Chủ tịch công ty có trách nhiệm:",
+                    "text": "Hội đồng thành viên hoặc Chủ tịch công ty có trách nhiệm: CHƯƠNG IV CƠ CẤU LẠI VỐN NHÀ NƯỚC TẠI DOANH NGHIỆP",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1448,7 +1459,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Phương thức chuyển nhượng:",
+                    "text": "Phương thức chuyển nhượng: CHƯƠNG V QUYỀN, TRÁCH NHIỆM CỦA ĐẠI DIỆN CHỦ SỞ HỮU NHÀ NƯỚC",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1571,7 +1582,7 @@
                 },
                 {
                     "number": "2",
-                    "text": " Đối với doanh nghiệp do cơ quan đại diện chủ sở hữu quyết định thành lập:",
+                    "text": " Đối với doanh nghiệp do cơ quan đại diện chủ sở hữu quyết định thành lập: Phê duyệt đề nghị của Hội đồng thành viên hoặc Chủ tịch công ty về việc bổ nhiệm, bổ nhiệm lại, miễn nhiệm, khen thưởng, kỷ luật đối với Tổng giám đốc hoặc Giám đốc doanh nghiệp;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1678,7 +1689,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hội đồng thành viên hoặc Chủ tịch công ty đề nghị cấp có thẩm quyền quy định tại các điều 40, 41 và 42 của Luật này quyết định việc điều chỉnh vốn điều lệ; sửa đổi, bổ sung điều lệ; tổ chức lại, chuyển đổi sở hữu, giải thể, phá sản doanh nghiệp.",
+                    "text": "Hội đồng thành viên hoặc Chủ tịch công ty đề nghị cấp có thẩm quyền quy định tại các điều 40, 41 và 42 của Luật này quyết định việc điều chỉnh vốn điều lệ; sửa đổi, bổ sung điều lệ; tổ chức lại, chuyển đổi sở hữu, giải thể, phá sản doanh nghiệp. Hội đồng thành viên đề nghị cấp có thẩm quyền quy định tại các điều 40, 41 và 42 của Luật này bổ nhiệm, bổ nhiệm lại, miễn nhiệm, khen thưởng, kỷ luật, tiền lương, thù lao, tiền thưởng và các quyền lợi khác đối với Chủ tịch và thành viên Hội đồng thành viên.",
                     "sub_clauses": []
                 },
                 {
@@ -1771,7 +1782,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tiền lương, thù lao, tiền thưởng của Kiểm soát viên:",
+                    "text": "Tiền lương, thù lao, tiền thưởng của Kiểm soát viên: CHƯƠNG VI NGƯỜI ĐẠI DIỆN PHẦN VỐN NHÀ NƯỚC, NGƯỜI ĐẠI DIỆN PHẦN VỐN CỦA DOANH NGHIỆP",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1789,6 +1800,11 @@
             "id": "Điều 46",
             "title": " Tiêu chuẩn người đại diện phần vốn nhà nước, người đại diện phần vốn của doanh nghiệp",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Người đại diện phần vốn nhà nước, người đại diện phần vốn của doanh nghiệp phải đáp ứng các tiêu chuẩn sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Công dân Việt Nam, thường trú tại Việt Nam;",
@@ -1847,7 +1863,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Người đại diện phần vốn nhà nước không chuyên trách có thể tham gia làm người đại diện phần vốn nhà nước tại không quá ba doanh nghiệp. Số lượng người đại diện không chuyên trách tại một doanh nghiệp không quá 30% số lượng thành viên Hội đồng thành viên, Hội đồng quản trị.",
+                    "text": "Người đại diện phần vốn nhà nước không chuyên trách có thể tham gia làm người đại diện phần vốn nhà nước tại không quá ba doanh nghiệp. Số lượng người đại diện không chuyên trách tại một doanh nghiệp không quá 30% số lượng thành viên Hội đồng thành viên, Hội đồng quản trị. Người đại diện phần vốn của doanh nghiệp không chuyên trách có thể tham gia làm người đại diện tại một hoặc một số doanh nghiệp theo quy định tại điều lệ của doanh nghiệp.",
                     "sub_clauses": []
                 }
             ]
@@ -1982,7 +1998,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người đại diện phần vốn nhà nước, người đại diện phần vốn của doanh nghiệp không chuyên trách tại công ty cổ phần, công ty trách nhiệm hữu hạn hai thành viên trở lên được hưởng tiền lương, thù lao, tiền thưởng và các quyền lợi khác như sau:",
+                    "text": "Người đại diện phần vốn nhà nước, người đại diện phần vốn của doanh nghiệp không chuyên trách tại công ty cổ phần, công ty trách nhiệm hữu hạn hai thành viên trở lên được hưởng tiền lương, thù lao, tiền thưởng và các quyền lợi khác như sau: CHƯƠNG VII GIÁM SÁT, KIỂM TRA, THANH TRA HOẠT ĐỘNG ĐẦU TƯ, QUẢN LÝ, SỬ DỤNG VỐN NHÀ NƯỚC TẠI DOANH NGHIỆP Mục 1 NỘI DUNG GIÁM SÁT, KIỂM TRA, THANH TRA HOẠT ĐỘNG ĐẦU TƯ, QUẢN LÝ, SỬ DỤNG VỐN NHÀ NƯỚC TẠI DOANH NGHIỆP",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2135,7 +2151,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc xây dựng, phê duyệt, thực hiện đề án cơ cấu lại vốn nhà nước tại doanh nghiệp.",
+                    "text": "Việc xây dựng, phê duyệt, thực hiện đề án cơ cấu lại vốn nhà nước tại doanh nghiệp. Mục 2 TỔ CHỨC GIÁM SÁT, KIỂM TRA, THANH TRA HOẠT ĐỘNG ĐẦU TƯ, QUẢN LÝ, SỬ DỤNG VỐN NHÀ NƯỚC TẠI DOANH NGHIỆP",
                     "sub_clauses": []
                 }
             ]
@@ -2290,7 +2306,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hội đồng thành viên hoặc Chủ tịch công ty thực hiện kịp thời các biện pháp ngăn chặn nguy cơ mất an toàn về quản lý vốn, tài sản tại doanh nghiệp theo kết quả giám sát nội bộ; thực hiện đầy đủ, kịp thời kiến nghị, cảnh báo của cơ quan giám sát, kiểm tra, thanh tra.",
+                    "text": "Hội đồng thành viên hoặc Chủ tịch công ty thực hiện kịp thời các biện pháp ngăn chặn nguy cơ mất an toàn về quản lý vốn, tài sản tại doanh nghiệp theo kết quả giám sát nội bộ; thực hiện đầy đủ, kịp thời kiến nghị, cảnh báo của cơ quan giám sát, kiểm tra, thanh tra. CHƯƠNG VIII ĐÁNH GIÁ, XẾP LOẠI, BÁO CÁO VÀ CÔNG KHAI HOẠT ĐỘNG CỦA DOANH NGHIỆP DO NHÀ NƯỚC NẮM GIỮ 100% VỐN ĐIỀU LỆ",
                     "sub_clauses": []
                 }
             ]
@@ -2398,7 +2414,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ Tài chính đăng tải công khai, kịp thời trên cổng thông tin điện tử của Bộ Tài chính báo cáo của Chính phủ về hoạt động đầu tư, quản lý, sử dụng vốn nhà nước tại doanh nghiệp trong phạm vi toàn quốc sau khi Chính phủ báo cáo Quốc hội.",
+                    "text": "Bộ Tài chính đăng tải công khai, kịp thời trên cổng thông tin điện tử của Bộ Tài chính báo cáo của Chính phủ về hoạt động đầu tư, quản lý, sử dụng vốn nhà nước tại doanh nghiệp trong phạm vi toàn quốc sau khi Chính phủ báo cáo Quốc hội. CHƯƠNG IX KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM",
                     "sub_clauses": []
                 }
             ]
@@ -2444,7 +2460,13 @@
         {
             "id": "Điều 63",
             "title": " Xử lý vi phạm",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan, tổ chức, cá nhân có hành vi vi phạm các quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. CHƯƠNG X ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 64",
@@ -2452,7 +2474,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Kể từ ngày Luật này có hiệu lực thi hành, doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ có trách nhiệm đề nghị cơ quan nhà nước có thẩm quyền ban hành điều lệ, quy chế tài chính của doanh nghiệp theo quy định của Luật này; việc ban hành phải hoàn thành trước ngày 01 tháng 01 năm 2016.",
+                    "text": "Kể từ ngày Luật này có hiệu lực thi hành, doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ có trách nhiệm đề nghị cơ quan nhà nước có thẩm quyền ban hành điều lệ, quy chế tài chính của doanh nghiệp theo quy định của Luật này; việc ban hành phải hoàn thành trước ngày 01 tháng 01 năm 2016. Điều lệ, quy chế tài chính của doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ được ban hành trước ngày Luật này có hiệu lực thi hành được tiếp tục thực hiện đến hết ngày 31 tháng 12 năm 2015.",
                     "sub_clauses": []
                 },
                 {
@@ -2470,12 +2492,24 @@
         {
             "id": "Điều 65",
             "title": " Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2015.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 66",
             "title": " Quy định chi tiết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. ------------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 8 thông qua ngày 26 tháng 11 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": []

@@ -15,17 +15,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước; thẻ căn cước, căn cước điện tử; giấy chứng nhận căn cước; quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với công dân Việt Nam; người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam; cơ quan, tổ chức, cá nhân có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Căn cước là thông tin cơ bản về nhân thân, lai lịch, nhân dạng và sinh trắc học của một người.",
@@ -350,7 +367,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Khai thác, chia sẻ, mua, bán, trao đổi, chiếm đoạt, sử dụng trái phép thông tin, dữ liệu trong Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước, hệ thống định danh và xác thực điện tử.",
+                    "text": "Khai thác, chia sẻ, mua, bán, trao đổi, chiếm đoạt, sử dụng trái phép thông tin, dữ liệu trong Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước, hệ thống định danh và xác thực điện tử. Chương II CƠ SỞ DỮ LIỆU QUỐC GIA VỀ DÂN CƯ, CƠ SỞ DỮ LIỆU CĂN CƯỚC Mục 1 CƠ SỞ DỮ LIỆU QUỐC GIA VỀ DÂN CƯ",
                     "sub_clauses": []
                 }
             ]
@@ -598,7 +615,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Người bị mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi theo quy định của Bộ luật Dân sự, người dưới 14 tuổi khai thác thông tin của mình thông qua người đại diện hợp pháp.",
+                    "text": "Người bị mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi theo quy định của Bộ luật Dân sự, người dưới 14 tuổi khai thác thông tin của mình thông qua người đại diện hợp pháp. Việc khai thác thông tin của người bị tuyên bố mất tích do người đại diện hợp pháp của người đó quyết định. Việc khai thác thông tin của người đã chết do người được xác định là người thừa kế của người đó quyết định.",
                     "sub_clauses": []
                 },
                 {
@@ -708,7 +725,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thủ trưởng cơ quan quản lý căn cước có trách nhiệm sau đây:",
+                    "text": "Thủ trưởng cơ quan quản lý căn cước có trách nhiệm sau đây: Mục 2 CƠ SỞ DỮ LIỆU CĂN CƯỚC",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -826,7 +843,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Khai thác thông tin trong Cơ sở dữ liệu căn cước được quy định như sau:",
+                    "text": "Khai thác thông tin trong Cơ sở dữ liệu căn cước được quy định như sau: Việc khai thác thông tin của người bị tuyên bố mất tích do người đại diện hợp pháp của người đó quyết định. Việc khai thác thông tin của người đã chết do người được xác định là người thừa kế của người đó quyết định.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -896,7 +913,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thủ trưởng cơ quan quản lý căn cước có trách nhiệm sau đây:",
+                    "text": "Thủ trưởng cơ quan quản lý căn cước có trách nhiệm sau đây: Chương III THẺ CĂN CƯỚC, GIẤY CHỨNG NHẬN CĂN CƯỚC",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1026,7 +1043,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thẻ căn cước hoặc số định danh cá nhân được sử dụng để cơ quan, tổ chức, cá nhân kiểm tra thông tin của người được cấp thẻ trong Cơ sở dữ liệu quốc gia về dân cư, cơ sở dữ liệu quốc gia khác và cơ sở dữ liệu chuyên ngành theo quy định của pháp luật.",
+                    "text": "Thẻ căn cước hoặc số định danh cá nhân được sử dụng để cơ quan, tổ chức, cá nhân kiểm tra thông tin của người được cấp thẻ trong Cơ sở dữ liệu quốc gia về dân cư, cơ sở dữ liệu quốc gia khác và cơ sở dữ liệu chuyên ngành theo quy định của pháp luật. Trường hợp người được cấp thẻ căn cước phải xuất trình thẻ căn cước theo yêu cầu của cơ quan, tổ chức, cá nhân có thẩm quyền thì cơ quan, tổ chức, cá nhân đó không được yêu cầu người được cấp thẻ xuất trình giấy tờ hoặc cung cấp thông tin đã được in, tích hợp vào thẻ căn cước; trường hợp thông tin đã thay đổi so với thông tin trên thẻ căn cước, người được cấp thẻ phải cung cấp giấy tờ, tài liệu có giá trị pháp lý chứng minh các thông tin đã thay đổi.",
                     "sub_clauses": []
                 },
                 {
@@ -1137,7 +1154,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người dưới 14 tuổi hoặc người đại diện hợp pháp của người dưới 14 tuổi được đề nghị cơ quan quản lý căn cước cấp thẻ căn cước. Trình tự, thủ tục cấp thẻ căn cước cho người dưới 14 tuổi được thực hiện như sau:",
+                    "text": "Người dưới 14 tuổi hoặc người đại diện hợp pháp của người dưới 14 tuổi được đề nghị cơ quan quản lý căn cước cấp thẻ căn cước. Trình tự, thủ tục cấp thẻ căn cước cho người dưới 14 tuổi được thực hiện như sau: Người đại diện hợp pháp của người từ đủ 06 tuổi đến dưới 14 tuổi thực hiện thủ tục cấp thẻ căn cước thay cho người đó.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1254,7 +1271,13 @@
         {
             "id": "Điều 26",
             "title": "Thời hạn cấp, cấp đổi, cấp lại thẻ căn cước",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định của Luật này, cơ quan quản lý căn cước phải cấp, cấp đổi, cấp lại thẻ căn cước.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 27",
@@ -1280,7 +1303,13 @@
         {
             "id": "Điều 28",
             "title": "Thẩm quyền cấp, cấp đổi, cấp lại thẻ căn cước",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thủ trưởng cơ quan quản lý căn cước của Bộ Công an có thẩm quyền cấp, cấp đổi, cấp lại thẻ căn cước.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 29",
@@ -1474,7 +1503,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Giá trị sử dụng của giấy chứng nhận căn cước được quy định như sau:",
+                    "text": "Giá trị sử dụng của giấy chứng nhận căn cước được quy định như sau: Khi người gốc Việt Nam chưa xác định được quốc tịch phải xuất trình giấy chứng nhận căn cước theo yêu cầu của cơ quan, tổ chức, cá nhân có thẩm quyền thì cơ quan, tổ chức, cá nhân đó không được yêu cầu người gốc Việt Nam chưa xác định được quốc tịch xuất trình giấy tờ hoặc cung cấp thông tin đã được chứng nhận trong giấy chứng nhận căn cước, trừ trường hợp thông tin của người đó đã được thay đổi hoặc thông tin trong giấy chứng nhận căn cước không thống nhất với thông tin trong Cơ sở dữ liệu quốc gia về dân cư;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1492,7 +1521,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chính phủ quy định chi tiết khoản 2 Điều này; quy định thẩm quyền, trình tự, thủ tục cấp, cấp đổi, cấp lại, thu hồi, giữ, trả lại và thời hạn sử dụng của giấy chứng nhận căn cước. Bộ trưởng Bộ Công an quy định mẫu giấy chứng nhận căn cước.",
+                    "text": "Chính phủ quy định chi tiết khoản 2 Điều này; quy định thẩm quyền, trình tự, thủ tục cấp, cấp đổi, cấp lại, thu hồi, giữ, trả lại và thời hạn sử dụng của giấy chứng nhận căn cước. Bộ trưởng Bộ Công an quy định mẫu giấy chứng nhận căn cước. Chương IV CẤP, QUẢN LÝ CĂN CƯỚC ĐIỆN TỬ",
                     "sub_clauses": []
                 }
             ]
@@ -1638,7 +1667,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định trình tự, thủ tục khóa, mở khóa căn cước điện tử.",
+                    "text": "Chính phủ quy định trình tự, thủ tục khóa, mở khóa căn cước điện tử. Chương V BẢO ĐẢM ĐIỀU KIỆN CHO HOẠT ĐỘNG QUẢN LÝ CĂN CƯỚC, CƠ SỞ DỮ LIỆU QUỐC GIA VỀ DÂN CƯ, CƠ SỞ DỮ LIỆU CĂN CƯỚC, HỆ THỐNG ĐỊNH DANH VÀ XÁC THỰC ĐIỆN TỬ",
                     "sub_clauses": []
                 }
             ]
@@ -1760,7 +1789,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ sở dữ liệu quốc gia về dân cư và Cơ sở dữ liệu căn cước được lưu trữ trên thiết bị lưu trữ đã được thực hiện các biện pháp chống truy nhập trái phép thông qua hệ thống bảo mật của hệ quản trị cơ sở dữ liệu và hệ điều hành mạng.",
+                    "text": "Cơ sở dữ liệu quốc gia về dân cư và Cơ sở dữ liệu căn cước được lưu trữ trên thiết bị lưu trữ đã được thực hiện các biện pháp chống truy nhập trái phép thông qua hệ thống bảo mật của hệ quản trị cơ sở dữ liệu và hệ điều hành mạng. Chương VI QUẢN LÝ NHÀ NƯỚC VỀ CĂN CƯỚC, CƠ SỞ DỮ LIỆU QUỐC GIA VỀ DÂN CƯ, CƠ SỞ DỮ LIỆU CĂN CƯỚC, ĐỊNH DANH VÀ XÁC THỰC ĐIỆN TỬ",
                     "sub_clauses": []
                 }
             ]
@@ -1908,7 +1937,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, kiểm tra và xử lý vi phạm pháp luật về căn cước, Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước, định danh và xác thực điện tử theo quy định của pháp luật.",
+                    "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, kiểm tra và xử lý vi phạm pháp luật về căn cước, Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước, định danh và xác thực điện tử theo quy định của pháp luật. Chương VII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1916,7 +1945,13 @@
         {
             "id": "Điều 44",
             "title": "Sửa đổi, bổ sung Luật Đầu tư số 61/2020/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 72/2020/QH14, Luật số 03/2022/QH15, Luật số 05/2022/QH15, Luật số 08/2022/QH15, Luật số 09/2022/QH15 và Luật số 20/2023/QH15",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thay thế cụm từ “kinh doanh dịch vụ định danh và xác thực điện tử” bằng cụm từ “kinh doanh dịch vụ xác thực điện tử” tại điểm 131 Phụ lục IV - Danh mục ngành, nghề đầu tư kinh doanh có điều kiện ban hành kèm theo Luật Đầu tư số 61/2020/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 72/2020/QH14, Luật số 03/2022/QH15, Luật số 05/2022/QH15, Luật số 08/2022/QH15, Luật số 09/2022/QH15 và Luật số 20/2023/QH15.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 45",
@@ -1960,11 +1995,17 @@
                 },
                 {
                     "number": "4",
-                    "text": "Quy định về việc sử dụng căn cước công dân, chứng minh nhân dân trong các văn bản quy phạm pháp luật ban hành trước ngày Luật này có hiệu lực thi hành được áp dụng như đối với thẻ căn cước quy định tại Luật này cho đến khi văn bản quy phạm pháp luật đó được sửa đổi, bổ sung hoặc thay thế.",
+                    "text": "Quy định về việc sử dụng căn cước công dân, chứng minh nhân dân trong các văn bản quy phạm pháp luật ban hành trước ngày Luật này có hiệu lực thi hành được áp dụng như đối với thẻ căn cước quy định tại Luật này cho đến khi văn bản quy phạm pháp luật đó được sửa đổi, bổ sung hoặc thay thế. _____________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 6 thông qua ngày 27 tháng 11 năm 2023. CHỦ TỊCH QUỐC HỘI Epas: 180408 (Đã ký) Vương Đình Huệ",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 6 thông qua ngày 27 tháng 11 năm 2023.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Epas: 180408",
+        "(Đã ký)",
+        "Vương Đình Huệ"
+    ]
 }

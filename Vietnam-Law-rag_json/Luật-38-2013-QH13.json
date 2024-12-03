@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định chính sách hỗ trợ tạo việc làm; thông tin thị trường lao động; đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia; tổ chức, hoạt động dịch vụ việc làm; bảo hiểm thất nghiệp và quản lý nhà nước về việc làm."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với người lao động, người sử dụng lao động và cơ quan, tổ chức, cá nhân khác có liên quan đến việc làm."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -224,6 +245,13 @@
         "text": "Cản trở, gây khó khăn hoặc làm thiệt hại đến quyền và lợi ích hợp pháp của người lao động, người sử dụng lao động. Chương 2. CHÍNH SÁCH HỖ TRỢ TẠO VIỆC LÀM MỤC 1. CHÍNH SÁCH TÍN DỤNG ƯU ĐÃI TẠO VIỆC LÀM"
     },
     {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Tín dụng ưu đãi tạo việc làm",
+        "text": "Nhà nước thực hiện chính sách tín dụng ưu đãi để hỗ trợ tạo việc làm, duy trì và mở rộng việc làm từ Quỹ quốc gia về việc làm và các nguồn tín dụng khác."
+    },
+    {
         "id": "Điều 11.1",
         "article": "Điều 11",
         "clause": "1",
@@ -364,6 +392,13 @@
         "text": "Chính phủ quy định mức vay, thời hạn, lãi suất cho vay, trình tự, thủ tục vay vốn và điều kiện bảo đảm tiền vay."
     },
     {
+        "id": "Điều 14.0",
+        "article": "Điều 14",
+        "clause": "0",
+        "title": "Cho vay ưu đãi từ các nguồn tín dụng khác để hỗ trợ tạo việc làm",
+        "text": "Căn cứ điều kiện kinh tế - xã hội trong từng thời kỳ, Nhà nước sử dụng các nguồn tín dụng khác để cho vay ưu đãi nhằm thực hiện các chính sách gián tiếp hỗ trợ tạo việc làm. MỤC 2. CHÍNH SÁCH HỖ TRỢ CHUYỂN DỊCH VIỆC LÀM ĐỐI VỚI NGƯỜI LAO ĐỘNG Ở KHU VỰC NÔNG THÔN"
+    },
+    {
         "id": "Điều 15.1",
         "article": "Điều 15",
         "clause": "1",
@@ -397,6 +432,20 @@
         "clause": "2c",
         "title": "Hỗ trợ chuyển đổi nghề nghiệp, việc làm cho người lao động ở khu vực nông thôn",
         "text": "Giới thiệu việc làm miễn phí;"
+    },
+    {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Hỗ trợ học nghề cho người lao động ở khu vực nông thôn",
+        "text": "Người lao động ở khu vực nông thôn học nghề dưới 03 tháng hoặc học nghề trình độ sơ cấp ở cơ sở đào tạo nghề được hỗ trợ chi phí học nghề theo quy định của Thủ tướng Chính phủ."
+    },
+    {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Hỗ trợ doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ kinh doanh tạo việc làm cho người lao động ở khu vực nông thôn",
+        "text": "Doanh nghiệp nhỏ và vừa, hợp tác xã, tổ hợp tác, hộ kinh doanh được Nhà nước hỗ trợ để phát triển sản xuất, kinh doanh, mở rộng việc làm tại chỗ cho người lao động ở khu vực nông thôn thông qua các hoạt động sau đây:"
     },
     {
         "id": "Điều 17.1",
@@ -595,6 +644,13 @@
         "text": "Chính phủ quy định chi tiết điểm b và điểm c khoản 2 Điều này."
     },
     {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Hỗ trợ phát triển thị trường lao động",
+        "text": "Nhà nước hỗ trợ phát triển thị trường lao động thông qua các hoạt động sau đây:"
+    },
+    {
         "id": "Điều 22.1",
         "article": "Điều 22",
         "clause": "1",
@@ -698,6 +754,13 @@
         "clause": "3",
         "title": "Thu thập, lưu trữ, tổng hợp thông tin thị trường lao động",
         "text": "Cơ quan, tổ chức, doanh nghiệp và cá nhân thu thập, lưu trữ, tổng hợp thông tin thị trường lao động theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Cung cấp thông tin thị trường lao động",
+        "text": "Cơ quan, tổ chức, doanh nghiệp và cá nhân có trách nhiệm cung cấp chính xác và kịp thời thông tin thị trường lao động theo quy định của pháp luật."
     },
     {
         "id": "Điều 27.1",
@@ -1372,6 +1435,13 @@
         "text": "Người lao động có trách nhiệm thực hiện quy định của pháp luật về đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề. MỤC 3. TRỢ CẤP THẤT NGHIỆP"
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Điều kiện hưởng",
+        "text": "Người lao động quy định tại khoản 1 Điều 43 của Luật này đang đóng bảo hiểm thất nghiệp được hưởng trợ cấp thất nghiệp khi có đủ các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 49.1",
         "article": "Điều 49",
         "clause": "1",
@@ -1645,6 +1715,20 @@
         "text": "Người lao động bị chấm dứt hưởng trợ cấp thất nghiệp thuộc các trường hợp quy định tại các điểm b, c, h, l, m và n khoản 3 Điều này được bảo lưu thời gian đóng bảo hiểm thất nghiệp làm căn cứ để tính thời gian hưởng trợ cấp thất nghiệp cho lần tiếp theo khi đủ điều kiện quy định tại Điều 49 của Luật này. Thời gian bảo lưu được tính bằng tổng thời gian đóng bảo hiểm thất nghiệp trừ đi thời gian đóng đã hưởng trợ cấp thất nghiệp, theo nguyên tắc mỗi tháng đã hưởng trợ cấp thất nghiệp tương ứng 12 tháng đã đóng bảo hiểm thất nghiệp. MỤC 4. HỖ TRỢ TƯ VẤN, GIỚI THIỆU VIỆC LÀM, HỌC NGHỀ"
     },
     {
+        "id": "Điều 54.0",
+        "article": "Điều 54",
+        "clause": "0",
+        "title": "Tư vấn, giới thiệu việc làm",
+        "text": "Người lao động quy định tại khoản 1 Điều 43 của Luật này đang đóng bảo hiểm thất nghiệp bị chấm dứt hợp đồng lao động hoặc hợp đồng làm việc mà có nhu cầu tìm kiếm việc làm được tư vấn, giới thiệu việc làm miễn phí."
+    },
+    {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Điều kiện được hỗ trợ học nghề",
+        "text": "Người lao động quy định tại khoản 1 Điều 43 của Luật này đang đóng bảo hiểm thất nghiệp được hỗ trợ học nghề khi có đủ các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 55.1",
         "article": "Điều 55",
         "clause": "1",
@@ -1881,5 +1965,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Các quy định về bảo hiểm thất nghiệp của Luật bảo hiểm xã hội số 71/2006/QH11; Chương IX - Đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia của Luật dạy nghề số 76/2006/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+    },
+    {
+        "id": "Điều 62.0",
+        "article": "Điều 62",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ, cơ quan nhà nước có thẩm quyền khác quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 6 thông qua ngày 16 tháng 11 năm 2013. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

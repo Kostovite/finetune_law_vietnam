@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": " Phạm vi điều chỉnh",
+        "text": "Luật này quy định việc bảo đảm an toàn, vệ sinh lao động; chính sách, chế độ đối với người bị tai nạn lao động, bệnh nghề nghiệp; trách nhiệm và quyền hạn của các tổ chức, cá nhân liên quan đến công tác an toàn, vệ sinh lao động và quản lý nhà nước về an toàn, vệ sinh lao động."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -40,6 +47,13 @@
         "clause": "6",
         "title": " Đối tượng áp dụng",
         "text": "Cơ quan, tổ chức và cá nhân khác có liên quan đến công tác an toàn, vệ sinh lao động. Những người quy định tại các khoản 1, 2, 3 và 4 Điều này sau đây gọi chung là người lao động."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": " Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -763,6 +777,13 @@
         "text": "Chính phủ quy định chi tiết về cơ quan có thẩm quyền cấp, điều kiện về cơ sở vật chất, kỹ thuật, tiêu chuẩn về người huấn luyện an toàn, vệ sinh lao động, trình tự, thủ tục, hồ sơ cấp mới, cấp lại, gia hạn, thu hồi Giấy chứng nhận đủ điều kiện hoạt động của tổ chức huấn luyện an toàn, vệ sinh lao động quy định tại khoản 7 Điều này; việc huấn luyện, tự huấn luyện về an toàn, vệ sinh lao động. Mục 2 NỘI QUY, QUY TRÌNH VÀ CÁC BIỆN PHÁP BẢO ĐẢM AN TOÀN, VỆ SINH LAO ĐỘNG TẠI NƠI LÀM VIỆC"
     },
     {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": " Nội quy, quy trình bảo đảm an toàn, vệ sinh lao động",
+        "text": "Người sử dụng lao động căn cứ pháp luật, tiêu chuẩn, quy chuẩn kỹ thuật quốc gia, quy chuẩn kỹ thuật địa phương về an toàn, vệ sinh lao động và điều kiện hoạt động sản xuất, kinh doanh, lao động để xây dựng, ban hành và tổ chức thực hiện nội quy, quy trình bảo đảm an toàn, vệ sinh lao động."
+    },
+    {
         "id": "Điều 16.1",
         "article": "Điều 16",
         "clause": "1",
@@ -1132,6 +1153,13 @@
         "clause": "2",
         "title": " Thời giờ làm việc trong điều kiện có yếu tố nguy hiểm, yếu tố có hại",
         "text": "Thời giờ làm việc đối với người lao động làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm được thực hiện theo quy định của pháp luật lao động."
+    },
+    {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": " Điều dưỡng phục hồi sức khỏe",
+        "text": "Hằng năm, khuyến khích người sử dụng lao động tổ chức cho người lao động làm nghề, công việc nặng nhọc, độc hại, nguy hiểm, người lao động làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm và người lao động có sức khỏe kém được điều dưỡng phục hồi sức khỏe."
     },
     {
         "id": "Điều 27.1",
@@ -1736,6 +1764,13 @@
         "text": "Bộ Y tế tổ chức, hướng dẫn việc thu thập, lưu trữ, tổng hợp, cung cấp, công bố, đánh giá về tình hình bệnh nghề nghiệp; tổ chức xây dựng, quản lý cơ sở dữ liệu về phòng, chống bệnh nghề nghiệp; tổ chức điều tra bệnh nghề nghiệp. Mục 2 TRÁCH NHIỆM CỦA NGƯỜI SỬ DỤNG LAO ĐỘNG ĐỐI VỚI NGƯỜI LAO ĐỘNG BỊ TAI NẠN LAO ĐỘNG, BỆNH NGHỀ NGHIỆP"
     },
     {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": " Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp",
+        "text": "Người sử dụng lao động có trách nhiệm đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp như sau:"
+    },
+    {
         "id": "Điều 38.1",
         "article": "Điều 38",
         "clause": "1",
@@ -2058,6 +2093,13 @@
         "text": "Căn cứ vào khả năng bảo đảm cân đối Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp, Chính phủ quy định chi tiết mức đóng vào quỹ quy định tại khoản 1 Điều này."
     },
     {
+        "id": "Điều 45.0",
+        "article": "Điều 45",
+        "clause": "0",
+        "title": " Điều kiện hưởng chế độ tai nạn lao động",
+        "text": "Người lao động tham gia bảo hiểm tai nạn lao động, bệnh nghề nghiệp được hưởng chế độ tai nạn lao động khi có đủ các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 45.1",
         "article": "Điều 45",
         "clause": "1",
@@ -2308,6 +2350,20 @@
         "clause": "2",
         "title": " Phương tiện trợ giúp sinh hoạt, dụng cụ chỉnh hình",
         "text": "Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết về loại phương tiện trợ giúp sinh hoạt, dụng cụ chỉnh hình, niên hạn, mức tiền mua phương tiện trợ giúp sinh hoạt, dụng cụ chỉnh hình và hồ sơ, trình tự thực hiện."
+    },
+    {
+        "id": "Điều 52.0",
+        "article": "Điều 52",
+        "clause": "0",
+        "title": " Trợ cấp phục vụ",
+        "text": "Người lao động bị suy giảm khả năng lao động từ 81% trở lên mà bị liệt cột sống hoặc mù hai mắt hoặc cụt, liệt hai chi hoặc bị bệnh tâm thần thì ngoài mức hưởng quy định tại Điều 49 của Luật này, hằng tháng còn được hưởng trợ cấp phục vụ bằng mức lương cơ sở."
+    },
+    {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": " Trợ cấp khi người lao động chết do tai nạn lao động, bệnh nghề nghiệp",
+        "text": "Thân nhân người lao động được hưởng trợ cấp một lần bằng ba mươi sáu lần mức lương cơ sở tại tháng người lao động bị chết và được hưởng chế độ tử tuất theo quy định của Luật bảo hiểm xã hội khi thuộc một trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 53.1",
@@ -2562,6 +2618,13 @@
         "text": "Việc khám giám định mức suy giảm khả năng lao động phải bảo đảm chính xác, công khai, minh bạch. Hội đồng giám định y khoa chịu trách nhiệm về tính chính xác của kết quả giám định của mình theo quy định của pháp luật. CHƯƠNG IV BẢO ĐẢM AN TOÀN, VỆ SINH LAO ĐỘNG ĐỐI VỚI MỘT SỐ LAO ĐỘNG ĐẶC THÙ"
     },
     {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": " An toàn, vệ sinh lao động đối với lao động nữ, lao động chưa thành niên, lao động là người khuyết tật",
+        "text": "Những quy định về an toàn, vệ sinh lao động đối với lao động nữ, lao động chưa thành niên, lao động là người khuyết tật thực hiện theo quy định của Bộ luật lao động, Luật người khuyết tật và Luật này."
+    },
+    {
         "id": "Điều 64.1",
         "article": "Điều 64",
         "clause": "1",
@@ -2686,6 +2749,13 @@
         "clause": "4",
         "title": " An toàn, vệ sinh lao động trong trường hợp cho thuê lại lao động",
         "text": "Chính phủ quy định chi tiết về an toàn, vệ sinh lao động trong trường hợp cho thuê lại lao động; trách nhiệm của doanh nghiệp cho thuê lại lao động, bên thuê lại lao động đối với người lao động thuê lại, bảo đảm quyền và lợi ích của người lao động thuê lại phù hợp với quy định của Bộ luật lao động và Luật này."
+    },
+    {
+        "id": "Điều 66.0",
+        "article": "Điều 66",
+        "clause": "0",
+        "title": " An toàn, vệ sinh lao động tại nơi có nhiều người lao động thuộc nhiều người sử dụng lao động cùng làm việc",
+        "text": "Tại nơi làm việc có nhiều người lao động thuộc nhiều người sử dụng lao động cùng làm việc thì chủ dự án hoặc chủ đầu tư phải tổ chức để những người sử dụng lao động cùng lập văn bản xác định rõ trách nhiệm của từng người trong việc bảo đảm an toàn, vệ sinh lao động cho người lao động và cử người để phối hợp kiểm tra an toàn, vệ sinh lao động."
     },
     {
         "id": "Điều 67.1",
@@ -3911,5 +3981,12 @@
         "clause": "3",
         "title": " Hiệu lực thi hành",
         "text": "Tổ chức hoạt động kiểm định kỹ thuật an toàn lao động, tổ chức huấn luyện an toàn, vệ sinh lao động hoạt động trước ngày Luật này có hiệu lực thi hành tiếp tục hoạt động cho đến hết thời hạn của giấy chứng nhận đủ điều kiện hoạt động đã được cấp."
+    },
+    {
+        "id": "Điều 93.0",
+        "article": "Điều 93",
+        "clause": "0",
+        "title": " Quy định chi tiết",
+        "text": "Chính phủ, cơ quan nhà nước có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. ------------------------------------------------------------------------------------------------------------------------------------ Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 25 tháng 6 năm 2015. CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Sinh Hùng"
     }
 ]

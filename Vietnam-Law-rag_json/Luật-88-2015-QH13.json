@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về nội dung công tác kế toán, tổ chức bộ máy kế toán, người làm kế toán, hoạt động kinh doanh dịch vụ kế toán, quản lý nhà nước về kế toán và tổ chức nghề nghiệp về kế toán."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -68,6 +75,13 @@
         "clause": "10",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan, tổ chức, cá nhân khác có liên quan đến kế toán và hoạt động kinh doanh dịch vụ kế toán tại Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -1701,6 +1715,13 @@
         "text": "Nội dung kiểm tra kế toán phải được xác định trong quyết định kiểm tra, trừ trường hợp quy định tại điểm b khoản 3 Điều 34 của Luật này."
     },
     {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Thời gian kiểm tra kế toán",
+        "text": "Thời gian kiểm tra kế toán do cơ quan có thẩm quyền kiểm tra kế toán quyết định nhưng không quá 10 ngày, không kể ngày nghỉ, ngày lễ theo quy định của Bộ luật lao động. Trường hợp nội dung kiểm tra phức tạp, cần có thời gian để đánh giá, đối chiếu, kết luận, cơ quan có thẩm quyền kiểm tra kế toán có thể kéo dài thời gian kiểm tra; thời gian kéo dài đối với mỗi cuộc kiểm tra không quá 05 ngày, không kể ngày nghỉ, ngày lễ theo quy định của Bộ luật lao động."
+    },
+    {
         "id": "Điều 37.1",
         "article": "Điều 37",
         "clause": "1",
@@ -1979,6 +2000,13 @@
         "clause": "6",
         "title": "Bảo quản, lưu trữ tài liệu kế toán",
         "text": "Chính phủ quy định cụ thể từng loại tài liệu kế toán phải lưu trữ, thời hạn lưu trữ, thời điểm tính thời hạn lưu trữ quy định tại khoản 5 Điều này, nơi lưu trữ và thủ tục tiêu hủy tài liệu kế toán lưu trữ."
+    },
+    {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Trách nhiệm của đơn vị kế toán trong trường hợp tài liệu kế toán bị mất hoặc bị hủy hoại",
+        "text": "Khi phát hiện tài liệu kế toán bị mất hoặc bị hủy hoại, đơn vị kế toán phải thực hiện ngay các công việc sau đây:"
     },
     {
         "id": "Điều 42.1",
@@ -2968,6 +2996,13 @@
         "text": "Trong thời hạn 15 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tài chính cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán cho doanh nghiệp; trường hợp từ chối cấp thì phải trả lời bằng văn bản và nêu rõ lý do."
     },
     {
+        "id": "Điều 64.0",
+        "article": "Điều 64",
+        "clause": "0",
+        "title": "Phí cấp, cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán",
+        "text": "Doanh nghiệp kinh doanh dịch vụ kế toán được cấp, cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán phải nộp phí theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 65.1",
         "article": "Điều 65",
         "clause": "1",
@@ -3120,6 +3155,13 @@
         "clause": "6",
         "title": "Trách nhiệm của kế toán viên hành nghề, doanh nghiệp kinh doanh dịch vụ kế toán, hộ kinh doanh dịch vụ kế toán",
         "text": "Mua bảo hiểm trách nhiệm nghề nghiệp theo quy định của Chính phủ."
+    },
+    {
+        "id": "Điều 68.0",
+        "article": "Điều 68",
+        "clause": "0",
+        "title": "Trường hợp không được cung cấp dịch vụ kế toán",
+        "text": "Doanh nghiệp kinh doanh dịch vụ kế toán, hộ kinh doanh dịch vụ kế toán không được cung cấp dịch vụ kế toán cho đơn vị kế toán khác khi người có trách nhiệm quản lý, điều hành doanh nghiệp kinh doanh dịch vụ kế toán, người đại diện hộ kinh doanh dịch vụ kế toán hoặc người trực tiếp thực hiện dịch vụ kế toán của doanh nghiệp, hộ kinh doanh dịch vụ kế toán thuộc các trường hợp sau đây:"
     },
     {
         "id": "Điều 68.1",
@@ -3518,6 +3560,6 @@
         "article": "Điều 74",
         "clause": "2",
         "title": "Quy định chi tiết",
-        "text": "Căn cứ những nguyên tắc cơ bản của Luật này, Chính phủ quy định cụ thể nội dung công tác kế toán đối với văn phòng đại diện của doanh nghiệp nước ngoài hoạt động tại Việt Nam, hộ kinh doanh và tổ hợp tác."
+        "text": "Căn cứ những nguyên tắc cơ bản của Luật này, Chính phủ quy định cụ thể nội dung công tác kế toán đối với văn phòng đại diện của doanh nghiệp nước ngoài hoạt động tại Việt Nam, hộ kinh doanh và tổ hợp tác. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 10 thông qua ngày 20 tháng 11 năm 2015. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

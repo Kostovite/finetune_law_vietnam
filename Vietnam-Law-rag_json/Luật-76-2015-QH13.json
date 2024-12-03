@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Vị trí, chức năng của Chính phủ",
+        "text": "Chính phủ là cơ quan hành chính nhà nước cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam, thực hiện quyền hành pháp, là cơ quan chấp hành của Quốc hội. Chính phủ chịu trách nhiệm trước Quốc hội và báo cáo công tác trước Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -12,6 +19,13 @@
         "clause": "2",
         "title": "Cơ cấu tổ chức và thành viên của Chính phủ",
         "text": "Cơ cấu tổ chức của Chính phủ gồm các bộ, cơ quan ngang bộ. Việc thành lập, bãi bỏ bộ, cơ quan ngang bộ do Chính phủ trình Quốc hội quyết định."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Nhiệm kỳ của Chính phủ",
+        "text": "Nhiệm kỳ của Chính phủ theo nhiệm kỳ của Quốc hội. Khi Quốc hội hết nhiệm kỳ, Chính phủ tiếp tục làm nhiệm vụ cho đến khi Quốc hội khóa mới thành lập Chính phủ."
     },
     {
         "id": "Điều 4.1",
@@ -1015,6 +1029,13 @@
         "text": "Khi Thủ tướng Chính phủ vắng mặt, một Phó Thủ tướng Chính phủ được Thủ tướng Chính phủ ủy nhiệm thay mặt Thủ tướng Chính phủ lãnh đạo công tác của Chính phủ. CHƯƠNG IV NHIỆM VỤ VÀ QUYỀN HẠN CỦA BỘ TRƯỞNG, THỦ TRƯỞNG CƠ QUAN NGANG BỘ"
     },
     {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ",
+        "text": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ là thành viên Chính phủ và là người đứng đầu bộ, cơ quan ngang bộ, lãnh đạo công tác của bộ, cơ quan ngang bộ; chịu trách nhiệm quản lý nhà nước về ngành, lĩnh vực được phân công; tổ chức thi hành và theo dõi việc thi hành pháp luật liên quan đến ngành, lĩnh vực trong phạm vi toàn quốc."
+    },
+    {
         "id": "Điều 33.1",
         "article": "Điều 33",
         "clause": "1",
@@ -1281,6 +1302,13 @@
         "text": "Chính phủ quy định chi tiết Điều này. CHƯƠNG VI CHẾ ĐỘ LÀM VIỆC CỦA CHÍNH PHỦ"
     },
     {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Chế độ làm việc của Chính phủ và từng thành viên Chính phủ",
+        "text": "Chế độ làm việc của Chính phủ và từng thành viên Chính phủ được thực hiện kết hợp giữa quyền hạn, trách nhiệm của tập thể Chính phủ với quyền hạn, trách nhiệm cá nhân của Thủ tướng Chính phủ và cá nhân từng thành viên Chính phủ. Chính phủ làm việc theo chế độ tập thể, quyết định theo đa số. Chính phủ ban hành quy chế làm việc của Chính phủ."
+    },
+    {
         "id": "Điều 44.1",
         "article": "Điều 44",
         "clause": "1",
@@ -1363,5 +1391,26 @@
         "clause": "3",
         "title": "Thành phần mời tham dự phiên họp của Chính phủ",
         "text": "Chính phủ mời Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam và người đứng đầu cơ quan trung ương của tổ chức chính trị - xã hội tham dự phiên họp của Chính phủ khi bàn các vấn đề có liên quan."
+    },
+    {
+        "id": "Điều 48.0",
+        "article": "Điều 48",
+        "clause": "0",
+        "title": "Kinh phí hoạt động của Chính phủ",
+        "text": "Kinh phí hoạt động của Chính phủ do Quốc hội quyết định từ ngân sách nhà nước. CHƯƠNG VII ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2016. Luật tổ chức Chính phủ số 32/2001/QH10 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+    },
+    {
+        "id": "Điều 50.0",
+        "article": "Điều 50",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ quy định chi tiết các điều, khoản được giao trong Luật. --------------------------------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 19 tháng 6 năm 2015. CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Sinh Hùng"
     }
 ]

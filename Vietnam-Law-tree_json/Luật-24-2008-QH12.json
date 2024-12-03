@@ -13,7 +13,13 @@
         {
             "id": "Điều 1",
             "title": "Quốc tịch Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Quốc tịch Việt Nam thể hiện mối quan hệ gắn bó của cá nhân với Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam, làm phát sinh quyền, nghĩa vụ của công dân Việt Nam đối với Nhà nước và quyền, trách nhiệm của Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam đối với công dân Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -35,6 +41,11 @@
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Quốc tịch nước ngoài là quốc tịch của một nước khác không phải là quốc tịch Việt Nam.",
@@ -65,7 +76,13 @@
         {
             "id": "Điều 4",
             "title": "Nguyên tắc quốc tịch",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam công nhận công dân Việt Nam có một quốc tịch là quốc tịch Việt Nam, trừ trường hợp Luật này có quy định khác.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 5",
@@ -96,7 +113,13 @@
         {
             "id": "Điều 6",
             "title": "Bảo hộ đối với công dân Việt Nam ở nước ngoài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam bảo hộ quyền lợi chính đáng của công dân Việt Nam ở nước ngoài. Các cơ quan nhà nước ở trong nước, cơ quan đại diện Việt Nam ở nước ngoài có trách nhiệm thi hành mọi biện pháp cần thiết, phù hợp với pháp luật của nước sở tại, pháp luật và tập quán quốc tế để thực hiện sự bảo hộ đó.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 7",
@@ -117,22 +140,45 @@
         {
             "id": "Điều 8",
             "title": "Hạn chế tình trạng không quốc tịch",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam tạo điều kiện cho trẻ em sinh ra trên lãnh thổ Việt Nam đều có quốc tịch và những người không quốc tịch thường trú ở Việt Nam được nhập quốc tịch Việt Nam theo quy định của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 9",
             "title": "Giữ quốc tịch khi kết hôn, ly hôn, hủy việc kết hôn trái pháp luật",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc kết hôn, ly hôn và hủy việc kết hôn trái pháp luật giữa công dân Việt Nam với người nước ngoài không làm thay đổi quốc tịch Việt Nam của đương sự và con chưa thành niên của họ (nếu có).",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 10",
             "title": "Giữ quốc tịch khi quốc tịch của vợ hoặc chồng thay đổi",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc vợ hoặc chồng nhập, trở lại hoặc mất quốc tịch Việt Nam không làm thay đổi quốc tịch của người kia.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 11",
             "title": "Giấy tờ chứng minh quốc tịch Việt Nam",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Một trong các giấy tờ sau đây có giá trị chứng minh người có quốc tịch Việt Nam:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Giấy khai sinh; trường hợp Giấy khai sinh không thể hiện rõ quốc tịch Việt Nam thì phải kèm theo giấy tờ chứng minh quốc tịch Việt Nam của cha mẹ;",
@@ -166,7 +212,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Căn cứ vào quy định của Luật này, Chính phủ ký kết hoặc đề xuất việc ký kết, quyết định gia nhập điều ước quốc tế để giải quyết vấn đề phát sinh từ tình trạng công dân Việt Nam đồng thời có quốc tịch nước ngoài.",
+                    "text": "Căn cứ vào quy định của Luật này, Chính phủ ký kết hoặc đề xuất việc ký kết, quyết định gia nhập điều ước quốc tế để giải quyết vấn đề phát sinh từ tình trạng công dân Việt Nam đồng thời có quốc tịch nước ngoài. CHƯƠNG II CÓ QUỐC TỊCH VIỆT NAM Mục 1 QUY ĐỊNH CHUNG",
                     "sub_clauses": []
                 }
             ]
@@ -182,7 +228,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người Việt Nam định cư ở nước ngoài mà chưa mất quốc tịch Việt Nam theo quy định của pháp luật Việt Nam trước ngày Luật này có hiệu lực thì vẫn còn quốc tịch Việt Nam và trong thời hạn 5 năm, kể từ ngày Luật này có hiệu lực, phải đăng ký với cơ quan đại diện Việt Nam ở nước ngoài để giữ quốc tịch Việt Nam.",
+                    "text": "Người Việt Nam định cư ở nước ngoài mà chưa mất quốc tịch Việt Nam theo quy định của pháp luật Việt Nam trước ngày Luật này có hiệu lực thì vẫn còn quốc tịch Việt Nam và trong thời hạn 5 năm, kể từ ngày Luật này có hiệu lực, phải đăng ký với cơ quan đại diện Việt Nam ở nước ngoài để giữ quốc tịch Việt Nam. Chính phủ quy định trình tự, thủ tục đăng ký giữ quốc tịch Việt Nam.",
                     "sub_clauses": []
                 }
             ]
@@ -191,6 +237,11 @@
             "id": "Điều 14",
             "title": "Căn cứ xác định người có quốc tịch Việt Nam",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Người được xác định có quốc tịch Việt Nam, nếu có một trong những căn cứ sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Do sinh ra theo quy định tại các điều 15, 16 và 17 của Luật này;",
@@ -221,7 +272,13 @@
         {
             "id": "Điều 15",
             "title": "Quốc tịch của trẻ em khi sinh ra có cha mẹ là công dân Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em sinh ra trong hoặc ngoài lãnh thổ Việt Nam mà khi sinh ra có cha mẹ đều là công dân Việt Nam thì có quốc tịch Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 16",
@@ -266,7 +323,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trẻ em quy định tại khoản 1 Điều này chưa đủ 15 tuổi không còn quốc tịch Việt Nam trong các trường hợp sau đây:",
+                    "text": "Trẻ em quy định tại khoản 1 Điều này chưa đủ 15 tuổi không còn quốc tịch Việt Nam trong các trường hợp sau đây: Mục 2 NHẬP QUỐC TỊCH VIỆT NAM",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -411,12 +468,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời hạn 5 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp gửi văn bản đề nghị cơ quan Công an tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh) xác minh về nhân thân của người xin nhập quốc tịch Việt Nam.",
+                    "text": "Trong thời hạn 5 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp gửi văn bản đề nghị cơ quan Công an tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh) xác minh về nhân thân của người xin nhập quốc tịch Việt Nam. Trong thời hạn 30 ngày, kể từ ngày nhận được đề nghị của Sở Tư pháp, cơ quan Công an cấp tỉnh có trách nhiệm xác minh và gửi kết quả đến Sở Tư pháp. Trong thời gian này, Sở Tư pháp phải tiến hành thẩm tra giấy tờ trong hồ sơ xin nhập quốc tịch Việt Nam. Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được kết quả xác minh, Sở Tư pháp có trách nhiệm hoàn tất hồ sơ trình Chủ tịch Ủy ban nhân dân cấp tỉnh. Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được đề nghị của Sở Tư pháp, Chủ tịch Uỷ ban nhân dân cấp tỉnh có trách nhiệm xem xét, kết luận và đề xuất ý kiến gửi Bộ Tư pháp.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn 20 ngày, kể từ ngày nhận được đề xuất của Chủ tịch Ủy ban nhân dân cấp tỉnh, Bộ Tư pháp có trách nhiệm kiểm tra lại hồ sơ, nếu xét thấy có đủ điều kiện nhập quốc tịch Việt Nam thì gửi thông báo bằng văn bản cho người xin nhập quốc tịch Việt Nam để làm thủ tục xin thôi quốc tịch nước ngoài, trừ trường hợp người xin nhập quốc tịch Việt Nam xin giữ quốc tịch nước ngoài hoặc là người không quốc tịch. Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được giấy cho thôi quốc tịch nước ngoài của người xin nhập quốc tịch Việt Nam, Bộ trưởng Bộ Tư pháp báo cáo Thủ tướng Chính phủ trình Chủ tịch nước xem xét, quyết định.",
+                    "text": "Trong thời hạn 20 ngày, kể từ ngày nhận được đề xuất của Chủ tịch Ủy ban nhân dân cấp tỉnh, Bộ Tư pháp có trách nhiệm kiểm tra lại hồ sơ, nếu xét thấy có đủ điều kiện nhập quốc tịch Việt Nam thì gửi thông báo bằng văn bản cho người xin nhập quốc tịch Việt Nam để làm thủ tục xin thôi quốc tịch nước ngoài, trừ trường hợp người xin nhập quốc tịch Việt Nam xin giữ quốc tịch nước ngoài hoặc là người không quốc tịch. Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được giấy cho thôi quốc tịch nước ngoài của người xin nhập quốc tịch Việt Nam, Bộ trưởng Bộ Tư pháp báo cáo Thủ tướng Chính phủ trình Chủ tịch nước xem xét, quyết định. Trường hợp người xin nhập quốc tịch Việt Nam xin giữ quốc tịch nước ngoài, người xin nhập quốc tịch Việt Nam là người không quốc tịch thì trong thời hạn 20 ngày, kể từ ngày nhận được đề xuất của Chủ tịch Ủy ban nhân dân cấp tỉnh, Bộ Tư pháp có trách nhiệm kiểm tra lại hồ sơ, nếu xét thấy người xin nhập quốc tịch Việt Nam có đủ điều kiện được nhập quốc tịch Việt Nam thì báo cáo Thủ tướng Chính phủ trình Chủ tịch nước xem xét, quyết định.",
                     "sub_clauses": []
                 },
                 {
@@ -429,7 +486,13 @@
         {
             "id": "Điều 22",
             "title": "Trình tự, thủ tục và hồ sơ xin nhập quốc tịch Việt Nam đối với người không quốc tịch đã cư trú ổn định tại Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người không quốc tịch mà không có đầy đủ các giấy tờ về nhân thân, nhưng đã cư trú ổn định trên lãnh thổ Việt Nam từ 20 năm trở lên tính đến ngày Luật này có hiệu lực và tuân thủ Hiến pháp, pháp luật Việt Nam thì được nhập quốc tịch Việt Nam theo trình tự, thủ tục và hồ sơ do Chính phủ quy định. Mục 3 TRỞ LẠI QUỐC TỊCH VIỆT NAM",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 23",
@@ -557,22 +620,22 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời hạn 5 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp gửi văn bản đề nghị cơ quan Công an cấp tỉnh xác minh về nhân thân của người xin trở lại quốc tịch Việt Nam.",
+                    "text": "Trong thời hạn 5 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp gửi văn bản đề nghị cơ quan Công an cấp tỉnh xác minh về nhân thân của người xin trở lại quốc tịch Việt Nam. Trong thời hạn 20 ngày, kể từ ngày nhận được đề nghị của Sở Tư pháp, cơ quan Công an cấp tỉnh có trách nhiệm xác minh và gửi kết quả đến Sở Tư pháp. Trong thời gian này, Sở Tư pháp phải tiến hành thẩm tra giấy tờ trong hồ sơ xin trở lại quốc tịch Việt Nam. Trong thời hạn 5 ngày làm việc, kể từ ngày nhận được kết quả xác minh, Sở Tư pháp có trách nhiệm hoàn tất hồ sơ trình Chủ tịch Ủy ban nhân dân cấp tỉnh. Trong thời hạn 5 ngày làm việc, kể từ ngày nhận được đề nghị của Sở Tư pháp, Chủ tịch Uỷ ban nhân dân cấp tỉnh có trách nhiệm xem xét, kết luận và đề xuất ý kiến gửi Bộ Tư pháp.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn 20 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan đại diện Việt Nam ở nước ngoài có trách nhiệm thẩm tra và chuyển hồ sơ kèm theo ý kiến đề xuất về việc xin trở lại quốc tịch Việt Nam về Bộ Ngoại giao để chuyển đến Bộ Tư pháp.",
+                    "text": "Trong thời hạn 20 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan đại diện Việt Nam ở nước ngoài có trách nhiệm thẩm tra và chuyển hồ sơ kèm theo ý kiến đề xuất về việc xin trở lại quốc tịch Việt Nam về Bộ Ngoại giao để chuyển đến Bộ Tư pháp. Trong trường hợp cần thiết, Bộ Tư pháp đề nghị Bộ Công an xác minh về nhân thân của người xin trở lại quốc tịch Việt Nam.",
                     "sub_clauses": []
                 },
                 {
                     "number": "4",
-                    "text": "Trong thời hạn 20 ngày, kể từ ngày nhận được văn bản đề xuất của Chủ tịch Ủy ban nhân dân cấp tỉnh hoặc của cơ quan đại diện Việt Nam ở nước ngoài, Bộ Tư pháp có trách nhiệm kiểm tra lại hồ sơ, nếu xét thấy người xin trở lại quốc tịch Việt Nam có đủ điều kiện được trở lại quốc tịch Việt Nam thì gửi thông báo bằng văn bản cho người đó để làm thủ tục xin thôi quốc tịch nước ngoài, trừ trường hợp người xin trở lại quốc tịch Việt Nam xin giữ quốc tịch nước ngoài hoặc là người không quốc tịch.",
+                    "text": "Trong thời hạn 20 ngày, kể từ ngày nhận được văn bản đề xuất của Chủ tịch Ủy ban nhân dân cấp tỉnh hoặc của cơ quan đại diện Việt Nam ở nước ngoài, Bộ Tư pháp có trách nhiệm kiểm tra lại hồ sơ, nếu xét thấy người xin trở lại quốc tịch Việt Nam có đủ điều kiện được trở lại quốc tịch Việt Nam thì gửi thông báo bằng văn bản cho người đó để làm thủ tục xin thôi quốc tịch nước ngoài, trừ trường hợp người xin trở lại quốc tịch Việt Nam xin giữ quốc tịch nước ngoài hoặc là người không quốc tịch. Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được giấy xác nhận thôi quốc tịch nước ngoài của người xin trở lại quốc tịch Việt Nam, Bộ trưởng Bộ Tư pháp báo cáo Thủ tướng Chính phủ trình Chủ tịch nước xem xét, quyết định. Trường hợp người xin trở lại quốc tịch Việt Nam xin giữ quốc tịch nước ngoài, người xin trở lại quốc tịch Việt Nam là người không quốc tịch thì trong thời hạn 15 ngày, kể từ ngày nhận được văn bản đề xuất của Chủ tịch Ủy ban nhân dân cấp tỉnh hoặc của cơ quan đại diện Việt Nam ở nước ngoài, Bộ Tư pháp có trách nhiệm kiểm tra lại hồ sơ, nếu xét thấy người xin trở lại quốc tịch Việt Nam có đủ điều kiện được trở lại quốc tịch Việt Nam thì báo cáo Thủ tướng Chính phủ trình Chủ tịch nước xem xét, quyết định.",
                     "sub_clauses": []
                 },
                 {
                     "number": "5",
-                    "text": "Trong thời hạn 20 ngày, kể từ ngày nhận được đề nghị của Thủ tướng Chính phủ, Chủ tịch nước xem xét, quyết định.",
+                    "text": "Trong thời hạn 20 ngày, kể từ ngày nhận được đề nghị của Thủ tướng Chính phủ, Chủ tịch nước xem xét, quyết định. CHƯƠNG III MẤT QUỐC TỊCH VIỆT NAM Mục 1 QUY ĐỊNH CHUNG",
                     "sub_clauses": []
                 }
             ]
@@ -603,7 +666,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Theo điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.",
+                    "text": "Theo điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên. Mục 2 THÔI QUỐC TỊCH VIỆT NAM",
                     "sub_clauses": []
                 }
             ]
@@ -721,17 +784,17 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp người xin thôi quốc tịch Việt Nam cư trú ở trong nước thì trong thời hạn 5 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp có trách nhiệm đăng thông báo về việc xin thôi quốc tịch Việt Nam trên một tờ báo viết hoặc báo điện tử ở địa phương trong ba số liên tiếp và gửi đăng trên Trang thông tin điện tử của Bộ Tư pháp; trường hợp người xin thôi quốc tịch Việt Nam cư trú ở nước ngoài thì trong thời hạn 5 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan đại diện Việt Nam ở nước ngoài có trách nhiệm đăng thông báo về việc xin thôi quốc tịch Việt Nam trên Trang thông tin điện tử của mình.",
+                    "text": "Trường hợp người xin thôi quốc tịch Việt Nam cư trú ở trong nước thì trong thời hạn 5 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp có trách nhiệm đăng thông báo về việc xin thôi quốc tịch Việt Nam trên một tờ báo viết hoặc báo điện tử ở địa phương trong ba số liên tiếp và gửi đăng trên Trang thông tin điện tử của Bộ Tư pháp; trường hợp người xin thôi quốc tịch Việt Nam cư trú ở nước ngoài thì trong thời hạn 5 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan đại diện Việt Nam ở nước ngoài có trách nhiệm đăng thông báo về việc xin thôi quốc tịch Việt Nam trên Trang thông tin điện tử của mình. Thông báo trên Trang thông tin điện tử phải được lưu giữ trên đó trong thời gian ít nhất là 30 ngày, kể từ ngày đăng thông báo.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn 5 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp gửi văn bản đề nghị cơ quan Công an cấp tỉnh xác minh về nhân thân của người xin thôi quốc tịch Việt Nam.",
+                    "text": "Trong thời hạn 5 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp gửi văn bản đề nghị cơ quan Công an cấp tỉnh xác minh về nhân thân của người xin thôi quốc tịch Việt Nam. Trong thời hạn 20 ngày, kể từ ngày nhận được đề nghị của Sở Tư pháp, cơ quan Công an cấp tỉnh có trách nhiệm xác minh và gửi kết quả đến Sở Tư pháp. Trong thời gian này, Sở Tư pháp phải tiến hành thẩm tra giấy tờ trong hồ sơ xin thôi quốc tịch Việt Nam. Trong thời hạn 5 ngày làm việc, kể từ ngày nhận được kết quả xác minh, Sở Tư pháp có trách nhiệm hoàn tất hồ sơ trình Chủ tịch Ủy ban nhân dân cấp tỉnh. Trong thời hạn 5 ngày làm việc, kể từ ngày nhận được đề nghị của Sở Tư pháp, Chủ tịch Ủy ban nhân dân cấp tỉnh có trách nhiệm xem xét, kết luận và đề xuất ý kiến gửi Bộ Tư pháp.",
                     "sub_clauses": []
                 },
                 {
                     "number": "4",
-                    "text": "Trong thời hạn 20 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan đại diện Việt Nam ở nước ngoài có trách nhiệm thẩm tra và chuyển hồ sơ kèm theo ý kiến đề xuất về việc xin thôi quốc tịch Việt Nam về Bộ Ngoại giao để chuyển đến Bộ Tư pháp.",
+                    "text": "Trong thời hạn 20 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan đại diện Việt Nam ở nước ngoài có trách nhiệm thẩm tra và chuyển hồ sơ kèm theo ý kiến đề xuất về việc xin thôi quốc tịch Việt Nam về Bộ Ngoại giao để chuyển đến Bộ Tư pháp. Trong trường hợp cần thiết, Bộ Tư pháp đề nghị Bộ Công an xác minh về nhân thân của người xin thôi quốc tịch Việt Nam.",
                     "sub_clauses": []
                 },
                 {
@@ -751,6 +814,11 @@
             "title": "Miễn thủ tục xác minh về nhân thân",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Hồ sơ xin thôi quốc tịch Việt Nam của những người thuộc một trong các trường hợp sau đây không phải qua thủ tục xác minh về nhân thân:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Người dưới 14 tuổi;",
                     "sub_clauses": []
@@ -767,7 +835,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Người đã được xuất cảnh theo diện đoàn tụ gia đình.",
+                    "text": "Người đã được xuất cảnh theo diện đoàn tụ gia đình. Mục 3 TƯỚC QUỐC TỊCH VIỆT NAM",
                     "sub_clauses": []
                 }
             ]
@@ -794,7 +862,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trong thời hạn 15 ngày, kể từ ngày phát hiện hoặc nhận được đơn, thư tố cáo về hành vi quy định tại khoản 1 Điều 31 của Luật này, Ủy ban nhân dân cấp tỉnh, cơ quan đại diện Việt Nam ở nước ngoài có trách nhiệm xác minh, nếu có đầy đủ căn cứ thì lập hồ sơ kiến nghị Chủ tịch nước tước quốc tịch Việt Nam của người có hành vi đó.",
+                    "text": "Trong thời hạn 15 ngày, kể từ ngày phát hiện hoặc nhận được đơn, thư tố cáo về hành vi quy định tại khoản 1 Điều 31 của Luật này, Ủy ban nhân dân cấp tỉnh, cơ quan đại diện Việt Nam ở nước ngoài có trách nhiệm xác minh, nếu có đầy đủ căn cứ thì lập hồ sơ kiến nghị Chủ tịch nước tước quốc tịch Việt Nam của người có hành vi đó. Tòa án đã xét xử đối với bị cáo có hành vi quy định tại khoản 1 Điều 31 của Luật này lập hồ sơ kiến nghị Chủ tịch nước tước quốc tịch Việt Nam của người có hành vi đó. Chính phủ quy định cụ thể các giấy tờ trong hồ sơ kiến nghị tước quốc tịch Việt Nam.",
                     "sub_clauses": []
                 },
                 {
@@ -804,7 +872,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn 20 ngày, kể từ ngày nhận được đề nghị của Thủ tướng Chính phủ, Chủ tịch nước xem xét, quyết định.",
+                    "text": "Trong thời hạn 20 ngày, kể từ ngày nhận được đề nghị của Thủ tướng Chính phủ, Chủ tịch nước xem xét, quyết định. Mục 4 HỦY BỎ QUYẾT ĐỊNH CHO NHẬP QUỐC TỊCH VIỆT NAM",
                     "sub_clauses": []
                 }
             ]
@@ -831,17 +899,17 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trong thời hạn 15 ngày, kể từ ngày phát hiện hoặc nhận được đơn, thư tố cáo về hành vi quy định tại khoản 1 Điều 33 của Luật này, Ủy ban nhân dân cấp tỉnh có trách nhiệm xác minh, nếu có đầy đủ căn cứ thì lập hồ sơ kiến nghị Chủ tịch nước hủy bỏ Quyết định cho nhập quốc tịch Việt Nam của người có hành vi đó.",
+                    "text": "Trong thời hạn 15 ngày, kể từ ngày phát hiện hoặc nhận được đơn, thư tố cáo về hành vi quy định tại khoản 1 Điều 33 của Luật này, Ủy ban nhân dân cấp tỉnh có trách nhiệm xác minh, nếu có đầy đủ căn cứ thì lập hồ sơ kiến nghị Chủ tịch nước hủy bỏ Quyết định cho nhập quốc tịch Việt Nam của người có hành vi đó. Tòa án đã xét xử đối với bị cáo có hành vi quy định tại khoản 1 Điều 33 của Luật này lập hồ sơ kiến nghị Chủ tịch nước hủy bỏ Quyết định cho nhập quốc tịch Việt Nam của người có hành vi đó. Chính phủ quy định cụ thể các giấy tờ trong hồ sơ kiến nghị hủy bỏ Quyết định cho nhập quốc tịch Việt Nam.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ kiến nghị về việc hủy bỏ Quyết định cho nhập quốc tịch Việt Nam được gửi đến Bộ Tư pháp.",
+                    "text": "Hồ sơ kiến nghị về việc hủy bỏ Quyết định cho nhập quốc tịch Việt Nam được gửi đến Bộ Tư pháp. Trong thời hạn 15 ngày, kể từ ngày nhận được hồ sơ kiến nghị của Ủy ban nhân dân cấp tỉnh hoặc của Tòa án, Bộ Tư pháp có trách nhiệm thẩm tra hồ sơ kiến nghị hủy bỏ Quyết định cho nhập quốc tịch Việt Nam và báo cáo Thủ tướng Chính phủ trình Chủ tịch nước xem xét, quyết định.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn 20 ngày, kể từ ngày nhận được đề nghị của Thủ tướng Chính phủ, Chủ tịch nước xem xét, quyết định.",
+                    "text": "Trong thời hạn 20 ngày, kể từ ngày nhận được đề nghị của Thủ tướng Chính phủ, Chủ tịch nước xem xét, quyết định. CHƯƠNG IV THAY ĐỔI QUỐC TỊCH CỦA NGƯỜI CHƯA THÀNH NIÊN VÀ CỦA CON NUÔI",
                     "sub_clauses": []
                 }
             ]
@@ -857,7 +925,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Khi chỉ cha hoặc mẹ được nhập, trở lại hoặc thôi quốc tịch Việt Nam thì con chưa thành niên sinh sống cùng với người đó cũng có quốc tịch Việt Nam hoặc mất quốc tịch Việt Nam, nếu có sự thỏa thuận bằng văn bản của cha mẹ.",
+                    "text": "Khi chỉ cha hoặc mẹ được nhập, trở lại hoặc thôi quốc tịch Việt Nam thì con chưa thành niên sinh sống cùng với người đó cũng có quốc tịch Việt Nam hoặc mất quốc tịch Việt Nam, nếu có sự thỏa thuận bằng văn bản của cha mẹ. Trường hợp cha hoặc mẹ được nhập, trở lại quốc tịch Việt Nam thì con chưa thành niên sinh sống cùng với người đó cũng có quốc tịch Việt Nam, nếu cha mẹ không thỏa thuận bằng văn bản về việc giữ quốc tịch nước ngoài của người con.",
                     "sub_clauses": []
                 },
                 {
@@ -870,7 +938,13 @@
         {
             "id": "Điều 36",
             "title": "Quốc tịch của con chưa thành niên khi cha mẹ bị tước quốc tịch Việt Nam hoặc bị hủy bỏ Quyết định cho nhập quốc tịch Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khi cha mẹ hoặc một trong hai người bị tước quốc tịch Việt Nam hoặc bị hủy bỏ Quyết định cho nhập quốc tịch Việt Nam thì quốc tịch của con chưa thành niên không thay đổi.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 37",
@@ -893,7 +967,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Sự thay đổi quốc tịch của con nuôi từ đủ 15 tuổi đến chưa đủ 18 tuổi phải được sự đồng ý bằng văn bản của người đó.",
+                    "text": "Sự thay đổi quốc tịch của con nuôi từ đủ 15 tuổi đến chưa đủ 18 tuổi phải được sự đồng ý bằng văn bản của người đó. CHƯƠNG V TRÁCH NHIỆM CỦA CÁC CƠ QUAN NHÀ NƯỚC VỀ QUỐC TỊCH",
                     "sub_clauses": []
                 }
             ]
@@ -984,22 +1058,46 @@
         {
             "id": "Điều 41",
             "title": "Thông báo và đăng tải kết quả giải quyết các việc về quốc tịch",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Tư pháp có trách nhiệm thông báo cho người xin nhập, xin trở lại, xin thôi quốc tịch Việt Nam, người bị tước quốc tịch Việt Nam, bị hủy bỏ Quyết định cho nhập quốc tịch Việt Nam về kết quả giải quyết các việc về quốc tịch có liên quan và đăng trên Trang thông tin điện tử của Bộ Tư pháp. Văn phòng Chủ tịch nước có trách nhiệm gửi đăng Công báo nước Cộng hòa xã hội chủ nghĩa Việt Nam quyết định cho nhập, cho trở lại, cho thôi, tước quốc tịch Việt Nam, hủy bỏ Quyết định cho nhập quốc tịch Việt Nam. CHƯƠNG VI ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 42",
             "title": "Điều khoản chuyển tiếp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Kể từ ngày Luật này có hiệu lực thi hành, hồ sơ các việc về quốc tịch đã được tiếp nhận trước đó được tiếp tục giải quyết theo quy định của Luật quốc tịch Việt Nam năm 1998 và các văn bản quy định chi tiết, hướng dẫn thi hành.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 43",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2009. Luật này thay thế Luật quốc tịch Việt Nam ngày 20 tháng 5 năm 1998.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 44",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 4 thông qua ngày 13 tháng 11 năm 2008. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": []

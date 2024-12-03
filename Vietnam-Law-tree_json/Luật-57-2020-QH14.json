@@ -15,17 +15,35 @@
         {
             "id": "Điều 1",
             "title": "Thanh niên",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thanh niên là công dân Việt Nam từ đủ 16 tuổi đến 30 tuổi.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về quyền, nghĩa vụ và trách nhiệm của thanh niên; chính sách của Nhà nước đối với thanh niên; trách nhiệm của cơ quan, tổ chức thanh niên, tổ chức khác, cơ sở giáo dục, gia đình và cá nhân đối với thanh niên; quản lý nhà nước về thanh niên.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với thanh niên; cơ quan, tổ chức, cơ sở giáo dục, gia đình và cá nhân.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 4",
@@ -195,7 +213,13 @@
         {
             "id": "Điều 11",
             "title": "Áp dụng điều ước quốc tế về quyền trẻ em đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước áp dụng điều ước quốc tế về quyền trẻ em mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi phù hợp với điều kiện của Việt Nam. Chương II TRÁCH NHIỆM CỦA THANH NIÊN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 12",
@@ -301,7 +325,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Tích cực tham gia các hoạt động, phong trào văn hóa, thể dục, thể thao lành mạnh; bảo vệ, giữ gìn, phát huy bản sắc văn hóa dân tộc; tiếp thu tinh hoa văn hóa nhân loại.",
+                    "text": "Tích cực tham gia các hoạt động, phong trào văn hóa, thể dục, thể thao lành mạnh; bảo vệ, giữ gìn, phát huy bản sắc văn hóa dân tộc; tiếp thu tinh hoa văn hóa nhân loại. Chương III CHÍNH SÁCH CỦA NHÀ NƯỚC ĐỐI VỚI THANH NIÊN",
                     "sub_clauses": []
                 }
             ]
@@ -616,7 +640,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Chính phủ quy định cơ chế, chính sách và biện pháp thực hiện chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi.",
+                    "text": "Chính phủ quy định cơ chế, chính sách và biện pháp thực hiện chính sách đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi. Chương IV TRÁCH NHIỆM CỦA TỔ CHỨC THANH NIÊN",
                     "sub_clauses": []
                 }
             ]
@@ -710,7 +734,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Cơ quan, tổ chức, đơn vị của Nhà nước có trách nhiệm tạo điều kiện để Đoàn Thanh niên Cộng sản Hồ Chí Minh tổ chức hoạt động giám sát, phản biện xã hội trong việc xây dựng và thực hiện chính sách, pháp luật đối với thanh niên.",
+                    "text": "Cơ quan, tổ chức, đơn vị của Nhà nước có trách nhiệm tạo điều kiện để Đoàn Thanh niên Cộng sản Hồ Chí Minh tổ chức hoạt động giám sát, phản biện xã hội trong việc xây dựng và thực hiện chính sách, pháp luật đối với thanh niên. Chương V TRÁCH NHIỆM CỦA MẶT TRẬN TỔ QUỐC VIỆT NAM, TỔ CHỨC XÃ HỘI, TỔ CHỨC KINH TẾ, CƠ SỞ GIÁO DỤC, GIA ĐÌNH",
                     "sub_clauses": []
                 }
             ]
@@ -850,7 +874,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Định hướng, tạo điều kiện để thanh niên tiếp cận các nguồn thông tin an toàn và bảo vệ thanh niên trên môi trường không gian mạng.",
+                    "text": "Định hướng, tạo điều kiện để thanh niên tiếp cận các nguồn thông tin an toàn và bảo vệ thanh niên trên môi trường không gian mạng. Chương VI QUẢN LÝ NHÀ NƯỚC VỀ THANH NIÊN",
                     "sub_clauses": []
                 }
             ]
@@ -906,6 +930,11 @@
             "title": "Trách nhiệm của Chính phủ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Chính phủ thống nhất quản lý nhà nước về thanh niên và có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Bảo đảm hiệu lực, hiệu quả việc thực hiện các nội dung quản lý nhà nước về thanh niên;",
                     "sub_clauses": []
@@ -931,6 +960,11 @@
             "id": "Điều 38",
             "title": "Trách nhiệm của Bộ Nội vụ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Nội vụ chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về thanh niên và có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Ban hành theo thẩm quyền hoặc trình cơ quan nhà nước có thẩm quyền ban hành chính sách, pháp luật về thanh niên; chiến lược, chương trình, kế hoạch phát triển thanh niên;",
@@ -977,6 +1011,11 @@
             "id": "Điều 39",
             "title": "Trách nhiệm của các Bộ, cơ quan ngang Bộ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Các Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, phối hợp với Bộ Nội vụ thực hiện quản lý nhà nước về thanh niên và có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Ban hành chính sách, cơ chế tạo điều kiện cho thanh niên tham gia vào các chương trình phát triển của ngành, lĩnh vực;",
@@ -1031,7 +1070,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về thanh niên và có trách nhiệm sau đây:",
+                    "text": "Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về thanh niên và có trách nhiệm sau đây: Chương VII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1080,11 +1119,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Luật Thanh niên số 53/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.",
+                    "text": "Luật Thanh niên số 53/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. __________________________________________________________________________________________________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 9 thông qua ngày 16 tháng 6 năm 2020. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 9 thông qua ngày 16 tháng 6 năm 2020.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Nguyễn Thị Kim Ngân"
+    ]
 }

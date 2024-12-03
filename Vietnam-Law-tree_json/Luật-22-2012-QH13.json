@@ -17,22 +17,45 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định việc hình thành, quản lý, điều hành và sử dụng dự trữ quốc gia; quyền, nghĩa vụ của cơ quan, tổ chức, cá nhân trong hoạt động dự trữ quốc gia.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Đối tượng áp dụng của Luật này là cơ quan, tổ chức, cá nhân có liên quan đến việc hình thành, quản lý, điều hành và sử dụng dự trữ quốc gia.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Mục tiêu của dự trữ quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước hình thành, sử dụng dự trữ quốc gia nhằm chủ động đáp ứng yêu cầu đột xuất, cấp bách về phòng, chống, khắc phục hậu quả thiên tai, thảm họa, hỏa hoạn, dịch bệnh; phục vụ quốc phòng, an ninh.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 4",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Dự trữ quốc gia là dự trữ vật tư, thiết bị, hàng hóa do Nhà nước quản lý, nắm giữ.",
@@ -131,6 +154,11 @@
             "title": "Nguồn hình thành dự trữ quốc gia",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Dự trữ quốc gia được hình thành từ các nguồn sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Ngân sách nhà nước;",
                     "sub_clauses": []
@@ -207,7 +235,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người làm công tác dự trữ quốc gia theo quy định tại điểm a và điểm b khoản 1 Điều này được hưởng phụ cấp thâm niên; tùy theo lĩnh vực, tính chất công việc, được hưởng phụ cấp ưu đãi nghề.",
+                    "text": "Người làm công tác dự trữ quốc gia theo quy định tại điểm a và điểm b khoản 1 Điều này được hưởng phụ cấp thâm niên; tùy theo lĩnh vực, tính chất công việc, được hưởng phụ cấp ưu đãi nghề. Chính phủ quy định chi tiết khoản này.",
                     "sub_clauses": []
                 }
             ]
@@ -376,13 +404,18 @@
             "title": "Nhiệm vụ, quyền hạn của Bộ Tài chính",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Bộ Tài chính giúp Chính phủ thực hiện quản lý nhà nước về dự trữ quốc gia, có nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư tham mưu để Chính phủ trình Quốc hội chính sách phát triển dự trữ quốc gia, định hướng nguồn lực dự trữ quốc gia, kế hoạch 5 năm về dự trữ quốc gia;",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư lập dự toán ngân sách nhà nước và phương án phân bổ ngân sách trung ương để Chính phủ trình Quốc hội quyết định phương án phân bổ ngân sách trung ương cho dự trữ quốc gia hằng năm cho bộ, ngành quản lý hàng dự trữ quốc gia.",
+                    "text": "Chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư lập dự toán ngân sách nhà nước và phương án phân bổ ngân sách trung ương để Chính phủ trình Quốc hội quyết định phương án phân bổ ngân sách trung ương cho dự trữ quốc gia hằng năm cho bộ, ngành quản lý hàng dự trữ quốc gia. Chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư báo cáo Chính phủ mức bổ sung ngân sách trung ương cho dự trữ quốc gia hằng năm (nếu có) trình Ủy ban thường vụ Quốc hội quyết định;",
                     "sub_clauses": []
                 },
                 {
@@ -630,7 +663,7 @@
                 },
                 {
                     "number": "10",
-                    "text": "Thuê tổ chức, doanh nghiệp không đủ điều kiện bảo quản hàng dự trữ quốc gia.",
+                    "text": "Thuê tổ chức, doanh nghiệp không đủ điều kiện bảo quản hàng dự trữ quốc gia. CHƯƠNG II CHIẾN LƯỢC, KẾ HOẠCH DỰ TRỮ QUỐC GIA",
                     "sub_clauses": []
                 }
             ]
@@ -748,12 +781,24 @@
         {
             "id": "Điều 25",
             "title": "Tổng mức dự trữ quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổng mức dự trữ quốc gia được bảo đảm thực hiện mục tiêu dự trữ quốc gia.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 26",
             "title": "Phương thức dự trữ quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Dự trữ quốc gia được dự trữ bằng vật tư, thiết bị, hàng hóa.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 27",
@@ -838,7 +883,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết khoản 2 Điều này.",
+                    "text": "Chính phủ quy định chi tiết khoản 2 Điều này. CHƯƠNG III NGÂN SÁCH NHÀ NƯỚC CHI CHO DỰ TRỮ QUỐC GIA",
                     "sub_clauses": []
                 }
             ]
@@ -917,7 +962,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chi phí nhập, xuất cấp hàng dự trữ quốc gia theo quyết định của Thủ tướng Chính phủ được Bộ Tài chính cấp theo dự toán được phê duyệt.",
+                    "text": "Chi phí nhập, xuất cấp hàng dự trữ quốc gia theo quyết định của Thủ tướng Chính phủ được Bộ Tài chính cấp theo dự toán được phê duyệt. Bộ, ngành quản lý hàng dự trữ quốc gia căn cứ vào định mức kinh tế - kỹ thuật, hợp đồng bảo quản hàng dự trữ quốc gia, lập dự toán chi cho việc nhập, xuất, bảo quản hàng dự trữ quốc gia, báo cáo Bộ Tài chính phê duyệt trước khi thực hiện; trường hợp chưa được phê duyệt, Bộ trưởng Bộ Tài chính quyết định tạm ứng để các cơ quan, đơn vị dự trữ quốc gia triển khai thực hiện.",
                     "sub_clauses": []
                 }
             ]
@@ -928,7 +973,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ chế tài chính đối với dự trữ quốc gia thực hiện theo quy định của Luật ngân sách nhà nước và quy định khác của pháp luật có liên quan.",
+                    "text": "Cơ chế tài chính đối với dự trữ quốc gia thực hiện theo quy định của Luật ngân sách nhà nước và quy định khác của pháp luật có liên quan. Bộ, ngành quản lý hàng dự trữ quốc gia lập dự toán chi ngân sách nhà nước cho hoạt động dự trữ quốc gia, gửi Bộ Tài chính kiểm tra, thẩm định, tổng hợp, báo cáo Chính phủ trình Quốc hội phê duyệt. Sau khi được Quốc hội phê duyệt, Thủ tướng Chính phủ quyết định giao dự toán và Bộ Tài chính thực hiện phân bổ cho bộ, ngành quản lý hàng dự trữ quốc gia.",
                     "sub_clauses": []
                 },
                 {
@@ -938,7 +983,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ, ngành quản lý hàng dự trữ quốc gia có trách nhiệm kiểm tra, duyệt quyết toán ngân sách nhà nước đã cấp cho đơn vị bảo quản hàng dự trữ quốc gia và chịu trách nhiệm về quyết toán đã được duyệt; tổng hợp báo cáo quyết toán gửi Bộ Tài chính. Bộ Tài chính thẩm định, tổng hợp quyết toán về dự trữ quốc gia, báo cáo Chính phủ.",
+                    "text": "Bộ, ngành quản lý hàng dự trữ quốc gia có trách nhiệm kiểm tra, duyệt quyết toán ngân sách nhà nước đã cấp cho đơn vị bảo quản hàng dự trữ quốc gia và chịu trách nhiệm về quyết toán đã được duyệt; tổng hợp báo cáo quyết toán gửi Bộ Tài chính. Bộ Tài chính thẩm định, tổng hợp quyết toán về dự trữ quốc gia, báo cáo Chính phủ. Báo cáo quyết toán ngân sách nhà nước về dự trữ quốc gia phải được kiểm toán theo quy định của pháp luật. CHƯƠNG IV QUẢN LÝ, ĐIỀU HÀNH DỰ TRỮ QUỐC GIA Mục 1 NHẬP, XUẤT HÀNG DỰ TRỮ QUỐC GIA",
                     "sub_clauses": []
                 }
             ]
@@ -947,6 +992,11 @@
             "id": "Điều 33",
             "title": "Nguyên tắc nhập, xuất hàng dự trữ quốc gia",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Việc nhập, xuất hàng dự trữ quốc gia phải bảo đảm các nguyên tắc sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Đúng kế hoạch, thẩm quyền;",
@@ -1035,6 +1085,11 @@
             "id": "Điều 36",
             "title": "Nhập, xuất hàng dự trữ quốc gia trong tình huống đột xuất, cấp bách",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong tình huống đột xuất, cấp bách theo quy định tại khoản 8 Điều 4 của Luật này, thẩm quyền quyết định nhập, xuất hàng dự trữ quốc gia được thực hiện như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Thủ tướng Chính phủ quyết định khẩn cấp việc nhập, xuất hàng dự trữ quốc gia;",
@@ -1145,7 +1200,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Mục 2 MUA, BÁN HÀNG DỰ TRỮ QUỐC GIA",
                     "sub_clauses": []
                 }
             ]
@@ -1154,6 +1209,11 @@
             "id": "Điều 40",
             "title": "Phương thức mua hàng dự trữ quốc gia",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Việc mua hàng dự trữ quốc gia được thực hiện theo các phương thức sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Mua hàng dự trữ quốc gia theo quy định của pháp luật về đấu thầu;",
@@ -1280,6 +1340,11 @@
             "title": "Phương thức bán hàng dự trữ quốc gia",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Việc bán hàng dự trữ quốc gia được thực hiện theo các phương thức sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Bán đấu giá;",
                     "sub_clauses": []
@@ -1337,7 +1402,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bán chỉ định, bán trực tiếp rộng rãi cho mọi đối tượng được thực hiện theo quy trình sau đây:",
+                    "text": "Bán chỉ định, bán trực tiếp rộng rãi cho mọi đối tượng được thực hiện theo quy trình sau đây: Đối với hàng dự trữ quốc gia quy định tại khoản 1 Điều này không phải thông báo trên các phương tiện thông tin đại chúng; giá bán theo giá được phê duyệt của Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1379,7 +1444,13 @@
         {
             "id": "Điều 48",
             "title": "Thẩm quyền quyết định phương thức mua, bán hàng dự trữ quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thủ trưởng bộ, ngành quản lý hàng dự trữ quốc gia căn cứ vào quy định của Luật này, quyết định phương thức mua, bán hàng dự trữ quốc gia và chịu trách nhiệm về quyết định của mình. Mục 3 GIÁ MUA, GIÁ BÁN, CHI PHÍ NHẬP, CHI PHÍ XUẤT VÀ CHI PHÍ BẢO QUẢN HÀNG DỰ TRỮ QUỐC GIA",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 49",
@@ -1426,7 +1497,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ trưởng Bộ Tài chính quy định định mức chi phí nhập, chi phí xuất tại cửa kho dự trữ quốc gia và chi phí xuất tối đa ngoài cửa kho, chi phí bảo quản trên cơ sở đề nghị của bộ, ngành quản lý hàng dự trữ quốc gia.",
+                    "text": "Bộ trưởng Bộ Tài chính quy định định mức chi phí nhập, chi phí xuất tại cửa kho dự trữ quốc gia và chi phí xuất tối đa ngoài cửa kho, chi phí bảo quản trên cơ sở đề nghị của bộ, ngành quản lý hàng dự trữ quốc gia. Mục 4 BẢO QUẢN HÀNG DỰ TRỮ QUỐC GIA",
                     "sub_clauses": []
                 }
             ]
@@ -1488,6 +1559,11 @@
             "title": "Điều kiện được thuê bảo quản hàng dự trữ quốc gia",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Tổ chức, doanh nghiệp được bộ, ngành quản lý hàng dự trữ quốc gia lựa chọn để thuê bảo quản hàng dự trữ quốc gia phải đáp ứng đủ các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Có tư cách pháp nhân;",
                     "sub_clauses": []
@@ -1525,7 +1601,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ, ngành quản lý hàng dự trữ quốc gia và cơ quan dự trữ quốc gia chuyên trách căn cứ định mức kinh tế - kỹ thuật hàng dự trữ quốc gia để xây dựng kế hoạch, dự toán ngân sách, thuê bảo quản hàng dự trữ quốc gia. Bộ Tài chính chủ trì, phối hợp với bộ, ngành quản lý hàng dự trữ quốc gia nghiên cứu, rà soát, sửa đổi, bổ sung định mức kinh tế - kỹ thuật hàng dự trữ quốc gia bảo đảm phù hợp với thực tế và yêu cầu quản lý.",
+                    "text": "Bộ, ngành quản lý hàng dự trữ quốc gia và cơ quan dự trữ quốc gia chuyên trách căn cứ định mức kinh tế - kỹ thuật hàng dự trữ quốc gia để xây dựng kế hoạch, dự toán ngân sách, thuê bảo quản hàng dự trữ quốc gia. Bộ Tài chính chủ trì, phối hợp với bộ, ngành quản lý hàng dự trữ quốc gia nghiên cứu, rà soát, sửa đổi, bổ sung định mức kinh tế - kỹ thuật hàng dự trữ quốc gia bảo đảm phù hợp với thực tế và yêu cầu quản lý. Mục 5 SỬ DỤNG HÀNG DỰ TRỮ QUỐC GIA",
                     "sub_clauses": []
                 }
             ]
@@ -1572,13 +1648,18 @@
             "title": "Quản lý, sử dụng hàng dự trữ quốc gia",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Bộ, ngành, Ủy ban nhân dân cấp tỉnh, cơ quan, tổ chức sau khi nhận hàng dự trữ quốc gia có trách nhiệm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Quản lý, sử dụng hàng dự trữ quốc gia đúng mục đích, đối tượng, tiêu chuẩn theo quy định của pháp luật; bảo đảm không thất thoát, lãng phí;",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Lập hồ sơ theo dõi, hạch toán, báo cáo tình hình quản lý và sử dụng đối với hàng dự trữ quốc gia được cấp theo quy định của pháp luật về kế toán, thống kê. Đối với hàng dự trữ quốc gia được sử dụng nhiều lần phải mở sổ theo dõi chi tiết theo quy định của pháp luật.",
+                    "text": "Lập hồ sơ theo dõi, hạch toán, báo cáo tình hình quản lý và sử dụng đối với hàng dự trữ quốc gia được cấp theo quy định của pháp luật về kế toán, thống kê. Đối với hàng dự trữ quốc gia được sử dụng nhiều lần phải mở sổ theo dõi chi tiết theo quy định của pháp luật. CHƯƠNG V KHO DỰ TRỮ QUỐC GIA, NGHIÊN CỨU KHOA HỌC VÀ ỨNG DỤNG CÔNG NGHỆ BẢO QUẢN HÀNG DỰ TRỮ QUỐC GIA",
                     "sub_clauses": []
                 }
             ]
@@ -1745,7 +1826,13 @@
         {
             "id": "Điều 63",
             "title": "Hiện đại hóa hoạt động dự trữ quốc gia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hoạt động dự trữ quốc gia phải được đầu tư nghiên cứu, ứng dụng khoa học, kỹ thuật và công nghệ bảo quản; đầu tư phát triển công nghệ thông tin và các phương tiện khác để bảo đảm hiện đại hóa hoạt động dự trữ quốc gia.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 64",
@@ -1785,7 +1872,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ Tài chính chủ trì, phối hợp với bộ, ngành quản lý hàng dự trữ quốc gia xây dựng kế hoạch nghiên cứu ứng dụng khoa học và công nghệ bảo quản hàng dự trữ quốc gia.",
+                    "text": "Bộ Tài chính chủ trì, phối hợp với bộ, ngành quản lý hàng dự trữ quốc gia xây dựng kế hoạch nghiên cứu ứng dụng khoa học và công nghệ bảo quản hàng dự trữ quốc gia. CHƯƠNG VI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1793,13 +1880,29 @@
         {
             "id": "Điều 65",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2013.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 66",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 4 thông qua ngày 20 tháng 11 năm 2012 CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 4 thông qua ngày 20 tháng 11 năm 2012",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về đối tượng nộp thuế, thu nhập chịu thuế, thu nhập được miễn thuế, giảm thuế và căn cứ tính thuế thu nhập cá nhân."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -33,6 +40,13 @@
         "clause": "3",
         "title": "Đối tượng nộp thuế",
         "text": "Cá nhân không cư trú là người không đáp ứng điều kiện quy định tại khoản 2 Điều này."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Thu nhập chịu thuế",
+        "text": "Thu nhập chịu thuế thu nhập cá nhân gồm các loại thu nhập sau đây, trừ thu nhập được miễn thuế quy định tại Điều 4 của Luật này:"
     },
     {
         "id": "Điều 3.1",
@@ -385,6 +399,13 @@
         "text": "Thu nhập nhận được từ nguồn viện trợ nước ngoài vì mục đích từ thiện, nhân đạo dưới hình thức chính phủ và phi chính phủ được cơ quan nhà nước có thẩm quyền phê duyệt."
     },
     {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Giảm thuế",
+        "text": "Đối tượng nộp thuế gặp khó khăn do thiên tai, hoả hoạn, tai nạn, bệnh hiểm nghèo ảnh hưởng đến khả năng nộp thuế thì được xét giảm thuế tương ứng với mức độ thiệt hại nhưng không vượt quá số thuế phải nộp."
+    },
+    {
         "id": "Điều 6.1.Thu nhập chịu thuế nhận được bằng ngoại tệ phải được quy đổi ra Đồng Việt Nam theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm phát sinh thu nhập.",
         "article": "Điều 6",
         "clause": "1.Thu nhập chịu thuế nhận được bằng ngoại tệ phải được quy đổi ra Đồng Việt Nam theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm phát sinh thu nhập.",
@@ -467,6 +488,13 @@
         "clause": "2c",
         "title": "Quản lý thuế và hoàn thuế",
         "text": "Các trường hợp khác theo quyết định của cơ quan nhà nước có thẩm quyền."
+    },
+    {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Áp dụng điều ước quốc tế",
+        "text": "Trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định về thuế thu nhập cá nhân khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó. Chương 2: CĂN CỨ TÍNH THUẾ ĐỐI VỚI CÁ NHÂN CƯ TRÚ Mục 1: XÁC ĐỊNH THU NHẬP CHỊU THUẾ VÀ THU NHẬP TÍNH THUẾ"
     },
     {
         "id": "Điều 10.1",
@@ -1001,6 +1029,27 @@
         "text": "Thu nhập chịu thuế từ tiền lương, tiền công là tổng số tiền lương, tiền công mà cá nhân không cư trú nhận được do thực hiện công việc tại Việt Nam, không phân biệt nơi trả thu nhập."
     },
     {
+        "id": "Điều 27.0",
+        "article": "Điều 27",
+        "clause": "0",
+        "title": "Thuế đối với thu nhập từ đầu tư vốn",
+        "text": "Thuế đối với thu nhập từ đầu tư vốn của cá nhân không cư trú được xác định bằng tổng số tiền mà cá nhân không cư trú nhận được từ việc đầu tư vốn vào tổ chức, cá nhân tại Việt Nam nhân với thuế suất 5%."
+    },
+    {
+        "id": "Điều 28.0",
+        "article": "Điều 28",
+        "clause": "0",
+        "title": "Thuế đối với thu nhập từ chuyển nhượng vốn",
+        "text": "Thuế đối với thu nhập từ chuyển nhượng vốn của cá nhân không cư trú được xác định bằng tổng số tiền mà cá nhân không cư trú nhận được từ việc chuyển nhượng phần vốn tại tổ chức, cá nhân Việt Nam nhân với thuế suất 0,1%, không phân biệt việc chuyển nhượng được thực hiện tại Việt Nam hay tại nước ngoài."
+    },
+    {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Thuế đối với thu nhập từ chuyển nhượng bất động sản",
+        "text": "Thuế đối với thu nhập từ chuyển nhượng bất động sản tại Việt Nam của cá nhân không cư trú được xác định bằng giá chuyển nhượng bất động sản nhân với thuế suất 2%."
+    },
+    {
         "id": "Điều 30.1",
         "article": "Điều 30",
         "clause": "1",
@@ -1111,5 +1160,12 @@
         "clause": "3",
         "title": "Hiệu lực thi hành",
         "text": "Những khoản thu nhập của cá nhân được ưu đãi về thuế quy định tại các văn bản quy phạm pháp luật trước ngày Luật này có hiệu lực thi hành thì tiếp tục được hưởng ưu đãi."
+    },
+    {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 2 thông qua ngày 21 tháng 11 năm 2007. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

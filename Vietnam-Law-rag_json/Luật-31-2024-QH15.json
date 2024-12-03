@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về chế độ sở hữu đất đai, quyền hạn và trách nhiệm của Nhà nước đại diện chủ sở hữu toàn dân về đất đai và thống nhất quản lý về đất đai, chế độ quản lý và sử dụng đất đai, quyền và nghĩa vụ của công dân, người sử dụng đất đối với đất đai thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -19,6 +26,13 @@
         "clause": "3",
         "title": "Đối tượng áp dụng",
         "text": "Các đối tượng khác có liên quan đến việc quản lý, sử dụng đất đai."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -362,6 +376,13 @@
         "clause": "49",
         "title": "Giải thích từ ngữ",
         "text": "Vùng phụ cận là vùng đất tiếp giáp với các điểm kết nối giao thông và các tuyến giao thông có tiềm năng phát triển theo quy hoạch."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Người sử dụng đất",
+        "text": "Người sử dụng đất được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất; đang sử dụng đất ổn định, đủ điều kiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất mà chưa được Nhà nước cấp Giấy chứng nhận quyền sử dụng đất, Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất; nhận quyền sử dụng đất; thuê lại đất theo quy định của Luật này, bao gồm:"
     },
     {
         "id": "Điều 4.1",
@@ -861,6 +882,13 @@
         "text": "Phân biệt đối xử về giới trong quản lý, sử dụng đất đai. Chương II QUYỀN HẠN VÀ TRÁCH NHIỆM CỦA NHÀ NƯỚC, QUYỀN VÀ NGHĨA VỤ CỦA CÔNG DÂN ĐỐI VỚI ĐẤT ĐAI Mục 1 QUYỀN HẠN VÀ TRÁCH NHIỆM CỦA NHÀ NƯỚC LÀ ĐẠI DIỆN CHỦ SỞ HỮU VỀ ĐẤT ĐAI"
     },
     {
+        "id": "Điều 12.0",
+        "article": "Điều 12",
+        "clause": "0",
+        "title": "Sở hữu đất đai",
+        "text": "Đất đai thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý. Nhà nước trao quyền sử dụng đất cho người sử dụng đất theo quy định của Luật này."
+    },
+    {
         "id": "Điều 13.1",
         "article": "Điều 13",
         "clause": "1",
@@ -943,6 +971,13 @@
         "clause": "12",
         "title": "Quyền của Nhà nước là đại diện chủ sở hữu về đất đai",
         "text": "Quy định quyền và nghĩa vụ của người sử dụng đất phù hợp với hình thức giao đất, cho thuê đất, công nhận quyền sử dụng đất, nguồn gốc sử dụng đất và nghĩa vụ tài chính của người sử dụng đất."
+    },
+    {
+        "id": "Điều 14.0",
+        "article": "Điều 14",
+        "clause": "0",
+        "title": "Nhà nước thực hiện quyền đại diện chủ sở hữu về đất đai",
+        "text": "Nhà nước thực hiện quyền đại diện chủ sở hữu về đất đai theo thẩm quyền quy định của Luật này và luật khác có liên quan thông qua các cơ quan sau đây:"
     },
     {
         "id": "Điều 14.1",
@@ -2870,6 +2905,13 @@
         "text": "Trường hợp được Nhà nước cho thuê đất trả tiền thuê đất hằng năm để thực hiện dự án xây dựng kinh doanh kết cấu hạ tầng thì được bán tài sản gắn liền với đất khi có đủ điều kiện quy định tại khoản 1 Điều 45 của Luật này và điều kiện khác theo quy định của Luật Kinh doanh bất động sản."
     },
     {
+        "id": "Điều 47.0",
+        "article": "Điều 47",
+        "clause": "0",
+        "title": "Điều kiện chuyển đổi quyền sử dụng đất nông nghiệp",
+        "text": "Cá nhân sử dụng đất nông nghiệp do được Nhà nước giao đất, do chuyển đổi, nhận chuyển nhượng, nhận thừa kế, nhận tặng cho quyền sử dụng đất hợp pháp từ người khác thì chỉ được chuyển đổi quyền sử dụng đất nông nghiệp trong cùng đơn vị hành chính cấp tỉnh cho cá nhân khác và không phải nộp thuế thu nhập từ việc chuyển đổi quyền sử dụng đất và lệ phí trước bạ."
+    },
+    {
         "id": "Điều 48.1",
         "article": "Điều 48",
         "clause": "1",
@@ -3764,6 +3806,13 @@
         "clause": "4",
         "title": "Thời kỳ quy hoạch, kế hoạch sử dụng đất",
         "text": "Thời kỳ kế hoạch sử dụng đất quốc gia, kế hoạch sử dụng đất cấp tỉnh là 05 năm; kế hoạch sử dụng đất hằng năm cấp huyện được lập hằng năm."
+    },
+    {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": "Kinh phí cho hoạt động quy hoạch",
+        "text": "Kinh phí lập, điều chỉnh, thẩm định, quyết định, phê duyệt, công bố quy hoạch, kế hoạch sử dụng đất do ngân sách nhà nước bảo đảm từ nguồn sự nghiệp kinh tế."
     },
     {
         "id": "Điều 64.1",
@@ -4956,6 +5005,13 @@
         "text": "Bộ Tài nguyên và Môi trường tổng hợp kết quả thực hiện quy hoạch sử dụng đất của cả nước trình Chính phủ để báo cáo Quốc hội vào năm cuối của thời kỳ quy hoạch sử dụng đất. Chương VI THU HỒI ĐẤT, TRƯNG DỤNG ĐẤT"
     },
     {
+        "id": "Điều 78.0",
+        "article": "Điều 78",
+        "clause": "0",
+        "title": "Thu hồi đất vì mục đích quốc phòng, an ninh",
+        "text": "Nhà nước thu hồi đất vì mục đích quốc phòng, an ninh trong trường hợp sau đây:"
+    },
+    {
         "id": "Điều 78.1",
         "article": "Điều 78",
         "clause": "1",
@@ -5024,6 +5080,13 @@
         "clause": "10",
         "title": "Thu hồi đất vì mục đích quốc phòng, an ninh",
         "text": "Làm cơ sở giam giữ; cơ sở tạm giam, tạm giữ; cơ sở giáo dục bắt buộc; trường giáo dưỡng và khu lao động, cải tạo, hướng nghiệp, dạy nghề cho phạm nhân, trại viên, học sinh do Bộ Quốc phòng, Bộ Công an quản lý."
+    },
+    {
+        "id": "Điều 79.0",
+        "article": "Điều 79",
+        "clause": "0",
+        "title": "Thu hồi đất để phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng",
+        "text": "Nhà nước thu hồi đất trong trường hợp thật cần thiết để thực hiện dự án phát triển kinh tế - xã hội vì lợi ích quốc gia, công cộng nhằm phát huy nguồn lực đất đai, nâng cao hiệu quả sử dụng đất, phát triển hạ tầng kinh tế - xã hội theo hướng hiện đại, thực hiện chính sách an sinh xã hội, bảo vệ môi trường và bảo tồn di sản văn hóa trong trường hợp sau đây:"
     },
     {
         "id": "Điều 79.1",
@@ -6391,6 +6454,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 93.0",
+        "article": "Điều 93",
+        "clause": "0",
+        "title": "Việc tách nội dung bồi thường, hỗ trợ, tái định cư thành dự án độc lập và việc thu hồi đất, bồi thường, hỗ trợ, tái định cư đối với dự án đầu tư",
+        "text": "Trường hợp dự án bồi thường, hỗ trợ, tái định cư được tách ra thành dự án độc lập theo quy định của pháp luật về đầu tư công thì việc thu hồi đất, bồi thường, hỗ trợ, tái định cư được thực hiện theo quy định của Luật này."
+    },
+    {
         "id": "Điều 94.1",
         "article": "Điều 94",
         "clause": "1",
@@ -6769,6 +6839,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 103.0",
+        "article": "Điều 103",
+        "clause": "0",
+        "title": "Bồi thường đối với cây trồng, vật nuôi",
+        "text": "Khi Nhà nước thu hồi đất mà gây thiệt hại đối với cây trồng, vật nuôi thì việc bồi thường thực hiện theo quy định sau đây:"
+    },
+    {
         "id": "Điều 103.1",
         "article": "Điều 103",
         "clause": "1",
@@ -6851,6 +6928,13 @@
         "clause": "4",
         "title": "Trường hợp không được bồi thường tài sản gắn liền với đất khi Nhà nước thu hồi đất",
         "text": "Công trình hạ tầng kỹ thuật, hạ tầng xã hội và công trình xây dựng khác mà chủ sở hữu công trình xác định không còn nhu cầu sử dụng trước thời điểm có quyết định thu hồi đất của cơ quan có thẩm quyền."
+    },
+    {
+        "id": "Điều 106.0",
+        "article": "Điều 106",
+        "clause": "0",
+        "title": "Bồi thường thiệt hại đối với đất thuộc hành lang bảo vệ an toàn công trình, khu vực bảo vệ, vành đai an toàn khi xây dựng công trình, khu vực có hành lang bảo vệ an toàn",
+        "text": "Khi xây dựng công trình, khu vực có hành lang bảo vệ an toàn mà không thu hồi đất nằm trong phạm vi hành lang bảo vệ an toàn công trình, khu vực bảo vệ, vành đai an toàn thì người sử dụng đất được bồi thường thiệt hại do hạn chế khả năng sử dụng đất, thiệt hại tài sản gắn liền với đất theo quy định của Chính phủ."
     },
     {
         "id": "Điều 107.1",
@@ -7266,6 +7350,13 @@
         "text": "Chính phủ quy định chi tiết Điều này. Chương VIII PHÁT TRIỂN, QUẢN LÝ VÀ KHAI THÁC QUỸ ĐẤT"
     },
     {
+        "id": "Điều 112.0",
+        "article": "Điều 112",
+        "clause": "0",
+        "title": "Nguyên tắc phát triển, quản lý và khai thác quỹ đất",
+        "text": "Việc phát triển, quản lý và khai thác quỹ đất phải theo quy hoạch sử dụng đất, kế hoạch sử dụng đất, sử dụng đất đúng mục đích, công khai, minh bạch, hợp lý, hiệu quả và theo quy định của pháp luật; bảo đảm đáp ứng yêu cầu phát triển kinh tế - xã hội, hỗ trợ tái định cư, an sinh xã hội, bố trí đất ở, đất sản xuất cho đồng bào dân tộc thiểu số để thực hiện chính sách theo quy định của Luật này."
+    },
+    {
         "id": "Điều 113.1",
         "article": "Điều 113",
         "clause": "1",
@@ -7453,6 +7544,13 @@
         "clause": "7",
         "title": "Căn cứ để giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất",
         "text": "Chính phủ quy định chi tiết về việc giao đất, cho thuê đất, chuyển mục đích sử dụng đất."
+    },
+    {
+        "id": "Điều 117.0",
+        "article": "Điều 117",
+        "clause": "0",
+        "title": "Giao đất, cho thuê đất đối với đất đang có người sử dụng cho người khác",
+        "text": "Việc quyết định giao đất, cho thuê đất đối với đất đang có người quản lý, sử dụng cho người khác chỉ được thực hiện sau khi cơ quan nhà nước có thẩm quyền quyết định thu hồi đất và phải thực hiện xong việc bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật, trừ trường hợp được chuyển nhượng dự án bất động sản theo quy định của pháp luật về kinh doanh bất động sản."
     },
     {
         "id": "Điều 118.1",
@@ -9107,6 +9205,13 @@
         "text": "Cộng đồng dân cư đang sử dụng đất có công trình là đình, đền, miếu, am, nhà thờ họ, công trình tín ngưỡng khác; chùa không thuộc quy định tại khoản 1 Điều 213 của Luật này; đất nông nghiệp quy định tại khoản 4 Điều 178 của Luật này và đất đó không có tranh chấp, có giấy tờ xác nhận của Ủy ban nhân dân cấp xã nơi có đất là đất sử dụng chung cho cộng đồng dân cư thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất."
     },
     {
+        "id": "Điều 138.0",
+        "article": "Điều 138",
+        "clause": "0",
+        "title": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất không có giấy tờ về quyền sử dụng đất mà không vi phạm pháp luật về đất đai, không thuộc trường hợp đất được giao không đúng thẩm quyền",
+        "text": "Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp hộ gia đình, cá nhân đang sử dụng đất ổn định mà không có một trong các loại giấy tờ về quyền sử dụng đất quy định tại Điều 137 của Luật này, không thuộc trường hợp quy định tại Điều 139 và Điều 140 của Luật này được thực hiện theo quy định như sau:"
+    },
+    {
         "id": "Điều 138.1",
         "article": "Điều 138",
         "clause": "1",
@@ -9345,6 +9450,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 140.0",
+        "article": "Điều 140",
+        "clause": "0",
+        "title": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho hộ gia đình, cá nhân đang sử dụng đất được giao không đúng thẩm quyền",
+        "text": "Đất được giao không đúng thẩm quyền cho hộ gia đình, cá nhân theo quy định của pháp luật về đất đai tại thời điểm được giao hoặc sử dụng đất do mua, nhận thanh lý, hóa giá, phân phối nhà ở, công trình xây dựng gắn liền với đất không đúng quy định của pháp luật thì việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được thực hiện như sau:"
+    },
+    {
         "id": "Điều 140.1",
         "article": "Điều 140",
         "clause": "1",
@@ -9413,6 +9525,13 @@
         "clause": "7",
         "title": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho hộ gia đình, cá nhân đang sử dụng đất được giao không đúng thẩm quyền",
         "text": "Chính phủ quy định chi tiết Điều này."
+    },
+    {
+        "id": "Điều 141.0",
+        "article": "Điều 141",
+        "clause": "0",
+        "title": "Xác định diện tích đất ở khi công nhận quyền sử dụng đất",
+        "text": "Hộ gia đình, cá nhân đang sử dụng đất có một trong các loại giấy tờ về quyền sử dụng đất quy định tại các khoản 1, 2, 3, 4, 5, 6 và 7 Điều 137 của Luật này mà trên giấy tờ đó có thể hiện mục đích sử dụng để làm nhà ở, đất ở hoặc thổ cư thì diện tích đất ở được xác định khi cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất như sau:"
     },
     {
         "id": "Điều 141.1",
@@ -9616,6 +9735,13 @@
         "clause": "2",
         "title": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất xây dựng khu đô thị, khu dân cư nông thôn, dự án sản xuất, kinh doanh có nhiều mục đích sử dụng đất khác nhau",
         "text": "Đất giao cho chủ đầu tư để thực hiện dự án sản xuất, kinh doanh bao gồm nhiều phần diện tích đất có mục đích sử dụng khác nhau thì cấp một Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho chủ đầu tư đối với toàn bộ diện tích đất đó, trong đó thể hiện rõ vị trí, diện tích đất của từng mục đích sử dụng đất theo quy định tại Điều 9 của Luật này. Trường hợp chủ đầu tư có nhu cầu thì cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng thửa đất theo từng mục đích sử dụng, phù hợp với quy hoạch xây dựng chi tiết đã được phê duyệt."
+    },
+    {
+        "id": "Điều 144.0",
+        "article": "Điều 144",
+        "clause": "0",
+        "title": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh",
+        "text": "Việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với đất có di tích lịch sử - văn hóa, danh lam thắng cảnh đã được xếp hạng hoặc được Ủy ban nhân dân cấp tỉnh đưa vào danh mục kiểm kê di tích theo quy định của pháp luật về di sản văn hóa được thực hiện như sau:"
     },
     {
         "id": "Điều 144.1",
@@ -9945,6 +10071,13 @@
         "clause": "6",
         "title": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với tài sản là công trình xây dựng không phải là nhà ở",
         "text": "Dự án có nhiều hạng mục công trình thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho từng hạng mục công trình hoặc từng phần diện tích của hạng mục công trình đó."
+    },
+    {
+        "id": "Điều 150.0",
+        "article": "Điều 150",
+        "clause": "0",
+        "title": "Cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp Nhà nước đã có quyết định quản lý đối với đất đai, tài sản gắn liền với đất nhưng chưa thực hiện",
+        "text": "Hộ gia đình, cá nhân đang sử dụng đất, tài sản gắn liền với đất mà trước đây cơ quan nhà nước đã có quyết định quản lý đối với đất đai, tài sản đó trong quá trình thực hiện chính sách của Nhà nước nhưng thực tế Nhà nước chưa thực hiện quyết định thì người đang sử dụng đất, tài sản gắn liền với đất được tiếp tục sử dụng và được xem xét cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của pháp luật."
     },
     {
         "id": "Điều 151.1",
@@ -14812,6 +14945,13 @@
         "text": "Cơ quan có thẩm quyền giải quyết thủ tục hành chính về đất đai phải thực hiện đúng trình tự, thủ tục theo quy định và công khai kết quả giải quyết thủ tục hành chính."
     },
     {
+        "id": "Điều 227.0",
+        "article": "Điều 227",
+        "clause": "0",
+        "title": "Trình tự, thủ tục cho phép chuyển mục đích sử dụng đất",
+        "text": "Các trường hợp chuyển mục đích sử dụng đất phải được cơ quan nhà nước có thẩm quyền cho phép quy định của Luật này được thực hiện theo trình tự, thủ tục như sau:"
+    },
+    {
         "id": "Điều 227.1",
         "article": "Điều 227",
         "clause": "1",
@@ -14866,6 +15006,13 @@
         "clause": "6",
         "title": "Trình tự, thủ tục cho phép chuyển mục đích sử dụng đất",
         "text": "Trường hợp thực hiện nhận chuyển quyền sử dụng đất và chuyển mục đích sử dụng đất thì được thực hiện thủ tục đăng ký chuyển quyền sử dụng đất đồng thời với thủ tục chuyển mục đích sử dụng đất theo quy định của Điều này."
+    },
+    {
+        "id": "Điều 228.0",
+        "article": "Điều 228",
+        "clause": "0",
+        "title": "Trình tự, thủ tục giao đất, cho thuê đất đối với trường hợp giao đất, cho thuê đất không đấu giá quyền sử dụng đất, không đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất và trường hợp giao đất, cho thuê đất thông qua đấu thầu lựa chọn nhà đầu tư thực hiện dự án có sử dụng đất",
+        "text": "Các trường hợp Nhà nước giao đất, cho thuê đất theo quy định tại Điều 124 và Điều 126 của Luật này thì thực hiện theo trình tự, thủ tục như sau:"
     },
     {
         "id": "Điều 228.1",
@@ -15027,6 +15174,13 @@
         "clause": "6",
         "title": "Trình tự, thủ tục giao đất, cho thuê đất thông qua đấu giá quyền sử dụng đất",
         "text": "Cơ quan có chức năng quản lý đất đai chủ trì, phối hợp với đơn vị tổ chức thực hiện việc đấu giá quyền sử dụng đất và Ủy ban nhân dân cấp xã nơi có đất tổ chức bàn giao đất trên thực địa và trao Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người trúng đấu giá quyền sử dụng đất. Chương XV GIÁM SÁT, THEO DÕI VÀ ĐÁNH GIÁ VIỆC QUẢN LÝ, SỬ DỤNG ĐẤT ĐAI; THANH TRA, KIỂM TRA, KIỂM TOÁN; GIẢI QUYẾT TRANH CHẤP, KHIẾU NẠI, TỐ CÁO VÀ XỬ LÝ VI PHẠM PHÁP LUẬT VỀ ĐẤT ĐAI Mục 1 GIÁM SÁT, THEO DÕI VÀ ĐÁNH GIÁ ĐỐI VỚI QUẢN LÝ, SỬ DỤNG ĐẤT ĐAI"
+    },
+    {
+        "id": "Điều 230.0",
+        "article": "Điều 230",
+        "clause": "0",
+        "title": "Giám sát của Quốc hội, Mặt trận Tổ quốc Việt Nam, Hội đồng nhân dân các cấp đối với việc quản lý, sử dụng đất đai",
+        "text": "Quốc hội, Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, Hội đồng nhân dân các cấp thực hiện quyền giám sát đối với việc quản lý, sử dụng đất đai theo quy định của Hiến pháp, Luật Hoạt động giám sát của Quốc hội và Hội đồng nhân dân, Luật Mặt trận Tổ quốc Việt Nam và Luật Tổ chức chính quyền địa phương."
     },
     {
         "id": "Điều 231.1",
@@ -15589,6 +15743,13 @@
         "text": "Việc thu thập, bảo quản, sử dụng và lưu trữ hồ sơ, tài liệu liên quan đến giải quyết tố cáo về quản lý, sử dụng đất đai thực hiện theo quy định của pháp luật về tố cáo. Mục 3 XỬ LÝ VI PHẠM PHÁP LUẬT VỀ ĐẤT ĐAI"
     },
     {
+        "id": "Điều 239.0",
+        "article": "Điều 239",
+        "clause": "0",
+        "title": "Xử lý đối với người có hành vi vi phạm pháp luật về đất đai",
+        "text": "Người có hành vi vi phạm pháp luật về đất đai thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 240.1",
         "article": "Điều 240",
         "clause": "1",
@@ -15813,6 +15974,13 @@
         "text": "Bổ sung quy hoạch số thứ tự 1a vào trước số thứ tự 1 của Phụ lục II về Danh mục các quy hoạch có tính chất kỹ thuật, chuyên ngành như sau: STT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH 1a. Quy hoạch sử dụng đất cấp tỉnh Luật Đất đai số 31/2024/QH15"
     },
     {
+        "id": "Điều 244.0",
+        "article": "Điều 244",
+        "clause": "0",
+        "title": "Sửa đổi, bổ sung khoản 4 Điều 44 của Luật Thủy sản số 18/2017/QH14",
+        "text": "“4. Thời hạn giao khu vực biển để nuôi trồng thủy sản không quá 50 năm, được tính từ ngày quyết định giao khu vực biển có hiệu lực. Khi hết thời hạn giao, tổ chức, cá nhân có nhu cầu tiếp tục sử dụng khu vực biển đã được giao để nuôi trồng thủy sản được Nhà nước xem xét gia hạn có thể gia hạn nhiều lần nhưng tổng thời gian gia hạn không quá 20 năm. Thời hạn giao khu vực biển cho tổ chức, cá nhân Việt Nam thực hiện nhiệm vụ khoa học và công nghệ phục vụ nuôi trồng thủy sản không quá thời hạn nhiệm vụ khoa học và công nghệ được cơ quan có thẩm quyền phê duyệt.”."
+    },
+    {
         "id": "Điều 245.1",
         "article": "Điều 245",
         "clause": "1",
@@ -15867,6 +16035,20 @@
         "clause": "3",
         "title": "Sửa đổi, bổ sung một số điều của Luật Tổ chức chính quyền địa phương số 77/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14, Luật số 47/2019/QH14 và Nghị quyết số 96/2023/QH15",
         "text": "Chính phủ trình Quốc hội, Ủy ban Thường vụ Quốc hội quyết định việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính; đặt tên, đổi tên đơn vị hành chính quy định tại khoản 1 và khoản 2 Điều này.”."
+    },
+    {
+        "id": "Điều 246.0",
+        "article": "Điều 246",
+        "clause": "0",
+        "title": "Sửa đổi, bổ sung khoản 4 Điều 106 của Luật Thi hành án dân sự số 26/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 64/2014/QH13, Luật số 23/2018/QH14, Luật số 67/2020/QH14 và Luật số 03/2022/QH15",
+        "text": "Sửa đổi, bổ sung khoản 4 Điều 106 như sau: “4. Trường hợp tài sản là quyền sử dụng đất, tài sản gắn liền với đất mà đủ điều kiện nhưng chưa được cấp giấy chứng nhận lần đầu thì cơ quan thi hành án có trách nhiệm đề nghị cơ quan có thẩm quyền thực hiện cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất lần đầu cho người mua được tài sản thi hành án, người nhận tài sản thi hành án theo quy định của pháp luật. Trường hợp tài sản là quyền sử dụng đất, tài sản gắn liền với đất đã được cấp giấy chứng nhận mà không thu hồi được giấy chứng nhận đã cấp thì cơ quan thi hành án có trách nhiệm đề nghị cơ quan có thẩm quyền thực hiện thu hồi hoặc hủy giấy chứng nhận đã cấp và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho người mua được tài sản thi hành án, người nhận tài sản thi hành án theo quy định của pháp luật.”."
+    },
+    {
+        "id": "Điều 247.0",
+        "article": "Điều 247",
+        "clause": "0",
+        "title": "Sửa đổi, bổ sung khoản 1 Điều 14 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13 và Luật số 71/2014/QH13",
+        "text": "Sửa đổi, bổ sung khoản 1 Điều 14 như sau: “1. Thu nhập chịu thuế từ chuyển nhượng bất động sản được xác định là giá chuyển nhượng từng lần; trường hợp chuyển nhượng quyền sử dụng đất thì thu nhập chịu thuế tính theo giá đất trong bảng giá đất.”."
     },
     {
         "id": "Điều 248.1",
@@ -16056,6 +16238,20 @@
         "clause": "9",
         "title": "Sửa đổi, bổ sung một số điều của Luật Lâm nghiệp số 16/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2023/QH15",
         "text": "Sửa đổi, bổ sung khoản 4 Điều 60 như sau: “4. Được tự tổ chức, hợp tác, liên doanh, liên kết hoặc cho tổ chức, cá nhân thuê rừng, thuê môi trường rừng phù hợp với quyền của chủ rừng để kinh doanh du lịch sinh thái, nghỉ dưỡng, giải trí hoặc nuôi, trồng phát triển cây dược liệu hoặc để tổ chức hoạt động nghiên cứu khoa học nhưng không được ảnh hưởng đến mục đích sử dụng đất theo quy định của pháp luật về đất đai.”."
+    },
+    {
+        "id": "Điều 249.0",
+        "article": "Điều 249",
+        "clause": "0",
+        "title": "Sửa đổi, bổ sung khoản 3 Điều 6 của Luật Thuế sử dụng đất phi nông nghiệp số 48/2010/QH12",
+        "text": "Sửa đổi, bổ sung khoản 3 Điều 6 như sau: “3. Giá của 01 m2 đất là giá đất theo bảng giá đất tương ứng với mục đích sử dụng và được ổn định theo chu kỳ 05 năm.”."
+    },
+    {
+        "id": "Điều 250.0",
+        "article": "Điều 250",
+        "clause": "0",
+        "title": "Sửa đổi, bổ sung khoản 3 Điều 29 của Luật Đầu tư số 61/2020/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 72/2020/QH14, Luật số 03/2022/QH15, Luật số 05/2022/QH15, Luật số 08/2022/QH15, Luật số 09/2022/QH15, Luật số 20/2023/QH15, Luật số 26/2023/QH15, Luật số 27/2023/QH15 và Luật số 28/2023/QH15",
+        "text": "Sửa đổi, bổ sung khoản 3 Điều 29 như sau: “3. Cơ quan có thẩm quyền thực hiện thủ tục chấp thuận nhà đầu tư trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 251.1",
@@ -16510,6 +16706,6 @@
         "article": "Điều 260",
         "clause": "16",
         "title": "Quy định chuyển tiếp một số trường hợp khác khi Luật này có hiệu lực thi hành",
-        "text": "Doanh nghiệp có vốn đầu tư nước ngoài theo quy định của Luật Kinh doanh bất động sản số 66/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 61/2020/QH14 đang thực hiện thủ tục nhận chuyển nhượng toàn bộ hoặc một phần dự án bất động sản nhưng đến ngày Luật này có hiệu lực thi hành mà chưa hoàn thành các thủ tục về đất đai đối với dự án hoặc phần dự án nhận chuyển nhượng thì cơ quan nhà nước có thẩm quyền thực hiện thủ tục giao đất, cho thuê đất cho bên nhận chuyển nhượng, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này. Bên nhận chuyển nhượng toàn bộ hoặc một phần dự án bất động sản được kế thừa quyền và nghĩa vụ về đất đai của bên chuyển nhượng dự án. ________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp bất thường lần thứ năm thông qua ngày 18 tháng 01 năm 2024."
+        "text": "Doanh nghiệp có vốn đầu tư nước ngoài theo quy định của Luật Kinh doanh bất động sản số 66/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 61/2020/QH14 đang thực hiện thủ tục nhận chuyển nhượng toàn bộ hoặc một phần dự án bất động sản nhưng đến ngày Luật này có hiệu lực thi hành mà chưa hoàn thành các thủ tục về đất đai đối với dự án hoặc phần dự án nhận chuyển nhượng thì cơ quan nhà nước có thẩm quyền thực hiện thủ tục giao đất, cho thuê đất cho bên nhận chuyển nhượng, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của Luật này. Bên nhận chuyển nhượng toàn bộ hoặc một phần dự án bất động sản được kế thừa quyền và nghĩa vụ về đất đai của bên chuyển nhượng dự án. ________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp bất thường lần thứ năm thông qua ngày 18 tháng 01 năm 2024. CHỦ TỊCH QUỐC HỘI Vương Đình Huệ"
     }
 ]

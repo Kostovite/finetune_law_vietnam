@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quyền và nghĩa vụ của tổ chức, cá nhân trong bảo đảm an toàn thực phẩm; điều kiện bảo đảm an toàn đối với thực phẩm, sản xuất, kinh doanh thực phẩm và nhập khẩu, xuất khẩu thực phẩm; quảng cáo, ghi nhãn thực phẩm; kiểm nghiệm thực phẩm; phân tích nguy cơ đối với an toàn thực phẩm; phòng ngừa, ngăn chặn và khắc phục sự cố về an toàn thực phẩm; thông tin, giáo dục, truyền thông về an toàn thực phẩm; trách nhiệm quản lý nhà nước về an toàn thực phẩm."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -1589,6 +1603,13 @@
         "text": "Chính phủ quy định cụ thể đối tượng không thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm."
     },
     {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Thẩm quyền cấp, thu hồi Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm",
+        "text": "Bộ trưởng Bộ Y tế, Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn, Bộ trưởng Bộ Công thương quy định cụ thể thẩm quyền cấp, thu hồi Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm thuộc lĩnh vực được phân công quản lý."
+    },
+    {
         "id": "Điều 36.1",
         "article": "Điều 36",
         "clause": "1",
@@ -2105,6 +2126,13 @@
         "clause": "4b",
         "title": "Hoạt động phân tích nguy cơ đối với an toàn thực phẩm",
         "text": "Thông báo, dự báo nguy cơ đối với an toàn thực phẩm; xây dựng hệ thống thông tin cảnh báo nguy cơ đối với an toàn thực phẩm, các bệnh truyền qua thực phẩm."
+    },
+    {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Trách nhiệm thực hiện phân tích nguy cơ đối với an toàn thực phẩm",
+        "text": "Bộ Y tế, Bộ Nông nghiệp và Phát triển Nông thôn, Bộ Công thương tổ chức việc phân tích nguy cơ đối với an toàn thực phẩm thuộc lĩnh vực được phân công quản lý theo quy định tại Điều 49 và Điều 50 của Luật này. Mục 3 PHÒNG NGỪA, NGĂN CHẶN VÀ KHẮC PHỤC SỰ CỐ VỀ AN TOÀN THỰC PHẨM"
     },
     {
         "id": "Điều 52.1",
@@ -3134,5 +3162,19 @@
         "clause": "2g",
         "title": "Đoàn kiểm tra",
         "text": "Báo cáo chính xác và kịp thời kết quả kiểm tra cho cơ quan quản lý an toàn thực phẩm."
+    },
+    {
+        "id": "Điều 71.0",
+        "article": "Điều 71",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2011. Pháp lệnh vệ sinh an toàn thực phẩm số 12/2003/PL-UBTVQH11 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 72.0",
+        "article": "Điều 72",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

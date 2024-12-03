@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động đầu tư theo phương thức đối tác công tư; quản lý nhà nước, quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đến hoạt động đầu tư theo phương thức đối tác công tư."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với các bên trong hợp đồng đầu tư theo phương thức đối tác công tư, cơ quan quản lý nhà nước và cơ quan, tổ chức, cá nhân có liên quan đến hoạt động đầu tư theo phương thức đối tác công tư."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -1778,6 +1799,13 @@
         "text": "Tài liệu pháp lý khác có liên quan của dự án."
     },
     {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Nội dung quyết định phê duyệt dự án PPP",
+        "text": "Quyết định phê duyệt dự án PPP bao gồm các nội dung chủ yếu sau đây:"
+    },
+    {
         "id": "Điều 23.1",
         "article": "Điều 23",
         "clause": "1",
@@ -2184,6 +2212,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Tư cách hợp lệ của nhà đầu tư",
+        "text": "Nhà đầu tư có tư cách hợp lệ khi đáp ứng các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 29.1",
         "article": "Điều 29",
         "clause": "1",
@@ -2224,6 +2259,13 @@
         "clause": "6",
         "title": "Tư cách hợp lệ của nhà đầu tư",
         "text": "Nhà đầu tư thành lập theo pháp luật nước ngoài phải đáp ứng điều kiện tiếp cận thị trường khi tham gia lựa chọn nhà đầu tư đối với dự án thuộc ngành, nghề tiếp cận thị trường có điều kiện theo quy định của pháp luật về đầu tư."
+    },
+    {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Bảo đảm cạnh tranh trong lựa chọn nhà đầu tư",
+        "text": "Nhà đầu tư tham dự thầu phải độc lập về pháp lý và độc lập về tài chính với các bên sau đây:"
     },
     {
         "id": "Điều 30.1",
@@ -2287,6 +2329,13 @@
         "clause": "3b",
         "title": "Lựa chọn nhà đầu tư trong nước, nhà đầu tư quốc tế",
         "text": "Dự án cần bảo đảm yêu cầu về quốc phòng, an ninh quốc gia, bảo vệ bí mật nhà nước."
+    },
+    {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Ngôn ngữ sử dụng trong lựa chọn nhà đầu tư",
+        "text": "Ngôn ngữ sử dụng trong lựa chọn nhà đầu tư là tiếng Việt đối với lựa chọn nhà đầu tư trong nước; là tiếng Anh hoặc tiếng Việt và tiếng Anh đối với lựa chọn nhà đầu tư quốc tế."
     },
     {
         "id": "Điều 33.1",
@@ -2492,6 +2541,13 @@
         "text": "Đấu thầu rộng rãi phải được áp dụng cho tất cả dự án PPP, trừ trường hợp quy định tại các điều 38, 39 và 40 của Luật này."
     },
     {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Đàm phán cạnh tranh",
+        "text": "Đàm phán cạnh tranh được áp dụng trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 38.1",
         "article": "Điều 38",
         "clause": "1",
@@ -2658,6 +2714,13 @@
         "clause": "4",
         "title": "Phương pháp và tiêu chuẩn đánh giá hồ sơ dự thầu",
         "text": "Chính phủ quy định chi tiết Điều này."
+    },
+    {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Xét duyệt kết quả lựa chọn nhà đầu tư",
+        "text": "Nhà đầu tư được đề nghị lựa chọn khi đáp ứng các điều kiện sau đây:"
     },
     {
         "id": "Điều 43.1",
@@ -3360,6 +3423,20 @@
         "text": "Trường hợp chuyển nhượng theo quy định tại khoản 1 và khoản 2 Điều này làm thay đổi nội dung đăng ký doanh nghiệp thì doanh nghiệp dự án PPP phải thực hiện theo quy định có liên quan của pháp luật về doanh nghiệp."
     },
     {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Pháp luật điều chỉnh hợp đồng dự án PPP",
+        "text": "Hợp đồng dự án PPP và các phụ lục hợp đồng, các văn bản có liên quan khác được ký kết giữa cơ quan nhà nước Việt Nam với nhà đầu tư, doanh nghiệp dự án PPP được điều chỉnh bởi pháp luật Việt Nam. Đối với những vấn đề pháp luật Việt Nam không có quy định, các bên có thể thỏa thuận cụ thể trong hợp đồng dự án PPP trên cơ sở không được trái với các nguyên tắc cơ bản của pháp luật Việt Nam. Chương V TRIỂN KHAI THỰC HIỆN HỢP ĐỒNG DỰ ÁN PPP Mục 1 XÂY DỰNG CÔNG TRÌNH, HỆ THỐNG CƠ SỞ HẠ TẦNG"
+    },
+    {
+        "id": "Điều 56.0",
+        "article": "Điều 56",
+        "clause": "0",
+        "title": "Chuẩn bị mặt bằng xây dựng",
+        "text": "Ủy ban nhân dân cấp tỉnh chủ trì, phối hợp với cơ quan có thẩm quyền, cơ quan ký kết hợp đồng tổ chức bồi thường, hỗ trợ, tái định cư và hoàn thành các thủ tục giao đất, cho thuê đất, bàn giao mặt bằng để thực hiện dự án theo quy định của pháp luật về đất đai, hợp đồng dự án PPP và các hợp đồng liên quan."
+    },
+    {
         "id": "Điều 57.1",
         "article": "Điều 57",
         "clause": "1",
@@ -3400,6 +3477,13 @@
         "clause": "2b",
         "title": "Lập, thẩm định, phê duyệt thiết kế sau thiết kế cơ sở và dự toán",
         "text": "Hồ sơ thẩm định thiết kế, dự toán của cơ quan chuyên môn."
+    },
+    {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Lựa chọn nhà thầu thực hiện dự án PPP",
+        "text": "Doanh nghiệp dự án PPP phải ban hành quy định về lựa chọn nhà thầu để áp dụng thống nhất trong doanh nghiệp trên cơ sở các nguyên tắc sau đây:"
     },
     {
         "id": "Điều 58.1",
@@ -3568,6 +3652,13 @@
         "clause": "3",
         "title": "Xác nhận hoàn thành công trình, hệ thống cơ sở hạ tầng",
         "text": "Chính phủ quy định hồ sơ, thời hạn xác nhận hoàn thành công trình, hệ thống cơ sở hạ tầng. Mục 2 QUẢN LÝ, VẬN HÀNH, KINH DOANH CÔNG TRÌNH, HỆ THỐNG CƠ SỞ HẠ TẦNG"
+    },
+    {
+        "id": "Điều 62.0",
+        "article": "Điều 62",
+        "clause": "0",
+        "title": "Quản lý dự án PPP",
+        "text": "Việc quản lý công trình, hệ thống cơ sở hạ tầng và các tài sản khác trong quá trình thực hiện dự án PPP được thực hiện theo quy định của Luật này, quy định khác của pháp luật có liên quan và hợp đồng dự án PPP."
     },
     {
         "id": "Điều 63.1",
@@ -3885,6 +3976,13 @@
         "text": "Bố trí vào hạng mục cụ thể theo tỷ lệ và giá trị, tiến độ và điều kiện quy định tại hợp đồng."
     },
     {
+        "id": "Điều 71.0",
+        "article": "Điều 71",
+        "clause": "0",
+        "title": "Vốn nhà nước thanh toán cho doanh nghiệp dự án PPP cung cấp sản phẩm, dịch vụ công",
+        "text": "Vốn nhà nước thanh toán cho doanh nghiệp dự án PPP được sử dụng trong hợp đồng BTL, hợp đồng BLT trên cơ sở chất lượng sản phẩm, dịch vụ công được bố trí từ nguồn vốn nhà nước trong dự án PPP và nguồn vốn hợp pháp khác theo quy định của pháp luật"
+    },
+    {
         "id": "Điều 72.1",
         "article": "Điều 72",
         "clause": "1",
@@ -3918,6 +4016,13 @@
         "clause": "3",
         "title": "Chi phí của cơ quan có thẩm quyền, cơ quan ký kết hợp đồng, đơn vị chuẩn bị dự án PPP, bên mời thầu, Hội đồng thẩm định dự án PPP, đơn vị được giao nhiệm vụ thẩm định dự án PPP",
         "text": "Chi phí triển khai thực hiện dự án sau khi ký kết hợp đồng của cơ quan có thẩm quyền, cơ quan ký kết hợp đồng được bố trí từ nguồn vốn chi thường xuyên của các cơ quan này."
+    },
+    {
+        "id": "Điều 74.0",
+        "article": "Điều 74",
+        "clause": "0",
+        "title": "Lập kế hoạch vốn đầu tư công sử dụng trong dự án PPP",
+        "text": "Việc lập kế hoạch vốn đầu tư công sử dụng trong dự án PPP được quy định như sau:"
     },
     {
         "id": "Điều 74.1",
@@ -4044,6 +4149,13 @@
         "clause": "4",
         "title": "Phát hành trái phiếu của doanh nghiệp dự án PPP",
         "text": "Chính phủ quy định chi tiết Điều này. Chương VII ƯU ĐÃI VÀ BẢO ĐẢM ĐẦU TƯ"
+    },
+    {
+        "id": "Điều 79.0",
+        "article": "Điều 79",
+        "clause": "0",
+        "title": "Ưu đãi đầu tư",
+        "text": "Nhà đầu tư, doanh nghiệp dự án PPP được hưởng các ưu đãi về thuế, tiền sử dụng đất, tiền thuê đất và các ưu đãi khác theo quy định của pháp luật về thuế, đất đai, đầu tư và quy định khác của pháp luật có liên quan."
     },
     {
         "id": "Điều 80.1",
@@ -4338,6 +4450,13 @@
         "clause": "6",
         "title": "Nội dung giám sát của cơ quan quản lý nhà nước về đầu tư theo phương thức PPP",
         "text": "Các nội dung khác theo yêu cầu của Quốc hội, Thủ tướng Chính phủ đối với trường hợp quy định tại khoản 1 Điều 86 của Luật này, của Hội đồng nhân dân cấp tỉnh đối với trường hợp quy định tại khoản 2 Điều 86 của Luật này."
+    },
+    {
+        "id": "Điều 88.0",
+        "article": "Điều 88",
+        "clause": "0",
+        "title": "Giám sát của Mặt trận Tổ quốc Việt Nam và cộng đồng",
+        "text": "Mặt trận Tổ quốc Việt Nam các cấp chủ trì tổ chức giám sát và hướng dẫn giám sát đầu tư của cộng đồng nơi thực hiện dự án PPP theo quy định của pháp luật về Mặt trận Tổ quốc Việt Nam và pháp luật về giám sát đầu tư của cộng đồng. Chương IX NHIỆM VỤ, QUYỀN HẠN, TRÁCH NHIỆM CỦA CÁC CƠ QUAN QUẢN LÝ NHÀ NƯỚC TRONG ĐẦU TƯ THEO PHƯƠNG THỨC PPP"
     },
     {
         "id": "Điều 89.1",
@@ -5072,6 +5191,6 @@
         "article": "Điều 101",
         "clause": "7",
         "title": "Quy định chuyển tiếp",
-        "text": "Chính phủ quy định chi tiết Điều này. _____________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 9 thông qua ngày 18 tháng 6 năm 2020."
+        "text": "Chính phủ quy định chi tiết Điều này. _____________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 9 thông qua ngày 18 tháng 6 năm 2020. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân"
     }
 ]

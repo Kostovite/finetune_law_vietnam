@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về đường cơ sở, nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế, thềm lục địa, các đảo, quần đảo Hoàng Sa, quần đảo Trường Sa và quần đảo khác thuộc chủ quyền, quyền chủ quyền, quyền tài phán quốc gia của Việt Nam; hoạt động trong vùng biển Việt Nam; phát triển kinh tế biển; quản lý và bảo vệ biển, đảo."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -12,6 +19,13 @@
         "clause": "2",
         "title": "Áp dụng pháp luật",
         "text": "Trường hợp quy định của Luật này khác với quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên thì áp dụng quy định của điều ước quốc tế đó."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -203,6 +217,34 @@
         "text": "Các bộ, cơ quan ngang bộ, Ủy ban nhân dân tỉnh, thành phố ven biển trực thuộc trung ương trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về biển. CHƯƠNG II VÙNG BIỂN VIỆT NAM"
     },
     {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Xác định đường cơ sở",
+        "text": "Đường cơ sở dùng để tính chiều rộng lãnh hải Việt Nam là đường cơ sở thẳng đã được Chính phủ công bố. Chính phủ xác định và công bố đường cơ sở ở những khu vực chưa có đường cơ sở sau khi được Uỷ ban thường vụ Quốc hội phê chuẩn."
+    },
+    {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Nội thuỷ",
+        "text": "Nội thủy là vùng nước tiếp giáp với bờ biển, ở phía trong đường cơ sở và là bộ phận lãnh thổ của Việt Nam."
+    },
+    {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Chế độ pháp lý của nội thuỷ",
+        "text": "Nhà nước thực hiện chủ quyền hoàn toàn, tuyệt đối và đầy đủ đối với nội thủy như trên lãnh thổ đất liền."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Lãnh hải",
+        "text": "Lãnh hải là vùng biển có chiều rộng 12 hải lý tính từ đường cơ sở ra phía biển. Ranh giới ngoài của lãnh hải là biên giới quốc gia trên biển của Việt Nam."
+    },
+    {
         "id": "Điều 12.1",
         "article": "Điều 12",
         "clause": "1",
@@ -238,6 +280,13 @@
         "text": "Nhà nước có chủ quyền đối với mọi loại hiện vật khảo cổ, lịch sử trong lãnh hải Việt Nam."
     },
     {
+        "id": "Điều 13.0",
+        "article": "Điều 13",
+        "clause": "0",
+        "title": "Vùng tiếp giáp lãnh hải",
+        "text": "Vùng tiếp giáp lãnh hải là vùng biển tiếp liền và nằm ngoài lãnh hải Việt Nam, có chiều rộng 12 hải lý tính từ ranh giới ngoài của lãnh hải."
+    },
+    {
         "id": "Điều 14.1",
         "article": "Điều 14",
         "clause": "1",
@@ -250,6 +299,13 @@
         "clause": "2",
         "title": "Chế độ pháp lý của vùng tiếp giáp lãnh hải",
         "text": "Nhà nước thực hiện kiểm soát trong vùng tiếp giáp lãnh hải nhằm ngăn ngừa và xử lý hành vi vi phạm pháp luật về hải quan, thuế, y tế, xuất nhập cảnh xảy ra trên lãnh thổ hoặc trong lãnh hải Việt Nam."
+    },
+    {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Vùng đặc quyền kinh tế",
+        "text": "Vùng đặc quyền kinh tế là vùng biển tiếp liền và nằm ngoài lãnh hải Việt Nam, hợp với lãnh hải thành một vùng biển có chiều rộng 200 hải lý tính từ đường cơ sở."
     },
     {
         "id": "Điều 16.1",
@@ -299,6 +355,13 @@
         "clause": "4",
         "title": "Chế độ pháp lý của vùng đặc quyền kinh tế",
         "text": "Các quyền có liên quan đến đáy biển và lòng đất dưới đáy biển được thực hiện theo quy định tại Điều 17 và Điều 18 của Luật này."
+    },
+    {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Thềm lục địa",
+        "text": "Thềm lục địa là vùng đáy biển và lòng đất dưới đáy biển, tiếp liền và nằm ngoài lãnh hải Việt Nam, trên toàn bộ phần kéo dài tự nhiên của lãnh thổ đất liền, các đảo và quần đảo của Việt Nam cho đến mép ngoài của rìa lục địa. Trong trường hợp mép ngoài của rìa lục địa này cách đường cơ sở chưa đủ 200 hải lý thì thềm lục địa nơi đó được kéo dài đến 200 hải lý tính từ đường cơ sở. Trong trường hợp mép ngoài của rìa lục địa này vượt quá 200 hải lý tính từ đường cơ sở thì thềm lục địa nơi đó được kéo dài không quá 350 hải lý tính từ đường cơ sở hoặc không quá 100 hải lý tính từ đường đẳng sâu 2.500 mét (m)."
     },
     {
         "id": "Điều 18.1",
@@ -665,6 +728,20 @@
         "text": "Tàu quân sự và tàu thuyền công vụ của nước ngoài khi ở trong nội thủy, cảng, bến hay nơi trú đậu trong nội thuỷ hoặc các công trình cảng, bến hay nơi trú đậu của Việt Nam ở bên ngoài nội thủy Việt Nam phải tuân thủ quy định của Luật này, quy định khác của pháp luật có liên quan và phải hoạt động phù hợp với lời mời của Chính phủ Việt Nam hoặc thỏa thuận với cơ quan có thẩm quyền của Việt Nam."
     },
     {
+        "id": "Điều 28.0",
+        "article": "Điều 28",
+        "clause": "0",
+        "title": "Trách nhiệm của tàu quân sự và tàu thuyền công vụ của nước ngoài trong vùng biển Việt Nam",
+        "text": "Tàu quân sự của nước ngoài khi hoạt động trong vùng biển Việt Nam mà có hành vi vi phạm pháp luật Việt Nam thì lực lượng tuần tra, kiểm soát trên biển của Việt Nam có quyền yêu cầu tàu thuyền đó chấm dứt ngay hành vi vi phạm, rời khỏi lãnh hải Việt Nam ngay lập tức nếu đang ở trong lãnh hải Việt Nam. Tàu thuyền vi phạm phải tuân thủ các yêu cầu, mệnh lệnh của lực lượng tuần tra, kiểm soát trên biển của Việt Nam. Trường hợp tàu quân sự, tàu thuyền công vụ của nước ngoài hoạt động trong vùng biển Việt Nam mà có hành vi vi phạm pháp luật Việt Nam hoặc pháp luật quốc tế có liên quan thì quốc gia mà tàu mang cờ phải chịu trách nhiệm về mọi thiệt hại do tàu thuyền đó gây ra cho Việt Nam."
+    },
+    {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Hoạt động của tàu ngầm và các phương tiện đi ngầm khác của nước ngoài trong nội thuỷ, lãnh hải Việt Nam",
+        "text": "Trong nội thủy, lãnh hải Việt Nam, tàu ngầm và các phương tiện đi ngầm khác của nước ngoài phải hoạt động ở trạng thái nổi trên mặt nước và phải treo cờ quốc tịch, trừ trường hợp được phép của Chính phủ Việt Nam hoặc theo thỏa thuận giữa Chính phủ Việt Nam và chính phủ của quốc gia mà tàu thuyền đó mang cờ."
+    },
+    {
         "id": "Điều 30.1",
         "article": "Điều 30",
         "clause": "1",
@@ -740,6 +817,13 @@
         "clause": "3",
         "title": "Quyền tài phán dân sự đối với tàu thuyền nước ngoài",
         "text": "Lực lượng tuần tra, kiểm soát trên biển có thể áp dụng các biện pháp bắt giữ hay xử lý tàu thuyền nước ngoài nhằm mục đích thực hiện quyền tài phán dân sự nếu tàu thuyền đó đang đậu trong lãnh hải hoặc đi qua lãnh hải sau khi rời khỏi nội thủy Việt Nam."
+    },
+    {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Thông tin liên lạc trong cảng, bến hay nơi trú đậu của Việt Nam",
+        "text": "Tổ chức, cá nhân và tàu thuyền khi ở trong các cảng, bến hay nơi trú đậu trong nội thuỷ hay trong công trình cảng, bến hay nơi trú đậu của Việt Nam ở bên ngoài nội thủy Việt Nam chỉ được tiến hành thông tin liên lạc theo đúng các quy định của pháp luật Việt Nam và pháp luật quốc tế có liên quan."
     },
     {
         "id": "Điều 33.1",
@@ -931,6 +1015,13 @@
         "text": "Nhà nước Việt Nam có quyền tham gia hoạt động nghiên cứu khoa học của nước ngoài trong vùng biển Việt Nam và có quyền được chia sẻ các tài liệu, mẫu vật gốc, sử dụng và khai thác các kết quả khoa học thu được từ các hoạt động nghiên cứu, khảo sát đó."
     },
     {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Quy định cấm trong vùng đặc quyền kinh tế và thềm lục địa Việt Nam",
+        "text": "Khi thực hiện quyền tự do hàng hải, tự do hàng không trong vùng đặc quyền kinh tế và thềm lục địa Việt Nam, tổ chức, cá nhân không được tiến hành các hoạt động sau đây:"
+    },
+    {
         "id": "Điều 37.1",
         "article": "Điều 37",
         "clause": "1",
@@ -994,6 +1085,13 @@
         "text": "Các hoạt động bất hợp pháp khác theo quy định của pháp luật Việt Nam và pháp luật quốc tế."
     },
     {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Cấm tàng trữ, sử dụng, mua bán trái phép vũ khí, chất nổ, chất độc hại",
+        "text": "Khi hoạt động trong vùng biển Việt Nam, tàu thuyền, tổ chức, cá nhân không được tàng trữ, sử dụng, mua bán trái phép vũ khí hoặc chất nổ, chất độc hại cũng như các loại phương tiện thiết bị khác có khả năng gây hại đối với người, tài nguyên và ô nhiễm môi trường biển."
+    },
+    {
         "id": "Điều 39.1",
         "article": "Điều 39",
         "clause": "1",
@@ -1006,6 +1104,13 @@
         "clause": "2",
         "title": "Cấm mua bán người, mua bán, vận chuyển, tàng trữ trái phép chất ma túy",
         "text": "Khi có căn cứ về việc tàu thuyền, tổ chức, cá nhân đang mua bán người hoặc vận chuyển, tàng trữ, mua bán trái phép các chất ma túy thì lực lượng tuần tra, kiểm soát trên biển của Việt Nam có quyền tiến hành khám xét, kiểm tra, bắt giữ, dẫn giải về các cảng, bến hay nơi trú đậu của Việt Nam hoặc dẫn giải, chuyển giao đến các cảng, bến hay nơi trú đậu của nước ngoài theo quy định của pháp luật Việt Nam hoặc điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên để xử lý."
+    },
+    {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Cấm phát sóng trái phép",
+        "text": "Khi hoạt động trong vùng biển Việt Nam, tàu thuyền, tổ chức, cá nhân không được phát sóng trái phép hoặc tuyên truyền, gây phương hại cho quốc phòng, an ninh của Việt Nam."
     },
     {
         "id": "Điều 41.1",
@@ -1027,6 +1132,13 @@
         "clause": "3",
         "title": "Quyền truy đuổi tàu thuyền nước ngoài",
         "text": "Việc truy đuổi của các lực lượng tuần tra, kiểm soát Việt Nam chấm dứt khi tàu thuyền bị truy đuổi đi vào lãnh hải của quốc gia khác. CHƯƠNG IV PHÁT TRIỂN KINH TẾ BIỂN"
+    },
+    {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Nguyên tắc phát triển kinh tế biển",
+        "text": "Phát triển kinh tế biển bền vững, hiệu quả theo các nguyên tắc sau đây:"
     },
     {
         "id": "Điều 42.1",
@@ -1055,6 +1167,13 @@
         "clause": "4",
         "title": "Nguyên tắc phát triển kinh tế biển",
         "text": "Gắn với phát triển kinh tế - xã hội của các địa phương ven biển và hải đảo."
+    },
+    {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Phát triển các ngành kinh tế biển",
+        "text": "Nhà nước ưu tiên tập trung phát triển các ngành kinh tế biển sau đây:"
     },
     {
         "id": "Điều 43.1",
@@ -1316,6 +1435,13 @@
         "text": "Nhà nước bảo đảm những điều kiện cần thiết để các lực lượng tuần tra, kiểm soát trên biển hoàn thành nhiệm vụ được giao."
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Cờ, sắc phục và phù hiệu",
+        "text": "Khi thi hành nhiệm vụ, tàu thuyền thuộc lực lượng tuần tra, kiểm soát trên biển phải được trang bị đầy đủ quốc kỳ Việt Nam, số hiệu, cờ hiệu; cá nhân thuộc lực lượng tuần tra, kiểm soát trên biển được trang bị đầy đủ quân phục, trang phục của lực lượng cùng với các dấu hiệu đặc trưng khác theo quy định của pháp luật. CHƯƠNG VI XỬ LÝ VI PHẠM"
+    },
+    {
         "id": "Điều 50.1",
         "article": "Điều 50",
         "clause": "1",
@@ -1342,5 +1468,33 @@
         "clause": "2",
         "title": "Biện pháp ngăn chặn",
         "text": "Việc bắt, tạm giữ, tạm giam người có hành vi vi phạm pháp luật, việc tạm giữ tàu thuyền được thực hiện theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 52.0",
+        "article": "Điều 52",
+        "clause": "0",
+        "title": "Thông báo cho Bộ Ngoại giao",
+        "text": "Khi tiến hành bắt, tạm giữ, tạm giam người có hành vi vi phạm pháp luật, hoặc tạm giữ tàu thuyền nước ngoài, lực lượng tuần tra, kiểm soát trên biển hoặc cơ quan nhà nước có thẩm quyền có trách nhiệm thông báo ngay cho Bộ Ngoại giao để phối hợp xử lý."
+    },
+    {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Xử lý vi phạm",
+        "text": "Cơ quan, tổ chức, cá nhân có hành vi vi phạm các quy định của Luật này thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật; cá nhân vi phạm có thể bị truy cứu trách nhiệm hình sự theo quy định của pháp luật. CHƯƠNG VII ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 54.0",
+        "article": "Điều 54",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2013."
+    },
+    {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 3 thông qua ngày 21 tháng 6 năm 2012. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Thanh niên",
+        "text": "Thanh niên là công dân Việt Nam từ đủ 16 tuổi đến 30 tuổi."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quyền, nghĩa vụ và trách nhiệm của thanh niên; chính sách của Nhà nước đối với thanh niên; trách nhiệm của cơ quan, tổ chức thanh niên, tổ chức khác, cơ sở giáo dục, gia đình và cá nhân đối với thanh niên; quản lý nhà nước về thanh niên."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với thanh niên; cơ quan, tổ chức, cơ sở giáo dục, gia đình và cá nhân."
+    },
+    {
         "id": "Điều 4.1",
         "article": "Điều 4",
         "clause": "1",
@@ -173,6 +194,13 @@
         "clause": "4",
         "title": "Đối thoại với thanh niên",
         "text": "Chính phủ quy định chi tiết Điều này."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Áp dụng điều ước quốc tế về quyền trẻ em đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi",
+        "text": "Nhà nước áp dụng điều ước quốc tế về quyền trẻ em mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên đối với thanh niên từ đủ 16 tuổi đến dưới 18 tuổi phù hợp với điều kiện của Việt Nam. Chương II TRÁCH NHIỆM CỦA THANH NIÊN"
     },
     {
         "id": "Điều 12.1",
@@ -959,6 +987,13 @@
         "text": "Ban hành chính sách hỗ trợ, khuyến khích tổ chức, cá nhân tham gia thực hiện chính sách đối với thanh niên."
     },
     {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Trách nhiệm của Chính phủ",
+        "text": "Chính phủ thống nhất quản lý nhà nước về thanh niên và có trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 37.1",
         "article": "Điều 37",
         "clause": "1",
@@ -985,6 +1020,13 @@
         "clause": "4",
         "title": "Trách nhiệm của Chính phủ",
         "text": "Báo cáo kết quả thực hiện chính sách, pháp luật đối với thanh niên theo yêu cầu của Quốc hội."
+    },
+    {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Nội vụ",
+        "text": "Bộ Nội vụ chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về thanh niên và có trách nhiệm sau đây:"
     },
     {
         "id": "Điều 38.1",
@@ -1041,6 +1083,13 @@
         "clause": "8",
         "title": "Trách nhiệm của Bộ Nội vụ",
         "text": "Chủ trì, phối hợp với các cơ quan có liên quan quản lý hoạt động hợp tác quốc tế về thanh niên theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Trách nhiệm của các Bộ, cơ quan ngang Bộ",
+        "text": "Các Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, phối hợp với Bộ Nội vụ thực hiện quản lý nhà nước về thanh niên và có trách nhiệm sau đây:"
     },
     {
         "id": "Điều 39.1",
@@ -1187,6 +1236,6 @@
         "article": "Điều 41",
         "clause": "2",
         "title": "Hiệu lực thi hành",
-        "text": "Luật Thanh niên số 53/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. __________________________________________________________________________________________________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 9 thông qua ngày 16 tháng 6 năm 2020."
+        "text": "Luật Thanh niên số 53/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. __________________________________________________________________________________________________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 9 thông qua ngày 16 tháng 6 năm 2020. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân"
     }
 ]

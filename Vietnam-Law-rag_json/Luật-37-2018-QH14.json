@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về nguyên tắc tổ chức, hoạt động; vị trí, chức năng, nhiệm vụ, quyền hạn; bảo đảm điều kiện hoạt động, chế độ, chính sách đối với Công an nhân dân; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -42,6 +56,13 @@
         "text": "Công nhân công an là công dân Việt Nam có trình độ chuyên môn kỹ thuật, được tuyển dụng vào làm việc trong Công an nhân dân mà không thuộc diện được phong cấp bậc hàm sĩ quan, hạ sĩ quan, chiến sĩ."
     },
     {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Vị trí của Công an nhân dân",
+        "text": "Công an nhân dân là lực lượng vũ trang nhân dân làm nòng cốt trong thực hiện nhiệm vụ bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm và vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội."
+    },
+    {
         "id": "Điều 4.1",
         "article": "Điều 4",
         "clause": "1",
@@ -75,6 +96,13 @@
         "clause": "2",
         "title": "Xây dựng Công an nhân dân",
         "text": "Cơ quan, tổ chức và công dân có trách nhiệm tham gia xây dựng Công an nhân dân trong sạch, vững mạnh."
+    },
+    {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Ngày truyền thống của Công an nhân dân",
+        "text": "Ngày 19 tháng 8 hằng năm là ngày truyền thống của Công an nhân dân và là ngày hội “Toàn dân bảo vệ an ninh Tổ quốc”."
     },
     {
         "id": "Điều 7.1",
@@ -159,6 +187,13 @@
         "clause": "2",
         "title": "Giám sát hoạt động của Công an nhân dân",
         "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tuyên truyền, vận động mọi tầng lớp nhân dân tham gia phong trào toàn dân bảo vệ an ninh Tổ quốc, phối hợp, cộng tác, hỗ trợ Công an nhân dân thực hiện nhiệm vụ và xây dựng Công an nhân dân, giám sát việc thực hiện pháp luật về Công an nhân dân."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Quan hệ phối hợp giữa Quân đội nhân dân, Dân quân tự vệ với Công an nhân dân",
+        "text": "Quân đội nhân dân, Dân quân tự vệ có trách nhiệm phối hợp chặt chẽ với Công an nhân dân để bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm, vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội và xây dựng Công an nhân dân. Chính phủ quy định chi tiết Điều này."
     },
     {
         "id": "Điều 12.1",
@@ -348,6 +383,13 @@
         "clause": "3",
         "title": "Trách nhiệm và chế độ, chính sách đối với cơ quan, tổ chức, cá nhân tham gia, phối hợp, cộng tác, hỗ trợ Công an nhân dân",
         "text": "Cơ quan, tổ chức, cá nhân tham gia, phối hợp, cộng tác, hỗ trợ Công an nhân dân trong bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm và vi phạm pháp luật có thành tích thì được khen thưởng; bị tổn hại về danh dự thì được khôi phục, bị thiệt hại về tài sản thì được đền bù; người bị thương tích, tổn hại về sức khỏe, tính mạng thì bản thân, gia đình được hưởng chế độ, chính sách theo quy định của pháp luật. Chương II CHỨC NĂNG, NHIỆM VỤ VÀ QUYỀN HẠN CỦA CÔNG AN NHÂN DÂN"
+    },
+    {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Chức năng của Công an nhân dân",
+        "text": "Công an nhân dân có chức năng tham mưu với Đảng, Nhà nước về bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm và vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội; thực hiện quản lý nhà nước về bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, đấu tranh phòng, chống tội phạm và vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội; đấu tranh phòng, chống âm mưu, hoạt động của các thế lực thù địch, các loại tội phạm và vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội."
     },
     {
         "id": "Điều 16.1",
@@ -1302,6 +1344,20 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Trang bị vũ khí, vật liệu nổ, công cụ hỗ trợ, thiết bị, phương tiện kỹ thuật nghiệp vụ, phương tiện khác",
+        "text": "Công an nhân dân được Nhà nước trang bị vũ khí, vật liệu nổ, công cụ hỗ trợ, thiết bị, phương tiện kỹ thuật nghiệp vụ, phương tiện khác phù hợp với nhiệm vụ được giao."
+    },
+    {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Trang phục, công an hiệu, cờ hiệu, cấp hiệu, phù hiệu, giấy chứng minh Công an nhân dân",
+        "text": "Trang phục, công an hiệu, cờ hiệu, cấp hiệu, phù hiệu, giấy chứng minh Công an nhân dân do Chính phủ quy định."
+    },
+    {
         "id": "Điều 37.1",
         "article": "Điều 37",
         "clause": "1",
@@ -1656,6 +1712,6 @@
         "article": "Điều 46",
         "clause": "2",
         "title": "Điều khoản chuyển tiếp",
-        "text": "Đối với xã, thị trấn chưa tổ chức công an chính quy thì các quy định về Công an xã tiếp tục được áp dụng theo Pháp lệnh Công an xã số 06/2008/PL-UBTVQH12, Luật Cán bộ, công chức số 22/2008/QH12 và Luật Tổ chức chính quyền địa phương số 77/2015/QH13. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua ngày 20 tháng 11 năm 2018."
+        "text": "Đối với xã, thị trấn chưa tổ chức công an chính quy thì các quy định về Công an xã tiếp tục được áp dụng theo Pháp lệnh Công an xã số 06/2008/PL-UBTVQH12, Luật Cán bộ, công chức số 22/2008/QH12 và Luật Tổ chức chính quyền địa phương số 77/2015/QH13. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua ngày 20 tháng 11 năm 2018. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

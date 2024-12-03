@@ -1,5 +1,33 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về nguyên tắc, điều kiện, phạm vi, hình thức hành nghề, tiêu chuẩn, quyền, nghĩa vụ của luật sư, tổ chức hành nghề luật sư, tổ chức xã hội - nghề nghiệp của luật sư, quản lý hành nghề luật sư, hành nghề của tổ chức hành nghề luật sư nước ngoài, luật sư nước ngoài tại Việt Nam."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Luật sư",
+        "text": "Luật sư là người có đủ tiêu chuẩn, điều kiện hành nghề theo quy định của Luật này, thực hiện dịch vụ pháp lý theo yêu cầu của cá nhân, cơ quan, tổ chức (sau đây gọi chung là khách hàng)."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Chức năng xã hội của luật sư",
+        "text": "Hoạt động nghề nghiệp của luật sư nhằm góp phần bảo vệ công lý, phát triển kinh tế và xây dựng xã hội công bằng, dân chủ, văn minh."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Dịch vụ pháp lý của luật sư",
+        "text": "Dịch vụ pháp lý của luật sư bao gồm tham gia tố tụng, tư vấn pháp luật, đại diện ngoài tố tụng cho khách hàng và các dịch vụ pháp lý khác."
+    },
+    {
         "id": "Điều 5.1",
         "article": "Điều 5",
         "clause": "1",
@@ -33,6 +61,27 @@
         "clause": "5",
         "title": "Nguyên tắc hành nghề luật sư",
         "text": "Chịu trách nhiệm trước pháp luật về hoạt động nghề nghiệp luật sư."
+    },
+    {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Nguyên tắc quản lý hành nghề luật sư",
+        "text": "Quản lý hành nghề luật sư được thực hiện theo nguyên tắc kết hợp quản lý nhà nước với phát huy vai trò tự quản của tổ chức xã hội - nghề nghiệp của luật sư, bảo đảm việc tuân theo pháp luật, quy tắc đạo đức và ứng xử nghề nghiệp của luật sư."
+    },
+    {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Tổ chức xã hội - nghề nghiệp của luật sư",
+        "text": "Tổ chức xã hội - nghề nghiệp của luật sư được thành lập để đại diện, bảo vệ quyền, lợi ích hợp pháp của luật sư, bồi dưỡng chuyên môn, nghiệp vụ luật sư, giám sát việc tuân theo pháp luật, quy tắc đạo đức và ứng xử nghề nghiệp luật sư, thực hiện quản lý hành nghề luật sư theo quy định của Luật này. Tổ chức xã hội - nghề nghiệp của luật sư là Đoàn luật sư ở tỉnh, thành phố trực thuộc trung ương và tổ chức luật sư toàn quốc."
+    },
+    {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Khuyến khích hoạt động trợ giúp pháp lý miễn phí",
+        "text": "Nhà nước khuyến khích luật sư và tổ chức hành nghề luật sư tham gia hoạt động trợ giúp pháp lý miễn phí."
     },
     {
         "id": "Điều 9.1",
@@ -96,6 +145,20 @@
         "clause": "2",
         "title": "Các hành vi bị nghiêm cấm",
         "text": "Nghiêm cấm cơ quan, tổ chức, cá nhân có hành vi cản trở hoạt động hành nghề của luật sư. CHƯƠNG II LUẬT SƯ"
+    },
+    {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Tiêu chuẩn luật sư",
+        "text": "Công dân Việt Nam trung thành với Tổ quốc, tuân thủ Hiến pháp và pháp luật, có phẩm chất đạo đức tốt, có bằng cử nhân luật, đã được đào tạo nghề luật sư, đã qua thời gian tập sự hành nghề luật sư, có sức khoẻ bảo đảm hành nghề luật sư thì có thể trở thành luật sư."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Điều kiện hành nghề luật sư",
+        "text": "Người có đủ tiêu chuẩn quy định tại Điều 10 của Luật này muốn được hành nghề luật sư phải có Chứng chỉ hành nghề luật sư và gia nhập một Đoàn luật sư."
     },
     {
         "id": "Điều 12.1",
@@ -1309,6 +1372,13 @@
         "text": "Giấy tờ chứng minh về trụ sở của chi nhánh."
     },
     {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Văn phòng giao dịch của tổ chức hành nghề luật sư",
+        "text": "Văn phòng giao dịch của tổ chức hành nghề luật sư được thành lập trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi tổ chức hành nghề luật sư đăng ký hoạt động. Văn phòng giao dịch là nơi tiếp nhận vụ, việc, yêu cầu của khách hàng. Văn phòng giao dịch không được phép thực hiện việc cung cấp dịch vụ pháp lý. Trong thời hạn năm ngày làm việc, kể từ ngày thành lập văn phòng giao dịch, tổ chức hành nghề luật sư phải thông báo bằng văn bản về địa chỉ của văn phòng giao dịch cho Sở Tư pháp, Đoàn luật sư ở địa phương nơi đăng ký hoạt động. Sở Tư pháp ghi địa chỉ của văn phòng giao dịch vào Giấy đăng ký hoạt động của tổ chức hành nghề luật sư."
+    },
+    {
         "id": "Điều 43.1",
         "article": "Điều 43",
         "clause": "1",
@@ -1328,6 +1398,20 @@
         "clause": "3",
         "title": "Đặt cơ sở hành nghề luật sư ở nước ngoài",
         "text": "Khi chấm dứt hoạt động của cơ sở hành nghề luật sư ở nước ngoài thì trong thời hạn bảy ngày làm việc, kể từ ngày chấm dứt hoạt động, tổ chức hành nghề luật sư phải thông báo bằng văn bản với Sở Tư pháp, cơ quan thuế, Đoàn luật sư ở địa phương nơi đăng ký hoạt động."
+    },
+    {
+        "id": "Điều 44.0",
+        "article": "Điều 44",
+        "clause": "0",
+        "title": "Cử luật sư thực hiện dịch vụ pháp lý ở nước ngoài",
+        "text": "Tổ chức hành nghề luật sư được cử luật sư thực hiện dịch vụ pháp lý ở nước ngoài theo yêu cầu của khách hàng. Luật sư thực hiện dịch vụ pháp lý ở nước ngoài phải tuân theo quy định của Luật này và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 45.0",
+        "article": "Điều 45",
+        "clause": "0",
+        "title": "Hợp nhất, sáp nhập công ty luật",
+        "text": "Các công ty luật cùng loại có thể hợp nhất hoặc sáp nhập. Việc hợp nhất, sáp nhập công ty luật được thực hiện theo quy định của Luật doanh nghiệp."
     },
     {
         "id": "Điều 46.1",
@@ -1561,6 +1645,13 @@
         "text": "Luật sư được hành nghề với tư cách cá nhân kể từ ngày được cấp Giấy đăng ký hành nghề luật sư. Trong thời hạn bảy ngày làm việc, kể từ ngày được cấp Giấy đăng ký hành nghề luật sư, luật sư hành nghề với tư cách cá nhân phải gửi thông báo bằng văn bản kèm theo bảo sao Giấy đăng ký hành nghề luật sư cho Đoàn luật sư mà mình là thành viên."
     },
     {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Thay đổi, cung cấp thông tin về nội dung đăng ký hành nghề luật sư với tư cách cá nhân",
+        "text": "Việc thay đổi nội dung đăng ký hành nghề luật sư, cung cấp thông tin về nội dung đăng ký hành nghề luật sư của luật sư hành nghề với tư cách cá nhân được thực hiện theo quy định tại Điều 36 và Điều 37 của Luật này."
+    },
+    {
         "id": "Điều 52.1",
         "article": "Điều 52",
         "clause": "1",
@@ -1659,6 +1750,13 @@
         "text": "Quyền, nghĩa vụ của luật sư hành nghề với tư cách cá nhân làm việc theo hợp đồng lao động, của cơ quan, tổ chức thuê luật sư được thực hiện theo quy định của pháp luật về lao động, Luật này và quy định khác của pháp luật có liên quan. CHƯƠNG IV THÙ LAO VÀ CHI PHÍ; TIỀN LƯƠNG THEO HỢP ĐỒNG LAO ĐỘNG"
     },
     {
+        "id": "Điều 54.0",
+        "article": "Điều 54",
+        "clause": "0",
+        "title": "Thù lao luật sư",
+        "text": "Khách hàng phải trả thù lao khi sử dụng dịch vụ pháp lý của luật sư. Việc nhận thù lao được thực hiện theo quy định của Luật này và quy định khác của pháp luật có liên quan."
+    },
+    {
         "id": "Điều 55.1",
         "article": "Điều 55",
         "clause": "1",
@@ -1734,6 +1832,20 @@
         "clause": "2",
         "title": "Thù lao, chi phí trong trường hợp luật sư cung cấp dịch vụ pháp lý theo hợp đồng dịch vụ pháp lý",
         "text": "Tiền tàu xe, lưu trú và các chi phí hợp lý khác cho việc thực hiện dịch vụ pháp lý do các bên thoả thuận trong hợp đồng dịch vụ pháp lý."
+    },
+    {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Thù lao, chi phí trong trường hợp luật sư tham gia tố tụng theo yêu cầu của cơ quan tiến hành tố tụng",
+        "text": "Luật sư tham gia tố tụng trong vụ án hình sự theo yêu cầu của cơ quan tiến hành tố tụng được nhận thù lao và được thanh toán chi phí theo quy định của Chính phủ."
+    },
+    {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Tiền lương theo hợp đồng lao động của luật sư hành nghề với tư cách cá nhân",
+        "text": "Luật sư hành nghề với tư cách cá nhân làm việc cho cơ quan, tổ chức theo hợp đồng lao động được nhận tiền lương theo thoả thuận trong hợp đồng lao động. Việc thoả thuận, chi trả tiền lương được thực hiện theo quy định của pháp luật về lao động."
     },
     {
         "id": "Điều 59.1",
@@ -2240,6 +2352,13 @@
         "text": "Trong thời hạn bảy ngày làm việc, kể từ ngày được thông qua, Hội đồng luật sư toàn quốc gửi Điều lệ của tổ chức luật sư toàn quốc tới Bộ Tư pháp. Trong thời hạn ba mươi ngày, kể từ ngày nhận được Điều lệ của tổ chức luật sư toàn quốc, Bộ trưởng Bộ Tư pháp phê duyệt Điều lệ sau khi thống nhất với Bộ trưởng Bộ Nội vụ. Điều lệ của tổ chức luật sư toàn quốc có hiệu lực kể từ ngày được phê duyệt. CHƯƠNG VI HÀNH NGHỀ CỦA TỔ CHỨC HÀNH NGHỀ LUẬT SƯ NƯỚC NGOÀI, LUẬT SƯ  NƯỚC NGOÀI TẠI VIỆT NAM MỤC 1 HÀNH NGHỀ CỦA TỔ CHỨC HÀNH NGHỀ LUẬT SƯ NƯỚC NGOÀI TẠI VIỆT NAM"
     },
     {
+        "id": "Điều 68.0",
+        "article": "Điều 68",
+        "clause": "0",
+        "title": "Điều kiện hành nghề của tổ chức hành nghề luật sư nước ngoài",
+        "text": "Tổ chức hành nghề luật sư nước ngoài đã được thành lập và đang hành nghề luật sư hợp pháp tại nước ngoài, tôn trọng Hiến pháp và pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam thì được phép hành nghề tại Việt Nam theo quy định của Luật này."
+    },
+    {
         "id": "Điều 69.1",
         "article": "Điều 69",
         "clause": "1",
@@ -2266,6 +2385,13 @@
         "clause": "2",
         "title": "Hình thức hành nghề của tổ chức hành nghề luật sư nước ngoài",
         "text": "Chi nhánh, công ty luật nước ngoài được tổ chức, hoạt động theo quy định của Luật này, pháp luật về doanh nghiệp, pháp luật về đầu tư và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Phạm vi hành nghề của tổ chức hành nghề luật sư nước ngoài",
+        "text": "Chi nhánh, công ty luật nước ngoài hành nghề tại Việt Nam được thực hiện tư vấn pháp luật và các dịch vụ pháp lý khác, không được cử luật sư nước ngoài tham gia tố tụng với tư cách là người bào chữa, người bảo vệ quyền lợi của đương sự, người đại diện, người bảo vệ quyền, lợi ích hợp pháp của đương sự trước cơ quan tiến hành tố tụng của Việt Nam, được cử luật sư Việt Nam trong tổ chức hành nghề của mình tư vấn pháp luật Việt Nam, tham gia tố tụng với tư cách là người đại diện, người bảo vệ quyền, lợi ích hợp pháp của đương sự cho khách hàng trước Toà án Việt Nam đối với các vụ, việc mà chi nhánh, công ty luật nước ngoài thực hiện tư vấn pháp luật, trừ vụ án hình sự."
     },
     {
         "id": "Điều 71.1",
@@ -2408,6 +2534,13 @@
         "text": "Các nghĩa vụ khác theo quy định của Luật này, pháp luật về doanh nghiệp, pháp luật về đầu tư và quy định khác của pháp luật có liên quan."
     },
     {
+        "id": "Điều 74.0",
+        "article": "Điều 74",
+        "clause": "0",
+        "title": "Điều kiện hành nghề của luật sư nước ngoài",
+        "text": "Luật sư nước ngoài đáp ứng đủ các điều kiện sau đây thì được cấp Giấy phép hành nghề luật sư tại Việt Nam:"
+    },
+    {
         "id": "Điều 74.1",
         "article": "Điều 74",
         "clause": "1",
@@ -2429,6 +2562,13 @@
         "text": "Được tổ chức hành nghề luật sư nước ngoài cử vào hành nghề tại Việt Nam hoặc được chi nhánh, công ty luật nước ngoài tại Việt Nam, tổ chức hành nghề luật sư của Việt Nam đồng ý tuyển dụng vào làm việc tại các tổ chức đó."
     },
     {
+        "id": "Điều 75.0",
+        "article": "Điều 75",
+        "clause": "0",
+        "title": "Hình thức hành nghề của luật sư nước ngoài",
+        "text": "Luật sư nước ngoài hành nghề tại Việt Nam dưới các hình thức sau đây:"
+    },
+    {
         "id": "Điều 75.1",
         "article": "Điều 75",
         "clause": "1",
@@ -2441,6 +2581,13 @@
         "clause": "2",
         "title": "Hình thức hành nghề của luật sư nước ngoài",
         "text": "Làm việc theo hợp đồng cho chi nhánh, công ty luật nước ngoài, tổ chức hành nghề luật sư Việt Nam."
+    },
+    {
+        "id": "Điều 76.0",
+        "article": "Điều 76",
+        "clause": "0",
+        "title": "Phạm vi hành nghề của luật sư nước ngoài",
+        "text": "Luật sư nước ngoài hành nghề tại Việt Nam được tư vấn về pháp luật nước ngoài và pháp luật quốc tế, được thực hiện các dịch vụ pháp lý khác liên quan đến pháp luật nước ngoài, được tư vấn pháp luật Việt Nam trong trường hợp có bằng cử nhân luật của Việt Nam và đáp ứng đầy đủ các yêu cầu tương tự như đối với một luật sư Việt Nam, không được tham gia tố tụng với tư cách là người bào chữa, người bảo vệ quyền lợi của đương sự, người đại diện, người bảo vệ quyền, lợi ích hợp pháp của đương sự trước cơ quan tiến hành tố tụng của Việt Nam."
     },
     {
         "id": "Điều 77.1",
@@ -3038,6 +3185,13 @@
         "text": "Các nhiệm vụ, quyền hạn khác theo quy định của pháp luật."
     },
     {
+        "id": "Điều 84.0",
+        "article": "Điều 84",
+        "clause": "0",
+        "title": "Trách nhiệm tự quản của tổ chức xã hội - nghề nghiệp của luật sư",
+        "text": "Tổ chức xã hội - nghề nghiệp của luật sư thực hiện tự quản luật sư và hành nghề luật sư theo quy định của Luật này và Điều lệ của mình. Tổ chức xã hội - nghề nghiệp của luật sư phối hợp với các cơ quan quản lý nhà nước trong việc quản lý luật sư và hành nghề luật sư. CHƯƠNG VIII XỬ LÝ VI PHẠM, GIẢI QUYẾT TRANH CHẤP MỤC 1 XỬ LÝ KỶ LUẬT LUẬT SƯ, GIẢI QUYẾT TRANH CHẤP"
+    },
+    {
         "id": "Điều 85.1",
         "article": "Điều 85",
         "clause": "1",
@@ -3122,6 +3276,34 @@
         "text": "Cá nhân, tổ chức có quyền khiếu nại đối với quyết định, hành vi của các cơ quan của tổ chức luật sư toàn quốc khi có căn cứ cho rằng quyết định, hành vi đó là xâm phạm quyền, lợi ích hợp pháp của mình. Ban thường vụ tổ chức luật sư toàn quốc có thẩm quyền giải quyết khiếu nại đối với quyết định, hành vi của các cơ quan của tổ chức luật sư toàn quốc."
     },
     {
+        "id": "Điều 88.0",
+        "article": "Điều 88",
+        "clause": "0",
+        "title": "Giải quyết tranh chấp",
+        "text": "Trong trường hợp giữa khách hàng và luật sư, tổ chức hành nghề luật sư có tranh chấp liên quan đến hoạt động hành nghề luật sư thì Ban chủ nhiệm Đoàn luật sư có trách nhiệm hoà giải tranh chấp đó. MỤC 2 XỬ LÝ VI PHẠM ĐỐI VỚI LUẬT SƯ, TỔ CHỨC HÀNH NGHỀ LUẬT SƯ"
+    },
+    {
+        "id": "Điều 89.0",
+        "article": "Điều 89",
+        "clause": "0",
+        "title": "Xử lý vi phạm đối với luật sư",
+        "text": "Luật sư vi phạm quy định của Luật này, ngoài việc bị xử lý kỷ luật thì tuỳ theo tính chất, mức độ vi phạm còn bị xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 90.0",
+        "article": "Điều 90",
+        "clause": "0",
+        "title": "Xử lý vi phạm đối với tổ chức hành nghề luật sư của Việt Nam, chi nhánh của tổ chức hành nghề luật sư nước ngoài, công ty luật nước ngoài tại Việt Nam",
+        "text": "Tổ chức hành nghề luật sư của Việt Nam, chi nhánh của tổ chức hành nghề luật sư nước ngoài, công ty luật nước ngoài tại Việt Nam vi phạm quy định của Luật này thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý hành chính theo quy định của pháp luật về xử lý vi phạm hành chính; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 91.0",
+        "article": "Điều 91",
+        "clause": "0",
+        "title": "Xử lý vi phạm đối với các hành vi xâm phạm quyền, lợi ích hợp pháp của luật sư, tổ chức hành nghề luật sư",
+        "text": "Người có chức vụ, quyền hạn mà có hành vi xâm phạm quyền, lợi ích hợp pháp của luật sư, tổ chức hành nghề luật sư hoặc cản trở luật sư, tổ chức hành nghề luật sư thực hiện quyền, nghĩa vụ thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 92.1",
         "article": "Điều 92",
         "clause": "1",
@@ -3134,5 +3316,19 @@
         "clause": "2",
         "title": "Xử lý vi phạm đối với cá nhân, tổ chức hành nghề luật sư bất hợp pháp",
         "text": "Tổ chức không đủ điều kiện hành nghề luật sư mà hành nghề luật sư dưới bất kỳ hình thức nào thì bị buộc phải chấm dứt hành vi vi phạm, bị xử lý theo quy định của pháp luật về xử lý vi phạm hành chính; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. CHƯƠNG IX ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 93.0",
+        "article": "Điều 93",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2007. Pháp lệnh luật sư năm 2001 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 94.0",
+        "article": "Điều 94",
+        "clause": "0",
+        "title": "Hướng dẫn thi hành",
+        "text": "Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong phạm vi chức năng, nhiệm vụ của mình quy định chi tiết, hướng dẫn thi hành Luật này. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XI, kỳ họp thứ 9 thông qua ngày 29 tháng 6 năm 2006. Chủ tịch Quốc hội Nguyễn Phú Trọng"
     }
 ]

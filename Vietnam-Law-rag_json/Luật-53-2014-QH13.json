@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về công chứng viên, tổ chức hành nghề công chứng, việc hành nghề công chứng, thủ tục công chứng và quản lý nhà nước về công chứng."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -33,6 +47,13 @@
         "clause": "5",
         "title": "Giải thích từ ngữ",
         "text": "Tổ chức hành nghề công chứng bao gồm Phòng công chứng và Văn phòng công chứng được tổ chức và hoạt động theo quy định của Luật này và các văn bản quy phạm pháp luật khác có liên quan."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Chức năng xã hội của công chứng viên",
+        "text": "Công chứng viên cung cấp dịch vụ công do Nhà nước ủy nhiệm thực hiện nhằm bảo đảm an toàn pháp lý cho các bên tham gia hợp đồng, giao dịch; phòng ngừa tranh chấp; góp phần bảo vệ quyền, lợi ích hợp pháp của cá nhân, tổ chức; ổn định và phát triển kinh tế - xã hội."
     },
     {
         "id": "Điều 4.1",
@@ -89,6 +110,13 @@
         "clause": "4",
         "title": "Giá trị pháp lý của văn bản công chứng",
         "text": "Bản dịch được công chứng có giá trị sử dụng như giấy tờ, văn bản được dịch."
+    },
+    {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Tiếng nói và chữ viết dùng trong công chứng",
+        "text": "Tiếng nói và chữ viết dùng trong công chứng là tiếng Việt."
     },
     {
         "id": "Điều 7.1",
@@ -215,6 +243,13 @@
         "clause": "2d",
         "title": "Các hành vi bị nghiêm cấm",
         "text": "Cản trở hoạt động công chứng."
+    },
+    {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Tiêu chuẩn công chứng viên",
+        "text": "Công dân Việt Nam thường trú tại Việt Nam, tuân thủ Hiến pháp và pháp luật, có phẩm chất đạo đức tốt và có đủ các tiêu chuẩn sau đây thì được xem xét, bổ nhiệm công chứng viên:"
     },
     {
         "id": "Điều 8.1",
@@ -987,6 +1022,13 @@
         "text": "Văn phòng công chứng thay đổi tên gọi, trụ sở hoặc Trưởng Văn phòng công chứng thì được Sở Tư pháp cấp lại giấy đăng ký hoạt động trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị; trường hợp từ chối phải thông báo bằng văn bản và nêu rõ lý do."
     },
     {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Cung cấp thông tin về nội dung đăng ký hoạt động của Văn phòng công chứng",
+        "text": "Trong thời hạn 10 ngày làm việc kể từ ngày cấp hoặc cấp lại giấy đăng ký hoạt động của Văn phòng công chứng, Sở Tư pháp phải thông báo bằng văn bản cho cơ quan thuế, cơ quan thống kê, cơ quan công an cấp tỉnh, Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, Ủy ban nhân dân xã, phường, thị trấn nơi Văn phòng công chứng đặt trụ sở."
+    },
+    {
         "id": "Điều 26.1",
         "article": "Điều 26",
         "clause": "1",
@@ -1554,6 +1596,13 @@
         "text": "Người yêu cầu công chứng tự đọc dự thảo hợp đồng, giao dịch hoặc công chứng viên đọc cho người yêu cầu công chứng nghe. Trường hợp người yêu cầu công chứng đồng ý toàn bộ nội dung trong dự thảo hợp đồng, giao dịch thì ký vào từng trang của hợp đồng, giao dịch. Công chứng viên yêu cầu người yêu cầu công chứng xuất trình bản chính của các giấy tờ quy định tại khoản 1 Điều này để đối chiếu trước khi ghi lời chứng, ký vào từng trang của hợp đồng, giao dịch."
     },
     {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Phạm vi công chứng hợp đồng, giao dịch về bất động sản",
+        "text": "Công chứng viên của tổ chức hành nghề công chứng chỉ được công chứng hợp đồng, giao dịch về bất động sản trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi tổ chức hành nghề công chứng đặt trụ sở, trừ trường hợp công chứng di chúc, văn bản từ chối nhận di sản là bất động sản và văn bản ủy quyền liên quan đến việc thực hiện các quyền đối với bất động sản."
+    },
+    {
         "id": "Điều 43.1",
         "article": "Điều 43",
         "clause": "1",
@@ -1673,6 +1722,13 @@
         "text": "Công chứng viên thấy cần thiết để bảo vệ quyền lợi cho người yêu cầu công chứng."
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Việc ghi trang, tờ trong văn bản công chứng",
+        "text": "Văn bản công chứng có từ hai trang trở lên thì từng trang phải được đánh số thứ tự. Văn bản công chứng có từ hai tờ trở lên phải được đóng dấu giáp lai giữa các tờ."
+    },
+    {
         "id": "Điều 50.1",
         "article": "Điều 50",
         "clause": "1",
@@ -1713,6 +1769,20 @@
         "clause": "3",
         "title": "Công chứng việc sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch",
         "text": "Thủ tục công chứng việc sửa đổi, bổ sung, hủy bỏ hợp đồng, giao dịch đã được công chứng được thực hiện như thủ tục công chứng hợp đồng, giao dịch quy định tại Chương này."
+    },
+    {
+        "id": "Điều 52.0",
+        "article": "Điều 52",
+        "clause": "0",
+        "title": "Người có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu",
+        "text": "Công chứng viên, người yêu cầu công chứng, người làm chứng, người phiên dịch, người có quyền lợi, nghĩa vụ liên quan, cơ quan nhà nước có thẩm quyền có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu khi có căn cứ cho rằng việc công chứng có vi phạm pháp luật. Mục 2 THỦ TỤC CÔNG CHỨNG MỘT SỐ HỢP ĐỒNG, GIAO DỊCH, CÔNG CHỨNG BẢN DỊCH, NHẬN LƯU GIỮ DI CHÚC"
+    },
+    {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Phạm vi áp dụng",
+        "text": "Thủ tục công chứng hợp đồng thế chấp bất động sản, hợp đồng uỷ quyền, di chúc, văn bản thỏa thuận phân chia di sản, văn bản khai nhận di sản, văn bản từ chối nhận di sản được thực hiện theo quy định của Mục này và các quy định của Mục 1 Chương này mà không trái với quy định của Mục này."
     },
     {
         "id": "Điều 54.1",
@@ -1811,6 +1881,13 @@
         "clause": "3",
         "title": "Công chứng văn bản khai nhận di sản",
         "text": "Chính phủ quy định chi tiết thủ tục niêm yết việc thụ lý công chứng văn bản thỏa thuận phân chia di sản, văn bản khai nhận di sản."
+    },
+    {
+        "id": "Điều 59.0",
+        "article": "Điều 59",
+        "clause": "0",
+        "title": "Công chứng văn bản từ chối nhận di sản",
+        "text": "Người thừa kế có thể yêu cầu công chứng văn bản từ chối nhận di sản. Khi yêu cầu công chứng văn bản từ chối nhận di sản, người yêu cầu công chứng phải xuất trình bản sao di chúc trong trường hợp thừa kế theo di chúc hoặc giấy tờ chứng minh quan hệ giữa người để lại di sản và người yêu cầu công chứng theo pháp luật về thừa kế; giấy chứng tử hoặc giấy tờ khác chứng minh người để lại di sản đã chết."
     },
     {
         "id": "Điều 60.1",
@@ -2205,6 +2282,27 @@
         "text": "Sở Tư pháp chịu trách nhiệm giúp Ủy ban nhân dân cấp tỉnh thực hiện quản lý nhà nước về công chứng tại địa phương, thực hiện các nhiệm vụ, quyền hạn quy định tại Luật này và các văn bản quy phạm pháp luật khác có liên quan. CHƯƠNG IX XỬ LÝ VI PHẠM VÀ GIẢI QUYẾT TRANH CHẤP"
     },
     {
+        "id": "Điều 71.0",
+        "article": "Điều 71",
+        "clause": "0",
+        "title": "Xử lý vi phạm đối với công chứng viên",
+        "text": "Công chứng viên vi phạm quy định của Luật này thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 72.0",
+        "article": "Điều 72",
+        "clause": "0",
+        "title": "Xử lý vi phạm đối với tổ chức hành nghề công chứng",
+        "text": "Tổ chức hành nghề công chứng vi phạm quy định của Luật này thì bị xử phạt vi phạm hành chính, nếu gây thiệt hại phải bồi thường theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Xử lý vi phạm đối với người có hành vi xâm phạm quyền, lợi ích hợp pháp của công chứng viên, tổ chức hành nghề công chứng",
+        "text": "Người có chức vụ, quyền hạn mà có hành vi xâm phạm quyền, lợi ích hợp pháp của công chứng viên, tổ chức hành nghề công chứng hoặc cản trở công chứng viên, tổ chức hành nghề công chứng thực hiện quyền, nghĩa vụ thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 74.1",
         "article": "Điều 74",
         "clause": "1",
@@ -2217,6 +2315,20 @@
         "clause": "2",
         "title": "Xử lý vi phạm đối với cá nhân, tổ chức hành nghề công chứng bất hợp pháp",
         "text": "Tổ chức không đủ điều kiện hành nghề công chứng mà hành nghề công chứng dưới bất kỳ hình thức nào thì phải chấm dứt hành vi vi phạm, bị xử phạt vi phạm hành chính, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 75.0",
+        "article": "Điều 75",
+        "clause": "0",
+        "title": "Xử lý vi phạm đối với người yêu cầu công chứng",
+        "text": "Người yêu cầu công chứng có hành vi cung cấp thông tin, tài liệu sai sự thật, sử dụng giấy tờ, văn bản giả mạo, sửa chữa, tẩy xóa giấy tờ, văn bản trái pháp luật hoặc có hành vi gian dối khác khi yêu cầu công chứng thì tuỳ theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 76.0",
+        "article": "Điều 76",
+        "clause": "0",
+        "title": "Giải quyết tranh chấp",
+        "text": "Trong trường hợp giữa người yêu cầu công chứng và công chứng viên, tổ chức hành nghề công chứng có tranh chấp liên quan đến hoạt động hành nghề công chứng thì các bên có quyền khởi kiện vụ việc ra Tòa án để giải quyết tranh chấp đó. CHƯƠNG X ĐIỀU KHOẢN THI HÀNH"
     },
     {
         "id": "Điều 77.1",
@@ -2280,5 +2392,19 @@
         "clause": "4",
         "title": "Điều khoản chuyển tiếp",
         "text": "Quy tắc đạo đức hành nghề công chứng được ban hành kèm theo Thông tư số 11/2012/TT-BTP ngày 30 tháng 10 năm 2012 của Bộ Tư pháp tiếp tục được thực hiện cho đến khi tổ chức xã hội - nghề nghiệp của công chứng viên quy định tại Điều 39 của Luật này ban hành mới Quy tắc đạo đức hành nghề công chứng."
+    },
+    {
+        "id": "Điều 80.0",
+        "article": "Điều 80",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2015. Luật công chứng số 82/2006/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+    },
+    {
+        "id": "Điều 81.0",
+        "article": "Điều 81",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 7 thông qua ngày  20 tháng 6 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quy hoạch và đầu tư phát triển điện lực; tiết kiệm điện; thị trường điện lực; quyền và nghĩa vụ của tổ chức, cá nhân hoạt động điện lực và sử dụng điện; bảo vệ trang thiết bị điện, công trình điện lực và an toàn điện."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, cá nhân hoạt động điện lực, sử dụng điện hoặc có các hoạt động khác liên quan đến điện lực tại Việt Nam. Trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam ký kết hoặc gia nhập có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -138,6 +159,13 @@
         "clause": "4",
         "title": "Chính sách phát triển điện lực",
         "text": "Đẩy mạnh việc khai thác và sử dụng các nguồn năng lượng mới, năng lượng tái tạo để phát điện."
+    },
+    {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Hợp tác quốc tế trong hoạt động điện lực",
+        "text": "Mở rộng hợp tác quốc tế và hội nhập kinh tế quốc tế về hoạt động điện lực trên cơ sở tôn trọng độc lập, chủ quyền quốc gia và các bên cùng có lợi. Nhà nước khuyến khích và tạo điều kiện thuận lợi để tổ chức, cá nhân nước ngoài tham gia hoạt động điện lực tại Việt Nam; tổ chức, cá nhân ở trong nước hợp tác với tổ chức, cá nhân nước ngoài, tổ chức quốc tế trong hoạt động điện lực."
     },
     {
         "id": "Điều 6.1",
@@ -425,6 +453,13 @@
         "clause": "2",
         "title": "Tiết kiệm trong phát điện",
         "text": "Hệ thống điện tự dùng trong nhà máy phát điện phải được thiết kế, lắp đặt hợp lý và phải bố trí sử dụng trong quá trình vận hành phù hợp với yêu cầu tiết kiệm điện tự dùng."
+    },
+    {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Tiết kiệm trong truyền tải, phân phối điện",
+        "text": "Hệ thống đường dây tải điện và trạm điện phải bảo đảm các thông số và tiêu chuẩn kinh tế - kỹ thuật tiên tiến, được vận hành với phương thức tối ưu nhằm đáp ứng yêu cầu cung cấp điện ổn định, an toàn, liên tục và giảm thiểu tổn thất điện năng."
     },
     {
         "id": "Điều 16.1",
@@ -803,6 +838,13 @@
         "clause": "3",
         "title": "Hoạt động, điều hành giao dịch trên thị trường điện lực",
         "text": "Bộ Công nghiệp quy định các nội dung tại khoản 1 và hướng dẫn các nội dung tại khoản 2 Điều này phù hợp với từng cấp độ phát triển của thị trường điện lực; quy định về tổ chức, nhiệm vụ, quyền hạn cụ thể của đơn vị điều hành giao dịch thị trường điện lực. MỤC 2 MUA BÁN ĐIỆN VÀ DỊCH VỤ CUNG CẤP ĐIỆN THEO HỢP ĐỒNG CÓ THỜI HẠN"
+    },
+    {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Hợp đồng mua bán điện có thời hạn",
+        "text": "Hợp đồng mua bán điện có thời hạn phải được thể hiện bằng văn bản, bao gồm các nội dung sau đây:"
     },
     {
         "id": "Điều 22.1",
@@ -1335,6 +1377,20 @@
         "clause": "6",
         "title": "Nội dung của giấy phép hoạt động điện lực",
         "text": "Thời hạn của giấy phép hoạt động điện lực."
+    },
+    {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Thời hạn cấp, sửa đổi, bổ sung giấy phép hoạt động điện lực",
+        "text": "Trong thời hạn ba mươi ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền phải cấp hoặc sửa đổi, bổ sung giấy phép hoạt động điện lực; trường hợp từ chối thì phải thông báo bằng văn bản và nêu rõ lý do."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Thu hồi giấy phép hoạt động điện lực",
+        "text": "Tổ chức, cá nhân bị thu hồi giấy phép hoạt động điện lực trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 37.1",
@@ -3108,6 +3164,13 @@
         "text": "Cơ quan điều tiết điện lực là cơ quan giúp Bộ trưởng Bộ Công nghiệp thực hiện các nội dung điều tiết hoạt động điện lực quy định tại khoản 1 Điều này. Thủ tướng Chính phủ quy định cụ thể về tổ chức, chức năng, nhiệm vụ, quyền hạn của cơ quan điều tiết điện lực."
     },
     {
+        "id": "Điều 67.0",
+        "article": "Điều 67",
+        "clause": "0",
+        "title": "Thanh tra điện lực",
+        "text": "Thanh tra Bộ Công nghiệp thực hiện chức năng thanh tra chuyên ngành về điện lực, có nhiệm vụ thanh tra việc chấp hành pháp luật về điện lực; phát hiện, ngăn chặn, xử lý theo thẩm quyền và kiến nghị cơ quan có thẩm quyền xử lý vi phạm pháp luật về điện lực; kiến nghị các biện pháp bảo đảm thi hành pháp luật về điện lực. CHƯƠNG X ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
         "id": "Điều 68.1",
         "article": "Điều 68",
         "clause": "1",
@@ -3127,5 +3190,19 @@
         "clause": "3",
         "title": "Quy định đối với tổ chức, cá nhân đang hoạt động điện lực",
         "text": "Chính phủ quy định điều kiện và thời gian tổ chức, cá nhân đang hoạt động điện lực tiến hành điều chỉnh cơ cấu, tổ chức và hoạt động phù hợp với quy định của Luật này."
+    },
+    {
+        "id": "Điều 69.0",
+        "article": "Điều 69",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2005."
+    },
+    {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XI, kỳ họp thứ 6 thông qua ngày 03 tháng 12 năm 2004. CHủ TịCH QUốC HộI Nguyễn Văn An"
     }
 ]

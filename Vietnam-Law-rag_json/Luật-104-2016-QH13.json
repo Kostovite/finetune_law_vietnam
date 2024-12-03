@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về việc thực hiện quyền tiếp cận thông tin của công dân, nguyên tắc, trình tự, thủ tục thực hiện quyền tiếp cận thông tin, trách nhiệm, nghĩa vụ của cơ quan nhà nước trong việc bảo đảm quyền tiếp cận thông tin của công dân."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -89,6 +103,13 @@
         "clause": "3",
         "title": "Chủ thể thực hiện quyền tiếp cận thông tin",
         "text": "Người dưới 18 tuổi yêu cầu cung cấp thông tin thông qua người đại diện theo pháp luật, trừ trường hợp luật về trẻ em và luật khác có quy định khác."
+    },
+    {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Thông tin công dân được tiếp cận",
+        "text": "Công dân được tiếp cận thông tin của cơ quan nhà nước, trừ thông tin không được tiếp cận quy định tại Điều 6 của Luật này; được tiếp cận có điều kiện đối với thông tin quy định tại Điều 7 của Luật này."
     },
     {
         "id": "Điều 6.1",
@@ -252,6 +273,13 @@
         "text": "Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an quy định đầu mối thực hiện cung cấp thông tin trong hệ thống tổ chức của mình."
     },
     {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Cách thức tiếp cận thông tin",
+        "text": "Công dân được tiếp cận thông tin bằng các cách thức sau:"
+    },
+    {
         "id": "Điều 10.1",
         "article": "Điều 10",
         "clause": "1",
@@ -369,6 +397,13 @@
         "clause": "3",
         "title": "Xử lý vi phạm",
         "text": "Người thực hiện quyền tiếp cận thông tin sử dụng thông tin được cung cấp gây ảnh hưởng xấu đến quyền và lợi ích hợp pháp của cơ quan, tổ chức hoặc của người khác thì phải chịu trách nhiệm theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Áp dụng pháp luật về tiếp cận thông tin",
+        "text": "Luật này áp dụng chung cho việc tiếp cận thông tin của công dân. Trường hợp luật khác có quy định về việc tiếp cận thông tin mà không trái với quy định tại Điều 3 của Luật này thì được thực hiện theo quy định của luật đó. Chương II CÔNG KHAI THÔNG TIN"
     },
     {
         "id": "Điều 17.1",
@@ -896,6 +931,13 @@
         "text": "Trường hợp thông tin được yêu cầu không thuộc trách nhiệm cung cấp thì cơ quan nhận được yêu cầu phải thông báo và hướng dẫn người yêu cầu đến cơ quan có trách nhiệm cung cấp thông tin."
     },
     {
+        "id": "Điều 27.0",
+        "article": "Điều 27",
+        "clause": "0",
+        "title": "Giải quyết yêu cầu cung cấp thông tin",
+        "text": "Khi nhận được yêu cầu cung cấp thông tin hợp lệ, cơ quan nhà nước có trách nhiệm cung cấp thông tin thông báo về thời hạn, địa điểm, hình thức cung cấp thông tin; chi phí thực tế để in, sao, chụp, gửi thông tin qua dịch vụ bưu chính, fax (nếu có) và phương thức, thời hạn thanh toán; thực hiện việc cung cấp thông tin theo trình tự, thủ tục quy định tại Chương này."
+    },
+    {
         "id": "Điều 28.1",
         "article": "Điều 28",
         "clause": "1",
@@ -1307,5 +1349,12 @@
         "clause": "2",
         "title": "Điều khoản áp dụng",
         "text": "Công dân có thể yêu cầu cung cấp thông tin thông qua tổ chức, đoàn thể, doanh nghiệp của mình trong trường hợp nhiều người của tổ chức, đoàn thể, doanh nghiệp đó cùng có yêu cầu cung cấp thông tin giống nhau. Chính phủ quy định chi tiết khoản này."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2018. Chính phủ, cơ quan nhà nước có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 11 thông qua ngày 06 tháng 4 năm 2016. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

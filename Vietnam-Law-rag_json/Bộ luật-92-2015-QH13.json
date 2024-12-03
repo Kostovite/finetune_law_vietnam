@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh và nhiệm vụ của Bộ luật tố tụng dân sự",
+        "text": "Bộ luật tố tụng dân sự quy định những nguyên tắc cơ bản trong tố tụng dân sự; trình tự, thủ tục khởi kiện để Tòa án nhân dân (sau đây gọi là Tòa án) giải quyết các vụ án về tranh chấp dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động (sau đây gọi chung là vụ án dân sự) và trình tự, thủ tục yêu cầu để Tòa án giải quyết các việc về yêu cầu dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động (sau đây gọi chung là việc dân sự); trình tự, thủ tục giải quyết vụ án dân sự, việc dân sự (sau đây gọi chung là vụ việc dân sự) tại Tòa án; thủ tục công nhận và cho thi hành tại Việt Nam bản án, quyết định dân sự của Tòa án nước ngoài, phán quyết của Trọng tài nước ngoài; thi hành án dân sự; nhiệm vụ, quyền hạn và trách nhiệm của cơ quan tiến hành tố tụng, người tiến hành tố tụng; quyền và nghĩa vụ của người tham gia tố tụng, của cá nhân, của cơ quan nhà nước, đơn vị vũ trang nhân dân, tổ chức kinh tế, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp (sau đây gọi chung là cơ quan, tổ chức) có liên quan nhằm bảo đảm cho việc giải quyết vụ việc dân sự được nhanh chóng, chính xác, công minh và đúng pháp luật. Bộ luật tố tụng dân sự góp phần bảo vệ công lý, bảo vệ quyền con người, quyền công dân, bảo vệ chế độ xã hội chủ nghĩa, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; giáo dục mọi người nghiêm chỉnh chấp hành pháp luật."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -26,6 +33,13 @@
         "clause": "4",
         "title": "Đối tượng áp dụng và hiệu lực của Bộ luật tố tụng dân sự",
         "text": "Cơ quan, tổ chức, cá nhân nước ngoài thuộc đối tượng được hưởng quyền ưu đãi, miễn trừ ngoại giao hoặc quyền ưu đãi, miễn trừ lãnh sự theo pháp luật Việt Nam, theo điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên thì vụ việc dân sự có liên quan đến cơ quan, tổ chức, cá nhân đó được giải quyết bằng con đường ngoại giao. Chương II NHỮNG NGUYÊN TẮC CƠ BẢN"
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Tuân thủ pháp luật trong tố tụng dân sự",
+        "text": "Mọi hoạt động tố tụng dân sự của cơ quan tiến hành tố tụng, người tiến hành tố tụng, người tham gia tố tụng, của cơ quan, tổ chức, cá nhân có liên quan phải tuân theo các quy định của Bộ luật này."
     },
     {
         "id": "Điều 4.1",
@@ -70,6 +84,13 @@
         "text": "Tòa án có trách nhiệm hỗ trợ đương sự trong việc thu thập chứng cứ và chỉ tiến hành thu thập, xác minh chứng cứ trong những trường hợp do Bộ luật này quy định."
     },
     {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Trách nhiệm cung cấp tài liệu, chứng cứ của cơ quan, tổ chức, cá nhân có thẩm quyền",
+        "text": "Cơ quan, tổ chức, cá nhân trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm cung cấp đầy đủ và đúng thời hạn cho đương sự, Tòa án, Viện kiểm sát nhân dân (sau đây gọi là Viện kiểm sát) tài liệu, chứng cứ mà mình đang lưu giữ, quản lý khi có yêu cầu của đương sự, Tòa án, Viện kiểm sát theo quy định của Bộ luật này và phải chịu trách nhiệm trước pháp luật về việc cung cấp tài liệu, chứng cứ đó; trường hợp không cung cấp được thì phải thông báo bằng văn bản và nêu rõ lý do cho đương sự, Tòa án, Viện kiểm sát."
+    },
+    {
         "id": "Điều 8.1",
         "article": "Điều 8",
         "clause": "1",
@@ -110,6 +131,13 @@
         "clause": "4",
         "title": "Bảo đảm quyền bảo vệ quyền và lợi ích hợp pháp của đương sự",
         "text": "Không ai được hạn chế quyền bảo vệ quyền và lợi ích hợp pháp của đương sự trong tố tụng dân sự."
+    },
+    {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Hòa giải trong tố tụng dân sự",
+        "text": "Tòa án có trách nhiệm tiến hành hòa giải và tạo điều kiện thuận lợi để các đương sự thoả thuận với nhau về việc giải quyết vụ việc dân sự theo quy định của Bộ luật này."
     },
     {
         "id": "Điều 11.1",
@@ -175,6 +203,13 @@
         "text": "Người tiến hành tố tụng trong khi thực hiện nhiệm vụ, quyền hạn của mình có hành vi trái pháp luật gây thiệt hại cho cơ quan, tổ chức, cá nhân thì cơ quan trực tiếp quản lý người thi hành công vụ có hành vi trái pháp luật đó phải bồi thường cho người bị thiệt hại theo quy định của pháp luật về trách nhiệm bồi thường của Nhà nước."
     },
     {
+        "id": "Điều 14.0",
+        "article": "Điều 14",
+        "clause": "0",
+        "title": "Tòa án xét xử tập thể",
+        "text": "Tòa án xét xử tập thể vụ án dân sự và quyết định theo đa số, trừ trường hợp xét xử theo thủ tục rút gọn."
+    },
+    {
         "id": "Điều 15.1",
         "article": "Điều 15",
         "clause": "1",
@@ -217,6 +252,13 @@
         "text": "Bản án, quyết định của Tòa án đã có hiệu lực pháp luật mà phát hiện có vi phạm pháp luật hoặc có tình tiết mới theo quy định của Bộ luật này thì được xem xét lại theo thủ tục giám đốc thẩm hoặc tái thẩm."
     },
     {
+        "id": "Điều 18.0",
+        "article": "Điều 18",
+        "clause": "0",
+        "title": "Giám đốc việc xét xử",
+        "text": "Tòa án nhân dân tối cao giám đốc việc xét xử của các Tòa án; Tòa án nhân dân cấp cao giám đốc việc xét xử của Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Tòa án nhân dân cấp tỉnh), Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi chung là Tòa án nhân dân cấp huyện) thuộc phạm vi thẩm quyền theo lãnh thổ để bảo đảm việc áp dụng pháp luật nghiêm chỉnh và thống nhất."
+    },
+    {
         "id": "Điều 19.1",
         "article": "Điều 19",
         "clause": "1",
@@ -236,6 +278,13 @@
         "clause": "3",
         "title": "Bảo đảm hiệu lực của bản án, quyết định của Tòa án",
         "text": "Tòa án có quyền yêu cầu cơ quan thi hành án thông báo tiến độ, kết quả thi hành bản án, quyết định của Tòa án. Cơ quan thi hành án trực tiếp tổ chức thi hành bản án, quyết định của Tòa án có trách nhiệm trả lời cho Tòa án."
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Tiếng nói và chữ viết dùng trong tố tụng dân sự",
+        "text": "Tiếng nói và chữ viết dùng trong tố tụng dân sự là tiếng Việt. Người tham gia tố tụng dân sự có quyền dùng tiếng nói và chữ viết của dân tộc mình; trường hợp này phải có người phiên dịch. Người tham gia tố tụng dân sự là người khuyết tật nghe, nói hoặc khuyết tật nhìn có quyền dùng ngôn ngữ, ký hiệu, chữ dành riêng cho người khuyết tật; trường hợp này phải có người biết ngôn ngữ, ký hiệu, chữ dành riêng cho người khuyết tật để dịch lại."
     },
     {
         "id": "Điều 21.1",
@@ -280,6 +329,13 @@
         "text": "Ủy ban nhân dân cấp xã hoặc cơ quan, tổ chức, cá nhân liên quan có trách nhiệm chuyển giao bản án, quyết định, giấy triệu tập, giấy mời và các giấy tờ khác của Tòa án khi có yêu cầu của Tòa án và phải thông báo kết quả việc chuyển giao đó cho Tòa án."
     },
     {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Việc tham gia tố tụng dân sự của cơ quan, tổ chức, cá nhân",
+        "text": "Cơ quan, tổ chức, cá nhân có quyền và nghĩa vụ tham gia tố tụng dân sự theo quy định của Bộ luật này, góp phần vào việc giải quyết vụ việc dân sự tại Tòa án kịp thời, đúng pháp luật."
+    },
+    {
         "id": "Điều 24.1",
         "article": "Điều 24",
         "clause": "1",
@@ -299,6 +355,13 @@
         "clause": "3",
         "title": "Bảo đảm tranh tụng trong xét xử",
         "text": "Trong quá trình xét xử, mọi tài liệu, chứng cứ phải được xem xét đầy đủ, khách quan, toàn diện, công khai, trừ trường hợp không được công khai theo quy định tại khoản 2 Điều 109 của Bộ luật này. Tòa án điều hành việc tranh tụng, hỏi những vấn đề chưa rõ và căn cứ vào kết quả tranh tụng để ra bản án, quyết định."
+    },
+    {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Bảo đảm quyền khiếu nại, tố cáo trong tố tụng dân sự",
+        "text": "Cơ quan, tổ chức, cá nhân có quyền khiếu nại, cá nhân có quyền tố cáo những hành vi, quyết định trái pháp luật của cơ quan tiến hành tố tụng, người tiến hành tố tụng hoặc của bất cứ cơ quan, tổ chức, cá nhân nào trong hoạt động tố tụng dân sự. Cơ quan, tổ chức, cá nhân có thẩm quyền phải tiếp nhận, xem xét và giải quyết kịp thời, đúng pháp luật khiếu nại, tố cáo; thông báo bằng văn bản về kết quả giải quyết cho người đã khiếu nại, tố cáo. Chương III THẨM QUYỀN CỦA TÒA ÁN Mục 1. NHỮNG VỤ VIỆC DÂN SỰ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA TÒA ÁN"
     },
     {
         "id": "Điều 26.1",
@@ -1407,6 +1470,20 @@
         "text": "Khi nhập hoặc tách vụ án quy định tại khoản 1 và khoản 2 Điều này, Tòa án đã thụ lý vụ án phải ra quyết định và gửi ngay cho Viện kiểm sát cùng cấp, đương sự, cơ quan, tổ chức, cá nhân có liên quan. Mục 3. GIẢI QUYẾT VỤ VIỆC DÂN SỰ TRONG TRƯỜNG HỢP CHƯA CÓ ĐIỀU LUẬT ĐỂ ÁP DỤNG"
     },
     {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Nguyên tắc xác định thẩm quyền của Tòa án trong trường hợp chưa có điều luật để áp dụng",
+        "text": "Thẩm quyền của Tòa án thụ lý, giải quyết vụ việc dân sự trong trường hợp chưa có điều luật để áp dụng được thực hiện theo quy định tại các điều từ Điều 35 đến Điều 41 của Bộ luật này."
+    },
+    {
+        "id": "Điều 44.0",
+        "article": "Điều 44",
+        "clause": "0",
+        "title": "Trình tự, thủ tục thụ lý, giải quyết vụ việc dân sự trong trường hợp chưa có điều luật để áp dụng",
+        "text": "Trình tự, thủ tục thụ lý, giải quyết vụ việc dân sự trong trường hợp chưa có điều luật để áp dụng được thực hiện theo quy định của Bộ luật này."
+    },
+    {
         "id": "Điều 45.1",
         "article": "Điều 45",
         "clause": "1",
@@ -1554,6 +1631,13 @@
         "text": "Khi Chánh án vắng mặt, một Phó Chánh án được Chánh án ủy nhiệm thực hiện nhiệm vụ, quyền hạn của Chánh án, trừ quyền kháng nghị quy định tại điểm g khoản 1 Điều này. Phó Chánh án chịu trách nhiệm trước Chánh án về việc thực hiện nhiệm vụ, quyền hạn được ủy nhiệm."
     },
     {
+        "id": "Điều 48.0",
+        "article": "Điều 48",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Thẩm phán",
+        "text": "Khi được Chánh án Tòa án phân công, Thẩm phán có nhiệm vụ, quyền hạn sau đây:"
+    },
+    {
         "id": "Điều 48.1",
         "article": "Điều 48",
         "clause": "1",
@@ -1652,6 +1736,13 @@
         "text": "Tiến hành hoạt động tố tụng khác khi giải quyết vụ việc dân sự theo quy định của Bộ luật này."
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Hội thẩm nhân dân",
+        "text": "Khi được Chánh án Tòa án phân công, Hội thẩm nhân dân có nhiệm vụ, quyền hạn sau đây:"
+    },
+    {
         "id": "Điều 49.1",
         "article": "Điều 49",
         "clause": "1",
@@ -1678,6 +1769,13 @@
         "clause": "4",
         "title": "Nhiệm vụ, quyền hạn của Hội thẩm nhân dân",
         "text": "Tiến hành các hoạt động tố tụng và ngang quyền với Thẩm phán khi biểu quyết những vấn đề thuộc thẩm quyền của Hội đồng xét xử."
+    },
+    {
+        "id": "Điều 50.0",
+        "article": "Điều 50",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Thẩm tra viên",
+        "text": "Khi được Chánh án Tòa án phân công, Thẩm tra viên có nhiệm vụ, quyền hạn sau đây:"
     },
     {
         "id": "Điều 50.1",
@@ -1715,6 +1813,13 @@
         "text": "Thực hiện nhiệm vụ khác theo quy định của Bộ luật này."
     },
     {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Thư ký Tòa án",
+        "text": "Khi được Chánh án Tòa án phân công, Thư ký Tòa án có nhiệm vụ, quyền hạn sau đây:"
+    },
+    {
         "id": "Điều 51.1",
         "article": "Điều 51",
         "clause": "1",
@@ -1750,6 +1855,13 @@
         "text": "Thực hiện nhiệm vụ khác theo quy định của Bộ luật này."
     },
     {
+        "id": "Điều 52.0",
+        "article": "Điều 52",
+        "clause": "0",
+        "title": "Những trường hợp phải từ chối hoặc thay đổi người tiến hành tố tụng",
+        "text": "Người tiến hành tố tụng phải từ chối tiến hành tố tụng hoặc bị thay đổi trong những trường hợp sau đây:"
+    },
+    {
         "id": "Điều 52.1",
         "article": "Điều 52",
         "clause": "1",
@@ -1769,6 +1881,13 @@
         "clause": "3",
         "title": "Những trường hợp phải từ chối hoặc thay đổi người tiến hành tố tụng",
         "text": "Có căn cứ rõ ràng cho rằng họ có thể không vô tư trong khi làm nhiệm vụ."
+    },
+    {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Thay đổi Thẩm phán, Hội thẩm nhân dân",
+        "text": "Thẩm phán, Hội thẩm nhân dân phải từ chối tiến hành tố tụng hoặc bị thay đổi trong những trường hợp sau đây:"
     },
     {
         "id": "Điều 53.1",
@@ -1797,6 +1916,13 @@
         "clause": "4",
         "title": "Thay đổi Thẩm phán, Hội thẩm nhân dân",
         "text": "Họ đã là người tiến hành tố tụng trong vụ việc đó với tư cách là Thẩm tra viên, Thư ký Tòa án, Kiểm sát viên, Kiểm tra viên."
+    },
+    {
+        "id": "Điều 54.0",
+        "article": "Điều 54",
+        "clause": "0",
+        "title": "Thay đổi Thư ký Tòa án, Thẩm tra viên",
+        "text": "Thư ký Tòa án, Thẩm tra viên phải từ chối tiến hành tố tụng hoặc bị thay đổi trong những trường hợp sau đây:"
     },
     {
         "id": "Điều 54.1",
@@ -1946,6 +2072,13 @@
         "text": "Khi Viện trưởng vắng mặt, một Phó Viện trưởng được Viện trưởng ủy nhiệm thực hiện nhiệm vụ, quyền hạn của Viện trưởng, trừ quyền quyết định kháng nghị quy định tại điểm d khoản 1 Điều này. Phó Viện trưởng chịu trách nhiệm trước Viện trưởng về việc thực hiện nhiệm vụ, quyền hạn được ủy nhiệm."
     },
     {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Kiểm sát viên",
+        "text": "Khi được Viện trưởng Viện kiểm sát phân công thực hiện kiểm sát việc tuân theo pháp luật trong tố tụng dân sự, Kiểm sát viên có nhiệm vụ, quyền hạn sau đây:"
+    },
+    {
         "id": "Điều 58.1",
         "article": "Điều 58",
         "clause": "1",
@@ -2009,6 +2142,13 @@
         "text": "Thực hiện nhiệm vụ, quyền hạn tố tụng dân sự khác thuộc thẩm quyền của Viện kiểm sát theo quy định của Bộ luật này."
     },
     {
+        "id": "Điều 59.0",
+        "article": "Điều 59",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Kiểm tra viên",
+        "text": "Khi được phân công tiến hành hoạt động tố tụng, Kiểm tra viên có nhiệm vụ, quyền hạn sau đây:"
+    },
+    {
         "id": "Điều 59.1",
         "article": "Điều 59",
         "clause": "1",
@@ -2028,6 +2168,13 @@
         "clause": "3",
         "title": "Nhiệm vụ, quyền hạn của Kiểm tra viên",
         "text": "Giúp Kiểm sát viên kiểm sát việc tuân theo pháp luật trong tố tụng dân sự."
+    },
+    {
+        "id": "Điều 60.0",
+        "article": "Điều 60",
+        "clause": "0",
+        "title": "Thay đổi Kiểm sát viên, Kiểm tra viên",
+        "text": "Kiểm sát viên, Kiểm tra viên phải từ chối tiến hành tố tụng hoặc bị thay đổi trong những trường hợp sau đây:"
     },
     {
         "id": "Điều 60.1",
@@ -2084,6 +2231,27 @@
         "clause": "4",
         "title": "Quyết định việc thay đổi Kiểm sát viên, Kiểm tra viên",
         "text": "Trong thời hạn 03 ngày làm việc, kể từ ngày hoãn phiên tòa, phiên họp, Viện trưởng Viện kiểm sát phải cử người khác thay thế và thông báo bằng văn bản cho Tòa án. Chương V THÀNH PHẦN GIẢI QUYẾT VỤ VIỆC DÂN SỰ"
+    },
+    {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": "Hội đồng xét xử sơ thẩm vụ án dân sự",
+        "text": "Hội đồng xét xử sơ thẩm vụ án dân sự gồm một Thẩm phán và hai Hội thẩm nhân dân, trừ trường hợp quy định tại Điều 65 của Bộ luật này. Trong trường hợp đặc biệt thì Hội đồng xét xử sơ thẩm có thể gồm hai Thẩm phán và ba Hội thẩm nhân dân. Đối với vụ án có đương sự là người chưa thành niên thì phải có Hội thẩm nhân dân là người đã hoặc đang công tác tại Đoàn thanh niên Cộng sản Hồ Chí Minh, Hội liên hiệp phụ nữ Việt Nam, cơ quan quản lý nhà nước về gia đình, cơ quan quản lý nhà nước về trẻ em. Đối với vụ án lao động thì phải có Hội thẩm nhân dân là người đã hoặc đang công tác trong tổ chức đại diện tập thể lao động hoặc người có kiến thức về pháp luật lao động."
+    },
+    {
+        "id": "Điều 64.0",
+        "article": "Điều 64",
+        "clause": "0",
+        "title": "Hội đồng xét xử phúc thẩm vụ án dân sự",
+        "text": "Hội đồng xét xử phúc thẩm vụ án dân sự gồm ba Thẩm phán, trừ trường hợp quy định tại Điều 65 của Bộ luật này."
+    },
+    {
+        "id": "Điều 65.0",
+        "article": "Điều 65",
+        "clause": "0",
+        "title": "Xét xử vụ án dân sự theo thủ tục rút gọn",
+        "text": "Việc xét xử sơ thẩm, phúc thẩm vụ án dân sự theo thủ tục rút gọn do một Thẩm phán tiến hành."
     },
     {
         "id": "Điều 66.1",
@@ -2210,6 +2378,13 @@
         "clause": "7",
         "title": "Năng lực pháp luật tố tụng dân sự và năng lực hành vi tố tụng dân sự của đương sự",
         "text": "Đương sự là cơ quan, tổ chức do người đại diện hợp pháp tham gia tố tụng."
+    },
+    {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Quyền, nghĩa vụ của đương sự",
+        "text": "Đương sự có quyền, nghĩa vụ ngang nhau khi tham gia tố tụng. Khi tham gia tố tụng, đương sự có quyền, nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 70.1",
@@ -2695,6 +2870,13 @@
         "text": "Quyền, nghĩa vụ khác mà pháp luật có quy định."
     },
     {
+        "id": "Điều 77.0",
+        "article": "Điều 77",
+        "clause": "0",
+        "title": "Người làm chứng",
+        "text": "Người biết các tình tiết có liên quan đến nội dung vụ việc được đương sự đề nghị, Tòa án triệu tập tham gia tố tụng với tư cách là người làm chứng. Người mất năng lực hành vi dân sự không thể là người làm chứng."
+    },
+    {
         "id": "Điều 78.1",
         "article": "Điều 78",
         "clause": "1",
@@ -2756,6 +2938,13 @@
         "clause": "9",
         "title": "Quyền, nghĩa vụ của người làm chứng",
         "text": "Phải cam đoan trước Tòa án về việc thực hiện quyền, nghĩa vụ của mình, trừ trường hợp người làm chứng là người chưa thành niên."
+    },
+    {
+        "id": "Điều 79.0",
+        "article": "Điều 79",
+        "clause": "0",
+        "title": "Người giám định",
+        "text": "Người giám định là người có kiến thức, kinh nghiệm cần thiết theo quy định của pháp luật về lĩnh vực có đối tượng cần giám định mà Tòa án trưng cầu giám định hoặc được đương sự yêu cầu giám định theo quy định tại Điều 102 của Bộ luật này."
     },
     {
         "id": "Điều 80.1",
@@ -3059,6 +3248,13 @@
         "text": "Đối với vụ việc lao động mà có đương sự thuộc trường hợp quy định tại khoản 1 Điều này hoặc người lao động là người chưa thành niên mà không có người đại diện và Tòa án cũng không chỉ định được người đại diện theo quy định tại khoản 1 Điều này thì Tòa án chỉ định tổ chức đại diện tập thể lao động đại diện cho người lao động đó."
     },
     {
+        "id": "Điều 89.0",
+        "article": "Điều 89",
+        "clause": "0",
+        "title": "Chấm dứt đại diện trong tố tụng dân sự",
+        "text": "Người đại diện theo pháp luật, người đại diện theo ủy quyền trong tố tụng dân sự chấm dứt việc đại diện theo quy định của Bộ luật dân sự."
+    },
+    {
         "id": "Điều 90.1",
         "article": "Điều 90",
         "clause": "1",
@@ -3162,6 +3358,20 @@
         "clause": "3",
         "title": "Những tình tiết, sự kiện không phải chứng minh",
         "text": "Đương sự có người đại diện tham gia tố tụng thì sự thừa nhận của người đại diện được coi là sự thừa nhận của đương sự nếu không vượt quá phạm vi đại diện."
+    },
+    {
+        "id": "Điều 93.0",
+        "article": "Điều 93",
+        "clause": "0",
+        "title": "Chứng cứ",
+        "text": "Chứng cứ trong vụ việc dân sự là những gì có thật được đương sự và cơ quan, tổ chức, cá nhân khác giao nộp, xuất trình cho Tòa án trong quá trình tố tụng hoặc do Tòa án thu thập được theo trình tự, thủ tục do Bộ luật này quy định và được Tòa án sử dụng làm căn cứ để xác định các tình tiết khách quan của vụ án cũng như xác định yêu cầu hay sự phản đối của đương sự là có căn cứ và hợp pháp."
+    },
+    {
+        "id": "Điều 94.0",
+        "article": "Điều 94",
+        "clause": "0",
+        "title": "Nguồn chứng cứ",
+        "text": "Chứng cứ được thu thập từ các nguồn sau đây:"
     },
     {
         "id": "Điều 94.1",
@@ -4067,6 +4277,41 @@
         "text": "Các biện pháp khẩn cấp tạm thời khác mà luật có quy định."
     },
     {
+        "id": "Điều 115.0",
+        "article": "Điều 115",
+        "clause": "0",
+        "title": "Giao người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi cho cá nhân hoặc tổ chức trông nom, nuôi dưỡng, chăm sóc, giáo dục",
+        "text": "Giao người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi cho cá nhân hoặc tổ chức trông nom, nuôi dưỡng, chăm sóc, giáo dục được áp dụng nếu việc giải quyết vụ án có liên quan đến những người này mà họ chưa có người giám hộ. Việc giao người chưa thành niên từ đủ bảy tuổi trở lên thì phải xem xét nguyện vọng của người đó."
+    },
+    {
+        "id": "Điều 116.0",
+        "article": "Điều 116",
+        "clause": "0",
+        "title": "Buộc thực hiện trước một phần nghĩa vụ cấp dưỡng",
+        "text": "Buộc thực hiện trước một phần nghĩa vụ cấp dưỡng được áp dụng nếu việc giải quyết vụ án có liên quan đến yêu cầu cấp dưỡng và xét thấy yêu cầu đó là có căn cứ và nếu không thực hiện trước ngay một phần nghĩa vụ cấp dưỡng sẽ ảnh hưởng đến sức khoẻ, đời sống của người được cấp dưỡng."
+    },
+    {
+        "id": "Điều 117.0",
+        "article": "Điều 117",
+        "clause": "0",
+        "title": "Buộc thực hiện trước một phần nghĩa vụ bồi thường thiệt hại do tính mạng, sức khoẻ bị xâm phạm",
+        "text": "Buộc thực hiện trước một phần nghĩa vụ bồi thường thiệt hại do tính mạng, sức khoẻ bị xâm phạm được áp dụng nếu việc giải quyết vụ án có liên quan đến yêu cầu đòi bồi thường thiệt hại do tính mạng, sức khoẻ bị xâm phạm."
+    },
+    {
+        "id": "Điều 118.0",
+        "article": "Điều 118",
+        "clause": "0",
+        "title": "Buộc người sử dụng lao động tạm ứng tiền lương, tiền bảo hiểm y tế, bảo hiểm xã hội, bảo hiểm thất nghiệp, chi phí cứu chữa tai nạn lao động hoặc bệnh nghề nghiệp, tiền bồi thường, trợ cấp tai nạn lao động hoặc bệnh nghề nghiệp cho người lao động",
+        "text": "Buộc người sử dụng lao động tạm ứng tiền lương, tiền bảo hiểm y tế, bảo hiểm xã hội, bảo hiểm thất nghiệp, chi phí cứu chữa tai nạn lao động hoặc bệnh nghề nghiệp, tiền bồi thường, trợ cấp tai nạn lao động hoặc bệnh nghề nghiệp cho người lao động được áp dụng để bảo vệ quyền, lợi ích hợp pháp của người lao động về tiền lương, tiền bảo hiểm, tiền bồi thường, tiền trợ cấp, chăm sóc sức khỏe theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 119.0",
+        "article": "Điều 119",
+        "clause": "0",
+        "title": "Tạm đình chỉ thi hành quyết định đơn phương chấm dứt hợp đồng lao động, quyết định sa thải người lao động",
+        "text": "Tạm đình chỉ thi hành quyết định đơn phương chấm dứt hợp đồng lao động, quyết định sa thải người lao động được áp dụng nếu việc giải quyết vụ án có liên quan đến đơn phương chấm dứt hợp đồng lao động, sa thải người lao động thuộc trường hợp người sử dụng lao động không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động hoặc không được xử lý kỷ luật sa thải đối với người lao động theo quy định của pháp luật về lao động."
+    },
+    {
         "id": "Điều 120.1",
         "article": "Điều 120",
         "clause": "1",
@@ -4079,6 +4324,76 @@
         "clause": "2",
         "title": "Kê biên tài sản đang tranh chấp",
         "text": "Tài sản bị kê biên có thể được thu giữ, bảo quản tại cơ quan thi hành án dân sự hoặc lập biên bản giao cho một bên đương sự hoặc người thứ ba quản lý cho đến khi có quyết định của Tòa án."
+    },
+    {
+        "id": "Điều 121.0",
+        "article": "Điều 121",
+        "clause": "0",
+        "title": "Cấm chuyển dịch quyền về tài sản đối với tài sản đang tranh chấp",
+        "text": "Cấm chuyển dịch quyền về tài sản đối với tài sản đang tranh chấp được áp dụng nếu trong quá trình giải quyết vụ án có căn cứ cho thấy người đang chiếm hữu hoặc giữ tài sản đang tranh chấp có hành vi chuyển dịch quyền về tài sản đối với tài sản đang tranh chấp cho người khác."
+    },
+    {
+        "id": "Điều 122.0",
+        "article": "Điều 122",
+        "clause": "0",
+        "title": "Cấm thay đổi hiện trạng tài sản đang tranh chấp",
+        "text": "Cấm thay đổi hiện trạng tài sản đang tranh chấp được áp dụng nếu trong quá trình giải quyết vụ án có căn cứ cho thấy người đang chiếm hữu hoặc giữ tài sản đang tranh chấp có hành vi tháo gỡ, lắp ghép, xây dựng thêm hoặc có hành vi khác làm thay đổi hiện trạng tài sản đó."
+    },
+    {
+        "id": "Điều 123.0",
+        "article": "Điều 123",
+        "clause": "0",
+        "title": "Cho thu hoạch, cho bán hoa màu hoặc sản phẩm, hàng hoá khác",
+        "text": "Cho thu hoạch, cho bán hoa màu hoặc sản phẩm, hàng hoá khác được áp dụng nếu trong quá trình giải quyết vụ án có tài sản đang tranh chấp hoặc liên quan đến tranh chấp mà có hoa màu hoặc sản phẩm, hàng hoá khác ở thời kỳ thu hoạch hoặc không thể bảo quản được lâu dài."
+    },
+    {
+        "id": "Điều 124.0",
+        "article": "Điều 124",
+        "clause": "0",
+        "title": "Phong tỏa tài khoản tại ngân hàng, tổ chức tín dụng khác, kho bạc nhà nước",
+        "text": "Phong tỏa tài khoản tại ngân hàng, tổ chức tín dụng khác, kho bạc nhà nước được áp dụng nếu trong quá trình giải quyết vụ án có căn cứ cho thấy người có nghĩa vụ có tài khoản tại ngân hàng, tổ chức tín dụng khác, kho bạc nhà nước và việc áp dụng biện pháp này là cần thiết để bảo đảm cho việc giải quyết vụ án hoặc việc thi hành án."
+    },
+    {
+        "id": "Điều 125.0",
+        "article": "Điều 125",
+        "clause": "0",
+        "title": "Phong tỏa tài sản ở nơi gửi giữ",
+        "text": "Phong tỏa tài sản ở nơi gửi giữ được áp dụng nếu trong quá trình giải quyết vụ án có căn cứ cho thấy người có nghĩa vụ có tài sản đang gửi giữ và việc áp dụng biện pháp này là cần thiết để bảo đảm cho việc giải quyết vụ án hoặc bảo việc thi hành án."
+    },
+    {
+        "id": "Điều 126.0",
+        "article": "Điều 126",
+        "clause": "0",
+        "title": "Phong tỏa tài sản của người có nghĩa vụ",
+        "text": "Phong tỏa tài sản của người có nghĩa vụ được áp dụng nếu trong quá trình giải quyết vụ án có căn cứ cho thấy người có nghĩa vụ có tài sản và việc áp dụng biện pháp này là cần thiết để bảo đảm cho việc giải quyết vụ án hoặc việc thi hành án."
+    },
+    {
+        "id": "Điều 127.0",
+        "article": "Điều 127",
+        "clause": "0",
+        "title": "Cấm hoặc buộc thực hiện hành vi nhất định",
+        "text": "Cấm hoặc buộc thực hiện hành vi nhất định được áp dụng nếu trong quá trình giải quyết vụ án có căn cứ cho thấy đương sự hoặc cơ quan, tổ chức, cá nhân khác thực hiện hoặc không thực hiện một hoặc một số hành vi nhất định làm ảnh hưởng đến việc giải quyết vụ án, quyền và lợi ích hợp pháp của người khác có liên quan trong vụ án đang được Tòa án giải quyết."
+    },
+    {
+        "id": "Điều 128.0",
+        "article": "Điều 128",
+        "clause": "0",
+        "title": "Cấm xuất cảnh đối với người có nghĩa vụ",
+        "text": "Cấm xuất cảnh đối với người có nghĩa vụ được áp dụng nếu có căn cứ cho thấy việc giải quyết vụ án có liên quan đến nghĩa vụ của họ đối với Nhà nước, cơ quan, tổ chức, cá nhân khác và việc xuất cảnh của họ ảnh hưởng đến việc giải quyết vụ án, lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân khác hoặc để bảo đảm việc thi hành án."
+    },
+    {
+        "id": "Điều 129.0",
+        "article": "Điều 129",
+        "clause": "0",
+        "title": "Cấm tiếp xúc với nạn nhân bạo lực gia đình",
+        "text": "Cấm người có hành vi bạo lực gia đình tiếp xúc với nạn nhân bạo lực gia đình được áp dụng nếu biện pháp đó là cần thiết để bảo vệ tính mạng, sức khỏe, danh dự của nạn nhân bạo lực gia đình theo quy định của Luật phòng chống bạo lực gia đình."
+    },
+    {
+        "id": "Điều 130.0",
+        "article": "Điều 130",
+        "clause": "0",
+        "title": "Tạm dừng việc đóng thầu và các hoạt động có liên quan đến việc đấu thầu",
+        "text": "Tạm dừng việc đóng thầu, phê duyệt danh sách ngắn, kết quả lựa chọn nhà thầu, nhà đầu tư, ký kết hợp đồng, thực hiện hợp đồng được áp dụng nếu quá trình giải quyết vụ án cho thấy việc áp dụng biện pháp này là cần thiết để bảo đảm cho việc giải quyết vụ án theo đúng quy định của pháp luật."
     },
     {
         "id": "Điều 131.1",
@@ -4135,6 +4450,13 @@
         "clause": "3",
         "title": "Bắt giữ tàu bay, tàu biển để bảo đảm giải quyết vụ án",
         "text": "Trình tự, thủ tục bắt giữ tàu bay, tàu biển được áp dụng theo quy định của pháp luật về bắt giữ tàu bay, tàu biển."
+    },
+    {
+        "id": "Điều 132.0",
+        "article": "Điều 132",
+        "clause": "0",
+        "title": "Các biện pháp khẩn cấp tạm thời khác",
+        "text": "Ngoài các biện pháp khẩn cấp tạm thời quy định tại các khoản từ khoản 1 đến khoản 16 Điều 114 của Bộ luật này, Tòa án có trách nhiệm giải quyết yêu cầu áp dụng biện pháp khẩn cấp tạm thời khác do luật khác quy định."
     },
     {
         "id": "Điều 133.1",
@@ -4221,6 +4543,20 @@
         "text": "Trường hợp áp dụng biện pháp khẩn cấp tạm thời quy định tại khoản 10 và khoản 11 Điều 114 của Bộ luật này thì chỉ được phong tỏa tài khoản, tài sản có giá trị tương đương với nghĩa vụ tài sản mà người bị áp dụng biện pháp khẩn cấp tạm thời có nghĩa vụ phải thực hiện."
     },
     {
+        "id": "Điều 134.0",
+        "article": "Điều 134",
+        "clause": "0",
+        "title": "Kiến nghị áp dụng biện pháp khẩn cấp tạm thời của cơ quan, tổ chức, cá nhân khởi kiện vụ án để bảo vệ lợi ích công cộng, lợi ích của Nhà nước, quyền và lợi ích hợp pháp của người khác",
+        "text": "Cơ quan, tổ chức, cá nhân khởi kiện vụ án quy định tại Điều 187 của Bộ luật này kiến nghị Tòa án áp dụng biện pháp khẩn cấp tạm thời bằng văn bản, trong đó phải nêu rõ lý do kiến nghị; biện pháp khẩn cấp tạm thời cần được áp dụng; tên, địa chỉ của người có quyền và lợi ích hợp pháp cần được bảo vệ; tên, địa chỉ của người bị yêu cầu áp dụng biện pháp khẩn cấp tạm thời; tóm tắt nội dung tranh chấp, hành vi xâm phạm quyền và lợi ích hợp pháp của đương sự; chứng cứ để chứng minh cho việc kiến nghị của mình là có căn cứ và hợp pháp."
+    },
+    {
+        "id": "Điều 135.0",
+        "article": "Điều 135",
+        "clause": "0",
+        "title": "Tòa án tự mình ra quyết định áp dụng biện pháp khẩn cấp tạm thời",
+        "text": "Tòa án tự mình ra quyết định áp dụng biện pháp khẩn cấp tạm thời quy định tại các khoản 1, 2, 3, 4 và 5 Điều 114 của Bộ luật này trong trường hợp đương sự không yêu cầu áp dụng biện pháp khẩn cấp tạm thời."
+    },
+    {
         "id": "Điều 136.1",
         "article": "Điều 136",
         "clause": "1",
@@ -4233,6 +4569,13 @@
         "clause": "2",
         "title": "Buộc thực hiện biện pháp bảo đảm",
         "text": "Khoản tiền, kim khí quý, đá quý hoặc giấy tờ có giá phải được gửi vào tài khoản phong tỏa tại ngân hàng nơi có trụ sở của Tòa án quyết định áp dụng biện pháp khẩn cấp tạm thời trong thời hạn do Tòa án ấn định. Trong trường hợp thực hiện biện pháp bảo đảm vào ngày lễ hoặc ngày nghỉ thì khoản tiền bảo đảm được gửi giữ tại Tòa án. Tòa án phải làm thủ tục giao nhận và gửi ngay khoản tiền đó vào ngân hàng vào ngày làm việc tiếp theo."
+    },
+    {
+        "id": "Điều 137.0",
+        "article": "Điều 137",
+        "clause": "0",
+        "title": "Thay đổi, áp dụng bổ sung biện pháp khẩn cấp tạm thời",
+        "text": "Khi xét thấy biện pháp khẩn cấp tạm thời đang được áp dụng không còn phù hợp mà cần thiết phải thay đổi hoặc áp dụng bổ sung biện pháp khẩn cấp tạm thời khác thì thủ tục thay đổi, áp dụng bổ sung biện pháp khẩn cấp tạm thời khác được thực hiện theo quy định tại Điều 133 của Bộ luật này."
     },
     {
         "id": "Điều 138.1",
@@ -4326,6 +4669,13 @@
         "text": "Tòa án phải cấp hoặc gửi quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời ngay sau khi ra quyết định cho người có yêu cầu, người bị áp dụng biện pháp khẩn cấp tạm thời, cơ quan, tổ chức, cá nhân có liên quan, cơ quan thi hành án dân sự có thẩm quyền và Viện kiểm sát cùng cấp."
     },
     {
+        "id": "Điều 140.0",
+        "article": "Điều 140",
+        "clause": "0",
+        "title": "Khiếu nại, kiến nghị về quyết định áp dụng, thay đổi, hủy bỏ hoặc không áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời",
+        "text": "Đương sự có quyền khiếu nại, Viện kiểm sát có quyền kiến nghị với Chánh án Tòa án đang giải quyết vụ án về quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời hoặc việc Thẩm phán không quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời. Thời hạn khiếu nại, kiến nghị là 03 ngày làm việc, kể từ ngày nhận được quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời hoặc trả lời của Thẩm phán về việc không ra quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời."
+    },
+    {
         "id": "Điều 141.1",
         "article": "Điều 141",
         "clause": "1",
@@ -4415,6 +4765,13 @@
         "clause": "4",
         "title": "Xử lý tiền tạm ứng án phí, tiền tạm ứng lệ phí, án phí, lệ phí thu được",
         "text": "Trường hợp việc giải quyết vụ việc dân sự bị tạm đình chỉ thì tiền tạm ứng án phí, tiền tạm ứng lệ phí đã nộp được xử lý khi vụ việc được tiếp tục giải quyết."
+    },
+    {
+        "id": "Điều 145.0",
+        "article": "Điều 145",
+        "clause": "0",
+        "title": "Chế độ thu, chi trả tiền tạm ứng án phí, tiền tạm ứng lệ phí, án phí, lệ phí",
+        "text": "Việc thu tiền tạm ứng án phí và án phí, tiền tạm ứng lệ phí và lệ phí; việc chi trả tiền tạm ứng án phí, tiền tạm ứng lệ phí phải được thực hiện theo quy định của pháp luật."
     },
     {
         "id": "Điều 146.1",
@@ -4508,6 +4865,13 @@
         "text": "Đối với yêu cầu công nhận thuận tình ly hôn, thỏa thuận nuôi con, chia tài sản khi ly hôn thì vợ, chồng có thể thỏa thuận về việc chịu lệ phí, trừ trường hợp được miễn hoặc không phải chịu lệ phí theo quy định của pháp luật. Trường hợp vợ, chồng không thỏa thuận được người có nghĩa vụ chịu lệ phí thì mỗi người phải chịu một nửa lệ phí."
     },
     {
+        "id": "Điều 150.0",
+        "article": "Điều 150",
+        "clause": "0",
+        "title": "Quy định cụ thể về án phí, lệ phí",
+        "text": "Căn cứ vào quy định của Luật phí và lệ phí và Bộ luật này, Ủy ban thường vụ Quốc hội quy định cụ thể về án phí, lệ phí Tòa án; mức thu án phí, lệ phí Tòa án đối với mỗi loại vụ việc cụ thể; các trường hợp được miễn, giảm hoặc không phải nộp án phí, lệ phí Tòa án; chế độ thu, nộp, quản lý và sử dụng án phí, lệ phí Tòa án. Mục 2. CÁC CHI PHÍ TỐ TỤNG KHÁC"
+    },
+    {
         "id": "Điều 151.1",
         "article": "Điều 151",
         "clause": "1",
@@ -4534,6 +4898,13 @@
         "clause": "2",
         "title": "Nghĩa vụ nộp tiền tạm ứng chi phí ủy thác tư pháp ra nước ngoài",
         "text": "Người yêu cầu Tòa án giải quyết việc dân sự, người kháng cáo theo thủ tục phúc thẩm hoặc đương sự khác trong việc dân sự phải nộp tiền tạm ứng chi phí ủy thác tư pháp ra nước ngoài khi yêu cầu của họ làm phát sinh việc ủy thác tư pháp ra nước ngoài."
+    },
+    {
+        "id": "Điều 153.0",
+        "article": "Điều 153",
+        "clause": "0",
+        "title": "Nghĩa vụ chịu chi phí ủy thác tư pháp ra nước ngoài",
+        "text": "Trường hợp các bên đương sự không có thoả thuận khác hoặc pháp luật không có quy định khác thì nghĩa vụ chịu chi phí ủy thác tư pháp ra nước ngoài được xác định như sau:"
     },
     {
         "id": "Điều 153.1",
@@ -4613,6 +4984,13 @@
         "text": "Trường hợp Tòa án xét thấy cần thiết và quyết định xem xét, thẩm định tại chỗ thì nguyên đơn, người yêu cầu giải quyết việc dân sự, người kháng cáo theo thủ tục phúc thẩm phải nộp tiền tạm ứng chi phí xem xét, thẩm định tại chỗ."
     },
     {
+        "id": "Điều 157.0",
+        "article": "Điều 157",
+        "clause": "0",
+        "title": "Nghĩa vụ chịu chi phí xem xét, thẩm định tại chỗ",
+        "text": "Trường hợp các bên đương sự không có thoả thuận khác hoặc pháp luật không có quy định khác thì nghĩa vụ chịu chi phí xem xét, thẩm định tại chỗ được xác định như sau:"
+    },
+    {
         "id": "Điều 157.1",
         "article": "Điều 157",
         "clause": "1",
@@ -4676,6 +5054,13 @@
         "text": "Chi phí giám định là số tiền cần thiết và hợp lý phải chi trả cho việc giám định và do người giám định tính căn cứ vào quy định của pháp luật."
     },
     {
+        "id": "Điều 160.0",
+        "article": "Điều 160",
+        "clause": "0",
+        "title": "Nghĩa vụ nộp tiền tạm ứng chi phí giám định",
+        "text": "Trường hợp các đương sự không có thỏa thuận khác hoặc pháp luật không có quy định khác thì nghĩa vụ nộp tiền tạm ứng chi phí giám định được xác định như sau:"
+    },
+    {
         "id": "Điều 160.1",
         "article": "Điều 160",
         "clause": "1",
@@ -4695,6 +5080,13 @@
         "clause": "3",
         "title": "Nghĩa vụ nộp tiền tạm ứng chi phí giám định",
         "text": "Đương sự, người có yêu cầu giải quyết việc dân sự, người kháng cáo đã yêu cầu Tòa án trưng cầu giám định mà không được chấp nhận và tự mình yêu cầu tổ chức, cá nhân thực hiện giám định thì việc nộp tiền tạm ứng chi phí giám định được thực hiện theo quy định của Luật giám định tư pháp."
+    },
+    {
+        "id": "Điều 161.0",
+        "article": "Điều 161",
+        "clause": "0",
+        "title": "Nghĩa vụ chịu chi phí giám định",
+        "text": "Trường hợp các bên đương sự không có thoả thuận khác hoặc pháp luật không có quy định khác thì nghĩa vụ chịu chi phí giám định được xác định như sau:"
     },
     {
         "id": "Điều 161.1",
@@ -4760,6 +5152,13 @@
         "text": "Chi phí định giá tài sản là số tiền cần thiết và hợp lý phải chi trả cho công việc định giá tài sản và do Hội đồng định giá tính căn cứ vào quy định của pháp luật."
     },
     {
+        "id": "Điều 164.0",
+        "article": "Điều 164",
+        "clause": "0",
+        "title": "Nghĩa vụ nộp tiền tạm ứng chi phí định giá tài sản",
+        "text": "Trường hợp các bên đương sự không có thoả thuận khác hoặc pháp luật không có quy định khác thì nghĩa vụ nộp tiền tạm ứng chi phí định giá tài sản được xác định như sau:"
+    },
+    {
         "id": "Điều 164.1",
         "article": "Điều 164",
         "clause": "1",
@@ -4779,6 +5178,13 @@
         "clause": "3",
         "title": "Nghĩa vụ nộp tiền tạm ứng chi phí định giá tài sản",
         "text": "Đối với trường hợp quy định tại khoản 3 Điều 104 của Bộ luật này thì nguyên đơn, người kháng cáo phải nộp tiền tạm ứng chi phí định giá tài sản."
+    },
+    {
+        "id": "Điều 165.0",
+        "article": "Điều 165",
+        "clause": "0",
+        "title": "Nghĩa vụ chịu chi phí định giá tài sản, thẩm định giá",
+        "text": "Trường hợp các bên đương sự không có thoả thuận khác hoặc pháp luật không có quy định khác thì nghĩa vụ chịu chi phí định giá tài sản, thẩm định giá được xác định như sau:"
     },
     {
         "id": "Điều 165.1",
@@ -4893,6 +5299,20 @@
         "text": "Trường hợp Tòa án yêu cầu người phiên dịch thì chi phí cho người phiên dịch do Tòa án trả."
     },
     {
+        "id": "Điều 169.0",
+        "article": "Điều 169",
+        "clause": "0",
+        "title": "Quy định cụ thể về các chi phí tố tụng",
+        "text": "Căn cứ vào quy định của Bộ luật này, Ủy ban thường vụ Quốc hội quy định cụ thể về chi phí ủy thác tư pháp ra nước ngoài, chi phí xem xét, thẩm định tại chỗ, chi phí giám định, định giá tài sản; chi phí cho người làm chứng, người phiên dịch; chi phí tố tụng khác do luật khác quy định và việc miễn, giảm chi phí tố tụng trong quá trình giải quyết vụ án. Chương X CẤP, TỐNG ĐẠT, THÔNG BÁO VĂN BẢN TỐ TỤNG"
+    },
+    {
+        "id": "Điều 170.0",
+        "article": "Điều 170",
+        "clause": "0",
+        "title": "Nghĩa vụ cấp, tống đạt, thông báo văn bản tố tụng",
+        "text": "Tòa án, Viện kiểm sát, cơ quan thi hành án thực hiện việc cấp, tống đạt, thông báo văn bản tố tụng cho đương sự, những người tham gia tố tụng khác và cơ quan, tổ chức, cá nhân có liên quan theo quy định của Bộ luật này và pháp luật có liên quan."
+    },
+    {
         "id": "Điều 171.1",
         "article": "Điều 171",
         "clause": "1",
@@ -4919,6 +5339,13 @@
         "clause": "4",
         "title": "Các văn bản tố tụng phải được cấp, tống đạt, thông báo",
         "text": "Các văn bản tố tụng khác mà pháp luật có quy định."
+    },
+    {
+        "id": "Điều 172.0",
+        "article": "Điều 172",
+        "clause": "0",
+        "title": "Người thực hiện việc cấp, tống đạt, thông báo văn bản tố tụng",
+        "text": "Việc cấp, tống đạt, thông báo văn bản tố tụng do những người sau đây thực hiện:"
     },
     {
         "id": "Điều 172.1",
@@ -4961,6 +5388,13 @@
         "clause": "6",
         "title": "Người thực hiện việc cấp, tống đạt, thông báo văn bản tố tụng",
         "text": "Những người khác mà pháp luật có quy định."
+    },
+    {
+        "id": "Điều 173.0",
+        "article": "Điều 173",
+        "clause": "0",
+        "title": "Các phương thức cấp, tống đạt, thông báo văn bản tố tụng",
+        "text": "Việc cấp, tống đạt, thông báo văn bản tố tụng được thực hiện bằng các phương thức sau đây:"
     },
     {
         "id": "Điều 173.1",
@@ -5024,6 +5458,13 @@
         "clause": "2",
         "title": "Thủ tục cấp, tống đạt, thông báo văn bản tố tụng",
         "text": "Việc cấp, tống đạt, thông báo văn bản tố tụng qua dịch vụ bưu chính phải bằng thư bảo đảm và có xác nhận của người nhận văn bản tố tụng. Văn bản có xác nhận phải được chuyển lại cho Tòa án. Thời điểm để tính thời hạn tố tụng là ngày họ xác nhận đã nhận được văn bản tố tụng do tổ chức dịch vụ bưu chính chuyển đến."
+    },
+    {
+        "id": "Điều 176.0",
+        "article": "Điều 176",
+        "clause": "0",
+        "title": "Thủ tục cấp, tống đạt, thông báo bằng phương tiện điện tử",
+        "text": "Việc cấp, tống đạt, thông báo bằng phương tiện điện tử được thực hiện theo quy định của pháp luật về giao dịch điện tử. Tòa án nhân dân tối cao hướng dẫn thi hành Điều này."
     },
     {
         "id": "Điều 177.1",
@@ -5138,6 +5579,13 @@
         "text": "Thông báo trên phương tiện thông tin đại chúng phải được đăng trên Cổng thông tin điện tử của Tòa án, trên một trong các báo hàng ngày của Trung ương trong ba số liên tiếp và phát sóng trên Đài phát thanh hoặc Đài truyền hình của trung ương ba lần trong 03 ngày liên tiếp."
     },
     {
+        "id": "Điều 181.0",
+        "article": "Điều 181",
+        "clause": "0",
+        "title": "Thông báo kết quả việc cấp, tống đạt, thông báo văn bản tố tụng",
+        "text": "Trường hợp người thực hiện việc cấp, tống đạt, thông báo văn bản tố tụng không phải là Tòa án hoặc cơ quan ban hành văn bản tố tụng hoặc cán bộ của các cơ quan đó thì người thực hiện phải thông báo ngay kết quả việc cấp, tống đạt, thông báo văn bản tố tụng cho Tòa án hoặc cơ quan ban hành văn bản tố tụng đó. Chương XI THỜI HẠN TỐ TỤNG"
+    },
+    {
         "id": "Điều 182.1",
         "article": "Điều 182",
         "clause": "1",
@@ -5152,6 +5600,13 @@
         "text": "Thời hạn tố tụng có thể được xác định bằng giờ, ngày, tuần, tháng, năm hoặc bằng một sự kiện có thể sẽ xảy ra."
     },
     {
+        "id": "Điều 183.0",
+        "article": "Điều 183",
+        "clause": "0",
+        "title": "Áp dụng quy định của Bộ luật dân sự về thời hạn",
+        "text": "Cách tính thời hạn tố tụng, quy định về thời hạn tố tụng, thời điểm bắt đầu, kết thúc thời hạn tố tụng trong Bộ luật này được áp dụng theo các quy định tương ứng của Bộ luật dân sự."
+    },
+    {
         "id": "Điều 184.1",
         "article": "Điều 184",
         "clause": "1",
@@ -5164,6 +5619,20 @@
         "clause": "2",
         "title": "Thời hiệu khởi kiện, thời hiệu yêu cầu giải quyết việc dân sự",
         "text": "Tòa án chỉ áp dụng quy định về thời hiệu theo yêu cầu áp dụng thời hiệu của một bên hoặc các bên với điều kiện yêu cầu này phải được đưa ra trước khi Tòa án cấp sơ thẩm ra bản án, quyết định giải quyết vụ việc. Người được hưởng lợi từ việc áp dụng thời hiệu có quyền từ chối áp dụng thời hiệu, trừ trường hợp việc từ chối đó nhằm mục đích trốn tránh thực hiện nghĩa vụ."
+    },
+    {
+        "id": "Điều 185.0",
+        "article": "Điều 185",
+        "clause": "0",
+        "title": "Áp dụng quy định của Bộ luật dân sự về thời hiệu",
+        "text": "Các quy định của Bộ luật dân sự về thời hiệu được áp dụng trong tố tụng dân sự. Phần thứ hai THỦ TỤC GIẢI QUYẾT VỤ ÁN TẠI TÒA ÁN CẤP SƠ THẨM Chương XII KHỞI KIỆN VÀ THỤ LÝ VỤ ÁN"
+    },
+    {
+        "id": "Điều 186.0",
+        "article": "Điều 186",
+        "clause": "0",
+        "title": "Quyền khởi kiện vụ án",
+        "text": "Cơ quan, tổ chức, cá nhân có quyền tự mình hoặc thông qua người đại diện hợp pháp khởi kiện vụ án (sau đây gọi chung là người khởi kiện) tại Tòa án có thẩm quyền để yêu cầu bảo vệ quyền và lợi ích hợp pháp của mình."
     },
     {
         "id": "Điều 187.1",
@@ -5887,6 +6356,13 @@
         "text": "Người có quyền lợi, nghĩa vụ liên quan có quyền đưa ra yêu cầu độc lập trước thời điểm mở phiên họp kiểm tra việc giao nộp, tiếp cận, công khai chứng cứ và hòa giải."
     },
     {
+        "id": "Điều 202.0",
+        "article": "Điều 202",
+        "clause": "0",
+        "title": "Thủ tục yêu cầu phản tố hoặc yêu cầu độc lập",
+        "text": "Thủ tục yêu cầu phản tố hoặc yêu cầu độc lập được thực hiện theo quy định của Bộ luật này về thủ tục khởi kiện của nguyên đơn. Chương XIII THỦ TỤC HÒA GIẢI VÀ CHUẨN BỊ XÉT XỬ"
+    },
+    {
         "id": "Điều 203.1",
         "article": "Điều 203",
         "clause": "1",
@@ -6524,6 +7000,13 @@
         "text": "Quyết định tạm đình chỉ giải quyết vụ án dân sự có thể bị kháng cáo, kháng nghị theo thủ tục phúc thẩm."
     },
     {
+        "id": "Điều 216.0",
+        "article": "Điều 216",
+        "clause": "0",
+        "title": "Quyết định tiếp tục giải quyết vụ án dân sự",
+        "text": "Trong thời hạn 03 ngày làm việc, kể từ ngày lý do tạm đình chỉ giải quyết vụ án quy định tại Điều 214 của Bộ luật này không còn thì Tòa án phải ra quyết định tiếp tục giải quyết vụ án dân sự và gửi quyết định đó cho đương sự, cơ quan, tổ chức, cá nhân khởi kiện, Viện kiểm sát cùng cấp. Quyết định tạm đình chỉ giải quyết vụ án dân sự hết hiệu lực kể từ ngày ban hành quyết định tiếp tục giải quyết vụ án dân sự. Tòa án tiếp tục giải quyết vụ án kể từ khi ban hành quyết định tiếp tục giải quyết vụ án dân sự."
+    },
+    {
         "id": "Điều 217.1",
         "article": "Điều 217",
         "clause": "1",
@@ -6811,6 +7294,20 @@
         "text": "Trường hợp kiến nghị xem xét sửa đổi, bổ sung hoặc bãi bỏ văn bản quy phạm pháp luật là luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ của Quốc hội thì thực hiện theo quy định của Luật ban hành văn bản quy phạm pháp luật."
     },
     {
+        "id": "Điều 222.0",
+        "article": "Điều 222",
+        "clause": "0",
+        "title": "Yêu cầu chung đối với phiên tòa sơ thẩm",
+        "text": "Phiên tòa sơ thẩm phải được tiến hành đúng thời gian, địa điểm đã được ghi trong quyết định đưa vụ án ra xét xử hoặc trong giấy báo mở lại phiên tòa trong trường hợp phải hoãn phiên tòa."
+    },
+    {
+        "id": "Điều 223.0",
+        "article": "Điều 223",
+        "clause": "0",
+        "title": "Địa điểm tổ chức phiên tòa",
+        "text": "Phiên tòa được tổ chức tại trụ sở Tòa án hoặc có thể ngoài trụ sở Tòa án nhưng phải bảo đảm tính trang nghiêm và hình thức phòng xử án quy định tại Điều 224 của Bộ luật này."
+    },
+    {
         "id": "Điều 224.1",
         "article": "Điều 224",
         "clause": "1",
@@ -6900,6 +7397,13 @@
         "clause": "2đ",
         "title": "Sự có mặt của đương sự, người đại diện, người bảo vệ quyền và lợi ích hợp pháp của đương sự",
         "text": "Người bảo vệ quyền và lợi ích hợp pháp của đương sự vắng mặt thì Tòa án vẫn tiến hành xét xử vắng mặt họ."
+    },
+    {
+        "id": "Điều 228.0",
+        "article": "Điều 228",
+        "clause": "0",
+        "title": "Xét xử trong trường hợp đương sự, người bảo vệ quyền và lợi ích của đương sự vắng mặt tại phiên tòa",
+        "text": "Tòa án vẫn tiến hành xét xử vụ án trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 228.1",
@@ -7182,6 +7686,13 @@
         "text": "Kiểm sát viên và những người tham gia tố tụng có quyền được xem biên bản phiên tòa ngay sau khi kết thúc phiên tòa, yêu cầu ghi những sửa đổi, bổ sung vào biên bản phiên tòa và ký xác nhận."
     },
     {
+        "id": "Điều 237.0",
+        "article": "Điều 237",
+        "clause": "0",
+        "title": "Chuẩn bị khai mạc phiên tòa",
+        "text": "Trước khi khai mạc phiên tòa, Thư ký phiên tòa phải tiến hành các công việc sau đây:"
+    },
+    {
         "id": "Điều 237.1",
         "article": "Điều 237",
         "clause": "1",
@@ -7322,6 +7833,20 @@
         "text": "Yêu cầu người giám định, người phiên dịch cam kết cung cấp kết quả giám định chính xác, phiên dịch đúng nội dung cần phiên dịch."
     },
     {
+        "id": "Điều 240.0",
+        "article": "Điều 240",
+        "clause": "0",
+        "title": "Giải quyết yêu cầu thay đổi người tiến hành tố tụng, người giám định, người phiên dịch",
+        "text": "Trường hợp có người yêu cầu thay đổi người tiến hành tố tụng, người giám định, người phiên dịch thì Hội đồng xét xử phải xem xét, quyết định theo thủ tục do Bộ luật này quy định và có thể chấp nhận hoặc không chấp nhận; trường hợp không chấp nhận thì phải nêu rõ lý do."
+    },
+    {
+        "id": "Điều 241.0",
+        "article": "Điều 241",
+        "clause": "0",
+        "title": "Xem xét, quyết định hoãn phiên tòa khi có người vắng mặt",
+        "text": "Khi có người tham gia tố tụng vắng mặt tại phiên tòa mà không thuộc trường hợp Tòa án phải hoãn phiên tòa thì chủ toạ phiên tòa phải hỏi xem có ai đề nghị hoãn phiên tòa hay không; nếu có người đề nghị thì Hội đồng xét xử xem xét, quyết định theo thủ tục do Bộ luật này quy định và có thể chấp nhận hoặc không chấp nhận; trường hợp không chấp nhận thì phải nêu rõ lý do."
+    },
+    {
         "id": "Điều 242.1",
         "article": "Điều 242",
         "clause": "1",
@@ -7334,6 +7859,13 @@
         "clause": "2",
         "title": "Bảo đảm tính khách quan của người làm chứng",
         "text": "Trường hợp lời khai của đương sự và người làm chứng có ảnh hưởng lẫn nhau thì chủ toạ phiên tòa có thể quyết định cách ly đương sự với người làm chứng trước khi hỏi người làm chứng."
+    },
+    {
+        "id": "Điều 243.0",
+        "article": "Điều 243",
+        "clause": "0",
+        "title": "Hỏi đương sự về việc thay đổi, bổ sung, rút yêu cầu",
+        "text": "Thủ tục hỏi đương sự về việc thay đổi, bổ sung, rút yêu cầu được bắt đầu bằng việc chủ toạ phiên tòa hỏi đương sự về các vấn đề sau đây:"
     },
     {
         "id": "Điều 243.1",
@@ -7637,6 +8169,20 @@
         "text": "Trường hợp đặc biệt cần giữ bí mật nhà nước, giữ gìn thuần phong mỹ tục của dân tộc, giữ bí mật nghề nghiệp, bí mật kinh doanh, bí mật cá nhân, bí mật gia đình, bảo vệ người chưa thành niên theo yêu cầu của đương sự thì Hội đồng xét xử không công bố tài liệu, chứng cứ có trong hồ sơ vụ án."
     },
     {
+        "id": "Điều 255.0",
+        "article": "Điều 255",
+        "clause": "0",
+        "title": "Nghe băng ghi âm, đĩa ghi âm, xem băng ghi hình, đĩa ghi hình, thiết bị khác chứa âm thanh, hình ảnh",
+        "text": "Theo yêu cầu của đương sự, người bảo vệ quyền và lợi ích hợp pháp của đương sự, người tham gia tố tụng khác, Kiểm sát viên hoặc khi xét thấy cần thiết, Hội đồng xét xử cho nghe băng ghi âm, đĩa ghi âm, xem băng ghi hình, đĩa ghi hình, thiết bị khác chứa âm thanh, hình ảnh tại phiên tòa, trừ trường hợp quy định tại khoản 2 Điều 254 của Bộ luật này."
+    },
+    {
+        "id": "Điều 256.0",
+        "article": "Điều 256",
+        "clause": "0",
+        "title": "Xem xét vật chứng",
+        "text": "Vật chứng, ảnh hoặc biên bản xác nhận vật chứng được đưa ra để xem xét tại phiên tòa. Khi cần thiết, Hội đồng xét xử có thể cùng với đương sự đến xem xét tại chỗ vật chứng không thể đưa đến phiên tòa được."
+    },
+    {
         "id": "Điều 257.1",
         "article": "Điều 257",
         "clause": "1",
@@ -7663,6 +8209,13 @@
         "clause": "4",
         "title": "Hỏi người giám định",
         "text": "Khi có đương sự, người bảo vệ quyền và lợi ích hợp pháp của đương sự không đồng ý với kết luận giám định được công bố tại phiên tòa và có yêu cầu giám định bổ sung hoặc giám định lại, nếu xét thấy việc giám định bổ sung, giám định lại là cần thiết cho việc giải quyết vụ án thì Hội đồng xét xử quyết định giám định bổ sung, giám định lại; trong trường hợp này, Hội đồng xét xử quyết định tạm ngừng phiên tòa theo quy định tại điểm d khoản 1 Điều 259 của Bộ luật này."
+    },
+    {
+        "id": "Điều 258.0",
+        "article": "Điều 258",
+        "clause": "0",
+        "title": "Kết thúc việc hỏi tại phiên tòa",
+        "text": "Khi nhận thấy các tình tiết của vụ án đã được xem xét đầy đủ thì chủ tọa phiên tòa hỏi Kiểm sát viên, đương sự, người bảo vệ quyền và lợi ích hợp pháp của đương sự và những người tham gia tố tụng khác xem họ có yêu cầu hỏi vấn đề gì nữa không; trường hợp có người yêu cầu và xét thấy yêu cầu đó là có căn cứ thì chủ tọa phiên tòa quyết định tiếp tục việc hỏi."
     },
     {
         "id": "Điều 259.1",
@@ -7777,6 +8330,27 @@
         "text": "Trường hợp vắng mặt một trong các đương sự và người tham gia tố tụng khác thì chủ tọa phiên tòa phải công bố lời khai của họ để trên cơ sở đó các đương sự có mặt tại phiên tòa tranh luận và đối đáp."
     },
     {
+        "id": "Điều 261.0",
+        "article": "Điều 261",
+        "clause": "0",
+        "title": "Phát biểu khi tranh luận và đối đáp",
+        "text": "Khi phát biểu về đánh giá chứng cứ, đề xuất quan điểm của mình về việc giải quyết vụ án, người tham gia tranh luận phải căn cứ vào tài liệu, chứng cứ đã thu thập được và đã được xem xét, kiểm tra tại phiên tòa cũng như kết quả việc hỏi tại phiên tòa. Người tham gia tranh luận có quyền đáp lại ý kiến của người khác."
+    },
+    {
+        "id": "Điều 262.0",
+        "article": "Điều 262",
+        "clause": "0",
+        "title": "Phát biểu của Kiểm sát viên",
+        "text": "Sau khi những người tham gia tố tụng phát biểu tranh luận và đối đáp xong, Kiểm sát viên phát biểu ý kiến về việc tuân theo pháp luật tố tụng của Thẩm phán, Hội đồng xét xử, Thư ký phiên tòa và của người tham gia tố tụng trong quá trình giải quyết vụ án kể từ khi thụ lý cho đến trước thời điểm Hội đồng xét xử nghị án và phát biểu ý kiến về việc giải quyết vụ án. Ngay sau khi kết thúc phiên tòa, Kiểm sát viên phải gửi văn bản phát biểu ý kiến cho Tòa án để lưu vào hồ sơ vụ án."
+    },
+    {
+        "id": "Điều 263.0",
+        "article": "Điều 263",
+        "clause": "0",
+        "title": "Trở lại việc hỏi và tranh luận",
+        "text": "Qua tranh luận, nếu xét thấy có tình tiết của vụ án chưa được xem xét, việc xem xét chưa được đầy đủ hoặc cần xem xét thêm chứng cứ thì Hội đồng xét xử quyết định trở lại việc hỏi và tranh luận. Mục 4. NGHỊ ÁN VÀ TUYÊN ÁN"
+    },
+    {
         "id": "Điều 264.1",
         "article": "Điều 264",
         "clause": "1",
@@ -7803,6 +8377,13 @@
         "clause": "4",
         "title": "Nghị án",
         "text": "Trường hợp vụ án có nhiều tình tiết phức tạp, việc nghị án đòi hỏi phải có thời gian dài thì Hội đồng xét xử có thể quyết định thời gian nghị án nhưng không quá 05 ngày làm việc, kể từ khi kết thúc tranh luận tại phiên tòa. Hội đồng xét xử phải thông báo cho những người có mặt tại phiên tòa và người tham gia tố tụng vắng mặt tại phiên tòa về giờ, ngày và địa điểm tuyên án. Trường hợp Hội đồng xét xử đã thực hiện việc thông báo mà có người tham gia tố tụng vắng mặt vào ngày, giờ và địa điểm tuyên án thì Hội đồng xét xử vẫn tiến hành việc tuyên án theo quy định tại Điều 267 của Bộ luật này."
+    },
+    {
+        "id": "Điều 265.0",
+        "article": "Điều 265",
+        "clause": "0",
+        "title": "Trở lại việc hỏi và tranh luận",
+        "text": "Qua nghị án, nếu xét thấy có tình tiết của vụ án chưa được xem xét, việc hỏi chưa đầy đủ hoặc cần xem xét thêm chứng cứ thì Hội đồng xét xử quyết định trở lại việc hỏi và tranh luận."
     },
     {
         "id": "Điều 266.1",
@@ -7847,6 +8428,13 @@
         "text": "Khi xét xử lại vụ án mà bản án, quyết định đã bị hủy một phần hoặc toàn bộ theo quyết định giám đốc thẩm, tái thẩm thì Tòa án phải giải quyết vấn đề tài sản, nghĩa vụ đã được thi hành (nếu có) theo bản án, quyết định có hiệu lực pháp luật nhưng bị hủy và ghi rõ trong bản án."
     },
     {
+        "id": "Điều 267.0",
+        "article": "Điều 267",
+        "clause": "0",
+        "title": "Tuyên án",
+        "text": "Hội đồng xét xử tuyên đọc bản án với sự có mặt của các đương sự, đại diện cơ quan, tổ chức và cá nhân khởi kiện. Trường hợp đương sự có mặt tại phiên tòa nhưng vắng mặt khi tuyên án hoặc vắng mặt trong trường hợp quy định tại khoản 4 Điều 264 của Bộ luật này thì Hội đồng xét xử vẫn tuyên đọc bản án. Khi tuyên án, mọi người trong phòng xử án phải đứng dậy, trừ trường hợp đặc biệt được sự đồng ý của chủ tọa phiên tòa. Chủ tọa phiên tòa hoặc một thành viên khác của Hội đồng xét xử tuyên đọc bản án và có thể giải thích thêm về việc thi hành bản án và quyền kháng cáo. Trường hợp Tòa án xét xử kín theo quy định tại khoản 2 Điều 15 của Bộ luật này thì Hội đồng xét xử chỉ tuyên công khai phần mở đầu và phần quyết định của bản án. Trường hợp đương sự cần có người phiên dịch thì người phiên dịch phải dịch lại cho họ nghe toàn bộ bản án hoặc phần mở đầu và phần quyết định của bản án được tuyên công khai."
+    },
+    {
         "id": "Điều 268.1",
         "article": "Điều 268",
         "clause": "1",
@@ -7887,6 +8475,20 @@
         "clause": "4",
         "title": "Cấp trích lục bản án; giao, gửi bản án",
         "text": "Bản án sơ thẩm có hiệu lực pháp luật của Tòa án được công bố trên Cổng thông tin điện tử của Tòa án (nếu có), trừ bản án, quyết định của Tòa án có chứa thông tin quy định tại khoản 2 Điều 109 của Bộ luật này. Phần thứ ba THỦ TỤC GIẢI QUYẾT VỤ ÁN TẠI TÒA ÁN CẤP PHÚC THẨM Chương XV TÍNH CHẤT CỦA XÉT XỬ PHÚC THẨM VÀ KHÁNG CÁO, KHÁNG NGHỊ BẢN ÁN, QUYẾT ĐỊNH CỦA TÒA ÁN CẤP SƠ THẨM"
+    },
+    {
+        "id": "Điều 270.0",
+        "article": "Điều 270",
+        "clause": "0",
+        "title": "Tính chất của xét xử phúc thẩm",
+        "text": "Xét xử phúc thẩm là việc Tòa án cấp phúc thẩm trực tiếp xét xử lại vụ án mà bản án, quyết định của Tòa án cấp sơ thẩm chưa có hiệu lực pháp luật bị kháng cáo, kháng nghị."
+    },
+    {
+        "id": "Điều 271.0",
+        "article": "Điều 271",
+        "clause": "0",
+        "title": "Người có quyền kháng cáo",
+        "text": "Đương sự, người đại diện hợp pháp của đương sự, cơ quan, tổ chức, cá nhân khởi kiện có quyền kháng cáo bản án sơ thẩm, quyết định tạm đình chỉ giải quyết vụ án dân sự, quyết định đình chỉ giải quyết vụ án dân sự của Tòa án cấp sơ thẩm để yêu cầu Tòa án cấp phúc thẩm giải quyết lại theo thủ tục phúc thẩm."
     },
     {
         "id": "Điều 272.1",
@@ -8099,6 +8701,13 @@
         "text": "Đương sự có liên quan đến kháng cáo được thông báo về việc kháng cáo có quyền gửi văn bản nêu ý kiến của mình về nội dung kháng cáo cho Tòa án cấp phúc thẩm. Văn bản nêu ý kiến của họ được đưa vào hồ sơ vụ án."
     },
     {
+        "id": "Điều 278.0",
+        "article": "Điều 278",
+        "clause": "0",
+        "title": "Kháng nghị của Viện kiểm sát",
+        "text": "Viện trưởng Viện kiểm sát cùng cấp và cấp trên trực tiếp có quyền kháng nghị bản án sơ thẩm, quyết định tạm đình chỉ giải quyết vụ án dân sự, quyết định đình chỉ giải quyết vụ án dân sự của Tòa án cấp sơ thẩm để yêu cầu Tòa án cấp phúc thẩm giải quyết lại theo thủ tục phúc thẩm."
+    },
+    {
         "id": "Điều 279.1",
         "article": "Điều 279",
         "clause": "1",
@@ -8202,6 +8811,13 @@
         "clause": "2",
         "title": "Hậu quả của việc kháng cáo, kháng nghị",
         "text": "Bản án sơ thẩm, quyết định của Tòa án cấp sơ thẩm hoặc những phần bản án sơ thẩm, quyết định của Tòa án cấp sơ thẩm không bị kháng cáo, kháng nghị theo thủ tục phúc thẩm thì có hiệu lực pháp luật kể từ ngày hết thời hạn kháng cáo, kháng nghị."
+    },
+    {
+        "id": "Điều 283.0",
+        "article": "Điều 283",
+        "clause": "0",
+        "title": "Gửi hồ sơ vụ án và kháng cáo, kháng nghị",
+        "text": "Tòa án cấp sơ thẩm phải gửi hồ sơ vụ án, đơn kháng cáo, quyết định kháng nghị và tài liệu, chứng cứ bổ sung kèm theo cho Tòa án cấp phúc thẩm trong thời hạn 05 ngày làm việc, kể từ ngày:"
     },
     {
         "id": "Điều 283.1",
@@ -8456,6 +9072,13 @@
         "text": "Quyết định đưa vụ án ra xét xử phúc thẩm phải được gửi cho đương sự, Viện kiểm sát cùng cấp trong thời hạn 03 ngày làm việc, kể từ ngày ra quyết định."
     },
     {
+        "id": "Điều 291.0",
+        "article": "Điều 291",
+        "clause": "0",
+        "title": "Quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời",
+        "text": "Trong thời hạn chuẩn bị xét xử phúc thẩm, Tòa án cấp phúc thẩm có quyền quyết định áp dụng, thay đổi, hủy bỏ biện pháp khẩn cấp tạm thời quy định tại Chương VIII của Bộ luật này."
+    },
+    {
         "id": "Điều 292.1",
         "article": "Điều 292",
         "clause": "1",
@@ -8470,6 +9093,13 @@
         "text": "Thời hạn nghiên cứu hồ sơ của Viện kiểm sát cùng cấp là 15 ngày, kể từ ngày nhận được hồ sơ vụ án; hết thời hạn đó, Viện kiểm sát phải trả hồ sơ vụ án cho Tòa án. Chương XVII THỦ TỤC XÉT XỬ PHÚC THẨM Mục 1. THỦ TỤC BẮT ĐẦU PHIÊN TÒA PHÚC THẨM"
     },
     {
+        "id": "Điều 293.0",
+        "article": "Điều 293",
+        "clause": "0",
+        "title": "Phạm vi xét xử phúc thẩm",
+        "text": "Tòa án cấp phúc thẩm chỉ xem xét lại phần của bản án sơ thẩm, quyết định của Tòa án cấp sơ thẩm có kháng cáo, kháng nghị hoặc có liên quan đến việc xem xét nội dung kháng cáo, kháng nghị."
+    },
+    {
         "id": "Điều 294.1",
         "article": "Điều 294",
         "clause": "1",
@@ -8482,6 +9112,13 @@
         "clause": "2",
         "title": "Những người tham gia phiên tòa phúc thẩm",
         "text": "Kiểm sát viên Viện kiểm sát cùng cấp tham gia phiên tòa phúc thẩm."
+    },
+    {
+        "id": "Điều 295.0",
+        "article": "Điều 295",
+        "clause": "0",
+        "title": "Tạm đình chỉ, đình chỉ xét xử phúc thẩm tại phiên tòa",
+        "text": "Tại phiên tòa phúc thẩm, việc tạm đình chỉ, đình chỉ xét xử phúc thẩm vụ án được thực hiện theo quy định tại Điều 288 và Điều 289 của Bộ luật này."
     },
     {
         "id": "Điều 296.1",
@@ -8510,6 +9147,13 @@
         "clause": "4",
         "title": "Hoãn phiên tòa phúc thẩm",
         "text": "Thời hạn hoãn phiên tòa và quyết định hoãn phiên tòa phúc thẩm được thực hiện theo quy định tại Điều 233 của Bộ luật này."
+    },
+    {
+        "id": "Điều 297.0",
+        "article": "Điều 297",
+        "clause": "0",
+        "title": "Chuẩn bị khai mạc phiên tòa phúc thẩm và thủ tục bắt đầu phiên tòa phúc thẩm",
+        "text": "Chuẩn bị khai mạc phiên tòa phúc thẩm và thủ tục bắt đầu phiên tòa phúc thẩm được thực hiện theo quy định tại các điều 237, 239, 240, 241 và 242 của Bộ luật này."
     },
     {
         "id": "Điều 298.1",
@@ -8596,6 +9240,20 @@
         "text": "Các đương sự tự thoả thuận với nhau về việc chịu án phí sơ thẩm, nếu không thoả thuận được thì Tòa án quyết định theo quy định của pháp luật. Mục 2. TRANH TỤNG TẠI PHIÊN TÒA PHÚC THẨM"
     },
     {
+        "id": "Điều 301.0",
+        "article": "Điều 301",
+        "clause": "0",
+        "title": "Nội dung và phương thức tranh tụng tại phiên tòa phúc thẩm",
+        "text": "Nội dung và phương thức tranh tụng tại phiên tòa phúc thẩm được thực hiện theo quy định tại Điều 247 của Bộ luật này."
+    },
+    {
+        "id": "Điều 302.0",
+        "article": "Điều 302",
+        "clause": "0",
+        "title": "Trình bày của đương sự, Kiểm sát viên tại phiên tòa phúc thẩm",
+        "text": "Trường hợp có đương sự vẫn giữ kháng cáo, Viện kiểm sát vẫn giữ kháng nghị thì việc trình bày tại phiên tòa phúc thẩm được tiến hành như sau:"
+    },
+    {
         "id": "Điều 302.1",
         "article": "Điều 302",
         "clause": "1",
@@ -8650,6 +9308,13 @@
         "clause": "2",
         "title": "Thủ tục hỏi và công bố tài liệu, chứng cứ, xem xét vật chứng tại phiên tòa phúc thẩm",
         "text": "Việc hỏi được thực hiện đối với những vấn đề thuộc phạm vi xét xử phúc thẩm quy định tại Điều 293 của Bộ luật này."
+    },
+    {
+        "id": "Điều 304.0",
+        "article": "Điều 304",
+        "clause": "0",
+        "title": "Tạm ngừng phiên tòa phúc thẩm",
+        "text": "Việc tạm ngừng phiên tòa phúc thẩm được thực hiện theo quy định tại Điều 259 của Bộ luật này."
     },
     {
         "id": "Điều 305.1",
@@ -8722,6 +9387,27 @@
         "text": "Trường hợp vắng mặt một trong các đương sự và người tham gia tố tụng khác thì chủ tọa phiên tòa phải công bố lời khai của họ để trên cơ sở đó các đương sự có mặt tại phiên tòa tranh luận và đối đáp."
     },
     {
+        "id": "Điều 306.0",
+        "article": "Điều 306",
+        "clause": "0",
+        "title": "Phát biểu của Kiểm sát viên tại phiên tòa phúc thẩm",
+        "text": "Sau khi kết thúc việc tranh luận và đối đáp, Kiểm sát viên phát biểu ý kiến của Viện kiểm sát về việc tuân theo pháp luật trong quá trình giải quyết vụ án dân sự ở giai đoạn phúc thẩm. Ngay sau khi kết thúc phiên tòa, Kiểm sát viên phải gửi văn bản phát biểu ý kiến cho Tòa án để lưu vào hồ sơ vụ án."
+    },
+    {
+        "id": "Điều 307.0",
+        "article": "Điều 307",
+        "clause": "0",
+        "title": "Nghị án và tuyên án",
+        "text": "Việc nghị án, trở lại việc hỏi và tranh luận, thời gian nghị án, tuyên án, sửa chữa, bổ sung bản án phúc thẩm được thực hiện như thủ tục xét xử sơ thẩm."
+    },
+    {
+        "id": "Điều 308.0",
+        "article": "Điều 308",
+        "clause": "0",
+        "title": "Thẩm quyền của Hội đồng xét xử phúc thẩm",
+        "text": "Hội đồng xét xử phúc thẩm có quyền sau đây:"
+    },
+    {
         "id": "Điều 308.1",
         "article": "Điều 308",
         "clause": "1",
@@ -8764,6 +9450,13 @@
         "text": "Tạm đình chỉ việc giải quyết vụ án khi có văn bản của Chánh án Tòa án nhân dân tối cao kiến nghị cơ quan nhà nước có thẩm quyền xem xét sửa đổi, bổ sung hoặc bãi bỏ văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên cho đến khi cơ quan nhà nước có thẩm quyền có văn bản trả lời Tòa án kết quả xử lý."
     },
     {
+        "id": "Điều 309.0",
+        "article": "Điều 309",
+        "clause": "0",
+        "title": "Sửa bản án sơ thẩm",
+        "text": "Hội đồng xét xử phúc thẩm sửa một phần hoặc toàn bộ bản án sơ thẩm nếu Tòa án cấp sơ thẩm quyết định không đúng pháp luật trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 309.1",
         "article": "Điều 309",
         "clause": "1",
@@ -8778,6 +9471,13 @@
         "text": "Việc thu thập chứng cứ và chứng minh chưa được thực hiện đầy đủ ở cấp sơ thẩm nhưng tại phiên tòa phúc thẩm đã được bổ sung đầy đủ."
     },
     {
+        "id": "Điều 310.0",
+        "article": "Điều 310",
+        "clause": "0",
+        "title": "Hủy bản án sơ thẩm, hủy một phần bản án sơ thẩm và chuyển hồ sơ vụ án cho Tòa án cấp sơ thẩm giải quyết lại vụ án theo thủ tục sơ thẩm",
+        "text": "Hội đồng xét xử phúc thẩm hủy bản án sơ thẩm, hủy một phần bản án sơ thẩm và chuyển hồ sơ vụ án cho Tòa án cấp sơ thẩm giải quyết lại vụ án theo thủ tục sơ thẩm khi thuộc một trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 310.1",
         "article": "Điều 310",
         "clause": "1",
@@ -8790,6 +9490,20 @@
         "clause": "2",
         "title": "Hủy bản án sơ thẩm, hủy một phần bản án sơ thẩm và chuyển hồ sơ vụ án cho Tòa án cấp sơ thẩm giải quyết lại vụ án theo thủ tục sơ thẩm",
         "text": "Thành phần của Hội đồng xét xử sơ thẩm không đúng quy định của Bộ luật này hoặc có vi phạm nghiêm trọng khác về thủ tục tố tụng ảnh hưởng đến quyền và lợi ích hợp pháp của đương sự."
+    },
+    {
+        "id": "Điều 311.0",
+        "article": "Điều 311",
+        "clause": "0",
+        "title": "Hủy bản án sơ thẩm và đình chỉ giải quyết vụ án",
+        "text": "Hội đồng xét xử phúc thẩm hủy bản án sơ thẩm và đình chỉ giải quyết vụ án nếu trong quá trình giải quyết vụ án tại Tòa án cấp sơ thẩm, vụ án thuộc một trong các trường hợp quy định tại Điều 217, điểm b khoản 1 Điều 299 của Bộ luật này."
+    },
+    {
+        "id": "Điều 312.0",
+        "article": "Điều 312",
+        "clause": "0",
+        "title": "Đình chỉ xét xử phúc thẩm",
+        "text": "Hội đồng xét xử phúc thẩm đình chỉ xét xử phúc thẩm và giữ nguyên bản án sơ thẩm khi thuộc một trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 312.1",
@@ -9373,6 +10087,13 @@
         "text": "Bản án, quyết định phúc thẩm có hiệu lực pháp luật kể từ ngày ra bản án, quyết định. Phần thứ năm THỦ TỤC XÉT LẠI BẢN ÁN, QUYẾT ĐỊNH ĐÃ CÓ HIỆU LỰC PHÁP LUẬT Chương XX THỦ TỤC GIÁM ĐỐC THẨM"
     },
     {
+        "id": "Điều 325.0",
+        "article": "Điều 325",
+        "clause": "0",
+        "title": "Tính chất của giám đốc thẩm",
+        "text": "Giám đốc thẩm là xét lại bản án, quyết định của Tòa án đã có hiệu lực pháp luật nhưng bị kháng nghị giám đốc thẩm khi có căn cứ quy định tại Điều 326 của Bộ luật này."
+    },
+    {
         "id": "Điều 326.1",
         "article": "Điều 326",
         "clause": "1",
@@ -9546,6 +10267,13 @@
         "clause": "2",
         "title": "Hoãn, tạm đình chỉ thi hành bản án, quyết định đã có hiệu lực pháp luật",
         "text": "Người đã kháng nghị theo thủ tục giám đốc thẩm bản án, quyết định đã có hiệu lực pháp luật có quyền quyết định tạm đình chỉ thi hành bản án, quyết định đó cho đến khi có quyết định giám đốc thẩm."
+    },
+    {
+        "id": "Điều 333.0",
+        "article": "Điều 333",
+        "clause": "0",
+        "title": "Quyết định kháng nghị giám đốc thẩm",
+        "text": "Quyết định kháng nghị giám đốc thẩm phải có các nội dung chính sau đây:"
     },
     {
         "id": "Điều 333.1",
@@ -9779,6 +10507,20 @@
         "text": "Trường hợp xét thấy cần thiết, Tòa án triệu tập đương sự hoặc người đại diện hợp pháp, người bảo vệ quyền và lợi ích hợp pháp của đương sự hoặc người tham gia tố tụng khác có liên quan đến việc kháng nghị tham gia phiên tòa giám đốc thẩm; nếu họ vắng mặt tại phiên tòa thì Hội đồng xét xử giám đốc thẩm vẫn tiến hành phiên tòa."
     },
     {
+        "id": "Điều 339.0",
+        "article": "Điều 339",
+        "clause": "0",
+        "title": "Thời hạn mở phiên tòa giám đốc thẩm",
+        "text": "Trong thời hạn 04 tháng, kể từ ngày nhận được kháng nghị kèm theo hồ sơ vụ án, Tòa án có thẩm quyền giám đốc thẩm phải mở phiên tòa để xét xử vụ án theo thủ tục giám đốc thẩm."
+    },
+    {
+        "id": "Điều 340.0",
+        "article": "Điều 340",
+        "clause": "0",
+        "title": "Chuẩn bị phiên tòa giám đốc thẩm",
+        "text": "Chánh án Tòa án phân công một Thẩm phán làm bản thuyết trình về vụ án tại phiên tòa. Bản thuyết trình tóm tắt nội dung vụ án và các bản án, quyết định của các cấp Tòa án, nội dung của kháng nghị. Bản thuyết trình phải được gửi cho các thành viên Hội đồng xét xử giám đốc thẩm chậm nhất là 07 ngày trước ngày mở phiên tòa giám đốc thẩm."
+    },
+    {
         "id": "Điều 341.1",
         "article": "Điều 341",
         "clause": "1",
@@ -9835,6 +10577,13 @@
         "text": "Hội đồng xét xử giám đốc thẩm có quyền xem xét phần quyết định của bản án, quyết định đã có hiệu lực pháp luật không bị kháng nghị hoặc không liên quan đến việc xem xét nội dung kháng nghị, nếu phần quyết định đó xâm phạm đến lợi ích công cộng, lợi ích của Nhà nước, lợi ích của người thứ ba không phải là đương sự trong vụ án."
     },
     {
+        "id": "Điều 343.0",
+        "article": "Điều 343",
+        "clause": "0",
+        "title": "Thẩm quyền của Hội đồng xét xử giám đốc thẩm",
+        "text": "Hội đồng xét xử giám đốc thẩm có thẩm quyền sau đây:"
+    },
+    {
         "id": "Điều 343.1",
         "article": "Điều 343",
         "clause": "1",
@@ -9870,6 +10619,20 @@
         "text": "Sửa một phần hoặc toàn bộ bản án, quyết định của Tòa án đã có hiệu lực pháp luật."
     },
     {
+        "id": "Điều 344.0",
+        "article": "Điều 344",
+        "clause": "0",
+        "title": "Giữ nguyên bản án, quyết định đúng pháp luật của Tòa án cấp dưới đã bị hủy hoặc bị sửa",
+        "text": "Hội đồng xét xử giám đốc thẩm ra quyết định hủy bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị và giữ nguyên bản án, quyết định của Tòa án cấp dưới xét xử đúng pháp luật nhưng đã bị bản án, quyết định đã có hiệu lực pháp luật bị kháng nghị hủy bỏ hoặc sửa đổi một phần hay toàn bộ. Trường hợp bản án, quyết định của Tòa án đã thi hành được một phần hoặc toàn bộ thì Hội đồng xét xử giám đốc thẩm phải giải quyết hậu quả của việc thi hành án."
+    },
+    {
+        "id": "Điều 345.0",
+        "article": "Điều 345",
+        "clause": "0",
+        "title": "Hủy một phần hoặc toàn bộ bản án, quyết định của Tòa án đã có hiệu lực pháp luật để xét xử lại theo thủ tục sơ thẩm hoặc xét xử lại theo thủ tục phúc thẩm",
+        "text": "Hội đồng xét xử giám đốc thẩm ra quyết định hủy một phần hoặc toàn bộ bản án, quyết định của Tòa án đã có hiệu lực pháp luật bị kháng nghị để xét xử lại theo thủ tục sơ thẩm hoặc xét xử lại theo thủ tục phúc thẩm trong trường hợp sau đây:"
+    },
+    {
         "id": "Điều 345.1",
         "article": "Điều 345",
         "clause": "1",
@@ -9889,6 +10652,13 @@
         "clause": "3",
         "title": "Hủy một phần hoặc toàn bộ bản án, quyết định của Tòa án đã có hiệu lực pháp luật để xét xử lại theo thủ tục sơ thẩm hoặc xét xử lại theo thủ tục phúc thẩm",
         "text": "Thành phần của Hội đồng xét xử sơ thẩm hoặc phúc thẩm không đúng quy định của Bộ luật này hoặc có vi phạm nghiêm trọng khác về thủ tục tố tụng ảnh hưởng đến quyền và lợi ích hợp pháp của đương sự."
+    },
+    {
+        "id": "Điều 346.0",
+        "article": "Điều 346",
+        "clause": "0",
+        "title": "Hủy bản án, quyết định đã có hiệu lực pháp luật và đình chỉ giải quyết vụ án",
+        "text": "Hội đồng xét xử giám đốc thẩm ra quyết định hủy bản án, quyết định của Tòa án đã có hiệu lực pháp luật và đình chỉ giải quyết vụ án, nếu vụ án đó thuộc một trong các trường hợp quy định tại Điều 217 của Bộ luật này. Trường hợp bản án, quyết định của Tòa án đã thi hành được một phần hoặc toàn bộ thì Hội đồng xét xử giám đốc thẩm phải giải quyết hậu quả của việc thi hành án."
     },
     {
         "id": "Điều 347.1",
@@ -10010,6 +10780,13 @@
         "text": "Quyết định của Hội đồng xét xử giám đốc thẩm của Hội đồng Thẩm phán Tòa án nhân dân tối cao cần có lập luận để làm rõ quy định của pháp luật còn có cách hiểu khác nhau; phân tích, giải thích các vấn đề, sự kiện pháp lý và chỉ ra nguyên nhân, đường lối xử lý, quy phạm pháp luật cần áp dụng (nếu có)."
     },
     {
+        "id": "Điều 349.0",
+        "article": "Điều 349",
+        "clause": "0",
+        "title": "Hiệu lực của quyết định giám đốc thẩm",
+        "text": "Quyết định giám đốc thẩm có hiệu lực pháp luật kể từ ngày Hội đồng giám đốc thẩm ra quyết định."
+    },
+    {
         "id": "Điều 350.1",
         "article": "Điều 350",
         "clause": "1",
@@ -10043,6 +10820,20 @@
         "clause": "2",
         "title": "Gửi quyết định giám đốc thẩm",
         "text": "Quyết định giám đốc thẩm được Tòa án có thẩm quyền giám đốc thẩm công bố trên Cổng thông tin điện tử của Tòa án (nếu có), trừ quyết định có chứa thông tin quy định tại khoản 2 Điều 109 của Bộ luật này. Chương XXI THỦ TỤC TÁI THẨM"
+    },
+    {
+        "id": "Điều 351.0",
+        "article": "Điều 351",
+        "clause": "0",
+        "title": "Tính chất của tái thẩm",
+        "text": "Tái thẩm là xét lại bản án, quyết định đã có hiệu lực pháp luật nhưng bị kháng nghị vì có tình tiết mới được phát hiện có thể làm thay đổi cơ bản nội dung của bản án, quyết định mà Tòa án, các đương sự không biết được khi Tòa án ra bản án, quyết định đó."
+    },
+    {
+        "id": "Điều 352.0",
+        "article": "Điều 352",
+        "clause": "0",
+        "title": "Căn cứ để kháng nghị theo thủ tục tái thẩm",
+        "text": "Bản án, quyết định của Tòa án đã có hiệu lực pháp luật bị kháng nghị theo thủ tục tái thẩm khi có một trong những căn cứ sau đây:"
     },
     {
         "id": "Điều 352.1",
@@ -10108,6 +10899,20 @@
         "text": "Người đã kháng nghị bản án, quyết định đã có hiệu lực pháp luật có quyền quyết định tạm đình chỉ thi hành bản án, quyết định đó cho đến khi có quyết định tái thẩm."
     },
     {
+        "id": "Điều 355.0",
+        "article": "Điều 355",
+        "clause": "0",
+        "title": "Thời hạn kháng nghị theo thủ tục tái thẩm",
+        "text": "Thời hạn kháng nghị theo thủ tục tái thẩm là 01 năm, kể từ ngày người có thẩm quyền kháng nghị biết được căn cứ để kháng nghị theo thủ tục tái thẩm quy định tại Điều 352 của Bộ luật này."
+    },
+    {
+        "id": "Điều 356.0",
+        "article": "Điều 356",
+        "clause": "0",
+        "title": "Thẩm quyền của Hội đồng xét xử tái thẩm",
+        "text": "Hội đồng xét xử tái thẩm có thẩm quyền sau đây:"
+    },
+    {
         "id": "Điều 356.1",
         "article": "Điều 356",
         "clause": "1",
@@ -10127,6 +10932,13 @@
         "clause": "3",
         "title": "Thẩm quyền của Hội đồng xét xử tái thẩm",
         "text": "Hủy bản án, quyết định đã có hiệu lực pháp luật và đình chỉ giải quyết vụ án."
+    },
+    {
+        "id": "Điều 357.0",
+        "article": "Điều 357",
+        "clause": "0",
+        "title": "Áp dụng các quy định về thủ tục giám đốc thẩm",
+        "text": "Các quy định khác về thủ tục tái thẩm được thực hiện như các quy định của Bộ luật này về thủ tục giám đốc thẩm. Chương XXII THỦ TỤC ĐẶC BIỆT XEM XÉT LẠI QUYẾT ĐỊNH CỦA HỘI ĐỒNG THẨM PHÁN TÒA ÁN NHÂN DÂN TỐI CAO"
     },
     {
         "id": "Điều 358.1",
@@ -10288,6 +11100,13 @@
         "clause": "2",
         "title": "Thẩm quyền xem xét lại quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao",
         "text": "Quyết định của Hội đồng Thẩm phán Tòa án nhân dân tối cao phải được ít nhất ba phần tư tổng số thành viên của Hội đồng Thẩm phán Tòa án nhân dân tối cao biểu quyết tán thành. Phần thứ sáu THỦ TỤC GIẢI QUYẾT VIỆC DÂN SỰ Chương XXIII QUY ĐỊNH CHUNG VỀ THỦ TỤC GIẢI QUYẾT VIỆC DÂN SỰ"
+    },
+    {
+        "id": "Điều 361.0",
+        "article": "Điều 361",
+        "clause": "0",
+        "title": "Phạm vi áp dụng",
+        "text": "Việc dân sự là việc cơ quan, tổ chức, cá nhân không có tranh chấp, nhưng có yêu cầu Tòa án công nhận hoặc không công nhận một sự kiện pháp lý là căn cứ làm phát sinh quyền, nghĩa vụ dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động của mình hoặc của cơ quan, tổ chức, cá nhân khác; yêu cầu Tòa án công nhận cho mình quyền về dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động. Những quy định của Phần này được áp dụng để giải quyết việc dân sự quy định tại các khoản 1, 2, 3, 4, 6, 7, 8, 9 và 10 Điều 27, các khoản 1, 2, 3, 4, 5, 6, 7, 8, 10 và 11 Điều 29, các khoản 1, 2, 3 và 6 Điều 31, các khoản 1, 2 và 5 Điều 33 của Bộ luật này. Trường hợp Phần này không quy định thì áp dụng những quy định khác của Bộ luật này để giải quyết việc dân sự."
     },
     {
         "id": "Điều 362.1",
@@ -10822,6 +11641,13 @@
         "text": "Quyết định giải quyết việc dân sự có hiệu lực pháp luật của Tòa án được công bố trên Cổng thông tin điện tử của Tòa án (nếu có), trừ quyết định có chứa thông tin quy định tại khoản 2 Điều 109 của Bộ luật này."
     },
     {
+        "id": "Điều 371.0",
+        "article": "Điều 371",
+        "clause": "0",
+        "title": "Kháng cáo, kháng nghị quyết định giải quyết việc dân sự",
+        "text": "Người yêu cầu, người có quyền lợi, nghĩa vụ liên quan đến việc giải quyết việc dân sự có quyền kháng cáo, Viện kiểm sát cùng cấp, Viện kiểm sát cấp trên trực tiếp có quyền kháng nghị quyết định giải quyết việc dân sự để yêu cầu Tòa án trên một cấp trực tiếp giải quyết lại theo thủ tục phúc thẩm, trừ quyết định giải quyết việc dân sự quy định tại khoản 7 Điều 27, khoản 2 và khoản 3 Điều 29 của Bộ luật này."
+    },
+    {
         "id": "Điều 372.1",
         "article": "Điều 372",
         "clause": "1",
@@ -11032,6 +11858,34 @@
         "text": "Người thành niên không đủ khả năng nhận thức, làm chủ hành vi do tình trạng thể chất, tinh thần nhưng chưa đến mức mất năng lực hành vi dân sự có quyền yêu cầu Tòa án tuyên bố họ là người có khó khăn trong nhận thức, làm chủ hành vi theo quy định của Bộ luật dân sự."
     },
     {
+        "id": "Điều 377.0",
+        "article": "Điều 377",
+        "clause": "0",
+        "title": "Chuẩn bị xét đơn yêu cầu",
+        "text": "Trong thời hạn chuẩn bị xét đơn yêu cầu, theo đề nghị của người yêu cầu, Tòa án có thể trưng cầu giám định sức khoẻ, bệnh tật của người bị yêu cầu tuyên bố bị hạn chế năng lực hành vi dân sự hoặc giám định pháp y tâm thần đối với người bị yêu cầu tuyên bố mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi. Trong trường hợp này, khi nhận được kết luận giám định, Tòa án phải ra quyết định mở phiên họp để xét đơn yêu cầu."
+    },
+    {
+        "id": "Điều 378.0",
+        "article": "Điều 378",
+        "clause": "0",
+        "title": "Quyết định tuyên bố một người mất năng lực hành vi dân sự, bị hạn chế năng lực hành vi dân sự hoặc có khó khăn trong nhận thức, làm chủ hành vi",
+        "text": "Trường hợp chấp nhận đơn yêu cầu thì Tòa án ra quyết định tuyên bố một người mất năng lực hành vi dân sự, bị hạn chế năng lực hành vi dân sự hoặc có khó khăn trong nhận thức, làm chủ hành vi. Trong quyết định tuyên bố một người bị hạn chế năng lực hành vi dân sự, Tòa án phải xác định người đại diện theo pháp luật của người bị hạn chế năng lực hành vi dân sự và phạm vi đại diện. Trong quyết định tuyên bố một người có khó khăn trong nhận thức, làm chủ hành vi, Tòa án phải chỉ định người giám hộ, xác định quyền, nghĩa vụ của người giám hộ."
+    },
+    {
+        "id": "Điều 379.0",
+        "article": "Điều 379",
+        "clause": "0",
+        "title": "Quyền yêu cầu hủy bỏ quyết định tuyên bố một người mất năng lực hành vi dân sự, bị hạn chế năng lực hành vi dân sự hoặc có khó khăn trong nhận thức, làm chủ hành vi",
+        "text": "Khi người bị Tòa án tuyên bố mất năng lực hành vi dân sự, bị hạn chế năng lực hành vi dân sự hoặc có khó khăn trong nhận thức, làm chủ hành vi không còn ở trong tình trạng đã bị tuyên bố thì chính người đó hoặc người có quyền, lợi ích liên quan hoặc cơ quan, tổ chức hữu quan có quyền yêu cầu Tòa án ra quyết định hủy bỏ quyết định tuyên bố mất năng lực hành vi dân sự, bị hạn chế năng lực hành vi dân sự hoặc có khó khăn trong nhận thức, làm chủ hành vi."
+    },
+    {
+        "id": "Điều 380.0",
+        "article": "Điều 380",
+        "clause": "0",
+        "title": "Quyết định của Tòa án trong trường hợp chấp nhận yêu cầu hủy bỏ quyết định tuyên bố mất năng lực hành vi dân sự, bị hạn chế năng lực hành vi dân sự hoặc có khó khăn trong nhận thức, làm chủ hành vi",
+        "text": "Trường hợp chấp nhận đơn yêu cầu thì Tòa án ra quyết định hủy bỏ quyết định tuyên bố mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự hoặc có khó khăn trong nhận thức, làm chủ hành vi. Chương XXV THỦ TỤC GIẢI QUYẾT YÊU CẦU THÔNG BÁO TÌM KIẾM NGƯỜI VẮNG MẶT TẠI NƠI CƯ TRÚ"
+    },
+    {
         "id": "Điều 381.1",
         "article": "Điều 381",
         "clause": "1",
@@ -11044,6 +11898,27 @@
         "clause": "2",
         "title": "Đơn yêu cầu thông báo tìm kiếm người vắng mặt tại nơi cư trú",
         "text": "Kèm theo đơn yêu cầu Tòa án thông báo tìm kiếm người vắng mặt tại nơi cư trú, người yêu cầu phải gửi tài liệu, chứng cứ để chứng minh là người bị yêu cầu biệt tích 06 tháng liền trở lên; trường hợp có yêu cầu Tòa án áp dụng biện pháp quản lý tài sản của người vắng mặt thì phải cung cấp tài liệu, chứng cứ về tình hình tài sản của người đó, việc quản lý tài sản hiện có và danh sách những người thân thích của người đó."
+    },
+    {
+        "id": "Điều 382.0",
+        "article": "Điều 382",
+        "clause": "0",
+        "title": "Chuẩn bị xét đơn yêu cầu thông báo tìm kiếm người vắng mặt tại nơi cư trú",
+        "text": "Trong thời hạn chuẩn bị xét đơn yêu cầu, Tòa án ra quyết định đình chỉ xét đơn yêu cầu thông báo tìm kiếm người vắng mặt tại nơi cư trú, nếu người bị yêu cầu thông báo tìm kiếm trở về và yêu cầu Tòa án đình chỉ việc xét đơn yêu cầu."
+    },
+    {
+        "id": "Điều 383.0",
+        "article": "Điều 383",
+        "clause": "0",
+        "title": "Quyết định thông báo tìm kiếm người vắng mặt tại nơi cư trú",
+        "text": "Trường hợp chấp nhận đơn yêu cầu thì Tòa án ra quyết định thông báo tìm kiếm người vắng mặt tại nơi cư trú; trường hợp có yêu cầu Tòa án áp dụng biện pháp quản lý tài sản của người vắng mặt đó tại nơi cư trú và được chấp nhận thì trong quyết định, Tòa án còn phải quyết định áp dụng biện pháp quản lý tài sản của người đó theo quy định của Bộ luật dân sự."
+    },
+    {
+        "id": "Điều 384.0",
+        "article": "Điều 384",
+        "clause": "0",
+        "title": "Thông báo tìm kiếm người vắng mặt tại nơi cư trú",
+        "text": "Thông báo tìm kiếm người vắng mặt tại nơi cư trú phải có các nội dung chính sau đây:"
     },
     {
         "id": "Điều 384.1",
@@ -11102,6 +11977,13 @@
         "text": "Chi phí cho việc đăng, phát thông báo tìm kiếm người vắng mặt tại nơi cư trú do người yêu cầu chịu."
     },
     {
+        "id": "Điều 386.0",
+        "article": "Điều 386",
+        "clause": "0",
+        "title": "Hiệu lực của quyết định thông báo tìm kiếm người vắng mặt tại nơi cư trú",
+        "text": "Quyết định thông báo tìm kiếm người vắng mặt tại nơi cư trú quy định tại Điều 383 của Bộ luật này đương nhiên hết hiệu lực trong trường hợp người cần tìm kiếm trở về. Chương XXVI THỦ TỤC GIẢI QUYẾT YÊU CẦU TUYÊN BỐ MỘT NGƯỜI MẤT TÍCH"
+    },
+    {
         "id": "Điều 387.1",
         "article": "Điều 387",
         "clause": "1",
@@ -11142,6 +12024,13 @@
         "clause": "4",
         "title": "Chuẩn bị xét đơn yêu cầu tuyên bố một người mất tích",
         "text": "Trong thời hạn 10 ngày, kể từ ngày kết thúc thời hạn thông báo quy định tại khoản 2 Điều này thì Tòa án phải mở phiên họp xét đơn yêu cầu."
+    },
+    {
+        "id": "Điều 389.0",
+        "article": "Điều 389",
+        "clause": "0",
+        "title": "Quyết định tuyên bố một người mất tích",
+        "text": "Trường hợp chấp nhận đơn yêu cầu thì Tòa án ra quyết định tuyên bố một người mất tích; trường hợp có yêu cầu Tòa án áp dụng biện pháp quản lý tài sản của người bị tuyên bố mất tích đó và được chấp nhận thì trong quyết định tuyên bố một người mất tích, Tòa án còn phải quyết định áp dụng biện pháp quản lý tài sản của người đó theo quy định của Bộ luật dân sự."
     },
     {
         "id": "Điều 390.1",
@@ -11200,6 +12089,13 @@
         "text": "Trong thời hạn 10 ngày, kể từ ngày hết thời hạn thông báo thì Tòa án phải mở phiên họp xét đơn yêu cầu."
     },
     {
+        "id": "Điều 393.0",
+        "article": "Điều 393",
+        "clause": "0",
+        "title": "Quyết định tuyên bố một người là đã chết",
+        "text": "Trường hợp chấp nhận đơn yêu cầu thì Tòa án ra quyết định tuyên bố một người là đã chết; trong quyết định này, Tòa án phải xác định ngày chết của người đó và hậu quả pháp lý của việc tuyên bố một người là đã chết theo quy định của Bộ luật dân sự."
+    },
+    {
         "id": "Điều 394.1",
         "article": "Điều 394",
         "clause": "1",
@@ -11212,6 +12108,13 @@
         "clause": "2",
         "title": "Đơn yêu cầu hủy bỏ quyết định tuyên bố một người là đã chết",
         "text": "Kèm theo đơn yêu cầu, người yêu cầu phải gửi tài liệu, chứng cứ để chứng minh người bị tuyên bố là đã chết trở về hoặc chứng minh xác thực là người đó còn sống."
+    },
+    {
+        "id": "Điều 395.0",
+        "article": "Điều 395",
+        "clause": "0",
+        "title": "Quyết định hủy bỏ quyết định tuyên bố một người là đã chết",
+        "text": "Trường hợp chấp nhận đơn yêu cầu thì Tòa án ra quyết định hủy bỏ quyết định tuyên bố một người là đã chết; trong quyết định này, Tòa án phải quyết định về hậu quả pháp lý của việc hủy bỏ quyết định tuyên bố một người là đã chết theo quy định của Bộ luật dân sự. Chương XXVIII THỦ TỤC GIẢI QUYẾT YÊU CẦU CÔNG NHẬN THUẬN TÌNH LY HÔN, THỎA THUẬN NUÔI CON, CHIA TÀI SẢN KHI LY HÔN"
     },
     {
         "id": "Điều 396.1",
@@ -11452,6 +12355,13 @@
         "text": "Kèm theo đơn yêu cầu, người yêu cầu phải gửi bản sao quyết định đình công, quyết định hoặc biên bản hòa giải của cơ quan, tổ chức có thẩm quyền giải quyết vụ tranh chấp lao động tập thể, tài liệu, chứng cứ có liên quan đến việc xét tính hợp pháp của cuộc đình công."
     },
     {
+        "id": "Điều 404.0",
+        "article": "Điều 404",
+        "clause": "0",
+        "title": "Thủ tục gửi đơn yêu cầu Tòa án xét tính hợp pháp của cuộc đình công",
+        "text": "Thủ tục gửi đơn, nhận đơn, nghĩa vụ cung cấp tài liệu, chứng cứ đối với việc xét và quyết định về tính hợp pháp của cuộc đình công tại Tòa án được thực hiện theo quy định của Bộ luật này."
+    },
+    {
         "id": "Điều 405.1",
         "article": "Điều 405",
         "clause": "1",
@@ -11520,6 +12430,13 @@
         "clause": "2",
         "title": "Hoãn phiên họp xét tính hợp pháp của cuộc đình công",
         "text": "Thời hạn hoãn phiên họp xét tính hợp pháp của cuộc đình công không quá 03 ngày làm việc, kể từ ngày có quyết định hoãn phiên họp."
+    },
+    {
+        "id": "Điều 409.0",
+        "article": "Điều 409",
+        "clause": "0",
+        "title": "Đình chỉ việc xét tính hợp pháp của cuộc đình công",
+        "text": "Tòa án đình chỉ việc xét tính hợp pháp của cuộc đình công trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 409.1",
@@ -11690,6 +12607,20 @@
         "text": "Các việc dân sự khác mà pháp luật về Trọng tài thương mại Việt Nam có quy định."
     },
     {
+        "id": "Điều 415.0",
+        "article": "Điều 415",
+        "clause": "0",
+        "title": "Thủ tục giải quyết",
+        "text": "Thủ tục giải quyết các việc dân sự liên quan đến hoạt động của Trọng tài thương mại Việt Nam được thực hiện theo quy định của pháp luật về Trọng tài thương mại Việt Nam. Chương XXXIII THỦ TỤC CÔNG NHẬN KẾT QUẢ HÒA GIẢI THÀNH NGOÀI TÒA ÁN"
+    },
+    {
+        "id": "Điều 416.0",
+        "article": "Điều 416",
+        "clause": "0",
+        "title": "Công nhận kết quả hòa giải thành ngoài Tòa án",
+        "text": "Kết quả hòa giải vụ việc ngoài Tòa án được Tòa án xem xét ra quyết định công nhận là kết quả hòa giải thành vụ việc xảy ra giữa cơ quan, tổ chức, cá nhân do cơ quan, tổ chức, người có thẩm quyền có nhiệm vụ hòa giải đã hòa giải thành theo quy định của pháp luật về hòa giải."
+    },
+    {
         "id": "Điều 417.1",
         "article": "Điều 417",
         "clause": "1",
@@ -11858,6 +12789,13 @@
         "text": "Tòa án nhân dân cấp tỉnh nơi có cảng biển, cảng thủy nội địa mà tàu biển bị yêu cầu bắt giữ đang hoạt động hàng hải có thẩm quyền quyết định bắt giữ tàu biển. Trường hợp cảng có nhiều bến cảng thuộc địa phận các tỉnh, thành phố trực thuộc trung ương khác nhau thì Tòa án nhân dân cấp tỉnh nơi có bến cảng mà tàu biển bị yêu cầu bắt giữ đang hoạt động hàng hải có thẩm quyền quyết định bắt giữ tàu biển đó."
     },
     {
+        "id": "Điều 422.0",
+        "article": "Điều 422",
+        "clause": "0",
+        "title": "Thủ tục bắt giữ tàu bay, tàu biển",
+        "text": "Thủ tục giải quyết việc dân sự liên quan đến việc bắt giữ tàu bay, tàu biển được thực hiện theo quy định của pháp luật về bắt giữ tàu bay, tàu biển. Phần thứ bảy THỦ TỤC CÔNG NHẬN VÀ CHO THI HÀNH TẠI VIỆT NAM HOẶC KHÔNG CÔNG NHẬN BẢN ÁN, QUYẾT ĐỊNH DÂN SỰ CỦA TÒA ÁN NƯỚC NGOÀI; CÔNG NHẬN VÀ CHO THI HÀNH PHÁN QUYẾT CỦA TRỌNG TÀI NƯỚC NGOÀI Chương XXXV QUY ĐỊNH CHUNG VỀ THỦ TỤC CÔNG NHẬN VÀ CHO THI HÀNH TẠI VIỆT NAM HOẶC KHÔNG CÔNG NHẬN BẢN ÁN, QUYẾT ĐỊNH DÂN SỰ CỦA TÒA ÁN NƯỚC NGOÀI; CÔNG NHẬN VÀ CHO THI HÀNH PHÁN QUYẾT CỦA TRỌNG TÀI NƯỚC NGOÀI"
+    },
+    {
         "id": "Điều 423.1",
         "article": "Điều 423",
         "clause": "1",
@@ -11949,6 +12887,13 @@
         "text": "Đương sự, người có quyền, lợi ích hợp pháp liên quan hoặc người đại diện hợp pháp của họ có quyền yêu cầu Tòa án Việt Nam không công nhận bản án, quyết định dân sự của Tòa án nước ngoài không có yêu cầu thi hành tại Việt Nam."
     },
     {
+        "id": "Điều 426.0",
+        "article": "Điều 426",
+        "clause": "0",
+        "title": "Bảo đảm quyền kháng cáo, kháng nghị",
+        "text": "Đương sự có quyền kháng cáo, Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp cao có quyền kháng nghị quyết định của Tòa án công nhận và cho thi hành hoặc không công nhận bản án, quyết định dân sự của Tòa án nước ngoài, quyết định công nhận và cho thi hành phán quyết của Trọng tài nước ngoài để yêu cầu Tòa án nhân dân cấp cao xét lại theo quy định của Bộ luật này."
+    },
+    {
         "id": "Điều 427.1",
         "article": "Điều 427",
         "clause": "1",
@@ -11968,6 +12913,20 @@
         "clause": "3",
         "title": "Bảo đảm hiệu lực quyết định của Tòa án Việt Nam công nhận và cho thi hành hoặc không công nhận bản án, quyết định dân sự của Tòa án nước ngoài; công nhận và cho thi hành phán quyết của Trọng tài nước ngoài",
         "text": "Bản án, quyết định dân sự của Tòa án nước ngoài, phán quyết của Trọng tài nước ngoài chỉ được thi hành tại Việt Nam sau khi quyết định của Tòa án Việt Nam công nhận và cho thi hành bản án, quyết định của Tòa án nước ngoài, phán quyết của Trọng tài nước ngoài đó có hiệu lực pháp luật."
+    },
+    {
+        "id": "Điều 428.0",
+        "article": "Điều 428",
+        "clause": "0",
+        "title": "Gửi quyết định của Tòa án về công nhận và cho thi hành hoặc không công nhận bản án, quyết định dân sự của Tòa án nước ngoài; công nhận và cho thi hành phán quyết của Trọng tài nước ngoài",
+        "text": "Tòa án có trách nhiệm chuyển giao trực tiếp hoặc qua dịch vụ bưu chính hoặc thông qua Bộ Tư pháp quyết định của Tòa án cho người được thi hành, người phải thi hành bản án, quyết định dân sự của Tòa án nước ngoài, phán quyết của Trọng tài nước ngoài hoặc người đại diện hợp pháp của họ, Viện kiểm sát cùng cấp và cơ quan thi hành án dân sự theo quy định của Bộ luật này."
+    },
+    {
+        "id": "Điều 429.0",
+        "article": "Điều 429",
+        "clause": "0",
+        "title": "Bảo đảm quyền chuyển tiền, tài sản thi hành bản án, quyết định dân sự của Tòa án nước ngoài, phán quyết của Trọng tài nước ngoài",
+        "text": "Nhà nước Việt Nam bảo đảm việc chuyển tiền, tài sản thi hành bản án, quyết định dân sự của Tòa án nước ngoài, phán quyết của Trọng tài nước ngoài đã được Tòa án Việt Nam công nhận và cho thi hành từ Việt Nam ra nước ngoài. Việc chuyển tiền, tài sản này được thực hiện theo quy định của pháp luật Việt Nam."
     },
     {
         "id": "Điều 430.1",
@@ -12087,6 +13046,20 @@
         "clause": "2",
         "title": "Giấy tờ, tài liệu gửi kèm theo đơn yêu cầu",
         "text": "Giấy tờ, tài liệu kèm theo đơn yêu cầu bằng tiếng nước ngoài phải được gửi kèm theo bản dịch ra tiếng Việt, được công chứng, chứng thực hợp pháp."
+    },
+    {
+        "id": "Điều 435.0",
+        "article": "Điều 435",
+        "clause": "0",
+        "title": "Chuyển hồ sơ cho Tòa án",
+        "text": "Trường hợp Bộ Tư pháp nhận được đơn yêu cầu và giấy tờ, tài liệu quy định tại khoản 1 Điều 434 của Bộ luật này thì trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, Bộ Tư pháp phải chuyển cho Tòa án có thẩm quyền theo quy định tại Điều 37 và Điều 39 của Bộ luật này."
+    },
+    {
+        "id": "Điều 436.0",
+        "article": "Điều 436",
+        "clause": "0",
+        "title": "Thụ lý hồ sơ",
+        "text": "Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ do Bộ Tư pháp chuyển đến hoặc kể từ ngày nhận được đơn yêu cầu và giấy tờ, tài liệu kèm theo do người có yêu cầu gửi đến, Tòa án căn cứ vào các điều 363, 364 và 365 của Bộ luật này để xem xét, thụ lý hồ sơ và thông báo cho người có đơn yêu cầu, người phải thi hành hoặc người đại diện hợp pháp của họ tại Việt Nam, Viện kiểm sát cùng cấp và Bộ Tư pháp."
     },
     {
         "id": "Điều 437.1",
@@ -12332,6 +13305,13 @@
         "clause": "8",
         "title": "Những bản án, quyết định dân sự của Tòa án nước ngoài không được công nhận và cho thi hành tại Việt Nam",
         "text": "Việc công nhận và cho thi hành bản án, quyết định dân sự của Tòa án nước ngoài tại Việt Nam trái với các nguyên tắc cơ bản của pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+    },
+    {
+        "id": "Điều 440.0",
+        "article": "Điều 440",
+        "clause": "0",
+        "title": "Tòa án nước ngoài có thẩm quyền giải quyết tranh chấp, yêu cầu",
+        "text": "Tòa án nước ngoài đã ra bản án, quyết định mà bản án, quyết định đó đang được xem xét để công nhận và cho thi hành tại Việt Nam có thẩm quyền giải quyết vụ việc dân sự đó trong những trường hợp sau đây:"
     },
     {
         "id": "Điều 440.1",
@@ -12635,6 +13615,13 @@
         "text": "Bản án, quyết định dân sự của Tòa án nước ngoài không có yêu cầu thi hành tại Việt Nam không được công nhận trong các trường hợp quy định tại Điều 439 của Bộ luật này."
     },
     {
+        "id": "Điều 450.0",
+        "article": "Điều 450",
+        "clause": "0",
+        "title": "Gửi quyết định của Tòa án và việc kháng cáo, kháng nghị",
+        "text": "Việc gửi quyết định của Tòa án; việc kháng cáo, kháng nghị và xét kháng cáo, kháng nghị được thực hiện theo quy định tại các điều 441, 442 và 443 của Bộ luật này. Chương XXXVII THỦ TỤC XÉT ĐƠN YÊU CẦU CÔNG NHẬN VÀ CHO THI HÀNH TẠI VIỆT NAM PHÁN QUYẾT CỦA TRỌNG TÀI NƯỚC NGOÀI"
+    },
+    {
         "id": "Điều 451.1",
         "article": "Điều 451",
         "clause": "1",
@@ -12724,6 +13711,20 @@
         "clause": "2",
         "title": "Chuyển hồ sơ cho Tòa án",
         "text": "Trường hợp Bộ Tư pháp đã chuyển hồ sơ cho Tòa án mà sau đó lại nhận được thông báo của cơ quan có thẩm quyền của nước ngoài cho biết đang xem xét hoặc đã hủy bỏ, đình chỉ thi hành phán quyết của Trọng tài nước ngoài thì Bộ Tư pháp phải thông báo ngay bằng văn bản cho Tòa án biết."
+    },
+    {
+        "id": "Điều 455.0",
+        "article": "Điều 455",
+        "clause": "0",
+        "title": "Thụ lý hồ sơ",
+        "text": "Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ do Bộ Tư pháp chuyển đến hoặc nhận được đơn và giấy tờ, tài liệu kèm theo do người có đơn yêu cầu gửi đến, Tòa án có thẩm quyền căn cứ vào các điều 363, 364 và 365 của Bộ luật này để xem xét, thụ lý và thông báo bằng văn bản cho người được thi hành, người phải thi hành hoặc người đại diện hợp pháp của họ tại Việt Nam, Viện kiểm sát cùng cấp và Bộ Tư pháp."
+    },
+    {
+        "id": "Điều 456.0",
+        "article": "Điều 456",
+        "clause": "0",
+        "title": "Chuyển hồ sơ cho Tòa án khác, giải quyết tranh chấp về thẩm quyền",
+        "text": "Trường hợp sau khi thụ lý mà Tòa án xét thấy việc giải quyết yêu cầu công nhận và cho thi hành tại Việt Nam phán quyết của Trọng tài nước ngoài thuộc thẩm quyền của Tòa án khác của Việt Nam thì Tòa án đã thụ lý ra quyết định chuyển hồ sơ cho Tòa án có thẩm quyền và xóa tên yêu cầu đó trong sổ thụ lý. Quyết định này phải được gửi ngay cho Viện kiểm sát cùng cấp và đương sự. Đương sự có quyền khiếu nại, Viện kiểm sát có quyền kiến nghị đối với quyết định này trong thời hạn 03 ngày làm việc, kể từ ngày nhận được quyết định. Trình tự, thủ tục giải quyết khiếu nại, kiến nghị, giải quyết tranh chấp về thẩm quyền được thực hiện theo quy định tại Điều 41 của Bộ luật này."
     },
     {
         "id": "Điều 457.1",
@@ -13209,6 +14210,13 @@
         "text": "Năng lực pháp luật tố tụng dân sự của tổ chức quốc tế, cơ quan đại diện của tổ chức quốc tế được xác định trên cơ sở điều ước quốc tế là căn cứ để thành lập tổ chức đó, quy chế hoạt động của tổ chức quốc tế hoặc điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên. Trường hợp tổ chức quốc tế tuyên bố từ bỏ quyền ưu đãi, quyền miễn trừ thì năng lực pháp luật tố tụng dân sự của tổ chức quốc tế đó được xác định theo pháp luật Việt Nam."
     },
     {
+        "id": "Điều 468.0",
+        "article": "Điều 468",
+        "clause": "0",
+        "title": "Bảo vệ quyền và lợi ích hợp pháp của đương sự là người nước ngoài, cơ quan, tổ chức nước ngoài, chi nhánh, văn phòng đại diện tại Việt Nam của cơ quan, tổ chức nước ngoài, tổ chức quốc tế, cơ quan đại diện của tổ chức quốc tế tại Việt Nam, Nhà nước nước ngoài",
+        "text": "Đương sự là người nước ngoài, cơ quan, tổ chức nước ngoài, chi nhánh, văn phòng đại diện tại Việt Nam của cơ quan, tổ chức nước ngoài, tổ chức quốc tế, cơ quan đại diện của tổ chức quốc tế tại Việt Nam, Nhà nước nước ngoài tham gia tố tụng tại Tòa án Việt Nam có quyền tự mình hoặc nhờ luật sư, người khác bảo vệ quyền và lợi ích hợp pháp cho mình theo quy định của pháp luật Việt Nam."
+    },
+    {
         "id": "Điều 469.1",
         "article": "Điều 469",
         "clause": "1",
@@ -13333,6 +14341,13 @@
         "clause": "2đ",
         "title": "Thẩm quyền riêng biệt của Tòa án Việt Nam",
         "text": "Công nhận tài sản có trên lãnh thổ Việt Nam là vô chủ, công nhận quyền sở hữu của người đang quản lý đối với tài sản vô chủ trên lãnh thổ Việt Nam."
+    },
+    {
+        "id": "Điều 471.0",
+        "article": "Điều 471",
+        "clause": "0",
+        "title": "Không thay đổi thẩm quyền giải quyết của Tòa án",
+        "text": "Vụ việc dân sự có yếu tố nước ngoài đã được một Tòa án Việt Nam thụ lý giải quyết theo quy định về thẩm quyền của Bộ luật này thì phải được Tòa án đó tiếp tục giải quyết mặc dù trong quá trình giải quyết có sự thay đổi quốc tịch, nơi cư trú, địa chỉ của các đương sự hoặc có tình tiết mới làm cho vụ việc dân sự đó thuộc thẩm quyền của Tòa án khác của Việt Nam hoặc của Tòa án nước ngoài."
     },
     {
         "id": "Điều 472.1",
@@ -13461,6 +14476,13 @@
         "text": "Trường hợp các phương thức tống đạt quy định tại khoản 1 Điều này thực hiện không có kết quả thì Tòa án tiến hành niêm yết công khai tại trụ sở cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài, Tòa án đang giải quyết vụ việc hoặc tại nơi cư trú cuối cùng của đương sự tại Việt Nam trong thời hạn 01 tháng và thông báo trên Cổng thông tin điện tử của Tòa án (nếu có), Cổng thông tin điện tử của cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài; trường hợp cần thiết, Tòa án có thể thông báo qua kênh dành cho người nước ngoài của Đài phát thanh hoặc Đài truyền hình của trung ương ba lần trong 03 ngày liên tiếp."
     },
     {
+        "id": "Điều 475.0",
+        "article": "Điều 475",
+        "clause": "0",
+        "title": "Thu thập chứng cứ ở nước ngoài",
+        "text": "Tòa án thực hiện thu thập chứng cứ ở nước ngoài theo một trong các phương thức sau đây:"
+    },
+    {
         "id": "Điều 475.1",
         "article": "Điều 475",
         "clause": "1",
@@ -13508,6 +14530,13 @@
         "clause": "3",
         "title": "Thông báo về việc thụ lý, ngày mở phiên họp, phiên tòa",
         "text": "Tòa án phải gửi thông báo thụ lý việc dân sự, trong đó nêu rõ thời gian, địa điểm mở phiên họp, mở lại phiên họp giải quyết việc dân sự trong văn bản thông báo thụ lý việc dân sự cho đương sự ở nước ngoài. Phiên họp phải được mở sớm nhất là 06 tháng và chậm nhất là 08 tháng, kể từ ngày ra văn bản thông báo thụ lý việc dân sự. Ngày mở lại phiên họp giải quyết việc dân sự (nếu có) được ấn định cách ngày mở phiên họp lần đầu chậm nhất là 01 tháng."
+    },
+    {
+        "id": "Điều 477.0",
+        "article": "Điều 477",
+        "clause": "0",
+        "title": "Xử lý kết quả tống đạt văn bản tố tụng của Tòa án cho đương sự ở nước ngoài và kết quả yêu cầu cơ quan có thẩm quyền của nước ngoài thu thập chứng cứ",
+        "text": "Khi nhận được kết quả tống đạt và kết quả thu thập chứng cứ ở nước ngoài, tùy từng trường hợp cụ thể mà Tòa án xử lý như sau:"
     },
     {
         "id": "Điều 477.1",
@@ -13678,6 +14707,20 @@
         "text": "Trường hợp Tòa án xét xử vắng mặt đương sự ở nước ngoài theo quy định tại điểm c khoản 5 Điều 477 của Bộ luật này thì thời hạn kháng cáo là 12 tháng, kể từ ngày tuyên án."
     },
     {
+        "id": "Điều 480.0",
+        "article": "Điều 480",
+        "clause": "0",
+        "title": "Tống đạt, thông báo văn bản tố tụng và xử lý kết quả tống đạt, thông báo văn bản tố tụng của Tòa án cấp phúc thẩm cho đương sự ở nước ngoài",
+        "text": "Tòa án cấp phúc thẩm thực hiện việc tống đạt, thông báo văn bản tố tụng xử lý kết quả tống đạt, thông báo văn bản tố tụng cho đương sự ở nước ngoài theo quy định tại các điều 474, 476 và 477 của Bộ luật này."
+    },
+    {
+        "id": "Điều 481.0",
+        "article": "Điều 481",
+        "clause": "0",
+        "title": "Xác định và cung cấp pháp luật nước ngoài để Tòa án áp dụng trong việc giải quyết vụ việc dân sự có yếu tố nước ngoài",
+        "text": "Trường hợp Tòa án Việt Nam áp dụng pháp luật nước ngoài để giải quyết vụ việc dân sự có yếu tố nước ngoài theo quy định của luật Việt Nam, điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên thì trách nhiệm xác định và cung cấp pháp luật nước ngoài được thực hiện như sau:"
+    },
+    {
         "id": "Điều 481.1",
         "article": "Điều 481",
         "clause": "1",
@@ -13776,6 +14819,13 @@
         "text": "Khi ra bản án, quyết định, Tòa án phải giải thích rõ cho đương sự biết về quyền yêu cầu thi hành án, nghĩa vụ thi hành án, thời hiệu yêu cầu thi hành án theo quy định của Luật thi hành án dân sự."
     },
     {
+        "id": "Điều 484.0",
+        "article": "Điều 484",
+        "clause": "0",
+        "title": "Cấp bản án, quyết định của Tòa án",
+        "text": "Khi bản án, quyết định của Tòa án thuộc trường hợp được thi hành theo quy định tại Điều 482 của Bộ luật này thì Tòa án đã ra bản án, quyết định đó phải cấp cho người được thi hành án và người phải thi hành án bản án hoặc quyết định đó có ghi “để thi hành”."
+    },
+    {
         "id": "Điều 485.1",
         "article": "Điều 485",
         "clause": "1",
@@ -13825,6 +14875,13 @@
         "text": "Việc giải thích bản án, quyết định của Tòa án phải căn cứ vào biên bản phiên tòa, biên bản phiên họp, biên bản nghị án. Việc sửa chữa bản án, quyết định được thực hiện theo quy định tại Điều 268 của Bộ luật này."
     },
     {
+        "id": "Điều 487.0",
+        "article": "Điều 487",
+        "clause": "0",
+        "title": "Giải quyết yêu cầu, kiến nghị đối với bản án, quyết định của Tòa án",
+        "text": "Trường hợp cơ quan thi hành án dân sự kiến nghị về việc xem xét lại bản án, quyết định của Tòa án theo thủ tục giám đốc thẩm, tái thẩm thì Tòa án có thẩm quyền phải trả lời trong thời hạn 03 tháng, kể từ ngày nhận được kiến nghị; trường hợp vụ việc phức tạp thì thời hạn trả lời không quá 04 tháng, kể từ ngày nhận được văn bản kiến nghị."
+    },
+    {
         "id": "Điều 488.1",
         "article": "Điều 488",
         "clause": "1",
@@ -13858,6 +14915,13 @@
         "clause": "2",
         "title": "Thẩm quyền, thủ tục xét miễn, giảm nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước của Tòa án",
         "text": "Trình tự, thủ tục xét miễn, giảm nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước được thực hiện theo quy định của Luật thi hành án dân sự. Phần thứ mười XỬ LÝ HÀNH VI CẢN TRỞ HOẠT ĐỘNG TỐ TỤNG DÂN SỰ; KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG DÂN SỰ Chương XL XỬ LÝ HÀNH VI CẢN TRỞ HOẠT ĐỘNG TỐ TỤNG DÂN SỰ"
+    },
+    {
+        "id": "Điều 489.0",
+        "article": "Điều 489",
+        "clause": "0",
+        "title": "Xử lý hành vi cản trở hoạt động xác minh, thu thập chứng cứ của người tiến hành tố tụng",
+        "text": "Người nào có một trong các hành vi sau đây thì tuỳ theo tính chất, mức độ vi phạm mà có thể bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật:"
     },
     {
         "id": "Điều 489.1",
@@ -13972,6 +15036,20 @@
         "text": "Quy định tại Điều này cũng được áp dụng đối với người có hành vi vi phạm tại phiên họp của Tòa án."
     },
     {
+        "id": "Điều 492.0",
+        "article": "Điều 492",
+        "clause": "0",
+        "title": "Xử lý hành vi xúc phạm, xâm hại đến sự tôn nghiêm, uy tín của Tòa án, danh dự, nhân phẩm, sức khoẻ của người tiến hành tố tụng hoặc những người khác thực hiện nhiệm vụ theo yêu cầu của Tòa án",
+        "text": "Người có hành vi xúc phạm, xâm hại đến sự tôn nghiêm, uy tín của Tòa án, danh dự, nhân phẩm, sức khỏe của người tiến hành tố tụng hoặc những người khác thực hiện nhiệm vụ theo yêu cầu của Tòa án thì tuỳ theo tính chất, mức độ vi phạm mà bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 493.0",
+        "article": "Điều 493",
+        "clause": "0",
+        "title": "Xử lý hành vi cản trở việc cấp, giao, nhận, tống đạt, thông báo văn bản tố tụng của Tòa án",
+        "text": "Người có một trong các hành vi sau đây thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật:"
+    },
+    {
         "id": "Điều 493.1",
         "article": "Điều 493",
         "clause": "1",
@@ -14000,6 +15078,13 @@
         "text": "Ngăn cản việc cấp, giao, nhận, tống đạt, thông báo văn bản tố tụng của Tòa án."
     },
     {
+        "id": "Điều 494.0",
+        "article": "Điều 494",
+        "clause": "0",
+        "title": "Xử lý hành vi cản trở đại diện của cơ quan, tổ chức hoặc cá nhân tham gia tố tụng theo yêu cầu của Tòa án",
+        "text": "Người có hành vi đe dọa, hành hung hoặc lợi dụng sự lệ thuộc nhằm cản trở đại diện của cơ quan, tổ chức hoặc cá nhân đến phiên tòa, phiên họp theo triệu tập của Tòa án thì tuỳ theo tính chất, mức độ vi phạm mà bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 495.1",
         "article": "Điều 495",
         "clause": "1",
@@ -14014,6 +15099,13 @@
         "text": "Người có hành vi đưa tin sai sự thật nhằm cản trở Tòa án giải quyết vụ án thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
     },
     {
+        "id": "Điều 496.0",
+        "article": "Điều 496",
+        "clause": "0",
+        "title": "Xử lý hành vi can thiệp vào việc giải quyết vụ việc dân sự",
+        "text": "Người nào bằng ảnh hưởng của mình có hành vi tác động dưới bất kỳ hình thức nào đối với Thẩm phán, thành viên Hội đồng xét xử nhằm làm cho việc giải quyết vụ việc không khách quan, không đúng pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 497.1",
         "article": "Điều 497",
         "clause": "1",
@@ -14026,6 +15118,13 @@
         "clause": "2",
         "title": "Trách nhiệm của Tòa án, Viện kiểm sát trong trường hợp Tòa án khởi tố vụ án hình sự",
         "text": "Viện kiểm sát có trách nhiệm xem xét, xử lý theo quy định của Bộ luật tố tụng hình sự."
+    },
+    {
+        "id": "Điều 498.0",
+        "article": "Điều 498",
+        "clause": "0",
+        "title": "Hình thức xử phạt, thẩm quyền, trình tự, thủ tục xử phạt",
+        "text": "Hình thức xử phạt, thẩm quyền, trình tự, thủ tục xử phạt hành chính đối với các hành vi cản trở hoạt động tố tụng dân sự được thực hiện theo quy định của Luật xử lý vi phạm hành chính và pháp luật có liên quan. Chương XLI KHIẾU NẠI, TỐ CÁO TRONG TỐ TỤNG DÂN SỰ"
     },
     {
         "id": "Điều 499.1",
@@ -14175,6 +15274,20 @@
         "text": "Bồi thường thiệt hại, bồi hoàn hoặc khắc phục hậu quả do quyết định, hành vi trong tố tụng dân sự trái pháp luật của mình gây ra theo quy định của pháp luật."
     },
     {
+        "id": "Điều 502.0",
+        "article": "Điều 502",
+        "clause": "0",
+        "title": "Thời hiệu khiếu nại",
+        "text": "Thời hiệu khiếu nại là 15 ngày, kể từ ngày người khiếu nại nhận được hoặc biết được quyết định, hành vi tố tụng mà người đó cho rằng có vi phạm pháp luật. Trường hợp có sự kiện bất khả kháng hoặc trở ngại khách quan mà người khiếu nại không thực hiện được quyền khiếu nại theo đúng thời hạn quy định tại Điều này thì thời gian có sự kiện bất khả kháng hoặc trở ngại khách quan đó không tính vào thời hiệu khiếu nại."
+    },
+    {
+        "id": "Điều 503.0",
+        "article": "Điều 503",
+        "clause": "0",
+        "title": "Hình thức khiếu nại",
+        "text": "Việc khiếu nại phải được thực hiện bằng đơn. Trong đơn khiếu nại phải ghi rõ ngày, tháng, năm; họ, tên, địa chỉ của người khiếu nại; nội dung, lý do khiếu nại, yêu cầu của người khiếu nại, có chữ ký hoặc điểm chỉ của người khiếu nại."
+    },
+    {
         "id": "Điều 504.1",
         "article": "Điều 504",
         "clause": "1",
@@ -14194,6 +15307,13 @@
         "clause": "3",
         "title": "Thẩm quyền giải quyết khiếu nại đối với quyết định, hành vi của người tiến hành tố tụng",
         "text": "Khiếu nại quyết định giải quyết khiếu nại lần đầu của Chánh án Tòa án, Viện trưởng Viện kiểm sát quy định tại khoản 1 và khoản 2 Điều này do Chánh án Tòa án trên một cấp trực tiếp, Viện trưởng Viện kiểm sát cấp trên trực tiếp giải quyết."
+    },
+    {
+        "id": "Điều 505.0",
+        "article": "Điều 505",
+        "clause": "0",
+        "title": "Thời hạn giải quyết khiếu nại",
+        "text": "Thời hạn giải quyết khiếu nại lần đầu là 15 ngày, kể từ ngày Tòa án, Viện kiểm sát nhận được khiếu nại. Trường hợp cần thiết, đối với vụ việc có tính chất phức tạp thì thời hạn giải quyết khiếu nại có thể được kéo dài nhưng không quá 15 ngày, kể từ ngày hết thời hạn giải quyết khiếu nại."
     },
     {
         "id": "Điều 506.1",
@@ -14306,6 +15426,20 @@
         "clause": "5",
         "title": "Thủ tục giải quyết khiếu nại lần hai",
         "text": "Quyết định giải quyết khiếu nại lần hai có hiệu lực thi hành."
+    },
+    {
+        "id": "Điều 508.0",
+        "article": "Điều 508",
+        "clause": "0",
+        "title": "Giải quyết khiếu nại về hoạt động giám định trong tố tụng dân sự",
+        "text": "Việc giải quyết khiếu nại về hoạt động giám định trong tố tụng dân sự được thực hiện theo quy định của pháp luật về giám định tư pháp và pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 509.0",
+        "article": "Điều 509",
+        "clause": "0",
+        "title": "Người có quyền tố cáo",
+        "text": "Cá nhân có quyền tố cáo với cơ quan, tổ chức, cá nhân có thẩm quyền về hành vi vi phạm pháp luật của người có thẩm quyền tiến hành tố tụng gây thiệt hại hoặc đe dọa gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân."
     },
     {
         "id": "Điều 510.1",
@@ -14448,6 +15582,13 @@
         "text": "Tố cáo về hành vi vi phạm pháp luật có dấu hiệu tội phạm được giải quyết theo quy định của Bộ luật tố tụng hình sự."
     },
     {
+        "id": "Điều 513.0",
+        "article": "Điều 513",
+        "clause": "0",
+        "title": "Thủ tục giải quyết tố cáo",
+        "text": "Thủ tục giải quyết tố cáo được thực hiện theo quy định của pháp luật về tố cáo."
+    },
+    {
         "id": "Điều 514.1",
         "article": "Điều 514",
         "clause": "1",
@@ -14460,6 +15601,13 @@
         "clause": "2",
         "title": "Trách nhiệm của người có thẩm quyền giải quyết khiếu nại, tố cáo",
         "text": "Người có thẩm quyền giải quyết khiếu nại, tố cáo mà không giải quyết, thiếu trách nhiệm trong việc giải quyết, giải quyết trái pháp luật thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 515.0",
+        "article": "Điều 515",
+        "clause": "0",
+        "title": "Kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo trong tố tụng dân sự",
+        "text": "Viện kiểm sát kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo trong tố tụng dân sự theo quy định của pháp luật. Viện kiểm sát có quyền yêu cầu, kiến nghị đối với Tòa án cùng cấp và cấp dưới, cơ quan, tổ chức và cá nhân có trách nhiệm để bảo đảm việc giải quyết khiếu nại, tố cáo có căn cứ, đúng pháp luật. Chương XLII ĐIỀU KHOẢN THI HÀNH"
     },
     {
         "id": "Điều 516.1",
@@ -14515,6 +15663,6 @@
         "article": "Điều 517",
         "clause": "2",
         "title": "Hiệu lực thi hành",
-        "text": "Bộ luật tố tụng dân sự số 24/2004/QH11 đã được sửa đổi, bổ sung theo Luật số 65/2011/QH12 hết hiệu lực kể từ ngày Bộ luật này có hiệu lực thi hành, trừ các quy định tại Điều 159 và điểm h khoản 1 Điều 192 tiếp tục có hiệu lực thi hành đến hết ngày 31 tháng 12 năm 2016. Bộ luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 10 thông qua ngày 25 tháng 11 năm 2015."
+        "text": "Bộ luật tố tụng dân sự số 24/2004/QH11 đã được sửa đổi, bổ sung theo Luật số 65/2011/QH12 hết hiệu lực kể từ ngày Bộ luật này có hiệu lực thi hành, trừ các quy định tại Điều 159 và điểm h khoản 1 Điều 192 tiếp tục có hiệu lực thi hành đến hết ngày 31 tháng 12 năm 2016. Bộ luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 10 thông qua ngày 25 tháng 11 năm 2015. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

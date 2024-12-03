@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định quản lý nhà nước về hải quan đối với hàng hoá được xuất khẩu, nhập khẩu, quá cảnh, phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh của tổ chức, cá nhân trong nước và nước ngoài trong lãnh thổ hải quan; về tổ chức và hoạt động của Hải quan."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -40,6 +47,13 @@
         "clause": "2",
         "title": "Chính sách về hải quan",
         "text": "Xây dựng Hải quan Việt Nam trong sạch, vững mạnh, chuyên nghiệp, hiện đại, hoạt động minh bạch, hiệu lực, hiệu quả."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 4.1",
@@ -453,6 +467,13 @@
         "clause": "3",
         "title": "Giám sát thi hành pháp luật về hải quan",
         "text": "Khi thực hiện nhiệm vụ, quyền hạn của mình, cơ quan hải quan, công chức hải quan phải tuân theo pháp luật, dựa vào nhân dân và chịu sự giám sát của nhân dân. CHƯƠNG II NHIỆM VỤ, TỔ CHỨC CỦA HẢI QUAN"
+    },
+    {
+        "id": "Điều 12.0",
+        "article": "Điều 12",
+        "clause": "0",
+        "title": "Nhiệm vụ của Hải quan",
+        "text": "Hải quan Việt Nam có nhiệm vụ thực hiện kiểm tra, giám sát hàng hoá, phương tiện vận tải; phòng, chống buôn lậu, vận chuyển trái phép hàng hoá qua biên giới; tổ chức thực hiện pháp luật về thuế đối với hàng hoá xuất khẩu, nhập khẩu; thống kê hàng hoá xuất khẩu, nhập khẩu theo quy định của Luật này và quy định khác của pháp luật có liên quan; kiến nghị chủ trương, biện pháp quản lý nhà nước về hải quan đối với hoạt động xuất khẩu, nhập khẩu, xuất cảnh, nhập cảnh, quá cảnh và chính sách thuế đối với hàng hoá xuất khẩu, nhập khẩu."
     },
     {
         "id": "Điều 13.1",
@@ -1316,6 +1337,20 @@
         "text": "Tờ khai hải quan được đăng ký sau khi cơ quan hải quan chấp nhận việc khai của người khai hải quan. Thời điểm đăng ký được ghi trên tờ khai hải quan. Trường hợp không chấp nhận đăng ký tờ khai hải quan, cơ quan hải quan thông báo lý do bằng văn bản giấy hoặc qua phương thức điện tử cho người khai hải quan biết."
     },
     {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Căn cứ, thẩm quyền quyết định kiểm tra hải quan",
+        "text": "Căn cứ kết quả phân tích, đánh giá rủi ro và các thông tin có liên quan đến hàng hoá, thủ trưởng cơ quan hải quan nơi xử lý hồ sơ hải quan quyết định kiểm tra hồ sơ hải quan, kiểm tra thực tế hàng hóa."
+    },
+    {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Kiểm tra hồ sơ hải quan",
+        "text": "Khi kiểm tra hồ sơ hải quan, cơ quan hải quan kiểm tra tính chính xác, đầy đủ, sự phù hợp của nội dung khai hải quan với chứng từ thuộc hồ sơ hải quan, kiểm tra việc tuân thủ chính sách quản lý hàng hóa, chính sách thuế đối với hàng hóa xuất khẩu, nhập khẩu và quy định khác của pháp luật có liên quan. Kiểm tra hồ sơ hải quan được thực hiện thông qua hệ thống xử lý dữ liệu điện tử hải quan hoặc trực tiếp bởi công chức hải quan."
+    },
+    {
         "id": "Điều 33.1",
         "article": "Điều 33",
         "clause": "1",
@@ -2093,6 +2128,13 @@
         "text": "Trường hợp người được uỷ quyền khai hải quan là doanh nghiệp cung cấp dịch vụ bưu chính, doanh nghiệp kinh doanh dịch vụ chuyển phát nhanh quốc tế thì phải thực hiện trách nhiệm của người khai hải quan theo quy định tại Điều 18 của Luật này; chỉ được chuyển, phát hàng hoá sau khi được thông quan."
     },
     {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Kiểm tra, giám sát hải quan đối với tài sản di chuyển",
+        "text": "Tài sản di chuyển của cá nhân, gia đình, tổ chức phải làm thủ tục hải quan, chịu sự kiểm tra, giám sát hải quan. Cá nhân, tổ chức xuất khẩu, nhập khẩu hàng hóa là tài sản di chuyển phải có giấy tờ chứng minh việc cư trú, hoạt động ở Việt Nam hoặc nước ngoài."
+    },
+    {
         "id": "Điều 54.1",
         "article": "Điều 54",
         "clause": "1",
@@ -2555,6 +2597,20 @@
         "text": "Tuyến đường vận chuyển hàng hóa chuyển cửa khẩu do người khai hải quan đăng ký và được cơ quan hải quan nơi tiếp nhận và xử lý hồ sơ chấp nhận. Mục 7 THỦ TỤC HẢI QUAN, KIỂM TRA,GIÁM SÁT HẢI QUAN ĐỐI VỚI PHƯƠNG TIỆN VẬN TẢI"
     },
     {
+        "id": "Điều 66.0",
+        "article": "Điều 66",
+        "clause": "0",
+        "title": "Thông báo thông tin phương tiện vận tải",
+        "text": "Chủ phương tiện vận tải, người điều khiển phương tiện vận tải, người được chủ phương tiện vận tải ủy quyền hoặc người phát hành chứng từ vận chuyển phải thông báo thông tin trực tiếp cho cơ quan hải quan hoặc qua hệ thống thông tin một cửa quốc gia về hàng hóa xuất khẩu, nhập khẩu và hành khách xuất cảnh, nhập cảnh trên phương tiện vận tải trước khi nhập cảnh, xuất cảnh."
+    },
+    {
+        "id": "Điều 67.0",
+        "article": "Điều 67",
+        "clause": "0",
+        "title": "Địa điểm làm thủ tục hải quan đối với phương tiện vận tải",
+        "text": "Phương tiện vận tải khi xuất cảnh, nhập cảnh phải qua cửa khẩu. Phương tiện vận tải nhập cảnh phải được làm thủ tục hải quan tại cửa khẩu nhập cảnh đầu tiên. Phương tiện vận tải xuất cảnh phải được làm thủ tục hải quan tại cửa khẩu xuất cảnh cuối cùng."
+    },
+    {
         "id": "Điều 68.1",
         "article": "Điều 68",
         "clause": "1",
@@ -2639,6 +2695,13 @@
         "text": "Chính phủ quy định thủ tục hải quan, kiểm tra, giám sát hải quan đối với phương tiện vận tải."
     },
     {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Chuyển tải, sang toa, cắt toa, xếp dỡ hàng hoá, hành lý trên phương tiện vận tải",
+        "text": "Việc chuyển tải, sang toa, cắt toa, xếp dỡ hàng hóa, hành lý trên phương tiện vận tải đang chịu sự kiểm tra, giám sát hải quan chỉ được tiến hành khi có sự đồng ý của cơ quan hải quan. Hàng hóa chuyển tải, sang toa, cắt toa phải được giữ nguyên trạng bao bì, thùng, kiện."
+    },
+    {
         "id": "Điều 71.1",
         "article": "Điều 71",
         "clause": "1",
@@ -2651,6 +2714,13 @@
         "clause": "2",
         "title": "Vận chuyển quốc tế kết hợp vận chuyển nội địa, vận chuyển nội địa kết hợp vận chuyển hàng hoá xuất khẩu, nhập khẩu",
         "text": "Phương tiện vận tải vận chuyển nội địa, nếu được phép của cơ quan nhà nước có thẩm quyền và đáp ứng các điều kiện về giám sát hải quan theo quy định của Bộ trưởng Bộ Tài chính thì được kết hợp vận chuyển hàng hóa xuất khẩu, nhập khẩu đang chịu sự giám sát hải quan."
+    },
+    {
+        "id": "Điều 72.0",
+        "article": "Điều 72",
+        "clause": "0",
+        "title": "Trách nhiệm của người đứng đầu tại sân bay, cảng biển, ga đường sắt liên vận quốc tế",
+        "text": "Người đứng đầu cơ quan, tổ chức có thẩm quyền tại sân bay, cảng biển, ga đường sắt liên vận quốc tế có trách nhiệm thông báo với cơ quan hải quan thông tin liên quan đến thời gian đến và đi, địa điểm đỗ của tàu biển, tàu bay, tàu hỏa liên vận quốc tế; thời gian xếp dỡ hàng hóa lên, xuống tàu biển, tàu bay, tàu hỏa liên vận quốc tế. Mục 8 KIỂM TRA, GIÁM SÁT, TẠM DỪNG LÀM THỦ TỤC HẢI QUAN ĐỐI VỚI HÀNG HOÁ NHẬP KHẨU, XUẤT KHẨU CÓ YÊU CẦU BẢO VỆ QUYỀN SỞ HỮU TRÍ TUỆ"
     },
     {
         "id": "Điều 73.1",
@@ -3213,6 +3283,13 @@
         "text": "Cơ quan hải quan nơi làm thủ tục xuất khẩu, nhập khẩu hàng hoá theo chức năng và thẩm quyền được phân cấp kiểm tra việc kê khai, tính thuế; thực hiện miễn thuế, giảm thuế, hoàn thuế, không thu thuế, ấn định thuế, gia hạn, xóa nợ tiền thuế, tiền chậm nộp, tiền phạt đối với người khai hải quan; thu thuế, các khoản thu khác và quản lý việc nộp thuế."
     },
     {
+        "id": "Điều 85.0",
+        "article": "Điều 85",
+        "clause": "0",
+        "title": "Xác định mức thuế, thời điểm tính thuế, thời hạn nộp thuế đối với hàng hoá xuất khẩu, nhập khẩu",
+        "text": "Việc xác định mức thuế đối với hàng hoá xuất khẩu, nhập khẩu căn cứ vào mã số hàng hóa và chính sách thuế đối với hàng hoá xuất khẩu, nhập khẩu có hiệu lực tại thời điểm tính thuế. Thời điểm tính thuế, thời hạn nộp thuế đối với hàng hoá xuất khẩu, nhập khẩu được thực hiện theo quy định của pháp luật về thuế."
+    },
+    {
         "id": "Điều 86.1",
         "article": "Điều 86",
         "clause": "1",
@@ -3428,6 +3505,13 @@
         "clause": "2",
         "title": "Trang bị và sử dụng trang thiết bị kỹ thuật, phương tiện phục vụ phòng, chống buôn lậu, vận chuyển trái phép hàng hoá qua biên giới",
         "text": "Trong trường hợp cần thiết, cơ quan hải quan, công chức hải quan trực tiếp làm nhiệm vụ chống buôn lậu, vận chuyển trái phép hàng hoá qua biên giới được yêu cầu cơ quan, tổ chức, cá nhân phối hợp lực lượng, hỗ trợ phương tiện, cung cấp thông tin; nếu phương tiện được hỗ trợ bị thiệt hại thì cơ quan hải quan phải bồi thường theo quy định của pháp luật. CHƯƠNG VI THÔNG TIN HẢI QUAN VÀ THỐNG KÊ HÀNG HOÁ XUẤT KHẨU, NHẬP KHẨU Mục 1 THÔNG TIN HẢI QUAN"
+    },
+    {
+        "id": "Điều 93.0",
+        "article": "Điều 93",
+        "clause": "0",
+        "title": "Thông tin hải quan",
+        "text": "Thông tin hải quan được thu thập, lưu trữ, quản lý, sử dụng để phục vụ thực hiện thủ tục hải quan; thống kê hàng hóa xuất khẩu, nhập khẩu; áp dụng quản lý rủi ro trong hoạt động nghiệp vụ hải quan; kiểm tra sau thông quan; phòng, chống buôn lậu, vận chuyển trái phép hàng hóa qua biên giới và các hoạt động nghiệp vụ khác của cơ quan hải quan."
     },
     {
         "id": "Điều 94.1",
@@ -3689,6 +3773,20 @@
         "text": "Tổng cục Hải quan tổ chức xuất bản các ấn phẩm thống kê hàng hóa xuất khẩu, nhập khẩu."
     },
     {
+        "id": "Điều 98.0",
+        "article": "Điều 98",
+        "clause": "0",
+        "title": "Báo cáo thống kê hàng hoá xuất khẩu, nhập khẩu",
+        "text": "Tổng cục Hải quan báo cáo Bộ Tài chính, Chính phủ thông tin thống kê hàng hóa xuất khẩu, nhập khẩu định kỳ hàng tháng theo hệ thống mẫu biểu quy định và báo cáo phân tích đánh giá tình hình xuất khẩu, nhập khẩu hàng hoá. CHƯƠNG VII QUẢN LÝ NHÀ NƯỚC VỀ HẢI QUAN"
+    },
+    {
+        "id": "Điều 99.0",
+        "article": "Điều 99",
+        "clause": "0",
+        "title": "Nội dung quản lý nhà nước về hải quan",
+        "text": "Nội dung quản lý nhà nước về hải quan bao gồm:"
+    },
+    {
         "id": "Điều 99.1",
         "article": "Điều 99",
         "clause": "1",
@@ -3834,5 +3932,19 @@
         "clause": "2",
         "title": "Sửa đổi, bổ sung một số điều của Luật xử lý vi phạm hành chính số 15/2012/QH13",
         "text": "Sửa đổi đoạn đầu khoản 1 Điều 123 như sau: “1. Trong trường hợp có hành vi gây rối trật tự công cộng, gây thương tích cho người khác hoặc có căn cứ cho rằng có hành vi buôn lậu, vận chuyển trái phép hàng hóa qua biên giới quy định tại khoản 1 Điều 122 của Luật này, thì những người sau đây có quyền quyết định tạm giữ người theo thủ tục hành chính:”"
+    },
+    {
+        "id": "Điều 103.0",
+        "article": "Điều 103",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2015. Luật hải quan số 29/2001/QH10 và Luật số 42/2005/QH11 sửa đổi, bổ sung một số điều của Luật hải quan hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 104.0",
+        "article": "Điều 104",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 7 thông qua ngày 23 tháng 6 năm 2014. Tên văn bản : Luật của Quốc hội số 29/2001/QH10 về Hải quan. Loại văn bản : Luật Ký hiệu : 29/2001/QH10 Ngày ban hành : 12/07/2001 Ngày có hiêu lực : 01/01/2002 Cơ quan ban hành : Quốc hội Người ký : Nông Đức Mạnh Số văn bản liên quan : 0    CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

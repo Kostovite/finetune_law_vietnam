@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quản lý tổng hợp tài nguyên và bảo vệ môi trường biển và hải đảo; quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức và cá nhân trong quản lý tổng hợp tài nguyên, bảo vệ môi trường biển và hải đảo Việt Nam. Hoạt động bảo vệ môi trường, quản lý, khai thác, sử dụng các loại tài nguyên biển và hải đảo thực hiện theo quy định của các luật có liên quan và bảo đảm phù hợp với các quy định tại Luật này."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với cơ quan, tổ chức và cá nhân có hoạt động liên quan đến quản lý tổng hợp tài nguyên và bảo vệ môi trường biển và hải đảo Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -173,6 +194,13 @@
         "clause": "3",
         "title": "Tham gia của cộng đồng dân cư, tổ chức, cá nhân có liên quan trong quản lý tổng hợp tài nguyên và bảo vệ môi trường biển và hải đảo",
         "text": "Việc lấy ý kiến của cộng đồng dân cư, tổ chức, cá nhân có liên quan được thực hiện thông qua hình thức trực tiếp, bằng văn bản hoặc các phương tiện thông tin đại chúng, trang thông tin điện tử của cơ quan nhà nước có thẩm quyền. Việc tiếp thu, giải trình phải được công khai trên trang thông tin điện tử của cơ quan nhà nước có thẩm quyền."
+    },
+    {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Tuần lễ Biển và Hải đảo Việt Nam",
+        "text": "Tuần lễ Biển và Hải đảo Việt Nam từ ngày 01 đến ngày 08 tháng 6 hằng năm."
     },
     {
         "id": "Điều 8.1",
@@ -2093,6 +2121,13 @@
         "text": "Chính phủ quy định chi tiết việc xác định và thông báo về khu vực hạn chế hoạt động để ưu tiên cho hoạt động cứu hộ, cứu nạn, ứng phó sự cố."
     },
     {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Tạm đình chỉ hoạt động đối với cơ sở gây sự cố tràn dầu, hóa chất độc trên biển",
+        "text": "Trong trường hợp cơ sở gây sự cố cản trở hoạt động khắc phục sự cố và điều tra, xác định nguyên nhân sự cố, bộ, cơ quan ngang bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương có biển căn cứ vào nhiệm vụ, quyền hạn của mình, quyết định tạm đình chỉ hoạt động đối với cơ sở gây sự cố."
+    },
+    {
         "id": "Điều 56.1",
         "article": "Điều 56",
         "clause": "1",
@@ -2499,6 +2534,13 @@
         "text": "Cơ quan có thẩm quyền cấp Giấy phép nhận chìm ở biển và các lực lượng tuần tra, kiểm soát trên biển thực hiện việc thanh tra, kiểm tra, giám sát  hoạt động nhận chìm và xử lý vi phạm theo quy định của pháp luật."
     },
     {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": "Nhận chìm ngoài vùng biển Việt Nam gây thiệt hại tới tài nguyên, môi trường biển và hải đảo Việt Nam",
+        "text": "Tổ chức, cá nhân Việt Nam hoặc tổ chức, cá nhân nước ngoài thực hiện nhận chìm ngoài vùng biển Việt Nam nhưng gây thiệt hại cho môi trường, các hệ sinh thái và kinh tế - xã hội trong vùng biển, hải đảo Việt Nam có trách nhiệm bồi thường thiệt hại, trả toàn bộ chi phí liên quan tới điều tra, khảo sát, đánh giá mức độ thiệt hại, thực hiện các giải pháp phục hồi môi trường, hệ sinh thái và các chi phí khác theo quy định của pháp luật Việt Nam và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên. CHƯƠNG VII QUAN TRẮC, GIÁM SÁT TỔNG HỢP VÀ HỆ THỐNG THÔNG TIN, CƠ SỞ DỮ LIỆU VỀ TÀI NGUYÊN, MÔI TRƯỜNG BIỂN VÀ HẢI ĐẢO Mục 1 Quan trẮc, giám sát tỔng hỢp tài nguyên, môi trưỜng biỂn VÀ HẢI ĐẢO"
+    },
+    {
         "id": "Điều 64.1",
         "article": "Điều 64",
         "clause": "1",
@@ -2539,6 +2581,13 @@
         "clause": "3",
         "title": "Thiết lập hệ thống quan trắc, giám sát tổng hợp tài nguyên, môi trường biển và hải đảo",
         "text": "Bộ Tài nguyên và Môi trường chủ trì, phối hợp với bộ, ngành có liên quan, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương có biển lập, trình Thủ tướng Chính phủ phê duyệt hệ thống quan trắc, giám sát tổng hợp tài nguyên, môi trường biển và hải đảo."
+    },
+    {
+        "id": "Điều 66.0",
+        "article": "Điều 66",
+        "clause": "0",
+        "title": "Tham gia các hệ thống quan trắc, giám sát biển và đại dương của khu vực, thế giới",
+        "text": "Bộ Tài nguyên và Môi trường là đầu mối tổ chức tham gia các hệ thống quan trắc, giám sát biển và đại dương của khu vực, thế giới; có trách nhiệm quản lý, công bố, chia sẻ, cung cấp thông tin, dữ liệu thu được từ việc tham gia hệ thống quan trắc, giám sát biển và đại dương theo quy định của pháp luật. Mục 2 HỆ thỐng thông tin, cơ sỞ dỮ liỆu vỀ tài nguyên, môi trưỜng biỂn và hẢi đẢo"
     },
     {
         "id": "Điều 67.1",
@@ -3178,6 +3227,13 @@
         "text": "Định kỳ tổng hợp, báo cáo Ủy ban nhân dân cấp trên trực tiếp tình hình quản lý tổng hợp tài nguyên và bảo vệ môi trường biển và hải đảo."
     },
     {
+        "id": "Điều 75.0",
+        "article": "Điều 75",
+        "clause": "0",
+        "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận",
+        "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với các cơ quan quản lý nhà nước tuyên truyền để nhân dân tham gia việc khai thác, sử dụng tài nguyên, bảo vệ môi trường biển và hải đảo hiệu quả, bền vững và nghiêm chỉnh chấp hành các quy định của pháp luật về tài nguyên, môi trường biển và hải đảo; phản biện xã hội, giám sát hoạt động của cơ quan nhà nước trong việc thực thi nhiệm vụ quản lý khai thác, sử dụng tài nguyên, bảo vệ môi trường biển và hải đảo theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 76.1",
         "article": "Điều 76",
         "clause": "1",
@@ -3318,6 +3374,13 @@
         "text": "Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết nội dung, thể thức, thời điểm báo cáo về quản lý tổng hợp tài nguyên và bảo vệ môi trường biển và hải đảo."
     },
     {
+        "id": "Điều 78.0",
+        "article": "Điều 78",
+        "clause": "0",
+        "title": "Thanh tra về quản lý tổng hợp tài nguyên và bảo vệ môi trường biển và hải đảo",
+        "text": "Việc thanh tra về quản lý tổng hợp tài nguyên và bảo vệ môi trường biển và hải đảo thực hiện theo quy định của pháp luật về thanh tra. CHƯƠNG X ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
         "id": "Điều 79.1",
         "article": "Điều 79",
         "clause": "1",
@@ -3358,5 +3421,19 @@
         "clause": "3",
         "title": "Điều khoản chuyển tiếp",
         "text": "Các quy hoạch khai thác, sử dụng tài nguyên của ngành, địa phương, quy hoạch phát triển ngành, địa phương được tiếp tục thực hiện cho đến khi được rà soát, điều chỉnh cho phù hợp với quy hoạch, kế hoạch sử dụng biển; quy hoạch tổng thể khai thác, sử dụng bền vững tài nguyên vùng bờ đã được phê duyệt."
+    },
+    {
+        "id": "Điều 80.0",
+        "article": "Điều 80",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016."
+    },
+    {
+        "id": "Điều 81.0",
+        "article": "Điều 81",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. -------------------------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 9 thông qua ngày 25 tháng 6 năm 2015. CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Sinh Hùng"
     }
 ]

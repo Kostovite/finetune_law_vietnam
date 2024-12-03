@@ -15,12 +15,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về việc ký kết, bảo lưu, sửa đổi, bổ sung, gia hạn, chấm dứt hiệu lực, từ bỏ, rút khỏi, tạm đình chỉ thực hiện, lưu chiểu, lưu trữ, sao lục, đăng tải, đăng ký và tổ chức thực hiện điều ước quốc tế.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Điều ước quốc tế là thỏa thuận bằng văn bản được ký kết nhân danh Nhà nước hoặc Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam với bên ký kết nước ngoài, làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ của nước Cộng hòa xã hội chủ nghĩa Việt Nam theo pháp luật quốc tế, không phụ thuộc vào tên gọi là hiệp ước, công ước, hiệp định, định ước, thỏa thuận, nghị định thư, bản ghi nhớ, công hàm trao đổi hoặc văn kiện có tên gọi khác.",
@@ -243,7 +254,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trình tự, thủ tục giám sát hoạt động ký kết và thực hiện điều ước quốc tế tuân theo quy định của pháp luật về hoạt động giám sát của Quốc hội.",
+                    "text": "Trình tự, thủ tục giám sát hoạt động ký kết và thực hiện điều ước quốc tế tuân theo quy định của pháp luật về hoạt động giám sát của Quốc hội. Chương II KÝ KẾT ĐIỀU ƯỚC QUỐC TẾ Mục 1. ĐÀM PHÁN ĐIỀU ƯỚC QUỐC TẾ",
                     "sub_clauses": []
                 }
             ]
@@ -360,7 +371,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chủ tịch nước, Chính phủ có trách nhiệm báo cáo Quốc hội, Ủy ban thường vụ Quốc hội về việc đàm phán điều ước quốc tế thuộc thẩm quyền phê chuẩn của Quốc hội.",
+                    "text": "Chủ tịch nước, Chính phủ có trách nhiệm báo cáo Quốc hội, Ủy ban thường vụ Quốc hội về việc đàm phán điều ước quốc tế thuộc thẩm quyền phê chuẩn của Quốc hội. Mục 2. ĐỀ XUẤT KÝ ĐIỀU ƯỚC QUỐC TẾ",
                     "sub_clauses": []
                 }
             ]
@@ -576,7 +587,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong trường hợp điều ước quốc tế có nội dung quan trọng, phức tạp thì Bộ trưởng Bộ Ngoại giao thành lập Hội đồng kiểm tra để kiểm tra điều ước quốc tế.",
+                    "text": "Trong trường hợp điều ước quốc tế có nội dung quan trọng, phức tạp thì Bộ trưởng Bộ Ngoại giao thành lập Hội đồng kiểm tra để kiểm tra điều ước quốc tế. Thành phần của Hội đồng kiểm tra điều ước quốc tế bao gồm đại diện Bộ Ngoại giao, Bộ Tư pháp, Văn phòng Chính phủ và cơ quan, tổ chức có liên quan.",
                     "sub_clauses": []
                 }
             ]
@@ -650,7 +661,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong trường hợp điều ước quốc tế do Bộ Tư pháp đề xuất ký, điều ước quốc tế đề xuất ký còn nhiều ý kiến khác nhau hoặc có nội dung quan trọng, phức tạp thì Bộ trưởng Bộ Tư pháp thành lập Hội đồng thẩm định để thẩm định điều ước quốc tế.",
+                    "text": "Trong trường hợp điều ước quốc tế do Bộ Tư pháp đề xuất ký, điều ước quốc tế đề xuất ký còn nhiều ý kiến khác nhau hoặc có nội dung quan trọng, phức tạp thì Bộ trưởng Bộ Tư pháp thành lập Hội đồng thẩm định để thẩm định điều ước quốc tế. Thành phần của Hội đồng thẩm định điều ước quốc tế bao gồm đại diện Bộ Tư pháp, Bộ Ngoại giao, Văn phòng Chính phủ và cơ quan, tổ chức có liên quan.",
                     "sub_clauses": []
                 }
             ]
@@ -687,7 +698,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Số lượng hồ sơ gửi thẩm định là năm bộ.",
+                    "text": "Số lượng hồ sơ gửi thẩm định là năm bộ. Mục 3. ỦY QUYỀN ĐÀM PHÁN, KÝ ĐIỀU ƯỚC QUỐC TẾ, ỦY NHIỆM THAM DỰ HỘI NGHỊ QUỐC TẾ",
                     "sub_clauses": []
                 }
             ]
@@ -708,7 +719,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trưởng đoàn tham dự hội nghị quốc tế phải được Thủ tướng Chính phủ ủy nhiệm bằng văn bản.",
+                    "text": "Trưởng đoàn tham dự hội nghị quốc tế phải được Thủ tướng Chính phủ ủy nhiệm bằng văn bản. Trong trường hợp phải ủy nhiệm cho các thành viên của đoàn Việt Nam tham dự hội nghị quốc tế theo quy định của hội nghị thì cơ quan đề xuất có trách nhiệm trình Thủ tướng Chính phủ quyết định.",
                     "sub_clauses": []
                 },
                 {
@@ -723,7 +734,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Việc cấp giấy ủy quyền, giấy ủy nhiệm được thực hiện theo quy định tại Điều 63 của Luật này.",
+                    "text": "Việc cấp giấy ủy quyền, giấy ủy nhiệm được thực hiện theo quy định tại Điều 63 của Luật này. Mục 4. TỔ CHỨC KÝ ĐIỀU ƯỚC QUỐC TẾ",
                     "sub_clauses": []
                 }
             ]
@@ -731,7 +742,13 @@
         {
             "id": "Điều 23",
             "title": "Rà soát, đối chiếu văn bản điều ước quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trước khi tiến hành ký tắt điều ước quốc tế, ký điều ước quốc tế, cơ quan đề xuất phối hợp với Bộ Ngoại giao và cơ quan nhà nước có liên quan rà soát, đối chiếu văn bản bằng tiếng Việt với văn bản bằng tiếng nước ngoài để bảo đảm chính xác về nội dung và thống nhất về hình thức.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 24",
@@ -803,7 +820,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong trường hợp người đứng đầu cơ quan đại diện ngoại giao hoặc cơ quan đại diện tại tổ chức quốc tế ký điều ước quốc tế thì người ký có trách nhiệm báo cáo, gửi ngay bản sao điều ước quốc tế đã ký cho Bộ Ngoại giao và bản chính điều ước quốc tế đến cơ quan đề xuất.",
+                    "text": "Trong trường hợp người đứng đầu cơ quan đại diện ngoại giao hoặc cơ quan đại diện tại tổ chức quốc tế ký điều ước quốc tế thì người ký có trách nhiệm báo cáo, gửi ngay bản sao điều ước quốc tế đã ký cho Bộ Ngoại giao và bản chính điều ước quốc tế đến cơ quan đề xuất. Trong thời hạn 10 ngày kể từ ngày nhận được bản chính điều ước quốc tế, cơ quan đề xuất thực hiện trách nhiệm quy định tại khoản 1 Điều này.",
                     "sub_clauses": []
                 },
                 {
@@ -816,7 +833,13 @@
         {
             "id": "Điều 27",
             "title": "Trao đổi văn kiện tạo thành điều ước quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc trao đổi văn kiện tạo thành điều ước quốc tế được thực hiện theo quy định từ Điều 8 đến Điều 26 của Luật này. Mục 5. PHÊ CHUẨN ĐIỀU ƯỚC QUỐC TẾ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 28",
@@ -978,7 +1001,13 @@
         {
             "id": "Điều 33",
             "title": "Thẩm quyền thẩm tra điều ước quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban đối ngoại của Quốc hội chủ trì, phối hợp với Hội đồng dân tộc, các Ủy ban của Quốc hội thẩm tra điều ước quốc tế thuộc thẩm quyền phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của Quốc hội.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 34",
@@ -1038,7 +1067,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Quốc hội thảo luận tại phiên họp toàn thể về việc phê chuẩn điều ước quốc tế. Trước khi thảo luận tại phiên họp toàn thể, việc phê chuẩn điều ước quốc tế có thể được thảo luận tại Tổ đại biểu Quốc hội.",
+                    "text": "Quốc hội thảo luận tại phiên họp toàn thể về việc phê chuẩn điều ước quốc tế. Trước khi thảo luận tại phiên họp toàn thể, việc phê chuẩn điều ước quốc tế có thể được thảo luận tại Tổ đại biểu Quốc hội. Trong quá trình thảo luận, cơ quan quy định tại khoản 2 Điều này được trình bày bổ sung về những vấn đề liên quan đến việc phê chuẩn điều ước quốc tế.",
                     "sub_clauses": []
                 },
                 {
@@ -1048,7 +1077,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Quốc hội biểu quyết thông qua nghị quyết về việc phê chuẩn điều ước quốc tế.",
+                    "text": "Quốc hội biểu quyết thông qua nghị quyết về việc phê chuẩn điều ước quốc tế. Mục 6. PHÊ DUYỆT ĐIỀU ƯỚC QUỐC TẾ",
                     "sub_clauses": []
                 }
             ]
@@ -1057,6 +1086,11 @@
             "id": "Điều 37",
             "title": "Các loại điều ước quốc tế phải được phê duyệt",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trừ trường hợp thuộc thẩm quyền phê chuẩn của Quốc hội, các điều ước quốc tế sau đây phải được phê duyệt:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Điều ước quốc tế nhân danh Chính phủ có quy định phải phê duyệt hoặc phải hoàn thành thủ tục pháp lý theo quy định của mỗi nước để có hiệu lực;",
@@ -1104,7 +1138,13 @@
         {
             "id": "Điều 40",
             "title": "Hồ sơ trình về việc phê duyệt điều ước quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hồ sơ trình Chính phủ về việc phê duyệt điều ước quốc tế bao gồm các tài liệu tương tự hồ sơ trình về việc phê chuẩn điều ước quốc tế quy định tại Điều 31 của Luật này. Mục 7. GIA NHẬP ĐIỀU ƯỚC QUỐC TẾ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 41",
@@ -1177,7 +1217,13 @@
         {
             "id": "Điều 44",
             "title": "Trình tự, thủ tục Quốc hội quyết định gia nhập điều ước quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trình tự, thủ tục Quốc hội quyết định gia nhập điều ước quốc tế được thực hiện tương tự trình tự, thủ tục phê chuẩn điều ước quốc tế quy định tại các điều 32, 33, 34, 35 và 36 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 45",
@@ -1208,12 +1254,24 @@
         {
             "id": "Điều 46",
             "title": "Trách nhiệm gửi văn bản điều ước quốc tế sau khi nhận được quyết định gia nhập",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan đề xuất có trách nhiệm gửi Bộ Ngoại giao văn bản điều ước quốc tế được cơ quan lưu chiểu chứng thực, cung cấp hoặc công bố, bản dịch điều ước quốc tế bằng tiếng Việt, bản ghi điện tử nội dung điều ước quốc tế bằng tiếng Việt và tiếng nước ngoài trong thời hạn 15 ngày kể từ ngày nhận được quyết định gia nhập điều ước quốc tế của cơ quan có thẩm quyền. Chương III BẢO LƯU ĐIỀU ƯỚC QUỐC TẾ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 47",
             "title": "Bảo lưu của nước Cộng hòa xã hội chủ nghĩa Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan nhà nước có thẩm quyền quyết định ký, phê chuẩn, phê duyệt hoặc gia nhập điều ước quốc tế có quyền quyết định việc bảo lưu của nước Cộng hòa xã hội chủ nghĩa Việt Nam đối với điều ước quốc tế đó.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 48",
@@ -1322,7 +1380,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Hồ sơ trình về việc rút bảo lưu hoặc rút phản đối bảo lưu bao gồm:",
+                    "text": "Hồ sơ trình về việc rút bảo lưu hoặc rút phản đối bảo lưu bao gồm: Chương IV HIỆU LỰC, SỬA ĐỔI, BỔ SUNG, GIA HẠN ĐIỀU ƯỚC QUỐC TẾ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1343,7 +1401,13 @@
         {
             "id": "Điều 52",
             "title": "Hiệu lực của điều ước quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Điều ước quốc tế có hiệu lực đối với nước Cộng hòa xã hội chủ nghĩa Việt Nam theo quy định của điều ước quốc tế đó hoặc theo thỏa thuận giữa bên Việt Nam và bên ký kết nước ngoài.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 53",
@@ -1478,7 +1542,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thẩm quyền quyết định chấm dứt hiệu lực, từ bỏ, rút khỏi, tạm đình chỉ thực hiện điều ước quốc tế được quy định như sau:",
+                    "text": "Thẩm quyền quyết định chấm dứt hiệu lực, từ bỏ, rút khỏi, tạm đình chỉ thực hiện điều ước quốc tế được quy định như sau: Trong trường hợp cần thiết, Chủ tịch nước, Chính phủ quyết định tạm đình chỉ thực hiện điều ước quốc tế do Chủ tịch nước, Chính phủ quyết định ký và Quốc hội phê chuẩn, sau đó báo cáo Quốc hội tại kỳ họp gần nhất;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1520,6 +1584,11 @@
             "title": "Thông báo liên quan đến hiệu lực của điều ước quốc tế",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Bộ Ngoại giao thông báo cho các cơ quan nhà nước có liên quan các nội dung sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Thông báo về ngày có hiệu lực của điều ước quốc tế trong thời hạn 10 ngày kể từ ngày nhận được thông tin về việc điều ước quốc tế có hiệu lực đối với nước Cộng hòa xã hội chủ nghĩa Việt Nam;",
                     "sub_clauses": []
@@ -1531,7 +1600,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thông báo về ngày chấm dứt áp dụng tạm thời điều ước quốc tế, về việc sửa đổi, bổ sung, gia hạn điều ước quốc tế, việc chấm dứt hiệu lực, từ bỏ, rút khỏi, tạm đình chỉ thực hiện điều ước quốc tế trong thời hạn 10 ngày kể từ ngày việc chấm dứt áp dụng tạm thời, sửa đổi, bổ sung, gia hạn, chấm dứt hiệu lực, từ bỏ, rút khỏi, tạm đình chỉ thực hiện điều ước quốc tế có hiệu lực.",
+                    "text": "Thông báo về ngày chấm dứt áp dụng tạm thời điều ước quốc tế, về việc sửa đổi, bổ sung, gia hạn điều ước quốc tế, việc chấm dứt hiệu lực, từ bỏ, rút khỏi, tạm đình chỉ thực hiện điều ước quốc tế trong thời hạn 10 ngày kể từ ngày việc chấm dứt áp dụng tạm thời, sửa đổi, bổ sung, gia hạn, chấm dứt hiệu lực, từ bỏ, rút khỏi, tạm đình chỉ thực hiện điều ước quốc tế có hiệu lực. Chương V LƯU CHIỂU, LƯU TRỮ, SAO LỤC, ĐĂNG TẢI ĐIỀU ƯỚC QUỐC TẾ",
                     "sub_clauses": []
                 }
             ]
@@ -1539,7 +1608,13 @@
         {
             "id": "Điều 57",
             "title": "Lưu chiểu điều ước quốc tế nhiều bên",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Ngoại giao thực hiện việc lưu chiểu điều ước quốc tế nhiều bên trong trường hợp nước Cộng hòa xã hội chủ nghĩa Việt Nam được chỉ định là cơ quan lưu chiểu điều ước quốc tế đó.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 58",
@@ -1579,7 +1654,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Điều ước quốc tế có hiệu lực đối với nước Cộng hòa xã hội chủ nghĩa Việt Nam phải được đăng tải trên Công báo nước Cộng hòa xã hội chủ nghĩa Việt Nam và Cổng thông tin điện tử của cơ quan đề xuất, trừ trường hợp có thỏa thuận khác giữa bên Việt Nam và bên ký kết nước ngoài hoặc có quyết định của cơ quan nhà nước có thẩm quyền.",
+                    "text": "Điều ước quốc tế có hiệu lực đối với nước Cộng hòa xã hội chủ nghĩa Việt Nam phải được đăng tải trên Công báo nước Cộng hòa xã hội chủ nghĩa Việt Nam và Cổng thông tin điện tử của cơ quan đề xuất, trừ trường hợp có thỏa thuận khác giữa bên Việt Nam và bên ký kết nước ngoài hoặc có quyết định của cơ quan nhà nước có thẩm quyền. Trong trường hợp có yêu cầu không đăng tải điều ước quốc tế, cơ quan đề xuất trình Thủ tướng Chính phủ quyết định sau khi lấy ý kiến bằng văn bản của Bộ Ngoại giao, Bộ Tư pháp và cơ quan, tổ chức có liên quan. Cơ quan đề xuất có trách nhiệm thông báo nội dung phải thực hiện cho các cơ quan, tổ chức, cá nhân trực tiếp thực hiện quy định có liên quan của điều ước quốc tế.",
                     "sub_clauses": []
                 },
                 {
@@ -1602,12 +1677,24 @@
         {
             "id": "Điều 61",
             "title": "Cấp bản sao điều ước quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Ngoại giao cấp bản sao điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên được lưu trữ, lưu chiểu tại Bộ Ngoại giao cho cơ quan, tổ chức, cá nhân theo quy định của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 62",
             "title": "Cơ sở dữ liệu về điều ước quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Ngoại giao chủ trì, phối hợp với cơ quan, tổ chức có liên quan xây dựng và vận hành Cơ sở dữ liệu về điều ước quốc tế của nước Cộng hòa xã hội chủ nghĩa Việt Nam. Toàn văn điều ước quốc tế, thông tin về hiệu lực của điều ước quốc tế được đăng tải theo quy định tại khoản 1 Điều 60 của Luật này được công khai trên Cơ sở dữ liệu về điều ước quốc tế của nước Cộng hòa xã hội chủ nghĩa Việt Nam. Chương VI THỦ TỤC ĐỐI NGOẠI",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 63",
@@ -1646,7 +1733,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chủ tịch nước ký văn kiện phê chuẩn điều ước quốc tế hai bên. Nội dung văn kiện phê chuẩn điều ước quốc tế hai bên bao gồm tên điều ước quốc tế, thời gian, địa điểm ký và các nội dung cần thiết khác.",
+                    "text": "Chủ tịch nước ký văn kiện phê chuẩn điều ước quốc tế hai bên. Nội dung văn kiện phê chuẩn điều ước quốc tế hai bên bao gồm tên điều ước quốc tế, thời gian, địa điểm ký và các nội dung cần thiết khác. Bộ Ngoại giao phối hợp với cơ quan đề xuất tiến hành thủ tục trao đổi văn kiện phê chuẩn với bên ký kết nước ngoài trong trường hợp điều ước quốc tế hai bên có quy định hoặc có thỏa thuận với bên ký kết nước ngoài về việc phải hoàn thành thủ tục trao đổi văn kiện phê chuẩn để điều ước quốc tế có hiệu lực.",
                     "sub_clauses": []
                 },
                 {
@@ -1680,7 +1767,13 @@
         {
             "id": "Điều 66",
             "title": "Thủ tục đối ngoại về việc chấm dứt áp dụng tạm thời điều ước quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Ngoại giao thông báo cho bên ký kết nước ngoài quyết định của bên Việt Nam về việc chấm dứt áp dụng tạm thời điều ước quốc tế hoặc trả lời của bên Việt Nam đối với quyết định của bên ký kết nước ngoài về việc chấm dứt áp dụng tạm thời điều ước quốc tế trong thời hạn 15 ngày kể từ ngày nhận được quyết định của cơ quan nhà nước có thẩm quyền.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 67",
@@ -1717,7 +1810,13 @@
         {
             "id": "Điều 69",
             "title": "Đăng ký điều ước quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong trường hợp phải đăng ký điều ước quốc tế, Bộ Ngoại giao đăng ký tại Ban thư ký của Liên hợp quốc điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên. Chương VII TRÌNH TỰ, THỦ TỤC RÚT GỌN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 70",
@@ -1743,7 +1842,13 @@
         {
             "id": "Điều 71",
             "title": "Đồng thời đề xuất đàm phán và ký điều ước quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong trường hợp cơ quan đề xuất xác định nội dung và tập hợp đầy đủ tài liệu cần thiết trong hồ sơ đề xuất ký điều ước quốc tế theo quy định tại Điều 17 của Luật này trước khi đàm phán thì có thể đồng thời đề xuất đàm phán và ký điều ước quốc tế.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 72",
@@ -1840,7 +1945,13 @@
         {
             "id": "Điều 75",
             "title": "Từ chối áp dụng trình tự, thủ tục rút gọn",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong trường hợp từ chối áp dụng trình tự, thủ tục rút gọn, cơ quan có thẩm quyền quyết định đàm phán, ký, sửa đổi, bổ sung, gia hạn điều ước quốc tế gửi trả lại hồ sơ và yêu cầu cơ quan trình thực hiện quy trình, thủ tục thông thường hoặc yêu cầu cơ quan trình bổ sung hồ sơ. Chương VIII TỔ CHỨC THỰC HIỆN ĐIỀU ƯỚC QUỐC TẾ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 76",
@@ -1858,7 +1969,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong trường hợp cơ quan đề xuất không phải là cơ quan chủ trì thực hiện điều ước quốc tế, cơ quan đề xuất trình Thủ tướng Chính phủ quyết định cơ quan chủ trì thực hiện điều ước quốc tế trong thời hạn 15 ngày kể từ ngày cơ quan có thẩm quyền quyết định chấp nhận sự ràng buộc của điều ước quốc tế.",
+                    "text": "Trong trường hợp cơ quan đề xuất không phải là cơ quan chủ trì thực hiện điều ước quốc tế, cơ quan đề xuất trình Thủ tướng Chính phủ quyết định cơ quan chủ trì thực hiện điều ước quốc tế trong thời hạn 15 ngày kể từ ngày cơ quan có thẩm quyền quyết định chấp nhận sự ràng buộc của điều ước quốc tế. Cơ quan chủ trì thực hiện điều ước quốc tế có trách nhiệm thực hiện các nhiệm vụ của cơ quan đề xuất quy định tại khoản 2, khoản 5 Điều này, Điều 79 và Điều 80 của Luật này.",
                     "sub_clauses": []
                 },
                 {
@@ -1910,7 +2021,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Báo cáo Chính phủ, Thủ tướng Chính phủ theo định kỳ hàng năm hoặc theo yêu cầu; báo cáo Chủ tịch nước theo yêu cầu về tình hình thực hiện điều ước quốc tế.",
+                    "text": "Báo cáo Chính phủ, Thủ tướng Chính phủ theo định kỳ hàng năm hoặc theo yêu cầu; báo cáo Chủ tịch nước theo yêu cầu về tình hình thực hiện điều ước quốc tế. Trình Chính phủ báo cáo Quốc hội tình hình ký kết và thực hiện điều ước quốc tế theo định kỳ hàng năm hoặc theo yêu cầu của Quốc hội.",
                     "sub_clauses": []
                 },
                 {
@@ -1972,7 +2083,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Xây dựng báo cáo về tình hình ký kết và thực hiện điều ước quốc tế thuộc phạm vi quản lý nhà nước của mình gửi Bộ Ngoại giao để tổng hợp trình Thủ tướng Chính phủ chậm nhất vào ngày 15 tháng 11 hàng năm. Báo cáo của cơ quan đề xuất được xây dựng theo mẫu do Bộ Ngoại giao ban hành.",
+                    "text": "Xây dựng báo cáo về tình hình ký kết và thực hiện điều ước quốc tế thuộc phạm vi quản lý nhà nước của mình gửi Bộ Ngoại giao để tổng hợp trình Thủ tướng Chính phủ chậm nhất vào ngày 15 tháng 11 hàng năm. Báo cáo của cơ quan đề xuất được xây dựng theo mẫu do Bộ Ngoại giao ban hành. Trong trường hợp có yêu cầu, cơ quan đề xuất báo cáo Chủ tịch nước, Chính phủ về tình hình ký kết và thực hiện điều ước quốc tế.",
                     "sub_clauses": []
                 },
                 {
@@ -1993,7 +2104,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan, tổ chức, cá nhân có trách nhiệm tuân thủ điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.",
+                    "text": "Cơ quan, tổ chức, cá nhân có trách nhiệm tuân thủ điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên. Chương IX QUẢN LÝ NHÀ NƯỚC VỀ ĐIỀU ƯỚC QUỐC TẾ",
                     "sub_clauses": []
                 }
             ]
@@ -2091,7 +2202,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương X ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2107,11 +2218,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Luật ký kết, gia nhập và thực hiện điều ước quốc tế số 41/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.",
+                    "text": "Luật ký kết, gia nhập và thực hiện điều ước quốc tế số 41/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 11 thông qua ngày 09 tháng 4 năm 2016. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 11 thông qua ngày 09 tháng 4 năm 2016.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

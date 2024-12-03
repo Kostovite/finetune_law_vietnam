@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Bộ luật Lao động quy định tiêu chuẩn lao động; quyền, nghĩa vụ, trách nhiệm của người lao động, người sử dụng lao động, tổ chức đại diện người lao động tại cơ sở, tổ chức đại diện người sử dụng lao động trong quan hệ lao động và các quan hệ khác liên quan trực tiếp đến quan hệ lao động; quản lý nhà nước về lao động."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -26,6 +33,13 @@
         "clause": "4",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Bộ luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -798,6 +812,13 @@
         "text": "Phụ lục hợp đồng lao động quy định chi tiết, sửa đổi, bổ sung một số điều, khoản của hợp đồng lao động nhưng không được sửa đổi thời hạn của hợp đồng lao động. Trường hợp phụ lục hợp đồng lao động quy định chi tiết một số điều, khoản của hợp đồng lao động mà dẫn đến cách hiểu khác với hợp đồng lao động thì thực hiện theo nội dung của hợp đồng lao động. Trường hợp phụ lục hợp đồng lao động sửa đổi, bổ sung một số điều, khoản của hợp đồng lao động thì phải ghi rõ nội dung điều, khoản sửa đổi, bổ sung và thời điểm có hiệu lực."
     },
     {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Hiệu lực của hợp đồng lao động",
+        "text": "Hợp đồng lao động có hiệu lực kể từ ngày hai bên giao kết, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác."
+    },
+    {
         "id": "Điều 24.1",
         "article": "Điều 24",
         "clause": "1",
@@ -817,6 +838,13 @@
         "clause": "3",
         "title": "Thử việc",
         "text": "Không áp dụng thử việc đối với người lao động giao kết hợp đồng lao động có thời hạn dưới 01 tháng."
+    },
+    {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Thời gian thử việc",
+        "text": "Thời gian thử việc do hai bên thỏa thuận căn cứ vào tính chất và mức độ phức tạp của công việc nhưng chỉ được thử việc một lần đối với một công việc và bảo đảm điều kiện sau đây:"
     },
     {
         "id": "Điều 25.1",
@@ -847,6 +875,13 @@
         "text": "Không quá 06 ngày làm việc đối với công việc khác."
     },
     {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Tiền lương thử việc",
+        "text": "Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận nhưng ít nhất phải bằng 85% mức lương của công việc đó."
+    },
+    {
         "id": "Điều 27.1",
         "article": "Điều 27",
         "clause": "1",
@@ -859,6 +894,13 @@
         "clause": "2",
         "title": "Kết thúc thời gian thử việc",
         "text": "Trong thời gian thử việc, mỗi bên có quyền hủy bỏ hợp đồng thử việc hoặc hợp đồng lao động đã giao kết mà không cần báo trước và không phải bồi thường. Mục 2 THỰC HIỆN HỢP ĐỒNG LAO ĐỘNG"
+    },
+    {
+        "id": "Điều 28.0",
+        "article": "Điều 28",
+        "clause": "0",
+        "title": "Thực hiện công việc theo hợp đồng lao động",
+        "text": "Công việc theo hợp đồng lao động phải do người lao động đã giao kết hợp đồng thực hiện. Địa điểm làm việc được thực hiện theo hợp đồng lao động, trừ trường hợp hai bên có thỏa thuận khác."
     },
     {
         "id": "Điều 29.1",
@@ -957,6 +999,13 @@
         "clause": "2",
         "title": "Tạm hoãn thực hiện hợp đồng lao động",
         "text": "Trong thời gian tạm hoãn thực hiện hợp đồng lao động, người lao động không được hưởng lương và quyền, lợi ích đã giao kết trong hợp đồng lao động, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác."
+    },
+    {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Nhận lại người lao động hết thời hạn tạm hoãn thực hiện hợp đồng lao động",
+        "text": "Trong thời hạn 15 ngày kể từ ngày hết thời hạn tạm hoãn thực hiện hợp đồng lao động, người lao động phải có mặt tại nơi làm việc và người sử dụng lao động phải nhận người lao động trở lại làm công việc theo hợp đồng lao động đã giao kết nếu hợp đồng lao động còn thời hạn, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác."
     },
     {
         "id": "Điều 32.1",
@@ -1300,6 +1349,20 @@
         "clause": "3",
         "title": "Trường hợp người sử dụng lao động không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động",
         "text": "Người lao động nữ mang thai; người lao động đang nghỉ thai sản hoặc nuôi con dưới 12 tháng tuổi."
+    },
+    {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Hủy bỏ việc đơn phương chấm dứt hợp đồng lao động",
+        "text": "Mỗi bên đều có quyền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động trước khi hết thời hạn báo trước nhưng phải thông báo bằng văn bản và phải được bên kia đồng ý."
+    },
+    {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Đơn phương chấm dứt hợp đồng lao động trái pháp luật",
+        "text": "Đơn phương chấm dứt hợp đồng lao động trái pháp luật là trường hợp chấm dứt hợp đồng lao động không đúng quy định tại các điều 35, 36 và 37 của Bộ luật này."
     },
     {
         "id": "Điều 40.1",
@@ -1659,6 +1722,13 @@
         "text": "Hợp đồng lao động vô hiệu từng phần khi nội dung của phần đó vi phạm pháp luật nhưng không ảnh hưởng đến các phần còn lại của hợp đồng."
     },
     {
+        "id": "Điều 50.0",
+        "article": "Điều 50",
+        "clause": "0",
+        "title": "Thẩm quyền tuyên bố hợp đồng lao động vô hiệu",
+        "text": "Tòa án nhân dân có quyền tuyên bố hợp đồng lao động vô hiệu."
+    },
+    {
         "id": "Điều 51.1",
         "article": "Điều 51",
         "clause": "1",
@@ -1848,6 +1918,13 @@
         "text": "Hợp đồng cho thuê lại lao động không được có những thỏa thuận về quyền, lợi ích của người lao động thấp hơn so với hợp đồng lao động mà doanh nghiệp cho thuê lại lao động đã ký với người lao động."
     },
     {
+        "id": "Điều 56.0",
+        "article": "Điều 56",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của doanh nghiệp cho thuê lại lao động",
+        "text": "Ngoài các quyền và nghĩa vụ quy định tại Điều 6 của Bộ luật này, doanh nghiệp cho thuê lại lao động có các quyền và nghĩa vụ sau đây:"
+    },
+    {
         "id": "Điều 56.1",
         "article": "Điều 56",
         "clause": "1",
@@ -1930,6 +2007,13 @@
         "clause": "6",
         "title": "Quyền và nghĩa vụ của bên thuê lại lao động",
         "text": "Cung cấp cho doanh nghiệp cho thuê lại lao động chứng cứ về hành vi vi phạm kỷ luật lao động của người lao động thuê lại để xem xét xử lý kỷ luật lao động."
+    },
+    {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của người lao động thuê lại",
+        "text": "Ngoài các quyền và nghĩa vụ theo quy định tại Điều 5 của Bộ luật này, người lao động thuê lại có các quyền và nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 58.1",
@@ -2217,6 +2301,27 @@
         "clause": "2e",
         "title": "Nội dung đối thoại tại nơi làm việc",
         "text": "Nội dung khác mà một hoặc các bên quan tâm."
+    },
+    {
+        "id": "Điều 65.0",
+        "article": "Điều 65",
+        "clause": "0",
+        "title": "Thương lượng tập thể",
+        "text": "Thương lượng tập thể là việc đàm phán, thỏa thuận giữa một bên là một hoặc nhiều tổ chức đại diện người lao động với một bên là một hoặc nhiều người sử dụng lao động hoặc tổ chức đại diện người sử dụng lao động nhằm xác lập điều kiện lao động, quy định về mối quan hệ giữa các bên và xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định."
+    },
+    {
+        "id": "Điều 66.0",
+        "article": "Điều 66",
+        "clause": "0",
+        "title": "Nguyên tắc thương lượng tập thể",
+        "text": "Thương lượng tập thể được tiến hành theo nguyên tắc tự nguyện, hợp tác, thiện chí, bình đẳng, công khai và minh bạch."
+    },
+    {
+        "id": "Điều 67.0",
+        "article": "Điều 67",
+        "clause": "0",
+        "title": "Nội dung thương lượng tập thể",
+        "text": "Các bên thương lượng lựa chọn một hoặc một số nội dung sau để tiến hành thương lượng tập thể:"
     },
     {
         "id": "Điều 67.1",
@@ -2555,6 +2660,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 77.0",
+        "article": "Điều 77",
+        "clause": "0",
+        "title": "Gửi thỏa ước lao động tập thể",
+        "text": "Trong thời hạn 10 ngày kể từ ngày thỏa ước lao động tập thể được ký kết, người sử dụng lao động tham gia thỏa ước phải gửi 01 bản thỏa ước lao động tập thể đến cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh nơi đặt trụ sở chính."
+    },
+    {
         "id": "Điều 78.1",
         "article": "Điều 78",
         "clause": "1",
@@ -2646,6 +2758,13 @@
         "text": "Trường hợp quy định của pháp luật thay đổi dẫn đến thỏa ước lao động tập thể không còn phù hợp với quy định của pháp luật thì các bên phải tiến hành sửa đổi, bổ sung thỏa ước lao động tập thể cho phù hợp với quy định của pháp luật. Trong thời gian tiến hành sửa đổi, bổ sung thỏa ước lao động tập thể thì quyền lợi của người lao động được thực hiện theo quy định của pháp luật."
     },
     {
+        "id": "Điều 83.0",
+        "article": "Điều 83",
+        "clause": "0",
+        "title": "Thỏa ước lao động tập thể hết hạn",
+        "text": "Trong thời hạn 90 ngày trước ngày thỏa ước lao động tập thể hết hạn, các bên có thể thương lượng để kéo dài thời hạn của thỏa ước lao động tập thể hoặc ký kết thỏa ước lao động tập thể mới. Trường hợp các bên thỏa thuận kéo dài thời hạn của thỏa ước lao động tập thể thì phải lấy ý kiến theo quy định tại Điều 76 của Bộ luật này. Khi thỏa ước lao động tập thể hết hạn mà các bên vẫn tiếp tục thương lượng thì thỏa ước lao động tập thể cũ vẫn được tiếp tục thực hiện trong thời hạn không quá 90 ngày kể từ ngày thỏa ước lao động tập thể hết hạn, trừ trường hợp các bên có thỏa thuận khác."
+    },
+    {
         "id": "Điều 84.1",
         "article": "Điều 84",
         "clause": "1",
@@ -2714,6 +2833,27 @@
         "clause": "2c",
         "title": "Thỏa ước lao động tập thể vô hiệu",
         "text": "Không tuân thủ đúng quy trình thương lượng, ký kết thỏa ước lao động tập thể."
+    },
+    {
+        "id": "Điều 87.0",
+        "article": "Điều 87",
+        "clause": "0",
+        "title": "Thẩm quyền tuyên bố thỏa ước lao động tập thể vô hiệu",
+        "text": "Tòa án nhân dân có quyền tuyên bố thỏa ước lao động tập thể vô hiệu."
+    },
+    {
+        "id": "Điều 88.0",
+        "article": "Điều 88",
+        "clause": "0",
+        "title": "Xử lý thỏa ước lao động tập thể vô hiệu",
+        "text": "Khi thỏa ước lao động tập thể bị tuyên bố vô hiệu thì quyền, nghĩa vụ và lợi ích của các bên ghi trong thỏa ước lao động tập thể tương ứng với toàn bộ hoặc phần bị tuyên bố vô hiệu được giải quyết theo quy định của pháp luật và các thỏa thuận hợp pháp trong hợp đồng lao động."
+    },
+    {
+        "id": "Điều 89.0",
+        "article": "Điều 89",
+        "clause": "0",
+        "title": "Chi phí thương lượng, ký kết thỏa ước lao động tập thể",
+        "text": "Mọi chi phí cho việc thương lượng, ký kết, sửa đổi, bổ sung, gửi và công bố thỏa ước lao động tập thể do phía người sử dụng lao động chi trả. Chương VI TIỀN LƯƠNG"
     },
     {
         "id": "Điều 90.1",
@@ -2940,6 +3080,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 99.0",
+        "article": "Điều 99",
+        "clause": "0",
+        "title": "Tiền lương ngừng việc",
+        "text": "Trường hợp phải ngừng việc, người lao động được trả lương như sau:"
+    },
+    {
         "id": "Điều 99.1",
         "article": "Điều 99",
         "clause": "1",
@@ -3031,6 +3178,13 @@
         "text": "Mức khấu trừ tiền lương hằng tháng không được quá 30% tiền lương thực trả hằng tháng của người lao động sau khi trích nộp các khoản bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp, thuế thu nhập cá nhân."
     },
     {
+        "id": "Điều 103.0",
+        "article": "Điều 103",
+        "clause": "0",
+        "title": "Chế độ nâng lương, nâng bậc, phụ cấp, trợ cấp",
+        "text": "Chế độ nâng lương, nâng bậc, phụ cấp, trợ cấp và các chế độ khuyến khích đối với người lao động được thỏa thuận trong hợp đồng lao động, thỏa ước lao động tập thể hoặc quy định của người sử dụng lao động."
+    },
+    {
         "id": "Điều 104.1",
         "article": "Điều 104",
         "clause": "1",
@@ -3064,6 +3218,13 @@
         "clause": "3",
         "title": "Thời giờ làm việc bình thường",
         "text": "Người sử dụng lao động có trách nhiệm bảo đảm giới hạn thời gian làm việc tiếp xúc với yếu tố nguy hiểm, yếu tố có hại đúng theo quy chuẩn kỹ thuật quốc gia và pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 106.0",
+        "article": "Điều 106",
+        "clause": "0",
+        "title": "Giờ làm việc ban đêm",
+        "text": "Giờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau."
     },
     {
         "id": "Điều 107.1",
@@ -3157,6 +3318,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 108.0",
+        "article": "Điều 108",
+        "clause": "0",
+        "title": "Làm thêm giờ trong trường hợp đặc biệt",
+        "text": "Người sử dụng lao động có quyền yêu cầu người lao động làm thêm giờ vào bất kỳ ngày nào mà không bị giới hạn về số giờ làm thêm theo quy định tại Điều 107 của Bộ luật này và người lao động không được từ chối trong trường hợp sau đây:"
+    },
+    {
         "id": "Điều 108.1",
         "article": "Điều 108",
         "clause": "1",
@@ -3183,6 +3351,13 @@
         "clause": "2",
         "title": "Nghỉ trong giờ làm việc",
         "text": "Ngoài thời gian nghỉ quy định tại khoản 1 Điều này, người sử dụng lao động bố trí cho người lao động các đợt nghỉ giải lao và ghi vào nội quy lao động."
+    },
+    {
+        "id": "Điều 110.0",
+        "article": "Điều 110",
+        "clause": "0",
+        "title": "Nghỉ chuyển ca",
+        "text": "Người lao động làm việc theo ca được nghỉ ít nhất 12 giờ trước khi chuyển sang ca làm việc khác."
     },
     {
         "id": "Điều 111.1",
@@ -3339,6 +3514,13 @@
         "text": "Chính phủ quy định chi tiết điều này."
     },
     {
+        "id": "Điều 114.0",
+        "article": "Điều 114",
+        "clause": "0",
+        "title": "Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc",
+        "text": "Cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm của người lao động theo quy định tại khoản 1 Điều 113 của Bộ luật này được tăng thêm tương ứng 01 ngày."
+    },
+    {
         "id": "Điều 115.1",
         "article": "Điều 115",
         "clause": "1",
@@ -3379,6 +3561,20 @@
         "clause": "3",
         "title": "Nghỉ việc riêng, nghỉ không hưởng lương",
         "text": "Ngoài quy định tại khoản 1 và khoản 2 Điều này, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương. Mục 3 THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI ĐỐI VỚI NGƯỜI LÀM CÔNG VIỆC CÓ TÍNH CHẤT ĐẶC BIỆT"
+    },
+    {
+        "id": "Điều 116.0",
+        "article": "Điều 116",
+        "clause": "0",
+        "title": "Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt",
+        "text": "Đối với các công việc có tính chất đặc biệt trong lĩnh vực vận tải đường bộ, đường sắt, đường thủy, đường hàng không; thăm dò, khai thác dầu khí trên biển; làm việc trên biển; trong lĩnh vực nghệ thuật; sử dụng kỹ thuật bức xạ và hạt nhân; ứng dụng kỹ thuật sóng cao tần; tin học, công nghệ tin học; nghiên cứu ứng dụng khoa học, công nghệ tiên tiến; thiết kế công nghiệp; công việc của thợ lặn; công việc trong hầm lò; công việc sản xuất có tính thời vụ, công việc gia công theo đơn đặt hàng; công việc phải thường trực 24/24 giờ; các công việc có tính chất đặc biệt khác do Chính phủ quy định thì các Bộ, ngành quản lý quy định cụ thể thời giờ làm việc, thời giờ nghỉ ngơi sau khi thống nhất với Bộ Lao động - Thương binh và Xã hội và phải tuân thủ quy định tại Điều 109 của Bộ luật này. Chương VIII KỶ LUẬT LAO ĐỘNG, TRÁCH NHIỆM VẬT CHẤT Mục 1 KỶ LUẬT LAO ĐỘNG"
+    },
+    {
+        "id": "Điều 117.0",
+        "article": "Điều 117",
+        "clause": "0",
+        "title": "Kỷ luật lao động",
+        "text": "Kỷ luật lao động là những quy định về việc tuân theo thời gian, công nghệ và điều hành sản xuất, kinh doanh do người sử dụng lao động ban hành trong nội quy lao động và do pháp luật quy định."
     },
     {
         "id": "Điều 118.1",
@@ -3514,6 +3710,13 @@
         "text": "Căn cứ điều kiện cụ thể, cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh có thể ủy quyền cho cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp huyện thực hiện việc đăng ký nội quy lao động theo quy định tại Điều này."
     },
     {
+        "id": "Điều 120.0",
+        "article": "Điều 120",
+        "clause": "0",
+        "title": "Hồ sơ đăng ký nội quy lao động",
+        "text": "Hồ sơ đăng ký nội quy lao động bao gồm:"
+    },
+    {
         "id": "Điều 120.1",
         "article": "Điều 120",
         "clause": "1",
@@ -3540,6 +3743,13 @@
         "clause": "4",
         "title": "Hồ sơ đăng ký nội quy lao động",
         "text": "Các văn bản của người sử dụng lao động có quy định liên quan đến kỷ luật lao động và trách nhiệm vật chất (nếu có)."
+    },
+    {
+        "id": "Điều 121.0",
+        "article": "Điều 121",
+        "clause": "0",
+        "title": "Hiệu lực của nội quy lao động",
+        "text": "Nội quy lao động có hiệu lực sau 15 ngày kể từ ngày cơ quan nhà nước có thẩm quyền quy định tại Điều 119 của Bộ luật này nhận được đầy đủ hồ sơ đăng ký nội quy lao động. Trường hợp người sử dụng lao động sử dụng dưới 10 người lao động ban hành nội quy lao động bằng văn bản thì hiệu lực do người sử dụng lao động quyết định trong nội quy lao động."
     },
     {
         "id": "Điều 122.1",
@@ -3689,6 +3899,13 @@
         "text": "Sa thải."
     },
     {
+        "id": "Điều 125.0",
+        "article": "Điều 125",
+        "clause": "0",
+        "title": "Áp dụng hình thức xử lý kỷ luật sa thải",
+        "text": "Hình thức xử lý kỷ luật sa thải được người sử dụng lao động áp dụng trong trường hợp sau đây:"
+    },
+    {
         "id": "Điều 125.1",
         "article": "Điều 125",
         "clause": "1",
@@ -3806,6 +4023,20 @@
         "clause": "2",
         "title": "Xử lý bồi thường thiệt hại",
         "text": "Chính phủ quy định trình tự, thủ tục, thời hiệu xử lý việc bồi thường thiệt hại."
+    },
+    {
+        "id": "Điều 131.0",
+        "article": "Điều 131",
+        "clause": "0",
+        "title": "Khiếu nại về kỷ luật lao động, trách nhiệm vật chất",
+        "text": "Người bị xử lý kỷ luật lao động, bị tạm đình chỉ công việc hoặc phải bồi thường theo chế độ trách nhiệm vật chất nếu thấy không thỏa đáng có quyền khiếu nại với người sử dụng lao động, với cơ quan có thẩm quyền theo quy định của pháp luật hoặc yêu cầu giải quyết tranh chấp lao động theo trình tự do pháp luật quy định. Chính phủ quy định chi tiết Điều này. Chương IX AN TOÀN, VỆ SINH LAO ĐỘNG"
+    },
+    {
+        "id": "Điều 132.0",
+        "article": "Điều 132",
+        "clause": "0",
+        "title": "Tuân thủ pháp luật về an toàn, vệ sinh lao động",
+        "text": "Người sử dụng lao động, người lao động và cơ quan, tổ chức, cá nhân có liên quan đến lao động, sản xuất, kinh doanh phải thực hiện quy định của pháp luật về an toàn, vệ sinh lao động."
     },
     {
         "id": "Điều 133.1",
@@ -3995,6 +4226,20 @@
         "clause": "5",
         "title": "Nghỉ thai sản",
         "text": "Lao động nam khi vợ sinh con, người lao động nhận nuôi con nuôi dưới 06 tháng tuổi, lao động nữ mang thai hộ và người lao động là người mẹ nhờ mang thai hộ được nghỉ việc hưởng chế độ thai sản theo quy định của pháp luật về bảo hiểm xã hội."
+    },
+    {
+        "id": "Điều 140.0",
+        "article": "Điều 140",
+        "clause": "0",
+        "title": "Bảo đảm việc làm cho lao động nghỉ thai sản",
+        "text": "Lao động được bảo đảm việc làm cũ khi trở lại làm việc sau khi nghỉ hết thời gian theo quy định tại các khoản 1, 3 và 5 Điều 139 của Bộ luật này mà không bị cắt giảm tiền lương và quyền, lợi ích so với trước khi nghỉ thai sản; trường hợp việc làm cũ không còn thì người sử dụng lao động phải bố trí việc làm khác cho họ với mức lương không thấp hơn mức lương trước khi nghỉ thai sản."
+    },
+    {
+        "id": "Điều 141.0",
+        "article": "Điều 141",
+        "clause": "0",
+        "title": "Trợ cấp trong thời gian chăm sóc con ốm đau, thai sản và thực hiện các biện pháp tránh thai",
+        "text": "Thời gian nghỉ việc khi chăm sóc con dưới 07 tuổi ốm đau, khám thai, sẩy thai, nạo, hút thai, thai chết lưu, phá thai bệnh lý, thực hiện các biện pháp tránh thai, triệt sản, người lao động được hưởng trợ cấp theo quy định của pháp luật về bảo hiểm xã hội."
     },
     {
         "id": "Điều 142.1",
@@ -4473,6 +4718,13 @@
         "text": "Trường hợp khác theo quy định của Chính phủ."
     },
     {
+        "id": "Điều 155.0",
+        "article": "Điều 155",
+        "clause": "0",
+        "title": "Thời hạn của giấy phép lao động",
+        "text": "Thời hạn của giấy phép lao động tối đa là 02 năm, trường hợp gia hạn thì chỉ được gia hạn một lần với thời hạn tối đa là 02 năm."
+    },
+    {
         "id": "Điều 156.1",
         "article": "Điều 156",
         "clause": "1",
@@ -4527,6 +4779,20 @@
         "clause": "8",
         "title": "Các trường hợp giấy phép lao động hết hiệu lực",
         "text": "Giấy phép lao động bị thu hồi."
+    },
+    {
+        "id": "Điều 157.0",
+        "article": "Điều 157",
+        "clause": "0",
+        "title": "Cấp, cấp lại, gia hạn, thu hồi giấy phép lao động, giấy xác nhận không thuộc diện cấp giấy phép lao động",
+        "text": "Chính phủ quy định điều kiện, trình tự, thủ tục cấp, cấp lại, gia hạn, thu hồi giấy phép lao động và giấy xác nhận không thuộc diện cấp giấy phép lao động đối với người lao động nước ngoài làm việc tại Việt Nam. Mục 4 LAO ĐỘNG LÀ NGƯỜI KHUYẾT TẬT"
+    },
+    {
+        "id": "Điều 158.0",
+        "article": "Điều 158",
+        "clause": "0",
+        "title": "Chính sách của Nhà nước đối với lao động là người khuyết tật",
+        "text": "Nhà nước bảo trợ quyền lao động, tự tạo việc làm của người lao động là người khuyết tật; có chính sách khuyến khích, ưu đãi phù hợp đối với người sử dụng lao động trong tạo việc làm và nhận người lao động là người khuyết tật vào làm việc theo quy định của pháp luật về người khuyết tật."
     },
     {
         "id": "Điều 159.1",
@@ -4681,6 +4947,20 @@
         "clause": "3",
         "title": "Các hành vi bị nghiêm cấm đối với người sử dụng lao động",
         "text": "Giữ giấy tờ tùy thân của người lao động. Mục 6 MỘT SỐ LAO ĐỘNG KHÁC"
+    },
+    {
+        "id": "Điều 166.0",
+        "article": "Điều 166",
+        "clause": "0",
+        "title": "Người lao động làm việc trong lĩnh vực nghệ thuật, thể dục, thể thao, hàng hải, hàng không",
+        "text": "Người lao động làm việc trong lĩnh vực nghệ thuật, thể dục, thể thao, hàng hải, hàng không được áp dụng một số chế độ phù hợp về đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề; hợp đồng lao động; tiền lương, tiền thưởng; thời giờ làm việc, thời giờ nghỉ ngơi; an toàn, vệ sinh lao động theo quy định của Chính phủ."
+    },
+    {
+        "id": "Điều 167.0",
+        "article": "Điều 167",
+        "clause": "0",
+        "title": "Người lao động nhận công việc về làm tại nhà",
+        "text": "Người lao động có thể thỏa thuận với người sử dụng lao động để nhận việc về làm tại nhà. Chương XII BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ, BẢO HIỂM THẤT NGHIỆP"
     },
     {
         "id": "Điều 168.1",
@@ -5243,6 +5523,13 @@
         "text": "Chấp hành thỏa thuận đã đạt được, quyết định của Ban trọng tài lao động, bản án, quyết định của Tòa án đã có hiệu lực pháp luật."
     },
     {
+        "id": "Điều 183.0",
+        "article": "Điều 183",
+        "clause": "0",
+        "title": "Quyền của cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động",
+        "text": "Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động, trong phạm vi nhiệm vụ, quyền hạn của mình, có quyền yêu cầu các bên tranh chấp, cơ quan, tổ chức, cá nhân có liên quan cung cấp tài liệu, chứng cứ, trưng cầu giám định, mời người làm chứng và người có liên quan."
+    },
+    {
         "id": "Điều 184.1",
         "article": "Điều 184",
         "clause": "1",
@@ -5360,6 +5647,20 @@
         "clause": "6",
         "title": "Hội đồng trọng tài lao động",
         "text": "Chính phủ quy định chi tiết về tiêu chuẩn, điều kiện, trình tự, thủ tục bổ nhiệm, miễn nhiệm, chế độ và điều kiện hoạt động của trọng tài viên lao động, Hội đồng trọng tài lao động; tổ chức và hoạt động của Hội đồng trọng tài lao động; việc thành lập và hoạt động của Ban trọng tài lao động quy định tại Điều này."
+    },
+    {
+        "id": "Điều 186.0",
+        "article": "Điều 186",
+        "clause": "0",
+        "title": "Cấm hành động đơn phương trong khi tranh chấp lao động đang được giải quyết",
+        "text": "Khi tranh chấp lao động đang được cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết trong thời hạn theo quy định của Bộ luật này thì không bên nào được hành động đơn phương chống lại bên kia. Mục 2 THẨM QUYỀN VÀ TRÌNH TỰ GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG CÁ NHÂN"
+    },
+    {
+        "id": "Điều 187.0",
+        "article": "Điều 187",
+        "clause": "0",
+        "title": "Thẩm quyền giải quyết tranh chấp lao động cá nhân",
+        "text": "Cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp lao động cá nhân bao gồm:"
     },
     {
         "id": "Điều 187.1",
@@ -5768,6 +6069,20 @@
         "text": "Khi các bên lựa chọn giải quyết tranh chấp thông qua Hội đồng trọng tài lao động theo quy định tại Điều này thì tổ chức đại diện người lao động không được tiến hành đình công trong thời gian Hội đồng trọng tài lao động đang tiến hành giải quyết tranh chấp. Khi hết thời hạn quy định tại khoản 2 Điều này mà Ban trọng tài lao động không được thành lập hoặc hết thời hạn quy định tại khoản 3 Điều này mà Ban trọng tài không ra quyết định giải quyết tranh chấp hoặc người sử dụng lao động là bên tranh chấp không thực hiện quyết định giải quyết tranh chấp của Ban trọng tài lao động thì tổ chức đại diện người lao động là bên tranh chấp có quyền tiến hành thủ tục quy định tại các điều 200, 201 và 202 của Bộ luật này để đình công. Mục 5 ĐÌNH CÔNG"
     },
     {
+        "id": "Điều 198.0",
+        "article": "Điều 198",
+        "clause": "0",
+        "title": "Đình công",
+        "text": "Đình công là sự ngừng việc tạm thời, tự nguyện và có tổ chức của người lao động nhằm đạt được yêu cầu trong quá trình giải quyết tranh chấp lao động và do tổ chức đại diện người lao động có quyền thương lượng tập thể là một bên tranh chấp lao động tập thể tổ chức và lãnh đạo."
+    },
+    {
+        "id": "Điều 199.0",
+        "article": "Điều 199",
+        "clause": "0",
+        "title": "Trường hợp người lao động có quyền đình công",
+        "text": "Tổ chức đại diện người lao động là bên tranh chấp lao động tập thể về lợi ích có quyền tiến hành thủ tục quy định tại các điều 200, 201 và 202 của Bộ luật này để đình công trong trường hợp sau đây:"
+    },
+    {
         "id": "Điều 199.1",
         "article": "Điều 199",
         "clause": "1",
@@ -6006,6 +6321,13 @@
         "text": "Khi đã có quyết định hoãn hoặc ngừng đình công của cơ quan có thẩm quyền theo quy định tại Điều 210 của Bộ luật này."
     },
     {
+        "id": "Điều 205.0",
+        "article": "Điều 205",
+        "clause": "0",
+        "title": "Thông báo quyết định đóng cửa tạm thời nơi làm việc",
+        "text": "Ít nhất 03 ngày làm việc trước ngày đóng cửa tạm thời nơi làm việc, người sử dụng lao động phải niêm yết công khai quyết định đóng cửa tạm thời nơi làm việc tại nơi làm việc và thông báo cho các cơ quan, tổ chức sau đây:"
+    },
+    {
         "id": "Điều 205.1",
         "article": "Điều 205",
         "clause": "1",
@@ -6123,6 +6445,13 @@
         "clause": "2",
         "title": "Quyết định hoãn, ngừng đình công",
         "text": "Chính phủ quy định chi tiết việc hoãn, ngừng đình công và giải quyết quyền lợi của người lao động."
+    },
+    {
+        "id": "Điều 211.0",
+        "article": "Điều 211",
+        "clause": "0",
+        "title": "Xử lý cuộc đình công không đúng trình tự, thủ tục",
+        "text": "Trong thời hạn 12 giờ kể từ khi nhận được thông báo về cuộc đình công không tuân theo quy định tại các điều 200, 201 và 202 của Bộ luật này, Chủ tịch Ủy ban nhân dân cấp huyện chủ trì, chỉ đạo cơ quan chuyên môn về lao động phối hợp với công đoàn cùng cấp, cơ quan, tổ chức có liên quan trực tiếp gặp gỡ người sử dụng lao động và đại diện ban lãnh đạo tổ chức đại diện người lao động tại cơ sở để nghe ý kiến, hỗ trợ các bên tìm biện pháp giải quyết, đưa hoạt động sản xuất, kinh doanh trở lại bình thường. Trường hợp phát hiện có hành vi vi phạm pháp luật thì lập biên bản, tiến hành xử lý hoặc kiến nghị cơ quan có thẩm quyền xử lý cá nhân, tổ chức đã thực hiện hành vi vi phạm pháp luật theo quy định của pháp luật. Đối với các nội dung tranh chấp lao động thì tùy từng loại tranh chấp, hướng dẫn, hỗ trợ các bên tiến hành các thủ tục giải quyết tranh chấp lao động theo quy định của Bộ luật này. Chương XV QUẢN LÝ NHÀ NƯỚC VỀ LAO ĐỘNG"
     },
     {
         "id": "Điều 212.1",
@@ -6244,6 +6573,13 @@
         "text": "Việc thanh tra an toàn, vệ sinh lao động thực hiện theo quy định của Luật An toàn, vệ sinh lao động."
     },
     {
+        "id": "Điều 216.0",
+        "article": "Điều 216",
+        "clause": "0",
+        "title": "Quyền của thanh tra lao động",
+        "text": "Thanh tra lao động có quyền thanh tra, điều tra nơi thuộc đối tượng, phạm vi thanh tra được giao theo quyết định thanh tra. Khi thanh tra đột xuất theo quyết định của người có thẩm quyền trong trường hợp khẩn cấp có nguy cơ đe dọa an toàn, tính mạng, sức khỏe, danh dự, nhân phẩm của người lao động tại nơi làm việc thì không cần báo trước."
+    },
+    {
         "id": "Điều 217.1",
         "article": "Điều 217",
         "clause": "1",
@@ -6263,6 +6599,13 @@
         "clause": "3",
         "title": "Xử lý vi phạm",
         "text": "Người lợi dụng đình công gây mất trật tự, an toàn công cộng, làm tổn hại máy, thiết bị, tài sản của người sử dụng lao động; người có hành vi cản trở thực hiện quyền đình công, kích động, lôi kéo, ép buộc người lao động đình công; người có hành vi trù dập, trả thù người tham gia đình công, người lãnh đạo cuộc đình công thì tùy theo mức độ vi phạm mà bị xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. Chương XVII ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 218.0",
+        "article": "Điều 218",
+        "clause": "0",
+        "title": "Miễn, giảm thủ tục đối với trường hợp sử dụng dưới 10 lao động",
+        "text": "Người sử dụng lao động sử dụng dưới 10 người lao động thực hiện quy định của Bộ luật này nhưng được miễn, giảm một số thủ tục theo quy định của Chính phủ."
     },
     {
         "id": "Điều 219.1",
@@ -6521,6 +6864,6 @@
         "article": "Điều 220",
         "clause": "3",
         "title": "Hiệu lực thi hành",
-        "text": "Chế độ lao động đối với cán bộ, công chức, viên chức, người thuộc lực lượng Quân đội nhân dân, Công an nhân dân, tổ chức xã hội, xã viên hợp tác xã, người làm việc không có quan hệ lao động do các văn bản pháp luật khác quy định nhưng tùy từng đối tượng mà được áp dụng một số quy định trong Bộ luật này. ---------------------------------------------------------------------------------------------------------------------------- Bộ luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 20 tháng 11 năm 2019./."
+        "text": "Chế độ lao động đối với cán bộ, công chức, viên chức, người thuộc lực lượng Quân đội nhân dân, Công an nhân dân, tổ chức xã hội, xã viên hợp tác xã, người làm việc không có quan hệ lao động do các văn bản pháp luật khác quy định nhưng tùy từng đối tượng mà được áp dụng một số quy định trong Bộ luật này. ---------------------------------------------------------------------------------------------------------------------------- Bộ luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 20 tháng 11 năm 2019./. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân"
     }
 ]

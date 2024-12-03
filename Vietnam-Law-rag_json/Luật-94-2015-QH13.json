@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về nguyên tắc, trình tự, thủ tục thi hành tạm giữ, tạm giam; tổ chức, nhiệm vụ, quyền hạn của cơ quan quản lý, thi hành tạm giữ, tạm giam; quyền, nghĩa vụ của người bị tạm giữ, tạm giam; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan trong thi hành tạm giữ, tạm giam."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -40,6 +47,13 @@
         "clause": "6",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan, tổ chức, cá nhân có liên quan."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -131,6 +145,27 @@
         "clause": "5",
         "title": "Nguyên tắc quản lý, thi hành tạm giữ, tạm giam",
         "text": "Áp dụng các biện pháp quản lý giam giữ phải căn cứ vào tính chất, mức độ của hành vi phạm tội, độ tuổi, giới tính, sức khỏe; bảo đảm bình đẳng giới, quyền, lợi ích chính đáng của phụ nữ, trẻ em và các đặc điểm nhân thân khác của người bị tạm giữ, người bị tạm giam."
+    },
+    {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Trách nhiệm phối hợp của cơ quan, tổ chức, cá nhân trong quản lý, thi hành tạm giữ, tạm giam",
+        "text": "Cơ quan, tổ chức, cá nhân trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp và thực hiện yêu cầu của cơ quan có thẩm quyền theo quy định của Luật này trong quản lý, thi hành tạm giữ, tạm giam."
+    },
+    {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Kiểm sát hoạt động quản lý, thi hành tạm giữ, tạm giam",
+        "text": "Viện kiểm sát nhân dân kiểm sát việc tuân theo pháp luật của cơ quan, tổ chức, cá nhân có liên quan trong quản lý, thi hành tạm giữ, tạm giam theo quy định của Luật này, Luật tổ chức Viện kiểm sát nhân dân và Bộ luật tố tụng hình sự."
+    },
+    {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Giám sát việc thực hiện chế độ tạm giữ, tạm giam",
+        "text": "Quốc hội, Hội đồng nhân dân, Mặt trận Tổ quốc Việt Nam giám sát hoạt động của cơ quan quản lý, thi hành tạm giữ, tạm giam và cơ quan, tổ chức, cá nhân khác liên quan đến hoạt động tạm giữ, tạm giam theo quy định của pháp luật."
     },
     {
         "id": "Điều 8.1",
@@ -791,6 +826,13 @@
         "text": "Buồng tạm giữ thuộc đồn biên phòng có Trưởng buồng tạm giữ và chịu sự quản lý trực tiếp của Đồn trưởng đồn biên phòng. Trưởng buồng tạm giữ có các nhiệm vụ, quyền hạn trong quản lý người bị tạm giữ như Trưởng nhà tạm giữ theo quy định tại khoản 3 Điều 13 của Luật này. Chương III CHẾ ĐỘ QUẢN LÝ GIAM GIỮ"
     },
     {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Tiếp nhận người bị tạm giữ, người bị tạm giam",
+        "text": "Khi tiếp nhận người bị tạm giữ, người bị tạm giam, cơ sở giam giữ có trách nhiệm:"
+    },
+    {
         "id": "Điều 16.1",
         "article": "Điều 16",
         "clause": "1",
@@ -1169,6 +1211,13 @@
         "text": "Trong trường hợp thực hiện hoạt động quy định tại khoản 1 Điều này bên trong khu vực cơ sở giam giữ thì thủ trưởng cơ sở giam giữ quyết định đưa người bị tạm giữ, người bị tạm giam ra khỏi buồng tạm giữ, buồng tạm giam mà không cần lệnh trích xuất."
     },
     {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Chuyển giao người bị tạm giữ, người bị tạm giam",
+        "text": "Cơ sở giam giữ có trách nhiệm chuyển giao người bị tạm giữ, người bị tạm giam trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 21.1",
         "article": "Điều 21",
         "clause": "1",
@@ -1442,6 +1491,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Chế độ gửi, nhận thư, sách, báo và tài liệu của người bị tạm giữ, người bị tạm giam",
+        "text": "Người bị tạm giữ, người bị tạm giam chỉ được gửi hoặc nhận thư, sách, báo và tài liệu khi được cơ quan đang thụ lý vụ án cho phép. Thư, sách, báo và tài liệu phải để mở và chịu sự kiểm tra, kiểm duyệt của cơ sở giam giữ."
+    },
+    {
         "id": "Điều 30.1",
         "article": "Điều 30",
         "clause": "1",
@@ -1463,6 +1519,20 @@
         "text": "Kinh phí khám bệnh, chữa bệnh, phòng, chống dịch bệnh cho người bị tạm giữ, người bị tạm giam do ngân sách nhà nước bảo đảm theo quy định của Chính phủ. Trường hợp người bị tạm giữ, người bị tạm giam có chế độ bảo hiểm y tế thì được hưởng chế độ khám chữa bệnh theo quy định của pháp luật về bảo hiểm y tế."
     },
     {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Chế độ sinh hoạt tinh thần đối với người bị tạm giữ, người bị tạm giam",
+        "text": "Cơ sở giam giữ được trang bị hệ thống truyền thanh. Trung bình hai mươi người bị tạm giữ, người bị tạm giam hoặc cơ sở giam giữ có dưới hai mươi người bị tạm giữ, người bị tạm giam thì được cấp một tờ báo địa phương hoặc báo trung ương. Thủ trưởng cơ sở giam giữ tổ chức cho người bị tạm giữ, người bị tạm giam nghe đài phát thanh, đọc báo. Nếu có điều kiện thì tổ chức cho họ xem chương trình truyền hình địa phương và trung ương. Chương V CHẾ ĐỘ ĐỐI VỚI NGƯỜI BỊ TẠM GIỮ, NGƯỜI BỊ TẠM GIAM LÀ NGƯỜI DƯỚI 18 TUỔI, PHỤ NỮ CÓ THAI HOẶC NUÔI CON DƯỚI 36 THÁNG TUỔI"
+    },
+    {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Phạm vi áp dụng",
+        "text": "Việc tạm giữ, tạm giam đối với người dưới 18 tuổi, phụ nữ có thai hoặc nuôi con dưới 36 tháng tuổi được thực hiện theo quy định tại Chương này và các quy định khác của Luật này. Khi người bị tạm giữ, người bị tạm giam đủ 18 tuổi hoặc phụ nữ có con đủ 36 tháng tuổi trở lên thì chế độ tạm giữ, tạm giam được thực hiện theo quy định chung."
+    },
+    {
         "id": "Điều 33.1",
         "article": "Điều 33",
         "clause": "1",
@@ -1475,6 +1545,13 @@
         "clause": "2",
         "title": "Chế độ ăn, ở và quản lý đối với người bị tạm giữ, người bị tạm giam là người dưới 18 tuổi",
         "text": "Người bị tạm giữ, người bị tạm giam là người dưới 18 tuổi được bố trí giam giữ riêng, trừ trường hợp quy định tại khoản 3 Điều 18 của Luật này."
+    },
+    {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Chế độ gặp thân nhân, người bào chữa, tiếp xúc lãnh sự của người bị tạm giữ, người bị tạm giam là người dưới 18 tuổi",
+        "text": "Người bị tạm giữ, người bị tạm giam là người dưới 18 tuổi được gặp thân nhân, người bào chữa, tiếp xúc lãnh sự quy định tại Điều 22 của Luật này với số lần thăm gặp được tăng gấp đôi so với người bị tạm giữ, người bị tạm giam là người đủ 18 tuổi trở lên."
     },
     {
         "id": "Điều 35.1",
@@ -1496,6 +1573,13 @@
         "clause": "3",
         "title": "Chế độ ăn, ở và quản lý đối với người bị tạm giữ, người bị tạm giam là phụ nữ có thai hoặc nuôi con dưới 36 tháng tuổi",
         "text": "Chính phủ quy định chi tiết về chế độ chăm sóc, nuôi dưỡng trẻ em dưới 36 tháng tuổi tại cơ sở giam giữ. Chương VI CHẾ ĐỘ ĐỐI VỚI NGƯỜI BỊ KẾT ÁN TỬ HÌNH ĐANG BỊ TẠM GIAM"
+    },
+    {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Phạm vi áp dụng",
+        "text": "Chế độ đối với người bị kết án tử hình đang bị tạm giam được thực hiện theo quy định tại Chương này và các quy định khác của Luật này."
     },
     {
         "id": "Điều 37.1",
@@ -1566,6 +1650,13 @@
         "clause": "3",
         "title": "Bảo đảm biên chế, nhân lực, cơ sở vật chất, kinh phí phục vụ quản lý, thi hành tạm giữ, tạm giam",
         "text": "Nhà nước bảo đảm kinh phí cho hoạt động thực hiện chế độ tạm giữ, tạm giam. Việc lập dự toán, sử dụng và quyết toán kinh phí bảo đảm cho hoạt động quản lý, thi hành tạm giữ, tạm giam được thực hiện theo quy định của Luật ngân sách nhà nước."
+    },
+    {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ",
+        "text": "Sĩ quan, hạ sĩ quan, quân nhân chuyên nghiệp, chiến sĩ, binh sĩ Công an nhân dân, Quân đội nhân dân khi thực hiện nhiệm vụ thi hành tạm giữ, tạm giam được sử dụng vũ khí, phương tiện kỹ thuật nghiệp vụ, công cụ hỗ trợ."
     },
     {
         "id": "Điều 40.1",
@@ -1657,6 +1748,13 @@
         "clause": "2g",
         "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát quản lý, thi hành tạm giữ, tạm giam",
         "text": "Giải quyết khiếu nại, tố cáo và thực hiện nhiệm vụ, quyền hạn khác trong kiểm sát quản lý, thi hành tạm giữ, tạm giam theo quy định của Luật này, Luật tổ chức Viện kiểm sát nhân dân và Bộ luật tố tụng hình sự."
+    },
+    {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định của Viện kiểm sát nhân dân trong quản lý, thi hành tạm giữ, tạm giam",
+        "text": "Trưởng nhà tạm giữ, Giám thị trại tạm giam, Trưởng buồng tạm giữ Bộ đội biên phòng có trách nhiệm thực hiện yêu cầu, kiến nghị, kháng nghị, quyết định sau đây của Viện kiểm sát nhân dân trong quản lý, thi hành tạm giữ, tạm giam:"
     },
     {
         "id": "Điều 43.1",
@@ -1974,6 +2072,13 @@
         "text": "Quyết định giải quyết khiếu nại lần đầu có hiệu lực pháp luật nếu trong thời hiệu do Luật này quy định người khiếu nại không khiếu nại tiếp."
     },
     {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Nội dung quyết định giải quyết khiếu nại lần đầu trong quản lý, thi hành tạm giữ, tạm giam",
+        "text": "Quyết định giải quyết khiếu nại lần đầu phải bao gồm những nội dung sau đây:"
+    },
+    {
         "id": "Điều 53.1",
         "article": "Điều 53",
         "clause": "1",
@@ -2049,6 +2154,13 @@
         "clause": "2",
         "title": "Thủ tục giải quyết khiếu nại lần hai trong quản lý, thi hành tạm giữ, tạm giam",
         "text": "Trong quá trình giải quyết khiếu nại, Viện kiểm sát có thẩm quyền giải quyết khiếu nại lần hai có quyền yêu cầu Viện kiểm sát giải quyết khiếu nại lần đầu, cơ quan, tổ chức, cá nhân có liên quan cung cấp thông tin, tài liệu liên quan đến nội dung khiếu nại; làm việc với người bị khiếu nại, người khiếu nại khi cần thiết; xác minh, tiến hành các biện pháp khác theo quy định của pháp luật để giải quyết khiếu nại. Cơ quan, tổ chức, cá nhân khi nhận được yêu cầu phải thực hiện đúng các yêu cầu đó. Quyết định giải quyết khiếu nại lần hai có hiệu lực pháp luật."
+    },
+    {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Nội dung quyết định giải quyết khiếu nại lần hai trong quản lý, thi hành tạm giữ, tạm giam",
+        "text": "Quyết định giải quyết khiếu nại lần hai phải bao gồm những nội dung sau đây:"
     },
     {
         "id": "Điều 55.1",
@@ -2380,6 +2492,13 @@
         "text": "Định kỳ hằng năm báo cáo Quốc hội về công tác quản lý, thi hành tạm giữ, tạm giam."
     },
     {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Công an",
+        "text": "Bộ Công an chịu trách nhiệm giúp Chính phủ thực hiện quản lý nhà nước về thi hành tạm giữ, tạm giam và có trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 63.1",
         "article": "Điều 63",
         "clause": "1",
@@ -2553,5 +2672,54 @@
         "clause": "2",
         "title": "Trách nhiệm của Tòa án nhân dân tối cao",
         "text": "Thực hiện chế độ thống kê, báo cáo về thi hành tạm giữ, tạm giam theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 67.0",
+        "article": "Điều 67",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Y tế",
+        "text": "Bộ Y tế chỉ đạo các cơ sở khám bệnh, chữa bệnh cấp huyện, cấp tỉnh xây dựng hoặc bố trí khu, buồng riêng để khám bệnh, chữa bệnh cho người bị tạm giữ, người bị tạm giam; chỉ đạo các cơ sở y tế, cơ quan y tế hướng dẫn, giúp đỡ, hỗ trợ việc phòng, chống dịch bệnh, khám bệnh, chữa bệnh cho người bị tạm giữ, người bị tạm giam tại các cơ sở giam giữ."
+    },
+    {
+        "id": "Điều 68.0",
+        "article": "Điều 68",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Lao động - Thương binh và Xã hội",
+        "text": "Bộ Lao động - Thương binh và Xã hội chỉ đạo Sở Lao động - Thương binh và Xã hội và các cơ sở bảo trợ xã hội tiếp nhận, chăm sóc, nuôi dưỡng trẻ em là con của người bị tạm giữ, người bị tạm giam không có thân nhân nhận chăm sóc, nuôi dưỡng theo quy định của Luật này và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 69.0",
+        "article": "Điều 69",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Tài chính",
+        "text": "Bộ Tài chính có trách nhiệm phối hợp với Bộ Công an, Bộ Quốc phòng lập dự toán kinh phí bảo đảm điều kiện cho hoạt động quản lý, thi hành tạm giữ, tạm giam."
+    },
+    {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Kế hoạch và Đầu tư",
+        "text": "Bộ Kế hoạch và Đầu tư có trách nhiệm phối hợp với Bộ Công an, Bộ Quốc phòng lập kế hoạch trang bị phương tiện, cơ sở vật chất, kỹ thuật để bảo đảm thi hành Luật này."
+    },
+    {
+        "id": "Điều 71.0",
+        "article": "Điều 71",
+        "clause": "0",
+        "title": "Trách nhiệm của Ủy ban nhân dân cấp tỉnh",
+        "text": "Ủy ban nhân dân cấp tỉnh có trách nhiệm giao đất, hỗ trợ kinh phí từ ngân sách địa phương, tạo điều kiện thuận lợi cho việc xây dựng và quản lý cơ sở giam giữ tại địa phương mình và chỉ đạo các cơ quan nhà nước ở địa phương phối hợp bảo đảm an ninh, an toàn cho cơ sở giam giữ. Chương XI ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 72.0",
+        "article": "Điều 72",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016."
+    },
+    {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 10 thông qua ngày 25 tháng 11 năm 2015. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

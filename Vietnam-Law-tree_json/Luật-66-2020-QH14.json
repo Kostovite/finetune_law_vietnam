@@ -15,12 +15,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định chính sách, nguyên tắc, nhiệm vụ, hoạt động, lực lượng, bảo đảm và trách nhiệm của cơ quan, tổ chức, cá nhân về biên phòng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1.\tBiên phòng là tổng thể các hoạt động, biện pháp bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc và bảo đảm an ninh, trật tự, an toàn xã hội ở khu vực biên giới bằng sức mạnh tổng hợp của toàn dân tộc.",
                     "text": "",
@@ -229,7 +240,7 @@
                 },
                 {
                     "number": "7.\tSản xuất, sử dụng, mua bán, trao đổi, vận chuyển, phát tán thông tin, hình ảnh sai lệch về chủ quyền, lãnh thổ, biên giới quốc gia.",
-                    "text": "",
+                    "text": " Chương II HOẠT ĐỘNG CƠ BẢN VỀ BIÊN PHÒNG",
                     "sub_clauses": []
                 }
             ]
@@ -372,7 +383,7 @@
                 },
                 {
                     "number": "4.\tChính phủ quy định chi tiết việc phối hợp giữa các Bộ, cơ quan ngang Bộ, chính quyền địa phương trong thực thi nhiệm vụ biên phòng.",
-                    "text": "",
+                    "text": " Bộ trưởng Bộ Quốc phòng quy định chi tiết việc phối hợp giữa Bộ đội Biên phòng và các lực lượng khác thuộc Bộ Quốc phòng trong thực thi nhiệm vụ biên phòng.",
                     "sub_clauses": []
                 }
             ]
@@ -423,7 +434,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc quyết định hạn chế hoặc tạm dừng hoạt động trong vành đai biên giới, khu vực biên giới được quy định như sau:",
+                    "text": "Việc quyết định hạn chế hoặc tạm dừng hoạt động trong vành đai biên giới, khu vực biên giới được quy định như sau: Trường hợp hết thời hạn 24 giờ, nếu xét thấy cần phải tiếp tục hạn chế hoặc tạm dừng các hoạt động trong khu vực biên giới, Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh có trách nhiệm đề nghị Ủy ban nhân dân cấp tỉnh quyết định tiếp tục hạn chế hoặc tạm dừng nhưng không quá 24 giờ và thông báo cho Bộ Ngoại giao, Công an cấp tỉnh;",
                     "sub_clauses": [
                         {
                             "letter": "a)\tĐồn trưởng Đồn Biên phòng quyết định hạn chế hoặc tạm dừng hoạt động trong vành đai biên giới thuộc phạm vi quản lý không quá 12 giờ và báo cáo ngay Chỉ huy trưởng Bộ chỉ huy Bộ đội Biên phòng cấp tỉnh; thông báo cho cơ quan ngoại vụ địa phương, chính quyền địa phương cấp huyện, cấp xã sở tại;",
@@ -531,7 +542,7 @@
                 },
                 {
                     "number": "2.\tHình thức hợp tác quốc tế về biên phòng bao gồm:",
-                    "text": "",
+                    "text": " Chương III LỰC LƯỢNG BỘ ĐỘI BIÊN PHÒNG",
                     "sub_clauses": [
                         {
                             "letter": "a)\tKý kết điều ước quốc tế, thỏa thuận quốc tế;",
@@ -742,7 +753,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc huy động quy định tại khoản 1 Điều này phải phù hợp với khả năng thực tế của người, tàu thuyền, phương tiện, thiết bị kỹ thuật dân sự được huy động và phải hoàn trả ngay sau khi tình thế khẩn cấp chấm dứt.",
+                    "text": "Việc huy động quy định tại khoản 1 Điều này phải phù hợp với khả năng thực tế của người, tàu thuyền, phương tiện, thiết bị kỹ thuật dân sự được huy động và phải hoàn trả ngay sau khi tình thế khẩn cấp chấm dứt. Trường hợp người, tài sản được huy động làm nhiệm vụ mà bị thiệt hại thì được hưởng chế độ, chính sách, đền bù theo quy định tại khoản 3 Điều 7 của Luật này; đơn vị có cán bộ, chiến sĩ huy động có trách nhiệm giải quyết việc đền bù theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -922,7 +933,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tàu thuyền, tàu bay, ô tô và phương tiện khác của Bộ đội Biên phòng có màu sắc, cờ hiệu, phù hiệu và dấu hiệu nhận biết riêng theo quy định của Bộ Quốc phòng. Khi làm nhiệm vụ, tàu thuyền phải treo quốc kỳ Việt Nam và cờ hiệu Bộ đội Biên phòng.",
+                    "text": "Tàu thuyền, tàu bay, ô tô và phương tiện khác của Bộ đội Biên phòng có màu sắc, cờ hiệu, phù hiệu và dấu hiệu nhận biết riêng theo quy định của Bộ Quốc phòng. Khi làm nhiệm vụ, tàu thuyền phải treo quốc kỳ Việt Nam và cờ hiệu Bộ đội Biên phòng. Chương IV BẢO ĐẢM BIÊN PHÒNG VÀ CHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI LỰC LƯỢNG THỰC THI NHIỆM VỤ BIÊN PHÒNG",
                     "sub_clauses": []
                 }
             ]
@@ -951,7 +962,13 @@
         {
             "id": "Điều 26",
             "title": "Bảo đảm nguồn lực tài chính",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước bảo đảm ngân sách cho nhiệm vụ biên phòng theo quy định của pháp luật về ngân sách nhà nước; huy động các nguồn lực tài chính cho nhiệm vụ biên phòng; ưu tiên xây dựng cơ sở hạ tầng, công trình biên giới, cửa khẩu và xây dựng lực lượng nòng cốt, chuyên trách thực thi nhiệm vụ biên phòng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 27",
@@ -964,7 +981,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cán bộ, chiến sĩ Bộ đội Biên phòng được hưởng chính sách ưu đãi và chế độ đặc thù phù hợp với tính chất công tác và địa bàn hoạt động do Chính phủ quy định.",
+                    "text": "Cán bộ, chiến sĩ Bộ đội Biên phòng được hưởng chính sách ưu đãi và chế độ đặc thù phù hợp với tính chất công tác và địa bàn hoạt động do Chính phủ quy định. Chương V TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC VỀ BIÊN PHÒNG",
                     "sub_clauses": []
                 }
             ]
@@ -1051,6 +1068,11 @@
             "id": "Điều 30",
             "title": "Trách nhiệm của Bộ Ngoại giao",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ Ngoại giao có trách nhiệm chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an, cơ quan có liên quan và chính quyền địa phương thực hiện các nội dung sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Đề xuất chủ trương, chính sách và các biện pháp quản lý về biên giới quốc gia;",
@@ -1206,12 +1228,23 @@
         {
             "id": "Điều 34",
             "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với cơ quan, tổ chức có liên quan tuyên truyền, vận động Nhân dân thực hiện pháp luật về biên phòng; giám sát việc thực hiện pháp luật về biên phòng. Chương VI ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 35",
             "title": "Sửa đổi, bổ sung Điều 21 của Luật Biên giới quốc gia số 06/2003/QH11 như sau:",
             "content": [
+                {
+                    "number": "0",
+                    "text": "“Điều 21",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1.\tTrường hợp vì lý do quốc phòng, an ninh, lý do đặc biệt khác hoặc theo đề nghị, thông báo của nước hữu quan, người, phương tiện, hàng hóa có thể bị hạn chế hoặc tạm dừng qua lại biên giới quốc gia, kể cả việc đi qua không gây hại trong lãnh hải Việt Nam.",
                     "text": "",
@@ -1240,11 +1273,15 @@
                 },
                 {
                     "number": "2.\tPháp lệnh Bộ đội Biên phòng số 02/1997/PL-UBTVQH9 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành .",
-                    "text": "",
+                    "text": " Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 10 thông qua ngày 11 tháng 11 năm 2020. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 10 thông qua ngày 11 tháng 11 năm 2020.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Nguyễn Thị Kim Ngân"
+    ]
 }

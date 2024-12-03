@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quyền tự do báo chí, quyền tự do ngôn luận trên báo chí của công dân; tổ chức và hoạt động báo chí; quyền và nghĩa vụ của cơ quan, tổ chức, cá nhân tham gia và có liên quan đến hoạt động báo chí; quản lý nhà nước về báo chí."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân tham gia và có liên quan đến hoạt động báo chí tại nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -721,6 +742,13 @@
         "text": "Người đứng đầu cơ quan chủ quản báo chí không được kiêm nhiệm chức vụ người đứng đầu cơ quan báo chí và liên đới chịu trách nhiệm trước pháp luật trong phạm vi, nhiệm vụ, quyền hạn của mình đối với các sai phạm của cơ quan báo chí trực thuộc. Mục 2. CƠ QUAN BÁO CHÍ"
     },
     {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Cơ quan báo chí",
+        "text": "Cơ quan báo chí là cơ quan ngôn luận của các cơ quan, tổ chức quy định tại Điều 14 của Luật này, thực hiện một hoặc một số loại hình báo chí, có một hoặc một số sản phẩm báo chí theo quy định của Luật này."
+    },
+    {
         "id": "Điều 17.1",
         "article": "Điều 17",
         "clause": "1",
@@ -796,6 +824,13 @@
         "clause": "6",
         "title": "Giấy phép hoạt động báo chí",
         "text": "Trường hợp đã bị thu hồi giấy phép hoạt động báo chí theo quy định tại khoản 4 và khoản 5 Điều này, nếu có nhu cầu cấp lại giấy phép, cơ quan chủ quản báo chí gửi văn bản đề nghị Bộ Thông tin và Truyền thông cấp lại giấy phép. Trường hợp có thay đổi nội dung so với giấy phép đã được cấp, cơ quan chủ quản gửi hồ sơ đề nghị Bộ Thông tin và Truyền thông cấp giấy phép theo quy định tại khoản 1 Điều này."
+    },
+    {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Thay đổi cơ quan chủ quản của cơ quan báo chí",
+        "text": "Trường hợp thay đổi cơ quan chủ quản của cơ quan báo chí, cơ quan chủ quản được ghi trên giấy phép có văn bản thông báo chấm dứt hoạt động báo chí gửi Bộ Thông tin và Truyền thông; cơ quan, tổ chức tiếp nhận cơ quan báo chí làm thủ tục đề nghị cấp giấy phép hoạt động báo chí theo quy định tại Điều 18 của Luật này."
     },
     {
         "id": "Điều 20.1",
@@ -1582,6 +1617,13 @@
         "text": "Trường hợp đã bị thu hồi giấy phép theo quy định tại các khoản 3, 4 và 5 Điều này, nếu có nhu cầu cấp lại giấy phép thì cơ quan chủ quản báo chí gửi văn bản đề nghị Bộ Thông tin và Truyền thông cấp lại giấy phép. Trường hợp có thay đổi nội dung so với giấy phép đã được cấp, cơ quan chủ quản báo chí gửi hồ sơ đề nghị Bộ Thông tin và Truyền thông cấp giấy phép theo quy định tại khoản 1 Điều này."
     },
     {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Xuất bản bản tin thông tấn",
+        "text": "Cơ quan thông tấn nhà nước có nhu cầu xuất bản bản tin thông tấn gửi thông báo bằng văn bản tới Bộ Thông tin và Truyền thông."
+    },
+    {
         "id": "Điều 33.1",
         "article": "Điều 33",
         "clause": "1",
@@ -2324,6 +2366,27 @@
         "text": "Tên tác phẩm báo chí, tên chuyên mục, số báo, ngày, tháng, năm đã đăng, phát bị phản hồi thông tin."
     },
     {
+        "id": "Điều 44.0",
+        "article": "Điều 44",
+        "clause": "0",
+        "title": "Quảng cáo trên báo chí",
+        "text": "Báo chí được đăng, phát quảng cáo. Việc đăng, phát quảng cáo trên báo chí phải tuân thủ các quy định của Luật này và quy định của pháp luật về quảng cáo."
+    },
+    {
+        "id": "Điều 45.0",
+        "article": "Điều 45",
+        "clause": "0",
+        "title": "Quyền tác giả trong lĩnh vực báo chí",
+        "text": "Cơ quan báo chí phải thực hiện các quy định của pháp luật về quyền tác giả, quyền liên quan khi đăng, phát tác phẩm báo chí."
+    },
+    {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Các thông tin phải ghi, thể hiện trên báo chí",
+        "text": "Cơ quan báo chí phải ghi, thể hiện đầy đủ các thông tin sau đây:"
+    },
+    {
         "id": "Điều 46.1",
         "article": "Điều 46",
         "clause": "1",
@@ -2392,6 +2455,20 @@
         "clause": "3",
         "title": "Các thông tin phải ghi, thể hiện trên báo chí",
         "text": "Báo nói, báo hình phải thể hiện biểu tượng, nhạc hiệu."
+    },
+    {
+        "id": "Điều 47.0",
+        "article": "Điều 47",
+        "clause": "0",
+        "title": "Bảo vệ nội dung các chương trình phát thanh, chương trình truyền hình, nội dung báo điện tử",
+        "text": "Báo nói, báo hình, báo điện tử có quyền sử dụng các biện pháp kỹ thuật bảo vệ nội dung các chương trình phát thanh, chương trình truyền hình, nội dung báo điện tử. Mục 3. IN, PHÁT HÀNH VÀ TRUYỀN DẪN, PHÁT SÓNG"
+    },
+    {
+        "id": "Điều 48.0",
+        "article": "Điều 48",
+        "clause": "0",
+        "title": "In báo chí",
+        "text": "Cơ sở in có giấy phép in báo, tạp chí theo quy định của pháp luật về xuất bản có trách nhiệm thực hiện hợp đồng đã ký kết với cơ quan báo chí, bảo đảm thời gian phát hành báo chí."
     },
     {
         "id": "Điều 49.1",
@@ -2933,6 +3010,20 @@
         "text": "Hồ sơ, trình tự, thủ tục quy định tại các khoản 2, 4, 5, 6, 7 và 8 Điều này do Chính phủ quy định. Chương V KHEN THƯỞNG, THANH TRA VÀ XỬ LÝ VI PHẠM TRONG HOẠT ĐỘNG BÁO CHÍ"
     },
     {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Khen thưởng trong hoạt động báo chí",
+        "text": "Cơ quan báo chí, nhà báo, tổ chức và công dân có thành tích và cống hiến trong hoạt động báo chí được khen thưởng theo quy định của pháp luật về thi đua, khen thưởng."
+    },
+    {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Thanh tra chuyên ngành báo chí",
+        "text": "Thanh tra chuyên ngành báo chí thực hiện theo quy định của pháp luật về thanh tra."
+    },
+    {
         "id": "Điều 59.1",
         "article": "Điều 59",
         "clause": "1",
@@ -2980,5 +3071,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Luật báo chí ngày 28 tháng 12 năm 1989 đã được sửa đổi, bổ sung một số điều theo Luật số 12/1999/QH10 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+    },
+    {
+        "id": "Điều 61.0",
+        "article": "Điều 61",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 11 thông qua ngày 05 tháng 4 năm 2016. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

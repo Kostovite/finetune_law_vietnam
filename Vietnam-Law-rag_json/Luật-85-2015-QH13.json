@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Nguyên tắc bầu cử",
+        "text": "Việc bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân được tiến hành theo nguyên tắc phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Tuổi bầu cử và tuổi ứng cử",
+        "text": "Tính đến ngày bầu cử được công bố, công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam đủ mười tám tuổi trở lên có quyền bầu cử và đủ hai mươi mốt tuổi trở lên có quyền ứng cử vào Quốc hội, Hội đồng nhân dân các cấp theo quy định của Luật này."
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -70,6 +84,27 @@
         "text": "Cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, đơn vị vũ trang nhân dân, đơn vị sự nghiệp, tổ chức kinh tế có trách nhiệm tạo điều kiện để các tổ chức phụ trách bầu cử thực hiện nhiệm vụ, quyền hạn của mình."
     },
     {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Ngày bầu cử",
+        "text": "Ngày bầu cử phải là ngày chủ nhật và được công bố chậm nhất là 115 ngày trước ngày bầu cử."
+    },
+    {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Kinh phí tổ chức bầu cử",
+        "text": "Kinh phí tổ chức bầu cử đại biểu Quốc hội và đại biểu Hội đồng nhân dân do ngân sách nhà nước bảo đảm. CHƯƠNG II DỰ KIẾN CƠ CẤU, THÀNH PHẦN VÀ PHÂN BỔ ĐẠI BIỂU QUỐC HỘI, ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN; ĐƠN VỊ BẦU CỬ VÀ  KHU VỰC BỎ PHIẾU"
+    },
+    {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Dự kiến và phân bổ số lượng đại biểu Quốc hội được bầu",
+        "text": "Ủy ban thường vụ Quốc hội dự kiến và phân bổ số lượng đại biểu Quốc hội được bầu ở mỗi tỉnh, thành phố trực thuộc trung ương trên cơ sở sau đây:"
+    },
+    {
         "id": "Điều 7.1",
         "article": "Điều 7",
         "clause": "1",
@@ -110,6 +145,13 @@
         "clause": "4",
         "title": "Dự kiến cơ cấu, thành phần những người được giới thiệu ứng cử đại biểu Quốc hội",
         "text": "Dự kiến cơ cấu, thành phần và phân bổ số lượng người được giới thiệu ứng cử đại biểu Quốc hội của Ủy ban thường vụ Quốc hội được gửi đến Hội đồng bầu cử quốc gia, Ban thường trực Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, Ủy ban bầu cử ở tỉnh, thành phố trực thuộc trung ương, Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh."
+    },
+    {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Dự kiến cơ cấu, thành phần và phân bổ số lượng người được giới thiệu ứng cử đại biểu Hội đồng nhân dân",
+        "text": "Căn cứ vào số lượng đại biểu Hội đồng nhân dân được bầu ở mỗi đơn vị hành chính theo quy định của Luật tổ chức chính quyền địa phương, sau khi thống nhất ý kiến với Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam và Ủy ban nhân dân cùng cấp, chậm nhất là 105 ngày trước ngày bầu cử:"
     },
     {
         "id": "Điều 9.1",
@@ -229,6 +271,13 @@
         "clause": "3",
         "title": "Cơ cấu, tổ chức của Hội đồng bầu cử quốc gia",
         "text": "Hội đồng bầu cử quốc gia thành lập các tiểu ban để giúp Hội đồng bầu cử quốc gia thực hiện nhiệm vụ, quyền hạn trong từng lĩnh vực."
+    },
+    {
+        "id": "Điều 13.0",
+        "article": "Điều 13",
+        "clause": "0",
+        "title": "Nguyên tắc hoạt động của Hội đồng bầu cử quốc gia",
+        "text": "Hội đồng bầu cử quốc gia hoạt động theo chế độ tập thể, quyết định theo đa số. Các cuộc họp được tiến hành khi có ít nhất hai phần ba tổng số thành viên của Hội đồng bầu cử quốc gia tham dự; các quyết định được thông qua khi có quá nửa tổng số thành viên biểu quyết tán thành. Hội đồng bầu cử quốc gia chịu trách nhiệm trước Quốc hội và báo cáo về hoạt động của mình trước Quốc hội, Ủy ban thường vụ Quốc hội."
     },
     {
         "id": "Điều 14.1",
@@ -481,6 +530,13 @@
         "clause": "3",
         "title": "Bộ máy giúp việc và kinh phí hoạt động của Hội đồng bầu cử quốc gia",
         "text": "Kinh phí hoạt động của Hội đồng bầu cử quốc gia do ngân sách nhà nước bảo đảm."
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Thời điểm kết thúc nhiệm vụ của Hội đồng bầu cử quốc gia",
+        "text": "Hội đồng bầu cử quốc gia kết thúc nhiệm vụ sau khi đã trình Quốc hội khóa mới báo cáo tổng kết cuộc bầu cử trong cả nước và kết quả xác nhận tư cách đại biểu Quốc hội được bầu, bàn giao biên bản tổng kết và hồ sơ, tài liệu về bầu cử đại biểu Quốc hội cho Ủy ban thường vụ Quốc hội khóa mới. Mục 2 CÁC TỔ CHỨC PHỤ TRÁCH BẦU CỬ Ở ĐỊA PHƯƠNG"
     },
     {
         "id": "Điều 21.1",
@@ -896,6 +952,13 @@
         "text": "Cơ quan có thẩm quyền thành lập tổ chức phụ trách bầu cử có quyền trưng tập cán bộ, công chức, viên chức của cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội, đơn vị sự nghiệp công lập để giúp thực hiện các công việc liên quan đến tổ chức bầu cử."
     },
     {
+        "id": "Điều 27.0",
+        "article": "Điều 27",
+        "clause": "0",
+        "title": "Những trường hợp không được tham gia vào các tổ chức phụ trách bầu cử",
+        "text": "Người ứng cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân không được làm thành viên Ban bầu cử hoặc Tổ bầu cử ở đơn vị bầu cử mà mình ứng cử. Nếu đã là thành viên của Ban bầu cử hoặc Tổ bầu cử ở đơn vị bầu cử mà mình ứng cử thì người ứng cử phải xin rút khỏi danh sách thành viên của tổ chức phụ trách bầu cử đó chậm nhất là vào ngày công bố danh sách chính thức những người ứng cử. Trường hợp người ứng cử không có đơn xin rút thì cơ quan đã quyết định thành lập Ban bầu cử, Tổ bầu cử đó ra quyết định xóa tên người ứng cử khỏi danh sách thành viên của tổ chức phụ trách bầu cử và bổ sung thành viên khác để thay thế."
+    },
+    {
         "id": "Điều 28.1",
         "article": "Điều 28",
         "clause": "1",
@@ -999,6 +1062,27 @@
         "clause": "2",
         "title": "Thẩm quyền lập danh sách cử tri",
         "text": "Danh sách cử tri trong đơn vị vũ trang nhân dân do chỉ huy đơn vị lập theo đơn vị vũ trang nhân dân để đưa vào danh sách cử tri của khu vực bỏ phiếu nơi đơn vị đóng quân. Quân nhân có hộ khẩu thường trú ở địa phương gần khu vực đóng quân có thể được chỉ huy đơn vị cấp giấy chứng nhận để được ghi tên vào danh sách cử tri và tham gia bỏ phiếu ở nơi thường trú. Khi cấp giấy chứng nhận, chỉ huy đơn vị phải ghi ngay vào danh sách cử tri tại đơn vị vũ trang nhân dân bên cạnh tên người đó cụm từ “Bỏ phiếu ở nơi cư trú”."
+    },
+    {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Niêm yết danh sách cử tri",
+        "text": "Chậm nhất là 40 ngày trước ngày bầu cử, cơ quan lập danh sách cử tri niêm yết danh sách cử tri tại trụ sở Ủy ban nhân dân cấp xã và tại những địa điểm công cộng của khu vực bỏ phiếu, đồng thời thông báo rộng rãi danh sách cử tri và việc niêm yết để Nhân dân kiểm tra."
+    },
+    {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Khiếu nại về danh sách cử tri",
+        "text": "Khi kiểm tra danh sách cử tri, nếu phát hiện có sai sót thì trong thời hạn 30 ngày kể từ ngày niêm yết, công dân có quyền khiếu nại với cơ quan lập danh sách cử tri. Cơ quan lập danh sách cử tri phải ghi vào sổ những khiếu nại đó. Trong thời hạn 05 ngày kể từ ngày nhận được khiếu nại, cơ quan lập danh sách cử tri phải giải quyết và thông báo cho người khiếu nại biết kết quả giải quyết. Trường hợp người khiếu nại không đồng ý về kết quả giải quyết khiếu nại hoặc hết thời hạn giải quyết mà khiếu nại không được giải quyết thì có quyền khởi kiện tại Tòa án nhân dân theo quy định của pháp luật về tố tụng hành chính."
+    },
+    {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Bỏ phiếu ở nơi khác",
+        "text": "Từ khi niêm yết danh sách cử tri cho đến ngày bầu cử, nếu cử tri nào vì đi nơi khác, không thể tham gia bỏ phiếu ở nơi đã được ghi tên vào danh sách cử tri thì có quyền xin giấy chứng nhận của Ủy ban nhân dân cấp xã nơi mình đã có tên trong danh sách cử tri để được bổ sung tên vào danh sách cử tri và tham gia bỏ phiếu bầu đại biểu Quốc hội, đại biểu Hội đồng nhân dân cấp tỉnh ở nơi mình có thể tham gia bỏ phiếu. Khi cấp giấy chứng nhận, Ủy ban nhân dân cấp xã phải ghi ngay vào danh sách cử tri tại khu vực bỏ phiếu thuộc địa phương mình bên cạnh tên cử tri cụm từ “Bỏ phiếu ở nơi khác”. CHƯƠNG V ỨNG CỬ VÀ HIỆP THƯƠNG, GIỚI THIỆU NGƯỜI ỨNG CỬ ĐẠI BIỂU QUỐC HỘI, ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN Mục 1 ỨNG CỬ"
     },
     {
         "id": "Điều 35.1",
@@ -1176,6 +1260,20 @@
         "text": "Biên bản hội nghị hiệp thương phải ghi rõ thành phần, số lượng người tham dự, diễn biến, kết quả hội nghị và được gửi ngay đến Hội đồng bầu cử quốc gia, Ủy ban thường vụ Quốc hội, Ban thường trực Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, Ủy ban bầu cử ở tỉnh."
     },
     {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Ủy ban thường vụ Quốc hội điều chỉnh lần thứ nhất",
+        "text": "Căn cứ vào kết quả hiệp thương lần thứ nhất, chậm nhất là 90 ngày trước ngày bầu cử, Ủy ban thường vụ Quốc hội điều chỉnh lần thứ nhất cơ cấu, thành phần, số lượng người của cơ quan, tổ chức, đơn vị ở trung ương và địa phương được giới thiệu ứng cử đại biểu Quốc hội."
+    },
+    {
+        "id": "Điều 41.0",
+        "article": "Điều 41",
+        "clause": "0",
+        "title": "Giới thiệu người của cơ quan, tổ chức, đơn vị ở trung ương ứng cử đại biểu Quốc hội",
+        "text": "Trên cơ sở điều chỉnh lần thứ nhất của Ủy ban thường vụ Quốc hội, căn cứ vào tiêu chuẩn của đại biểu Quốc hội, cơ quan, tổ chức, đơn vị ở trung ương được phân bổ số lượng người được giới thiệu ứng cử đại biểu Quốc hội tiến hành lựa chọn, giới thiệu người của cơ quan, tổ chức, đơn vị mình ứng cử đại biểu Quốc hội như sau:"
+    },
+    {
         "id": "Điều 41.1",
         "article": "Điều 41",
         "clause": "1",
@@ -1209,6 +1307,13 @@
         "clause": "5",
         "title": "Giới thiệu người của cơ quan, tổ chức, đơn vị ở trung ương ứng cử đại biểu Quốc hội",
         "text": "Cơ quan, tổ chức, đơn vị ở trung ương giới thiệu người ứng cử đại biểu Quốc hội phải chuyển biên bản hội nghị cử tri nơi công tác và biên bản hội nghị ban lãnh đạo của cơ quan, tổ chức, đơn vị mình nhận xét về người được giới thiệu ứng cử đại biểu Quốc hội đến Ban thường trực Ủy ban trung ương Mặt trận Tổ quốc Việt Nam trước khi hội nghị hiệp thương lần thứ hai được tổ chức."
+    },
+    {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Giới thiệu người của cơ quan, tổ chức, đơn vị ở địa phương ứng cử đại biểu Quốc hội",
+        "text": "Trên cơ sở điều chỉnh lần thứ nhất của Ủy ban thường vụ Quốc hội, căn cứ vào tiêu chuẩn của đại biểu Quốc hội, cơ quan, tổ chức, đơn vị ở địa phương được phân bổ số lượng người được giới thiệu ứng cử đại biểu Quốc hội tiến hành lựa chọn, giới thiệu người của cơ quan, tổ chức, đơn vị mình ứng cử đại biểu Quốc hội như sau:"
     },
     {
         "id": "Điều 42.1",
@@ -1351,6 +1456,13 @@
         "text": "Chậm nhất là 40 ngày trước ngày bầu cử, việc xác minh và trả lời về các vụ việc mà cử tri nêu đối với người ứng cử đại biểu Quốc hội quy định tại Điều này phải được tiến hành xong."
     },
     {
+        "id": "Điều 47.0",
+        "article": "Điều 47",
+        "clause": "0",
+        "title": "Ủy ban thường vụ Quốc hội điều chỉnh lần thứ hai",
+        "text": "Căn cứ vào kết quả hiệp thương lần thứ hai, chậm nhất là 55 ngày trước ngày bầu cử, Ủy ban thường vụ Quốc hội điều chỉnh lần thứ hai cơ cấu, thành phần, số lượng người của cơ quan, tổ chức, đơn vị ở trung ương và địa phương được giới thiệu ứng cử đại biểu Quốc hội."
+    },
+    {
         "id": "Điều 48.1",
         "article": "Điều 48",
         "clause": "1",
@@ -1433,6 +1545,13 @@
         "clause": "2",
         "title": "Thường trực Hội đồng nhân dân điều chỉnh cơ cấu, thành phần, số lượng người được giới thiệu ứng cử đại biểu Hội đồng nhân dân",
         "text": "Căn cứ vào kết quả hiệp thương lần thứ nhất, chậm nhất là 90 ngày trước ngày bầu cử, Thường trực Hội đồng nhân dân cấp xã điều chỉnh cơ cấu, thành phần, số lượng người của cơ quan, tổ chức, đơn vị, thôn, tổ dân phố ở địa phương được giới thiệu ứng cử đại biểu Hội đồng nhân dân cấp mình."
+    },
+    {
+        "id": "Điều 52.0",
+        "article": "Điều 52",
+        "clause": "0",
+        "title": "Giới thiệu người của cơ quan, tổ chức, đơn vị ứng cử đại biểu Hội đồng nhân dân",
+        "text": "Trên cơ sở kết quả hiệp thương lần thứ nhất và điều chỉnh của Thường trực Hội đồng nhân dân, căn cứ vào tiêu chuẩn của đại biểu Hội đồng nhân dân, các cơ quan, tổ chức, đơn vị và thôn, tổ dân phố (đối với cấp xã) được phân bổ số lượng người được giới thiệu ứng cử tiến hành lựa chọn, giới thiệu người ứng cử đại biểu Hội đồng nhân dân như sau:"
     },
     {
         "id": "Điều 52.1",
@@ -1659,6 +1778,13 @@
         "text": "Số người trong danh sách ứng cử đại biểu Hội đồng nhân dân ở mỗi đơn vị bầu cử phải nhiều hơn số lượng đại biểu được bầu đã ấn định cho đơn vị bầu cử đó; nếu đơn vị bầu cử được bầu ba đại biểu thì số người trong danh sách ứng cử phải nhiều hơn số lượng đại biểu được bầu ít nhất là hai người; nếu đơn vị bầu cử được bầu từ bốn đại biểu trở lên thì số người trong danh sách ứng cử phải nhiều hơn số lượng đại biểu được bầu ít nhất là ba người. Hội đồng bầu cử quốc gia hướng dẫn đối với trường hợp khuyết người ứng cử vì lý do bất khả kháng."
     },
     {
+        "id": "Điều 59.0",
+        "article": "Điều 59",
+        "clause": "0",
+        "title": "Niêm yết danh sách người ứng cử",
+        "text": "Chậm nhất là 20 ngày trước ngày bầu cử, Tổ bầu cử phải niêm yết danh sách chính thức những người ứng cử đại biểu Quốc hội, ứng cử đại biểu Hội đồng nhân dân ở khu vực bỏ phiếu."
+    },
+    {
         "id": "Điều 60.1",
         "article": "Điều 60",
         "clause": "1",
@@ -1776,6 +1902,20 @@
         "clause": "3",
         "title": "Nguyên tắc vận động bầu cử",
         "text": "Các tổ chức phụ trách bầu cử và thành viên của các tổ chức này không được vận động cho người ứng cử."
+    },
+    {
+        "id": "Điều 64.0",
+        "article": "Điều 64",
+        "clause": "0",
+        "title": "Thời gian tiến hành vận động bầu cử",
+        "text": "Thời gian vận động bầu cử được bắt đầu từ ngày công bố danh sách chính thức những người ứng cử và kết thúc trước thời điểm bắt đầu bỏ phiếu 24 giờ."
+    },
+    {
+        "id": "Điều 65.0",
+        "article": "Điều 65",
+        "clause": "0",
+        "title": "Hình thức vận động bầu cử",
+        "text": "Việc vận động bầu cử của người ứng cử được tiến hành bằng các hình thức sau đây:"
     },
     {
         "id": "Điều 65.1",
@@ -1960,6 +2100,13 @@
         "text": "Mọi người phải tuân theo nội quy phòng bỏ phiếu."
     },
     {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Thông báo về thời gian bầu cử, nơi bỏ phiếu",
+        "text": "Trong thời hạn 10 ngày trước ngày bầu cử, Tổ bầu cử phải thường xuyên thông báo cho cử tri biết ngày bầu cử, nơi bỏ phiếu, thời gian bỏ phiếu bằng hình thức niêm yết, phát thanh và các phương tiện thông tin đại chúng khác của địa phương."
+    },
+    {
         "id": "Điều 71.1",
         "article": "Điều 71",
         "clause": "1",
@@ -1979,6 +2126,20 @@
         "clause": "3",
         "title": "Thời gian bỏ phiếu",
         "text": "Việc bỏ phiếu phải được tiến hành liên tục. Trong trường hợp có sự kiện bất ngờ làm gián đoạn việc bỏ phiếu thì Tổ bầu cử phải lập tức niêm phong hòm phiếu, tài liệu liên quan trực tiếp đến cuộc bầu cử, kịp thời báo cáo cho Ban bầu cử, đồng thời phải có những biện pháp cần thiết để việc bỏ phiếu được tiếp tục."
+    },
+    {
+        "id": "Điều 72.0",
+        "article": "Điều 72",
+        "clause": "0",
+        "title": "Bỏ phiếu sớm, hoãn ngày bỏ phiếu",
+        "text": "Trường hợp đặc biệt cần hoãn ngày bỏ phiếu hoặc bỏ phiếu sớm hơn ngày quy định thì Ủy ban bầu cử trình Hội đồng bầu cử quốc gia xem xét, quyết định. CHƯƠNG VIII KẾT QUẢ BẦU CỬ Mục 1 VIỆC KIỂM PHIẾU"
+    },
+    {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Việc kiểm phiếu",
+        "text": "Việc kiểm phiếu phải được tiến hành tại phòng bỏ phiếu ngay sau khi cuộc bỏ phiếu kết thúc. Trước khi mở hòm phiếu, Tổ bầu cử phải thống kê, lập biên bản, niêm phong số phiếu bầu không sử dụng đến và phải mời hai cử tri không phải là người ứng cử chứng kiến việc kiểm phiếu. Người ứng cử, đại diện cơ quan, tổ chức, đơn vị giới thiệu người ứng cử hoặc người được ủy nhiệm có quyền chứng kiến việc kiểm phiếu và khiếu nại về việc kiểm phiếu. Các phóng viên báo chí được chứng kiến việc kiểm phiếu."
     },
     {
         "id": "Điều 74.1",
@@ -2028,6 +2189,13 @@
         "clause": "2",
         "title": "Phiếu bầu không hợp lệ",
         "text": "Trường hợp có phiếu bầu được cho là không hợp lệ thì Tổ trưởng Tổ bầu cử đưa ra để toàn Tổ xem xét, quyết định. Tổ bầu cử không được gạch xóa hoặc sửa các tên ghi trên phiếu bầu."
+    },
+    {
+        "id": "Điều 75.0",
+        "article": "Điều 75",
+        "clause": "0",
+        "title": "Khiếu nại, tố cáo về kiểm phiếu",
+        "text": "Những khiếu nại, tố cáo tại chỗ về những hành vi có dấu hiệu vi phạm pháp luật trong việc kiểm phiếu do Tổ bầu cử nhận, giải quyết và ghi nội dung giải quyết vào biên bản. Trong trường hợp Tổ bầu cử không giải quyết được thì phải ghi rõ ý kiến của Tổ bầu cử vào biên bản giải quyết khiếu nại, tố cáo và chuyển đến Ban bầu cử."
     },
     {
         "id": "Điều 76.1",
@@ -2329,6 +2497,13 @@
         "clause": "2",
         "title": "Hủy bỏ kết quả bầu cử và quyết định bầu cử lại",
         "text": "Trong trường hợp bầu cử lại thì ngày bầu cử được tiến hành chậm nhất là 15 ngày sau ngày bầu cử đầu tiên. Trong cuộc bầu cử lại, cử tri chỉ chọn bầu trong danh sách những người ứng cử tại cuộc bầu cử đầu tiên."
+    },
+    {
+        "id": "Điều 82.0",
+        "article": "Điều 82",
+        "clause": "0",
+        "title": "Danh sách cử tri của cuộc bầu cử thêm, bầu cử lại",
+        "text": "Danh sách cử tri của cuộc bầu cử thêm, bầu cử lại được lập theo danh sách cử tri trong cuộc bầu cử đầu tiên và theo quy định của Luật này. Mục 4 TỔNG KẾT CUỘC BẦU CỬ"
     },
     {
         "id": "Điều 83.1",
@@ -2737,6 +2912,13 @@
         "text": "Nhiệm vụ, quyền hạn của Hội đồng bầu cử bổ sung, Ủy ban bầu cử bổ sung, Ban bầu cử bổ sung, Tổ bầu cử bổ sung được thực hiện theo các quy định tương ứng của Luật này về nhiệm vụ, quyền hạn của Hội đồng bầu cử quốc gia, Ủy ban bầu cử, Ban bầu cử, Tổ bầu cử."
     },
     {
+        "id": "Điều 91.0",
+        "article": "Điều 91",
+        "clause": "0",
+        "title": "Danh sách cử tri trong bầu cử bổ sung",
+        "text": "Danh sách cử tri trong bầu cử bổ sung do Ủy ban nhân dân cấp xã lập theo quy định tại Chương IV của Luật này và phải được công bố chậm nhất là 15 ngày trước ngày bầu cử bổ sung."
+    },
+    {
         "id": "Điều 92.1",
         "article": "Điều 92",
         "clause": "1",
@@ -2756,6 +2938,34 @@
         "clause": "3",
         "title": "Ứng cử và hiệp thương, giới thiệu người ứng cử trong bầu cử bổ sung",
         "text": "Danh sách chính thức người ứng cử đại biểu Quốc hội, ứng cử đại biểu Hội đồng nhân dân được công bố chậm nhất là 10 ngày trước ngày bầu cử bổ sung."
+    },
+    {
+        "id": "Điều 93.0",
+        "article": "Điều 93",
+        "clause": "0",
+        "title": "Trình tự bầu cử và xác định kết quả trong bầu cử bổ sung",
+        "text": "Thể thức bỏ phiếu, trình tự bầu cử và xác định kết quả bầu cử bổ sung được áp dụng theo các quy định tại Chương VII và Chương VIII của Luật này."
+    },
+    {
+        "id": "Điều 94.0",
+        "article": "Điều 94",
+        "clause": "0",
+        "title": "Khiếu nại, tố cáo, kiến nghị về bầu cử bổ sung",
+        "text": "Khiếu nại, tố cáo, kiến nghị về bầu cử bổ sung và việc giải quyết khiếu nại, tố cáo, kiến nghị được áp dụng theo các quy định tương ứng của Luật này. CHƯƠNG X XỬ LÝ VI PHẠM PHÁP LUẬT VỀ BẦU CỬ VÀ ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 95.0",
+        "article": "Điều 95",
+        "clause": "0",
+        "title": "Xử lý vi phạm",
+        "text": "Người nào dùng thủ đoạn lừa gạt, mua chuộc hoặc cưỡng ép làm trở ngại việc bầu cử, ứng cử của công dân; vi phạm các quy định về vận động bầu cử; người có trách nhiệm trong công tác bầu cử mà giả mạo giấy tờ, gian lận phiếu bầu hoặc dùng thủ đoạn khác để làm sai lệch kết quả bầu cử hoặc vi phạm các quy định khác của pháp luật về bầu cử thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự."
+    },
+    {
+        "id": "Điều 96.0",
+        "article": "Điều 96",
+        "clause": "0",
+        "title": "Quy định chuyển tiếp",
+        "text": "Trong việc tổ chức bầu cử tại các huyện, quận, phường thực hiện thí điểm không tổ chức Hội đồng nhân dân huyện, quận, phường theo Nghị quyết số 26/2008/QH12 của Quốc hội, Nghị quyết số 724/2009/UBTVQH12 và Nghị quyết số 725/2009/UBTVQH12 của Ủy ban thường vụ Quốc hội, Thường trực Hội đồng nhân dân cấp tỉnh thực hiện nhiệm vụ, quyền hạn của Thường trực Hội đồng nhân dân huyện, quận, phường quy định tại các điều 4, 9 và 51 của Luật này trên cơ sở đề nghị của Ủy ban nhân dân cấp tỉnh, có tham khảo ý kiến của Ủy ban nhân dân huyện, quận, phường có liên quan."
     },
     {
         "id": "Điều 97.1",
@@ -2783,6 +2993,6 @@
         "article": "Điều 98",
         "clause": "2",
         "title": "Quy định chi tiết và hướng dẫn thi hành",
-        "text": "Hội đồng bầu cử quốc gia, Chính phủ, Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam trong phạm vi nhiệm vụ, quyền hạn của mình hướng dẫn thi hành Luật này. ---------------------------------------------------------------------------------------------------------------------------------"
+        "text": "Hội đồng bầu cử quốc gia, Chính phủ, Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam trong phạm vi nhiệm vụ, quyền hạn của mình hướng dẫn thi hành Luật này. --------------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 25 tháng 6 năm 2015. CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Sinh Hùng"
     }
 ]

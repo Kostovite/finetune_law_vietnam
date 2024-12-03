@@ -15,7 +15,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về nội dung công tác kế toán, tổ chức bộ máy kế toán, người làm kế toán, hoạt động kinh doanh dịch vụ kế toán, quản lý nhà nước về kế toán và tổ chức nghề nghiệp về kế toán.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -77,6 +83,11 @@
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Báo cáo tài chính là hệ thống thông tin kinh tế, tài chính của đơn vị kế toán được trình bày theo biểu mẫu quy định tại chuẩn mực kế toán và chế độ kế toán.",
@@ -434,7 +445,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đơn vị tiền tệ sử dụng trong kế toán là Đồng Việt Nam, ký hiệu quốc gia là “đ”, ký hiệu quốc tế là “VND”. Trong trường hợp nghiệp vụ kinh tế, tài chính phát sinh bằng ngoại tệ, thì đơn vị kế toán phải ghi theo nguyên tệ và Đồng Việt Nam theo tỷ giá hối đoái thực tế, trừ trường hợp pháp luật có quy định khác; đối với loại ngoại tệ không có tỷ giá hối đoái với Đồng Việt Nam thì phải quy đổi thông qua một loại ngoại tệ có tỷ giá hối đoái với Đồng Việt Nam.",
+                    "text": "Đơn vị tiền tệ sử dụng trong kế toán là Đồng Việt Nam, ký hiệu quốc gia là “đ”, ký hiệu quốc tế là “VND”. Trong trường hợp nghiệp vụ kinh tế, tài chính phát sinh bằng ngoại tệ, thì đơn vị kế toán phải ghi theo nguyên tệ và Đồng Việt Nam theo tỷ giá hối đoái thực tế, trừ trường hợp pháp luật có quy định khác; đối với loại ngoại tệ không có tỷ giá hối đoái với Đồng Việt Nam thì phải quy đổi thông qua một loại ngoại tệ có tỷ giá hối đoái với Đồng Việt Nam. Đơn vị kế toán chủ yếu thu, chi bằng một loại ngoại tệ thì được tự lựa chọn loại ngoại tệ đó làm đơn vị tiền tệ để kế toán, chịu trách nhiệm trước pháp luật và thông báo cho cơ quan thuế quản lý trực tiếp. Khi lập báo cáo tài chính sử dụng tại Việt Nam, đơn vị kế toán phải quy đổi ra Đồng Việt Nam theo tỷ giá hối đoái thực tế, trừ trường hợp pháp luật có quy định khác.",
                     "sub_clauses": []
                 },
                 {
@@ -631,7 +642,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đơn vị kế toán có trách nhiệm cung cấp thông tin, tài liệu kế toán kịp thời, đầy đủ, trung thực, minh bạch cho cơ quan, tổ chức, cá nhân theo quy định của pháp luật.",
+                    "text": "Đơn vị kế toán có trách nhiệm cung cấp thông tin, tài liệu kế toán kịp thời, đầy đủ, trung thực, minh bạch cho cơ quan, tổ chức, cá nhân theo quy định của pháp luật. Chương II NỘI DUNG CÔNG TÁC KẾ TOÁN Mục 1. CHỨNG TỪ KẾ TOÁN",
                     "sub_clauses": []
                 }
             ]
@@ -801,7 +812,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Cơ quan có thẩm quyền niêm phong chứng từ kế toán phải lập biên bản, ghi rõ lý do, số lượng từng loại chứng từ kế toán bị niêm phong và ký tên, đóng dấu.",
+                    "text": "Cơ quan có thẩm quyền niêm phong chứng từ kế toán phải lập biên bản, ghi rõ lý do, số lượng từng loại chứng từ kế toán bị niêm phong và ký tên, đóng dấu. Mục 2. TÀI KHOẢN KẾ TOÁN VÀ SỔ KẾ TOÁN",
                     "sub_clauses": []
                 }
             ]
@@ -1046,7 +1057,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ Tài chính quy định cụ thể các tài sản và nợ phải trả được ghi nhận và đánh giá lại theo giá trị hợp lý, phương pháp kế toán ghi nhận và đánh giá lại theo giá trị hợp lý.",
+                    "text": "Bộ Tài chính quy định cụ thể các tài sản và nợ phải trả được ghi nhận và đánh giá lại theo giá trị hợp lý, phương pháp kế toán ghi nhận và đánh giá lại theo giá trị hợp lý. Mục 3. BÁO CÁO TÀI CHÍNH",
                     "sub_clauses": []
                 }
             ]
@@ -1287,7 +1298,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Báo cáo tài chính của đơn vị kế toán đã được kiểm toán khi nộp cho cơ quan nhà nước có thẩm quyền phải có báo cáo kiểm toán kèm theo.",
+                    "text": "Báo cáo tài chính của đơn vị kế toán đã được kiểm toán khi nộp cho cơ quan nhà nước có thẩm quyền phải có báo cáo kiểm toán kèm theo. Mục 4. KIỂM TRA KẾ TOÁN",
                     "sub_clauses": []
                 }
             ]
@@ -1375,7 +1386,13 @@
         {
             "id": "Điều 36",
             "title": "Thời gian kiểm tra kế toán",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thời gian kiểm tra kế toán do cơ quan có thẩm quyền kiểm tra kế toán quyết định nhưng không quá 10 ngày, không kể ngày nghỉ, ngày lễ theo quy định của Bộ luật lao động. Trường hợp nội dung kiểm tra phức tạp, cần có thời gian để đánh giá, đối chiếu, kết luận, cơ quan có thẩm quyền kiểm tra kế toán có thể kéo dài thời gian kiểm tra; thời gian kéo dài đối với mỗi cuộc kiểm tra không quá 05 ngày, không kể ngày nghỉ, ngày lễ theo quy định của Bộ luật lao động.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 37",
@@ -1489,7 +1506,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết về kiểm toán nội bộ trong doanh nghiệp, cơ quan nhà nước, đơn vị sự nghiệp.",
+                    "text": "Chính phủ quy định chi tiết về kiểm toán nội bộ trong doanh nghiệp, cơ quan nhà nước, đơn vị sự nghiệp. Mục 5. KIỂM KÊ TÀI SẢN, BẢO QUẢN, LƯU TRỮ TÀI LIỆU KẾ TOÁN",
                     "sub_clauses": []
                 }
             ]
@@ -1599,6 +1616,11 @@
             "title": "Trách nhiệm của đơn vị kế toán trong trường hợp tài liệu kế toán bị mất hoặc bị hủy hoại",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Khi phát hiện tài liệu kế toán bị mất hoặc bị hủy hoại, đơn vị kế toán phải thực hiện ngay các công việc sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Kiểm tra, xác định và lập biên bản về số lượng, hiện trạng, nguyên nhân tài liệu kế toán bị mất hoặc bị hủy hoại; thông báo cho tổ chức, cá nhân có liên quan và cơ quan nhà nước có thẩm quyền;",
                     "sub_clauses": []
@@ -1615,7 +1637,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Đối với tài liệu kế toán có liên quan đến tài sản nhưng không thể phục hồi bằng các biện pháp quy định tại khoản 2 và khoản 3 Điều này thì phải kiểm kê tài sản để lập lại tài liệu kế toán bị mất hoặc bị hủy hoại.",
+                    "text": "Đối với tài liệu kế toán có liên quan đến tài sản nhưng không thể phục hồi bằng các biện pháp quy định tại khoản 2 và khoản 3 Điều này thì phải kiểm kê tài sản để lập lại tài liệu kế toán bị mất hoặc bị hủy hoại. Mục 6. CÔNG VIỆC KẾ TOÁN TRONG TRƯỜNG HỢP ĐƠN VỊ KẾ TOÁN CHIA, TÁCH, HỢP NHẤT, SÁP NHẬP, CHUYỂN ĐỔI LOẠI HÌNH HOẶC HÌNH THỨC SỞ HỮU, GIẢI THỂ, CHẤM DỨT HOẠT ĐỘNG, PHÁ SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -1802,7 +1824,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp đơn vị kế toán bị tuyên bố phá sản thì Toà án tuyên bố phá sản chỉ định người thực hiện công việc kế toán quy định tại khoản 1 Điều này.",
+                    "text": "Trường hợp đơn vị kế toán bị tuyên bố phá sản thì Toà án tuyên bố phá sản chỉ định người thực hiện công việc kế toán quy định tại khoản 1 Điều này. Chương III TỔ CHỨC BỘ MÁY KẾ TOÁN VÀ NGƯỜI LÀM KẾ TOÁN",
                     "sub_clauses": []
                 }
             ]
@@ -2041,7 +2063,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Doanh nghiệp, hộ kinh doanh dịch vụ kế toán và người được thuê làm kế toán, làm kế toán trưởng phải chịu trách nhiệm về thông tin, số liệu kế toán theo thỏa thuận trong hợp đồng.",
+                    "text": "Doanh nghiệp, hộ kinh doanh dịch vụ kế toán và người được thuê làm kế toán, làm kế toán trưởng phải chịu trách nhiệm về thông tin, số liệu kế toán theo thỏa thuận trong hợp đồng. Chương IV HOẠT ĐỘNG KINH DOANH DỊCH VỤ KẾ TOÁN",
                     "sub_clauses": []
                 }
             ]
@@ -2386,7 +2408,13 @@
         {
             "id": "Điều 64",
             "title": "Phí cấp, cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Doanh nghiệp kinh doanh dịch vụ kế toán được cấp, cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kế toán phải nộp phí theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 65",
@@ -2511,6 +2539,11 @@
             "id": "Điều 68",
             "title": "Trường hợp không được cung cấp dịch vụ kế toán",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Doanh nghiệp kinh doanh dịch vụ kế toán, hộ kinh doanh dịch vụ kế toán không được cung cấp dịch vụ kế toán cho đơn vị kế toán khác khi người có trách nhiệm quản lý, điều hành doanh nghiệp kinh doanh dịch vụ kế toán, người đại diện hộ kinh doanh dịch vụ kế toán hoặc người trực tiếp thực hiện dịch vụ kế toán của doanh nghiệp, hộ kinh doanh dịch vụ kế toán thuộc các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Là cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, vợ, chồng, con đẻ, con nuôi, anh, chị, em ruột của người có trách nhiệm quản lý, điều hành, kế toán trưởng của đơn vị kế toán, trừ trường hợp đơn vị kế toán là doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn do một cá nhân làm chủ sở hữu và các trường hợp khác do Chính phủ quy định;",
@@ -2688,7 +2721,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức nghề nghiệp về kế toán được bồi dưỡng, cập nhật kiến thức cho người làm kế toán, kế toán viên hành nghề và thực hiện một số nhiệm vụ liên quan đến hoạt động kế toán do Chính phủ quy định.",
+                    "text": "Tổ chức nghề nghiệp về kế toán được bồi dưỡng, cập nhật kiến thức cho người làm kế toán, kế toán viên hành nghề và thực hiện một số nhiệm vụ liên quan đến hoạt động kế toán do Chính phủ quy định. Chương V QUẢN LÝ NHÀ NƯỚC VỀ KẾ TOÁN",
                     "sub_clauses": []
                 }
             ]
@@ -2751,7 +2784,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Ủy ban nhân dân cấp tỉnh trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm quản lý nhà nước về kế toán tại địa phương.",
+                    "text": "Ủy ban nhân dân cấp tỉnh trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm quản lý nhà nước về kế toán tại địa phương. Chương VI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2804,7 +2837,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Căn cứ những nguyên tắc cơ bản của Luật này, Chính phủ quy định cụ thể nội dung công tác kế toán đối với văn phòng đại diện của doanh nghiệp nước ngoài hoạt động tại Việt Nam, hộ kinh doanh và tổ hợp tác.",
+                    "text": "Căn cứ những nguyên tắc cơ bản của Luật này, Chính phủ quy định cụ thể nội dung công tác kế toán đối với văn phòng đại diện của doanh nghiệp nước ngoài hoạt động tại Việt Nam, hộ kinh doanh và tổ hợp tác. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 10 thông qua ngày 20 tháng 11 năm 2015. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
                     "sub_clauses": []
                 }
             ]

@@ -17,17 +17,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về hoạt động bưu chính; quyền và nghĩa vụ của tổ chức, cá nhân trong hoạt động bưu chính và quản lý nhà nước về hoạt động bưu chính.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với tổ chức, cá nhân thực hiện, tham gia thực hiện hoạt động bưu chính tại Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Hoạt động bưu chính gồm các hoạt động đầu tư, kinh doanh, cung ứng, sử dụng dịch vụ bưu chính, dịch vụ bưu chính công ích, tem bưu chính.",
@@ -274,7 +291,7 @@
                 },
                 {
                     "number": "10",
-                    "text": "Hoạt động bưu chính trái pháp luật.",
+                    "text": "Hoạt động bưu chính trái pháp luật. CHƯƠNG II CUNG ỨNG VÀ SỬ DỤNG DỊCH VỤ BƯU CHÍNH",
                     "sub_clauses": []
                 }
             ]
@@ -348,7 +365,13 @@
         {
             "id": "Điều 10",
             "title": "Hợp đồng cung ứng và sử dụng dịch vụ bưu chính xác lập bằng hành vi cụ thể",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc gửi vào thùng thư công cộng thư đủ điều kiện quy định tại khoản 1 Điều 11 của Luật này, có dán tem Bưu chính Việt Nam hoặc có dấu thanh toán trước giá cước của doanh nghiệp cung ứng dịch vụ bưu chính là hành vi xác lập hợp đồng giữa doanh nghiệp cung ứng dịch vụ bưu chính và người gửi.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 11",
@@ -671,7 +694,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Mạng bưu chính quy định tại khoản 1 Điều này chỉ được kết nối với mạng bưu chính công cộng.",
+                    "text": "Mạng bưu chính quy định tại khoản 1 Điều này chỉ được kết nối với mạng bưu chính công cộng. CHƯƠNG III ĐẦU TƯ, KINH DOANH DỊCH VỤ BƯU CHÍNH",
                     "sub_clauses": []
                 }
             ]
@@ -916,7 +939,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Hoạt động cung cấp dịch vụ bưu chính quy định tại khoản 1 Điều 19 của Luật này.",
+                    "text": "Hoạt động cung cấp dịch vụ bưu chính quy định tại khoản 1 Điều 19 của Luật này. CHƯƠNG IV CHẤT LƯỢNG VÀ GIÁ CƯỚC DỊCH VỤ BƯU CHÍNH",
                     "sub_clauses": []
                 }
             ]
@@ -967,7 +990,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Doanh nghiệp cung ứng dịch vụ bưu chính có trách nhiệm:",
+                    "text": "Doanh nghiệp cung ứng dịch vụ bưu chính có trách nhiệm: CHƯƠNG V QUYỀN VÀ NGHĨA VỤ CỦA DOANH NGHIỆP CUNG ỨNG DỊCH VỤ BƯU CHÍNH, NGƯỜI SỬ DỤNG DỊCH VỤ BƯU CHÍNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -993,6 +1016,11 @@
             "id": "Điều 29",
             "title": "Quyền và nghĩa vụ của doanh nghiệp cung ứng dịch vụ bưu chính",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Ngoài quyền và nghĩa vụ quy định tại Luật doanh nghiệp, doanh nghiệp cung ứng dịch vụ bưu chính còn có các quyền và nghĩa vụ sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Thiết lập mạng bưu chính để cung ứng dịch vụ bưu chính;",
@@ -1070,6 +1098,11 @@
             "title": "Quyền và nghĩa vụ của người sử dụng dịch vụ bưu chính",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Người sử dụng dịch vụ bưu chính có các quyền và nghĩa vụ sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Được doanh nghiệp cung ứng dịch vụ bưu chính cung cấp đầy đủ, chính xác thông tin về dịch vụ bưu chính mà mình sử dụng;",
                     "sub_clauses": []
@@ -1126,7 +1159,7 @@
                 },
                 {
                     "number": "12",
-                    "text": "Bồi thường thiệt hại cho doanh nghiệp cung ứng dịch vụ bưu chính theo quy định tại Điều 42 của Luật này.",
+                    "text": "Bồi thường thiệt hại cho doanh nghiệp cung ứng dịch vụ bưu chính theo quy định tại Điều 42 của Luật này. CHƯƠNG VI HOẠT ĐỘNG BƯU CHÍNH CÔNG ÍCH",
                     "sub_clauses": []
                 }
             ]
@@ -1177,6 +1210,11 @@
             "id": "Điều 33",
             "title": "Quyền và nghĩa vụ của doanh nghiệp cung ứng dịch vụ bưu chính công ích",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Ngoài quyền và nghĩa vụ quy định tại Điều 29 của Luật này, doanh nghiệp cung ứng dịch vụ bưu chính công ích còn có các quyền và nghĩa vụ sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Thiết lập mạng bưu chính công cộng trong phạm vi cả nước để cung ứng dịch vụ bưu chính trong nước và quốc tế; lắp đặt thùng thư công cộng để chấp nhận thư cơ bản;",
@@ -1259,7 +1297,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Tại khu đô thị, khu dân cư tập trung, chung cư cao tầng, tòa nhà văn phòng đã đưa vào sử dụng trước khi Luật này có hiệu lực nhưng chưa có thùng thư công cộng, hộp thư tập trung, đơn vị quản lý có trách nhiệm:",
+                    "text": "Tại khu đô thị, khu dân cư tập trung, chung cư cao tầng, tòa nhà văn phòng đã đưa vào sử dụng trước khi Luật này có hiệu lực nhưng chưa có thùng thư công cộng, hộp thư tập trung, đơn vị quản lý có trách nhiệm: CHƯƠNG VII TEM BƯU CHÍNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1349,7 +1387,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tổ chức, cá nhân không được kinh doanh, trao đổi, trưng bày, tuyên truyền những loại tem sau đây:",
+                    "text": "Tổ chức, cá nhân không được kinh doanh, trao đổi, trưng bày, tuyên truyền những loại tem sau đây: CHƯƠNG VIII GIẢI QUYẾT TRANH CHẤP VÀ BỒI THƯỜNG THIỆT HẠI TRONG CUNG ỨNG VÀ SỬ DỤNG DỊCH VỤ BƯU CHÍNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1542,7 +1580,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trừ trường hợp các bên có thoả thuận khác, người sử dụng dịch vụ bưu chính không phải bồi thường thiệt hại trong các trường hợp sau đây:",
+                    "text": "Trừ trường hợp các bên có thoả thuận khác, người sử dụng dịch vụ bưu chính không phải bồi thường thiệt hại trong các trường hợp sau đây: CHƯƠNG IX TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ HOẠT ĐỘNG BƯU CHÍNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1642,7 +1680,7 @@
                 },
                 {
                     "number": "11",
-                    "text": "Phối hợp với Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương để hướng dẫn lập quy hoạch và trình tự, thủ tục phê duyệt quy hoạch mạng bưu chính công cộng tại địa phương.",
+                    "text": "Phối hợp với Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương để hướng dẫn lập quy hoạch và trình tự, thủ tục phê duyệt quy hoạch mạng bưu chính công cộng tại địa phương. CHƯƠNG X ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1671,8 +1709,18 @@
         {
             "id": "Điều 46",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010 CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Phú Trọng"
+    ]
 }

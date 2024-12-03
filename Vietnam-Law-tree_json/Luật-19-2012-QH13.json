@@ -17,22 +17,45 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về tổ chức và hoạt động xuất bản; quyền và nghĩa vụ của cơ quan, tổ chức, cá nhân tham gia hoạt động xuất bản. Hoạt động xuất bản bao gồm các lĩnh vực xuất bản, in và phát hành xuất bản phẩm.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân trong nước, tổ chức nước ngoài hoạt động trên lãnh thổ Việt Nam, cá nhân nước ngoài cư trú tại Việt Nam có liên quan đến hoạt động xuất bản.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Vị trí, mục đích của hoạt động xuất bản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hoạt động xuất bản thuộc lĩnh vực văn hóa, tư tưởng nhằm phổ biến, giới thiệu tri thức thuộc các lĩnh vực của đời sống xã hội, giá trị văn hóa dân tộc và tinh hoa văn hóa nhân loại, đáp ứng nhu cầu đời sống tinh thần của nhân dân, nâng cao dân trí, xây dựng đạo đức và lối sống tốt đẹp của người Việt Nam, mở rộng giao lưu văn hóa với các nước, phát triển kinh tế - xã hội, đấu tranh chống mọi tư tưởng và hành vi làm tổn hại lợi ích quốc gia, góp phần vào sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 4",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Xuất bản là việc tổ chức, khai thác bản thảo, biên tập thành bản mẫu để in và phát hành hoặc để phát hành trực tiếp qua các phương tiện điện tử.",
@@ -177,7 +200,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ thống nhất quản lý nhà nước về hoạt động xuất bản trong phạm vi cả nước.",
+                    "text": "Chính phủ thống nhất quản lý nhà nước về hoạt động xuất bản trong phạm vi cả nước. Bộ Thông tin và Truyền thông chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về hoạt động xuất bản. Các bộ, cơ quan ngang bộ phối hợp với Bộ Thông tin và Truyền thông thực hiện quản lý nhà nước về hoạt động xuất bản theo thẩm quyền. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Ủy ban nhân dân cấp tỉnh) thực hiện quản lý nhà nước về hoạt động xuất bản tại địa phương.",
                     "sub_clauses": []
                 }
             ]
@@ -289,7 +312,13 @@
         {
             "id": "Điều 9",
             "title": "Khiếu nại, tố cáo trong hoạt động xuất bản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc khiếu nại, tố cáo trong hoạt động xuất bản được thực hiện theo quy định của pháp luật về khiếu nại, tố cáo.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 10",
@@ -380,7 +409,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Cơ quan quản lý nhà nước về hoạt động xuất bản phải chịu trách nhiệm về quyết định của mình; trường hợp quyết định sai, gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+                    "text": "Cơ quan quản lý nhà nước về hoạt động xuất bản phải chịu trách nhiệm về quyết định của mình; trường hợp quyết định sai, gây thiệt hại thì phải bồi thường theo quy định của pháp luật. CHƯƠNG II LĨNH VỰC XUẤT BẢN",
                     "sub_clauses": []
                 }
             ]
@@ -415,6 +444,11 @@
             "title": "Điều kiện thành lập nhà xuất bản",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Việc thành lập nhà xuất bản phải có đủ các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Có tôn chỉ, mục đích, chức năng, nhiệm vụ, đối tượng phục vụ, xuất bản phẩm chủ yếu phù hợp với chức năng, nhiệm vụ của cơ quan chủ quản;",
                     "sub_clauses": []
@@ -442,7 +476,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ quan chủ quản nhà xuất bản lập hồ sơ đề nghị cấp giấy phép thành lập nhà xuất bản gửi Bộ Thông tin và Truyền thông.",
+                    "text": "Cơ quan chủ quản nhà xuất bản lập hồ sơ đề nghị cấp giấy phép thành lập nhà xuất bản gửi Bộ Thông tin và Truyền thông. Hồ sơ đề nghị cấp giấy phép bao gồm:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -461,7 +495,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Sau khi được cấp giấy phép thành lập nhà xuất bản, cơ quan chủ quản ra quyết định thành lập nhà xuất bản và chuẩn bị các điều kiện cần thiết khác để nhà xuất bản hoạt động.",
+                    "text": "Sau khi được cấp giấy phép thành lập nhà xuất bản, cơ quan chủ quản ra quyết định thành lập nhà xuất bản và chuẩn bị các điều kiện cần thiết khác để nhà xuất bản hoạt động. Nhà xuất bản được hoạt động phù hợp với nội dung ghi trong giấy phép thành lập.",
                     "sub_clauses": []
                 },
                 {
@@ -812,7 +846,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hồ sơ đề nghị cấp chứng chỉ hành nghề biên tập bao gồm:",
+                    "text": "Hồ sơ đề nghị cấp chứng chỉ hành nghề biên tập bao gồm: Sơ yếu lý lịch theo mẫu quy định; Bản sao có chứng thực văn bằng;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -862,7 +896,13 @@
         {
             "id": "Điều 21",
             "title": "Quyền tác giả trong lĩnh vực xuất bản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc xuất bản tác phẩm, tài liệu và tái bản xuất bản phẩm chỉ được thực hiện sau khi có văn bản chấp thuận của tác giả, chủ sở hữu quyền tác giả theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 22",
@@ -1036,6 +1076,11 @@
             "id": "Điều 24",
             "title": "Tác phẩm, tài liệu phải thẩm định nội dung trước khi tái bản",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Tác phẩm, tài liệu sau đây nếu nội dung có dấu hiệu vi phạm quy định tại khoản 1 Điều 10 của Luật này thì nhà xuất bản phải tổ chức thẩm định trước khi đăng ký xuất bản để tái bản:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tác phẩm, tài liệu xuất bản trước Cách mạng Tháng Tám năm 1945; tác phẩm, tài liệu xuất bản từ năm 1945 đến năm 1954 trong vùng bị tạm chiếm;",
@@ -1301,7 +1346,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc quảng cáo trên xuất bản phẩm không được quy định tại khoản 1 và khoản 2 Điều này được thực hiện theo quy định của pháp luật về quảng cáo.",
+                    "text": "Việc quảng cáo trên xuất bản phẩm không được quy định tại khoản 1 và khoản 2 Điều này được thực hiện theo quy định của pháp luật về quảng cáo. ­CHƯƠNG III LĨNH VỰC IN XUẤT BẢN PHẨM",
                     "sub_clauses": []
                 }
             ]
@@ -1473,7 +1518,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ sở in có giấy phép hoạt động in xuất bản phẩm quy định tại Điều 32 của Luật này được in gia công xuất bản phẩm cho tổ chức, cá nhân nước ngoài.",
+                    "text": "Cơ sở in có giấy phép hoạt động in xuất bản phẩm quy định tại Điều 32 của Luật này được in gia công xuất bản phẩm cho tổ chức, cá nhân nước ngoài. Việc in gia công xuất bản phẩm cho tổ chức, cá nhân nước ngoài phải được Bộ Thông tin và Truyền thông hoặc Uỷ ban nhân dân cấp tỉnh cấp giấy phép.",
                     "sub_clauses": []
                 },
                 {
@@ -1550,7 +1595,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chịu trách nhiệm trước pháp luật về hoạt động in xuất bản phẩm của cơ sở in.",
+                    "text": "Chịu trách nhiệm trước pháp luật về hoạt động in xuất bản phẩm của cơ sở in. CHƯƠNG IV LĨNH VỰC PHÁT HÀNH  XUẤT BẢN PHẨM",
                     "sub_clauses": []
                 }
             ]
@@ -1561,7 +1606,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ sở phát hành xuất bản phẩm bao gồm doanh nghiệp, đơn vị sự nghiệp công lập, hộ kinh doanh xuất bản phẩm (sau đây gọi chung là cơ sở phát hành).",
+                    "text": "Cơ sở phát hành xuất bản phẩm bao gồm doanh nghiệp, đơn vị sự nghiệp công lập, hộ kinh doanh xuất bản phẩm (sau đây gọi chung là cơ sở phát hành). Nhà xuất bản được thành lập cơ sở phát hành xuất bản phẩm.",
                     "sub_clauses": []
                 },
                 {
@@ -1885,7 +1930,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Xuất bản phẩm quy định tại điểm a và điểm b khoản 1 Điều này sau khi sử dụng phải tái xuất; trường hợp chuyển giao cho cơ quan, tổ chức, cá nhân khác tại Việt Nam thì cơ quan, tổ chức, cá nhân tiếp nhận phải làm thủ tục nhập khẩu theo quy định tại Điều 41 của Luật này.",
+                    "text": "Xuất bản phẩm quy định tại điểm a và điểm b khoản 1 Điều này sau khi sử dụng phải tái xuất; trường hợp chuyển giao cho cơ quan, tổ chức, cá nhân khác tại Việt Nam thì cơ quan, tổ chức, cá nhân tiếp nhận phải làm thủ tục nhập khẩu theo quy định tại Điều 41 của Luật này. Xuất bản phẩm quy định tại điểm c và điểm d khoản 1 Điều này nếu có giá trị vượt quá tiêu chuẩn miễn thuế thì phải làm thủ tục đề nghị cấp giấy phép nhập khẩu theo quy định tại Điều 41 của Luật này. Xuất bản phẩm quy định tại khoản 1 Điều này không được kinh doanh dưới mọi hình thức.",
                     "sub_clauses": []
                 },
                 {
@@ -1903,7 +1948,13 @@
         {
             "id": "Điều 43",
             "title": "Xuất khẩu xuất bản phẩm",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Xuất bản phẩm đã được xuất bản và lưu hành hợp pháp tại Việt Nam được phép xuất khẩu ra nước ngoài.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 44",
@@ -1971,7 +2022,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Cơ quan quản lý nhà nước về hoạt động xuất bản có quyền từ chối cấp giấy phép tổ chức triển lãm, hội chợ xuất bản phẩm hoặc yêu cầu tổ chức, cá nhân đề nghị cấp phép đưa ra khỏi danh mục xuất bản phẩm để triển lãm, hội chợ đối với các xuất bản phẩm sau đây:",
+                    "text": "Cơ quan quản lý nhà nước về hoạt động xuất bản có quyền từ chối cấp giấy phép tổ chức triển lãm, hội chợ xuất bản phẩm hoặc yêu cầu tổ chức, cá nhân đề nghị cấp phép đưa ra khỏi danh mục xuất bản phẩm để triển lãm, hội chợ đối với các xuất bản phẩm sau đây: CHƯƠNG V XUẤT BẢN VÀ PHÁT HÀNH XUẤT BẢN PHẨM ĐIỆN TỬ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1995,7 +2046,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Việc xuất bản điện tử phải do nhà xuất bản hoặc cơ quan, tổ chức có giấy phép xuất bản tài liệu không kinh doanh thực hiện và phải tuân theo quy định của Luật này.",
+                    "text": "Việc xuất bản điện tử phải do nhà xuất bản hoặc cơ quan, tổ chức có giấy phép xuất bản tài liệu không kinh doanh thực hiện và phải tuân theo quy định của Luật này. Nhà xuất bản thực hiện xuất bản điện tử khi có đủ các điều kiện sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2070,6 +2121,11 @@
             "title": "Kỹ thuật, công nghệ để xuất bản và phát hành xuất bản phẩm điện tử",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Cơ quan, tổ chức, cá nhân xuất bản và phát hành xuất bản phẩm điện tử phải:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Thực hiện đúng quy chuẩn kỹ thuật và hướng dẫn kỹ thuật của cơ quan quản lý nhà nước đối với xuất bản phẩm điện tử;",
                     "sub_clauses": []
@@ -2106,6 +2162,11 @@
             "id": "Điều 49",
             "title": "Quảng cáo trên xuất bản phẩm điện tử",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Việc quảng cáo trên xuất bản phẩm điện tử thực hiện theo quy định sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Không được quảng cáo lẫn vào nội dung hoặc làm gián đoạn nội dung của xuất bản phẩm điện tử dưới mọi hình thức;",
@@ -2221,23 +2282,51 @@
         {
             "id": "Điều 51",
             "title": "Nhập khẩu xuất bản phẩm điện tử",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ sở phát hành nhập khẩu xuất bản phẩm điện tử để kinh doanh hoặc phổ biến phải được cơ quan quản lý nhà nước về hoạt động xuất bản cấp giấy phép theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 52",
             "title": "Quy định chi tiết về xuất bản và phát hành xuất bản phẩm điện tử",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết hoạt động xuất bản và phát hành xuất bản phẩm điện tử phù hợp với từng giai đoạn phát triển công nghệ. CHƯƠNG VI ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 53",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2013 và thay thế Luật xuất bản số 30/2004/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 12/2008/QH12.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 54",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 4 thông qua ngày 20 tháng 11 năm 2012. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 4 thông qua ngày 20 tháng 11 năm 2012.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

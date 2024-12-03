@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về tổ chức, cá nhân hoạt động khoa học và công nghệ; việc tổ chức thực hiện hoạt động khoa học và công nghệ; biện pháp bảo đảm phát triển khoa học và công nghệ; quản lý nhà nước về khoa học và công nghệ."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, cá nhân hoạt động khoa học và công nghệ tại Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -168,6 +189,13 @@
         "text": "Bảo đảm an toàn tính mạng, sức khỏe con người, bảo vệ môi trường."
     },
     {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Chính sách của Nhà nước về phát triển khoa học và công nghệ",
+        "text": "Nhà nước thực hiện các chính sách sau đây nhằm bảo đảm phát triển khoa học và công nghệ là quốc sách hàng đầu:"
+    },
+    {
         "id": "Điều 6.1",
         "article": "Điều 6",
         "clause": "1",
@@ -222,6 +250,13 @@
         "clause": "8",
         "title": "Chính sách của Nhà nước về phát triển khoa học và công nghệ",
         "text": "Chủ động, tích cực hội nhập quốc tế về khoa học và công nghệ; nâng cao vị thế quốc gia về khoa học và công nghệ trong khu vực và thế giới."
+    },
+    {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Ngày khoa học và công nghệ Việt Nam",
+        "text": "Ngày 18 tháng 5 hằng năm là Ngày khoa học và công nghệ Việt Nam."
     },
     {
         "id": "Điều 8.1",
@@ -1463,6 +1498,13 @@
         "text": "Chính phủ quy định cụ thể Điều này."
     },
     {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Nhiệm vụ khoa học và công nghệ được quỹ trong lĩnh vực khoa học và công nghệ xét tài trợ, cho vay, bảo lãnh vốn vay",
+        "text": "Tổ chức, cá nhân có quyền đề xuất nhiệm vụ khoa học và công nghệ để quỹ phát triển khoa học và công nghệ, quỹ đổi mới công nghệ, quỹ đầu tư mạo hiểm công nghệ cao và các quỹ khác trong lĩnh vực khoa học và công nghệ xét tài trợ, cho vay, bảo lãnh vốn vay theo điều lệ tổ chức và hoạt động của quỹ."
+    },
+    {
         "id": "Điều 32.1",
         "article": "Điều 32",
         "clause": "1",
@@ -1846,6 +1888,20 @@
         "clause": "6",
         "title": "Quyền sở hữu, quyền sử dụng kết quả nghiên cứu khoa học và phát triển công nghệ",
         "text": "Chính phủ quy định cụ thể các trường hợp, trình tự, thủ tục giao toàn bộ, giao một phần quyền sở hữu hoặc quyền sử dụng kết quả nghiên cứu khoa học và phát triển công nghệ quy định tại Điều này."
+    },
+    {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Quyền tác giả đối với kết quả nghiên cứu khoa học và phát triển công nghệ",
+        "text": "Người trực tiếp thực hiện nhiệm vụ nghiên cứu khoa học và phát triển công nghệ là tác giả của kết quả nghiên cứu khoa học và phát triển công nghệ đó. Tác giả của kết quả nghiên cứu khoa học và phát triển công nghệ được hưởng quyền theo quy định của Luật này và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Phân chia lợi nhuận khi sử dụng, chuyển giao quyền sử dụng, chuyển nhượng, góp vốn bằng kết quả nghiên cứu khoa học và phát triển công nghệ sử dụng ngân sách nhà nước",
+        "text": "Lợi nhuận thu được từ việc sử dụng, chuyển giao quyền sử dụng, chuyển nhượng, góp vốn bằng kết quả nghiên cứu khoa học và phát triển công nghệ sử dụng ngân sách nhà nước được chia cho tác giả tối thiểu 30%; phần còn lại được phân chia giữa chủ sở hữu, cơ quan chủ trì, người môi giới theo quy định của Chính phủ. Chương V ỨNG DỤNG KẾT QUẢ NGHIÊN CỨU KHOA HỌC VÀ PHÁT TRIỂN CÔNG NGHỆ, PHỔ BIẾN KIẾN THỨC KHOA HỌC VÀ CÔNG NGHỆ"
     },
     {
         "id": "Điều 44.1",
@@ -2443,6 +2499,13 @@
         "text": "Doanh nghiệp có quyền tự chủ, tự chịu trách nhiệm trong việc quản lý, sử dụng quỹ đúng mục đích thành lập quỹ và thông báo việc thành lập quỹ cho cơ quan quản lý nhà nước về khoa học và công nghệ địa phương nơi đặt trụ sở chính của doanh nghiệp. Mục 4. ƯU ĐÃI THUẾ VÀ TÍN DỤNG CHO HOẠT ĐỘNG KHOA HỌC VÀ CÔNG NGHỆ"
     },
     {
+        "id": "Điều 64.0",
+        "article": "Điều 64",
+        "clause": "0",
+        "title": "Chính sách thuế đối với hoạt động khoa học và công nghệ",
+        "text": "Các trường hợp sau đây được hưởng chính sách ưu đãi về thuế theo quy định của pháp luật về thuế:"
+    },
+    {
         "id": "Điều 64.1",
         "article": "Điều 64",
         "clause": "1",
@@ -2595,6 +2658,20 @@
         "clause": "3",
         "title": "Xây dựng hạ tầng phục vụ phát triển công nghệ cao",
         "text": "Bộ Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp với Bộ Khoa học và Công nghệ và cơ quan có liên quan trình Thủ tướng Chính phủ phê duyệt quy hoạch phát triển khu nông nghiệp ứng dụng công nghệ cao."
+    },
+    {
+        "id": "Điều 68.0",
+        "article": "Điều 68",
+        "clause": "0",
+        "title": "Xây dựng hạ tầng thông tin, cơ sở dữ liệu quốc gia và thống kê về khoa học và công nghệ",
+        "text": "Nhà nước đầu tư xây dựng, khuyến khích tổ chức, cá nhân tài trợ cho việc xây dựng hạ tầng thông tin, cơ sở dữ liệu quốc gia và thống kê về khoa học và công nghệ hiện đại nhằm bảo đảm thông tin đầy đủ, chính xác, kịp thời về hoạt động khoa học và công nghệ trong nước và thế giới. Chính phủ quy định cụ thể Điều này."
+    },
+    {
+        "id": "Điều 69.0",
+        "article": "Điều 69",
+        "clause": "0",
+        "title": "Xây dựng và phát triển thị trường khoa học và công nghệ",
+        "text": "Nhà nước có chính sách và biện pháp sau đây để xây dựng và phát triển thị trường khoa học và công nghệ:"
     },
     {
         "id": "Điều 69.1",
@@ -2821,6 +2898,13 @@
         "text": "Chỉ đạo công tác kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về khoa học và công nghệ. Hằng năm, Chính phủ báo cáo Quốc hội về việc thực hiện chính sách, biện pháp để phát triển khoa học và công nghệ; việc sử dụng ngân sách nhà nước đầu tư cho khoa học và công nghệ; kết quả hoạt động khoa học và công nghệ."
     },
     {
+        "id": "Điều 74.0",
+        "article": "Điều 74",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Khoa học và Công nghệ",
+        "text": "Bộ Khoa học và Công nghệ chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về khoa học và công nghệ trong phạm vi cả nước, có trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 74.1",
         "article": "Điều 74",
         "clause": "1",
@@ -3003,6 +3087,13 @@
         "text": "Quản lý, sử dụng kinh phí đầu tư phát triển khoa học và công nghệ, kinh phí sự nghiệp khoa học và công nghệ đúng mục đích và có hiệu quả, phù hợp với đặc thù và tiến độ kế hoạch khoa học và công nghệ."
     },
     {
+        "id": "Điều 76.0",
+        "article": "Điều 76",
+        "clause": "0",
+        "title": "Trách nhiệm của Ủy ban nhân dân cấp tỉnh",
+        "text": "Ủy ban nhân dân cấp tỉnh thực hiện quản lý nhà nước về khoa học và công nghệ trong phạm vi địa phương theo phân cấp của Chính phủ có trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 76.1",
         "article": "Điều 76",
         "clause": "1",
@@ -3080,6 +3171,13 @@
         "text": "Chính phủ quy định cụ thể Điều này."
     },
     {
+        "id": "Điều 78.0",
+        "article": "Điều 78",
+        "clause": "0",
+        "title": "Nhận danh hiệu, giải thưởng về khoa học và công nghệ của tổ chức, cá nhân nước ngoài, tổ chức quốc tế",
+        "text": "Tổ chức khoa học và công nghệ, cá nhân hoạt động khoa học và công nghệ được nhận danh hiệu, giải thưởng về khoa học và công nghệ do tổ chức, cá nhân nước ngoài, tổ chức quốc tế phong, tặng phù hợp với quy định của pháp luật Việt Nam."
+    },
+    {
         "id": "Điều 79.1",
         "article": "Điều 79",
         "clause": "1",
@@ -3092,5 +3190,19 @@
         "clause": "2",
         "title": "Xử lý vi phạm",
         "text": "Tổ chức vi phạm pháp luật về khoa học và công nghệ thì tuỳ theo tính chất, mức độ vi phạm mà bị xử phạt hành chính, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. Chương XI ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 80.0",
+        "article": "Điều 80",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2014. Luật khoa học và công nghệ số 21/2000/QH10 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 81.0",
+        "article": "Điều 81",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ và cơ quan nhà nước có thẩm quyền khác quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 5 thông qua ngày 18 tháng 6 năm 2013. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

@@ -15,17 +15,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về hoạt động phòng, chống thiên tai, quyền và nghĩa vụ của cơ quan, tổ chức, hộ gia đình, cá nhân tham gia hoạt động phòng, chống thiên tai, quản lý nhà nước và nguồn lực bảo đảm việc thực hiện phòng, chống thiên tai.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với cơ quan, tổ chức, hộ gia đình, cá nhân Việt Nam; tổ chức, cá nhân nước ngoài, tổ chức quốc tế đang sinh sống, hoạt động hoặc tham gia phòng, chống thiên tai tại Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Thiên tai là hiện tượng tự nhiên bất thường có thể gây thiệt hại về người, tài sản, môi trường, điều kiện sống và các hoạt động kinh tế - xã hội, bao gồm: bão, áp thấp nhiệt đới, lốc, sét, mưa lớn, lũ, lũ quét, ngập lụt, sạt lở đất do mưa lũ hoặc dòng chảy, sụt lún đất do mưa lũ hoặc dòng chảy, nước dâng, xâm nhập mặn, nắng nóng, hạn hán, rét hại, mưa đá, sương muối, động đất, sóng thần và các loại thiên tai khác.",
@@ -213,7 +230,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ngân sách nhà nước cho phòng, chống thiên tai theo dự toán chi hằng năm được sử dụng cho xây dựng chiến lược, kế hoạch phòng, chống thiên tai; đầu tư, xây dựng, tu bổ, nâng cấp công trình phòng, chống thiên tai; hoạt động phòng, chống thiên tai; hoạt động thường xuyên của cơ quan quản lý nhà nước về phòng, chống thiên tai các cấp.",
+                    "text": "Ngân sách nhà nước cho phòng, chống thiên tai theo dự toán chi hằng năm được sử dụng cho xây dựng chiến lược, kế hoạch phòng, chống thiên tai; đầu tư, xây dựng, tu bổ, nâng cấp công trình phòng, chống thiên tai; hoạt động phòng, chống thiên tai; hoạt động thường xuyên của cơ quan quản lý nhà nước về phòng, chống thiên tai các cấp. Việc lập dự toán, phân bổ, quản lý và sử dụng ngân sách nhà nước cho hoạt động phòng, chống thiên tai được thực hiện theo quy định của pháp luật về ngân sách nhà nước.",
                     "sub_clauses": []
                 },
                 {
@@ -356,7 +373,7 @@
                 },
                 {
                     "number": "10",
-                    "text": "Cố ý báo cáo sai sự thật về thiệt hại do thiên tai gây ra.",
+                    "text": "Cố ý báo cáo sai sự thật về thiệt hại do thiên tai gây ra. Chương II HOẠT ĐỘNG PHÒNG, CHỐNG THIÊN TAI Mục 1. PHÒNG NGỪA THIÊN TAI",
                     "sub_clauses": []
                 }
             ]
@@ -1012,7 +1029,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Ủy ban quốc gia tìm kiếm cứu nạn chủ trì, phối hợp với các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân cấp tỉnh tổ chức huấn luyện lực lượng tìm kiếm cứu nạn trên phạm vi toàn quốc để tham gia ứng phó thiên tai.",
+                    "text": "Ủy ban quốc gia tìm kiếm cứu nạn chủ trì, phối hợp với các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân cấp tỉnh tổ chức huấn luyện lực lượng tìm kiếm cứu nạn trên phạm vi toàn quốc để tham gia ứng phó thiên tai. Mục 2. ỨNG PHÓ THIÊN TAI",
                     "sub_clauses": []
                 }
             ]
@@ -1076,7 +1093,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Căn cứ vào bản tin dự báo, cảnh báo thiên tai, Thủ tướng Chính phủ, Ban chỉ đạo trung ương về phòng, chống thiên tai, Ủy ban quốc gia tìm kiếm cứu nạn,",
+                    "text": "Căn cứ vào bản tin dự báo, cảnh báo thiên tai, Thủ tướng Chính phủ, Ban chỉ đạo trung ương về phòng, chống thiên tai, Ủy ban quốc gia tìm kiếm cứu nạn, Ban chỉ huy phòng, chống thiên tai các bộ, Ban chỉ huy phòng, chống thiên tai và tìm kiếm cứu nạn cấp tỉnh ban hành văn bản chỉ đạo, chỉ huy triển khai thực hiện biện pháp ứng phó thiên tai theo quy định của Chính phủ.",
                     "sub_clauses": []
                 },
                 {
@@ -1126,6 +1143,11 @@
             "id": "Điều 26",
             "title": "Các biện pháp cơ bản ứng phó thiên tai",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Căn cứ vào loại thiên tai, cấp độ rủi ro thiên tai xảy ra, Ban chỉ đạo trung ương về phòng, chống thiên tai, Ủy ban quốc gia tìm kiếm cứu nạn, Ban chỉ huy phòng, chống thiên tai và tìm kiếm cứu nạn các cấp quyết định lựa chọn một hoặc một số biện pháp phù hợp sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Biện pháp cơ bản ứng phó đối với bão, áp thấp nhiệt đới, mưa lớn, lũ, lũ quét, ngập lụt, nước dâng, sạt lở đất do mưa lũ hoặc dòng chảy, sụt lún đất do mưa lũ hoặc dòng chảy được quy định như sau:",
@@ -1388,7 +1410,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trách nhiệm tìm kiếm cứu nạn được quy định như sau:",
+                    "text": "Trách nhiệm tìm kiếm cứu nạn được quy định như sau: Mục 3. KHẮC PHỤC HẬU QUẢ THIÊN TAI",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1619,7 +1641,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định cụ thể việc huy động, quyên góp và phân bổ nguồn lực cứu trợ, hỗ trợ khắc phục hậu quả thiên tai.",
+                    "text": "Chính phủ quy định cụ thể việc huy động, quyên góp và phân bổ nguồn lực cứu trợ, hỗ trợ khắc phục hậu quả thiên tai. Chương III QUYỀN VÀ NGHĨA VỤ CỦA CƠ QUAN, TỔ CHỨC, HỘ GIA ĐÌNH VÀ CÁ NHÂN TRONG PHÒNG, CHỐNG THIÊN TAI",
                     "sub_clauses": []
                 }
             ]
@@ -1849,7 +1871,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức nước ngoài, tổ chức quốc tế đang hoạt động tại Việt Nam khi tham gia hoạt động phòng, chống thiên tai có nghĩa vụ sau đây:",
+                    "text": "Tổ chức nước ngoài, tổ chức quốc tế đang hoạt động tại Việt Nam khi tham gia hoạt động phòng, chống thiên tai có nghĩa vụ sau đây: Chương IV HỢP TÁC QUỐC TẾ TRONG PHÒNG, CHỐNG THIÊN TAI",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2018,7 +2040,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương V TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ PHÒNG, CHỐNG THIÊN TAI",
                     "sub_clauses": []
                 }
             ]
@@ -2460,7 +2482,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chủ tịch Ủy ban nhân dân các cấp quyết định thành lập Ban chỉ huy phòng, chống thiên tai và tìm kiếm cứu nạn cùng cấp để giúp Uỷ ban nhân dân chỉ huy và tổ chức công tác phòng, chống thiên tai và tìm kiếm cứu nạn trên địa bàn.",
+                    "text": "Chủ tịch Ủy ban nhân dân các cấp quyết định thành lập Ban chỉ huy phòng, chống thiên tai và tìm kiếm cứu nạn cùng cấp để giúp Uỷ ban nhân dân chỉ huy và tổ chức công tác phòng, chống thiên tai và tìm kiếm cứu nạn trên địa bàn. Ban chỉ huy phòng, chống thiên tai và tìm kiếm cứu nạn các cấp do Chủ tịch Ủy ban nhân dân cùng cấp làm Trưởng ban.",
                     "sub_clauses": []
                 },
                 {
@@ -2481,7 +2503,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức vi phạm pháp luật về phòng, chống thiên tai thì tuỳ theo tính chất, mức độ vi phạm mà bị xử phạt hành chính, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+                    "text": "Tổ chức vi phạm pháp luật về phòng, chống thiên tai thì tuỳ theo tính chất, mức độ vi phạm mà bị xử phạt hành chính, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. Chương VI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2505,8 +2527,18 @@
         {
             "id": "Điều 47",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật./. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 5 thông qua ngày 19 tháng 6 năm 2013. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 5 thông qua ngày 19 tháng 6 năm 2013.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

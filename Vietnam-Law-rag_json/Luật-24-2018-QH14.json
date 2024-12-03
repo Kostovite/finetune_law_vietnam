@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -315,6 +329,13 @@
         "text": "Chính phủ quy định trình tự, thủ tục áp dụng biện pháp bảo vệ an ninh mạng, trừ biện pháp quy định tại điểm m và điểm n khoản 1 Điều này."
     },
     {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Bảo vệ không gian mạng quốc gia",
+        "text": "Nhà nước áp dụng các biện pháp để bảo vệ không gian mạng quốc gia; phòng ngừa, xử lý hành vi xâm phạm an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân trên không gian mạng."
+    },
+    {
         "id": "Điều 7.1",
         "article": "Điều 7",
         "clause": "1",
@@ -488,6 +509,13 @@
         "clause": "6",
         "title": "Các hành vi bị nghiêm cấm về an ninh mạng",
         "text": "Hành vi khác vi phạm quy định của Luật này."
+    },
+    {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Xử lý vi phạm pháp luật về an ninh mạng",
+        "text": "Người nào có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu  trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. Chương II BẢO VỆ AN NINH MẠNG ĐỐI VỚI HỆ THỐNG THÔNG TIN QUAN TRỌNG VỀ AN NINH QUỐC GIA"
     },
     {
         "id": "Điều 10.1",
@@ -2163,6 +2191,13 @@
         "text": "Kinh phí bảo vệ an ninh mạng cho hệ thống thông tin của cơ quan, tổ chức ngoài quy định tại khoản 1 Điều này do cơ quan, tổ chức tự bảo đảm. Chương VI TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN"
     },
     {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Công an",
+        "text": "Bộ Công an chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về an ninh mạng và có nhiệm vụ, quyền hạn sau đây, trừ nội dung thuộc trách nhiệm của Bộ Quốc phòng và Ban Cơ yếu Chính phủ:"
+    },
+    {
         "id": "Điều 36.1",
         "article": "Điều 36",
         "clause": "1",
@@ -2210,6 +2245,13 @@
         "clause": "7",
         "title": "Trách nhiệm của Bộ Công an",
         "text": "Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về an ninh mạng."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Quốc phòng",
+        "text": "Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về an ninh mạng trong phạm vi quản lý và có nhiệm vụ, quyền hạn sau đây:"
     },
     {
         "id": "Điều 37.1",
@@ -2287,6 +2329,13 @@
         "clause": "3",
         "title": "Trách nhiệm của Ban Cơ yếu Chính phủ",
         "text": "Thống nhất quản lý nghiên cứu khoa học, công nghệ mật mã; sản xuất, sử dụng, cung cấp sản phẩm mật mã để bảo vệ thông tin thuộc bí mật nhà nước được lưu trữ, trao đổi trên không gian mạng."
+    },
+    {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ, ngành, Ủy ban nhân dân cấp tỉnh",
+        "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ, ngành, Ủy ban nhân dân cấp tỉnh có trách nhiệm thực hiện công tác bảo vệ an ninh mạng đối với thông tin, hệ thống thông tin thuộc phạm vi quản lý; phối hợp với Bộ Công an thực hiện quản lý nhà nước về an ninh mạng của Bộ, ngành, địa phương."
     },
     {
         "id": "Điều 41.1",
@@ -2370,6 +2419,6 @@
         "article": "Điều 43",
         "clause": "3",
         "title": "Hiệu lực thi hành",
-        "text": "Hệ thống thông tin đang vận hành, sử dụng được bổ sung vào Danh mục hệ thống thông tin quan trọng về an ninh quốc gia thì trong thời hạn 12 tháng kể từ ngày được bổ sung, chủ quản hệ thống thông tin có trách nhiệm bảo đảm đủ điều kiện an ninh mạng, lực lượng chuyên trách bảo vệ an ninh mạng đánh giá điều kiện an ninh mạng theo quy định tại Điều 12 của Luật này; trường hợp cần gia hạn do Thủ tướng Chính phủ quyết định nhưng không quá 12 tháng. ------------------------------------------------------------------------------------------------------------------- Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 5 thông qua ngày 12 tháng 6 năm 2018."
+        "text": "Hệ thống thông tin đang vận hành, sử dụng được bổ sung vào Danh mục hệ thống thông tin quan trọng về an ninh quốc gia thì trong thời hạn 12 tháng kể từ ngày được bổ sung, chủ quản hệ thống thông tin có trách nhiệm bảo đảm đủ điều kiện an ninh mạng, lực lượng chuyên trách bảo vệ an ninh mạng đánh giá điều kiện an ninh mạng theo quy định tại Điều 12 của Luật này; trường hợp cần gia hạn do Thủ tướng Chính phủ quyết định nhưng không quá 12 tháng. ------------------------------------------------------------------------------------------------------------------- Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 5 thông qua ngày 12 tháng 6 năm 2018. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

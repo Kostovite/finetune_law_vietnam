@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hệ thống giáo dục nghề nghiệp; tổ chức, hoạt động của cơ sở giáo dục nghề nghiệp; quyền và nghĩa vụ của tổ chức, cá nhân tham gia hoạt động giáo dục nghề nghiệp."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với trung tâm giáo dục nghề nghiệp, trường trung cấp, trường cao đẳng; doanh nghiệp và cơ quan, tổ chức, cá nhân có liên quan đến hoạt động giáo dục nghề nghiệp tại Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -1715,6 +1736,13 @@
         "text": "Cơ sở giáo dục nghề nghiệp thực hiện chương trình đào tạo chất lượng cao được thu học phí tương xứng với chất lượng đào tạo. Thủ trưởng cơ quan quản lý nhà nước về giáo dục nghề nghiệp ở trung ương quy định tiêu chí xác định chương trình đào tạo chất lượng cao; có trách nhiệm quản lý, giám sát mức thu học phí tương xứng với chất lượng đào tạo."
     },
     {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Cơ sở vật chất, thiết bị đào tạo",
+        "text": "Cơ sở giáo dục nghề nghiệp phải bảo đảm thiết bị đào tạo theo danh mục thiết bị đào tạo tối thiểu và cơ sở vật chất theo quy định của Thủ trưởng cơ quan quản lý nhà nước về giáo dục nghề nghiệp ở trung ương."
+    },
+    {
         "id": "Điều 31.1",
         "article": "Điều 31",
         "clause": "1",
@@ -2912,6 +2940,13 @@
         "text": "Nhà nước có chính sách đầu tư đào tạo và bồi dưỡng về chuyên môn, kỹ năng, phương pháp sư phạm đối với nhà giáo đào tạo nghề nghiệp cho người khuyết tật. Mục 2 NGƯỜI HỌC"
     },
     {
+        "id": "Điều 59.0",
+        "article": "Điều 59",
+        "clause": "0",
+        "title": "Người học",
+        "text": "Người học là người đang học các chương trình giáo dục nghề nghiệp tại cơ sở hoạt động giáo dục nghề nghiệp bao gồm sinh viên của chương trình đào tạo cao đẳng; học sinh của chương trình đào tạo trung cấp và chương trình đào tạo sơ cấp; học viên của chương trình đào tạo thường xuyên quy định tại các điểm a, b, c và d khoản 1 Điều 40 của Luật này."
+    },
+    {
         "id": "Điều 60.1",
         "article": "Điều 60",
         "clause": "1",
@@ -3325,6 +3360,13 @@
         "text": "Được hưởng chính sách hỗ trợ đầu tư để nâng cao chất lượng giáo dục nghề nghiệp và được tham gia đấu thầu thực hiện chỉ tiêu giáo dục nghề nghiệp theo đơn đặt hàng của Nhà nước."
     },
     {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Sử dụng kết quả kiểm định chất lượng giáo dục nghề nghiệp",
+        "text": "Kết quả kiểm định chất lượng giáo dục nghề nghiệp được sử dụng làm căn cứ để:"
+    },
+    {
         "id": "Điều 70.1",
         "article": "Điều 70",
         "clause": "1",
@@ -3605,6 +3647,13 @@
         "text": "Chính phủ quy định cụ thể việc xử phạt vi phạm hành chính đối với hành vi vi phạm pháp luật trong lĩnh vực giáo dục nghề nghiệp."
     },
     {
+        "id": "Điều 74.0",
+        "article": "Điều 74",
+        "clause": "0",
+        "title": "Khiếu nại, tố cáo và giải quyết khiếu nại, tố cáo",
+        "text": "Việc khiếu nại, tố cáo và giải quyết khiếu nại, tố cáo trong hoạt động giáo dục nghề nghiệp thực hiện theo quy định của pháp luật. CHƯƠNG VIII ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
         "id": "Điều 75.1",
         "article": "Điều 75",
         "clause": "1",
@@ -3617,6 +3666,13 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Luật dạy nghề số 76/2006/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 76.0",
+        "article": "Điều 76",
+        "clause": "0",
+        "title": "Sửa đổi, bổ sung một số điều của Luật giáo dục",
+        "text": "Sửa đổi, bổ sung, bãi bỏ một số điều của Luật giáo dục số 38/2005/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 44/2009/QH12 như sau:"
     },
     {
         "id": "Điều 76.1",
@@ -3731,6 +3787,13 @@
         "text": "Bãi bỏ Mục 3 Chương II - Giáo dục nghề nghiệp gồm các điều 32, 33, 34, 35, 36 và 37; bãi bỏ khoản 5 Điều 30, khoản 1 Điều 38, khoản 2 Điều 39, đoạn 2 khoản 1 Điều 40, điểm a khoản 1 Điều 42, khoản 1 Điều 43, điểm d và điểm đ khoản 1 Điều 77."
     },
     {
+        "id": "Điều 77.0",
+        "article": "Điều 77",
+        "clause": "0",
+        "title": "Sửa đổi, bổ sung một số điều của Luật giáo dục đại học",
+        "text": "Sửa đổi, bổ sung, bãi bỏ một số điều của Luật giáo dục đại học số 08/2012/QH13 như sau:"
+    },
+    {
         "id": "Điều 77.1",
         "article": "Điều 77",
         "clause": "1",
@@ -3799,5 +3862,19 @@
         "clause": "3",
         "title": "Sửa đổi, bổ sung một số điều của Luật giáo dục đại học",
         "text": "Bãi bỏ điểm a khoản 2 Điều 5, điểm a khoản 1 Điều 7, đoạn 2 khoản 1 Điều 27, đoạn 2 khoản 2 Điều 27 và điểm a khoản 1 Điều 38."
+    },
+    {
+        "id": "Điều 78.0",
+        "article": "Điều 78",
+        "clause": "0",
+        "title": "Điều khoản chuyển tiếp",
+        "text": "Cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học tuyển sinh trước ngày Luật này có hiệu lực thi hành thì được tiếp tục tổ chức đào tạo, cấp bằng, chứng chỉ cho người học theo quy định của Luật giáo dục số 38/2005/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 44/2009/QH12, Luật dạy nghề số 76/2006/QH11 và Luật giáo dục đại học số 08/2012/QH13 cho đến khi kết thúc khóa học."
+    },
+    {
+        "id": "Điều 79.0",
+        "article": "Điều 79",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. ----------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 27 tháng 11 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

@@ -16,12 +16,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về vị trí, chức năng, nhiệm vụ, quyền hạn, tổ chức và hoạt động của Cảnh sát biển Việt Nam; chế độ, chính sách đối với Cảnh sát biển Việt Nam; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Bảo vệ chủ quyền, quyền chủ quyền, quyền tài phán quốc gia trong vùng biển Việt Nam là hoạt động phòng ngừa, phát hiện, đấu tranh và xử lý cơ quan, tổ chức, cá nhân vi phạm quy định của pháp luật về chủ quyền, quyền chủ quyền, quyền tài phán quốc gia trong vùng biển của nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
@@ -154,7 +165,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Hành vi khác vi phạm quy định của Luật này.",
+                    "text": "Hành vi khác vi phạm quy định của Luật này. Chương II NHIỆM VỤ, QUYỀN HẠN CỦA CẢNH SÁT BIỂN VIỆT NAM",
                     "sub_clauses": []
                 }
             ]
@@ -287,7 +298,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chịu trách nhiệm trước pháp luật và cấp trên về quyết định, hành vi của mình khi thực hiện nhiệm vụ.",
+                    "text": "Chịu trách nhiệm trước pháp luật và cấp trên về quyết định, hành vi của mình khi thực hiện nhiệm vụ. Chương III HOẠT ĐỘNG CỦA CẢNH SÁT BIỂN VIỆT NAM MỤC 1. PHẠM VI HOẠT ĐỘNG VÀ BIỆN PHÁP CÔNG TÁC CỦA CẢNH SÁT BIỂN VIỆT NAM",
                     "sub_clauses": []
                 }
             ]
@@ -319,7 +330,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tư lệnh Cảnh sát biển Việt Nam quyết định việc sử dụng các biện pháp công tác theo quy định tại khoản 1 Điều này, chịu trách nhiệm trước pháp luật và cấp trên về quyết định của mình.",
+                    "text": "Tư lệnh Cảnh sát biển Việt Nam quyết định việc sử dụng các biện pháp công tác theo quy định tại khoản 1 Điều này, chịu trách nhiệm trước pháp luật và cấp trên về quyết định của mình. MỤC 2. THỰC THI PHÁP LUẬT TRÊN BIỂN CỦA CẢNH SÁT BIỂN VIỆT NAM",
                     "sub_clauses": []
                 }
             ]
@@ -446,7 +457,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc huy động theo quy định tại khoản 1 Điều này phải phù hợp với khả năng thực tế của người, tàu thuyền và phương tiện, thiết bị kỹ thuật dân sự được huy động và phải hoàn trả ngay khi tình thế khẩn cấp chấm dứt.",
+                    "text": "Việc huy động theo quy định tại khoản 1 Điều này phải phù hợp với khả năng thực tế của người, tàu thuyền và phương tiện, thiết bị kỹ thuật dân sự được huy động và phải hoàn trả ngay khi tình thế khẩn cấp chấm dứt. Trường hợp người, tài sản được huy động làm nhiệm vụ mà bị thiệt hại thì được hưởng chế độ, chính sách, đền bù theo quy định tại khoản 3 Điều 6 của Luật này; đơn vị có cán bộ, chiến sĩ huy động có trách nhiệm giải quyết việc đền bù theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -497,7 +508,13 @@
         {
             "id": "Điều 18",
             "title": "Công bố, thông báo, thay đổi cấp độ an ninh hàng hải",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Tư lệnh Cảnh sát biển Việt Nam công bố cấp độ hoặc thay đổi cấp độ an ninh hàng hải và thực hiện việc thông báo cho cơ quan có thẩm quyền; tiếp nhận, xử lý thông tin an ninh hàng hải; thông báo các biện pháp an ninh hàng hải phù hợp cần áp dụng đối với tàu thuyền hoạt động trong vùng biển Việt Nam. MỤC 3. HỢP TÁC QUỐC TẾ CỦA CẢNH SÁT BIỂN VIỆT NAM",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 19",
@@ -582,7 +599,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Các hình thức hợp tác quốc tế khác theo quy định của pháp luật Việt Nam, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và thỏa thuận quốc tế.",
+                    "text": "Các hình thức hợp tác quốc tế khác theo quy định của pháp luật Việt Nam, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và thỏa thuận quốc tế. Chương IV PHỐI HỢP HOẠT ĐỘNG GIỮA CẢNH SÁT BIỂN VIỆT NAM VỚI CƠ QUAN, TỔ CHỨC, LỰC LƯỢNG CHỨC NĂNG",
                     "sub_clauses": []
                 }
             ]
@@ -683,7 +700,13 @@
         {
             "id": "Điều 25",
             "title": "Trách nhiệm của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh trong phối hợp hoạt động đối với Cảnh sát biển Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ trưởng Bộ Quốc phòng về hoạt động của Cảnh sát biển Việt Nam theo quy định của Chính phủ. Chương V TỔ CHỨC CỦA CẢNH SÁT BIỂN VIỆT NAM",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 26",
@@ -717,12 +740,24 @@
         {
             "id": "Điều 27",
             "title": "Ngày truyền thống của Cảnh sát biển Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngày 28 tháng 8 hằng năm là Ngày truyền thống của Cảnh sát biển Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 28",
             "title": "Tên giao dịch quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tên giao dịch quốc tế của Cảnh sát biển Việt Nam là Vietnam Coast Guard.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 29",
@@ -743,12 +778,24 @@
         {
             "id": "Điều 30",
             "title": "Con dấu của Cảnh sát biển Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cảnh sát biển Việt Nam sử dụng con dấu có hình Quốc huy trong thực hiện chức năng, nhiệm vụ, quyền hạn được giao.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 31",
             "title": "Trang phục của Cảnh sát biển Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cảnh hiệu, cấp hiệu, phù hiệu, cảnh phục, lễ phục của cán bộ, chiến sĩ Cảnh sát biển Việt Nam theo quy định của Chính phủ. Chương VI BẢO ĐẢM HOẠT ĐỘNG VÀ CHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI CẢNH SÁT BIỂN VIỆT NAM",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 32",
@@ -822,7 +869,13 @@
         {
             "id": "Điều 36",
             "title": "Đào tạo, bồi dưỡng cán bộ, chiến sĩ Cảnh sát biển Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cán bộ, chiến sĩ Cảnh sát biển Việt Nam được đào tạo, bồi dưỡng về chính trị, chuyên môn, nghiệp vụ, pháp luật, ngoại ngữ và kiến thức cần thiết khác phù hợp với nhiệm vụ và quyền hạn được giao; khuyến khích phát triển tài năng để phục vụ lâu dài trong Cảnh sát biển Việt Nam. Chương VII QUẢN LÝ NHÀ NƯỚC VÀ TRÁCH NHIỆM CỦA BỘ, CƠ QUAN NGANG BỘ, CHÍNH QUYỀN ĐỊA PHƯƠNG ĐỐI VỚI CẢNH SÁT BIỂN VIỆT NAM",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 37",
@@ -876,7 +929,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ trưởng Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước đối với Cảnh sát biển Việt Nam.",
+                    "text": "Bộ trưởng Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước đối với Cảnh sát biển Việt Nam. Tư lệnh Cảnh sát biển Việt Nam chịu trách nhiệm trước Bộ trưởng Bộ Quốc phòng về tổ chức, quản lý, chỉ huy, điều hành hoạt động của Cảnh sát biển Việt Nam.",
                     "sub_clauses": []
                 },
                 {
@@ -889,12 +942,24 @@
         {
             "id": "Điều 39",
             "title": "Trách nhiệm của Hội đồng nhân dân, Ủy ban nhân dân các cấp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hội đồng nhân dân, Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, tạo điều kiện cho Cảnh sát biển Việt Nam sử dụng quỹ đất tại địa phương để xây dựng trụ sở đóng quân, trú đậu tàu thuyền, kho tàng, bến bãi; tuyên truyền, phổ biến, giáo dục pháp luật về Cảnh sát biển Việt Nam; thực hiện chính sách về nhà ở xã hội cho cán bộ, chiến sĩ Cảnh sát biển Việt Nam theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 40",
             "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với cơ quan, tổ chức có liên quan tuyên truyền, vận động Nhân dân thực hiện pháp luật về Cảnh sát biển Việt Nam; giám sát đối với hoạt động của Cảnh sát biển Việt Nam theo quy định của pháp luật. Chương VIII ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 41",
@@ -907,11 +972,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Pháp lệnh Lực lượng Cảnh sát biển Việt Nam số 03/2008/PL-UBTVQH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.",
+                    "text": "Pháp lệnh Lực lượng Cảnh sát biển Việt Nam số 03/2008/PL-UBTVQH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua ngày 19 tháng 11 năm 2018. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua ngày 19 tháng 11 năm 2018.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

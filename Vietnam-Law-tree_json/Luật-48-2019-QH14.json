@@ -15,12 +15,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về nghĩa vụ tham gia Dân quân tự vệ; vị trí, chức năng, nhiệm vụ, nguyên tắc, tổ chức, hoạt động, chế độ, chính sách và trách nhiệm của cơ quan, tổ chức, cá nhân đối với Dân quân tự vệ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Dân quân tự vệ là lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác, được tổ chức ở địa phương gọi là dân quân, được tổ chức ở cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, đơn vị sự nghiệp, tổ chức kinh tế (sau đây gọi chung là cơ quan, tổ chức) gọi là tự vệ.",
@@ -53,7 +64,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Ban chỉ huy quân sự cơ quan, tổ chức là tổ chức được thành lập ở cơ quan, tổ chức để thực hiện công tác quốc phòng.",
+                    "text": "Ban chỉ huy quân sự cơ quan, tổ chức là tổ chức được thành lập ở cơ quan, tổ chức để thực hiện công tác quốc phòng. Ban chỉ huy quân sự cơ quan, tổ chức không bao gồm Ban chỉ huy quân sự Bộ, ngành trung ương được thành lập theo quy định của Luật Quốc phòng.",
                     "sub_clauses": []
                 },
                 {
@@ -66,7 +77,13 @@
         {
             "id": "Điều 3",
             "title": "Vị trí, chức năng của Dân quân tự vệ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Dân quân tự vệ là thành phần của lực lượng vũ trang nhân dân; là lực lượng bảo vệ Đảng, chính quyền, tính mạng, tài sản của Nhân dân, tài sản của cơ quan, tổ chức ở địa phương, cơ sở; làm nòng cốt cùng toàn dân đánh giặc ở địa phương, cơ sở khi có chiến tranh.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 4",
@@ -164,7 +181,13 @@
         {
             "id": "Điều 7",
             "title": "Ngày truyền thống của Dân quân tự vệ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngày 28 tháng 3 hằng năm là ngày truyền thống của Dân quân tự vệ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 8",
@@ -177,7 +200,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thời hạn thực hiện nghĩa vụ tham gia Dân quân tự vệ tại chỗ, Dân quân tự vệ cơ động, Dân quân tự vệ biển, Dân quân tự vệ phòng không, pháo binh, trinh sát, thông tin, công binh, phòng hóa, y tế là 04 năm; dân quân thường trực là 02 năm.",
+                    "text": "Thời hạn thực hiện nghĩa vụ tham gia Dân quân tự vệ tại chỗ, Dân quân tự vệ cơ động, Dân quân tự vệ biển, Dân quân tự vệ phòng không, pháo binh, trinh sát, thông tin, công binh, phòng hóa, y tế là 04 năm; dân quân thường trực là 02 năm. Căn cứ yêu cầu, nhiệm vụ quốc phòng, quân sự của địa phương, cơ quan, tổ chức, thời hạn thực hiện nghĩa vụ tham gia Dân quân tự vệ được kéo dài nhưng không quá 02 năm; đối với dân quân biển, tự vệ và chỉ huy đơn vị Dân quân tự vệ được kéo dài hơn nhưng không quá độ tuổi quy định tại khoản 1 Điều này.",
                     "sub_clauses": []
                 },
                 {
@@ -193,7 +216,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Việc đăng ký công dân thực hiện nghĩa vụ tham gia Dân quân tự vệ được quy định như sau:",
+                    "text": "Việc đăng ký công dân thực hiện nghĩa vụ tham gia Dân quân tự vệ được quy định như sau: Trường hợp thay đổi nơi làm việc thì người đứng đầu cơ quan, tổ chức có trách nhiệm đăng ký cho công dân thực hiện nghĩa vụ tham gia Dân quân tự vệ;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -486,7 +509,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Phân biệt đối xử về giới trong công tác Dân quân tự vệ.",
+                    "text": "Phân biệt đối xử về giới trong công tác Dân quân tự vệ. Chương II TỔ CHỨC, BIÊN CHẾ, VŨ KHÍ, TRANG BỊ CỦA DÂN QUÂN TỰ VỆ",
                     "sub_clauses": []
                 }
             ]
@@ -502,7 +525,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cấp xã tổ chức trung đội dân quân cơ động. Cấp xã ven biển, đảo tổ chức trung đội dân quân cơ động và tiểu đội hoặc trung đội dân quân biển.",
+                    "text": "Cấp xã tổ chức trung đội dân quân cơ động. Cấp xã ven biển, đảo tổ chức trung đội dân quân cơ động và tiểu đội hoặc trung đội dân quân biển. Căn cứ yêu cầu nhiệm vụ quốc phòng, quân sự, cấp xã tổ chức khẩu đội cối, tổ hoặc tiểu đội dân quân trinh sát, thông tin, công binh, phòng hóa, y tế; cấp xã trọng điểm về quốc phòng tổ chức tiểu đội hoặc trung đội dân quân thường trực.",
                     "sub_clauses": []
                 },
                 {
@@ -551,6 +574,11 @@
             "id": "Điều 17",
             "title": "Điều kiện tổ chức tự vệ trong doanh nghiệp",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Doanh nghiệp được xem xét quyết định thành lập đơn vị tự vệ khi có đủ các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Bảo đảm sự lãnh đạo của cấp ủy Đảng, sự quản lý của Ủy ban nhân dân các cấp và sự chỉ huy của cơ quan quân sự địa phương cấp tỉnh, cấp huyện;",
@@ -909,7 +937,13 @@
         {
             "id": "Điều 24",
             "title": "Trang phục, sao mũ, phù hiệu của Dân quân tự vệ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Các chức vụ chỉ huy Ban chỉ huy quân sự cấp xã, Ban chỉ huy quân sự cơ quan, tổ chức, Dân quân tự vệ được cấp phát, sử dụng trang phục, sao mũ, phù hiệu theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 25",
@@ -922,7 +956,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ trưởng Bộ Quốc phòng quy định việc trang bị, đăng ký, quản lý, sử dụng vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật của Dân quân tự vệ.",
+                    "text": "Bộ trưởng Bộ Quốc phòng quy định việc trang bị, đăng ký, quản lý, sử dụng vũ khí, vật liệu nổ quân dụng, công cụ hỗ trợ, trang thiết bị, phương tiện kỹ thuật của Dân quân tự vệ. Chương III ĐÀO TẠO CHỈ HUY TRƯỞNG BAN CHỈ HUY QUÂN SỰ CẤP XÃ; TẬP HUẤN, BỒI DƯỠNG CÁC CHỨC VỤ CHỈ HUY; HUẤN LUYỆN DÂN QUÂN TỰ VỆ",
                     "sub_clauses": []
                 }
             ]
@@ -930,7 +964,13 @@
         {
             "id": "Điều 26",
             "title": "Đào tạo Chỉ huy trưởng Ban chỉ huy quân sự cấp xã",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chỉ huy trưởng, Phó Chỉ huy trưởng Ban chỉ huy quân sự cấp xã phải được đào tạo Chỉ huy trưởng Ban chỉ huy quân sự cấp xã ngành quân sự cơ sở trình độ trung cấp, cao đẳng hoặc đại học tại nhà trường quân đội.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 27",
@@ -977,7 +1017,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ trưởng Bộ Quốc phòng quy định chương trình, nội dung, danh mục vật chất cho huấn luyện quân sự, giáo dục chính trị, pháp luật, hội thi, hội thao, diễn tập cho Dân quân tự vệ.",
+                    "text": "Bộ trưởng Bộ Quốc phòng quy định chương trình, nội dung, danh mục vật chất cho huấn luyện quân sự, giáo dục chính trị, pháp luật, hội thi, hội thao, diễn tập cho Dân quân tự vệ. Chương IV HOẠT ĐỘNG CỦA DÂN QUÂN TỰ VỆ",
                     "sub_clauses": []
                 }
             ]
@@ -1130,7 +1170,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chủ tịch Ủy ban nhân dân, người đứng đầu cơ quan, tổ chức nơi có Dân quân tự vệ được điều động phải chấp hành nghiêm quyết định điều động của cấp có thẩm quyền; tiếp nhận, bố trí công việc cho tự vệ sau khi hoàn thành nhiệm vụ.",
+                    "text": "Chủ tịch Ủy ban nhân dân, người đứng đầu cơ quan, tổ chức nơi có Dân quân tự vệ được điều động phải chấp hành nghiêm quyết định điều động của cấp có thẩm quyền; tiếp nhận, bố trí công việc cho tự vệ sau khi hoàn thành nhiệm vụ. Chương V CHẾ ĐỘ, CHÍNH SÁCH VÀ NHIỆM VỤ CHI CHO DÂN QUÂN TỰ VỆ",
                     "sub_clauses": []
                 }
             ]
@@ -1177,7 +1217,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chế độ, chính sách đối với dân quân khi làm nhiệm vụ được quy định như sau:",
+                    "text": "Chế độ, chính sách đối với dân quân khi làm nhiệm vụ được quy định như sau: Khi làm nhiệm vụ trên biển được hưởng phụ cấp đặc thù đi biển; khi làm nhiệm vụ cách xa nơi cư trú, không có điều kiện đi, về hằng ngày thì được bố trí nơi nghỉ, bảo đảm phương tiện, chi phí đi lại hoặc thanh toán tiền tàu, xe một lần đi và về;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1448,7 +1488,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Các nhiệm vụ chi khác cho tự vệ của cơ quan, đơn vị theo quy định của pháp luật.",
+                    "text": "Các nhiệm vụ chi khác cho tự vệ của cơ quan, đơn vị theo quy định của pháp luật. Chương VI TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC VỀ DÂN QUÂN TỰ VỆ",
                     "sub_clauses": []
                 }
             ]
@@ -1498,6 +1538,11 @@
             "id": "Điều 41",
             "title": "Trách nhiệm của Bộ Quốc phòng",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về Dân quân tự vệ và có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Trình Chính phủ, Thủ tướng Chính phủ ban hành và ban hành theo thẩm quyền văn bản quy phạm pháp luật về Dân quân tự vệ;",
@@ -1701,7 +1746,13 @@
         {
             "id": "Điều 45",
             "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tuyên truyền, vận động Nhân dân thực hiện pháp luật về Dân quân tự vệ; giám sát việc thực hiện pháp luật về Dân quân tự vệ. Chương VII THI ĐUA, KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 46",
@@ -1795,7 +1846,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ trưởng Bộ Quốc phòng quy định việc áp dụng các hình thức kỷ luật, trình tự, thủ tục, thời hiệu, thời hạn và thẩm quyền xử lý kỷ luật đối với Dân quân tự vệ quy định tại Điều này.",
+                    "text": "Bộ trưởng Bộ Quốc phòng quy định việc áp dụng các hình thức kỷ luật, trình tự, thủ tục, thời hiệu, thời hạn và thẩm quyền xử lý kỷ luật đối với Dân quân tự vệ quy định tại Điều này. Chương VIII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1806,7 +1857,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Sửa đổi, bổ sung một số điều của Luật Nghĩa vụ quân sự số 78/2015/QH13 như sau:",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật Nghĩa vụ quân sự số 78/2015/QH13 như sau: “a) Dân quân thường trực có ít nhất 24 tháng phục vụ thì được công nhận hoàn thành thực hiện nghĩa vụ quân sự tại ngũ trong thời bình, do Chỉ huy trưởng Ban chỉ huy quân sự cấp huyện quyết định theo đề nghị của Chủ tịch Ủy ban nhân dân cấp xã hoặc trưởng thôn nơi không có đơn vị hành chính cấp xã, người đứng đầu cơ quan, tổ chức;”; “e) Dân quân thường trực đã hoàn thành nghĩa vụ tham gia Dân quân tự vệ hoặc Dân quân tự vệ tại chỗ, Dân quân tự vệ cơ động, Dân quân tự vệ biển, Dân quân tự vệ phòng không, pháo binh, trinh sát, thông tin, công binh, phòng hóa, y tế đã qua huấn luyện tập trung đủ 03 tháng trở lên;”; “h) Dân quân thường trực.”.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1824,7 +1875,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Sửa đổi, bổ sung một số khoản của Điều 41 của Luật Sĩ quan Quân đội nhân dân Việt Nam số 16/1999/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 19/2008/QH12 và Luật số 72/2014/QH13 như sau:",
+                    "text": "Sửa đổi, bổ sung một số khoản của Điều 41 của Luật Sĩ quan Quân đội nhân dân Việt Nam số 16/1999/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 19/2008/QH12 và Luật số 72/2014/QH13 như sau: “1. Học viên tốt nghiệp đào tạo sĩ quan dự bị, học viên tốt nghiệp đào tạo Chỉ huy trưởng Ban chỉ huy quân sự cấp xã ngành quân sự cơ sở được phong quân hàm thiếu úy sĩ quan dự bị;”; “3. Căn cứ vào nhu cầu biên chế, tiêu chuẩn chức vụ của sĩ quan, kết quả học tập quân sự và thành tích phục vụ quốc phòng, sĩ quan dự bị được bổ nhiệm chức vụ trong các đơn vị dự bị động viên hoặc giữ chức vụ Chỉ huy trưởng Ban chỉ huy quân sự cấp xã được thăng cấp bậc quân hàm tương xứng với chức vụ đảm nhiệm. Bộ trưởng Bộ Quốc phòng quy định chức vụ tương đương và cấp bậc quân hàm cao nhất đối với sĩ quan dự bị đảm nhiệm chức vụ Chỉ huy trưởng Ban chỉ huy quân sự cấp xã;”.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1849,11 +1900,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Luật Dân quân tự vệ số 43/2009/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.",
+                    "text": "Luật Dân quân tự vệ số 43/2009/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. ---------------------------------------- Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 22 tháng 11 năm 2019. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 22 tháng 11 năm 2019.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Nguyễn Thị Kim Ngân"
+    ]
 }

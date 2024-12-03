@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội và Hội đồng nhân dân, Thường trực Hội đồng nhân dân, Ban của Hội đồng nhân dân, Tổ đại biểu Hội đồng nhân dân, đại biểu Hội đồng nhân dân; trách nhiệm của cơ quan, tổ chức, cá nhân chịu sự giám sát, cơ quan, tổ chức và cá nhân khác có liên quan đến hoạt động giám sát."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -1274,6 +1288,13 @@
         "text": "Quốc hội ra nghị quyết về vấn đề được kiến nghị."
     },
     {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Thẩm quyền của Quốc hội trong việc xem xét kết quả giám sát",
+        "text": "Căn cứ vào kết quả giám sát, Quốc hội có thẩm quyền sau đây:"
+    },
+    {
         "id": "Điều 21.1",
         "article": "Điều 21",
         "clause": "1",
@@ -2058,6 +2079,13 @@
         "text": "Ủy ban thường vụ Quốc hội thông qua tờ trình Quốc hội về việc bỏ phiếu tín nhiệm."
     },
     {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Thẩm quyền của Ủy ban thường vụ Quốc hội trong việc xem xét kết quả giám sát",
+        "text": "Căn cứ vào kết quả giám sát, Ủy ban thường vụ Quốc hội có thẩm quyền sau đây:"
+    },
+    {
         "id": "Điều 35.1",
         "article": "Điều 35",
         "clause": "1",
@@ -2597,6 +2625,13 @@
         "text": "Hội đồng dân tộc, Ủy ban của Quốc hội biểu quyết bằng hình thức bỏ phiếu kín."
     },
     {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Thẩm quyền của Hội đồng dân tộc, Ủy ban của Quốc hội trong việc xem xét kết quả giám sát",
+        "text": "Căn cứ vào kết quả giám sát, Hội đồng dân tộc, Ủy ban của Quốc hội có thẩm quyền sau đây:"
+    },
+    {
         "id": "Điều 46.1",
         "article": "Điều 46",
         "clause": "1",
@@ -2688,6 +2723,13 @@
         "text": "Đoàn đại biểu Quốc hội tổ chức để đại biểu Quốc hội trong Đoàn đại biểu Quốc hội thực hiện giám sát tại địa phương."
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Chương trình giám sát của đại biểu Quốc hội, Đoàn đại biểu Quốc hội",
+        "text": "Đại biểu Quốc hội lập chương trình giám sát hằng năm của mình và gửi đến Đoàn đại biểu Quốc hội. Đoàn đại biểu Quốc hội căn cứ vào chương trình giám sát của từng đại biểu Quốc hội, chương trình giám sát của Quốc hội, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, tình hình thực tế của địa phương, đề nghị của Ủy ban Mặt trận Tổ quốc Việt Nam cấp tỉnh và ý kiến, kiến nghị của cử tri tại địa phương lập chương trình giám sát hằng năm của Đoàn đại biểu Quốc hội và báo cáo Ủy ban thường vụ Quốc hội. Đoàn đại biểu Quốc hội tổ chức thực hiện các hoạt động giám sát của Đoàn đại biểu Quốc hội và tổ chức để đại biểu Quốc hội trong Đoàn đại biểu Quốc hội thực hiện chương trình giám sát của mình. Hằng năm, Đoàn đại biểu Quốc hội có trách nhiệm báo cáo Ủy ban thường vụ Quốc hội về việc thực hiện chương trình giám sát của Đoàn đại biểu Quốc hội và của các đại biểu Quốc hội trong Đoàn."
+    },
+    {
         "id": "Điều 50.1",
         "article": "Điều 50",
         "clause": "1",
@@ -2707,6 +2749,13 @@
         "clause": "3",
         "title": "Chất vấn của đại biểu Quốc hội",
         "text": "Trình tự chất vấn tại kỳ họp Quốc hội, phiên họp Ủy ban thường vụ Quốc hội được thực hiện theo quy định tại Điều 15 và Điều 26 của Luật này, Nội quy kỳ họp Quốc hội, Quy chế làm việc của Ủy ban thường vụ Quốc hội. Trường hợp đại biểu Quốc hội gửi chất vấn trực tiếp bằng văn bản đến người bị chất vấn thì chậm nhất là 20 ngày kể từ ngày chất vấn, người bị chất vấn phải trả lời bằng văn bản cho người chất vấn, đồng thời gửi đến Ủy ban thường vụ Quốc hội."
+    },
+    {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Đại biểu Quốc hội giám sát văn bản quy phạm pháp luật",
+        "text": "Đại biểu Quốc hội có trách nhiệm nghiên cứu, xem xét nội dung các văn bản quy phạm pháp luật. Trường hợp phát hiện văn bản quy phạm pháp luật có dấu hiệu trái với Hiến pháp, luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội thì đại biểu Quốc hội có quyền kiến nghị cơ quan, cá nhân có thẩm quyền sửa đổi, bổ sung, đình chỉ việc thi hành, bãi bỏ một phần hoặc toàn bộ văn bản quy phạm pháp luật đó. Nếu cơ quan, cá nhân đã ban hành văn bản không thực hiện kiến nghị hoặc thực hiện không đáp ứng với yêu cầu thì đại biểu Quốc hội báo cáo Ủy ban thường vụ Quốc hội xem xét, xử lý theo quy định của pháp luật."
     },
     {
         "id": "Điều 52.1",
@@ -3491,6 +3540,13 @@
         "clause": "4",
         "title": "Hội đồng nhân dân bỏ phiếu tín nhiệm",
         "text": "Ngoài quy định tại Điều này, trình tự bỏ phiếu tín nhiệm đối với người giữ chức vụ do Hội đồng nhân dân bầu được thực hiện theo nghị quyết của Quốc hội."
+    },
+    {
+        "id": "Điều 65.0",
+        "article": "Điều 65",
+        "clause": "0",
+        "title": "Thẩm quyền của Hội đồng nhân dân trong việc xem xét kết quả giám sát",
+        "text": "Căn cứ vào kết quả giám sát, Hội đồng nhân dân có thẩm quyền sau đây:"
     },
     {
         "id": "Điều 65.1",
@@ -4561,6 +4617,6 @@
         "article": "Điều 91",
         "clause": "2",
         "title": "Hiệu lực thi hành",
-        "text": "Luật hoạt động giám sát của Quốc hội số 05/2003/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+        "text": "Luật hoạt động giám sát của Quốc hội số 05/2003/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 10 thông qua ngày 20 tháng 11 năm 2015. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

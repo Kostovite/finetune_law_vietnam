@@ -17,7 +17,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về lập, chấp hành, kiểm toán, quyết toán, giám sát ngân sách nhà nước; nhiệm vụ, quyền hạn của các cơ quan, tổ chức, đơn vị, cá nhân có liên quan trong lĩnh vực ngân sách nhà nước.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -65,6 +71,11 @@
             "id": "Điều 4",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Bội chi ngân sách nhà nước bao gồm bội chi ngân sách trung ương và bội chi ngân sách địa phương cấp tỉnh. Bội chi ngân sách trung ương được xác định bằng chênh lệch lớn hơn giữa tổng chi ngân sách trung ương không bao gồm chi trả nợ gốc và tổng thu ngân sách trung ương. Bội chi ngân sách địa phương cấp tỉnh là tổng hợp bội chi ngân sách cấp tỉnh của từng địa phương, được xác định bằng chênh lệch lớn hơn giữa tổng chi ngân sách cấp tỉnh không bao gồm chi trả nợ gốc và tổng thu ngân sách cấp tỉnh của từng địa phương.",
@@ -439,7 +450,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Trong thời kỳ ổn định ngân sách:",
+                    "text": "Trong thời kỳ ổn định ngân sách: Trường hợp đặc biệt có phát sinh nguồn thu từ dự án mới đi vào hoạt động trong thời kỳ ổn định ngân sách làm ngân sách địa phương tăng thu lớn thì số tăng thu phải nộp về ngân sách cấp trên. Chính phủ trình Quốc hội, Uỷ ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp quyết định thu về ngân sách cấp trên số tăng thu này và thực hiện bổ sung có mục tiêu một phần cho ngân sách cấp dưới theo quy định tại điểm d khoản 3 Điều 40 của Luật này để hỗ trợ đầu tư cơ sở hạ tầng ở địa phương theo dự án được cấp có thẩm quyền phê duyệt;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -632,7 +643,13 @@
         {
             "id": "Điều 14",
             "title": "Năm ngân sách",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Năm ngân sách bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 năm dương lịch.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 15",
@@ -640,7 +657,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Dự toán ngân sách nhà nước trình Quốc hội, Hội đồng nhân dân; dự toán ngân sách nhà nước đã được cấp có thẩm quyền quyết định; báo cáo tình hình thực hiện ngân sách nhà nước; quyết toán ngân sách nhà nước được Quốc hội, Hội đồng nhân dân phê chuẩn; dự toán, tình hình thực hiện, quyết toán ngân sách của các đơn vị dự toán ngân sách, các tổ chức được ngân sách nhà nước hỗ trợ và các chương trình, dự án đầu tư xây dựng cơ bản sử dụng vốn ngân sách nhà nước được công khai theo quy định sau đây:",
+                    "text": "Dự toán ngân sách nhà nước trình Quốc hội, Hội đồng nhân dân; dự toán ngân sách nhà nước đã được cấp có thẩm quyền quyết định; báo cáo tình hình thực hiện ngân sách nhà nước; quyết toán ngân sách nhà nước được Quốc hội, Hội đồng nhân dân phê chuẩn; dự toán, tình hình thực hiện, quyết toán ngân sách của các đơn vị dự toán ngân sách, các tổ chức được ngân sách nhà nước hỗ trợ và các chương trình, dự án đầu tư xây dựng cơ bản sử dụng vốn ngân sách nhà nước được công khai theo quy định sau đây: Báo cáo dự toán ngân sách nhà nước đã được cấp có thẩm quyền quyết định, báo cáo quyết toán ngân sách nhà nước đã được cấp có thẩm quyền phê chuẩn, kết quả kiểm toán ngân sách nhà nước, kết quả thực hiện các kiến nghị của Kiểm toán nhà nước phải được công khai chậm nhất là 30 ngày kể từ ngày văn bản được ban hành. Báo cáo tình hình thực hiện ngân sách nhà nước hằng quý, 06 tháng phải được công khai chậm nhất là 15 ngày kể từ ngày kết thúc quý và 06 tháng. Báo cáo tình hình thực hiện ngân sách nhà nước hằng năm được công khai khi Chính phủ trình Quốc hội vào kỳ họp giữa năm sau.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -825,7 +842,7 @@
                 },
                 {
                     "number": "12",
-                    "text": "Các hành vi bị cấm khác trong lĩnh vực ngân sách nhà nước theo quy định của các luật có liên quan.",
+                    "text": "Các hành vi bị cấm khác trong lĩnh vực ngân sách nhà nước theo quy định của các luật có liên quan. CHƯƠNG II NHIỆM VỤ, QUYỀN HẠN CỦA CÁC CƠ QUAN NHÀ NƯỚC VÀ TRÁCH NHIỆM, NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN VỀ NGÂN SÁCH NHÀ NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -1384,7 +1401,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Đối với Hội đồng nhân dân cấp tỉnh, ngoài nhiệm vụ, quyền hạn quy định tại các khoản 1, 2, 3, 4, 5, 6, 7 và 8 Điều này còn có nhiệm vụ, quyền hạn:",
+                    "text": "Đối với Hội đồng nhân dân cấp tỉnh, ngoài nhiệm vụ, quyền hạn quy định tại các khoản 1, 2, 3, 4, 5, 6, 7 và 8 Điều này còn có nhiệm vụ, quyền hạn: Chính phủ quy định chi tiết điểm này.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1574,7 +1591,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Được cung cấp thông tin, tham gia giám sát cộng đồng về tài chính - ngân sách theo quy định của pháp luật.",
+                    "text": "Được cung cấp thông tin, tham gia giám sát cộng đồng về tài chính - ngân sách theo quy định của pháp luật. CHƯƠNG III NGUỒN THU, NHIỆM VỤ CHI CỦA NGÂN SÁCH CÁC CẤP",
                     "sub_clauses": []
                 }
             ]
@@ -2075,7 +2092,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Số bổ sung có mục tiêu từ ngân sách cấp trên cho ngân sách cấp dưới được xác định theo nguyên tắc, tiêu chí, định mức phân bổ ngân sách và các chế độ, tiêu chuẩn, định mức chi ngân sách; khả năng ngân sách cấp trên và khả năng cân đối ngân sách của từng địa phương cấp dưới, để hỗ trợ ngân sách cấp dưới trong các trường hợp sau:",
+                    "text": "Số bổ sung có mục tiêu từ ngân sách cấp trên cho ngân sách cấp dưới được xác định theo nguyên tắc, tiêu chí, định mức phân bổ ngân sách và các chế độ, tiêu chuẩn, định mức chi ngân sách; khả năng ngân sách cấp trên và khả năng cân đối ngân sách của từng địa phương cấp dưới, để hỗ trợ ngân sách cấp dưới trong các trường hợp sau: CHƯƠNG IV LẬP DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2443,7 +2460,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp dự toán ngân sách địa phương, phương án phân bổ ngân sách cấp mình chưa được Hội đồng nhân dân quyết định, Uỷ ban nhân dân lập lại dự toán ngân sách địa phương, phương án phân bổ ngân sách cấp mình, trình Hội đồng nhân dân vào thời gian do Hội đồng nhân dân quyết định, nhưng không được chậm hơn thời hạn Chính phủ quy định.",
+                    "text": "Trường hợp dự toán ngân sách địa phương, phương án phân bổ ngân sách cấp mình chưa được Hội đồng nhân dân quyết định, Uỷ ban nhân dân lập lại dự toán ngân sách địa phương, phương án phân bổ ngân sách cấp mình, trình Hội đồng nhân dân vào thời gian do Hội đồng nhân dân quyết định, nhưng không được chậm hơn thời hạn Chính phủ quy định. CHƯƠNG V CHẤP HÀNH NGÂN SÁCH NHÀ NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -2810,7 +2827,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Số tăng thu, trừ tăng thu của ngân sách địa phương do phát sinh nguồn thu từ dự án mới đi vào hoạt động trong thời kỳ ổn định ngân sách phải nộp về ngân sách cấp trên và số tiết kiệm chi ngân sách so với dự toán được sử dụng theo thứ tự ưu tiên như sau:",
+                    "text": "Số tăng thu, trừ tăng thu của ngân sách địa phương do phát sinh nguồn thu từ dự án mới đi vào hoạt động trong thời kỳ ổn định ngân sách phải nộp về ngân sách cấp trên và số tiết kiệm chi ngân sách so với dự toán được sử dụng theo thứ tự ưu tiên như sau: Chính phủ lập phương án sử dụng số tăng thu và tiết kiệm chi của ngân sách trung ương, báo cáo Uỷ ban thường vụ Quốc hội quyết định và báo cáo Quốc hội tại kỳ họp gần nhất. Uỷ ban nhân dân lập phương án sử dụng số tăng thu và tiết kiệm chi ngân sách cấp mình, báo cáo Thường trực Hội đồng nhân dân quyết định và báo cáo Hội đồng nhân dân tại kỳ họp gần nhất. Đối với số tăng thu ngân sách địa phương do có phát sinh nguồn thu mới trong thời kỳ ổn định ngân sách thực hiện theo quy định tại điểm d khoản 7 Điều 9 của Luật này.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2845,7 +2862,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Thưởng vượt dự toán các khoản thu phân chia giữa các cấp ngân sách:",
+                    "text": "Thưởng vượt dự toán các khoản thu phân chia giữa các cấp ngân sách: Căn cứ vào mức thưởng do Ủy ban thường vụ Quốc hội quyết định, Uỷ ban nhân dân cấp tỉnh báo cáo Hội đồng nhân dân cùng cấp quyết định sử dụng số thưởng vượt thu được hưởng để đầu tư xây dựng các chương trình, dự án kết cấu hạ tầng, thực hiện các nhiệm vụ quan trọng, thưởng cho ngân sách cấp dưới;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2937,7 +2954,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chế độ quản lý ngân quỹ nhà nước.",
+                    "text": "Chính phủ quy định chế độ quản lý ngân quỹ nhà nước. CHƯƠNG VI KẾ TOÁN, KIỂM TOÁN VÀ QUYẾT TOÁN NGÂN SÁCH NHÀ NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -3133,7 +3150,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Kết thúc việc xét duyệt quyết toán năm, đơn vị dự toán cấp trên ra thông báo duyệt quyết toán gửi đơn vị dự toán cấp dưới; đối với đơn vị dự toán cấp I gửi đơn vị dự toán cấp dưới và gửi cơ quan tài chính cùng cấp để thẩm định theo quy định.",
+                    "text": "Kết thúc việc xét duyệt quyết toán năm, đơn vị dự toán cấp trên ra thông báo duyệt quyết toán gửi đơn vị dự toán cấp dưới; đối với đơn vị dự toán cấp I gửi đơn vị dự toán cấp dưới và gửi cơ quan tài chính cùng cấp để thẩm định theo quy định. Cơ quan tài chính ra thông báo xét duyệt quyết toán đối với các đơn vị dự toán cấp I đồng thời là đơn vị sử dụng ngân sách.",
                     "sub_clauses": []
                 },
                 {
@@ -3225,7 +3242,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Kết thúc quá trình thẩm định quyết toán năm, cơ quan tài chính ra thông báo thẩm định quyết toán kèm theo nhận xét, kiến nghị gửi đơn vị dự toán cấp I hoặc Uỷ ban nhân dân cấp dưới để thực hiện.",
+                    "text": "Kết thúc quá trình thẩm định quyết toán năm, cơ quan tài chính ra thông báo thẩm định quyết toán kèm theo nhận xét, kiến nghị gửi đơn vị dự toán cấp I hoặc Uỷ ban nhân dân cấp dưới để thực hiện. Trường hợp phát hiện có sai sót, cơ quan tài chính yêu cầu đơn vị dự toán cấp I điều chỉnh lại số liệu quyết toán; đối với quyết toán ngân sách cấp dưới, cơ quan tài chính cấp trên yêu cầu Uỷ ban nhân dân cấp dưới trình Hội đồng nhân dân cùng cấp điều chỉnh lại số liệu quyết toán. Trường hợp phát hiện sai phạm, cơ quan tài chính xử lý theo thẩm quyền hoặc đề nghị cơ quan có thẩm quyền xử lý theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -3264,7 +3281,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Căn cứ vào quyết toán của đơn vị sử dụng ngân sách đã được duyệt, đơn vị dự toán cấp trên lập báo cáo quyết toán ngân sách nhà nước thuộc phạm vi quản lý gửi đơn vị dự toán cấp trên trực tiếp; đối với đơn vị dự toán cấp I gửi cơ quan tài chính cùng cấp.",
+                    "text": "Căn cứ vào quyết toán của đơn vị sử dụng ngân sách đã được duyệt, đơn vị dự toán cấp trên lập báo cáo quyết toán ngân sách nhà nước thuộc phạm vi quản lý gửi đơn vị dự toán cấp trên trực tiếp; đối với đơn vị dự toán cấp I gửi cơ quan tài chính cùng cấp. Đơn vị dự toán cấp I quy định thời hạn các đơn vị dự toán trực thuộc gửi báo cáo quyết toán, nhưng phải bảo đảm gửi báo cáo quyết toán cho cơ quan tài chính cùng cấp theo thời hạn quy định.",
                     "sub_clauses": []
                 }
             ]
@@ -3295,7 +3312,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Hội đồng nhân dân cấp xã xem xét, phê chuẩn báo cáo quyết toán ngân sách cấp mình, gửi Uỷ ban nhân dân cấp huyện chậm nhất là 05 ngày làm việc, kể từ ngày báo cáo quyết toán được phê chuẩn. Uỷ ban nhân dân cấp huyện tổng hợp, lập quyết toán ngân sách huyện trình Hội đồng nhân dân cấp huyện phê chuẩn, gửi Uỷ ban nhân dân cấp tỉnh chậm nhất là 05 ngày làm việc, kể từ ngày báo cáo quyết toán được phê chuẩn. Uỷ ban nhân dân cấp tỉnh tổng hợp, lập quyết toán ngân sách địa phương trình Hội đồng nhân dân cấp tỉnh phê chuẩn quyết toán ngân sách địa phương trước ngày 31 tháng 12 năm sau.",
+                    "text": "Hội đồng nhân dân cấp xã xem xét, phê chuẩn báo cáo quyết toán ngân sách cấp mình, gửi Uỷ ban nhân dân cấp huyện chậm nhất là 05 ngày làm việc, kể từ ngày báo cáo quyết toán được phê chuẩn. Uỷ ban nhân dân cấp huyện tổng hợp, lập quyết toán ngân sách huyện trình Hội đồng nhân dân cấp huyện phê chuẩn, gửi Uỷ ban nhân dân cấp tỉnh chậm nhất là 05 ngày làm việc, kể từ ngày báo cáo quyết toán được phê chuẩn. Uỷ ban nhân dân cấp tỉnh tổng hợp, lập quyết toán ngân sách địa phương trình Hội đồng nhân dân cấp tỉnh phê chuẩn quyết toán ngân sách địa phương trước ngày 31 tháng 12 năm sau. Hội đồng nhân dân cấp tỉnh quy định cụ thể thời hạn phê chuẩn quyết toán ngân sách cấp xã, cấp huyện và quy định cụ thể thời hạn Uỷ ban nhân dân gửi báo cáo quyết toán ngân sách đến các cơ quan quy định tại khoản 2 và khoản 3 Điều này.",
                     "sub_clauses": []
                 },
                 {
@@ -3391,7 +3408,13 @@
         {
             "id": "Điều 73",
             "title": "Xử lý các khoản thu, chi ngân sách nhà nước không đúng quy định sau khi quyết toán ngân sách nhà nước được phê chuẩn",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Sau khi quyết toán ngân sách nhà nước và ngân sách các cấp chính quyền địa phương đã được cấp có thẩm quyền phê chuẩn, trường hợp phát hiện thu, chi ngân sách không đúng quy định thì thực hiện xử lý theo quy định tại khoản 8 Điều 65 của Luật này và được quyết toán vào ngân sách năm xử lý. CHƯƠNG VII ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 74",
@@ -3453,8 +3476,19 @@
         {
             "id": "Điều 77",
             "title": "Quy định chi tiết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết các điều, khoản được giao trong Luật. --------------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 9 thông qua ngày 25 tháng 6 năm 2015. CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 9 thông qua ngày 25 tháng 6 năm 2015.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "(Đã ký)",
+        "Nguyễn Sinh Hùng"
+    ]
 }

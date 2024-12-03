@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động hóa chất, an toàn trong hoạt động hóa chất, quyền và nghĩa vụ của tổ chức, cá nhân tham gia hoạt động hóa chất, quản lý nhà nước về hoạt động hóa chất."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, cá nhân tham gia hoạt động hóa chất; tổ chức, cá nhân liên quan đến hoạt động hóa chất trên lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam."
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -19,6 +33,13 @@
         "clause": "3",
         "title": "Áp dụng pháp luật",
         "text": "Trường hợp quy định của Luật này khác với quy định của điều ước quốc tế liên quan đến hóa chất và hoạt động hóa chất mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên thì thực hiện theo quy định của điều ước quốc tế đó."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 4.1",
@@ -735,6 +756,13 @@
         "text": "Trường hợp xảy ra sự cố trong quá trình vận chuyển, người điều khiển phương tiện, chủ hàng, chủ phương tiện có trách nhiệm áp dụng các biện pháp cần thiết để hạn chế hậu quả, khắc phục sự cố, đồng thời thông báo cho Ủy ban nhân dân và cơ quan có liên quan nơi gần nhất."
     },
     {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Cất giữ, bảo quản hóa chất nguy hiểm trong sản xuất, kinh doanh hóa chất",
+        "text": "Tổ chức, cá nhân sản xuất, kinh doanh cất giữ, bảo quản hóa chất nguy hiểm phải bảo đảm các yêu cầu sau đây:"
+    },
+    {
         "id": "Điều 21.1",
         "article": "Điều 21",
         "clause": "1",
@@ -810,6 +838,13 @@
         "clause": "4",
         "title": "Kiểm soát mua, bán hóa chất độc",
         "text": "Bộ Công thương quy định mẫu phiếu kiểm soát mua, bán hóa chất độc."
+    },
+    {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Xuất khẩu, nhập khẩu, tạm nhập tái xuất, vận chuyển quá cảnh hóa chất",
+        "text": "Việc xuất khẩu, nhập khẩu, tạm nhập tái xuất, vận chuyển quá cảnh hóa chất phải tuân thủ các quy định của Luật này, các quy định khác của pháp luật có liên quan và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
     },
     {
         "id": "Điều 25.1",
@@ -1428,6 +1463,13 @@
         "text": "Tổ chức, cá nhân đề nghị phê duyệt Kế hoạch phòng ngừa, ứng phó sự cố hóa chất phải nộp phí theo quy định của pháp luật."
     },
     {
+        "id": "Điều 41.0",
+        "article": "Điều 41",
+        "clause": "0",
+        "title": "Thẩm quyền phê duyệt Kế hoạch phòng ngừa, ứng phó sự cố hóa chất",
+        "text": "Bộ quản lý ngành, lĩnh vực chủ trì, phối hợp với cơ quan quản lý nhà nước về phòng cháy, chữa cháy, Bộ Công thương và cơ quan quản lý nhà nước có liên quan tổ chức thẩm định, phê duyệt Kế hoạch phòng ngừa, ứng phó sự cố hóa chất."
+    },
+    {
         "id": "Điều 42.1",
         "article": "Điều 42",
         "clause": "1",
@@ -1680,6 +1722,13 @@
         "text": "Khi đã có kết luận chính thức của cơ quan nhà nước có thẩm quyền về đặc tính nguy hiểm mới của hóa chất, tổ chức, cá nhân sản xuất, nhập khẩu hóa chất đó có trách nhiệm sửa đổi, bổ sung nhãn và phiếu an toàn hóa chất phù hợp với các đặc tính nguy hiểm mới."
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Nghĩa vụ cung cấp thông tin",
+        "text": "Tổ chức, cá nhân hoạt động hóa chất có nghĩa vụ cung cấp đầy đủ, kịp thời, chính xác thông tin theo yêu cầu của cơ quan có thẩm quyền trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 49.1",
         "article": "Điều 49",
         "clause": "1",
@@ -1813,6 +1862,13 @@
         "text": "Trong trường hợp cơ sở hoạt động hóa chất có nhiều chi nhánh thì dữ liệu thông tin hóa chất nguy hiểm phải bao gồm tất cả các thông tin có liên quan của cơ sở, các chi nhánh."
     },
     {
+        "id": "Điều 54.0",
+        "article": "Điều 54",
+        "clause": "0",
+        "title": "Thời hạn lưu giữ các báo cáo",
+        "text": "Cơ quan, tổ chức tiếp nhận báo cáo hóa chất quy định tại Điều 46, Điều 52 của Luật này phải lưu giữ các tài liệu nói trên ít nhất là mười năm."
+    },
+    {
         "id": "Điều 55.1",
         "article": "Điều 55",
         "clause": "1",
@@ -1825,6 +1881,13 @@
         "clause": "2",
         "title": "Danh mục hóa chất quốc gia và Cơ sở dữ liệu hóa chất quốc gia",
         "text": "Danh mục hóa chất quốc gia và Cơ sở dữ liệu hóa chất quốc gia phải được xây dựng hiện đại, phù hợp với thông lệ quốc tế, được công bố công khai và cập nhật thường xuyên. Chương viii BẢO VỆ MÔI TRƯỜNG VÀ AN TOÀN CHO CỘNG ĐỒNG"
+    },
+    {
+        "id": "Điều 56.0",
+        "article": "Điều 56",
+        "clause": "0",
+        "title": "Trách nhiệm bảo vệ môi trường và an toàn cho cộng đồng",
+        "text": "Tổ chức, cá nhân hoạt động hóa chất, liên quan đến hoạt động hóa chất có trách nhiệm thực hiện đầy đủ các quy định về an toàn hóa chất theo quy định của Luật này, pháp luật về bảo vệ môi trường, bảo vệ sức khỏe nhân dân, an toàn lao động và các quy định khác của pháp luật có liên quan."
     },
     {
         "id": "Điều 57.1",
@@ -1888,6 +1951,13 @@
         "clause": "2b",
         "title": "Quyền và nghĩa vụ của tổ chức, cá nhân trong việc bảo vệ môi trường và an toàn cho cộng đồng",
         "text": "Tạo điều kiện thuận lợi để cơ quan, tổ chức hữu quan khắc phục sự cố hóa chất."
+    },
+    {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Công khai thông tin về an toàn hóa chất",
+        "text": "Tổ chức, cá nhân hoạt động hóa chất có trách nhiệm phối hợp với chính quyền địa phương phổ biến công khai cho cộng đồng dân cư nơi có cơ sở hoạt động hóa chất thông tin về an toàn hóa chất sau đây:"
     },
     {
         "id": "Điều 58.1",
@@ -2198,6 +2268,13 @@
         "text": "Cá nhân lợi dụng chức vụ, quyền hạn cửa quyền, hách dịch, gây khó khăn, phiền hà cho tổ chức, cá nhân hoạt động hóa chất; bao che cho người vi phạm pháp luật về hoạt động hóa chất hoặc thiếu trách nhiệm để xảy ra ô nhiễm, sự cố hóa chất thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
     },
     {
+        "id": "Điều 68.0",
+        "article": "Điều 68",
+        "clause": "0",
+        "title": "Giải quyết tranh chấp trong hoạt động hóa chất",
+        "text": "Giải quyết tranh chấp trong hoạt động hóa chất được thực hiện bằng những hình thức sau đây:"
+    },
+    {
         "id": "Điều 68.1",
         "article": "Điều 68",
         "clause": "1",
@@ -2231,5 +2308,19 @@
         "clause": "2",
         "title": "Điều khoản chuyển tiếp",
         "text": "Tổ chức, cá nhân đang hoạt động hóa chất phải xây dựng Biện pháp phòng ngừa, ứng phó sự cố hóa chất, Kế hoạch phòng ngừa, ứng phó sự cố hóa chất theo quy định của Luật này trong thời hạn sáu tháng, kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2008."
+    },
+    {
+        "id": "Điều 71.0",
+        "article": "Điều 71",
+        "clause": "0",
+        "title": "Hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 2 thông qua ngày 21 tháng 11 năm 2007. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

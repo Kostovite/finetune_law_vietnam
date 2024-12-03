@@ -15,17 +15,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về điều tra cơ bản về dầu khí và hoạt động dầu khí trong phạm vi đất liền, hải đảo và vùng biển của nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam và nước ngoài có liên quan đến điều tra cơ bản về dầu khí và hoạt động dầu khí.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Dầu khí bao gồm dầu thô, khí thiên nhiên và hydrocarbon ở thể rắn hoặc nửa rắn trong trạng thái tự nhiên, dầu khí phi truyền thống. Dầu khí phi truyền thống bao gồm khí than, dầu đá phiến hoặc dầu sét, khí đá phiến hoặc khí sét, băng cháy, bitum hoặc các dạng khác có thể tồn tại.",
@@ -437,7 +454,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Tham nhũng, thất thoát, lãng phí trong thực hiện điều tra cơ bản về dầu khí và hoạt động dầu khí.",
+                    "text": "Tham nhũng, thất thoát, lãng phí trong thực hiện điều tra cơ bản về dầu khí và hoạt động dầu khí. Chương II ĐIỀU TRA CƠ BẢN VỀ DẦU KHÍ",
                     "sub_clauses": []
                 }
             ]
@@ -448,7 +465,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Căn cứ chiến lược, quy hoạch về năng lượng, tài nguyên khoáng sản và đề xuất của các tổ chức đáp ứng điều kiện quy định tại Điều 12 của Luật này, Bộ Công Thương chủ trì, phối hợp với Bộ Tài nguyên và Môi trường và các Bộ, cơ quan có liên quan xây dựng danh mục đề án điều tra cơ bản về dầu khí bảo đảm tính tổng thể, đồng bộ trình Thủ tướng Chính phủ phê duyệt. Trong danh mục đề án điều tra cơ bản về dầu khí có các nội dung về tổ chức chủ trì thực hiện, nguồn kinh phí và dự toán kinh phí thực hiện, thời gian thực hiện, hình thức tổ chức thực hiện điều tra cơ bản về dầu khí.",
+                    "text": "Căn cứ chiến lược, quy hoạch về năng lượng, tài nguyên khoáng sản và đề xuất của các tổ chức đáp ứng điều kiện quy định tại Điều 12 của Luật này, Bộ Công Thương chủ trì, phối hợp với Bộ Tài nguyên và Môi trường và các Bộ, cơ quan có liên quan xây dựng danh mục đề án điều tra cơ bản về dầu khí bảo đảm tính tổng thể, đồng bộ trình Thủ tướng Chính phủ phê duyệt. Trong danh mục đề án điều tra cơ bản về dầu khí có các nội dung về tổ chức chủ trì thực hiện, nguồn kinh phí và dự toán kinh phí thực hiện, thời gian thực hiện, hình thức tổ chức thực hiện điều tra cơ bản về dầu khí. Trường hợp đề xuất thực hiện điều tra cơ bản về dầu khí tại khu vực đã được giao thực hiện công tác điều tra cơ bản địa chất về khoáng sản hoặc thăm dò, khai thác khoáng sản theo quy định của pháp luật về khoáng sản, Thủ tướng Chính phủ quyết định việc phối hợp thực hiện giữa các tổ chức, cá nhân liên quan trên cơ sở bảo đảm hiệu quả cao nhất, tối đa lợi ích quốc gia.",
                     "sub_clauses": []
                 },
                 {
@@ -609,7 +626,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương III LỰA CHỌN NHÀ THẦU KÝ KẾT HỢP ĐỒNG DẦU KHÍ",
                     "sub_clauses": []
                 }
             ]
@@ -618,6 +635,11 @@
             "id": "Điều 15",
             "title": "Hình thức lựa chọn nhà thầu",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Việc lựa chọn nhà thầu ký kết hợp đồng dầu khí tại lô dầu khí mở được thực hiện thông qua một trong các hình thức sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Đấu thầu rộng rãi;",
@@ -644,6 +666,11 @@
             "id": "Điều 16",
             "title": "Điều kiện tham gia đấu thầu lựa chọn nhà thầu",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân tham gia đấu thầu lựa chọn nhà thầu ký kết hợp đồng dầu khí phải đáp ứng các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tổ chức có đăng ký thành lập, hoạt động được cấp theo quy định pháp luật của quốc gia bên dự thầu; cá nhân có năng lực hành vi dân sự đầy đủ theo quy định pháp luật của quốc gia mà cá nhân đó là công dân;",
@@ -888,6 +915,11 @@
             "title": "Xét duyệt kết quả lựa chọn nhà thầu",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Nhà thầu được đề nghị lựa chọn khi đáp ứng các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Hồ sơ dự thầu, hồ sơ chào thầu cạnh tranh, hồ sơ đề xuất hợp lệ;",
                     "sub_clauses": []
@@ -958,7 +990,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bên dự thầu được hoàn trả bảo đảm dự thầu khi không trúng thầu hoặc sau khi hợp đồng dầu khí được ký kết.",
+                    "text": "Bên dự thầu được hoàn trả bảo đảm dự thầu khi không trúng thầu hoặc sau khi hợp đồng dầu khí được ký kết. Chương IV HỢP ĐỒNG DẦU KHÍ",
                     "sub_clauses": []
                 }
             ]
@@ -1285,6 +1317,11 @@
             "title": "Mức thu hồi chi phí trong hợp đồng dầu khí",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Các bên tham gia hợp đồng dầu khí có thể thỏa thuận mức thu hồi chi phí của nhà thầu trong hợp đồng dầu khí theo quy định sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tối đa 50% sản lượng dầu khí khai thác được trong năm đối với hợp đồng dầu khí áp dụng cho lô dầu khí thông thường;",
                     "sub_clauses": []
@@ -1304,7 +1341,13 @@
         {
             "id": "Điều 34",
             "title": "Ngôn ngữ của hợp đồng dầu khí",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngôn ngữ sử dụng trong hợp đồng dầu khí và các tài liệu kèm theo hợp đồng là tiếng Việt và tiếng Anh hoặc một tiếng nước ngoài thông dụng khác do các bên thỏa thuận. Bản tiếng Việt và tiếng Anh hoặc bản tiếng nước ngoài thông dụng khác có giá trị pháp lý ngang nhau.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 35",
@@ -1359,7 +1402,13 @@
         {
             "id": "Điều 37",
             "title": "Giải quyết tranh chấp phát sinh từ hợp đồng dầu khí",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Các tranh chấp phát sinh từ hợp đồng dầu khí trước hết phải được giải quyết thông qua thương lượng, hòa giải. Trường hợp không thương lượng, hòa giải được thì tranh chấp có thể giải quyết tại Trọng tài hoặc Tòa án được quy định trong hợp đồng dầu khí phù hợp với quy định của Luật Đầu tư và luật khác có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 38",
@@ -1487,7 +1536,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Thủ tướng Chính phủ quyết định cơ chế điều hành hoạt động khai thác tận thu mỏ, cụm mỏ, lô dầu khí trong trường hợp quy định tại điểm c khoản 2 và điểm b khoản 3 Điều này.",
+                    "text": "Thủ tướng Chính phủ quyết định cơ chế điều hành hoạt động khai thác tận thu mỏ, cụm mỏ, lô dầu khí trong trường hợp quy định tại điểm c khoản 2 và điểm b khoản 3 Điều này. Chương V HOẠT ĐỘNG DẦU KHÍ",
                     "sub_clauses": []
                 }
             ]
@@ -2326,7 +2375,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định về hồ sơ, trình tự, thủ tục trình, thẩm định, phê duyệt việc để lại, hoãn thu dọn hoặc thực hiện thu dọn một phần hay toàn bộ công trình dầu khí.",
+                    "text": "Chính phủ quy định về hồ sơ, trình tự, thủ tục trình, thẩm định, phê duyệt việc để lại, hoãn thu dọn hoặc thực hiện thu dọn một phần hay toàn bộ công trình dầu khí. Chương VI ƯU ĐÃI TRONG HOẠT ĐỘNG DẦU KHÍ VÀ CHÍNH SÁCH KHAI THÁC TÀI NGUYÊN ĐỐI VỚI MỎ, CỤM MỎ, LÔ DẦU KHÍ KHAI THÁC TẬN THU",
                     "sub_clauses": []
                 }
             ]
@@ -2464,7 +2513,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương VII CÔNG TÁC KẾ TOÁN, KIỂM TOÁN, QUYẾT TOÁN ĐỐI VỚI HOẠT ĐỘNG DẦU KHÍ",
                     "sub_clauses": []
                 }
             ]
@@ -2506,7 +2555,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương VIII QUYỀN VÀ NGHĨA VỤ CỦA NHÀ THẦU",
                     "sub_clauses": []
                 }
             ]
@@ -2660,7 +2709,7 @@
                 },
                 {
                     "number": "13",
-                    "text": "Nghĩa vụ khác theo quy định của Luật này và luật khác có liên quan.",
+                    "text": "Nghĩa vụ khác theo quy định của Luật này và luật khác có liên quan. Chương IX CHỨC NĂNG, QUYỀN VÀ NGHĨA VỤ CỦA TẬP ĐOÀN DẦU KHÍ VIỆT NAM TRONG ĐIỀU TRA CƠ BẢN VỀ DẦU KHÍ VÀ HOẠT ĐỘNG DẦU KHÍ",
                     "sub_clauses": []
                 }
             ]
@@ -2788,6 +2837,11 @@
             "title": "Phê duyệt việc sử dụng vốn của Tập đoàn Dầu khí Việt Nam và doanh nghiệp 100% vốn của Tập đoàn Dầu khí Việt Nam trong hoạt động dầu khí",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Hội đồng thành viên Tập đoàn Dầu khí Việt Nam chịu trách nhiệm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Phê duyệt việc sử dụng vốn của Tập đoàn Dầu khí Việt Nam và doanh nghiệp 100% vốn của Tập đoàn Dầu khí Việt Nam không phụ thuộc vào mức vốn góp sau khi được phê duyệt theo quy định của Luật này trong các trường hợp sau đây:",
                     "sub_clauses": [
@@ -2834,7 +2888,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Tập đoàn Dầu khí Việt Nam được sử dụng tiền từ việc bán phần sản phẩm dầu, khí lãi của nước chủ nhà từ các hợp đồng dầu khí trước khi xác định lãi được chia cho nước chủ nhà nộp ngân sách nhà nước để thanh toán các chi phí, nghĩa vụ sau đây:",
+                    "text": "Tập đoàn Dầu khí Việt Nam được sử dụng tiền từ việc bán phần sản phẩm dầu, khí lãi của nước chủ nhà từ các hợp đồng dầu khí trước khi xác định lãi được chia cho nước chủ nhà nộp ngân sách nhà nước để thanh toán các chi phí, nghĩa vụ sau đây: Chương X QUẢN LÝ NHÀ NƯỚC VÀ TRÁCH NHIỆM CỦA ỦY BAN QUẢN LÝ VỐN NHÀ NƯỚC TẠI DOANH NGHIỆP VỀ ĐIỀU TRA CƠ BẢN VỀ DẦU KHÍ VÀ HOẠT ĐỘNG DẦU KHÍ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2921,7 +2975,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Kiểm tra, giám sát việc góp vốn tham gia hợp đồng dầu khí, chuyển nhượng quyền lợi tham gia trong hợp đồng dầu khí, thực hiện hoạt động dầu khí theo các giai đoạn của hợp đồng dầu khí, dự án dầu khí của Tập đoàn Dầu khí Việt Nam.",
+                    "text": "Kiểm tra, giám sát việc góp vốn tham gia hợp đồng dầu khí, chuyển nhượng quyền lợi tham gia trong hợp đồng dầu khí, thực hiện hoạt động dầu khí theo các giai đoạn của hợp đồng dầu khí, dự án dầu khí của Tập đoàn Dầu khí Việt Nam. Chương XI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2932,12 +2986,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Sửa đổi, bổ sung khoản 3 Điều 10 của Luật Thuế thu nhập doanh nghiệp số 14/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 71/2014/QH13 và Luật số 61/2020/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 3 Điều 10 của Luật Thuế thu nhập doanh nghiệp số 14/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 32/2013/QH13, Luật số 71/2014/QH13 và Luật số 61/2020/QH14 như sau: Thay thế cụm từ “Thuế suất thuế thu nhập doanh nghiệp đối với hoạt động tìm kiếm, thăm dò, khai thác dầu, khí và tài nguyên quý hiếm khác tại Việt Nam từ 32% đến 50% phù hợp với từng dự án, từng cơ sở kinh doanh.” bằng cụm từ “Thuế suất thuế thu nhập doanh nghiệp đối với hoạt động dầu khí từ 25% đến 50% phù hợp với từng hợp đồng dầu khí; thuế suất thuế thu nhập doanh nghiệp đối với hoạt động tìm kiếm, thăm dò, khai thác tài nguyên quý hiếm khác tại Việt Nam từ 32% đến 50% phù hợp với từng dự án, từng cơ sở kinh doanh.”.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Sửa đổi, bổ sung khoản 1 Điều 3 của Luật Thuế tài nguyên số 45/2009/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 71/2014/QH13 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 1 Điều 3 của Luật Thuế tài nguyên số 45/2009/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 71/2014/QH13 như sau: “1. Người nộp thuế tài nguyên là tổ chức, cá nhân khai thác tài nguyên thuộc đối tượng chịu thuế tài nguyên, trừ trường hợp khai thác tài nguyên đối với mỏ, cụm mỏ, lô dầu khí khai thác tận thu theo quy định của pháp luật về dầu khí.”.",
                     "sub_clauses": []
                 }
             ]
@@ -2979,11 +3033,15 @@
                 },
                 {
                     "number": "4",
-                    "text": "Hoạt động vận hành khai thác tận thu theo cơ chế điều hành đã được phê duyệt trước ngày Luật này có hiệu lực thi hành thì tiếp tục thực hiện theo quyết định đã được ban hành và quy định của pháp luật trước ngày Luật này có hiệu lực thi hành.",
+                    "text": "Hoạt động vận hành khai thác tận thu theo cơ chế điều hành đã được phê duyệt trước ngày Luật này có hiệu lực thi hành thì tiếp tục thực hiện theo quyết định đã được ban hành và quy định của pháp luật trước ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 4 thông qua ngày 14 tháng 11 năm 2022. CHỦ TỊCH QUỐC HỘI Đã ký: Vương Đình Huệ",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 4 thông qua ngày 14 tháng 11 năm 2022.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Vương Đình Huệ"
+    ]
 }

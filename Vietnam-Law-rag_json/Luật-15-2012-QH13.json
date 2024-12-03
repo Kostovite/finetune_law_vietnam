@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về xử phạt vi phạm hành chính và các biện pháp xử lý hành chính."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -203,6 +217,13 @@
         "text": "Người có thẩm quyền áp dụng biện pháp xử lý hành chính có trách nhiệm chứng minh vi phạm hành chính. Cá nhân bị áp dụng biện pháp xử lý hành chính có quyền tự mình hoặc thông qua người đại diện hợp pháp chứng minh mình không vi phạm hành chính."
     },
     {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Thẩm quyền quy định về xử phạt vi phạm hành chính trong các lĩnh vực quản lý nhà nước và chế độ áp dụng các biện pháp xử lý hành chính",
+        "text": "Căn cứ quy định của Luật này, Chính phủ quy định hành vi vi phạm hành chính; hình thức xử phạt, mức xử phạt, biện pháp khắc phục hậu quả đối với từng hành vi vi phạm hành chính; thẩm quyền xử phạt, mức phạt tiền cụ thể theo từng chức danh và thẩm quyền lập biên bản đối với vi phạm hành chính trong từng lĩnh vực quản lý nhà nước; chế độ áp dụng các biện pháp xử lý hành chính và quy định mẫu biên bản, mẫu quyết định sử dụng trong xử phạt vi phạm hành chính."
+    },
+    {
         "id": "Điều 5.1",
         "article": "Điều 5",
         "clause": "1",
@@ -334,6 +355,13 @@
         "clause": "2",
         "title": "Cách tính thời gian, thời hạn, thời hiệu trong xử lý vi phạm hành chính",
         "text": "Thời gian ban đêm được tính từ 22 giờ ngày hôm trước đến 06 giờ ngày hôm sau."
+    },
+    {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Tình tiết giảm nhẹ",
+        "text": "Những tình tiết sau đây là tình tiết giảm nhẹ:"
     },
     {
         "id": "Điều 9.1",
@@ -488,6 +516,13 @@
         "clause": "2",
         "title": "Tình tiết tăng nặng",
         "text": "Tình tiết quy định tại khoản 1 Điều này đã được quy định là hành vi vi phạm hành chính thì không được coi là tình tiết tăng nặng."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Những trường hợp không xử phạt vi phạm hành chính",
+        "text": "Không xử phạt vi phạm hành chính đối với các trường hợp sau đây:"
     },
     {
         "id": "Điều 11.1",
@@ -854,6 +889,20 @@
         "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân các cấp, thủ trưởng cơ quan, đơn vị có thẩm quyền xử lý vi phạm hành chính có trách nhiệm phát hiện quyết định về xử lý vi phạm hành chính do mình hoặc cấp dưới ban hành có sai sót và phải kịp thời sửa đổi, bổ sung hoặc hủy bỏ, ban hành quyết định mới theo thẩm quyền."
     },
     {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Giám sát công tác xử lý vi phạm hành chính",
+        "text": "Quốc hội, các cơ quan của Quốc hội, Hội đồng nhân dân các cấp, đại biểu Quốc hội, đại biểu Hội đồng nhân dân, Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận và mọi công dân giám sát hoạt động của cơ quan, người có thẩm quyền xử lý vi phạm hành chính; khi phát hiện hành vi trái pháp luật của cơ quan, người có thẩm quyền xử lý vi phạm hành chính thì có quyền yêu cầu, kiến nghị với cơ quan, người có thẩm quyền xem xét, giải quyết, xử lý theo quy định của pháp luật. Cơ quan, người có thẩm quyền xử lý vi phạm hành chính phải xem xét, giải quyết và trả lời yêu cầu, kiến nghị đó theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Áp dụng Luật xử lý vi phạm hành chính đối với hành vi vi phạm hành chính ở ngoài lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "text": "Công dân, tổ chức Việt Nam vi phạm pháp luật hành chính của nước Cộng hòa xã hội chủ nghĩa Việt Nam ngoài lãnh thổ Việt Nam có thể bị xử phạt vi phạm hành chính theo quy định của Luật này. PHẦN THỨ HAI XỬ PHẠT VI PHẠM HÀNH CHÍNH CHƯƠNG I CÁC HÌNH THỨC XỬ PHẠT VÀ BIỆN PHÁP KHẮC PHỤC HẬU QUẢ Mục 1 CÁC HÌNH THỨC XỬ PHẠT"
+    },
+    {
         "id": "Điều 21.1",
         "article": "Điều 21",
         "clause": "1",
@@ -908,6 +957,13 @@
         "clause": "3",
         "title": "Các hình thức xử phạt và nguyên tắc áp dụng",
         "text": "Đối với mỗi vi phạm hành chính, cá nhân, tổ chức vi phạm hành chính chỉ bị áp dụng một hình thức xử phạt chính; có thể bị áp dụng một hoặc nhiều hình thức xử phạt bổ sung quy định tại khoản 1 Điều này. Hình thức xử phạt bổ sung chỉ được áp dụng kèm theo hình thức xử phạt chính."
+    },
+    {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Cảnh cáo",
+        "text": "Cảnh cáo được áp dụng đối với cá nhân, tổ chức vi phạm hành chính không nghiêm trọng, có tình tiết giảm nhẹ và theo quy định thì bị áp dụng hình thức xử phạt cảnh cáo hoặc đối với mọi hành vi vi phạm hành chính do người chưa thành niên từ đủ 14 tuổi đến dưới 16 tuổi thực hiện. Cảnh cáo được quyết định bằng văn bản."
     },
     {
         "id": "Điều 23.1",
@@ -1085,6 +1141,13 @@
         "text": "Thời hạn tước quyền sử dụng giấy phép, chứng chỉ hành nghề, thời hạn đình chỉ hoạt động quy định tại khoản 1 và khoản 2 Điều này từ 01 tháng đến 24 tháng, kể từ ngày quyết định xử phạt có hiệu lực thi hành. Người có thẩm quyền xử phạt giữ giấy phép, chứng chỉ hành nghề trong thời hạn tước quyền sử dụng giấy phép, chứng chỉ hành nghề."
     },
     {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Tịch thu tang vật, phương tiện vi phạm hành chính",
+        "text": "Tịch thu tang vật, phương tiện vi phạm hành chính là việc sung vào ngân sách nhà nước vật, tiền, hàng hoá, phương tiện có liên quan trực tiếp đến vi phạm hành chính, được áp dụng đối với vi phạm hành chính nghiêm trọng do lỗi cố ý của cá nhân, tổ chức. Việc xử lý tang vật, phương tiện vi phạm hành chính bị tịch thu được thực hiện theo quy định tại Điều 82 của Luật này."
+    },
+    {
         "id": "Điều 27.1",
         "article": "Điều 27",
         "clause": "1",
@@ -1195,6 +1258,69 @@
         "clause": "2b",
         "title": "Các biện pháp khắc phục hậu quả và nguyên tắc áp dụng",
         "text": "Biện pháp khắc phục hậu quả được áp dụng độc lập trong trường hợp quy định tại khoản 2 Điều 65 của Luật này."
+    },
+    {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Buộc khôi phục lại tình trạng ban đầu",
+        "text": "Cá nhân, tổ chức vi phạm hành chính phải khôi phục lại tình trạng ban đầu đã bị thay đổi do vi phạm hành chính của mình gây ra; nếu cá nhân, tổ chức vi phạm hành chính không tự nguyện thực hiện thì bị cưỡng chế thực hiện."
+    },
+    {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Buộc tháo dỡ công trình, phần công trình xây dựng không có giấy phép hoặc xây dựng không đúng với giấy phép",
+        "text": "Cá nhân, tổ chức vi phạm hành chính phải tháo dỡ công trình, phần công trình xây dựng không có giấy phép hoặc xây dựng không đúng với giấy phép; nếu cá nhân, tổ chức vi phạm hành chính không tự nguyện thực hiện thì bị cưỡng chế thực hiện."
+    },
+    {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Buộc khắc phục tình trạng ô nhiễm môi trường, lây lan dịch bệnh",
+        "text": "Cá nhân, tổ chức vi phạm hành chính phải thực hiện biện pháp để khắc phục tình trạng ô nhiễm môi trường, lây lan dịch bệnh; nếu cá nhân, tổ chức vi phạm hành chính không tự nguyện thực hiện thì bị cưỡng chế thực hiện."
+    },
+    {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Buộc đưa ra khỏi lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam hoặc tái xuất hàng hoá, vật phẩm, phương tiện",
+        "text": "Cá nhân, tổ chức vi phạm hành chính phải đưa ra khỏi lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam hoặc tái xuất hàng hoá, vật phẩm, phương tiện được đưa vào lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam, nhập khẩu trái với quy định của pháp luật hoặc được tạm nhập, tái xuất nhưng không tái xuất theo đúng quy định của pháp luật. Biện pháp khắc phục hậu quả này cũng được áp dụng đối với hàng hóa nhập khẩu, quá cảnh xâm phạm quyền sở hữu trí tuệ, hàng hóa giả mạo quyền sở hữu trí tuệ, phương tiện, nguyên liệu, vật liệu nhập khẩu được sử dụng chủ yếu để sản xuất, kinh doanh hàng hóa giả mạo về sở hữu trí tuệ sau khi đã loại bỏ yếu tố vi phạm; nếu cá nhân, tổ chức vi phạm hành chính không tự nguyện thực hiện thì bị cưỡng chế thực hiện."
+    },
+    {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Buộc tiêu hủy hàng hóa, vật phẩm gây hại cho sức khỏe con người, vật nuôi, cây trồng và môi trường, văn hóa phẩm có nội dung độc hại",
+        "text": "Cá nhân, tổ chức vi phạm hành chính phải tiêu hủy hàng hóa, vật phẩm gây hại cho sức khoẻ con người, vật nuôi, cây trồng và môi trường, văn hoá phẩm có nội dung độc hại hoặc tang vật khác thuộc đối tượng bị tiêu hủy theo quy định của pháp luật; nếu cá nhân, tổ chức vi phạm hành chính không tự nguyện thực hiện thì bị cưỡng chế thực hiện."
+    },
+    {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Buộc cải chính thông tin sai sự thật hoặc gây nhầm lẫn",
+        "text": "Cá nhân, tổ chức vi phạm hành chính phải cải chính thông tin sai sự thật hoặc gây nhầm lẫn đã được công bố, đưa tin trên chính phương tiện thông tin đại chúng, trang thông tin điện tử đã công bố, đưa tin; nếu cá nhân, tổ chức vi phạm hành chính không tự nguyện thực hiện thì bị cưỡng chế thực hiện."
+    },
+    {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Buộc loại bỏ yếu tố vi phạm trên hàng hoá, bao bì hàng hóa, phương tiện kinh doanh, vật phẩm",
+        "text": "Cá nhân, tổ chức sản xuất, kinh doanh hàng hóa hoặc sử dụng phương tiện kinh doanh, vật phẩm chứa yếu tố vi phạm trên hàng hóa, bao bì hàng hóa, phương tiện kinh doanh, vật phẩm thì phải loại bỏ các yếu tố vi phạm đó; nếu cá nhân, tổ chức vi phạm hành chính không tự nguyện thực hiện thì bị cưỡng chế thực hiện."
+    },
+    {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Buộc thu hồi sản phẩm, hàng hóa không bảo đảm chất lượng",
+        "text": "Cá nhân, tổ chức sản xuất, kinh doanh sản phẩm, hàng hóa không bảo đảm chất lượng đã đăng ký hoặc công bố và hàng hóa khác không bảo đảm chất lượng, điều kiện lưu thông thì phải thu hồi các sản phẩm, hàng hóa vi phạm đang lưu thông trên thị trường; nếu cá nhân, tổ chức vi phạm hành chính không tự nguyện thực hiện thì bị cưỡng chế thực hiện."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Buộc nộp lại số lợi bất hợp pháp có được do thực hiện vi phạm hành chính hoặc buộc nộp lại số tiền bằng trị giá tang vật, phương tiện vi phạm hành chính đã bị tiêu thụ, tẩu tán, tiêu hủy trái quy định của pháp luật",
+        "text": "Cá nhân, tổ chức vi phạm phải nộp lại số lợi bất hợp pháp là tiền, tài sản, giấy tờ và vật có giá có được từ vi phạm hành chính mà cá nhân, tổ chức đó đã thực hiện để sung vào ngân sách nhà nước hoặc hoàn trả cho đối tượng bị chiếm đoạt; phải nộp lại số tiền bằng với giá trị tang vật, phương tiện vi phạm hành chính nếu tang vật, phương tiện đó đã bị tiêu thụ, tẩu tán, tiêu hủy trái quy định của pháp luật; nếu cá nhân, tổ chức vi phạm hành chính không tự nguyện thực hiện thì bị cưỡng chế thực hiện. CHƯƠNG II THẨM QUYỀN XỬ PHẠT VI PHẠM HÀNH CHÍNH VÀ ÁP DỤNG BIỆN PHÁP KHẮC PHỤC HẬU QUẢ"
     },
     {
         "id": "Điều 38.1",
@@ -2996,6 +3122,13 @@
         "text": "Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, i và k khoản 1 Điều 28 của Luật này."
     },
     {
+        "id": "Điều 50.0",
+        "article": "Điều 50",
+        "clause": "0",
+        "title": "Thẩm quyền của Cục Quản lý lao động ngoài nước",
+        "text": "Cục trưởng Cục Quản lý lao động ngoài nước có quyền:"
+    },
+    {
         "id": "Điều 50.1",
         "article": "Điều 50",
         "clause": "1",
@@ -3029,6 +3162,13 @@
         "clause": "5",
         "title": "Thẩm quyền của Cục Quản lý lao động ngoài nước",
         "text": "Áp dụng biện pháp khắc phục hậu quả quy định tại các điểm a, i và k khoản 1 Điều 28 của Luật này."
+    },
+    {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Thẩm quyền của cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan khác được ủy quyền thực hiện chức năng lãnh sự của nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài",
+        "text": "Người đứng đầu cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan khác được ủy quyền thực hiện chức năng lãnh sự của nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài có quyền:"
     },
     {
         "id": "Điều 51.1",
@@ -3108,6 +3248,13 @@
         "text": "Nếu hành vi thuộc thẩm quyền xử phạt vi phạm hành chính của nhiều người thuộc các ngành khác nhau, thì thẩm quyền xử phạt thuộc Chủ tịch Uỷ ban nhân dân cấp có thẩm quyền xử phạt nơi xảy ra vi phạm."
     },
     {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Thay đổi tên gọi của chức danh có thẩm quyền xử phạt vi phạm hành chính",
+        "text": "Trường hợp chức danh có thẩm quyền xử phạt vi phạm hành chính quy định tại Luật này có sự thay đổi về tên gọi thì chức danh đó có thẩm quyền xử phạt."
+    },
+    {
         "id": "Điều 54.1",
         "article": "Điều 54",
         "clause": "1",
@@ -3127,6 +3274,13 @@
         "clause": "3",
         "title": "Giao quyền xử phạt",
         "text": "Cấp phó được giao quyền xử phạt vi phạm hành chính phải chịu trách nhiệm về quyết định xử phạt vi phạm hành chính của mình trước cấp trưởng và trước pháp luật. Người được giao quyền không được giao quyền, ủy quyền cho bất kỳ người nào khác. CHƯƠNG III THỦ TỤC XỬ PHẠT, THI HÀNH QUYẾT ĐỊNH XỬ PHẠT VÀ CƯỠNG CHẾ THI HÀNH QUYẾT ĐỊNH XỬ PHẠT Mục 1 THỦ TỤC XỬ PHẠT"
+    },
+    {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Buộc chấm dứt hành vi vi phạm hành chính",
+        "text": "Buộc chấm dứt hành vi vi phạm hành chính được người có thẩm quyền đang thi hành công vụ áp dụng đối với hành vi vi phạm hành chính đang diễn ra nhằm chấm dứt ngay hành vi vi phạm. Buộc chấm dứt hành vi vi phạm hành chính được thực hiện bằng lời nói, còi, hiệu lệnh, văn bản hoặc hình thức khác theo quy định của pháp luật."
     },
     {
         "id": "Điều 56.1",
@@ -3619,6 +3773,13 @@
         "text": "Cá nhân, tổ chức vi phạm nộp tiền phạt tại chỗ cho người có thẩm quyền xử phạt. Người thu tiền phạt có trách nhiệm giao chứng từ thu tiền phạt cho cá nhân, tổ chức nộp tiền phạt và phải nộp tiền phạt trực tiếp tại Kho bạc Nhà nước hoặc nộp vào tài khoản của Kho bạc Nhà nước trong thời hạn 02 ngày làm việc, kể từ ngày thu tiền phạt. Trường hợp cá nhân, tổ chức vi phạm không có khả năng nộp tiền phạt tại chỗ thì nộp tại Kho bạc Nhà nước hoặc nộp vào tài khoản của Kho bạc Nhà nước ghi trong quyết định xử phạt trong thời hạn quy định tại khoản 1 Điều 78 của Luật này."
     },
     {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Gửi quyết định xử phạt vi phạm hành chính để thi hành",
+        "text": "Trong thời hạn 02 ngày làm việc, kể từ ngày ra quyết định xử phạt vi phạm hành chính có lập biên bản, người có thẩm quyền đã ra quyết định xử phạt phải gửi cho cá nhân, tổ chức bị xử phạt, cơ quan thu tiền phạt và cơ quan liên quan khác (nếu có) để thi hành. Quyết định xử phạt vi phạm hành chính được giao trực tiếp hoặc gửi qua bưu điện bằng hình thức bảo đảm và thông báo cho cá nhân, tổ chức bị xử phạt biết. Đối với trường hợp quyết định được giao trực tiếp mà cá nhân, tổ chức vi phạm cố tình không nhận quyết định thì người có thẩm quyền lập biên bản về việc không nhận quyết định có xác nhận của chính quyền địa phương và được coi là quyết định đã được giao. Đối với trường hợp gửi qua bưu điện bằng hình thức bảo đảm, nếu sau thời hạn 10 ngày, kể từ ngày quyết định xử phạt đã được gửi qua đường bưu điện đến lần thứ ba mà bị trả lại do cá nhân, tổ chức vi phạm cố tình không nhận; quyết định xử phạt đã được niêm yết tại nơi cư trú của cá nhân, trụ sở của tổ chức bị xử phạt hoặc có căn cứ cho rằng người vi phạm trốn tránh không nhận quyết định xử phạt thì được coi là quyết định đã được giao."
+    },
+    {
         "id": "Điều 71.1",
         "article": "Điều 71",
         "clause": "1",
@@ -3687,6 +3848,13 @@
         "clause": "2",
         "title": "Thời hiệu thi hành quyết định xử phạt vi phạm hành chính",
         "text": "Trong trường hợp cá nhân, tổ chức bị xử phạt cố tình trốn tránh, trì hoãn thì thời hiệu nói trên được tính kể từ thời điểm chấm dứt hành vi trốn tránh, trì hoãn."
+    },
+    {
+        "id": "Điều 75.0",
+        "article": "Điều 75",
+        "clause": "0",
+        "title": "Thi hành quyết định xử phạt vi phạm hành chính trong trường hợp người bị xử phạt chết, mất tích, tổ chức bị xử phạt giải thể, phá sản",
+        "text": "Trường hợp người bị xử phạt chết, mất tích, tổ chức bị xử phạt giải thể, phá sản thì không thi hành quyết định phạt tiền nhưng vẫn thi hành hình thức xử phạt tịch thu tang vật, phương tiện vi phạm hành chính và biện pháp khắc phục hậu quả được ghi trong quyết định. Chính phủ quy định chi tiết Điều này."
     },
     {
         "id": "Điều 76.1",
@@ -4718,6 +4886,20 @@
         "text": "Toà án nhân dân cấp huyện có thẩm quyền quyết định áp dụng các biện pháp đưa vào trường giáo dưỡng, đưa vào cơ sở giáo dục bắt buộc, đưa vào cơ sở cai nghiện bắt buộc."
     },
     {
+        "id": "Điều 106.0",
+        "article": "Điều 106",
+        "clause": "0",
+        "title": "Trình tự, thủ tục xem xét, quyết định áp dụng các biện pháp xử lý hành chính",
+        "text": "Ủy ban thường vụ Quốc hội quy định trình tự, thủ tục Tòa án nhân dân xem xét, quyết định việc áp dụng các biện pháp đưa vào trường giáo dưỡng, đưa vào cơ sở giáo dục bắt buộc, đưa vào cơ sở cai nghiện bắt buộc. CHƯƠNG IV THI HÀNH QUYẾT ĐỊNH ÁP DỤNG BIỆN PHÁP XỬ LÝ HÀNH CHÍNH"
+    },
+    {
+        "id": "Điều 107.0",
+        "article": "Điều 107",
+        "clause": "0",
+        "title": "Gửi quyết định áp dụng biện pháp đưa vào trường giáo dưỡng, đưa vào cơ sở giáo dục bắt buộc và đưa vào cơ sở cai nghiện bắt buộc để thi hành",
+        "text": "Trong thời hạn 03 ngày, kể từ ngày quyết định áp dụng biện pháp xử lý hành chính có hiệu lực, Tòa án nhân dân đã ra quyết định phải gửi cho người bị áp dụng, Trưởng Công an cấp huyện và Trưởng phòng Lao động - Thương binh và Xã hội cấp huyện nơi đã gửi hồ sơ đề nghị áp dụng biện pháp xử lý hành chính, Ủy ban nhân dân cấp xã nơi người đó cư trú và các cơ quan hữu quan để thi hành theo quy định của pháp luật; quyết định áp dụng biện pháp đưa vào trường giáo dưỡng còn được gửi cho cha mẹ hoặc người đại diện hợp pháp của họ."
+    },
+    {
         "id": "Điều 108.1",
         "article": "Điều 108",
         "clause": "1",
@@ -4984,6 +5166,13 @@
         "text": "Đối với trường hợp đã ra quyết định áp dụng biện pháp xử lý hành chính, nếu sau đó phát hiện hành vi vi phạm của người bị áp dụng biện pháp này có dấu hiệu tội phạm mà chưa hết thời hiệu truy cứu trách nhiệm hình sự, thì Chủ tịch Ủy ban nhân dân hoặc Tòa án nhân dân đã ra quyết định áp dụng biện pháp xử lý hành chính phải huỷ quyết định đó và trong thời hạn 03 ngày, kể từ ngày huỷ quyết định phải chuyển hồ sơ của đối tượng cho cơ quan tiến hành tố tụng hình sự có thẩm quyền. Trường hợp bị Toà án xử phạt tù thì thời hạn đối tượng đã chấp hành biện pháp đưa vào trường giáo dưỡng, đưa vào cơ sở giáo dục bắt buộc, đưa vào cơ sở cai nghiện bắt buộc được tính vào thời hạn chấp hành hình phạt tù; 1,5 ngày chấp hành biện pháp đưa vào trường giáo dưỡng, đưa vào cơ sở giáo dục bắt buộc, đưa vào cơ sở cai nghiện bắt buộc được tính bằng 01 ngày chấp hành hình phạt tù."
     },
     {
+        "id": "Điều 117.0",
+        "article": "Điều 117",
+        "clause": "0",
+        "title": "Truy cứu trách nhiệm hình sự đối với hành vi phạm tội được thực hiện trước hoặc trong thời gian chấp hành biện pháp xử lý hành chính",
+        "text": "Trường hợp phát hiện người bị áp dụng biện pháp xử lý hành chính đã thực hiện hành vi phạm tội trước hoặc trong thời gian chấp hành quyết định, thì theo yêu cầu của cơ quan tiến hành tố tụng hình sự có thẩm quyền, Chủ tịch Uỷ ban nhân dân cấp xã nơi đang thi hành biện pháp giáo dục tại xã, phường, thị trấn hoặc Hiệu trưởng trường giáo dưỡng, Giám đốc cơ sở giáo dục bắt buộc, Giám đốc cơ sở cai nghiện bắt buộc phải ra quyết định tạm đình chỉ thi hành quyết định đối với người đó và chuyển hồ sơ của đối tượng cho cơ quan tiến hành tố tụng hình sự; trường hợp bị Toà án xử phạt tù thì người đó được miễn chấp hành phần thời gian còn lại trong quyết định áp dụng biện pháp xử lý hành chính; nếu hình phạt được áp dụng không phải là hình phạt tù thì người đó có thể phải tiếp tục chấp hành quyết định áp dụng biện pháp xử lý hành chính."
+    },
+    {
         "id": "Điều 118.1",
         "article": "Điều 118",
         "clause": "1",
@@ -5003,6 +5192,13 @@
         "clause": "3",
         "title": "Xử lý trường hợp một người vừa thuộc đối tượng đưa vào cơ sở giáo dục bắt buộc vừa thuộc đối tượng đưa vào cơ sở cai nghiện bắt buộc",
         "text": "Trong giai đoạn cắt cơn, phục hồi, đối tượng đang chấp hành quyết định tại cơ sở cai nghiện bắt buộc nếu có hành vi vi phạm các quy định tại Điều 94 của Luật này thì bị áp dụng biện pháp đưa vào cơ sở giáo dục bắt buộc. Giám đốc cơ sở cai nghiện bắt buộc tiến hành lập hồ sơ đề nghị đưa vào cơ sở giáo dục bắt buộc đối với đối tượng có hành vi quy định tại đoạn 1 khoản này trên cơ sở hồ sơ hiện có và biên bản về hành vi vi phạm mới gửi Trưởng Công an cấp huyện nơi có cơ sở cai nghiện bắt buộc. Trưởng Công an cấp huyện có trách nhiệm lấy ý kiến của Trưởng phòng Tư pháp về tính pháp lý của hồ sơ trước khi xem xét, gửi hồ sơ đề nghị Toà án nhân dân nơi có cơ sở cai nghiện bắt buộc quyết định áp dụng biện pháp đưa vào cơ sở giáo dục bắt buộc. Thủ tục xem xét áp dụng biện pháp đưa vào cơ sở giáo dục bắt buộc đối với các đối tượng này thực hiện theo quy định của pháp luật. PHẦN THỨ TƯ CÁC BIỆN PHÁP NGĂN CHẶN VÀ BẢO ĐẢM XỬ LÝ VI PHẠM HÀNH CHÍNH CHƯƠNG I QUY ĐỊNH CHUNG VỀ CÁC BIỆN PHÁP NGĂN CHẶN VÀ BẢO ĐẢM XỬ LÝ VI PHẠM HÀNH CHÍNH"
+    },
+    {
+        "id": "Điều 119.0",
+        "article": "Điều 119",
+        "clause": "0",
+        "title": "Các biện pháp ngăn chặn và bảo đảm xử lý vi phạm hành chính",
+        "text": "Trong trường hợp cần ngăn chặn kịp thời vi phạm hành chính hoặc để bảo đảm việc xử lý vi phạm hành chính, người có thẩm quyền có thể áp dụng các biện pháp sau đây theo thủ tục hành chính:"
     },
     {
         "id": "Điều 119.1",
@@ -5712,6 +5908,20 @@
         "text": "Thời gian bỏ trốn không được tính vào thời hạn chấp hành quyết định áp dụng biện pháp đưa vào trường giáo dưỡng, đưa vào cơ sở giáo dục bắt buộc, đưa vào cơ sở cai nghiện bắt buộc. PHẦN THỨ NĂM NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI CHƯA THÀNH NIÊN VI PHẠM HÀNH CHÍNH CHƯƠNG I QUY ĐỊNH CHUNG VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH ĐỐI VỚI NGƯỜI CHƯA THÀNH NIÊN"
     },
     {
+        "id": "Điều 133.0",
+        "article": "Điều 133",
+        "clause": "0",
+        "title": "Phạm vi áp dụng",
+        "text": "Việc xử lý đối với người chưa thành niên vi phạm hành chính thực hiện theo quy định của Phần thứ năm và các quy định khác có liên quan của Luật này."
+    },
+    {
+        "id": "Điều 134.0",
+        "article": "Điều 134",
+        "clause": "0",
+        "title": "Nguyên tắc xử lý",
+        "text": "Ngoài những nguyên tắc xử lý vi phạm hành chính quy định tại Điều 3 của Luật này, việc xử lý đối với người chưa thành niên còn được áp dụng các nguyên tắc sau đây:"
+    },
+    {
         "id": "Điều 134.1",
         "article": "Điều 134",
         "clause": "1",
@@ -5838,6 +6048,13 @@
         "text": "Người chưa thành niên bị áp dụng biện pháp xử lý hành chính nếu trong thời hạn 01 năm, kể từ ngày chấp hành xong quyết định xử lý hoặc từ ngày hết thời hiệu thi hành quyết định xử lý mà không tái phạm thì được coi là chưa bị áp dụng biện pháp xử lý hành chính. CHƯƠNG II CÁC BIỆN PHÁP THAY THẾ XỬ LÝ VI PHẠM HÀNH CHÍNH ĐỐI VỚI NGƯỜI CHƯA THÀNH NIÊN"
     },
     {
+        "id": "Điều 138.0",
+        "article": "Điều 138",
+        "clause": "0",
+        "title": "Các biện pháp thay thế xử lý vi phạm hành chính",
+        "text": "Các biện pháp thay thế xử lý vi phạm hành chính đối với người chưa thành niên bao gồm:"
+    },
+    {
         "id": "Điều 138.1",
         "article": "Điều 138",
         "clause": "1",
@@ -5948,5 +6165,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Pháp lệnh xử lý vi phạm hành chính số 44/2002/PL-UBTVQH10, Pháp lệnh số 31/2007/PL-UBTVQH11 sửa đổi một số điều của Pháp lệnh xử lý vi phạm hành chính năm 2002 và Pháp lệnh số 04/2008/UBTVQH12 sửa đổi, bổ sung một số điều của Pháp lệnh xử lý vi phạm hành chính hết hiệu lực kể từ ngày Luật này có hiệu lực, trừ các quy định liên quan đến việc áp dụng các biện pháp đưa vào trường giáo dưỡng, đưa vào cơ sở giáo dục, đưa vào cơ sở chữa bệnh tiếp tục có hiệu lực đến hết ngày 31 tháng 12 năm 2013."
+    },
+    {
+        "id": "Điều 142.0",
+        "article": "Điều 142",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ, Tòa án nhân dân tối cao quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 3 thông qua ngày 20 tháng 6 năm 2012. CHỦ TỊCH QUỐC HỘI (đã ký) Nguyễn Sinh Hùng"
     }
 ]

@@ -15,12 +15,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về phòng ngừa, ngăn chặn, bảo vệ, hỗ trợ, xử lý vi phạm trong phòng, chống bạo lực gia đình; điều kiện bảo đảm phòng, chống bạo lực gia đình; quản lý nhà nước và trách nhiệm của cơ quan, tổ chức, gia đình, cá nhân trong phòng, chống bạo lực gia đình.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Bạo lực gia đình là hành vi cố ý của thành viên gia đình gây tổn hại hoặc có khả năng gây tổn hại về thể chất, tinh thần, tình dục, kinh tế đối với thành viên khác trong gia đình.",
@@ -405,7 +416,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cá nhân khi phát hiện hành vi bạo lực gia đình có trách nhiệm sau đây:",
+                    "text": "Cá nhân khi phát hiện hành vi bạo lực gia đình có trách nhiệm sau đây: Chương II PHÒNG NGỪA BẠO LỰC GIA ĐÌNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -497,6 +508,11 @@
             "title": "Hình thức thông tin, truyền thông, giáo dục",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Thông tin, truyền thông, giáo dục về phòng, chống bạo lực gia đình được thực hiện thông qua các hình thức sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Hội nghị, hội thảo, tập huấn, nói chuyện chuyên đề; phổ biến pháp luật trực tiếp;",
                     "sub_clauses": []
@@ -585,7 +601,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hòa giải trong phòng, chống bạo lực gia đình là việc người tiến hành hòa giải hướng dẫn các bên tự nguyện giải quyết mâu thuẫn, tranh chấp giữa các thành viên gia đình để không làm phát sinh, tái diễn hành vi bạo lực gia đình.",
+                    "text": "Hòa giải trong phòng, chống bạo lực gia đình là việc người tiến hành hòa giải hướng dẫn các bên tự nguyện giải quyết mâu thuẫn, tranh chấp giữa các thành viên gia đình để không làm phát sinh, tái diễn hành vi bạo lực gia đình. Hòa giải trong phòng, chống bạo lực gia đình không thay thế biện pháp xử lý người có hành vi bạo lực gia đình.",
                     "sub_clauses": []
                 },
                 {
@@ -622,7 +638,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thành viên gia đình, dòng họ có trách nhiệm hòa giải mâu thuẫn, tranh chấp nhằm phòng ngừa hành vi bạo lực gia đình phát sinh hoặc tái diễn.",
+                    "text": "Thành viên gia đình, dòng họ có trách nhiệm hòa giải mâu thuẫn, tranh chấp nhằm phòng ngừa hành vi bạo lực gia đình phát sinh hoặc tái diễn. Trong trường hợp cần thiết có thể mời chức sắc tôn giáo, già làng, trưởng bản, người có uy tín trong cộng đồng dân cư, người thân, người trong cơ quan, tổ chức của chủ thể có mâu thuẫn, tranh chấp và người được đào tạo hoặc có kinh nghiệm về công tác xã hội, tâm lý học, người có kinh nghiệm trong công tác phòng, chống bạo lực gia đình tham gia hòa giải.",
                     "sub_clauses": []
                 },
                 {
@@ -637,7 +653,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Ủy ban nhân dân cấp xã chủ trì, phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp và các tổ chức, cá nhân khác hướng dẫn, bồi dưỡng kiến thức, kỹ năng về phòng, chống bạo lực gia đình cho hòa giải viên của Tổ hòa giải ở cơ sở.",
+                    "text": "Ủy ban nhân dân cấp xã chủ trì, phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp và các tổ chức, cá nhân khác hướng dẫn, bồi dưỡng kiến thức, kỹ năng về phòng, chống bạo lực gia đình cho hòa giải viên của Tổ hòa giải ở cơ sở. Chương III BẢO VỆ, HỖ TRỢ, XỬ LÝ VI PHẠM TRONG PHÒNG, CHỐNG BẠO LỰC GIA ĐÌNH Mục 1 BÁO TIN VÀ XỬ LÝ TIN BÁO, TỐ GIÁC VỀ HÀNH VI BẠO LỰC GIA ĐÌNH",
                     "sub_clauses": []
                 }
             ]
@@ -717,7 +733,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm xử lý hoặc phân công xử lý ngay khi tiếp nhận tin báo, tố giác về hành vi bạo lực gia đình hoặc nhận được báo cáo về hành vi bạo lực gia đình của tổ chức, cá nhân quy định tại khoản 1 và khoản 2 Điều này, trừ trường hợp quy định tại khoản 4 Điều này.",
+                    "text": "Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm xử lý hoặc phân công xử lý ngay khi tiếp nhận tin báo, tố giác về hành vi bạo lực gia đình hoặc nhận được báo cáo về hành vi bạo lực gia đình của tổ chức, cá nhân quy định tại khoản 1 và khoản 2 Điều này, trừ trường hợp quy định tại khoản 4 Điều này. Trường hợp tin báo, tố giác về hành vi bạo lực gia đình mà người bị bạo lực là trẻ em, phụ nữ mang thai, phụ nữ đang nuôi con dưới 36 tháng tuổi, người cao tuổi, người khuyết tật, người không có khả năng tự chăm sóc hoặc hành vi bạo lực gia đình đã hoặc có khả năng gây nguy hiểm đến sức khỏe, tính mạng của người bị bạo lực thì Chủ tịch Ủy ban nhân dân cấp xã phân công Công an xã, phường, thị trấn (sau đây gọi chung là Công an xã) xử lý.",
                     "sub_clauses": []
                 },
                 {
@@ -743,7 +759,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc sử dụng âm thanh, hình ảnh về hành vi bạo lực gia đình trong quá trình giải quyết vụ việc bạo lực gia đình và đăng tải trên phương tiện thông tin đại chúng, internet phải được sự đồng ý của người bị bạo lực gia đình hoặc người giám hộ, người đại diện theo pháp luật của người bị bạo lực gia đình, trừ trường hợp pháp luật có quy định khác.",
+                    "text": "Việc sử dụng âm thanh, hình ảnh về hành vi bạo lực gia đình trong quá trình giải quyết vụ việc bạo lực gia đình và đăng tải trên phương tiện thông tin đại chúng, internet phải được sự đồng ý của người bị bạo lực gia đình hoặc người giám hộ, người đại diện theo pháp luật của người bị bạo lực gia đình, trừ trường hợp pháp luật có quy định khác. Mục 2 NGĂN CHẶN HÀNH VI BẠO LỰC GIA ĐÌNH; BẢO VỆ, HỖ TRỢ NGƯỜI BỊ BẠO LỰC GlA ĐÌNH, NGƯỜI THAM GIA PHÒNG, CHỐNG BẠO LỰC GIA ĐÌNH",
                     "sub_clauses": []
                 }
             ]
@@ -857,7 +873,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chủ tịch Ủy ban nhân dân cấp xã nơi xảy ra hành vi bạo lực gia đình quyết định áp dụng biện pháp cấm tiếp xúc mỗi lần không quá 03 ngày trong các trường hợp sau đây:",
+                    "text": "Chủ tịch Ủy ban nhân dân cấp xã nơi xảy ra hành vi bạo lực gia đình quyết định áp dụng biện pháp cấm tiếp xúc mỗi lần không quá 03 ngày trong các trường hợp sau đây: Trường hợp cơ quan, tổ chức, cá nhân có thẩm quyền đề nghị thì phải được sự đồng ý của người bị bạo lực gia đình hoặc người giám hộ, người đại diện theo pháp luật của người bị bạo lực gia đình;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -925,7 +941,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tòa án nhân dân đang thụ lý hoặc giải quyết vụ án dân sự giữa người bị bạo lực gia đình và người có hành vi bạo lực gia đình quyết định áp dụng biện pháp cấm tiếp xúc trong thời gian không quá 04 tháng khi có đủ các điều kiện sau đây:",
+                    "text": "Tòa án nhân dân đang thụ lý hoặc giải quyết vụ án dân sự giữa người bị bạo lực gia đình và người có hành vi bạo lực gia đình quyết định áp dụng biện pháp cấm tiếp xúc trong thời gian không quá 04 tháng khi có đủ các điều kiện sau đây: Trường hợp cơ quan, tổ chức, cá nhân có thẩm quyền có đơn yêu cầu thì phải được sự đồng ý của người bị bạo lực gia đình hoặc người giám hộ, người đại diện theo pháp luật của người bị bạo lực gia đình.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1224,7 +1240,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan, tổ chức, cá nhân nhận được tin báo, tố giác hành vi bạo lực gia đình có trách nhiệm bảo vệ bí mật thông tin cá nhân của người báo tin, tố giác.",
+                    "text": "Cơ quan, tổ chức, cá nhân nhận được tin báo, tố giác hành vi bạo lực gia đình có trách nhiệm bảo vệ bí mật thông tin cá nhân của người báo tin, tố giác. Mục 3 CƠ SỞ TRỢ GIÚP PHÒNG, CHỐNG BẠO LỰC GIA ĐÌNH",
                     "sub_clauses": []
                 }
             ]
@@ -1286,7 +1302,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Khi tiếp nhận người bị bạo lực gia đình, địa chỉ tin cậy phải thông báo cho Ủy ban nhân dân cấp xã.",
+                    "text": "Khi tiếp nhận người bị bạo lực gia đình, địa chỉ tin cậy phải thông báo cho Ủy ban nhân dân cấp xã. Ủy ban nhân dân cấp xã có trách nhiệm bảo vệ và hỗ trợ kinh phí cho địa chỉ tin cậy theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -1409,7 +1425,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết khoản 2 Điều này; quy định thẩm quyền, trình tự, thủ tục cấp, thu hồi giấy chứng nhận đăng ký thành lập của cơ sở cung cấp dịch vụ trợ giúp phòng, chống bạo lực gia đình.",
+                    "text": "Chính phủ quy định chi tiết khoản 2 Điều này; quy định thẩm quyền, trình tự, thủ tục cấp, thu hồi giấy chứng nhận đăng ký thành lập của cơ sở cung cấp dịch vụ trợ giúp phòng, chống bạo lực gia đình. Mục 4 XỬ LÝ VI PHẠM PHÁP LUẬT VỀ PHÒNG, CHỐNG BẠO LỰC GIA ĐÌNH",
                     "sub_clauses": []
                 }
             ]
@@ -1425,7 +1441,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp người bị xử phạt vi phạm hành chính về hành vi vi phạm pháp luật về phòng, chống bạo lực gia đình là cán bộ, công chức, viên chức, người thuộc lực lượng vũ trang nhân dân thì người ra quyết định xử phạt có trách nhiệm thông báo cho người đứng đầu cơ quan, tổ chức, đơn vị có thẩm quyền quản lý người đó.",
+                    "text": "Trường hợp người bị xử phạt vi phạm hành chính về hành vi vi phạm pháp luật về phòng, chống bạo lực gia đình là cán bộ, công chức, viên chức, người thuộc lực lượng vũ trang nhân dân thì người ra quyết định xử phạt có trách nhiệm thông báo cho người đứng đầu cơ quan, tổ chức, đơn vị có thẩm quyền quản lý người đó. Chương IV ĐIỀU KIỆN BẢO ĐẢM PHÒNG, CHỐNG BẠO LỰC GIA ĐÌNH",
                     "sub_clauses": []
                 }
             ]
@@ -1534,7 +1550,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thẩm phán, Hội thẩm, Thư ký Tòa án, Kiểm sát viên, Điều tra viên, Công an xã, Trưởng thôn, Tổ trưởng tổ dân phố, Trưởng Ban công tác Mặt trận ở khu dân cư, Chi hội trưởng của các đoàn thể và Ban Chỉ đạo công tác gia đình được bồi dưỡng kiến thức, kỹ năng phòng, chống bạo lực gia đình, bình đẳng giới trong phòng, chống bạo lực gia đình.",
+                    "text": "Thẩm phán, Hội thẩm, Thư ký Tòa án, Kiểm sát viên, Điều tra viên, Công an xã, Trưởng thôn, Tổ trưởng tổ dân phố, Trưởng Ban công tác Mặt trận ở khu dân cư, Chi hội trưởng của các đoàn thể và Ban Chỉ đạo công tác gia đình được bồi dưỡng kiến thức, kỹ năng phòng, chống bạo lực gia đình, bình đẳng giới trong phòng, chống bạo lực gia đình. Chương V QUẢN LÝ NHÀ NƯỚC VÀ TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC VỀ PHÒNG, CHỐNG BẠO LỰC GIA ĐÌNH",
                     "sub_clauses": []
                 }
             ]
@@ -1908,7 +1924,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Tiếp nhận, thu thập thông tin từ thành viên, hội viên, quần chúng nhân dân và xã hội để phản ánh, kiến nghị, tư vấn cho cơ quan, tổ chức, cá nhân về việc thực hiện chính sách, pháp luật về phòng, chống bạo lực gia đình.",
+                    "text": "Tiếp nhận, thu thập thông tin từ thành viên, hội viên, quần chúng nhân dân và xã hội để phản ánh, kiến nghị, tư vấn cho cơ quan, tổ chức, cá nhân về việc thực hiện chính sách, pháp luật về phòng, chống bạo lực gia đình. Chương VI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1916,7 +1932,13 @@
         {
             "id": "Điều 55",
             "title": "Sửa đổi, bổ sung Điều 135 của Bộ luật Tố tụng dân sự",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Sửa đổi, bổ sung Điều 135 của Bộ luật Tố tụng dân sự số 92/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Bộ luật số 45/2019/QH14 và Luật số 59/2020/QH14 như sau: “Điều 135. Tòa án tự mình ra quyết định áp dụng biện pháp khẩn cấp tạm thời Tòa án tự mình ra quyết định áp dụng biện pháp khẩn cấp tạm thời quy định tại các khoản 1, 2, 3, 4, 5 và 14 Điều 114 của Bộ luật này trong trường hợp đương sự không yêu cầu áp dụng biện pháp khẩn cấp tạm thời.”.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 56",
@@ -1929,11 +1951,19 @@
                 },
                 {
                     "number": "2",
-                    "text": "Luật Phòng, chống bạo lực gia đình số 02/2007/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.",
+                    "text": "Luật Phòng, chống bạo lực gia đình số 02/2007/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 4 thông qua ngày 14 tháng 11 năm 2022. CHỦ TỊCH QUỐC HỘI Đã ký: Vương Đình Huệ",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Tòa án tự mình ra quyết định áp dụng biện pháp khẩn cấp tạm thời quy định tại các khoản 1, 2, 3, 4, 5 và 14 Điều 114 của Bộ luật này trong trường hợp đương sự không yêu cầu áp dụng biện pháp khẩn cấp tạm thời.”.",
+        "Điều 56. Hiệu lực thi hành",
+        "1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.",
+        "2. Luật Phòng, chống bạo lực gia đình số 02/2007/QH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.",
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 4 thông qua ngày 14 tháng 11 năm 2022.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Vương Đình Huệ"
+    ]
 }

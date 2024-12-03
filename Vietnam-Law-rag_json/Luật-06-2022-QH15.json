@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về đối tượng, phạm vi, nguyên tắc, hình thức, tiêu chuẩn, thẩm quyền, trình tự và thủ tục thi đua, khen thưởng."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với cá nhân, tập thể, hộ gia đình người Việt Nam; cá nhân, tập thể người Việt Nam định cư ở nước ngoài; cá nhân, tập thể người nước ngoài."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -719,6 +740,13 @@
         "clause": "2",
         "title": "Danh hiệu chiến sĩ thi đua Bộ, ban, ngành, tỉnh",
         "text": "Người đứng đầu Bộ, ban, ngành, tỉnh xem xét, công nhận hiệu quả và khả năng nhân rộng, phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh của sáng kiến, đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ. Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an xem xét, công nhận sự mưu trí, sáng tạo trong chiến đấu, phục vụ chiến đấu có phạm vi ảnh hưởng trong toàn quân hoặc toàn lực lượng Công an nhân dân."
+    },
+    {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Danh hiệu “Chiến sĩ thi đua cơ sở”",
+        "text": "Danh hiệu “Chiến sĩ thi đua cơ sở” để tặng cho cá nhân đạt các tiêu chuẩn sau đây:"
     },
     {
         "id": "Điều 23.1",
@@ -2597,6 +2625,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 52.0",
+        "article": "Điều 52",
+        "clause": "0",
+        "title": "“Huân chương Dũng cảm”",
+        "text": "“Huân chương Dũng cảm” để tặng hoặc truy tặng cho cá nhân có hành động dũng cảm khi cứu người, cứu tài sản của Nhà nước, của Nhân dân trong thảm họa, thiên tai, dịch bệnh, tai nạn, cháy, nổ, đấu tranh phòng, chống tội phạm hoặc dũng cảm xung phong vào nơi nguy hiểm nhằm bảo vệ tính mạng của người dân và thành tích đạt được có tác dụng động viên, giáo dục, nêu gương trong phạm vi quản lý của Bộ, ban, ngành, tỉnh hoặc toàn quốc."
+    },
+    {
         "id": "Điều 53.1",
         "article": "Điều 53",
         "clause": "1",
@@ -2665,6 +2700,20 @@
         "clause": "2d",
         "title": "Huy chương",
         "text": "“Huy chương Hữu nghị”."
+    },
+    {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "“Huy chương Quân kỳ quyết thắng”",
+        "text": "“Huy chương Quân kỳ quyết thắng” để tặng hoặc truy tặng cho quân nhân, công nhân, công chức, viên chức quốc phòng thuộc Quân đội nhân dân có quá trình công tác liên tục từ 25 năm trở lên, hoàn thành tốt nhiệm vụ được giao."
+    },
+    {
+        "id": "Điều 56.0",
+        "article": "Điều 56",
+        "clause": "0",
+        "title": "“Huy chương Vì an ninh Tổ quốc”",
+        "text": "“Huy chương Vì an ninh Tổ quốc” để tặng hoặc truy tặng cho sĩ quan, hạ sĩ quan, chiến sĩ, công nhân làm việc trong cơ quan, đơn vị thuộc Công an nhân dân có quá trình công tác liên tục từ 25 năm trở lên, hoàn thành tốt nhiệm vụ được giao."
     },
     {
         "id": "Điều 57.1",
@@ -2847,6 +2896,13 @@
         "clause": "2h",
         "title": "Danh hiệu vinh dự nhà nước",
         "text": "“Nghệ nhân nhân dân”, “Nghệ nhân ưu tú”."
+    },
+    {
+        "id": "Điều 60.0",
+        "article": "Điều 60",
+        "clause": "0",
+        "title": "Danh hiệu “Tỉnh Anh hùng”, “Thành phố Anh hùng”",
+        "text": "Danh hiệu “Tỉnh Anh hùng”, “Thành phố Anh hùng” để tặng cho tỉnh, thành phố trực thuộc trung ương đạt các tiêu chuẩn sau đây:"
     },
     {
         "id": "Điều 60.1",
@@ -3892,6 +3948,13 @@
         "text": "Việc khen thưởng bằng hình thức giấy khen đối với cá nhân, tập thể người đang học tập tại cơ sở giáo dục thuộc hệ thống giáo dục quốc dân do Bộ trưởng Bộ Giáo dục và Đào tạo hoặc người đứng đầu Bộ, ngành, tổ chức quản lý cơ sở giáo dục quy định. Chương IV THẨM QUYỀN QUYẾT ĐỊNH, TRAO TẶNG; THỦ TỤC, HỒ SƠ ĐỀ NGHỊ XÉT TẶNG DANH HIỆU THI ĐUA VÀ HÌNH THỨC KHEN THƯỞNG Mục 1. THẨM QUYỀN QUYẾT ĐỊNH KHEN THƯỞNG, TRAO TẶNG DANH HIỆU THI ĐUA, HÌNH THỨC KHEN THƯỞNG"
     },
     {
+        "id": "Điều 77.0",
+        "article": "Điều 77",
+        "clause": "0",
+        "title": "Thẩm quyền của Chủ tịch nước",
+        "text": "Chủ tịch nước quyết định tặng huân chương, huy chương, “Giải thưởng Hồ Chí Minh”, “Giải thưởng Nhà nước”, danh hiệu vinh dự nhà nước."
+    },
+    {
         "id": "Điều 78.1",
         "article": "Điều 78",
         "clause": "1",
@@ -4263,6 +4326,13 @@
         "text": "Phát huy thành tích đã đạt được, tuyên truyền, phổ biến kinh nghiệm; bảo quản, lưu giữ các hiện vật khen thưởng. Chương VI TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC  VỀ THI ĐUA, KHEN THƯỞNG"
     },
     {
+        "id": "Điều 88.0",
+        "article": "Điều 88",
+        "clause": "0",
+        "title": "Trách nhiệm của Ủy ban Thường vụ Quốc hội",
+        "text": "Ủy ban Thường vụ Quốc hội quy định việc thi đua, khen thưởng đối với đại biểu Quốc hội, các cơ quan của Quốc hội, các cơ quan thuộc Ủy ban Thường vụ Quốc hội và cán bộ, công chức thuộc thẩm quyền quản lý của Ủy ban Thường vụ Quốc hội."
+    },
+    {
         "id": "Điều 89.1",
         "article": "Điều 89",
         "clause": "1",
@@ -4403,6 +4473,20 @@
         "text": "Chính phủ quy định chi tiết tổ chức và hoạt động của Hội đồng Thi đua - Khen thưởng các cấp và Hội đồng Thi đua - Khen thưởng tại cơ quan, tổ chức, đơn vị."
     },
     {
+        "id": "Điều 91.0",
+        "article": "Điều 91",
+        "clause": "0",
+        "title": "Trách nhiệm của Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước",
+        "text": "Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước căn cứ vào quy định của Luật này và các quy định khác của pháp luật có liên quan thực hiện quản lý công tác thi đua, khen thưởng trong phạm vi ngành."
+    },
+    {
+        "id": "Điều 92.0",
+        "article": "Điều 92",
+        "clause": "0",
+        "title": "Trách nhiệm của tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp",
+        "text": "Tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp căn cứ vào quy định của Luật này và các quy định khác của pháp luật có liên quan thực hiện quản lý công tác thi đua, khen thưởng trong phạm vi tổ chức. Chương VII XỬ LÝ VI PHẠM"
+    },
+    {
         "id": "Điều 93.1",
         "article": "Điều 93",
         "clause": "1",
@@ -4508,6 +4592,20 @@
         "text": "Luật Thi đua, khen thưởng số 15/2003/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 47/2005/QH11, Luật số 32/2009/QH12 và Luật số 39/2013/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
     },
     {
+        "id": "Điều 95.0",
+        "article": "Điều 95",
+        "clause": "0",
+        "title": "Điều khoản chuyển tiếp",
+        "text": "Nhà nước tiếp tục công nhận và bảo hộ danh hiệu thi đua, hình thức khen thưởng đã được tặng hoặc truy tặng trước ngày Luật này có hiệu lực thi hành; các chế độ, quyền lợi kèm theo danh hiệu thi đua, hình thức khen thưởng được tiếp tục thực hiện theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 96.0",
+        "article": "Điều 96",
+        "clause": "0",
+        "title": "Khen thưởng tổng kết thành tích kháng chiến",
+        "text": "Kể từ ngày Luật này có hiệu lực thi hành, việc khen thưởng tổng kết thành tích kháng chiến được thực hiện như sau:"
+    },
+    {
         "id": "Điều 96.1",
         "article": "Điều 96",
         "clause": "1",
@@ -4526,6 +4624,6 @@
         "article": "Điều 96",
         "clause": "3",
         "title": "Khen thưởng tổng kết thành tích kháng chiến",
-        "text": "Chính phủ quy định chi tiết trình tự, thủ tục xét tặng, truy tặng “Huy chương Thanh niên xung phong vẻ vang”; hướng dẫn việc thực hiện khoản 1 và khoản 2 Điều này. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 3 thông qua ngày 15 tháng 6 năm 2022."
+        "text": "Chính phủ quy định chi tiết trình tự, thủ tục xét tặng, truy tặng “Huy chương Thanh niên xung phong vẻ vang”; hướng dẫn việc thực hiện khoản 1 và khoản 2 Điều này. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 3 thông qua ngày 15 tháng 6 năm 2022. CHỦ TỊCH QUỐC HỘI Vương Đình Huệ"
     }
 ]

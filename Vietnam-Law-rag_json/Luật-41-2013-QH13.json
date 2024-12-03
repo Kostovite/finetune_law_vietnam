@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động phòng, chống sinh vật gây hại thực vật; kiểm dịch thực vật; quản lý thuốc bảo vệ thực vật."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, cá nhân trong nước và tổ chức, cá nhân nước ngoài có liên quan đến hoạt động bảo vệ và kiểm dịch thực vật tại Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -532,6 +553,20 @@
         "text": "Kiểm tra, giải quyết khiếu nại, tố cáo, xử lý vi phạm pháp luật về bảo vệ và kiểm dịch thực vật theo thẩm quyền."
     },
     {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Hệ thống cơ quan chuyên ngành bảo vệ và kiểm dịch thực vật",
+        "text": "Hệ thống cơ quan chuyên ngành bảo vệ và kiểm dịch thực vật được tổ chức từ trung ương đến cấp huyện. Chính phủ quy định về tổ chức hệ thống cơ quan chuyên ngành bảo vệ và kiểm dịch thực vật."
+    },
+    {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Vai trò của các tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp",
+        "text": "Tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp tham gia ý kiến xây dựng các văn bản quy phạm pháp luật về bảo vệ và kiểm dịch thực vật; tuyên truyền, phổ biến kiến thức pháp luật về bảo vệ và kiểm dịch thực vật để nâng cao ý thức của người dân trong phòng, chống sinh vật gây hại, kiểm dịch thực vật, sử dụng thuốc bảo vệ thực vật."
+    },
+    {
         "id": "Điều 11.1",
         "article": "Điều 11",
         "clause": "1",
@@ -544,6 +579,13 @@
         "clause": "2",
         "title": "Hợp tác quốc tế về bảo vệ và kiểm dịch thực vật",
         "text": "Cơ quan chuyên ngành bảo vệ và kiểm dịch thực vật ở trung ương là đầu mối trao đổi thông tin về bảo vệ thực vật, kiểm dịch thực vật và thuốc bảo vệ thực vật trong hoạt động hợp tác quốc tế."
+    },
+    {
+        "id": "Điều 12.0",
+        "article": "Điều 12",
+        "clause": "0",
+        "title": "Phí, lệ phí về bảo vệ và kiểm dịch thực vật",
+        "text": "Tổ chức, cá nhân có hoạt động bảo vệ và kiểm dịch thực vật phải trả phí, lệ phí theo quy định của pháp luật về phí và lệ phí."
     },
     {
         "id": "Điều 13.1",
@@ -978,6 +1020,13 @@
         "clause": "5",
         "title": "Tổ chức chống dịch hại thực vật",
         "text": "Chủ thực vật, tổ chức, cá nhân có liên quan nơi có dịch phải thực hiện đúng các biện pháp chống dịch theo yêu cầu của Chủ tịch Ủy ban nhân dân cấp xã."
+    },
+    {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Công bố hết dịch hại thực vật",
+        "text": "Khi dịch hại thực vật đã được khống chế và không còn nguy cơ gây thiệt hại nghiêm trọng thì người có thẩm quyền công bố dịch theo quy định tại khoản 2 Điều 17 của Luật này quyết định công bố hết dịch."
     },
     {
         "id": "Điều 20.1",
@@ -1636,6 +1685,13 @@
         "clause": "2đ",
         "title": "Hành nghề xử lý vật thể thuộc diện kiểm dịch thực vật",
         "text": "Các hoạt động kỹ thuật khác."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Điều kiện cấp Giấy chứng nhận hành nghề xử lý vật thể thuộc diện kiểm dịch thực vật",
+        "text": "Tổ chức được cấp Giấy chứng nhận hành nghề xử lý vật thể thuộc diện kiểm dịch thực vật phải có đủ các điều kiện sau đây:"
     },
     {
         "id": "Điều 37.1",
@@ -3855,5 +3911,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Các loại giấy phép, giấy chứng nhận về bảo vệ và kiểm dịch thực vật đã được cấp trước ngày Luật này có hiệu lực mà chưa hết thời hạn được ghi trong giấy thì vẫn có giá trị sử dụng cho đến khi hết thời hạn."
+    },
+    {
+        "id": "Điều 77.0",
+        "article": "Điều 77",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 6 thông qua ngày 25 tháng 11 năm 2013. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

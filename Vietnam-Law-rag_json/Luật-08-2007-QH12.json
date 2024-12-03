@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định nguyên tắc, thẩm quyền, trình tự, thủ tục thực hiện tương trợ tư pháp về dân sự, hình sự, dẫn độ và chuyển giao người đang chấp hành hình phạt tù giữa Việt Nam với nước ngoài; trách nhiệm của các cơ quan nhà nước Việt Nam trong tương trợ tư pháp."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân Việt Nam, cơ quan, tổ chức, cá nhân nước ngoài có liên quan đến hoạt động tương trợ tư pháp với Việt Nam."
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -140,6 +154,20 @@
         "text": "Quyền không bị bắt, bị tạm giam, tạm giữ hoặc bị điều tra, truy tố, xét xử của người làm chứng, người giám định quy định tại khoản 4 Điều này chấm dứt nếu người đó không rời Việt Nam sau thời hạn mười lăm ngày, kể từ ngày nhận được thông báo bằng văn bản của cơ quan có thẩm quyền của Việt Nam về việc không cần thiết sự có mặt của họ tại Việt Nam. Thời hạn này không tính vào thời gian mà người làm chứng, người giám định không thể rời Việt Nam vì lý do bất khả kháng."
     },
     {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Việc giao nhận tài liệu, đồ vật và tiền",
+        "text": "Việc giao nhận tài liệu, đồ vật và tiền liên quan đến hoạt động tương trợ tư pháp được thực hiện theo quy định của pháp luật Việt Nam. Chương II TƯƠNG TRỢ TƯ PHÁP VỀ DÂN SỰ"
+    },
+    {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Phạm vi tương trợ tư pháp về dân sự",
+        "text": "Phạm vi tương trợ tư pháp về dân sự giữa Việt Nam và nước ngoài bao gồm:"
+    },
+    {
         "id": "Điều 10.1",
         "article": "Điều 10",
         "clause": "1",
@@ -201,6 +229,13 @@
         "clause": "2",
         "title": "Hồ sơ ủy thác tư pháp về dân sự",
         "text": "Hồ sơ ủy thác tư pháp về dân sự được lập thành ba bộ theo quy định của Luật này và phù hợp với pháp luật của nước được ủy thác. Ngôn ngữ được sử dụng để lập hồ sơ theo quy định tại Điều 5 của Luật này."
+    },
+    {
+        "id": "Điều 12.0",
+        "article": "Điều 12",
+        "clause": "0",
+        "title": "Văn bản ủy thác tư pháp về dân sự",
+        "text": "Văn bản ủy thác tư pháp về dân sự phải có các nội dung sau đây:"
     },
     {
         "id": "Điều 12.1",
@@ -334,6 +369,13 @@
         "clause": "2",
         "title": "Chi phí thực hiện tương trợ tư pháp về dân sự",
         "text": "Cá nhân, tổ chức Việt Nam yêu cầu cơ quan nhà nước có thẩm quyền của Việt Nam giải quyết vụ việc dân sự làm phát sinh yêu cầu ủy thác tư pháp ra nước ngoài thì phải trả chi phí theo quy định của Việt Nam và của nước được yêu cầu. Trong thời hạn mười ngày làm việc, trước ngày quyết định lập hồ sơ ủy thác tư pháp, cơ quan lập hồ sơ phải thông báo cho cá nhân, tổ chức về chi phí thực hiện ủy thác tư pháp. Hồ sơ ủy thác tư pháp chỉ được lập và gửi ra nước ngoài sau khi cá nhân, tổ chức đã nộp chi phí thực hiện ủy thác tư pháp theo quy định. Công dân Việt Nam thuộc trường hợp được trợ giúp pháp lý thì có thể được xem xét hỗ trợ chi phí thực hiện ủy thác tư pháp theo quy định của Chính phủ. Chương III TƯƠNG TRỢ TƯ PHÁP VỀ HÌNH SỰ"
+    },
+    {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Phạm vi tương trợ tư pháp về hình sự",
+        "text": "Phạm vi tương trợ tư pháp về hình sự giữa Việt Nam và nước ngoài bao gồm:"
     },
     {
         "id": "Điều 17.1",
@@ -721,6 +763,13 @@
         "text": "Thời gian mà người đang chấp hành hình phạt tù bị dẫn giải, lưu lại ở nước yêu cầu được tính vào thời hạn chấp hành hình phạt tù của người đó."
     },
     {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Cung cấp thông tin",
+        "text": "Theo yêu cầu của cơ quan có thẩm quyền của Việt Nam hoặc của nước ngoài, Viện kiểm sát nhân dân tối cao yêu cầu cơ quan có thẩm quyền của nước ngoài hoặc cơ quan tiến hành tố tụng có thẩm quyền của Việt Nam cung cấp các thông tin liên quan đến yêu cầu tương trợ tư pháp về hình sự hoặc bản sao bản án, quyết định hình sự của Tòa án đã có hiệu lực pháp luật đối với công dân của nước yêu cầu."
+    },
+    {
         "id": "Điều 27.1",
         "article": "Điều 27",
         "clause": "1",
@@ -770,6 +819,13 @@
         "text": "Viện kiểm sát nhân dân tối cao quy định các điều kiện cụ thể về tiếp nhận, chuyển giao hồ sơ, vật chứng của vụ án."
     },
     {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Xử lý yêu cầu của nước ngoài về truy cứu trách nhiệm hình sự công dân Việt Nam tại Việt Nam",
+        "text": "Viện kiểm sát nhân dân tối cao xem xét yêu cầu của cơ quan có thẩm quyền của nước ngoài về việc tiếp tục truy cứu trách nhiệm hình sự đối với công dân Việt Nam phạm tội ở nước ngoài đang có mặt tại Việt Nam theo trình tự sau đây:"
+    },
+    {
         "id": "Điều 29.1",
         "article": "Điều 29",
         "clause": "1",
@@ -789,6 +845,20 @@
         "clause": "3",
         "title": "Xử lý yêu cầu của nước ngoài về truy cứu trách nhiệm hình sự công dân Việt Nam tại Việt Nam",
         "text": "Việc điều tra, truy tố, xét xử đối với vụ án quy định tại Điều này được thực hiện theo quy định của pháp luật tố tụng hình sự Việt Nam."
+    },
+    {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Thực hiện ủy thác tư pháp của nước ngoài về điều tra đối với công dân nước ngoài tại Việt Nam",
+        "text": "Trong thời hạn năm ngày làm việc, kể từ ngày nhận được hồ sơ ủy thác tư pháp về điều tra đối với công dân nước ngoài đã phạm tội ở nước đó hiện đang cư trú tại Việt Nam, Viện kiểm sát nhân dân tối cao chuyển hồ sơ cho Cơ quan điều tra có thẩm quyền của Việt Nam để tiến hành điều tra. Kết quả điều tra được gửi đến Viện kiểm sát nhân dân tối cao để chuyển cho nước yêu cầu."
+    },
+    {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Chi phí thực hiện tương trợ tư pháp về hình sự",
+        "text": "Chi phí thực hiện tương trợ tư pháp về hình sự giữa Việt Nam với nước ngoài do nước yêu cầu chi trả, trừ trường hợp có thoả thuận khác. Trong trường hợp Việt Nam chịu chi phí cho việc thực hiện ủy thác tư pháp về hình sự thì chi phí đó do ngân sách nhà nước bảo đảm. Chương IV DẪN ĐỘ"
     },
     {
         "id": "Điều 32.1",
@@ -838,6 +908,13 @@
         "clause": "3",
         "title": "Trường hợp bị dẫn độ",
         "text": "Trường hợp hành vi phạm tội của người quy định tại khoản 1 Điều này xảy ra ngoài lãnh thổ của nước yêu cầu thì việc dẫn độ người phạm tội có thể được thực hiện nếu theo quy định của Bộ luật hình sự Việt Nam hành vi đó là hành vi phạm tội."
+    },
+    {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Không truy cứu trách nhiệm hình sự, dẫn độ cho nước thứ ba",
+        "text": "Người bị dẫn độ về Việt Nam không bị truy cứu trách nhiệm hình sự hoặc dẫn độ cho nước thứ ba về hành vi mà người đó đã thực hiện ở nước ngoài trước khi bị dẫn độ về Việt Nam nhưng không cấu thành tội phạm theo quy định của Bộ luật hình sự Việt Nam và không được nêu trong yêu cầu dẫn độ của Việt Nam hoặc của nước thứ ba. Trường hợp Việt Nam là nước được yêu cầu dẫn độ thì việc dẫn độ chỉ được thực hiện khi nước yêu cầu dẫn độ cam kết không truy cứu trách nhiệm hình sự người bị dẫn độ về hành vi phạm tội khác ngoài hành vi phạm tội đã được nêu trong yêu cầu dẫn độ, không dẫn độ người đó cho nước thứ ba, trừ trường hợp được sự đồng ý bằng văn bản của Việt Nam."
     },
     {
         "id": "Điều 35.1",
@@ -1057,6 +1134,13 @@
         "text": "Văn bản xác nhận người bị yêu cầu dẫn độ là người đã bị kết án."
     },
     {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Tiếp nhận yêu cầu dẫn độ",
+        "text": "Trong thời hạn hai mươi ngày, kể từ ngày nhận được yêu cầu dẫn độ và tài liệu kèm theo, Bộ Công an vào sổ hồ sơ dẫn độ và kiểm tra hồ sơ theo quy định tại Điều 36 của Luật này. Bộ Công an có thể yêu cầu cơ quan có thẩm quyền của nước yêu cầu dẫn độ cung cấp thông tin bổ sung hồ sơ. Sau sáu mươi ngày, kể từ ngày gửi văn bản yêu cầu bổ sung thông tin mà không nhận được thông tin bổ sung thì Bộ Công an gửi trả hồ sơ cho nước yêu cầu dẫn độ và nêu rõ lý do. Trường hợp hồ sơ hợp lệ thì Bộ Công an chuyển ngay cho Tòa án nhân dân cấp tỉnh có thẩm quyền hai bộ hồ sơ để xem xét, quyết định."
+    },
+    {
         "id": "Điều 39.1",
         "article": "Điều 39",
         "clause": "1",
@@ -1239,6 +1323,13 @@
         "text": "Quyết định của Tòa án cấp phúc thẩm."
     },
     {
+        "id": "Điều 41.0",
+        "article": "Điều 41",
+        "clause": "0",
+        "title": "Các biện pháp ngăn chặn để dẫn độ",
+        "text": "Khi nhận được yêu cầu chính thức của nước ngoài về việc dẫn độ, cơ quan có thẩm quyền của Việt Nam có thể áp dụng các biện pháp ngăn chặn theo quy định của pháp luật Việt Nam và điều ước quốc tế mà Việt Nam là thành viên để bảo đảm cho việc xem xét yêu cầu dẫn độ."
+    },
+    {
         "id": "Điều 42.1",
         "article": "Điều 42",
         "clause": "1",
@@ -1288,6 +1379,20 @@
         "text": "Người bị dẫn độ tạm thời phải được trả lại ngay cho Việt Nam sau khi quá trình tố tụng hình sự của nước yêu cầu đã kết thúc hoặc hết thời hạn yêu cầu dẫn độ tạm thời mà Việt Nam và nước ngoài đã thoả thuận. Khi có yêu cầu dẫn độ mới của nước yêu cầu, Tòa án Việt Nam xem xét theo quy định của Luật này để thoả thuận về việc dẫn độ mới nếu có lý do chính đáng."
     },
     {
+        "id": "Điều 45.0",
+        "article": "Điều 45",
+        "clause": "0",
+        "title": "Dẫn độ lại",
+        "text": "Trường hợp người đã bị dẫn độ trốn tránh việc truy cứu trách nhiệm hình sự hoặc chấp hành hình phạt ở nước ngoài và quay trở lại Việt Nam thì nước yêu cầu dẫn độ có thể đưa ra yêu cầu dẫn độ lại người đó kèm theo các tài liệu quy định tại Điều 36 và Điều 37 của Luật này; trong trường hợp này, Tòa án nhân dân cấp tỉnh không tiến hành lại thủ tục quyết định dẫn độ theo quy định tại Điều 40 của Luật này; Chánh án Tòa án nhân dân cấp tỉnh đã quyết định dẫn độ trước đây quyết định dẫn độ lại đối với người đó. Việc áp giải người bị dẫn độ lại được thực hiện theo quy định tại Điều 43 của Luật này."
+    },
+    {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Chuyển giao đồ vật, vật chứng liên quan đến vụ án",
+        "text": "Các đồ vật, vật chứng do phạm tội mà có hoặc cần để làm chứng cứ tại phiên toà có thể được xem xét chuyển giao cho nước yêu cầu dẫn độ phù hợp với điều ước quốc tế mà Việt Nam và nước yêu cầu dẫn độ là thành viên trên cơ sở tôn trọng quyền của bên thứ ba."
+    },
+    {
         "id": "Điều 47.1",
         "article": "Điều 47",
         "clause": "1",
@@ -1300,6 +1405,13 @@
         "clause": "2",
         "title": "Quá cảnh",
         "text": "Trường hợp chuyển giao bằng đường hàng không và quá cảnh không hạ cánh trên lãnh thổ Việt Nam thì việc di chuyển người bị dẫn độ không phải xin quá cảnh Việt Nam; trường hợp phải hạ cánh thì nước dẫn độ phải gửi ngay yêu cầu xin quá cảnh Việt Nam theo quy định tại khoản 1 Điều này."
+    },
+    {
+        "id": "Điều 48.0",
+        "article": "Điều 48",
+        "clause": "0",
+        "title": "Chi phí về dẫn độ",
+        "text": "Nước yêu cầu dẫn độ phải chịu mọi chi phí về dẫn độ, trừ trường hợp có thoả thuận khác. Trong trường hợp Việt Nam chịu chi phí cho việc dẫn độ thì chi phí đó do ngân sách nhà nước bảo đảm. Chương V CHUYỂN GIAO NGƯỜI ĐANG CHẤP HÀNH HÌNH PHẠT TÙ"
     },
     {
         "id": "Điều 49.1",
@@ -1398,6 +1510,13 @@
         "clause": "2c",
         "title": "Điều kiện tiếp nhận, chuyển giao người đang chấp hành hình phạt tù",
         "text": "Có sự đồng ý của nước tiếp nhận chuyển giao."
+    },
+    {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Từ chối chuyển giao người đang chấp hành hình phạt tù",
+        "text": "Cơ quan có thẩm quyền của Việt Nam từ chối chuyển giao người đang chấp hành hình phạt tù tại Việt Nam cho nước ngoài khi thuộc một trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 51.1",
@@ -1540,6 +1659,13 @@
         "text": "Điều ước quốc tế giữa nước được yêu cầu chuyển giao và nước tiếp nhận."
     },
     {
+        "id": "Điều 54.0",
+        "article": "Điều 54",
+        "clause": "0",
+        "title": "Tiếp nhận yêu cầu chuyển giao người đang chấp hành hình phạt tù",
+        "text": "Trong thời hạn hai mươi ngày, kể từ ngày nhận được hồ sơ yêu cầu chuyển giao người đang chấp hành hình phạt tù và tài liệu kèm theo, Bộ Công an vào sổ hồ sơ chuyển giao và kiểm tra hồ sơ theo quy định tại Điều 52 và Điều 53 của Luật này. Bộ Công an có thể yêu cầu cơ quan có thẩm quyền của nước yêu cầu chuyển giao cung cấp thông tin bổ sung hồ sơ. Sau sáu mươi ngày, kể từ ngày gửi văn bản yêu cầu bổ sung thông tin mà không nhận được thông tin bổ sung thì Bộ Công an gửi trả hồ sơ cho nước yêu cầu chuyển giao người đang chấp hành hình phạt tù và nêu rõ lý do. Trường hợp hồ sơ hợp lệ thì Bộ Công an chuyển ngay cho Tòa án nhân dân cấp tỉnh có thẩm quyền hai bộ hồ sơ để xem xét, quyết định."
+    },
+    {
         "id": "Điều 55.1",
         "article": "Điều 55",
         "clause": "1",
@@ -1645,6 +1771,13 @@
         "text": "Quyết định của Tòa án cấp phúc thẩm."
     },
     {
+        "id": "Điều 56.0",
+        "article": "Điều 56",
+        "clause": "0",
+        "title": "Thẩm quyền quyết định tiếp nhận người đang chấp hành hình phạt tù ở nước ngoài về Việt Nam",
+        "text": "Tòa án nhân dân cấp tỉnh nơi người được chuyển giao có nơi cư trú cuối cùng tại Việt Nam quyết định việc tiếp nhận. Trình tự, thủ tục xem xét việc tiếp nhận được thực hiện theo quy định tại Điều 55 của Luật này."
+    },
+    {
         "id": "Điều 57.1",
         "article": "Điều 57",
         "clause": "1",
@@ -1692,6 +1825,13 @@
         "clause": "2",
         "title": "Áp giải người được chuyển giao",
         "text": "Trường hợp thời hạn thoả thuận quy định tại khoản 1 Điều này đã hết mà nước yêu cầu chuyển giao không tiếp nhận thì Bộ Công an kiến nghị Tòa án nhân dân có thẩm quyền đã ra quyết định chuyển giao hủy quyết định thi hành quyết định chuyển giao đó và thông báo cho nước yêu cầu chuyển giao biết."
+    },
+    {
+        "id": "Điều 60.0",
+        "article": "Điều 60",
+        "clause": "0",
+        "title": "Chi phí về chuyển giao người đang chấp hành hình phạt tù",
+        "text": "Nước yêu cầu chuyển giao người đang chấp hành hình phạt tù phải chịu mọi chi phí về chuyển giao người đang chấp hành hình phạt tù, trừ trường hợp có thỏa thuận khác. Trong trường hợp Việt Nam chịu chi phí chuyển giao người đang chấp hành hình phạt tù thì chi phí đó do ngân sách nhà nước bảo đảm. Chương VI TRÁCH NHIỆM CỦA CÁC CƠ QUAN NHÀ NƯỚC TRONG HOẠT ĐỘNG TƯƠNG TRỢ TƯ PHÁP"
     },
     {
         "id": "Điều 61.1",
@@ -1944,5 +2084,19 @@
         "clause": "3",
         "title": "Trách nhiệm của cơ quan điều tra",
         "text": "Báo cáo kết quả thực hiện tương trợ tư pháp về hình sự, dẫn độ và chuyển giao người đang chấp hành hình phạt tù cho cơ quan có thẩm quyền. Chương VII ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 71.0",
+        "article": "Điều 71",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2008."
+    },
+    {
+        "id": "Điều 72.0",
+        "article": "Điều 72",
+        "clause": "0",
+        "title": "Hướng dẫn thi hành",
+        "text": "Chính phủ, Viện kiểm sát nhân dân tối cao quy định chi tiết và hướng dẫn thi hành Luật này. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 2 thông qua ngày 21 tháng 11 năm 2007. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

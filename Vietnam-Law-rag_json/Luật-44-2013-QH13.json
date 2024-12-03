@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về thực hành tiết kiệm, chống lãng phí trong:"
+    },
+    {
         "id": "Điều 1.1",
         "article": "Điều 1",
         "clause": "1",
@@ -40,6 +47,13 @@
         "clause": "3",
         "title": "Đối tượng áp dụng",
         "text": "Tổ chức, hộ gia đình và cá nhân khác."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -453,6 +467,13 @@
         "clause": "5",
         "title": "Kiểm tra, thanh tra, kiểm soát chi, kiểm toán nhà nước",
         "text": "Cơ quan nhà nước có thẩm quyền khi thực hiện kiểm tra, thanh tra, kiểm soát chi và kiểm toán có trách nhiệm phát hiện, ngăn chặn và kịp thời xử lý theo thẩm quyền hoặc kiến nghị cấp có thẩm quyền xử lý các vi phạm về thực hành tiết kiệm, chống lãng phí; xác định rõ nguyên nhân và kiến nghị biện pháp khắc phục. Chương 2. QUY ĐỊNH VỀ THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ TRONG MỘT SỐ LĨNH VỰC MỤC 1. THỰC HÀNH TIẾT KIỆM, CHỐNG LÃNG PHÍ TRONG VIỆC BAN HÀNH, THỰC HIỆN ĐỊNH MỨC, TIÊU CHUẨN, CHẾ ĐỘ"
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Hệ thống định mức, tiêu chuẩn, chế độ",
+        "text": "Định mức, tiêu chuẩn, chế độ làm căn cứ thực hành tiết kiệm, chống lãng phí bao gồm:"
     },
     {
         "id": "Điều 11.1",
@@ -2205,6 +2226,13 @@
         "text": "Đơn vị sự nghiệp công lập phải xây dựng kế hoạch đào tạo, bồi dưỡng, đánh giá, phân loại viên chức theo đúng quy định của pháp luật về viên chức; xây dựng kế hoạch sử dụng thời gian lao động, xử lý công việc phù hợp; xây dựng quy định về kỷ luật lao động phù hợp với quy định của pháp luật về lao động và pháp luật về viên chức."
     },
     {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Quản lý, sử dụng lao động và thời gian lao động trong các cơ quan, tổ chức khác",
+        "text": "Các cơ quan, tổ chức khác căn cứ vào thực tế sử dụng lao động, thời gian lao động của mình để áp dụng quy định tại các điều 54, 55 và 56 của Luật này và quy định của pháp luật về lao động."
+    },
+    {
         "id": "Điều 58.1",
         "article": "Điều 58",
         "clause": "1",
@@ -3008,5 +3036,19 @@
         "clause": "5",
         "title": "Xử lý vi phạm và bồi thường thiệt hại",
         "text": "Chính phủ quy định chi tiết Điều này. Chương 5. ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 79.0",
+        "article": "Điều 79",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2014. Luật thực hành tiết kiệm, chống lãng phí số 48/2005/QH11 hết hiệu lực thi hành kể từ ngày Luật này có hiệu lực thi hành."
+    },
+    {
+        "id": "Điều 80.0",
+        "article": "Điều 80",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 6 thông qua ngày 26 tháng 11 năm 2013. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

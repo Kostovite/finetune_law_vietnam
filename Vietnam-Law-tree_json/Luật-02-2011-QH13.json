@@ -17,12 +17,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về khiếu nại và giải quyết khiếu nại đối với quyết định hành chính, hành vi hành chính của cơ quan hành chính nhà nước, của người có thẩm quyền trong cơ quan hành chính nhà nước; khiếu nại và giải quyết khiếu nại quyết định kỷ luật cán bộ, công chức; tiếp công dân; quản lý và giám sát công tác giải quyết khiếu nại.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Khiếu nại là việc công dân, cơ quan, tổ chức hoặc cán bộ, công chức theo thủ tục do Luật này quy định đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền xem xét lại quyết định hành chính, hành vi hành chính của cơ quan hành chính nhà nước, của người có thẩm quyền trong cơ quan hành chính nhà nước hoặc quyết định kỷ luật cán bộ, công chức khi có căn cứ cho rằng quyết định hoặc hành vi đó là trái pháp luật, xâm phạm quyền, lợi ích hợp pháp của mình.",
@@ -91,7 +102,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Khiếu nại và giải quyết khiếu nại đối với quyết định hành chính, hành vi hành chính trong đơn vị sự nghiệp công lập, doanh nghiệp nhà nước được áp dụng theo quy định của Luật này.",
+                    "text": "Khiếu nại và giải quyết khiếu nại đối với quyết định hành chính, hành vi hành chính trong đơn vị sự nghiệp công lập, doanh nghiệp nhà nước được áp dụng theo quy định của Luật này. Chính phủ quy định chi tiết khoản này.",
                     "sub_clauses": []
                 },
                 {
@@ -114,7 +125,13 @@
         {
             "id": "Điều 4",
             "title": "Nguyên tắc khiếu nại và giải quyết khiếu nại",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc khiếu nại và giải quyết khiếu nại phải được thực hiện theo quy định của pháp luật; bảo đảm khách quan, công khai, dân chủ và kịp thời.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 5",
@@ -132,7 +149,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ quan, tổ chức, cá nhân có trách nhiệm kiểm tra, xem xét lại quyết định hành chính, hành vi hành chính, quyết định kỷ luật của mình; nếu trái pháp luật phải kịp thời sửa chữa, khắc phục, tránh phát sinh khiếu nại.",
+                    "text": "Cơ quan, tổ chức, cá nhân có trách nhiệm kiểm tra, xem xét lại quyết định hành chính, hành vi hành chính, quyết định kỷ luật của mình; nếu trái pháp luật phải kịp thời sửa chữa, khắc phục, tránh phát sinh khiếu nại. Nhà nước khuyến khích việc hòa giải tranh chấp giữa các cơ quan, tổ chức, cá nhân trước khi cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp đó.",
                     "sub_clauses": []
                 }
             ]
@@ -183,7 +200,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Vi phạm các quy định khác của pháp luật về khiếu nại và giải quyết khiếu nại.",
+                    "text": "Vi phạm các quy định khác của pháp luật về khiếu nại và giải quyết khiếu nại. CHƯƠNG II KHIẾU NẠI QUYẾT ĐỊNH HÀNH CHÍNH, HÀNH VI HÀNH CHÍNH Mục 1 KHIẾU NẠI",
                     "sub_clauses": []
                 }
             ]
@@ -194,17 +211,17 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Khi có căn cứ cho rằng quyết định hành chính, hành vi hành chính là trái pháp luật, xâm phạm trực tiếp đến quyền, lợi ích hợp pháp của mình thì người khiếu nại khiếu nại lần đầu đến người đã ra quyết định hành chính hoặc cơ quan có người có hành vi hành chính hoặc khởi kiện vụ án hành chính tại Tòa án theo quy định của Luật tố tụng hành chính.",
+                    "text": "Khi có căn cứ cho rằng quyết định hành chính, hành vi hành chính là trái pháp luật, xâm phạm trực tiếp đến quyền, lợi ích hợp pháp của mình thì người khiếu nại khiếu nại lần đầu đến người đã ra quyết định hành chính hoặc cơ quan có người có hành vi hành chính hoặc khởi kiện vụ án hành chính tại Tòa án theo quy định của Luật tố tụng hành chính. Trường hợp người khiếu nại không đồng ý với quyết định giải quyết khiếu nại lần đầu hoặc quá thời hạn quy định mà khiếu nại không được giải quyết thì có quyền khiếu nại lần hai đến Thủ trưởng cấp trên trực tiếp của người có thẩm quyền giải quyết khiếu nại lần đầu hoặc khởi kiện vụ án hành chính tại Tòa án theo quy định của Luật tố tụng hành chính. Trường hợp người khiếu nại không đồng ý với quyết định giải quyết khiếu nại lần hai hoặc hết thời hạn quy định mà khiếu nại không được giải quyết thì có quyền khởi kiện vụ án hành chính tại Tòa án theo quy định của Luật tố tụng hành chính.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Đối với quyết định hành chính, hành vi hành chính của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ (sau đây gọi chung là Bộ trưởng) thì người khiếu nại khiếu nại đến Bộ trưởng hoặc khởi kiện vụ án hành chính tại Tòa án theo quy định của Luật tố tụng hành chính.",
+                    "text": "Đối với quyết định hành chính, hành vi hành chính của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ (sau đây gọi chung là Bộ trưởng) thì người khiếu nại khiếu nại đến Bộ trưởng hoặc khởi kiện vụ án hành chính tại Tòa án theo quy định của Luật tố tụng hành chính. Trường hợp người khiếu nại không đồng ý với quyết định giải quyết khiếu nại của Bộ trưởng hoặc quá thời hạn quy định mà khiếu nại không được giải quyết thì có quyền khởi kiện vụ án hành chính tại Toà án theo quy định của Luật tố tụng hành chính.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Đối với quyết định hành chính, hành vi hành chính của Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh) thì người khiếu nại khiếu nại lần đầu đến Chủ tịch Ủy ban nhân dân cấp tỉnh hoặc khởi kiện vụ án hành chính tại Tòa án theo quy định của Luật tố tụng hành chính.",
+                    "text": "Đối với quyết định hành chính, hành vi hành chính của Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh) thì người khiếu nại khiếu nại lần đầu đến Chủ tịch Ủy ban nhân dân cấp tỉnh hoặc khởi kiện vụ án hành chính tại Tòa án theo quy định của Luật tố tụng hành chính. Trường hợp người khiếu nại không đồng ý với quyết định giải quyết khiếu nại lần đầu của Chủ tịch Ủy ban nhân dân cấp tỉnh hoặc hết thời hạn quy định mà khiếu nại không được giải quyết thì có quyền khiếu nại lần hai đến Bộ trưởng quản lý ngành, lĩnh vực hoặc khởi kiện vụ án hành chính tại Tòa án theo quy định của Luật tố tụng hành chính. Trường hợp người khiếu nại không đồng ý với quyết định giải quyết lần hai của Bộ trưởng hoặc hết thời hạn quy định mà khiếu nại không được giải quyết thì có quyền khởi kiện vụ án hành chính tại Tòa án theo quy định của Luật tố tụng hành chính.",
                     "sub_clauses": []
                 }
             ]
@@ -256,17 +273,34 @@
         {
             "id": "Điều 9",
             "title": "Thời hiệu khiếu nại",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thời hiệu khiếu nại là 90 ngày, kể từ ngày nhận được quyết định hành chính hoặc biết được quyết định hành chính, hành vi hành chính. Trường hợp người khiếu nại không thực hiện được quyền khiếu nại theo đúng thời hiệu vì ốm đau, thiên tai, địch họa, đi công tác, học tập ở nơi xa hoặc vì những trở ngại khách quan khác thì thời gian có trở ngại đó không tính vào thời hiệu khiếu nại.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 10",
             "title": "Rút khiếu nại",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người khiếu nại có thể rút khiếu nại tại bất cứ thời điểm nào trong quá trình khiếu nại và giải quyết khiếu nại; việc rút khiếu nại phải được thực hiện bằng đơn có chữ ký hoặc điểm chỉ của người khiếu nại; đơn xin rút khiếu nại phải gửi đến người có thẩm quyền giải quyết khiếu nại. Người có thẩm quyền giải quyết khiếu nại khi nhận được đơn xin rút khiếu nại thì đình chỉ việc giải quyết và thông báo bằng văn bản cho người khiếu nại về việc đình chỉ giải quyết khiếu nại.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 11",
             "title": "Các khiếu nại không được thụ lý giải quyết",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Khiếu nại thuộc một trong các trường hợp sau đây không được thụ lý giải quyết:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Quyết định hành chính, hành vi hành chính trong nội bộ cơ quan nhà nước để chỉ đạo, tổ chức thực hiện nhiệm vụ, công vụ; quyết định hành chính, hành vi hành chính trong chỉ đạo điều hành của cơ quan hành chính cấp trên với cơ quan hành chính cấp dưới; quyết định hành chính có chứa đựng các quy phạm pháp luật do cơ quan, tổ chức, cá nhân có thẩm quyền ban hành theo trình tự, thủ tục của pháp luật về ban hành văn bản quy phạm pháp luật; quyết định hành chính, hành vi hành chính thuộc phạm vi bí mật nhà nước trong các lĩnh vực quốc phòng, an ninh, ngoại giao theo danh mục do Chính phủ quy định;",
@@ -309,7 +343,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Việc khiếu nại đã được Tòa án thụ lý hoặc đã được giải quyết bằng bản án, quyết định của Toà án, trừ quyết định đình chỉ giải quyết vụ án hành chính của Tòa án.",
+                    "text": "Việc khiếu nại đã được Tòa án thụ lý hoặc đã được giải quyết bằng bản án, quyết định của Toà án, trừ quyết định đình chỉ giải quyết vụ án hành chính của Tòa án. Mục 2 QUYỀN, NGHĨA VỤ CỦA NGƯỜI KHIẾU NẠI, NGƯỜI BỊ KHIẾU NẠI, NGƯỜI GIẢI QUYẾT KHIẾU NẠI VÀ CỦA LUẬT SƯ, TRỢ GIÚP VIÊN PHÁP LÝ",
                     "sub_clauses": []
                 }
             ]
@@ -320,7 +354,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người khiếu nại có các quyền sau đây:",
+                    "text": "Người khiếu nại có các quyền sau đây: Trường hợp người khiếu nại là người chưa thành niên, người mất năng lực hành vi dân sự thì người đại diện theo pháp luật của họ thực hiện việc khiếu nại. Trường hợp người khiếu nại ốm đau, già yếu, có nhược điểm về thể chất hoặc vì lý do khách quan khác mà không thể tự mình khiếu nại thì được ủy quyền cho cha, mẹ, vợ, chồng, anh, chị, em ruột, con đã thành niên hoặc người khác có năng lực hành vi dân sự đầy đủ để thực hiện việc khiếu nại; Trường hợp người khiếu nại là người được trợ giúp pháp lý theo quy định của pháp luật thì được nhờ trợ giúp viên pháp lý tư vấn về pháp luật hoặc ủy quyền cho trợ giúp viên pháp lý khiếu nại để bảo vệ quyền, lợi ích hợp pháp của mình;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -621,7 +655,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Luật sư, trợ giúp viên pháp lý thực hiện các quyền, nghĩa vụ khác theo quy định của pháp luật.",
+                    "text": "Luật sư, trợ giúp viên pháp lý thực hiện các quyền, nghĩa vụ khác theo quy định của pháp luật. CHƯƠNG III GIẢI QUYẾT KHIẾU NẠI Mục 1 THẨM QUYỀN GIẢI QUYẾT KHIẾU NẠI",
                     "sub_clauses": []
                 }
             ]
@@ -629,7 +663,13 @@
         {
             "id": "Điều 17",
             "title": "Thẩm quyền của Chủ tịch Ủy ban nhân dân xã, phường, thị trấn và Thủ trưởng cơ quan thuộc Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chủ tịch Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là cấp xã); Thủ trưởng cơ quan thuộc Ủy ban nhân dân huyện, quận, thị xã, thành phố trực thuộc tỉnh (sau đây gọi chung là cấp huyện) có thẩm quyền giải quyết khiếu nại lần đầu đối với quyết định hành chính, hành vi hành chính của mình, của người có trách nhiệm do mình quản lý trực tiếp.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 18",
@@ -650,7 +690,13 @@
         {
             "id": "Điều 19",
             "title": "Thẩm quyền của Thủ trưởng cơ quan thuộc sở và cấp tương đương",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thủ trưởng cơ quan thuộc sở và cấp tương đương có thẩm quyền giải quyết khiếu nại lần đầu đối với quyết định hành chính, hành vi hành chính của mình, của cán bộ, công chức do mình quản lý trực tiếp.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 20",
@@ -692,7 +738,13 @@
         {
             "id": "Điều 22",
             "title": "Thẩm quyền của Thủ trưởng cơ quan thuộc bộ, thuộc cơ quan ngang bộ, thuộc cơ quan thuộc Chính phủ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thủ trưởng cơ quan thuộc bộ, thuộc cơ quan ngang bộ, thuộc cơ quan thuộc Chính phủ (sau đây gọi chung là Thủ trưởng cơ quan thuộc bộ) có thẩm quyền giải quyết khiếu nại đối với quyết định hành chính, hành vi hành chính của mình, của cán bộ, công chức do mình quản lý trực tiếp.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 23",
@@ -747,7 +799,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Giúp thủ trưởng cơ quan quản lý nhà nước cùng cấp theo dõi, kiểm tra, đôn đốc các cơ quan thuộc quyền quản lý trực tiếp của thủ trưởng trong việc tiếp công dân, giải quyết khiếu nại, thi hành quyết định giải quyết khiếu nại có hiệu lực pháp luật.",
+                    "text": "Giúp thủ trưởng cơ quan quản lý nhà nước cùng cấp theo dõi, kiểm tra, đôn đốc các cơ quan thuộc quyền quản lý trực tiếp của thủ trưởng trong việc tiếp công dân, giải quyết khiếu nại, thi hành quyết định giải quyết khiếu nại có hiệu lực pháp luật. Trường hợp phát hiện hành vi vi phạm pháp luật về khiếu nại gây thiệt hại đến lợi ích của Nhà nước, quyền, lợi ích hợp pháp của công dân, cơ quan, tổ chức thì kiến nghị thủ trưởng cơ quan quản lý nhà nước cùng cấp hoặc kiến nghị người có thẩm quyền áp dụng biện pháp cần thiết để chấm dứt vi phạm, xem xét trách nhiệm, xử lý đối với người vi phạm.",
                     "sub_clauses": []
                 }
             ]
@@ -768,7 +820,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chỉ đạo, xử lý tranh chấp về thẩm quyền giải quyết khiếu nại giữa các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh.",
+                    "text": "Chỉ đạo, xử lý tranh chấp về thẩm quyền giải quyết khiếu nại giữa các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh. Mục 2 TRÌNH TỰ, THỦ TỤC GIẢI QUYẾT KHIẾU NẠI LẦN ĐẦU",
                     "sub_clauses": []
                 }
             ]
@@ -776,12 +828,24 @@
         {
             "id": "Điều 27",
             "title": "Thụ lý giải quyết khiếu nại",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong thời hạn 10 ngày, kể từ ngày nhận được khiếu nại thuộc thẩm quyền mà không thuộc một trong các trường hợp được quy định tại Điều 11 của Luật này, người có thẩm quyền giải quyết khiếu nại lần đầu phải thụ lý giải quyết; thông báo bằng văn bản cho người khiếu nại, cơ quan, tổ chức, cá nhân có thẩm quyền chuyển khiếu nại đến và cơ quan thanh tra nhà nước cùng cấp biết, trường hợp không thụ lý giải quyết thì phải nêu rõ lý do.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 28",
             "title": "Thời hạn giải quyết khiếu nại lần đầu",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thời hạn giải quyết khiếu nại lần đầu không quá 30 ngày, kể từ ngày thụ lý; đối với vụ việc phức tạp thì thời hạn giải quyết có thể kéo dài hơn nhưng không quá 45 ngày, kể từ ngày thụ lý. Ở vùng sâu, vùng xa đi lại khó khăn thì thời hạn giải quyết khiếu nại không quá 45 ngày, kể từ ngày thụ lý; đối với vụ việc phức tạp thì thời hạn giải quyết có thể kéo dài hơn nhưng không quá 60 ngày, kể từ ngày thụ lý.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 29",
@@ -977,7 +1041,13 @@
         {
             "id": "Điều 32",
             "title": "Gửi quyết định giải quyết khiếu nại lần đầu",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong thời hạn 03 ngày làm việc, kể từ ngày có quyết định giải quyết khiếu nại, người giải quyết khiếu nại lần đầu có trách nhiệm gửi quyết định giải quyết khiếu nại cho người khiếu nại, thủ trưởng cấp trên trực tiếp của người giải quyết khiếu nại hoặc người có thẩm quyền, người có quyền, nghĩa vụ liên quan, cơ quan, tổ chức, cá nhân đã chuyển khiếu nại đến và cơ quan thanh tra nhà nước cùng cấp.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 33",
@@ -985,7 +1055,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trong thời hạn 30 ngày, kể từ ngày hết thời hạn giải quyết khiếu nại quy định tại Điều 28 của Luật này mà khiếu nại lần đầu không được giải quyết hoặc kể từ ngày nhận được quyết định giải quyết khiếu nại lần đầu mà người khiếu nại không đồng ý thì có quyền khiếu nại đến người có thẩm quyền giải quyết khiếu nại lần hai; đối với vùng sâu, vùng xa đi lại khó khăn thì thời hạn có thể kéo dài hơn nhưng không quá 45 ngày.",
+                    "text": "Trong thời hạn 30 ngày, kể từ ngày hết thời hạn giải quyết khiếu nại quy định tại Điều 28 của Luật này mà khiếu nại lần đầu không được giải quyết hoặc kể từ ngày nhận được quyết định giải quyết khiếu nại lần đầu mà người khiếu nại không đồng ý thì có quyền khiếu nại đến người có thẩm quyền giải quyết khiếu nại lần hai; đối với vùng sâu, vùng xa đi lại khó khăn thì thời hạn có thể kéo dài hơn nhưng không quá 45 ngày. Trường hợp khiếu nại lần hai thì người khiếu nại phải gửi đơn kèm theo quyết định giải quyết khiếu nại lần đầu, các tài liệu có liên quan cho người có thẩm quyền giải quyết khiếu nại lần hai.",
                     "sub_clauses": []
                 },
                 {
@@ -1039,7 +1109,13 @@
         {
             "id": "Điều 35",
             "title": "Áp dụng biện pháp khẩn cấp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong quá trình giải quyết khiếu nại, nếu xét thấy việc thi hành quyết định hành chính bị khiếu nại sẽ gây hậu quả khó khắc phục, thì người giải quyết khiếu nại phải ra quyết định tạm đình chỉ việc thi hành quyết định đó. Thời hạn tạm đình chỉ không vượt quá thời gian còn lại của thời hạn giải quyết. Quyết định tạm đình chỉ phải được gửi cho người khiếu nại, người bị khiếu nại, người có quyền, nghĩa vụ liên quan và những người có trách nhiệm thi hành khác. Khi xét thấy lý do của việc tạm đình chỉ không còn thì phải hủy bỏ ngay quyết định tạm đình chỉ đó. Mục 3 TRÌNH TỰ, THỦ TỤC GIẢI QUYẾT KHIẾU NẠI LẦN HAI",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 36",
@@ -1060,17 +1136,35 @@
         {
             "id": "Điều 37",
             "title": "Thời hạn giải quyết khiếu nại lần hai",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thời hạn giải quyết khiếu nại lần hai không quá 45 ngày, kể từ ngày thụ lý; đối với vụ việc phức tạp thì thời hạn giải quyết khiếu nại có thể kéo dài hơn nhưng không quá 60 ngày, kể từ ngày thụ lý. Ở vùng sâu, vùng xa đi lại khó khăn thì thời hạn giải quyết khiếu nại không quá 60 ngày, kể từ ngày thụ lý; đối với vụ việc phức tạp thì thời hạn giải quyết khiếu nại có thể kéo dài hơn, nhưng không quá 70 ngày, kể từ ngày thụ lý.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 38",
             "title": "Xác minh nội dung khiếu nại lần hai",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người có thẩm quyền giải quyết khiếu nại lần hai căn cứ vào nội dung, tính chất của việc khiếu nại, tự mình tiến hành xác minh, kết luận nội dung khiếu nại hoặc giao cho người có trách nhiệm xác minh tiến hành xác minh nội dung khiếu nại và kiến nghị giải quyết khiếu nại. Việc xác minh thực hiện theo quy định tại các khoản 2, 3 và 4 Điều 29 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 39",
             "title": "Tổ chức đối thoại lần hai",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong quá trình giải quyết khiếu nại lần hai, người giải quyết khiếu nại tiến hành đối thoại với người khiếu nại, người bị khiếu nại, người có quyền và nghĩa vụ liên quan, cơ quan, tổ chức, cá nhân có liên quan để làm rõ nội dung khiếu nại, yêu cầu của người khiếu nại, hướng giải quyết khiếu nại. Việc tổ chức đối thoại lần hai thực hiện theo quy định tại Điều 30 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 40",
@@ -1166,12 +1260,24 @@
         {
             "id": "Điều 42",
             "title": "Khởi kiện vụ án hành chính",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hết thời hạn giải quyết khiếu nại quy định tại Điều 37 của Luật này mà khiếu nại không được giải quyết hoặc người khiếu nại không đồng ý với quyết định giải quyết khiếu nại lần hai thì có quyền khởi kiện vụ án hành chính tại Tòa án theo quy định của Luật tố tụng hành chính.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 43",
             "title": "Hồ sơ giải quyết khiếu nại lần hai",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc giải quyết khiếu nại lần hai phải được lập thành hồ sơ theo quy định tại Điều 34 của Luật này, kèm theo ý kiến bằng văn bản của Hội đồng tư vấn (nếu có). Mục 4 THI HÀNH QUYẾT ĐỊNH GIẢI QUYẾT KHIẾU NẠI CÓ HIỆU LỰC PHÁP LUẬT",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 44",
@@ -1264,7 +1370,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. CHƯƠNG IV KHIẾU NẠI, GIẢI QUYẾT KHIẾU NẠI QUYẾT ĐỊNH KỶ LUẬT CÁN BỘ, CÔNG CHỨC",
                     "sub_clauses": []
                 }
             ]
@@ -1272,22 +1378,46 @@
         {
             "id": "Điều 47",
             "title": "Khiếu nại quyết định kỷ luật",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khiếu nại quyết định kỷ luật là việc cán bộ, công chức theo thủ tục do Luật này quy định đề nghị cơ quan, tổ chức, cá nhân có thẩm quyền xem xét lại quyết định kỷ luật cán bộ, công chức khi có căn cứ cho rằng quyết định đó là trái pháp luật, xâm phạm trực tiếp đến quyền và lợi ích hợp pháp của mình.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 48",
             "title": "Thời hiệu khiếu nại",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thời hiệu khiếu nại lần đầu là 15 ngày, kể từ ngày cán bộ, công chức nhận được quyết định kỷ luật. Thời hiệu khiếu nại lần hai là 10 ngày, kể từ ngày cán bộ, công chức nhận được quyết định giải quyết khiếu nại lần đầu; đối với quyết định kỷ luật buộc thôi việc thì thời hiệu khiếu nại lần hai là 30 ngày, kể từ ngày cán bộ, công chức nhận được quyết định giải quyết khiếu nại lần đầu. Trường hợp người khiếu nại không thực hiện được quyền khiếu nại theo đúng thời hiệu vì ốm đau, thiên tai, địch họa, đi công tác, học tập ở nơi xa hoặc vì những trở ngại khách quan khác thì thời gian có trở ngại đó không tính vào thời hiệu khiếu nại.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 49",
             "title": "Hình thức khiếu nại",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc khiếu nại phải được thực hiện bằng đơn. Trong đơn khiếu nại phải ghi rõ ngày, tháng, năm; họ, tên, địa chỉ của người khiếu nại; nội dung, lý do khiếu nại, yêu cầu của người khiếu nại và có chữ ký của người khiếu nại. Đơn khiếu nại lần đầu phải được gửi đến người đã ra quyết định kỷ luật. Đơn khiếu nại lần hai được gửi đến cơ quan có thẩm quyền giải quyết khiếu nại lần hai.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 50",
             "title": "Thời hạn thụ lý và giải quyết khiếu nại",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thời hạn thụ lý và giải quyết khiếu nại lần đầu, lần hai như sau: Trong thời hạn 10 ngày, kể từ ngày nhận được đơn khiếu nại, người có thẩm quyền giải quyết khiếu nại phải thụ lý để giải quyết và thông báo cho người khiếu nại biết. Thời hạn giải quyết khiếu nại không quá 30 ngày, kể từ ngày thụ lý; đối với vụ việc phức tạp thì thời hạn giải quyết khiếu nại có thể kéo dài hơn nhưng không quá 45 ngày, kể từ ngày thụ lý.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 51",
@@ -1315,13 +1445,18 @@
             "title": "Xác minh nội dung khiếu nại",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong quá trình giải quyết khiếu nại, người có thẩm quyền giải quyết khiếu nại có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Trực tiếp hoặc phân công người có trách nhiệm kiểm tra lại quyết định kỷ luật cán bộ, công chức bị khiếu nại, xem xét nội dung khiếu nại. Nếu xét thấy nội dung khiếu nại đã rõ thì yêu cầu Hội đồng kỷ luật cán bộ, công chức xem xét để đề nghị người có thẩm quyền giải quyết;",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp nội dung khiếu nại chưa được xác định rõ thì tự mình hoặc giao người có trách nhiệm xác minh, kết luận nội dung khiếu nại. Người có trách nhiệm xác minh có các quyền, nghĩa vụ theo quy định tại khoản 3 Điều 29 của Luật này.",
+                    "text": "Trường hợp nội dung khiếu nại chưa được xác định rõ thì tự mình hoặc giao người có trách nhiệm xác minh, kết luận nội dung khiếu nại. Người có trách nhiệm xác minh có các quyền, nghĩa vụ theo quy định tại khoản 3 Điều 29 của Luật này. Việc xác minh nội dung khiếu nại phải lập thành văn bản, báo cáo người có thẩm quyền giải quyết khiếu nại. Sau khi có kết quả xác minh nội dung khiếu nại thì yêu cầu Hội đồng kỷ luật cán bộ, công chức xem xét để đề nghị người có thẩm quyền giải quyết khiếu nại.",
                     "sub_clauses": []
                 }
             ]
@@ -1332,7 +1467,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người có thẩm quyền giải quyết khiếu nại, trước khi ra quyết định giải quyết khiếu nại phải tổ chức đối thoại với người khiếu nại.",
+                    "text": "Người có thẩm quyền giải quyết khiếu nại, trước khi ra quyết định giải quyết khiếu nại phải tổ chức đối thoại với người khiếu nại. Thành phần tham gia đối thoại bao gồm người có thẩm quyền giải quyết khiếu nại chủ trì, người khiếu nại, người có trách nhiệm xác minh, những người khác có liên quan.",
                     "sub_clauses": []
                 },
                 {
@@ -1413,6 +1548,11 @@
             "id": "Điều 55",
             "title": "Giải quyết khiếu nại lần hai",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Người có thẩm quyền giải quyết khiếu nại lần hai có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Yêu cầu người ban hành quyết định kỷ luật cán bộ, công chức bị khiếu nại báo cáo việc xem xét kỷ luật và giải quyết khiếu nại của người bị kỷ luật;",
@@ -1496,7 +1636,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Quyết định giải quyết khiếu nại lần hai phải được gửi cho người khiếu nại, người giải quyết khiếu nại lần đầu, người có quyền, nghĩa vụ liên quan trong thời hạn 07 ngày, kể từ ngày ban hành.",
+                    "text": "Quyết định giải quyết khiếu nại lần hai phải được gửi cho người khiếu nại, người giải quyết khiếu nại lần đầu, người có quyền, nghĩa vụ liên quan trong thời hạn 07 ngày, kể từ ngày ban hành. Quyết định giải quyết khiếu nại lần hai của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân cấp tỉnh phải được gửi cho Tổng thanh tra Chính phủ và Bộ trưởng Bộ Nội vụ.",
                     "sub_clauses": []
                 }
             ]
@@ -1542,7 +1682,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. CHƯƠNG V TIẾP CÔNG DÂN",
                     "sub_clauses": []
                 }
             ]
@@ -1553,7 +1693,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trụ sở tiếp công dân của Đảng và Nhà nước được tổ chức ở trung ương và địa phương để tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh theo quy định của cơ quan, tổ chức có thẩm quyền.",
+                    "text": "Trụ sở tiếp công dân của Đảng và Nhà nước được tổ chức ở trung ương và địa phương để tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh theo quy định của cơ quan, tổ chức có thẩm quyền. Địa điểm tiếp công dân là nơi tiếp công dân do cơ quan, tổ chức, cá nhân có thẩm quyền bố trí để tiếp công dân đến khiếu nại, tố cáo, kiến nghị, phản ánh theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -1672,7 +1812,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Người phụ trách trụ sở, địa điểm tiếp công dân trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm theo dõi, kiểm tra, đôn đốc việc giải quyết khiếu nại, tố cáo của người có thẩm quyền; xử lý theo thẩm quyền hoặc kiến nghị cơ quan có thẩm quyền xử lý hành vi vi phạm pháp luật về khiếu nại, tố cáo của người có trách nhiệm trong giải quyết khiếu nại, tố cáo.",
+                    "text": "Người phụ trách trụ sở, địa điểm tiếp công dân trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm theo dõi, kiểm tra, đôn đốc việc giải quyết khiếu nại, tố cáo của người có thẩm quyền; xử lý theo thẩm quyền hoặc kiến nghị cơ quan có thẩm quyền xử lý hành vi vi phạm pháp luật về khiếu nại, tố cáo của người có trách nhiệm trong giải quyết khiếu nại, tố cáo. CHƯƠNG VI TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN CÓ THẨM QUYỀN TRONG VIỆC QUẢN LÝ CÔNG TÁC GIẢI QUYẾT KHIẾU NẠI",
                     "sub_clauses": []
                 }
             ]
@@ -1683,7 +1823,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chính phủ thống nhất quản lý nhà nước về công tác giải quyết khiếu nại của các cơ quan hành chính nhà nước trong phạm vi cả nước.",
+                    "text": "Chính phủ thống nhất quản lý nhà nước về công tác giải quyết khiếu nại của các cơ quan hành chính nhà nước trong phạm vi cả nước. Thanh tra Chính phủ chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về công tác giải quyết khiếu nại trong phạm vi cả nước.",
                     "sub_clauses": []
                 },
                 {
@@ -1725,7 +1865,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao định kỳ báo cáo Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước và thông báo đến Ủy ban trung ương Mặt trận Tổ quốc Việt Nam về công tác giải quyết khiếu nại.",
+                    "text": "Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao định kỳ báo cáo Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước và thông báo đến Ủy ban trung ương Mặt trận Tổ quốc Việt Nam về công tác giải quyết khiếu nại. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh báo cáo Chính phủ về công tác giải quyết khiếu nại của cơ quan, địa phương mình theo định kỳ hoặc theo yêu cầu của Chính phủ.",
                     "sub_clauses": []
                 },
                 {
@@ -1746,7 +1886,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Khiếu nại do Ủy ban Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận chuyển đến phải được người giải quyết khiếu nại xem xét, giải quyết và trong thời hạn 07 ngày, kể từ ngày có quyết định giải quyết phải thông báo bằng văn bản cho tổ chức đã chuyển đơn biết kết quả giải quyết; nếu không đồng ý với kết quả giải quyết đó thì tổ chức đã chuyển đơn có quyền kiến nghị cơ quan, tổ chức cấp trên trực tiếp xem xét, giải quyết; cơ quan, tổ chức nhận được kiến nghị có trách nhiệm trả lời kiến nghị đó trong thời hạn 07 ngày, kể từ ngày có quyết định giải quyết.",
+                    "text": "Khiếu nại do Ủy ban Mặt trận Tổ quốc Việt Nam, các tổ chức thành viên của Mặt trận chuyển đến phải được người giải quyết khiếu nại xem xét, giải quyết và trong thời hạn 07 ngày, kể từ ngày có quyết định giải quyết phải thông báo bằng văn bản cho tổ chức đã chuyển đơn biết kết quả giải quyết; nếu không đồng ý với kết quả giải quyết đó thì tổ chức đã chuyển đơn có quyền kiến nghị cơ quan, tổ chức cấp trên trực tiếp xem xét, giải quyết; cơ quan, tổ chức nhận được kiến nghị có trách nhiệm trả lời kiến nghị đó trong thời hạn 07 ngày, kể từ ngày có quyết định giải quyết. CHƯƠNG VII XỬ LÝ VI PHẠM",
                     "sub_clauses": []
                 }
             ]
@@ -1754,12 +1894,24 @@
         {
             "id": "Điều 67",
             "title": "Xử lý hành vi vi phạm pháp luật của người giải quyết khiếu nại",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người giải quyết khiếu nại có một trong các hành vi quy định tại các khoản 1, 2, 3 và 4 Điều 6 của Luật này hoặc vi phạm các quy định khác của pháp luật trong việc giải quyết khiếu nại thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường hoặc bồi hoàn theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 68",
             "title": "Xử lý hành vi vi phạm pháp luật về khiếu nại đối với người khiếu nại và những người khác có liên quan",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người nào có một trong các hành vi quy định tại các khoản 5, 6, 7 và 8 Điều 6 của Luật này hoặc vi phạm các quy định khác của pháp luật về khiếu nại và giải quyết khiếu nại thì tùy theo tính chất, mức độ vi phạm mà bị xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. CHƯƠNG VIII ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 69",
@@ -1767,7 +1919,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Luật này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2012.",
+                    "text": "Luật này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2012. Những quy định về khiếu nại và giải quyết khiếu nại trong Luật khiếu nại, tố cáo số 09/1998/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2004/QH11 và Luật số 58/2005/QH11 hết hiệu lực thi hành kể từ ngày Luật này có hiệu lực.",
                     "sub_clauses": []
                 },
                 {
@@ -1780,8 +1932,19 @@
         {
             "id": "Điều 70",
             "title": "Quy định chi tiết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết các điều, khoản được giao và Chương V của Luật này. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 2 thông qua ngày 11 tháng 11 năm 2011. CHỦ TỊCH QUỐC HỘI (đã ký) Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 2 thông qua ngày 11 tháng 11 năm 2011.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "(đã ký)",
+        "Nguyễn Sinh Hùng"
+    ]
 }

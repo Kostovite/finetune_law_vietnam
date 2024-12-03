@@ -17,7 +17,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về thẩm quyền của Trọng tài thương mại, các hình thức trọng tài, tổ chức trọng tài, Trọng tài viên; trình tự, thủ tục trọng tài; quyền, nghĩa vụ và trách nhiệm của các bên trong tố tụng trọng tài; thẩm quyền của Tòa án đối với hoạt động trọng tài; tổ chức và hoạt động của Trọng tài nước ngoài tại Việt Nam, thi hành phán quyết trọng tài.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -44,6 +50,11 @@
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Trọng tài thương mại là phương thức giải quyết tranh chấp do các bên thoả thuận và được tiến hành theo quy định của Luật này.",
@@ -161,7 +172,13 @@
         {
             "id": "Điều 6",
             "title": "Toà án từ chối thụ lý trong trường hợp có thoả thuận trọng tài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong trường hợp các bên tranh chấp đã có thoả thuận trọng tài mà một bên khởi kiện tại Toà án thì Toà án phải từ chối thụ lý, trừ trường hợp thoả thuận trọng tài vô hiệu hoặc thoả thuận trọng tài không thể thực hiện được.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 7",
@@ -174,7 +191,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp các bên không có thỏa thuận lựa chọn Tòa án thì thẩm quyền của Tòa án được xác định như sau:",
+                    "text": "Trường hợp các bên không có thỏa thuận lựa chọn Tòa án thì thẩm quyền của Tòa án được xác định như sau: Trường hợp bị đơn có nơi cư trú hoặc trụ sở ở nước ngoài thì Tòa án có thẩm quyền là Tòa án nơi cư trú hoặc nơi có trụ sở của nguyên đơn;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -232,7 +249,13 @@
         {
             "id": "Điều 9",
             "title": "Thương lượng, hoà giải trong tố tụng trọng tài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong quá trình tố tụng trọng tài, các bên có quyền tự do thương lượng, thỏa thuận với nhau về việc giải quyết tranh chấp hoặc yêu cầu Hội đồng trọng tài hòa giải để các bên thỏa thuận với nhau về việc giải quyết tranh chấp.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 10",
@@ -271,6 +294,11 @@
             "title": "Gửi thông báo và trình tự gửi thông báo",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Nếu các bên không có thỏa thuận khác hoặc quy tắc tố tụng của Trung tâm trọng tài không quy định khác, cách thức và trình tự gửi thông báo trong tố tụng trọng tài được quy định như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Các bản giải trình, văn thư giao dịch và tài liệu khác của mỗi bên phải được gửi tới Trung tâm trọng tài hoặc Hội đồng trọng tài với số bản đủ để mỗi thành viên trong Hội đồng trọng tài có một bản, bên kia một bản và một bản lưu tại Trung tâm trọng tài;",
                     "sub_clauses": []
@@ -300,7 +328,13 @@
         {
             "id": "Điều 13",
             "title": "Mất quyền phản đối",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong trường hợp một bên phát hiện có vi phạm quy định của Luật này hoặc của thỏa thuận trọng tài mà vẫn tiếp tục thực hiện tố tụng trọng tài và không phản đối những vi phạm trong thời hạn do Luật này quy định thì mất quyền phản đối tại Trọng tài hoặc Tòa án.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 14",
@@ -369,7 +403,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Sở Tư pháp tỉnh, thành phố trực thuộc trung ương giúp Bộ Tư pháp thực hiện một số nhiệm vụ theo quy định của Chính phủ và quy định tại Luật này.",
+                    "text": "Sở Tư pháp tỉnh, thành phố trực thuộc trung ương giúp Bộ Tư pháp thực hiện một số nhiệm vụ theo quy định của Chính phủ và quy định tại Luật này. CHƯƠNG II THỎA THUẬN TRỌNG TÀI",
                     "sub_clauses": []
                 }
             ]
@@ -414,7 +448,13 @@
         {
             "id": "Điều 17",
             "title": "Quyền lựa chọn phương thức giải quyết tranh chấp của người tiêu dùng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Đối với các tranh chấp giữa nhà cung cấp hàng hóa, dịch vụ và người tiêu dùng, mặc dù điều khoản trọng tài đã được ghi nhận trong các điều kiện chung về cung cấp hàng hoá, dịch vụ do nhà cung cấp soạn sẵn thỏa thuận trọng tài thì người tiêu dùng vẫn được quyền lựa chọn Trọng tài hoặc Tòa án để giải quyết tranh chấp. Nhà cung cấp hàng hóa, dịch vụ chỉ được quyền khởi kiện tại Trọng tài nếu được người tiêu dùng chấp thuận.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 18",
@@ -455,7 +495,13 @@
         {
             "id": "Điều 19",
             "title": "Tính độc lập của thoả thuận trọng tài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thoả thuận trọng tài hoàn toàn độc lập với hợp đồng. Việc thay đổi, gia hạn, hủy bỏ hợp đồng, hợp đồng vô hiệu hoặc không thể thực hiện được không làm mất hiệu lực của thoả thuận trọng tài. CHƯƠNG III TRỌNG TÀI VIÊN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 20",
@@ -544,12 +590,24 @@
         {
             "id": "Điều 22",
             "title": "Hiệp hội trọng tài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hiệp hội trọng tài là tổ chức xã hội – nghề nghiệp của Trọng tài viên và Trung tâm trọng tài trong phạm vi cả nước. Việc thành lập và hoạt động của Hiệp hội trọng tài được thực hiện theo quy định của pháp luật về hội nghề nghiệp. CHƯƠNG IV TRUNG TÂM TRỌNG TÀI",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 23",
             "title": "Chức năng của Trung tâm trọng tài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trung tâm trọng tài có chức năng tổ chức, điều phối hoạt động giải quyết tranh chấp bằng Trọng tài quy chế và hỗ trợ Trọng tài viên về các mặt hành chính, văn phòng và các trợ giúp khác trong quá trình tố tụng trọng tài.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 24",
@@ -588,7 +646,13 @@
         {
             "id": "Điều 25",
             "title": "Đăng ký hoạt động của Trung tâm trọng tài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong thời hạn 30 ngày, kể từ ngày nhận được Giấy phép thành lập, Trung tâm trọng tài phải đăng ký hoạt động tại Sở Tư pháp tỉnh, thành phố trực thuộc trung ương nơi Trung tâm trọng tài đặt trụ sở. Hết thời hạn này nếu Trung tâm trọng tài không đăng ký thì giấy phép không còn giá trị. Sở Tư pháp cấp Giấy đăng ký hoạt động cho Trung tâm trọng tài chậm nhất 15 ngày, kể từ ngày nhận được yêu cầu đăng ký.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 26",
@@ -644,7 +708,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trung tâm trọng tài có Ban điều hành và Ban thư ký. Cơ cấu, bộ máy của Trung tâm trọng tài do điều lệ của Trung tâm quy định.",
+                    "text": "Trung tâm trọng tài có Ban điều hành và Ban thư ký. Cơ cấu, bộ máy của Trung tâm trọng tài do điều lệ của Trung tâm quy định. Ban điều hành Trung tâm trọng tài gồm có Chủ tịch, một hoặc các Phó Chủ tịch, có thể có Tổng thư ký do Chủ tịch Trung tâm trọng tài cử. Chủ tịch Trung tâm trọng tài là Trọng tài viên.",
                     "sub_clauses": []
                 },
                 {
@@ -735,7 +799,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết các trường hợp bị thu hồi Giấy phép thành lập, Giấy đăng ký hoạt động và trình tự, thủ tục chấm dứt hoạt động của Trung tâm trọng tài.",
+                    "text": "Chính phủ quy định chi tiết các trường hợp bị thu hồi Giấy phép thành lập, Giấy đăng ký hoạt động và trình tự, thủ tục chấm dứt hoạt động của Trung tâm trọng tài. CHƯƠNG V KHỞI KIỆN",
                     "sub_clauses": []
                 }
             ]
@@ -805,12 +869,24 @@
         {
             "id": "Điều 32",
             "title": "Thông báo đơn khởi kiện",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nếu các bên không có thoả thuận khác hoặc quy tắc tố tụng của Trung tâm trọng tài không có quy định khác, trong thời hạn 10 ngày, kể từ ngày nhận được đơn khởi kiện, các tài liệu kèm theo và chứng từ nộp tạm ứng phí trọng tài, Trung tâm trọng tài phải gửi cho bị đơn bản sao đơn khởi kiện của nguyên đơn và những tài liệu theo quy định tại khoản 3 Điều 30 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 33",
             "title": "Thời hiệu khởi kiện giải quyết tranh chấp bằng Trọng tài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trừ trường hợp luật chuyên ngành có quy định khác, thời hiệu khởi kiện theo thủ tục trọng tài là 02 năm, kể từ thời điểm quyền và lợi ích hợp pháp bị xâm phạm.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 34",
@@ -933,6 +1009,11 @@
             "title": "Rút đơn khởi kiện, đơn kiện lại; sửa đổi, bổ sung đơn khởi kiện, đơn kiện lại hoặc bản tự bảo vệ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trước khi Hội đồng trọng tài ra phán quyết trọng tài, các bên có quyền rút đơn khởi kiện, đơn kiện lại.",
+                    "sub_clauses": []
+                },
+                {
                     "number": "2",
                     "text": "Trong quá trình tố tụng trọng tài, các bên có thể sửa đổi, bổ sung đơn khởi kiện, đơn kiện lại hoặc bản tự bảo vệ. Hội đồng trọng tài có quyền không chấp nhận các sửa đổi, bổ sung này nếu thấy rằng việc đó có thể bị lạm dụng nhằm gây khó khăn, trì hoãn việc ra phán quyết trọng tài hoặc vượt quá phạm vi của thỏa thuận trọng tài áp dụng cho vụ tranh chấp.",
                     "sub_clauses": []
@@ -942,7 +1023,13 @@
         {
             "id": "Điều 38",
             "title": "Thương lượng trong tố tụng trọng tài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Kể từ thời điểm bắt đầu tố tụng trọng tài, các bên vẫn có quyền tự mình thương lượng, thỏa thuận chấm dứt việc giải quyết tranh chấp. Trong trường hợp các bên tự thỏa thuận được với nhau chấm dứt việc giải quyết tranh chấp thì có quyền yêu cầu Chủ tịch Trung tâm trọng tài ra quyết định đình chỉ giải quyết tranh chấp. CHƯƠNG VI HỘI ĐỒNG TRỌNG TÀI",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 39",
@@ -964,6 +1051,11 @@
             "id": "Điều 40",
             "title": "Thành lập Hội đồng trọng tài tại Trung tâm trọng tài",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong trường hợp các bên không có thoả thuận khác hoặc quy tắc tố tụng của Trung tâm trọng tài không quy định khác, việc thành lập Hội đồng trọng tài được quy định như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Trong thời hạn 30 ngày, kể từ ngày nhận được đơn khởi kiện và yêu cầu chọn Trọng tài viên do Trung tâm trọng tài gửi đến, bị đơn phải chọn Trọng tài viên cho mình và báo cho Trung tâm trọng tài biết hoặc đề nghị Chủ tịch Trung tâm trọng tài chỉ định Trọng tài viên. Nếu bị đơn không chọn Trọng tài viên hoặc không đề nghị Chủ tịch Trung tâm trọng tài chỉ định Trọng tài viên, thì trong thời hạn 07 ngày, kể từ ngày hết thời hạn quy định tại khoản này, Chủ tịch Trung tâm trọng tài chỉ định Trọng tài viên cho bị đơn;",
@@ -990,6 +1082,11 @@
             "id": "Điều 41",
             "title": "Thành lập Hội đồng trọng tài vụ việc",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp các bên không có thoả thuận khác, việc thành lập Hội đồng trọng tài vụ việc được quy định như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Trong thời hạn 30 ngày, kể từ ngày bị đơn nhận được đơn khởi kiện của nguyên đơn, bị đơn phải chọn Trọng tài viên và thông báo cho nguyên đơn biết Trọng tài viên mà mình chọn. Hết thời hạn này, nếu bị đơn không thông báo cho nguyên đơn tên Trọng tài viên mà mình chọn và các bên không có thoả thuận khác về việc chỉ định Trọng tài viên, thì nguyên đơn có quyền yêu cầu Tòa án có thẩm quyền chỉ định Trọng tài viên cho bị đơn;",
@@ -1158,7 +1255,13 @@
         {
             "id": "Điều 45",
             "title": "Thẩm quyền xác minh sự việc của Hội đồng trọng tài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong quá trình giải quyết tranh chấp, Hội đồng trọng tài có quyền gặp hoặc trao đổi với các bên với sự có mặt của bên kia bằng các hình thức thích hợp để làm sáng tỏ các vấn đề có liên quan đến vụ tranh chấp. Hội đồng trọng tài có thể tự mình hoặc theo yêu cầu của một hoặc các bên tìm hiểu sự việc từ người thứ ba, với sự có mặt của các bên hoặc sau khi đã thông báo cho các bên biết.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 46",
@@ -1191,7 +1294,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được văn bản, đơn yêu cầu thu thập chứng cứ, Chánh án Tòa án có thẩm quyền phân công một Thẩm phán xem xét, giải quyết yêu cầu thu thập chứng cứ. Trong thời hạn 05 ngày làm việc, kể từ ngày được phân công, Thẩm phán phải có văn bản yêu cầu cơ quan, tổ chức, cá nhân đang quản lý, lưu giữ cung cấp chứng cứ cho Tòa án và gửi văn bản đó cho Viện kiểm sát cùng cấp để thực hiện chức năng, nhiệm vụ theo quy định của pháp luật.",
+                    "text": "Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được văn bản, đơn yêu cầu thu thập chứng cứ, Chánh án Tòa án có thẩm quyền phân công một Thẩm phán xem xét, giải quyết yêu cầu thu thập chứng cứ. Trong thời hạn 05 ngày làm việc, kể từ ngày được phân công, Thẩm phán phải có văn bản yêu cầu cơ quan, tổ chức, cá nhân đang quản lý, lưu giữ cung cấp chứng cứ cho Tòa án và gửi văn bản đó cho Viện kiểm sát cùng cấp để thực hiện chức năng, nhiệm vụ theo quy định của pháp luật. Cơ quan, tổ chức, cá nhân đang quản lý, lưu giữ chứng cứ có trách nhiệm cung cấp đầy đủ, kịp thời chứng cứ theo yêu cầu của Tòa án trong thời hạn 15 ngày, kể từ ngày nhận được yêu cầu. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được chứng cứ do cơ quan, tổ chức, cá nhân cung cấp, Tòa án phải thông báo cho Hội đồng trọng tài, bên yêu cầu biết để tiến hành việc giao nhận chứng cứ. Trường hợp quá thời hạn quy định mà cơ quan, tổ chức, cá nhân không cung cấp chứng cứ theo yêu cầu thì Tòa án phải thông báo ngay cho Hội đồng trọng tài, bên yêu cầu biết đồng thời có văn bản yêu cầu cơ quan, tổ chức có thẩm quyền xử lý theo quy định của pháp luật.",
                     "sub_clauses": []
                 }
             ]
@@ -1212,7 +1315,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được văn bản đề nghị triệu tập người làm chứng của Hội đồng trọng tài, Chánh án Tòa án có thẩm quyền phân công một Thẩm phán xem xét, giải quyết yêu cầu triệu tập người làm chứng. Trong thời hạn 05 ngày làm việc, kể từ ngày được phân công, Thẩm phán phải ra quyết định triệu tập người làm chứng.",
+                    "text": "Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được văn bản đề nghị triệu tập người làm chứng của Hội đồng trọng tài, Chánh án Tòa án có thẩm quyền phân công một Thẩm phán xem xét, giải quyết yêu cầu triệu tập người làm chứng. Trong thời hạn 05 ngày làm việc, kể từ ngày được phân công, Thẩm phán phải ra quyết định triệu tập người làm chứng. Quyết định triệu tập người làm chứng phải ghi rõ tên Hội đồng trọng tài yêu cầu triệu tập người làm chứng; nội dung vụ tranh chấp; họ, tên, địa chỉ của người làm chứng; thời gian, địa điểm người làm chứng phải có mặt theo yêu cầu của Hội đồng trọng tài. Tòa án phải gửi ngay quyết định này cho Hội đồng trọng tài, người làm chứng đồng thời gửi cho Viện kiểm sát cùng cấp để thực hiện chức năng, nhiệm vụ theo quy định của pháp luật. Người làm chứng có nghĩa vụ nghiêm chỉnh thi hành quyết định của Tòa án. Chi phí cho người làm chứng được thực hiện theo quy định tại khoản 1 Điều này. CHƯƠNG VII BIỆN PHÁP KHẨN CẤP TẠM THỜI",
                     "sub_clauses": []
                 }
             ]
@@ -1300,7 +1403,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đơn yêu cầu áp dụng biện pháp khẩn cấp tạm thời phải có các nội dung chính sau đây:",
+                    "text": "Đơn yêu cầu áp dụng biện pháp khẩn cấp tạm thời phải có các nội dung chính sau đây: Kèm theo đơn yêu cầu áp dụng biện pháp khẩn cấp tạm thời, bên yêu cầu phải cung cấp cho Hội đồng trọng tài chứng cứ để chứng minh cho sự cần thiết phải áp dụng biện pháp khẩn cấp tạm thời đó.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1379,7 +1482,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Thủ tục hủy bỏ biện pháp khẩn cấp tạm thời được thực hiện như sau:",
+                    "text": "Thủ tục hủy bỏ biện pháp khẩn cấp tạm thời được thực hiện như sau: Quyết định hủy bỏ biện pháp khẩn cấp tạm thời phải được gửi ngay cho các bên tranh chấp và Cơ quan thi hành án dân sự.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1396,7 +1499,13 @@
         {
             "id": "Điều 52",
             "title": "Trách nhiệm của bên yêu cầu áp dụng biện pháp khẩn cấp tạm thời",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bên yêu cầu áp dụng biện pháp khẩn cấp tạm thời phải chịu trách nhiệm về yêu cầu của mình. Trong trường hợp bên yêu cầu áp dụng biện pháp khẩn cấp tạm thời không đúng và gây thiệt hại cho bên kia hoặc cho người thứ ba thì phải bồi thường.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 53",
@@ -1424,7 +1533,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Trong quá trình giải quyết tranh chấp, nếu một trong các bên đã yêu cầu Hội đồng trọng tài áp dụng một hoặc một số biện pháp khẩn cấp tạm thời mà lại có đơn yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời thì Tòa án phải từ chối và trả lại đơn yêu cầu, trừ trường hợp yêu cầu áp dụng biện pháp khẩn cấp tạm thời không thuộc thẩm quyền của Hội đồng trọng tài.",
+                    "text": "Trong quá trình giải quyết tranh chấp, nếu một trong các bên đã yêu cầu Hội đồng trọng tài áp dụng một hoặc một số biện pháp khẩn cấp tạm thời mà lại có đơn yêu cầu Tòa án áp dụng biện pháp khẩn cấp tạm thời thì Tòa án phải từ chối và trả lại đơn yêu cầu, trừ trường hợp yêu cầu áp dụng biện pháp khẩn cấp tạm thời không thuộc thẩm quyền của Hội đồng trọng tài. CHƯƠNG VIII PHIÊN HỌP GIẢI QUYẾT TRANH CHẤP",
                     "sub_clauses": []
                 }
             ]
@@ -1495,12 +1604,24 @@
         {
             "id": "Điều 57",
             "title": "Hoãn phiên họp giải quyết tranh chấp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khi có lý do chính đáng, một hoặc các bên có thể yêu cầu Hội đồng trọng tài hoãn phiên họp giải quyết tranh chấp. Yêu cầu hoãn phiên họp giải quyết tranh chấp phải được lập bằng văn bản, nêu rõ lý do kèm theo chứng cứ và được gửi đến Hội đồng trọng tài chậm nhất 07 ngày làm việc trước ngày mở phiên họp giải quyết tranh chấp. Nếu Hội đồng trọng tài không nhận được yêu cầu theo thời hạn này, bên yêu cầu hoãn phiên họp giải quyết tranh chấp phải chịu mọi chi phí phát sinh, nếu có. Hội đồng trọng tài xem xét, quyết định chấp nhận hay không chấp nhận yêu cầu hoãn phiên họp và thông báo kịp thời cho các bên. Thời hạn hoãn phiên họp do Hội đồng trọng tài quyết định.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 58",
             "title": "Hoà giải, công nhận hòa giải thành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Theo yêu cầu của các bên, Hội đồng trọng tài tiến hành hòa giải để các bên thỏa thuận với nhau về việc giải quyết tranh chấp. Khi các bên thỏa thuận được với nhau về việc giải quyết trong vụ tranh chấp thì Hội đồng trọng tài lập biên bản hoà giải thành có chữ ký của các bên và xác nhận của các Trọng tài viên. Hội đồng trọng tài ra quyết định công nhận sự thỏa thuận của các bên. Quyết định này là chung thẩm và có giá trị như phán quyết trọng tài.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 59",
@@ -1539,7 +1660,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Khi có quyết định đình chỉ giải quyết tranh chấp, các bên không có quyền khởi kiện yêu cầu Trọng tài giải quyết lại vụ tranh chấp đó nếu việc khởi kiện vụ tranh chấp sau không có gì khác với vụ tranh chấp trước về nguyên đơn, bị đơn và quan hệ pháp luật có tranh chấp, trừ các trường hợp quy định tại điểm c và điểm đ khoản 1 Điều này.",
+                    "text": "Khi có quyết định đình chỉ giải quyết tranh chấp, các bên không có quyền khởi kiện yêu cầu Trọng tài giải quyết lại vụ tranh chấp đó nếu việc khởi kiện vụ tranh chấp sau không có gì khác với vụ tranh chấp trước về nguyên đơn, bị đơn và quan hệ pháp luật có tranh chấp, trừ các trường hợp quy định tại điểm c và điểm đ khoản 1 Điều này. CHƯƠNG IX PHÁN QUYẾT TRỌNG TÀI",
                     "sub_clauses": []
                 }
             ]
@@ -1639,7 +1760,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời hạn 01 năm, kể từ ngày ban hành phán quyết trọng tài, bên yêu cầu đăng ký phán quyết trọng tài vụ việc phải gửi đơn xin đăng ký phán quyết trọng tài tới Tòa án có thẩm quyền quy định tại khoản 1 Điều này kèm theo bản chính hoặc bản sao có chứng thực hợp lệ các tài liệu sau đây:",
+                    "text": "Trong thời hạn 01 năm, kể từ ngày ban hành phán quyết trọng tài, bên yêu cầu đăng ký phán quyết trọng tài vụ việc phải gửi đơn xin đăng ký phán quyết trọng tài tới Tòa án có thẩm quyền quy định tại khoản 1 Điều này kèm theo bản chính hoặc bản sao có chứng thực hợp lệ các tài liệu sau đây: Bên yêu cầu phải chịu trách nhiệm về tính xác thực của các tài liệu gửi cho Tòa án.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1730,7 +1851,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ trọng tài được lưu trữ trong thời hạn 05 năm, kể từ ngày ra phán quyết trọng tài hoặc quyết định đình chỉ giải quyết tranh chấp bằng Trọng tài.",
+                    "text": "Hồ sơ trọng tài được lưu trữ trong thời hạn 05 năm, kể từ ngày ra phán quyết trọng tài hoặc quyết định đình chỉ giải quyết tranh chấp bằng Trọng tài. CHƯƠNG X THI HÀNH PHÁN QUYẾT TRỌNG TÀI",
                     "sub_clauses": []
                 }
             ]
@@ -1738,7 +1859,13 @@
         {
             "id": "Điều 65",
             "title": "Tự nguyện thi hành phán quyết trọng tài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước khuyến khích các bên tự nguyện thi hành phán quyết trọng tài.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 66",
@@ -1760,6 +1887,11 @@
             "id": "Điều 67",
             "title": "Thi hành phán quyết trọng tài",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Phán quyết trọng tài được thi hành theo quy định của pháp luật về thi hành án dân sự. CHƯƠNG XI HUỶ PHÁN QUYẾT TRỌNG TÀI Ðiều 68. Căn cứ huỷ phán quyết trọng tài",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tòa án xem xét việc hủy phán quyết trọng tài khi có đơn yêu cầu của một bên.",
@@ -1847,7 +1979,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Kèm theo đơn yêu cầu phải có các giấy tờ sau đây:",
+                    "text": "Kèm theo đơn yêu cầu phải có các giấy tờ sau đây: Giấy tờ kèm theo đơn yêu cầu bằng tiếng nước ngoài phải được dịch ra tiếng Việt và bản dịch phải được chứng thực hợp lệ.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1872,7 +2004,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời hạn 07 ngày làm việc, kể từ ngày thụ lý, Chánh án Toà án chỉ định một Hội đồng xét đơn yêu cầu gồm ba Thẩm phán, trong đó có một Thẩm phán làm chủ tọa theo sự phân công của Chánh án Tòa án.",
+                    "text": "Trong thời hạn 07 ngày làm việc, kể từ ngày thụ lý, Chánh án Toà án chỉ định một Hội đồng xét đơn yêu cầu gồm ba Thẩm phán, trong đó có một Thẩm phán làm chủ tọa theo sự phân công của Chánh án Tòa án. Trong thời hạn 30 ngày, kể từ ngày được chỉ định, Hội đồng xét đơn yêu cầu phải phải mở phiên họp để xét đơn yêu cầu huỷ phán quyết trọng tài. Tòa án phải chuyển hồ sơ cho Viện kiểm sát cùng cấp nghiên cứu trong thời hạn 07 ngày làm việc trước ngày mở phiên họp để tham dự phiên họp của Tòa án xét đơn yêu cầu. Hết thời hạn này, Viện kiểm sát phải gửi trả lại hồ sơ cho Tòa án để mở phiên họp xem xét đơn yêu cầu.",
                     "sub_clauses": []
                 },
                 {
@@ -1920,17 +2052,34 @@
         {
             "id": "Điều 72",
             "title": "Lệ phí toà án liên quan đến Trọng tài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Lệ phí về yêu cầu Toà án chỉ định Trọng tài viên, áp dụng biện pháp khẩn cấp tạm thời, yêu cầu huỷ phán quyết trọng tài, đăng ký phán quyết trọng tài và những lệ phí khác được thực hiện theo quy định của pháp luật về án phí và lệ phí toà án. CHƯƠNG XII TỔ CHỨC VÀ HOẠT ĐỘNG CỦA TRỌNG TÀI NƯỚC NGOÀI TẠI VIỆT NAM",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 73",
             "title": "Điều kiện hoạt động của Tổ chức trọng tài nước ngoài tại Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức trọng tài nước ngoài đã được thành lập và đang hoạt động hợp pháp tại nước ngoài, tôn trọng Hiến pháp và pháp luật của Cộng hoà xã hội chủ nghĩa Việt Nam thì được phép hoạt động tại Việt Nam theo quy định của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 74",
             "title": "Hình thức hoạt động của Tổ chức trọng tài nước ngoài tại Việt Nam",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức trọng tài nước ngoài hoạt động tại Việt Nam dưới các hình thức sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Chi nhánh của Tổ chức trọng tài nước ngoài (sau đây gọi là Chi nhánh);",
@@ -2120,12 +2269,24 @@
         {
             "id": "Điều 79",
             "title": "Hoạt động của Chi nhánh, Văn phòng đại diện của Tổ chức trọng tài nước ngoài tại Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc thành lập, đăng ký, hoạt động và chấm dứt hoạt động của Chi nhánh, Văn phòng đại diện của Tổ chức trọng tài nước ngoài tại Việt Nam được thực hiện theo quy định của pháp luật Việt Nam và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên. Chính phủ quy định chi tiết thủ tục thành lập, đăng ký và chấm dứt hoạt động của Chi nhánh, Văn phòng đại diện của Tổ chức trọng tài nước ngoài tại Việt Nam. CHƯƠNG XIII ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 80",
             "title": "Áp dụng Luật đối với các Trung tâm trọng tài được thành lập trước ngày Luật này có hiệu lực",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Các Trung tâm trọng tài được thành lập trước ngày Luật này có hiệu lực không phải làm thủ tục thành lập lại. Các Trung tâm trọng tài phải sửa đổi, bổ sung điều lệ, quy tắc tố tụng trọng tài cho phù hợp với quy định của Luật này trong thời hạn 12 tháng, kể từ ngày Luật này có hiệu lực. Hết thời hạn nêu trên mà các Trung tâm trọng tài không sửa đổi, bổ sung điều lệ, quy tắc tố tụng trọng tài thì bị thu hồi Giấy phép thành lập và phải chấm dứt hoạt động.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 81",
@@ -2151,8 +2312,18 @@
         {
             "id": "Điều 82",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong phạm vi nhiệm vụ, quyền hạn của mình quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhànước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Phú Trọng"
+    ]
 }

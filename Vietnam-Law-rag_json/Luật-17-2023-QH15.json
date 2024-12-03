@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về thành lập, tổ chức quản lý, tổ chức lại, giải thể, phá sản và hoạt động có liên quan của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; chính sách của Nhà nước về phát triển tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -19,6 +26,20 @@
         "clause": "3",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan, tổ chức, cá nhân có liên quan đến thành lập, tổ chức quản lý, tổ chức lại, giải thể, phá sản và hoạt động có liên quan của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Áp dụng Luật Hợp tác xã và luật khác",
+        "text": "Trường hợp luật khác có quy định đặc thù về thành lập, tổ chức quản lý, tổ chức lại, giải thể, phá sản và hoạt động có liên quan của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã thì áp dụng theo quy định của luật đó."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 4.1",
@@ -2443,6 +2464,13 @@
         "text": "Nghị quyết của hội nghị thành lập bao gồm những nội dung quy định tại khoản 3 Điều này và phải được biểu quyết theo nguyên tắc đa số, mỗi thành viên một phiếu bầu ngang nhau."
     },
     {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Nội dung của Điều lệ hợp tác xã, liên hiệp hợp tác xã",
+        "text": "Nội dung của Điều lệ không được trái với quy định của Luật này và pháp luật có liên quan, bao gồm các nội dung chủ yếu sau đây:"
+    },
+    {
         "id": "Điều 40.1",
         "article": "Điều 40",
         "clause": "1",
@@ -2723,6 +2751,13 @@
         "text": "Trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ, cơ quan đăng ký kinh doanh có trách nhiệm xem xét tính hợp lệ của hồ sơ đăng ký và cấp Giấy chứng nhận đăng ký hợp tác xã; trường hợp hồ sơ chưa hợp lệ, cơ quan đăng ký kinh doanh phải thông báo bằng văn bản nội dung cần sửa đổi, bổ sung cho người được ủy quyền đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã; trường hợp từ chối thì phải thông báo bằng văn bản và nêu rõ lý do."
     },
     {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Nội dung giấy đề nghị đăng ký thành lập hợp tác xã, liên hiệp hợp tác xã",
+        "text": "Giấy đề nghị đăng ký thành lập bao gồm nội dung chủ yếu sau đây:"
+    },
+    {
         "id": "Điều 43.1",
         "article": "Điều 43",
         "clause": "1",
@@ -2812,6 +2847,13 @@
         "clause": "2",
         "title": "Giấy chứng nhận đăng ký hợp tác xã",
         "text": "Hợp tác xã, liên hiệp hợp tác xã được cấp lại, cấp đổi Giấy chứng nhận đăng ký hợp tác xã theo quy định của Chính phủ. Khi cấp lại, cấp đổi Giấy chứng nhận đăng ký hợp tác xã thì hợp tác xã, liên hiệp hợp tác xã phải nộp lệ phí theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 45.0",
+        "article": "Điều 45",
+        "clause": "0",
+        "title": "Nội dung Giấy chứng nhận đăng ký hợp tác xã",
+        "text": "Giấy chứng nhận đăng ký hợp tác xã bao gồm nội dung chủ yếu sau đây:"
     },
     {
         "id": "Điều 45.1",
@@ -3120,6 +3162,13 @@
         "clause": "7",
         "title": "Tên của hợp tác xã, liên hiệp hợp tác xã, chi nhánh, văn phòng đại diện và địa điểm kinh doanh",
         "text": "Chính phủ quy định chi tiết Điều này."
+    },
+    {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Trụ sở chính của hợp tác xã, liên hiệp hợp tác xã",
+        "text": "Trụ sở chính của hợp tác xã, liên hiệp hợp tác xã đặt trên lãnh thổ Việt Nam là địa chỉ liên lạc của hợp tác xã, liên hiệp hợp tác xã được xác định theo địa giới đơn vị hành chính."
     },
     {
         "id": "Điều 52.1",
@@ -5040,6 +5089,13 @@
         "text": "Chính phủ quy định chi tiết khoản 2 Điều này và quy định mức cho vay, giới hạn cho vay, lãi suất, xử lý rủi ro từ hoạt động cho vay nội bộ."
     },
     {
+        "id": "Điều 84.0",
+        "article": "Điều 84",
+        "clause": "0",
+        "title": "Quỹ chung không chia",
+        "text": "Quỹ chung không chia của hợp tác xã, liên hiệp hợp tác xã được hình thành từ các nguồn sau đây:"
+    },
+    {
         "id": "Điều 84.1",
         "article": "Điều 84",
         "clause": "1",
@@ -5094,6 +5150,13 @@
         "clause": "2",
         "title": "Thu nhập từ giao dịch nội bộ của hợp tác xã, liên hiệp hợp tác xã",
         "text": "Chính phủ quy định về giao dịch nội bộ và thu nhập từ giao dịch nội bộ của hợp tác xã, liên hiệp hợp tác xã."
+    },
+    {
+        "id": "Điều 86.0",
+        "article": "Điều 86",
+        "clause": "0",
+        "title": "Phân phối thu nhập",
+        "text": "Sau khi trích lập quỹ chung không chia, nộp thuế, hoàn thành nghĩa vụ tài chính khác và xử lý lỗ trong hoạt động sản xuất, kinh doanh theo quy định của pháp luật, thu nhập của hợp tác xã, liên hiệp hợp tác xã được phân phối như sau:"
     },
     {
         "id": "Điều 86.1",
@@ -6654,6 +6717,6 @@
         "article": "Điều 115",
         "clause": "5",
         "title": "Quy định chuyển tiếp",
-        "text": "Chính sách của Nhà nước đối với hợp tác xã, liên hiệp hợp tác xã được ban hành theo quy định của Luật Hợp tác xã số 23/2012/QH13 được tiếp tục thực hiện cho đến khi hết thời gian áp dụng chính sách hoặc có văn bản thay thế, bãi bỏ. ________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, Kỳ họp thứ 5 thông qua ngày 20 tháng 6 năm 2023."
+        "text": "Chính sách của Nhà nước đối với hợp tác xã, liên hiệp hợp tác xã được ban hành theo quy định của Luật Hợp tác xã số 23/2012/QH13 được tiếp tục thực hiện cho đến khi hết thời gian áp dụng chính sách hoặc có văn bản thay thế, bãi bỏ. ________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, Kỳ họp thứ 5 thông qua ngày 20 tháng 6 năm 2023. CHỦ TỊCH QUỐC HỘI Đã ký: Vương Đình Huệ"
     }
 ]

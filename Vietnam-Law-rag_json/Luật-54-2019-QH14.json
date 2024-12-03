@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định các hoạt động về chứng khoán và thị trường chứng khoán; quyền và nghĩa vụ của tổ chức, cá nhân trong lĩnh vực chứng khoán; tổ chức thị trường chứng khoán; quản lý nhà nước về chứng khoán và thị trường chứng khoán."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -19,6 +26,20 @@
         "clause": "3",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan, tổ chức, cá nhân khác có liên quan đến hoạt động về chứng khoán và thị trường chứng khoán."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Áp dụng Luật Chứng khoán, các luật có liên quan",
+        "text": "Các hoạt động về chứng khoán và thị trường chứng khoán, quyền và nghĩa vụ của tổ chức, cá nhân trong lĩnh vực chứng khoán, tổ chức thị trường chứng khoán, quản lý nhà nước về chứng khoán và thị trường chứng khoán phải tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 4.1",
@@ -1792,6 +1813,13 @@
         "text": "Tổ chức tư vấn phát hành, tổ chức bảo lãnh phát hành, tổ chức kiểm toán được chấp thuận, người ký báo cáo kiểm toán và bất kỳ tổ chức, cá nhân nào xác nhận hồ sơ phải chịu trách nhiệm trước pháp luật trong phạm vi liên quan đến hồ sơ đăng ký chào bán chứng khoán ra công chúng."
     },
     {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Thông tin trước khi chào bán chứng khoán ra công chúng",
+        "text": "Trong thời gian Ủy ban Chứng khoán Nhà nước xem xét hồ sơ đăng ký chào bán chứng khoán ra công chúng, tổ chức phát hành, tổ chức bảo lãnh phát hành và tổ chức, cá nhân có liên quan chỉ được sử dụng trung thực và chính xác các thông tin trong Bản cáo bạch đã gửi Ủy ban Chứng khoán Nhà nước để thăm dò thị trường, trong đó phải nêu rõ các thông tin về ngày phát hành và giá bán chứng khoán là thông tin dự kiến."
+    },
+    {
         "id": "Điều 25.1",
         "article": "Điều 25",
         "clause": "1",
@@ -1965,6 +1993,13 @@
         "clause": "3",
         "title": "Nghĩa vụ của tổ chức phát hành",
         "text": "Tổ chức phát hành hoàn thành việc chào bán trái phiếu ra công chúng phải tuân thủ nghĩa vụ công bố thông tin theo quy định của Luật này. Mục 2 CHÀO BÁN CHỨNG KHOÁN RIÊNG LẺ"
+    },
+    {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Chào bán chứng khoán riêng lẻ của tổ chức phát hành không phải là công ty đại chúng",
+        "text": "Chào bán chứng khoán riêng lẻ của tổ chức phát hành không phải là công ty đại chúng thực hiện theo quy định của Luật Doanh nghiệp và quy định khác của pháp luật có liên quan."
     },
     {
         "id": "Điều 31.1",
@@ -2702,6 +2737,13 @@
         "text": "Bộ trưởng Bộ Tài chính quy định việc hủy tư cách công ty đại chúng đối với trường hợp không đáp ứng điều kiện là công ty đại chúng do tổ chức lại, giải thể, phá sản doanh nghiệp."
     },
     {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Hồ sơ hủy tư cách công ty đại chúng",
+        "text": "Công ty đại chúng thuộc trường hợp quy định tại khoản 2 Điều 38 của Luật này phải nộp hồ sơ hủy tư cách công ty đại chúng đến Ủy ban Chứng khoán Nhà nước. Hồ sơ hủy tư cách công ty đại chúng bao gồm:"
+    },
+    {
         "id": "Điều 39.1",
         "article": "Điều 39",
         "clause": "1",
@@ -2728,6 +2770,13 @@
         "clause": "4",
         "title": "Hồ sơ hủy tư cách công ty đại chúng",
         "text": "Báo cáo tài chính năm gần nhất được kiểm toán bởi tổ chức kiểm toán được chấp thuận. Trường hợp công ty tăng vốn điều lệ sau thời điểm kết thúc kỳ kế toán năm gần nhất, công ty phải bổ sung báo cáo tài chính kỳ gần nhất được kiểm toán. Mục 2 QUẢN TRỊ CÔNG TY ÁP DỤNG ĐỐI VỚI CÔNG TY ĐẠI CHÚNG"
+    },
+    {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Nguyên tắc quản trị công ty áp dụng đối với công ty đại chúng",
+        "text": "Việc quản trị công ty đối với công ty đại chúng phải tuân thủ quy định của Luật này, Luật Doanh nghiệp, quy định khác của pháp luật có liên quan và các nguyên tắc sau đây:"
     },
     {
         "id": "Điều 40.1",
@@ -4480,6 +4529,13 @@
         "text": "Chính phủ quy định hồ sơ, trình tự, thủ tục đăng ký làm ngân hàng thanh toán. Chương VI CÔNG TY CHỨNG KHOÁN, CÔNG TY QUẢN LÝ QUỸ ĐẦU TƯ CHỨNG KHOÁN Mục 1 GIẤY PHÉP THÀNH LẬP VÀ HOẠT ĐỘNG KINH DOANH CHỨNG KHOÁN"
     },
     {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Thẩm quyền cấp, cấp lại, điều chỉnh, thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán",
+        "text": "Ủy ban Chứng khoán Nhà nước có thẩm quyền cấp, cấp lại, điều chỉnh, thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán cho công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam."
+    },
+    {
         "id": "Điều 71.1",
         "article": "Điều 71",
         "clause": "1",
@@ -5241,6 +5297,13 @@
         "clause": "4",
         "title": "Tên của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán",
         "text": "Tổ chức không phải là công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán không được phép sử dụng cụm từ “chứng khoán”, “quản lý quỹ” trong tên của tổ chức; không được sử dụng các cụm từ, thuật ngữ khác trong tên của tổ chức nếu việc sử dụng cụm từ, thuật ngữ đó có thể gây nhầm lẫn cho khách hàng về việc tổ chức đó là công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán."
+    },
+    {
+        "id": "Điều 83.0",
+        "article": "Điều 83",
+        "clause": "0",
+        "title": "Công bố thông tin hoạt động",
+        "text": "Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh, văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam phải công bố thông tin hoạt động trên phương tiện công bố thông tin của Ủy ban Chứng khoán Nhà nước và 01 tờ báo điện tử hoặc báo in trong 03 số liên tiếp ít nhất 30 ngày trước ngày dự kiến chính thức hoạt động. Thông tin bao gồm:"
     },
     {
         "id": "Điều 83.1",
@@ -6580,6 +6643,13 @@
         "text": "Trong thời hạn 05 ngày làm việc kể từ ngày hoàn tất việc giải thể quỹ đầu tư chứng khoán, công ty quản lý quỹ đầu tư chứng khoán và ngân hàng giám sát phải báo cáo Ủy ban Chứng khoán Nhà nước về kết quả giải thể quỹ đầu tư chứng khoán."
     },
     {
+        "id": "Điều 105.0",
+        "article": "Điều 105",
+        "clause": "0",
+        "title": "Hợp nhất, sáp nhập quỹ đầu tư chứng khoán",
+        "text": "Quỹ đầu tư chứng khoán được hợp nhất, sáp nhập với một quỹ khác cùng loại hình theo quyết định của Đại hội nhà đầu tư quỹ đầu tư chứng khoán. Quỹ thành viên hình thành sau hợp nhất, sáp nhập có số thành viên không vượt quá 99 thành viên."
+    },
+    {
         "id": "Điều 106.1",
         "article": "Điều 106",
         "clause": "1",
@@ -6620,6 +6690,13 @@
         "clause": "3",
         "title": "Xác định giá trị tài sản ròng của quỹ đầu tư chứng khoán",
         "text": "Giá trị tài sản ròng của quỹ đầu tư chứng khoán phải được công bố công khai định kỳ theo quy định tại khoản 1 Điều 124 của Luật này."
+    },
+    {
+        "id": "Điều 107.0",
+        "article": "Điều 107",
+        "clause": "0",
+        "title": "Báo cáo về quỹ đầu tư chứng khoán",
+        "text": "Công ty quản lý quỹ đầu tư chứng khoán phải báo cáo Ủy ban Chứng khoán Nhà nước định kỳ và bất thường về danh mục đầu tư, hoạt động đầu tư, tình hình tài chính của quỹ đầu tư chứng khoán. Mục 2 QUỸ ĐẠI CHÚNG VÀ QUỸ THÀNH VIÊN"
     },
     {
         "id": "Điều 108.1",
@@ -7476,6 +7553,13 @@
         "text": "Công bố thông tin theo yêu cầu quy định tại khoản 3 Điều 120 của Luật này."
     },
     {
+        "id": "Điều 123.0",
+        "article": "Điều 123",
+        "clause": "0",
+        "title": "Công bố thông tin của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam",
+        "text": "Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam thực hiện công bố thông tin định kỳ các nội dung sau đây:"
+    },
+    {
         "id": "Điều 123.2",
         "article": "Điều 123",
         "clause": "2",
@@ -8138,6 +8222,6 @@
         "article": "Điều 135",
         "clause": "7",
         "title": "Quy định chuyển tiếp",
-        "text": "Chính phủ quy định chi tiết Điều này. ----------------------------------------------------------- Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 26 tháng 11 năm 2019."
+        "text": "Chính phủ quy định chi tiết Điều này. ----------------------------------------------------------- Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 26 tháng 11 năm 2019. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân"
     }
 ]

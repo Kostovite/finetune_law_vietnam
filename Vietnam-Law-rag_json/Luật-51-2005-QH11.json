@@ -1,5 +1,33 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về giao dịch điện tử trong hoạt động của các cơ quan nhà nước; trong lĩnh vực dân sự, kinh doanh, thương mại và các lĩnh vực khác do pháp luật quy định. Các quy định của Luật này không áp dụng đối với việc cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà và các bất động sản khác, văn bản về thừa kế, giấy đăng ký kết hôn, quyết định ly hôn, giấy khai sinh, giấy khai tử, hối phiếu và các giấy tờ có giá khác."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân lựa chọn giao dịch bằng phương tiện điện tử."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Áp dụng Luật giao dịch điện tử",
+        "text": "Trường hợp có sự khác nhau giữa quy định của Luật giao dịch điện tử với quy định của luật khác về cùng một vấn đề liên quan đến giao dịch điện tử thì áp dụng quy định của Luật giao dịch điện tử."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 4.1",
         "article": "Điều 4",
         "clause": "1",
@@ -301,6 +329,34 @@
         "text": "Gian lận, mạo nhận, chiếm đoạt hoặc sử dụng trái phép chữ ký điện tử của người khác. CHƯƠNG II THÔNG ĐIỆP DỮ LIỆU MỤC 1 GIÁ TRỊ PHÁP LÝ CỦA THÔNG ĐIỆPU DỮ LIỆU"
     },
     {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Hình thức thể hiện thông điệp dữ liệu",
+        "text": "Thông điệp dữ liệu được thể hiện dưới hình thức trao đổi dữ liệu điện tử, chứng từ điện tử, thư điện tử, điện tín, điện báo, fax và các hình thức tương tự khác."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Giá trị pháp lý của thông điệp dữ liệu",
+        "text": "Thông tin trong thông điệp dữ liệu không bị phủ nhận giá trị pháp lý chỉ vì thông tin đó được thể hiện dưới dạng thông điệp dữ liệu."
+    },
+    {
+        "id": "Điều 12.0",
+        "article": "Điều 12",
+        "clause": "0",
+        "title": "Thông điệp dữ liệu có giá trị như văn bản",
+        "text": "Trường hợp pháp luật yêu cầu thông tin phải được thể hiện bằng văn bản thì thông điệp dữ liệu được xem là đáp ứng yêu cầu này nếu thông tin chứa trong thông điệp dữ liệu đó có thể truy cập và sử dụng được để tham chiếu khi cần thiết."
+    },
+    {
+        "id": "Điều 13.0",
+        "article": "Điều 13",
+        "clause": "0",
+        "title": "Thông điệp dữ liệu có giá trị như bản gốc",
+        "text": "Thông điệp dữ liệu có giá trị như bản gốc khi đáp ứng được các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 13.1",
         "article": "Điều 13",
         "clause": "1",
@@ -406,6 +462,13 @@
         "text": "Người khởi tạo phải chịu trách nhiệm trước pháp luật về nội dung thông điệp dữ liệu do mình khởi tạo."
     },
     {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Thời điểm, địa điểm gửi thông điệp dữ liệu",
+        "text": "Trong trường hợp các bên tham gia giao dịch không có thoả thuận khác thì thời điểm, địa điểm gửi thông điệp dữ liệu được quy định như sau:"
+    },
+    {
         "id": "Điều 17.1",
         "article": "Điều 17",
         "clause": "1",
@@ -469,6 +532,13 @@
         "text": "Trường hợp người khởi tạo đã gửi thông điệp dữ liệu mà không tuyên bố về việc người nhận phải gửi thông báo xác nhận và cũng chưa nhận được thông báo xác nhận thì người khởi tạo có thể thông báo cho người nhận là chưa nhận được thông báo xác nhận và ấn định khoảng thời gian hợp lý để người nhận gửi xác nhận; nếu người khởi tạo vẫn không nhận được thông báo xác nhận trong khoảng thời gian đã ấn định thì người khởi tạo có quyền xem là chưa gửi thông điệp dữ liệu đó."
     },
     {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Thời điểm, địa điểm nhận thông điệp dữ liệu",
+        "text": "Trong trường hợp các bên tham gia giao dịch không có thoả thuận khác thì thời điểm, địa điểm nhận thông điệp dữ liệu được quy định như sau:"
+    },
+    {
         "id": "Điều 19.1",
         "article": "Điều 19",
         "clause": "1",
@@ -481,6 +551,13 @@
         "clause": "2",
         "title": "Thời điểm, địa điểm nhận thông điệp dữ liệu",
         "text": "Địa điểm nhận thông điệp dữ liệu là trụ sở của người nhận nếu người nhận là cơ quan, tổ chức hoặc nơi cư trú thường xuyên của người nhận nếu người nhận là cá nhân. Trường hợp người nhận có nhiều trụ sở thì địa điểm nhận thông điệp dữ liệu là trụ sở có mối liên hệ mật thiết nhất với giao dịch."
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Gửi, nhận tự động thông điệp dữ liệu",
+        "text": "Trong trường hợp người khởi tạo hoặc người nhận chỉ định một hoặc nhiều hệ thống thông tin tự động gửi hoặc nhận thông điệp dữ liệu thì việc gửi, nhận thông điệp dữ liệu được thực hiện theo quy định tại các điều 16, 17, 18 và 19 của Luật này. CHƯƠNG III CHỮ KÝ ĐIỆN TỬ VÀ CHỨNG THỰC CHỮ KÝ ĐIỆN TỬ MỤC 1 GIÁ TRỊ PHÁP LÝ CỦA CHỮ KÝ ĐIỆN TỬ"
     },
     {
         "id": "Điều 21.1",
@@ -987,6 +1064,20 @@
         "text": "Các nội dung cần thiết khác đối với hoạt động cung cấp dịch vụ chứng thực chữ ký điện tử."
     },
     {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Hợp đồng điện tử",
+        "text": "Hợp đồng điện tử là hợp đồng được thiết lập dưới dạng thông điệp dữ liệu theo quy định của Luật này."
+    },
+    {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Thừa nhận giá trị pháp lý của hợp đồng điện tử",
+        "text": "Giá trị pháp lý của hợp đồng điện tử không thể bị phủ nhận chỉ vì hợp đồng đó được thể hiện dưới dạng thông điệp dữ liệu."
+    },
+    {
         "id": "Điều 35.1",
         "article": "Điều 35",
         "clause": "1",
@@ -1020,6 +1111,20 @@
         "clause": "2",
         "title": "Giao kết hợp đồng điện tử",
         "text": "Trong giao kết hợp đồng, trừ trường hợp các bên có thỏa thuận khác, đề nghị giao kết hợp đồng và chấp nhận giao kết hợp đồng có thể được thực hiện thông qua thông điệp dữ liệu."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Việc nhận, gửi, thời điểm, địa điểm nhận, gửi thông điệp dữ liệu trong giao kết và thực hiện hợp đồng điện tử",
+        "text": "Việc nhận, gửi, thời điểm, địa điểm nhận, gửi thông điệp dữ liệu trong giao kết và thực hiện hợp đồng điện tử được thực hiện theo quy định tại các điều 17, 18, 19 và 20 của Luật này."
+    },
+    {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Giá trị pháp lý của thông báo trong giao kết và thực hiện hợp đồng điện tử",
+        "text": "Trong giao kết và thực hiện hợp đồng điện tử, thông báo dưới dạng thông điệp dữ liệu có giá trị pháp lý như thông báo bằng phương pháp truyền thống. CHƯƠNG V GIAO DỊCH ĐIỆN TỬ CỦA CƠ QUAN NHÀ NƯỚC"
     },
     {
         "id": "Điều 39.1",
@@ -1162,6 +1267,13 @@
         "text": "Cơ quan nhà nước phải chịu trách nhiệm trước pháp luật nếu không tuân thủ quy định tại khoản 1 Điều này."
     },
     {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Trách nhiệm của cơ quan, tổ chức, cá nhân trong giao dịch điện tử với cơ quan nhà nước",
+        "text": "Cơ quan, tổ chức, cá nhân khi tiến hành giao dịch điện tử với cơ quan nhà nước có trách nhiệm tuân thủ các quy định của Luật này, các quy định về giao dịch điện tử do cơ quan nhà nước có thẩm quyền ban hành và các quy định khác của pháp luật có liên quan. CHƯƠNG VI AN NINH, AN TOÀN, BẢO VỆ, BẢO MẬT TRONG GIAO DỊCH ĐIỆN TỬ"
+    },
+    {
         "id": "Điều 44.1",
         "article": "Điều 44",
         "clause": "1",
@@ -1181,6 +1293,13 @@
         "clause": "3",
         "title": "Bảo đảm an ninh, an toàn trong giao dịch điện tử",
         "text": "Cơ quan, tổ chức, cá nhân không được thực hiện bất kỳ hành vi nào nhằm cản trở hoặc gây phương hại đến việc bảo đảm an ninh, an toàn trong giao dịch điện tử."
+    },
+    {
+        "id": "Điều 45.0",
+        "article": "Điều 45",
+        "clause": "0",
+        "title": "Bảo vệ thông điệp dữ liệu",
+        "text": "Cơ quan, tổ chức, cá nhân không được thực hiện bất kỳ hành vi nào gây phương hại đến sự toàn vẹn của thông điệp dữ liệu của cơ quan, tổ chức, cá nhân khác."
     },
     {
         "id": "Điều 46.1",
@@ -1323,6 +1442,13 @@
         "text": "Cơ quan, tổ chức có hành vi vi phạm pháp luật trong giao dịch điện tử thì tuỳ theo tính chất, mức độ vi phạm mà bị xử phạt hành chính, đình chỉ hoạt động, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
     },
     {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Tranh chấp trong giao dịch điện tử",
+        "text": "Tranh chấp trong giao dịch điện tử là tranh chấp phát sinh trong quá trình giao dịch bằng phương tiện điện tử."
+    },
+    {
         "id": "Điều 52.1",
         "article": "Điều 52",
         "clause": "1",
@@ -1335,5 +1461,19 @@
         "clause": "2",
         "title": "Giải quyết tranh chấp trong giao dịch điện tử",
         "text": "Trong trường hợp các bên không hòa giải được thì thẩm quyền, trình tự, thủ tục giải quyết tranh chấp về giao dịch điện tử được thực hiện theo quy định của pháp luật. CHƯƠNG VIII ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 3 năm 2006."
+    },
+    {
+        "id": "Điều 54.0",
+        "article": "Điều 54",
+        "clause": "0",
+        "title": "Hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XI, kỳ họp thứ 8 thông qua ngày 29 tháng 11 năm 2005. CHỦ TỊCH QUỐC HỘI Nguyễn Văn An"
     }
 ]

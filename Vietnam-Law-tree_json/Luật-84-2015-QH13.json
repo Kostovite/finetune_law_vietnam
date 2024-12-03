@@ -17,7 +17,13 @@
         {
             "id": "Điều 1",
             "title": " Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định việc bảo đảm an toàn, vệ sinh lao động; chính sách, chế độ đối với người bị tai nạn lao động, bệnh nghề nghiệp; trách nhiệm và quyền hạn của các tổ chức, cá nhân liên quan đến công tác an toàn, vệ sinh lao động và quản lý nhà nước về an toàn, vệ sinh lao động.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -50,7 +56,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Cơ quan, tổ chức và cá nhân khác có liên quan đến công tác an toàn, vệ sinh lao động.",
+                    "text": "Cơ quan, tổ chức và cá nhân khác có liên quan đến công tác an toàn, vệ sinh lao động. Những người quy định tại các khoản 1, 2, 3 và 4 Điều này sau đây gọi chung là người lao động.",
                     "sub_clauses": []
                 }
             ]
@@ -59,6 +65,11 @@
             "id": "Điều 3",
             "title": " Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Cơ sở sản xuất, kinh doanh là doanh nghiệp, hợp tác xã, hộ gia đình và các tổ chức hoạt động sản xuất, kinh doanh.",
@@ -217,7 +228,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Người lao động làm việc không theo hợp đồng lao động có quyền sau đây:",
+                    "text": "Người lao động làm việc không theo hợp đồng lao động có quyền sau đây: Căn cứ vào điều kiện phát triển kinh tế - xã hội, khả năng ngân sách nhà nước trong từng thời kỳ, Chính phủ quy định chi tiết về việc hỗ trợ tiền đóng bảo hiểm tai nạn lao động theo hình thức tự nguyện;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -540,7 +551,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Trả tiền thay cho việc bồi dưỡng bằng hiện vật.",
+                    "text": "Trả tiền thay cho việc bồi dưỡng bằng hiện vật. CHƯƠNG II CÁC BIỆN PHÁP PHÒNG, CHỐNG CÁC YẾU TỐ NGUY HIỂM, YẾU TỐ CÓ HẠI CHO NGƯỜI LAO ĐỘNG Mục 1 THÔNG TIN, TUYÊN TRUYỀN, GIÁO DỤC, HUẤN LUYỆN AN TOÀN, VỆ SINH LAO ĐỘNG",
                     "sub_clauses": []
                 }
             ]
@@ -561,7 +572,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ quan, tổ chức, hộ gia đình có nhiệm vụ tổ chức thực hiện việc tuyên truyền, phổ biến kiến thức và kỹ năng về an toàn, vệ sinh lao động cho người lao động của mình; tuyên truyền, vận động xóa bỏ hủ tục, thói quen mất vệ sinh, gây hại, nguy hiểm cho sức khỏe bản thân và cộng đồng trong quá trình lao động.",
+                    "text": "Cơ quan, tổ chức, hộ gia đình có nhiệm vụ tổ chức thực hiện việc tuyên truyền, phổ biến kiến thức và kỹ năng về an toàn, vệ sinh lao động cho người lao động của mình; tuyên truyền, vận động xóa bỏ hủ tục, thói quen mất vệ sinh, gây hại, nguy hiểm cho sức khỏe bản thân và cộng đồng trong quá trình lao động. Căn cứ vào điều kiện cụ thể của địa phương, hằng năm, Ủy ban nhân dân các cấp có trách nhiệm chỉ đạo, tổ chức thực hiện thông tin, tuyên truyền, giáo dục về an toàn, vệ sinh lao động cho người lao động làm việc không theo hợp đồng lao động tại địa phương.",
                     "sub_clauses": []
                 },
                 {
@@ -577,7 +588,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người quản lý phụ trách an toàn, vệ sinh lao động, người làm công tác an toàn, vệ sinh lao động, người làm công tác y tế, an toàn, vệ sinh viên trong cơ sở sản xuất, kinh doanh phải tham dự khóa huấn luyện an toàn, vệ sinh lao động và được tổ chức huấn luyện an toàn, vệ sinh lao động cấp giấy chứng nhận sau khi kiểm tra, sát hạch đạt yêu cầu.",
+                    "text": "Người quản lý phụ trách an toàn, vệ sinh lao động, người làm công tác an toàn, vệ sinh lao động, người làm công tác y tế, an toàn, vệ sinh viên trong cơ sở sản xuất, kinh doanh phải tham dự khóa huấn luyện an toàn, vệ sinh lao động và được tổ chức huấn luyện an toàn, vệ sinh lao động cấp giấy chứng nhận sau khi kiểm tra, sát hạch đạt yêu cầu. Trường hợp có thay đổi về chính sách, pháp luật hoặc khoa học, công nghệ về an toàn, vệ sinh lao động thì phải được huấn luyện, bồi dưỡng, cập nhật kiến thức, kỹ năng về an toàn, vệ sinh lao động.",
                     "sub_clauses": []
                 },
                 {
@@ -587,7 +598,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Người lao động làm việc không theo hợp đồng lao động phải được huấn luyện về an toàn, vệ sinh lao động khi làm công việc có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động và được cấp thẻ an toàn.",
+                    "text": "Người lao động làm việc không theo hợp đồng lao động phải được huấn luyện về an toàn, vệ sinh lao động khi làm công việc có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động và được cấp thẻ an toàn. Nhà nước có chính sách hỗ trợ học phí cho người lao động quy định tại khoản này khi tham gia khóa huấn luyện. Mức, đối tượng và thời gian hỗ trợ do Chính phủ quy định chi tiết tùy theo điều kiện phát triển kinh tế - xã hội trong từng thời kỳ.",
                     "sub_clauses": []
                 },
                 {
@@ -607,12 +618,12 @@
                 },
                 {
                     "number": "7",
-                    "text": "Tổ chức huấn luyện an toàn, vệ sinh lao động là đơn vị sự nghiệp công lập, doanh nghiệp kinh doanh dịch vụ huấn luyện an toàn, vệ sinh lao động theo quy định của pháp luật đầu tư và Luật này.",
+                    "text": "Tổ chức huấn luyện an toàn, vệ sinh lao động là đơn vị sự nghiệp công lập, doanh nghiệp kinh doanh dịch vụ huấn luyện an toàn, vệ sinh lao động theo quy định của pháp luật đầu tư và Luật này. Trường hợp doanh nghiệp tự huấn luyện an toàn, vệ sinh lao động cho các đối tượng quy định tại các khoản 1, 2 và 3 Điều này thì phải đáp ứng điều kiện hoạt động như đối với tổ chức huấn luyện an toàn, vệ sinh lao động.",
                     "sub_clauses": []
                 },
                 {
                     "number": "8",
-                    "text": "Chính phủ quy định chi tiết về cơ quan có thẩm quyền cấp, điều kiện về cơ sở vật chất, kỹ thuật, tiêu chuẩn về người huấn luyện an toàn, vệ sinh lao động, trình tự, thủ tục, hồ sơ cấp mới, cấp lại, gia hạn, thu hồi Giấy chứng nhận đủ điều kiện hoạt động của tổ chức huấn luyện an toàn, vệ sinh lao động quy định tại khoản 7 Điều này; việc huấn luyện, tự huấn luyện về an toàn, vệ sinh lao động.",
+                    "text": "Chính phủ quy định chi tiết về cơ quan có thẩm quyền cấp, điều kiện về cơ sở vật chất, kỹ thuật, tiêu chuẩn về người huấn luyện an toàn, vệ sinh lao động, trình tự, thủ tục, hồ sơ cấp mới, cấp lại, gia hạn, thu hồi Giấy chứng nhận đủ điều kiện hoạt động của tổ chức huấn luyện an toàn, vệ sinh lao động quy định tại khoản 7 Điều này; việc huấn luyện, tự huấn luyện về an toàn, vệ sinh lao động. Mục 2 NỘI QUY, QUY TRÌNH VÀ CÁC BIỆN PHÁP BẢO ĐẢM AN TOÀN, VỆ SINH LAO ĐỘNG TẠI NƠI LÀM VIỆC",
                     "sub_clauses": []
                 }
             ]
@@ -620,7 +631,13 @@
         {
             "id": "Điều 15",
             "title": " Nội quy, quy trình bảo đảm an toàn, vệ sinh lao động",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người sử dụng lao động căn cứ pháp luật, tiêu chuẩn, quy chuẩn kỹ thuật quốc gia, quy chuẩn kỹ thuật địa phương về an toàn, vệ sinh lao động và điều kiện hoạt động sản xuất, kinh doanh, lao động để xây dựng, ban hành và tổ chức thực hiện nội quy, quy trình bảo đảm an toàn, vệ sinh lao động.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 16",
@@ -749,7 +766,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trách nhiệm xử lý sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng, ứng cứu khẩn cấp:",
+                    "text": "Trách nhiệm xử lý sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng, ứng cứu khẩn cấp: Trường hợp vượt quá khả năng ứng phó của các cơ sở sản xuất, kinh doanh, địa phương thì phải khẩn cấp báo cáo cơ quan cấp trên trực tiếp để kịp thời huy động các cơ sở sản xuất, kinh doanh, địa phương khác tham gia ứng cứu; cơ sở sản xuất, kinh doanh, địa phương được yêu cầu huy động phải thực hiện và phối hợp thực hiện biện pháp ứng cứu khẩn cấp trong phạm vi, khả năng của mình.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -783,7 +800,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Khuyến khích người sử dụng lao động áp dụng các tiêu chuẩn kỹ thuật, hệ thống quản lý tiên tiến, hiện đại và áp dụng công nghệ tiên tiến, công nghệ cao, công nghệ thân thiện với môi trường vào hoạt động sản xuất, kinh doanh nhằm cải thiện điều kiện lao động, bảo đảm an toàn, vệ sinh lao động cho người lao động.",
+                    "text": "Khuyến khích người sử dụng lao động áp dụng các tiêu chuẩn kỹ thuật, hệ thống quản lý tiên tiến, hiện đại và áp dụng công nghệ tiên tiến, công nghệ cao, công nghệ thân thiện với môi trường vào hoạt động sản xuất, kinh doanh nhằm cải thiện điều kiện lao động, bảo đảm an toàn, vệ sinh lao động cho người lao động. Mục 3 CHẾ ĐỘ BẢO HỘ LAO ĐỘNG, CHĂM SÓC SỨC KHỎE NGƯỜI LAO ĐỘNG",
                     "sub_clauses": []
                 }
             ]
@@ -941,7 +958,13 @@
         {
             "id": "Điều 26",
             "title": " Điều dưỡng phục hồi sức khỏe",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hằng năm, khuyến khích người sử dụng lao động tổ chức cho người lao động làm nghề, công việc nặng nhọc, độc hại, nguy hiểm, người lao động làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm và người lao động có sức khỏe kém được điều dưỡng phục hồi sức khỏe.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 27",
@@ -954,7 +977,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người sử dụng lao động có trách nhiệm lập và quản lý hồ sơ sức khỏe của người lao động, hồ sơ sức khỏe của người bị bệnh nghề nghiệp; thông báo kết quả khám sức khỏe, khám phát hiện bệnh nghề nghiệp để người lao động biết; hằng năm, báo cáo về việc quản lý sức khỏe người lao động thuộc trách nhiệm quản lý cho cơ quan quản lý nhà nước về y tế có thẩm quyền.",
+                    "text": "Người sử dụng lao động có trách nhiệm lập và quản lý hồ sơ sức khỏe của người lao động, hồ sơ sức khỏe của người bị bệnh nghề nghiệp; thông báo kết quả khám sức khỏe, khám phát hiện bệnh nghề nghiệp để người lao động biết; hằng năm, báo cáo về việc quản lý sức khỏe người lao động thuộc trách nhiệm quản lý cho cơ quan quản lý nhà nước về y tế có thẩm quyền. Mục 4 QUẢN LÝ MÁY, THIẾT BỊ, VẬT TƯ, CHẤT CÓ YÊU CẦU NGHIÊM NGẶT VỀ AN TOÀN, VỆ SINH LAO ĐỘNG",
                     "sub_clauses": []
                 }
             ]
@@ -1193,7 +1216,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bộ Lao động - Thương binh và Xã hội chủ trì, phối hợp với các bộ có liên quan rà soát Danh mục các loại máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động để sửa đổi, bổ sung phù hợp với sự phát triển kinh tế - xã hội, khoa học công nghệ, quản lý trong từng thời kỳ.",
+                    "text": "Bộ Lao động - Thương binh và Xã hội chủ trì, phối hợp với các bộ có liên quan rà soát Danh mục các loại máy, thiết bị, vật tư, chất có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động để sửa đổi, bổ sung phù hợp với sự phát triển kinh tế - xã hội, khoa học công nghệ, quản lý trong từng thời kỳ. CHƯƠNG III CÁC BIỆN PHÁP XỬ LÝ SỰ CỐ KỸ THUẬT GÂY MẤT AN TOÀN, VỆ SINH LAO ĐỘNG VÀ TAI NẠN LAO ĐỘNG, BỆNH NGHỀ NGHIỆP Mục 1 KHAI BÁO, THỐNG KÊ, BÁO CÁO, ĐIỀU TRA SỰ CỐ KỸ THUẬT GÂY MẤT AN TOÀN, VỆ SINH LAO ĐỘNG, TAI NẠN LAO ĐỘNG, BỆNH NGHỀ NGHIỆP",
                     "sub_clauses": []
                 }
             ]
@@ -1204,7 +1227,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Việc khai báo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động thực hiện như sau:",
+                    "text": "Việc khai báo tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động thực hiện như sau: Trường hợp xảy ra tai nạn lao động chết người, tai nạn lao động làm bị thương nặng từ hai người lao động trở lên thì Ủy ban nhân dân cấp xã có trách nhiệm báo cáo ngay với cơ quan Công an cấp huyện và cơ quan quản lý nhà nước về lao động cấp tỉnh nơi xảy ra tai nạn để kịp thời có biện pháp xử lý. Trường hợp xảy ra sự cố kỹ thuật gây mất an toàn, vệ sinh lao động liên quan đến người lao động làm việc không theo hợp đồng lao động thì người phát hiện có trách nhiệm kịp thời khai báo với Ủy ban nhân dân cấp xã tại nơi xảy ra sự cố kỹ thuật và việc báo cáo thực hiện theo quy định tại Điều 19 và Điều 36 của Luật này.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1237,17 +1260,17 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người sử dụng lao động có trách nhiệm thành lập Đoàn điều tra tai nạn lao động cấp cơ sở để tiến hành điều tra tai nạn lao động làm bị thương nhẹ, tai nạn lao động làm bị thương nặng một người lao động thuộc thẩm quyền quản lý của mình, trừ trường hợp đã được điều tra theo quy định tại khoản 2 và khoản 3 Điều này hoặc tai nạn lao động được cơ quan nhà nước có thẩm quyền điều tra theo quy định của pháp luật chuyên ngành.",
+                    "text": "Người sử dụng lao động có trách nhiệm thành lập Đoàn điều tra tai nạn lao động cấp cơ sở để tiến hành điều tra tai nạn lao động làm bị thương nhẹ, tai nạn lao động làm bị thương nặng một người lao động thuộc thẩm quyền quản lý của mình, trừ trường hợp đã được điều tra theo quy định tại khoản 2 và khoản 3 Điều này hoặc tai nạn lao động được cơ quan nhà nước có thẩm quyền điều tra theo quy định của pháp luật chuyên ngành. Thành phần Đoàn điều tra tai nạn lao động cấp cơ sở gồm có người sử dụng lao động hoặc người đại diện được người sử dụng lao động ủy quyền bằng văn bản làm Trưởng đoàn và các thành viên là đại diện Ban chấp hành công đoàn cơ sở hoặc đại diện tập thể người lao động khi chưa thành lập tổ chức công đoàn cơ sở, người làm công tác an toàn lao động, người làm công tác y tế và một số thành viên khác. Trường hợp tai nạn lao động làm bị thương nặng một người lao động làm việc không theo hợp đồng lao động thì Ủy ban nhân dân cấp xã nơi xảy ra tai nạn lao động phải lập biên bản ghi nhận sự việc và báo cáo Ủy ban nhân dân cấp huyện nơi xảy ra tai nạn.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan quản lý nhà nước về lao động cấp tỉnh có trách nhiệm thành lập Đoàn điều tra tai nạn lao động cấp tỉnh để tiến hành điều tra tai nạn lao động chết người, tai nạn lao động làm bị thương nặng từ hai người lao động trở lên, kể cả người lao động làm việc không theo hợp đồng lao động, trừ trường hợp quy định tại khoản 4 Điều này; điều tra lại vụ tai nạn lao động đã được Đoàn điều tra tai nạn lao động cấp cơ sở đã điều tra khi có khiếu nại, tố cáo hoặc khi xét thấy cần thiết.",
+                    "text": "Cơ quan quản lý nhà nước về lao động cấp tỉnh có trách nhiệm thành lập Đoàn điều tra tai nạn lao động cấp tỉnh để tiến hành điều tra tai nạn lao động chết người, tai nạn lao động làm bị thương nặng từ hai người lao động trở lên, kể cả người lao động làm việc không theo hợp đồng lao động, trừ trường hợp quy định tại khoản 4 Điều này; điều tra lại vụ tai nạn lao động đã được Đoàn điều tra tai nạn lao động cấp cơ sở đã điều tra khi có khiếu nại, tố cáo hoặc khi xét thấy cần thiết. Thành phần Đoàn điều tra tai nạn lao động cấp tỉnh gồm có đại diện của Thanh tra chuyên ngành về an toàn, vệ sinh lao động thuộc cơ quan quản lý nhà nước cấp tỉnh làm Trưởng đoàn và các thành viên là đại diện Sở Y tế, đại diện Liên đoàn Lao động cấp tỉnh và một số thành viên khác.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Bộ trưởng Bộ Lao động - Thương binh và Xã hội hoặc cơ quan nhà nước có thẩm quyền thành lập Đoàn điều tra tai nạn lao động cấp trung ương để tiến hành điều tra các vụ tai nạn lao động khi xét thấy tính chất nghiêm trọng của tai nạn lao động hoặc mức độ phức tạp của việc điều tra tai nạn lao động vượt quá khả năng xử lý của Đoàn điều tra tai nạn lao động cấp tỉnh; điều tra lại vụ tai nạn lao động đã được Đoàn điều tra tai nạn lao động cấp tỉnh có trách nhiệm điều tra.",
+                    "text": "Bộ trưởng Bộ Lao động - Thương binh và Xã hội hoặc cơ quan nhà nước có thẩm quyền thành lập Đoàn điều tra tai nạn lao động cấp trung ương để tiến hành điều tra các vụ tai nạn lao động khi xét thấy tính chất nghiêm trọng của tai nạn lao động hoặc mức độ phức tạp của việc điều tra tai nạn lao động vượt quá khả năng xử lý của Đoàn điều tra tai nạn lao động cấp tỉnh; điều tra lại vụ tai nạn lao động đã được Đoàn điều tra tai nạn lao động cấp tỉnh có trách nhiệm điều tra. Thành phần Đoàn điều tra tai nạn lao động cấp trung ương gồm có đại diện Bộ Lao động - Thương binh và Xã hội, đại diện Bộ Y tế, đại diện Tổng Liên đoàn Lao động Việt Nam và một số thành viên khác.",
                     "sub_clauses": []
                 },
                 {
@@ -1257,7 +1280,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Người sử dụng lao động và các cá nhân liên quan đến tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng phải có nghĩa vụ hợp tác với Đoàn điều tra, cung cấp đầy đủ thông tin, tài liệu có liên quan và không được từ chối hoặc cản trở quá trình điều tra.",
+                    "text": "Người sử dụng lao động và các cá nhân liên quan đến tai nạn lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động, sự cố kỹ thuật gây mất an toàn, vệ sinh lao động nghiêm trọng phải có nghĩa vụ hợp tác với Đoàn điều tra, cung cấp đầy đủ thông tin, tài liệu có liên quan và không được từ chối hoặc cản trở quá trình điều tra. Trường hợp tai nạn trên đường đi và về từ nơi ở đến nơi làm việc thì cơ quan nhà nước có thẩm quyền có trách nhiệm cung cấp cho Đoàn điều tra một trong các giấy tờ sau đây:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1275,7 +1298,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Thời hạn điều tra vụ tai nạn lao động thuộc thẩm quyền của Đoàn điều tra tai nạn lao động cấp cơ sở, cấp tỉnh và cấp trung ương quy định tại các khoản 1, 2 và 3 Điều này được tính từ thời điểm nhận tin báo, khai báo tai nạn lao động đến khi công bố biên bản điều tra tai nạn lao động như sau:",
+                    "text": "Thời hạn điều tra vụ tai nạn lao động thuộc thẩm quyền của Đoàn điều tra tai nạn lao động cấp cơ sở, cấp tỉnh và cấp trung ương quy định tại các khoản 1, 2 và 3 Điều này được tính từ thời điểm nhận tin báo, khai báo tai nạn lao động đến khi công bố biên bản điều tra tai nạn lao động như sau: Đối với tai nạn lao động được quy định tại các điểm b, c và d của khoản này có tình tiết phức tạp thì được gia hạn thời gian điều tra một lần nhưng thời hạn gia hạn không vượt quá thời hạn quy định tại các điểm này; Trưởng đoàn điều tra phải báo cáo việc gia hạn và được sự đồng ý của người ban hành quyết định thành lập Đoàn điều tra tai nạn lao động đối với tai nạn lao động quy định tại các điểm b, c và d khoản này.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1297,17 +1320,17 @@
                 },
                 {
                     "number": "7",
-                    "text": "Trong quá trình điều tra tai nạn lao động quy định tại các khoản 1, 2 và 3 Điều này mà phát hiện có dấu hiệu tội phạm, Đoàn điều tra phải báo cáo bằng văn bản, kèm theo các tài liệu, chuyển giao đồ vật, phương tiện liên quan (nếu có) cho cơ quan điều tra để xem xét, khởi tố vụ án hình sự theo quy định của pháp luật về tố tụng hình sự.",
+                    "text": "Trong quá trình điều tra tai nạn lao động quy định tại các khoản 1, 2 và 3 Điều này mà phát hiện có dấu hiệu tội phạm, Đoàn điều tra phải báo cáo bằng văn bản, kèm theo các tài liệu, chuyển giao đồ vật, phương tiện liên quan (nếu có) cho cơ quan điều tra để xem xét, khởi tố vụ án hình sự theo quy định của pháp luật về tố tụng hình sự. Thời hạn giải quyết đối với kiến nghị khởi tố thực hiện theo quy định của pháp luật về tố tụng hình sự; trường hợp cơ quan điều tra ra quyết định không khởi tố vụ án, thì trong thời hạn 05 ngày, kể từ khi ra quyết định không khởi tố vụ án hình sự, cơ quan điều tra có trách nhiệm cung cấp và chuyển giao cho Đoàn điều tra tai nạn lao động các tài liệu, đồ vật, phương tiện liên quan đến vụ tai nạn lao động.",
                     "sub_clauses": []
                 },
                 {
                     "number": "8",
-                    "text": "Biên bản điều tra tai nạn lao động phải được công bố công khai tại cuộc họp dưới sự chủ trì của Trưởng đoàn điều tra tai nạn lao động và các thành viên tham dự là thành viên của Đoàn điều tra, người sử dụng lao động hoặc người đại diện được người sử dụng lao động ủy quyền bằng văn bản, đại diện tổ chức công đoàn, người bị nạn hoặc đại diện thân nhân người bị nạn, người biết sự việc, người có liên quan đến vụ tai nạn; trường hợp xảy ra tai nạn lao động chết người còn có đại diện cơ quan Công an, Viện kiểm sát nhân dân cùng cấp.",
+                    "text": "Biên bản điều tra tai nạn lao động phải được công bố công khai tại cuộc họp dưới sự chủ trì của Trưởng đoàn điều tra tai nạn lao động và các thành viên tham dự là thành viên của Đoàn điều tra, người sử dụng lao động hoặc người đại diện được người sử dụng lao động ủy quyền bằng văn bản, đại diện tổ chức công đoàn, người bị nạn hoặc đại diện thân nhân người bị nạn, người biết sự việc, người có liên quan đến vụ tai nạn; trường hợp xảy ra tai nạn lao động chết người còn có đại diện cơ quan Công an, Viện kiểm sát nhân dân cùng cấp. Biên bản điều tra tai nạn lao động và biên bản cuộc họp công bố biên bản điều tra tai nạn lao động phải gửi đến các cơ quan có thành viên trong Đoàn điều tra tai nạn lao động, cơ quan quản lý nhà nước về lao động, người sử dụng lao động của cơ sở xảy ra tai nạn lao động và các nạn nhân hoặc thân nhân người bị tai nạn lao động.",
                     "sub_clauses": []
                 },
                 {
                     "number": "9",
-                    "text": "Trách nhiệm công bố biên bản điều tra tai nạn lao động và các thông tin cần thiết khác liên quan đến tai nạn lao động như sau:",
+                    "text": "Trách nhiệm công bố biên bản điều tra tai nạn lao động và các thông tin cần thiết khác liên quan đến tai nạn lao động như sau: Sau khi nhận được biên bản điều tra tai nạn lao động và biên bản cuộc họp công bố biên bản điều tra tai nạn lao động, người sử dụng lao động phải thực hiện niêm yết công khai, đầy đủ thông tin để người lao động của cơ sở xảy ra tai nạn lao động biết; trường hợp tai nạn lao động xảy ra đối với người lao động làm việc không theo hợp đồng lao động thì Ủy ban nhân dân cấp xã phải niêm yết công khai để nhân dân biết;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1385,7 +1408,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tất cả người lao động bị mắc bệnh nghề nghiệp phải được thống kê và báo cáo theo quy định của Bộ trưởng Bộ Y tế.",
+                    "text": "Tất cả người lao động bị mắc bệnh nghề nghiệp phải được thống kê và báo cáo theo quy định của Bộ trưởng Bộ Y tế. Danh mục bệnh nghề nghiệp do Bộ trưởng Bộ Y tế ban hành sau khi lấy ý kiến của Bộ Lao động - Thương binh và Xã hội, Tổng Liên đoàn Lao động Việt Nam, tổ chức đại diện người sử dụng lao động, tổ chức xã hội có liên quan và được rà soát sửa đổi, bổ sung phù hợp với thay đổi về môi trường lao động, thiết bị, công nghệ.",
                     "sub_clauses": []
                 },
                 {
@@ -1400,7 +1423,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bộ Y tế tổ chức, hướng dẫn việc thu thập, lưu trữ, tổng hợp, cung cấp, công bố, đánh giá về tình hình bệnh nghề nghiệp; tổ chức xây dựng, quản lý cơ sở dữ liệu về phòng, chống bệnh nghề nghiệp; tổ chức điều tra bệnh nghề nghiệp.",
+                    "text": "Bộ Y tế tổ chức, hướng dẫn việc thu thập, lưu trữ, tổng hợp, cung cấp, công bố, đánh giá về tình hình bệnh nghề nghiệp; tổ chức xây dựng, quản lý cơ sở dữ liệu về phòng, chống bệnh nghề nghiệp; tổ chức điều tra bệnh nghề nghiệp. Mục 2 TRÁCH NHIỆM CỦA NGƯỜI SỬ DỤNG LAO ĐỘNG ĐỐI VỚI NGƯỜI LAO ĐỘNG BỊ TAI NẠN LAO ĐỘNG, BỆNH NGHỀ NGHIỆP",
                     "sub_clauses": []
                 }
             ]
@@ -1409,6 +1432,11 @@
             "id": "Điều 38",
             "title": " Trách nhiệm của người sử dụng lao động đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Người sử dụng lao động có trách nhiệm đối với người lao động bị tai nạn lao động, bệnh nghề nghiệp như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Kịp thời sơ cứu, cấp cứu cho người lao động bị tai nạn lao động và phải tạm ứng chi phí sơ cứu, cấp cứu và điều trị cho người lao động bị tai nạn lao động hoặc bệnh nghề nghiệp;",
@@ -1543,7 +1571,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết Điều này.",
+                    "text": "Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết Điều này. Mục 3 CHẾ ĐỘ BẢO HIỂM TAI NẠN LAO ĐỘNG, BỆNH NGHỀ NGHIỆP",
                     "sub_clauses": []
                 }
             ]
@@ -1674,6 +1702,11 @@
             "id": "Điều 45",
             "title": " Điều kiện hưởng chế độ tai nạn lao động",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Người lao động tham gia bảo hiểm tai nạn lao động, bệnh nghề nghiệp được hưởng chế độ tai nạn lao động khi có đủ các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Bị tai nạn thuộc một trong các trường hợp sau đây:",
@@ -1857,7 +1890,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thời điểm hưởng trợ cấp quy định tại các điều 48, 49 và 52 của Luật này được tính từ tháng người lao động điều trị ổn định xong, ra viện hoặc từ tháng có kết luận của Hội đồng giám định y khoa trong trường hợp không điều trị nội trú; trường hợp giám định tổng hợp mức suy giảm khả năng lao động quy định tại khoản 2 Điều 47 của Luật này, thời điểm trợ cấp được tính kể từ tháng người lao động điều trị xong, ra viện của lần điều trị đối với tai nạn lao động, bệnh nghề nghiệp sau cùng hoặc từ tháng có kết luận giám định tổng hợp của Hội đồng giám định y khoa trong trường hợp không điều trị nội trú.",
+                    "text": "Thời điểm hưởng trợ cấp quy định tại các điều 48, 49 và 52 của Luật này được tính từ tháng người lao động điều trị ổn định xong, ra viện hoặc từ tháng có kết luận của Hội đồng giám định y khoa trong trường hợp không điều trị nội trú; trường hợp giám định tổng hợp mức suy giảm khả năng lao động quy định tại khoản 2 Điều 47 của Luật này, thời điểm trợ cấp được tính kể từ tháng người lao động điều trị xong, ra viện của lần điều trị đối với tai nạn lao động, bệnh nghề nghiệp sau cùng hoặc từ tháng có kết luận giám định tổng hợp của Hội đồng giám định y khoa trong trường hợp không điều trị nội trú. Trường hợp bị tai nạn lao động, bệnh nghề nghiệp mà sau đó không xác định được thời điểm điều trị ổn định xong, ra viện thì thời điểm hưởng trợ cấp tai nạn lao động, bệnh nghề nghiệp được tính từ tháng có kết luận của Hội đồng giám định y khoa; trường hợp bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp thì thời điểm hưởng trợ cấp tính từ tháng người lao động được cấp Giấy chứng nhận bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp.",
                     "sub_clauses": []
                 },
                 {
@@ -1886,12 +1919,23 @@
         {
             "id": "Điều 52",
             "title": " Trợ cấp phục vụ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người lao động bị suy giảm khả năng lao động từ 81% trở lên mà bị liệt cột sống hoặc mù hai mắt hoặc cụt, liệt hai chi hoặc bị bệnh tâm thần thì ngoài mức hưởng quy định tại Điều 49 của Luật này, hằng tháng còn được hưởng trợ cấp phục vụ bằng mức lương cơ sở.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 53",
             "title": " Trợ cấp khi người lao động chết do tai nạn lao động, bệnh nghề nghiệp",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Thân nhân người lao động được hưởng trợ cấp một lần bằng ba mươi sáu lần mức lương cơ sở tại tháng người lao động bị chết và được hưởng chế độ tử tuất theo quy định của Luật bảo hiểm xã hội khi thuộc một trong các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Người lao động đang làm việc bị chết do tai nạn lao động, bệnh nghề nghiệp;",
@@ -1904,7 +1948,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Người lao động bị chết trong thời gian điều trị thương tật, bệnh tật mà chưa được giám định mức suy giảm khả năng lao động.",
+                    "text": "Người lao động bị chết trong thời gian điều trị thương tật, bệnh tật mà chưa được giám định mức suy giảm khả năng lao động. Hồ sơ hưởng chế độ tử tuất trong trường hợp người lao động bị chết do tai nạn lao động, bệnh nghề nghiệp thực hiện theo quy định tại khoản 1 Điều 111 của Luật bảo hiểm xã hội.",
                     "sub_clauses": []
                 }
             ]
@@ -1915,7 +1959,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người lao động sau khi điều trị ổn định thương tật do tai nạn lao động hoặc bệnh tật do bệnh nghề nghiệp, trong thời gian 30 ngày đầu trở lại làm việc mà sức khỏe chưa phục hồi thì được nghỉ dưỡng sức, phục hồi sức khỏe từ 05 ngày đến 10 ngày cho một lần bị tai nạn lao động, bệnh nghề nghiệp.",
+                    "text": "Người lao động sau khi điều trị ổn định thương tật do tai nạn lao động hoặc bệnh tật do bệnh nghề nghiệp, trong thời gian 30 ngày đầu trở lại làm việc mà sức khỏe chưa phục hồi thì được nghỉ dưỡng sức, phục hồi sức khỏe từ 05 ngày đến 10 ngày cho một lần bị tai nạn lao động, bệnh nghề nghiệp. Trường hợp chưa nhận được kết luận giám định mức suy giảm khả năng lao động của Hội đồng giám định y khoa trong thời gian 30 ngày đầu trở lại làm việc thì người lao động vẫn được giải quyết chế độ dưỡng sức, phục hồi sức khỏe cho người lao động sau khi điều trị thương tật, bệnh tật theo quy định tại khoản 2 Điều này nếu Hội đồng giám định y khoa kết luận mức suy giảm khả năng lao động đủ điều kiện hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp.",
                     "sub_clauses": []
                 },
                 {
@@ -2118,7 +2162,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc khám giám định mức suy giảm khả năng lao động phải bảo đảm chính xác, công khai, minh bạch. Hội đồng giám định y khoa chịu trách nhiệm về tính chính xác của kết quả giám định của mình theo quy định của pháp luật.",
+                    "text": "Việc khám giám định mức suy giảm khả năng lao động phải bảo đảm chính xác, công khai, minh bạch. Hội đồng giám định y khoa chịu trách nhiệm về tính chính xác của kết quả giám định của mình theo quy định của pháp luật. CHƯƠNG IV BẢO ĐẢM AN TOÀN, VỆ SINH LAO ĐỘNG ĐỐI VỚI MỘT SỐ LAO ĐỘNG ĐẶC THÙ",
                     "sub_clauses": []
                 }
             ]
@@ -2126,7 +2170,13 @@
         {
             "id": "Điều 63",
             "title": " An toàn, vệ sinh lao động đối với lao động nữ, lao động chưa thành niên, lao động là người khuyết tật",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Những quy định về an toàn, vệ sinh lao động đối với lao động nữ, lao động chưa thành niên, lao động là người khuyết tật thực hiện theo quy định của Bộ luật lao động, Luật người khuyết tật và Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 64",
@@ -2171,7 +2221,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Doanh nghiệp cho thuê lại lao động có trách nhiệm sau đây:",
+                    "text": "Doanh nghiệp cho thuê lại lao động có trách nhiệm sau đây: toàn, vệ sinh lao động cho người lao động thuê lại. Trường hợp bên thuê lại lao động không thực hiện đầy đủ các cam kết về bảo đảm an toàn, vệ sinh lao động trong hợp đồng cho thuê lại lao động đã ký kết, doanh nghiệp cho thuê lại lao động phải chịu trách nhiệm trong việc bảo đảm đầy đủ quyền lợi của người lao động thuê lại;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2224,7 +2274,13 @@
         {
             "id": "Điều 66",
             "title": " An toàn, vệ sinh lao động tại nơi có nhiều người lao động thuộc nhiều người sử dụng lao động cùng làm việc",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tại nơi làm việc có nhiều người lao động thuộc nhiều người sử dụng lao động cùng làm việc thì chủ dự án hoặc chủ đầu tư phải tổ chức để những người sử dụng lao động cùng lập văn bản xác định rõ trách nhiệm của từng người trong việc bảo đảm an toàn, vệ sinh lao động cho người lao động và cử người để phối hợp kiểm tra an toàn, vệ sinh lao động.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 67",
@@ -2292,7 +2348,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Nếu xảy ra tai nạn lao động khi làm việc tại nhà, thì người lao động hoặc thân nhân của họ phải báo cáo ngay để người sử dụng lao động biết.",
+                    "text": "Nếu xảy ra tai nạn lao động khi làm việc tại nhà, thì người lao động hoặc thân nhân của họ phải báo cáo ngay để người sử dụng lao động biết. Trường hợp người bị tai nạn lao động đã tham gia bảo hiểm tai nạn lao động, bệnh nghề nghiệp thì được giải quyết các chính sách, chế độ liên quan đến người bị tai nạn lao động, bệnh nghề nghiệp theo quy định của Luật này. Trường hợp người bị tai nạn lao động là người thuộc diện không phải tham gia bảo hiểm tai nạn lao động, bệnh nghề nghiệp thì người sử dụng lao động có trách nhiệm giải quyết quyền lợi cho người lao động theo quy định tại các khoản 1, 2, 3, 4, 5, 6, 7, 8 và 10 Điều 38 của Luật này.",
                     "sub_clauses": []
                 },
                 {
@@ -2318,7 +2374,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Học sinh, sinh viên, người học nghề trong thời gian thực hành, học nghề, tập nghề phải tuân thủ các quy định về an toàn, vệ sinh lao động của cơ sở giáo dục, cơ sở dạy nghề.",
+                    "text": "Học sinh, sinh viên, người học nghề trong thời gian thực hành, học nghề, tập nghề phải tuân thủ các quy định về an toàn, vệ sinh lao động của cơ sở giáo dục, cơ sở dạy nghề. Trường hợp học sinh, sinh viên trong thời gian thực hành bị tai nạn lao động thì được hỗ trợ theo quy định của Chính phủ. CHƯƠNG V BẢO ĐẢM AN TOÀN, VỆ SINH LAO ĐỘNG ĐỐI VỚI CƠ SỞ SẢN XUẤT, KINH DOANH",
                     "sub_clauses": []
                 }
             ]
@@ -2350,7 +2406,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Căn cứ vào quy mô, tính chất lao động, nguy cơ tai nạn lao động, bệnh nghề nghiệp, điều kiện lao động mà người sử dụng lao động phải bố trí người làm công tác an toàn, vệ sinh lao động hoặc thành lập bộ phận quản lý công tác an toàn, vệ sinh lao động tại cơ sở.",
+                    "text": "Căn cứ vào quy mô, tính chất lao động, nguy cơ tai nạn lao động, bệnh nghề nghiệp, điều kiện lao động mà người sử dụng lao động phải bố trí người làm công tác an toàn, vệ sinh lao động hoặc thành lập bộ phận quản lý công tác an toàn, vệ sinh lao động tại cơ sở. Chính phủ quy định chi tiết khoản này.",
                     "sub_clauses": []
                 },
                 {
@@ -2431,7 +2487,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Căn cứ vào quy mô, tính chất lao động, nguy cơ tai nạn lao động, bệnh nghề nghiệp, điều kiện lao động mà người sử dụng lao động phải bố trí người làm công tác y tế hoặc thành lập bộ phận y tế chịu trách nhiệm chăm sóc và quản lý sức khỏe của người lao động.",
+                    "text": "Căn cứ vào quy mô, tính chất lao động, nguy cơ tai nạn lao động, bệnh nghề nghiệp, điều kiện lao động mà người sử dụng lao động phải bố trí người làm công tác y tế hoặc thành lập bộ phận y tế chịu trách nhiệm chăm sóc và quản lý sức khỏe của người lao động. Chính phủ quy định chi tiết khoản này.",
                     "sub_clauses": []
                 },
                 {
@@ -2541,7 +2597,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "An toàn, vệ sinh viên có quyền sau đây:",
+                    "text": "An toàn, vệ sinh viên có quyền sau đây: Mức phụ cấp trách nhiệm do người sử dụng lao động và Ban chấp hành công đoàn cơ sở thống nhất thỏa thuận và được ghi trong quy chế hoạt động của mạng lưới an toàn, vệ sinh viên;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2569,7 +2625,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Căn cứ vào quy mô, tính chất lao động, nguy cơ tai nạn lao động, bệnh nghề nghiệp, điều kiện lao động mà người sử dụng lao động thành lập Hội đồng an toàn, vệ sinh lao động cơ sở.",
+                    "text": "Căn cứ vào quy mô, tính chất lao động, nguy cơ tai nạn lao động, bệnh nghề nghiệp, điều kiện lao động mà người sử dụng lao động thành lập Hội đồng an toàn, vệ sinh lao động cơ sở. Chính phủ quy định chi tiết khoản này.",
                     "sub_clauses": []
                 },
                 {
@@ -2596,7 +2652,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thành phần của Hội đồng an toàn, vệ sinh lao động cơ sở bao gồm:",
+                    "text": "Thành phần của Hội đồng an toàn, vệ sinh lao động cơ sở bao gồm: Thành phần của Hội đồng an toàn, vệ sinh lao động cơ sở phải bảo đảm tỷ lệ thành viên nữ tham gia phù hợp với nguyên tắc bình đẳng giới, điều kiện thực tế ở cơ sở sản xuất, kinh doanh.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2811,7 +2867,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết điểm a khoản 1 Điều này sau khi có ý kiến của Bộ trưởng Bộ Y tế.",
+                    "text": "Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết điểm a khoản 1 Điều này sau khi có ý kiến của Bộ trưởng Bộ Y tế. CHƯƠNG VI QUẢN LÝ NHÀ NƯỚC VỀ AN TOÀN, VỆ SINH LAO ĐỘNG",
                     "sub_clauses": []
                 }
             ]
@@ -3037,7 +3093,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ, cơ quan ngang bộ chủ trì xây dựng các tiêu chuẩn quốc gia về an toàn, vệ sinh lao động và xây dựng, ban hành quy chuẩn kỹ thuật quốc gia về an toàn, vệ sinh lao động trong phạm vi quản lý được Chính phủ phân công sau khi có ý kiến thống nhất của Bộ Lao động - Thương binh và Xã hội; trường hợp không thống nhất ý kiến, cơ quan chủ trì xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia báo cáo Thủ tướng Chính phủ xem xét, quyết định.",
+                    "text": "Bộ, cơ quan ngang bộ chủ trì xây dựng các tiêu chuẩn quốc gia về an toàn, vệ sinh lao động và xây dựng, ban hành quy chuẩn kỹ thuật quốc gia về an toàn, vệ sinh lao động trong phạm vi quản lý được Chính phủ phân công sau khi có ý kiến thống nhất của Bộ Lao động - Thương binh và Xã hội; trường hợp không thống nhất ý kiến, cơ quan chủ trì xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia báo cáo Thủ tướng Chính phủ xem xét, quyết định. Việc thẩm định tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia về an toàn, vệ sinh lao động do Bộ Khoa học và Công nghệ tổ chức thực hiện theo quy định của Luật tiêu chuẩn và quy chuẩn kỹ thuật.",
                     "sub_clauses": []
                 },
                 {
@@ -3179,7 +3235,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. CHƯƠNG VII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -3208,8 +3264,19 @@
         {
             "id": "Điều 93",
             "title": " Quy định chi tiết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ, cơ quan nhà nước có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. ------------------------------------------------------------------------------------------------------------------------------------ Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 25 tháng 6 năm 2015. CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 25 tháng 6 năm 2015.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "(Đã ký)",
+        "Nguyễn Sinh Hùng"
+    ]
 }

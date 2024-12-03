@@ -33,6 +33,11 @@
             "title": "Giải thích từ ngữ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Hòa giải ở cơ sở là việc hòa giải viên hướng dẫn, giúp đỡ các bên đạt được thỏa thuận, tự nguyện giải quyết với nhau các mâu thuẫn, tranh chấp, vi phạm pháp luật theo quy định của Luật này.",
                     "sub_clauses": []
@@ -134,7 +139,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Khuyến khích các bên giải quyết mâu thuẫn, tranh chấp bằng hình thức hòa giải ở cơ sở và các hình thức hòa giải thích hợp khác.",
+                    "text": "Khuyến khích các bên giải quyết mâu thuẫn, tranh chấp bằng hình thức hòa giải ở cơ sở và các hình thức hòa giải thích hợp khác. Khuyến khích những người có uy tín trong gia đình, dòng họ, cộng đồng dân cư tham gia hòa giải ở cơ sở và tham gia các hình thức hòa giải thích hợp khác.",
                     "sub_clauses": []
                 },
                 {
@@ -155,12 +160,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Nhà nước hỗ trợ kinh phí cho công tác hòa giải ở cơ sở để biên soạn, phát hành tài liệu; tổ chức bồi dưỡng, hướng dẫn nghiệp vụ, kỹ năng về hòa giải ở cơ sở; sơ kết, tổng kết, khen thưởng đối với công tác hòa giải ở cơ sở; chi thù lao cho hòa giải viên theo vụ, việc và hỗ trợ các chi phí cần thiết khác cho hoạt động hòa giải ở cơ sở.",
+                    "text": "Nhà nước hỗ trợ kinh phí cho công tác hòa giải ở cơ sở để biên soạn, phát hành tài liệu; tổ chức bồi dưỡng, hướng dẫn nghiệp vụ, kỹ năng về hòa giải ở cơ sở; sơ kết, tổng kết, khen thưởng đối với công tác hòa giải ở cơ sở; chi thù lao cho hòa giải viên theo vụ, việc và hỗ trợ các chi phí cần thiết khác cho hoạt động hòa giải ở cơ sở. Ngân sách trung ương chi bổ sung cho các địa phương chưa tự cân đối được ngân sách để hỗ trợ kinh phí cho công tác hòa giải ở cơ sở.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương II HÒA GIẢI VIÊN, TỔ HÒA GIẢI Mục 1. HÒA GIẢI VIÊN",
                     "sub_clauses": []
                 }
             ]
@@ -169,6 +174,11 @@
             "id": "Điều 7",
             "title": "Tiêu chuẩn hòa giải viên",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Người được bầu làm hòa giải viên phải là công dân Việt Nam thường trú tại cơ sở, tự nguyện tham gia hoạt động hòa giải và có các tiêu chuẩn sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Có phẩm chất đạo đức tốt; có uy tín trong cộng đồng dân cư;",
@@ -339,12 +349,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp thôi làm hòa giải viên quy định tại khoản 1 Điều này thì tổ trưởng tổ hòa giải đề nghị Trưởng ban công tác Mặt trận phối hợp với trưởng thôn, tổ trưởng tổ dân phố làm văn bản đề nghị Chủ tịch Ủy ban nhân dân cấp xã ra quyết định thôi làm hòa giải viên.",
+                    "text": "Trường hợp thôi làm hòa giải viên quy định tại khoản 1 Điều này thì tổ trưởng tổ hòa giải đề nghị Trưởng ban công tác Mặt trận phối hợp với trưởng thôn, tổ trưởng tổ dân phố làm văn bản đề nghị Chủ tịch Ủy ban nhân dân cấp xã ra quyết định thôi làm hòa giải viên. Trường hợp thôi làm hòa giải viên đối với tổ trưởng tổ hòa giải thì Trưởng ban công tác Mặt trận phối hợp với trưởng thôn, tổ trưởng tổ dân phố làm văn bản đề nghị Chủ tịch Ủy ban nhân dân cấp xã ra quyết định thôi làm hòa giải viên.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Quyết định thôi làm hòa giải viên được gửi Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, Trưởng ban công tác Mặt trận, trưởng thôn, tổ trưởng tổ dân phố, hòa giải viên và thông báo công khai ở thôn, tổ dân phố.",
+                    "text": "Quyết định thôi làm hòa giải viên được gửi Ban thường trực Ủy ban Mặt trận Tổ quốc Việt Nam cấp xã, Trưởng ban công tác Mặt trận, trưởng thôn, tổ trưởng tổ dân phố, hòa giải viên và thông báo công khai ở thôn, tổ dân phố. Mục 2. TỔ HÒA GIẢI",
                     "sub_clauses": []
                 }
             ]
@@ -453,7 +463,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Có các quyền, nghĩa vụ của hòa giải viên quy định tại Điều 9 và Điều 10 của Luật này.",
+                    "text": "Có các quyền, nghĩa vụ của hòa giải viên quy định tại Điều 9 và Điều 10 của Luật này. Chương III HOẠT ĐỘNG HÒA GIẢI Ở CƠ SỞ",
                     "sub_clauses": []
                 }
             ]
@@ -462,6 +472,11 @@
             "id": "Điều 16",
             "title": "Căn cứ tiến hành hòa giải",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Hòa giải ở cơ sở được tiến hành khi có một trong các căn cứ sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Một bên hoặc các bên yêu cầu hòa giải;",
@@ -594,12 +609,12 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tùy thuộc vào vụ, việc cụ thể, trên cơ sở quy định của pháp luật, đạo đức xã hội, phong tục, tập quán tốt đẹp của nhân dân, hòa giải viên áp dụng các biện pháp thích hợp nhằm giúp các bên hiểu rõ về quyền lợi, trách nhiệm của mỗi bên trong vụ, việc để các bên thỏa thuận việc giải quyết các mâu thuẫn, tranh chấp và tự nguyện thực hiện thỏa thuận đó.",
+                    "text": "Tùy thuộc vào vụ, việc cụ thể, trên cơ sở quy định của pháp luật, đạo đức xã hội, phong tục, tập quán tốt đẹp của nhân dân, hòa giải viên áp dụng các biện pháp thích hợp nhằm giúp các bên hiểu rõ về quyền lợi, trách nhiệm của mỗi bên trong vụ, việc để các bên thỏa thuận việc giải quyết các mâu thuẫn, tranh chấp và tự nguyện thực hiện thỏa thuận đó. Trong trường hợp không đạt được thỏa thuận, hòa giải viên hướng dẫn các bên đề nghị cơ quan, tổ chức có thẩm quyền giải quyết theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
                     "number": "4",
-                    "text": "Hòa giải viên có trách nhiệm ghi nội dung vụ, việc hòa giải vào Sổ theo dõi hoạt động hòa giải ở cơ sở.",
+                    "text": "Hòa giải viên có trách nhiệm ghi nội dung vụ, việc hòa giải vào Sổ theo dõi hoạt động hòa giải ở cơ sở. Trường hợp các bên đồng ý thì lập văn bản hòa giải thành theo quy định tại khoản 2 Điều 24 của Luật này.",
                     "sub_clauses": []
                 }
             ]
@@ -607,7 +622,13 @@
         {
             "id": "Điều 22",
             "title": "Hòa giải giữa các bên ở thôn, tổ dân phố khác nhau",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp các bên ở thôn, tổ dân phố khác nhau thì tổ hòa giải ở thôn, tổ dân phố đó phối hợp thực hiện việc hòa giải và thông báo với Trưởng ban công tác Mặt trận tại nơi đó cùng phối hợp thực hiện.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 23",
@@ -698,12 +719,24 @@
         {
             "id": "Điều 26",
             "title": "Theo dõi, đôn đốc việc thực hiện thỏa thuận hòa giải thành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hòa giải viên có trách nhiệm theo dõi, đôn đốc việc thực hiện thỏa thuận hòa giải thành do mình trực tiếp giải quyết; kịp thời thông báo cho tổ trưởng tổ hòa giải để báo cáo Trưởng ban công tác Mặt trận những vấn đề phát sinh trong quá trình theo dõi, đôn đốc thực hiện.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 27",
             "title": "Hòa giải không thành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hòa giải không thành là trường hợp các bên không đạt được thỏa thuận. Trong trường hợp này, các bên có quyền yêu cầu tiếp tục hòa giải hoặc yêu cầu cơ quan, tổ chức có thẩm quyền giải quyết theo quy định của pháp luật. Chương IV TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC TRONG HOẠT ĐỘNG HÒA GIẢI Ở CƠ SỞ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 28",
@@ -778,12 +811,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ủy ban Mặt trận Tổ quốc Việt Nam các cấp tham gia quản lý nhà nước về hòa giải ở cơ sở; vận động tổ chức, cá nhân chấp hành pháp luật, giám sát việc thực hiện pháp luật về hòa giải ở cơ sở; phối hợp kiểm tra, sơ kết, tổng kết và khen thưởng về hòa giải ở cơ sở.",
+                    "text": "Ủy ban Mặt trận Tổ quốc Việt Nam các cấp tham gia quản lý nhà nước về hòa giải ở cơ sở; vận động tổ chức, cá nhân chấp hành pháp luật, giám sát việc thực hiện pháp luật về hòa giải ở cơ sở; phối hợp kiểm tra, sơ kết, tổng kết và khen thưởng về hòa giải ở cơ sở. Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam hướng dẫn Ủy ban Mặt trận Tổ quốc Việt Nam các cấp tham gia tổ chức thực hiện pháp luật về hòa giải ở cơ sở.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Các tổ chức thành viên của Mặt trận trong phạm vi chức năng, nhiệm vụ của mình có trách nhiệm thực hiện hoạt động hòa giải ở cơ sở theo quy định của pháp luật.",
+                    "text": "Các tổ chức thành viên của Mặt trận trong phạm vi chức năng, nhiệm vụ của mình có trách nhiệm thực hiện hoạt động hòa giải ở cơ sở theo quy định của pháp luật. Chương V ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -791,7 +824,13 @@
         {
             "id": "Điều 31",
             "title": "Quy định chuyển tiếp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Kể từ ngày Luật này có hiệu lực, các tổ hòa giải, tổ viên tổ hòa giải được thành lập, công nhận theo Pháp lệnh về tổ chức và hoạt động hòa giải ở cơ sở được tiếp tục hoạt động mà không phải làm thủ tục công nhận lại theo quy định của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 32",
@@ -812,8 +851,18 @@
         {
             "id": "Điều 33",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 5 thông qua ngày 20 tháng 6 năm 2013. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 5 thông qua ngày 20 tháng 6 năm 2013.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

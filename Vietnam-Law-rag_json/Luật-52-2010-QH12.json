@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định nguyên tắc, điều kiện nuôi con nuôi; thẩm quyền, trình tự, thủ tục giải quyết việc nuôi con nuôi; quyền, nghĩa vụ của cha mẹ nuôi, con nuôi và cha mẹ đẻ; trách nhiệm của cơ quan, tổ chức trong việc nuôi con nuôi."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Mục đích nuôi con nuôi",
+        "text": "Việc nuôi con nuôi nhằm xác lập quan hệ cha, mẹ và con lâu dài, bền vững, vì lợi ích tốt nhất của người được nhận làm con nuôi, bảo đảm cho con nuôi được nuôi dưỡng, chăm sóc, giáo dục trong môi trường gia đình."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, những từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -140,6 +161,20 @@
         "text": "Trường hợp có nhiều người cùng hàng ưu tiên xin nhận một người làm con nuôi thì xem xét, giải quyết cho người có điều kiện nuôi dưỡng, chăm sóc, giáo dục con nuôi tốt nhất."
     },
     {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Bảo hộ quyền nuôi con nuôi và quyền được nhận làm con nuôi",
+        "text": "Nhà nước bảo hộ quyền nuôi con nuôi và quyền được nhận làm con nuôi theo quy định của Luật này và các quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Khuyến khích hỗ trợ nhân đạo cho việc chăm sóc trẻ em có hoàn cảnh đặc biệt",
+        "text": "Nhà nước khuyến khích tổ chức, cá nhân hỗ trợ nhân đạo cho việc nuôi dưỡng, chăm sóc, giáo dục trẻ em có hoàn cảnh đặc biệt. Việc hỗ trợ nhân đạo không được ảnh hưởng đến việc cho nhận con nuôi. Chính phủ quy định việc tiếp nhận, quản lý, sử dụng hỗ trợ nhân đạo quy định tại Điều này."
+    },
+    {
         "id": "Điều 8.1",
         "article": "Điều 8",
         "clause": "1",
@@ -201,6 +236,13 @@
         "clause": "3",
         "title": "Thẩm quyền đăng ký nuôi con nuôi",
         "text": "Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài đăng ký việc nuôi con nuôi của công dân Việt Nam tạm trú ở nước ngoài."
+    },
+    {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Thẩm quyền giải quyết yêu cầu chấm dứt việc nuôi con nuôi",
+        "text": "Tòa án nhân dân có thẩm quyền giải quyết yêu cầu chấm dứt việc nuôi con nuôi theo quy định của pháp luật về tố tụng dân sự."
     },
     {
         "id": "Điều 11.1",
@@ -413,6 +455,20 @@
         "text": "Bộ Tư pháp có trách nhiệm thông báo tìm người trong nước nhận trẻ em làm con nuôi trên trang thông tin điện tử của Bộ Tư pháp."
     },
     {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Đăng ký nhu cầu nhận con nuôi",
+        "text": "Công dân Việt Nam có nguyện vọng và đủ điều kiện nhận con nuôi theo quy định của Luật này nhưng chưa tìm được trẻ em để nhận làm con nuôi thì đăng ký nhu cầu nhận con nuôi với Sở Tư pháp nơi người đó thường trú; nếu có trẻ em để giới thiệu làm con nuôi thì Sở Tư pháp giới thiệu đến Ủy ban nhân dân cấp xã nơi trẻ em đó thường trú để xem xét, giải quyết."
+    },
+    {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Hồ sơ của người nhận con nuôi",
+        "text": "Hồ sơ của người nhận con nuôi gồm có:"
+    },
+    {
         "id": "Điều 17.1",
         "article": "Điều 17",
         "clause": "1",
@@ -511,6 +567,13 @@
         "text": "Thời hạn giải quyết việc nuôi con nuôi là 30 ngày, kể từ ngày Ủy ban nhân dân cấp xã nhận đủ hồ sơ hợp lệ."
     },
     {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Kiểm tra hồ sơ, lấy ý kiến của những người liên quan",
+        "text": "Ủy ban nhân dân cấp xã nơi nhận hồ sơ có trách nhiệm kiểm tra hồ sơ; trong thời hạn 10 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, tiến hành xong việc lấy ý kiến của những người quy định tại Điều 21 của Luật này. Việc lấy ý kiến phải lập thành văn bản và có chữ ký hoặc điểm chỉ của người được lấy ý kiến."
+    },
+    {
         "id": "Điều 21.1",
         "article": "Điều 21",
         "clause": "1",
@@ -600,6 +663,13 @@
         "clause": "4",
         "title": "Hệ quả của việc nuôi con nuôi",
         "text": "Trừ trường hợp giữa cha mẹ đẻ và cha mẹ nuôi có thỏa thuận khác, kể từ ngày giao nhận con nuôi, cha mẹ đẻ không còn quyền, nghĩa vụ chăm sóc, nuôi dưỡng, cấp dưỡng, đại diện theo pháp luật, bồi thường thiệt hại, quản lý, định đoạt tài sản riêng đối với con đã cho làm con nuôi."
+    },
+    {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Căn cứ chấm dứt việc nuôi con nuôi",
+        "text": "Việc nuôi con nuôi có thể bị chấm dứt trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 25.1",
@@ -784,6 +854,13 @@
         "text": "Công dân Việt Nam nhận người nước ngoài làm con nuôi phải có đủ các điều kiện theo quy định tại Điều 14 của Luật này và pháp luật của nước nơi người được nhận làm con nuôi thường trú."
     },
     {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Hợp pháp hoá lãnh sự giấy tờ, tài liệu",
+        "text": "Giấy tờ, tài liệu trong hồ sơ của người nhận con nuôi, hồ sơ của tổ chức con nuôi nước ngoài do cơ quan có thẩm quyền của nước ngoài lập, cấp hoặc xác nhận phải được hợp pháp hoá lãnh sự khi sử dụng ở Việt Nam, trừ trường hợp được miễn hợp pháp hóa lãnh sự theo điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc theo nguyên tắc có đi có lại."
+    },
+    {
         "id": "Điều 31.1",
         "article": "Điều 31",
         "clause": "1",
@@ -945,6 +1022,13 @@
         "text": "Sau khi kết thúc thời hạn thông báo tìm gia đình thay thế cho trẻ em theo quy định tại khoản 2 Điều 15 của Luật này, nếu trẻ em không được người trong nước nhận làm con nuôi thì Bộ Tư pháp chuyển hồ sơ của người nhận con nuôi cho Sở Tư pháp nơi trẻ em được giới thiệu làm con nuôi thường trú để xem xét, giới thiệu trẻ em làm con nuôi theo trình tự quy định tại Điều 36 của Luật này, trừ trường hợp quy định tại khoản 2 Điều này."
     },
     {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Căn cứ để giới thiệu trẻ em làm con nuôi",
+        "text": "Việc giới thiệu trẻ em làm con nuôi người nước ngoài được thực hiện vì lợi ích của trẻ em, có tính đến lợi ích của người nhận con nuôi trên cơ sở bảo đảm những yêu cầu cơ bản sau đây:"
+    },
+    {
         "id": "Điều 35.1",
         "article": "Điều 35",
         "clause": "1",
@@ -1029,6 +1113,20 @@
         "text": "Bộ Tư pháp gửi quyết định cho trẻ em làm con nuôi nước ngoài cho Bộ Ngoại giao để thông báo cho Cơ quan đại diện của Việt Nam ở nước ngoài về việc trẻ em được nhận làm con nuôi để thực hiện biện pháp bảo hộ trẻ em trong trường hợp cần thiết."
     },
     {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Chứng nhận việc nuôi con nuôi",
+        "text": "Bộ Tư pháp chứng nhận việc nuôi con nuôi đã được giải quyết theo đúng quy định của Luật này và điều ước quốc tế về nuôi con nuôi mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên để gửi cơ quan, tổ chức có thẩm quyền của nước ngoài, nếu có yêu cầu."
+    },
+    {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Thông báo tình hình phát triển của con nuôi",
+        "text": "Sáu tháng một lần trong thời hạn 03 năm, kể từ ngày giao nhận con nuôi, cha mẹ nuôi có trách nhiệm thông báo cho Bộ Tư pháp và Cơ quan đại diện của Việt Nam ở nước nơi con nuôi thường trú về tình trạng sức khỏe, thể chất, tinh thần, sự hòa nhập của con nuôi với cha mẹ nuôi, gia đình, cộng đồng."
+    },
+    {
         "id": "Điều 40.1",
         "article": "Điều 40",
         "clause": "1",
@@ -1069,6 +1167,13 @@
         "clause": "4",
         "title": "Người nước ngoài thường trú ở Việt Nam nhận con nuôi",
         "text": "Ngay sau khi có quyết định của Ủy ban nhân dân cấp tỉnh, Sở Tư pháp đăng ký việc nuôi con nuôi theo quy định của pháp luật về đăng ký hộ tịch, tổ chức lễ giao nhận con nuôi tại trụ sở Sở Tư pháp với sự có mặt của đại diện Sở Tư pháp, người được nhận làm con nuôi, cha mẹ nuôi, đại diện cơ sở nuôi dưỡng đối với trẻ em được xin nhận làm con nuôi từ cơ sở nuôi dưỡng hoặc cha mẹ đẻ, người giám hộ đối với người được xin nhận làm con nuôi từ gia đình và gửi quyết định cho Ủy ban nhân dân cấp xã nơi thường trú của người nhận con nuôi. Trường hợp người nhận con nuôi không đến nhận con nuôi mà không có lý do chính đáng thì Ủy ban nhân dân cấp tỉnh hủy quyết định cho người nước ngoài thường trú ở Việt Nam nhận con nuôi. Việc giao nhận con nuôi phải được lập thành biên bản, có chữ ký hoặc điểm chỉ của các bên và đại diện Sở Tư pháp."
+    },
+    {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Nuôi con nuôi ở khu vực biên giới",
+        "text": "Căn cứ vào các quy định của Luật này và tình hình thực tế, Chính phủ quy định thủ tục giải quyết nuôi con nuôi giữa công dân Việt Nam với công dân của nước láng giềng thường trú ở khu vực biên giới."
     },
     {
         "id": "Điều 43.1",
@@ -1516,6 +1621,6 @@
         "article": "Điều 52",
         "clause": "2",
         "title": "Hiệu lực thi hành",
-        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước."
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

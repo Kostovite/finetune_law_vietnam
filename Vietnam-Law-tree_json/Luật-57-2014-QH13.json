@@ -73,7 +73,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ hoặc ít nhất một phần ba tổng số đại biểu Quốc hội có quyền đề nghị Quốc hội xem xét, quyết định việc làm Hiến pháp hoặc sửa đổi Hiến pháp.",
+                    "text": "Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ hoặc ít nhất một phần ba tổng số đại biểu Quốc hội có quyền đề nghị Quốc hội xem xét, quyết định việc làm Hiến pháp hoặc sửa đổi Hiến pháp. Quốc hội quyết định làm Hiến pháp, sửa đổi Hiến pháp khi có ít nhất hai phần ba tổng số đại biểu Quốc hội biểu quyết tán thành.",
                     "sub_clauses": []
                 },
                 {
@@ -157,7 +157,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Quốc hội bầu Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội và các Ủy viên Ủy ban thường vụ Quốc hội trong số các đại biểu Quốc hội theo danh sách đề cử chức vụ từng người của Ủy ban thường vụ Quốc hội.",
+                    "text": "Quốc hội bầu Chủ tịch Quốc hội, các Phó Chủ tịch Quốc hội và các Ủy viên Ủy ban thường vụ Quốc hội trong số các đại biểu Quốc hội theo danh sách đề cử chức vụ từng người của Ủy ban thường vụ Quốc hội. Tại kỳ họp thứ nhất, Quốc hội bầu Chủ tịch Quốc hội, Phó Chủ tịch Quốc hội, Ủy viên Ủy ban thường vụ Quốc hội theo đề nghị của Ủy ban thường vụ Quốc hội khóa trước.",
                     "sub_clauses": []
                 },
                 {
@@ -242,7 +242,13 @@
         {
             "id": "Điều 11",
             "title": "Miễn nhiệm, bãi nhiệm, phê chuẩn đề nghị miễn nhiệm, cách chức người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Quốc hội miễn nhiệm, bãi nhiệm hoặc phê chuẩn đề nghị miễn nhiệm, cách chức người giữ chức vụ do Quốc hội bầu hoặc phê chuẩn quy định tại Điều 8 và Điều 9 của Luật này theo đề nghị của cơ quan hoặc người có thẩm quyền giới thiệu Quốc hội bầu hoặc phê chuẩn chức vụ đó.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 12",
@@ -345,7 +351,13 @@
         {
             "id": "Điều 16",
             "title": "Quyết định đại xá",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Quốc hội quyết định đại xá theo đề nghị của Chủ tịch nước.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 17",
@@ -371,7 +383,13 @@
         {
             "id": "Điều 18",
             "title": "Phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của điều ước quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Quốc hội phê chuẩn, quyết định gia nhập hoặc chấm dứt hiệu lực của điều ước quốc tế liên quan đến chiến tranh, hòa bình, chủ quyền quốc gia, tư cách thành viên của Cộng hòa xã hội chủ nghĩa Việt Nam tại các tổ chức quốc tế và khu vực quan trọng, điều ước quốc tế về quyền con người, quyền và nghĩa vụ cơ bản của công dân và điều ước quốc tế khác trái với luật, nghị quyết của Quốc hội theo đề nghị của Chủ tịch nước.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 19",
@@ -410,7 +428,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Các cơ quan nhà nước, tổ chức hữu quan có trách nhiệm nghiên cứu, giải quyết, trả lời kiến nghị của cử tri và báo cáo với Quốc hội, Ủy ban thường vụ Quốc hội kết quả giải quyết.",
+                    "text": "Các cơ quan nhà nước, tổ chức hữu quan có trách nhiệm nghiên cứu, giải quyết, trả lời kiến nghị của cử tri và báo cáo với Quốc hội, Ủy ban thường vụ Quốc hội kết quả giải quyết. CHƯƠNG II ĐẠI BIỂU QUỐC HỘI",
                     "sub_clauses": []
                 }
             ]
@@ -502,7 +520,13 @@
         {
             "id": "Điều 25",
             "title": "Nhiệm kỳ của đại biểu Quốc hội",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhiệm kỳ của đại biểu Quốc hội theo nhiệm kỳ của Quốc hội. Nhiệm kỳ của đại biểu Quốc hội được bầu bổ sung bắt đầu từ ngày khai mạc kỳ họp tiếp sau cuộc bầu cử bổ sung đến ngày khai mạc kỳ họp thứ nhất của Quốc hội khóa sau.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 26",
@@ -584,7 +608,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đại biểu Quốc hội có quyền tham gia làm thành viên của Hội đồng dân tộc hoặc Ủy ban của Quốc hội.",
+                    "text": "Đại biểu Quốc hội có quyền tham gia làm thành viên của Hội đồng dân tộc hoặc Ủy ban của Quốc hội. Căn cứ vào năng lực chuyên môn, kinh nghiệm công tác, đại biểu Quốc hội đăng ký tham gia làm thành viên của Hội đồng dân tộc hoặc một Ủy ban của Quốc hội. Trên cơ sở đăng ký của đại biểu Quốc hội, Chủ tịch Hội đồng dân tộc, Chủ nhiệm Ủy ban của Quốc hội lập danh sách thành viên Hội đồng, Ủy ban trình Ủy ban thường vụ Quốc hội phê chuẩn.",
                     "sub_clauses": []
                 },
                 {
@@ -642,7 +666,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Kiến nghị của đại biểu Quốc hội được gửi bằng văn bản đến Ủy ban thường vụ Quốc hội, trong đó nêu rõ lý do, nội dung kiến nghị.",
+                    "text": "Kiến nghị của đại biểu Quốc hội được gửi bằng văn bản đến Ủy ban thường vụ Quốc hội, trong đó nêu rõ lý do, nội dung kiến nghị. Ủy ban thường vụ Quốc hội có trách nhiệm tổng hợp, xử lý các kiến nghị của đại biểu Quốc hội theo thẩm quyền và báo cáo Quốc hội trong các trường hợp quy định tại khoản 3 Điều này hoặc trong các trường hợp khác mà Ủy ban thường vụ Quốc hội thấy cần thiết.",
                     "sub_clauses": []
                 },
                 {
@@ -716,7 +740,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Không được bắt, giam, giữ, khởi tố đại biểu Quốc hội, khám xét nơi ở và nơi làm việc của đại biểu Quốc hội nếu không có sự đồng ý của Quốc hội hoặc trong thời gian Quốc hội không họp, không có sự đồng ý của Ủy ban thường vụ Quốc hội. Việc đề nghị bắt, giam, giữ, khởi tố, khám xét nơi ở và nơi làm việc của đại biểu Quốc hội thuộc thẩm quyền của Viện trưởng Viện kiểm sát nhân dân tối cao.",
+                    "text": "Không được bắt, giam, giữ, khởi tố đại biểu Quốc hội, khám xét nơi ở và nơi làm việc của đại biểu Quốc hội nếu không có sự đồng ý của Quốc hội hoặc trong thời gian Quốc hội không họp, không có sự đồng ý của Ủy ban thường vụ Quốc hội. Việc đề nghị bắt, giam, giữ, khởi tố, khám xét nơi ở và nơi làm việc của đại biểu Quốc hội thuộc thẩm quyền của Viện trưởng Viện kiểm sát nhân dân tối cao. Trường hợp đại biểu Quốc hội bị tạm giữ vì phạm tội quả tang thì cơ quan tạm giữ phải lập tức báo cáo để Quốc hội hoặc Ủy ban thường vụ Quốc hội xem xét, quyết định.",
                     "sub_clauses": []
                 },
                 {
@@ -753,7 +777,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trong trường hợp đại biểu Quốc hội bị khởi tố bị can thì Ủy ban thường vụ Quốc hội quyết định tạm đình chỉ việc thực hiện nhiệm vụ, quyền hạn của đại biểu Quốc hội đó.",
+                    "text": "Trong trường hợp đại biểu Quốc hội bị khởi tố bị can thì Ủy ban thường vụ Quốc hội quyết định tạm đình chỉ việc thực hiện nhiệm vụ, quyền hạn của đại biểu Quốc hội đó. Đại biểu Quốc hội được trở lại thực hiện nhiệm vụ, quyền hạn đại biểu và khôi phục các lợi ích hợp pháp khi cơ quan có thẩm quyền đình chỉ điều tra, đình chỉ vụ án đối với đại biểu đó hoặc kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật tuyên đại biểu đó không có tội hoặc được miễn trách nhiệm hình sự.",
                     "sub_clauses": []
                 },
                 {
@@ -806,7 +830,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thời gian đại biểu Quốc hội hoạt động chuyên trách được tính vào thời gian công tác liên tục. Khi đại biểu Quốc hội hoạt động chuyên trách thôi làm nhiệm vụ đại biểu thì cơ quan, tổ chức có thẩm quyền có trách nhiệm bố trí công tác cho đại biểu Quốc hội.",
+                    "text": "Thời gian đại biểu Quốc hội hoạt động chuyên trách được tính vào thời gian công tác liên tục. Khi đại biểu Quốc hội hoạt động chuyên trách thôi làm nhiệm vụ đại biểu thì cơ quan, tổ chức có thẩm quyền có trách nhiệm bố trí công tác cho đại biểu Quốc hội. Thời gian làm việc trong năm mà đại biểu Quốc hội hoạt động không chuyên trách dành cho việc thực hiện nhiệm vụ đại biểu quy định tại khoản 2 Điều 24 của Luật này được tính vào thời gian làm việc của đại biểu ở cơ quan, tổ chức, đơn vị mà đại biểu làm việc.",
                     "sub_clauses": []
                 },
                 {
@@ -858,12 +882,12 @@
                 },
                 {
                     "number": "3",
-                    "text": "Đoàn đại biểu Quốc hội có Trưởng đoàn hoặc Phó Trưởng đoàn là đại biểu Quốc hội hoạt động chuyên trách. Trưởng đoàn và Phó Trưởng đoàn do Đoàn đại biểu Quốc hội bầu trong số các đại biểu Quốc hội của Đoàn và được Ủy ban thường vụ Quốc hội phê chuẩn.",
+                    "text": "Đoàn đại biểu Quốc hội có Trưởng đoàn hoặc Phó Trưởng đoàn là đại biểu Quốc hội hoạt động chuyên trách. Trưởng đoàn và Phó Trưởng đoàn do Đoàn đại biểu Quốc hội bầu trong số các đại biểu Quốc hội của Đoàn và được Ủy ban thường vụ Quốc hội phê chuẩn. Trưởng đoàn đại biểu Quốc hội tổ chức và điều hành các hoạt động của Đoàn. Phó Trưởng đoàn giúp Trưởng đoàn thực hiện nhiệm vụ theo sự phân công của Trưởng đoàn. Khi Trưởng đoàn vắng mặt thì Phó Trưởng đoàn được Trưởng đoàn ủy nhiệm thực hiện nhiệm vụ của Trưởng đoàn.",
                     "sub_clauses": []
                 },
                 {
                     "number": "4",
-                    "text": "Đoàn đại biểu Quốc hội có trụ sở làm việc. Văn phòng Đoàn đại biểu Quốc hội là cơ quan tham mưu, giúp việc, phục vụ hoạt động của các đại biểu Quốc hội, Đoàn đại biểu Quốc hội tại địa phương. Kinh phí hoạt động của Đoàn đại biểu Quốc hội do ngân sách nhà nước bảo đảm.",
+                    "text": "Đoàn đại biểu Quốc hội có trụ sở làm việc. Văn phòng Đoàn đại biểu Quốc hội là cơ quan tham mưu, giúp việc, phục vụ hoạt động của các đại biểu Quốc hội, Đoàn đại biểu Quốc hội tại địa phương. Kinh phí hoạt động của Đoàn đại biểu Quốc hội do ngân sách nhà nước bảo đảm. CHƯƠNG III ỦY BAN THƯỜNG VỤ QUỐC HỘI VÀ CHỦ TỊCH QUỐC HỘI",
                     "sub_clauses": []
                 }
             ]
@@ -968,7 +992,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban thường vụ Quốc hội ra pháp lệnh về những vấn đề được Quốc hội giao.",
+                    "text": "Ủy ban thường vụ Quốc hội ra pháp lệnh về những vấn đề được Quốc hội giao. Dự án pháp lệnh phải được Hội đồng dân tộc hoặc Ủy ban của Quốc hội thẩm tra trước khi trình Ủy ban thường vụ Quốc hội. Khi cần thiết, Ủy ban thường vụ Quốc hội quyết định gửi dự án pháp lệnh lấy ý kiến đại biểu Quốc hội trước khi thông qua.",
                     "sub_clauses": []
                 }
             ]
@@ -1235,7 +1259,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ủy ban thường vụ Quốc hội thảo luận và quyết định những vấn đề thuộc nhiệm vụ, quyền hạn của mình tại phiên họp Ủy ban thường vụ Quốc hội.",
+                    "text": "Ủy ban thường vụ Quốc hội thảo luận và quyết định những vấn đề thuộc nhiệm vụ, quyền hạn của mình tại phiên họp Ủy ban thường vụ Quốc hội. Phiên họp Ủy ban thường vụ Quốc hội phải có ít nhất hai phần ba tổng số thành viên Ủy ban thường vụ Quốc hội tham dự.",
                     "sub_clauses": []
                 },
                 {
@@ -1250,7 +1274,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chủ tịch nước có quyền tham dự phiên họp Ủy ban thường vụ Quốc hội; Thủ tướng Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Chủ tịch, các Phó Chủ tịch Hội đồng dân tộc, Chủ nhiệm, các Phó Chủ nhiệm Ủy ban của Quốc hội được mời tham dự các phiên họp Ủy ban thường vụ Quốc hội.",
+                    "text": "Chủ tịch nước có quyền tham dự phiên họp Ủy ban thường vụ Quốc hội; Thủ tướng Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Chủ tịch, các Phó Chủ tịch Hội đồng dân tộc, Chủ nhiệm, các Phó Chủ nhiệm Ủy ban của Quốc hội được mời tham dự các phiên họp Ủy ban thường vụ Quốc hội. Ủy viên thường trực, Ủy viên chuyên trách của Hội đồng dân tộc, Ủy ban của Quốc hội được mời tham dự phiên họp Ủy ban thường vụ Quốc hội bàn về những nội dung thuộc lĩnh vực Hội đồng, Ủy ban phụ trách.",
                     "sub_clauses": []
                 },
                 {
@@ -1362,7 +1386,13 @@
         {
             "id": "Điều 65",
             "title": "Nhiệm vụ, quyền hạn của các Phó Chủ tịch Quốc hội",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Các Phó Chủ tịch Quốc hội giúp Chủ tịch Quốc hội làm nhiệm vụ theo sự phân công của Chủ tịch. Khi Chủ tịch Quốc hội vắng mặt thì một Phó Chủ tịch Quốc hội được Chủ tịch uỷ nhiệm thay mặt thực hiện nhiệm vụ, quyền hạn của Chủ tịch Quốc hội. CHƯƠNG IV HỘI ĐỒNG DÂN TỘC VÀ CÁC UỶ BAN CỦA QUỐC HỘI",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 66",
@@ -1438,7 +1468,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội giúp Hội đồng dân tộc, Ủy ban của Quốc hội giải quyết các công việc thường xuyên của Hội đồng, Ủy ban trong thời gian Hội đồng, Ủy ban không họp.",
+                    "text": "Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội giúp Hội đồng dân tộc, Ủy ban của Quốc hội giải quyết các công việc thường xuyên của Hội đồng, Ủy ban trong thời gian Hội đồng, Ủy ban không họp. Thường trực Hội đồng dân tộc gồm Chủ tịch, các Phó Chủ tịch và các Ủy viên thường trực. Thường trực Ủy ban của Quốc hội gồm Chủ nhiệm, các Phó Chủ nhiệm và các Ủy viên thường trực.",
                     "sub_clauses": []
                 },
                 {
@@ -1819,6 +1849,11 @@
             "title": "Trách nhiệm tham gia thẩm tra và phối hợp giữa Hội đồng dân tộc, các Ủy ban của Quốc hội",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Hội đồng dân tộc, các Ủy ban của Quốc hội trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tham gia với Ủy ban kinh tế thẩm tra chương trình, dự án, kế hoạch về mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội của đất nước; báo cáo của Chính phủ về việc thực hiện mục tiêu, chỉ tiêu, chính sách, nhiệm vụ cơ bản phát triển kinh tế - xã hội;",
                     "sub_clauses": []
@@ -1985,7 +2020,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Phó Chủ tịch Hội đồng dân tộc giúp Chủ tịch Hội đồng dân tộc thực hiện nhiệm vụ theo sự phân công của Chủ tịch Hội đồng. Khi Chủ tịch Hội đồng dân tộc vắng mặt thì một Phó Chủ tịch được Chủ tịch Hội đồng ủy nhiệm thực hiện nhiệm vụ, quyền hạn của Chủ tịch.",
+                    "text": "Phó Chủ tịch Hội đồng dân tộc giúp Chủ tịch Hội đồng dân tộc thực hiện nhiệm vụ theo sự phân công của Chủ tịch Hội đồng. Khi Chủ tịch Hội đồng dân tộc vắng mặt thì một Phó Chủ tịch được Chủ tịch Hội đồng ủy nhiệm thực hiện nhiệm vụ, quyền hạn của Chủ tịch. Phó Chủ nhiệm Ủy ban của Quốc hội giúp Chủ nhiệm Ủy ban thực hiện nhiệm vụ theo sự phân công của Chủ nhiệm Ủy ban. Khi Chủ nhiệm Ủy ban của Quốc hội vắng mặt thì một Phó Chủ nhiệm được Chủ nhiệm Ủy ban ủy nhiệm thực hiện nhiệm vụ, quyền hạn của Chủ nhiệm.",
                     "sub_clauses": []
                 }
             ]
@@ -2123,7 +2158,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ủy ban lâm thời chấm dứt hoạt động sau khi đã hoàn thành nhiệm vụ.",
+                    "text": "Ủy ban lâm thời chấm dứt hoạt động sau khi đã hoàn thành nhiệm vụ. CHƯƠNG V KỲ HỌP QUỐC HỘI",
                     "sub_clauses": []
                 }
             ]
@@ -2134,12 +2169,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Quốc hội họp công khai.",
+                    "text": "Quốc hội họp công khai. Trong trường hợp cần thiết, theo đề nghị của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ hoặc của ít nhất một phần ba tổng số đại biểu Quốc hội, Quốc hội quyết định họp kín.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Quốc hội họp thường lệ mỗi năm hai kỳ.",
+                    "text": "Quốc hội họp thường lệ mỗi năm hai kỳ. Trường hợp Chủ tịch nước, Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ hoặc ít nhất một phần ba tổng số đại biểu Quốc hội yêu cầu thì Quốc hội họp bất thường.",
                     "sub_clauses": []
                 },
                 {
@@ -2155,7 +2190,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Căn cứ vào nghị quyết của Quốc hội, đề nghị của Chủ tịch nước, Thủ tướng Chính phủ, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Hội đồng dân tộc, Ủy ban của Quốc hội và đại biểu Quốc hội, Ủy ban thường vụ Quốc hội dự kiến chương trình kỳ họp Quốc hội.",
+                    "text": "Căn cứ vào nghị quyết của Quốc hội, đề nghị của Chủ tịch nước, Thủ tướng Chính phủ, Ủy ban trung ương Mặt trận Tổ quốc Việt Nam, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước, Hội đồng dân tộc, Ủy ban của Quốc hội và đại biểu Quốc hội, Ủy ban thường vụ Quốc hội dự kiến chương trình kỳ họp Quốc hội. Ủy ban thường vụ Quốc hội khoá trước dự kiến chương trình kỳ họp thứ nhất của Quốc hội khoá mới.",
                     "sub_clauses": []
                 },
                 {
@@ -2315,7 +2350,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Tổng thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội quyết định những tài liệu tham khảo phục vụ đại biểu Quốc hội tại kỳ họp.",
+                    "text": "Tổng thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội quyết định những tài liệu tham khảo phục vụ đại biểu Quốc hội tại kỳ họp. CHƯƠNG VI TỔNG THƯ KÝ QUỐC HỘI, VĂN PHÒNG QUỐC HỘI, CÁC CƠ QUAN THUỘC ỦY BAN THƯỜNG VỤQUỐC HỘI VÀ KINH PHÍ HOẠT ĐỘNG CỦA QUỐC HỘI",
                     "sub_clauses": []
                 }
             ]
@@ -2385,7 +2420,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổng thư ký Quốc hội đồng thời là Chủ nhiệm Văn phòng Quốc hội, chịu trách nhiệm trước Quốc hội và Ủy ban thường vụ Quốc hội về hoạt động của Văn phòng Quốc hội.",
+                    "text": "Tổng thư ký Quốc hội đồng thời là Chủ nhiệm Văn phòng Quốc hội, chịu trách nhiệm trước Quốc hội và Ủy ban thường vụ Quốc hội về hoạt động của Văn phòng Quốc hội. Các Phó Chủ nhiệm Văn phòng Quốc hội do Ủy ban thường vụ Quốc hội bổ nhiệm, miễn nhiệm, cách chức theo đề nghị của Tổng thư ký Quốc hội - Chủ nhiệm Văn phòng Quốc hội.",
                     "sub_clauses": []
                 },
                 {
@@ -2422,7 +2457,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc dự toán, quản lý, cấp và sử dụng kinh phí hoạt động của Quốc hội được thực hiện theo pháp luật về ngân sách nhà nước.",
+                    "text": "Việc dự toán, quản lý, cấp và sử dụng kinh phí hoạt động của Quốc hội được thực hiện theo pháp luật về ngân sách nhà nước. CHƯƠNG VII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2438,11 +2473,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Luật tổ chức Quốc hội số 30/2001/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 83/2007/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực.",
+                    "text": "Luật tổ chức Quốc hội số 30/2001/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 83/2007/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực. ---------------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 20 tháng 11 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 20 tháng 11 năm 2014.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

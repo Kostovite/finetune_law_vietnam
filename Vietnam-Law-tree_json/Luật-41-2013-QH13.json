@@ -17,17 +17,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về hoạt động phòng, chống sinh vật gây hại thực vật; kiểm dịch thực vật; quản lý thuốc bảo vệ thực vật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với tổ chức, cá nhân trong nước và tổ chức, cá nhân nước ngoài có liên quan đến hoạt động bảo vệ và kiểm dịch thực vật tại Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Thực vật là cây và sản phẩm của cây.",
@@ -412,12 +429,24 @@
         {
             "id": "Điều 9",
             "title": "Hệ thống cơ quan chuyên ngành bảo vệ và kiểm dịch thực vật",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hệ thống cơ quan chuyên ngành bảo vệ và kiểm dịch thực vật được tổ chức từ trung ương đến cấp huyện. Chính phủ quy định về tổ chức hệ thống cơ quan chuyên ngành bảo vệ và kiểm dịch thực vật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 10",
             "title": "Vai trò của các tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp tham gia ý kiến xây dựng các văn bản quy phạm pháp luật về bảo vệ và kiểm dịch thực vật; tuyên truyền, phổ biến kiến thức pháp luật về bảo vệ và kiểm dịch thực vật để nâng cao ý thức của người dân trong phòng, chống sinh vật gây hại, kiểm dịch thực vật, sử dụng thuốc bảo vệ thực vật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 11",
@@ -438,7 +467,13 @@
         {
             "id": "Điều 12",
             "title": "Phí, lệ phí về bảo vệ và kiểm dịch thực vật",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân có hoạt động bảo vệ và kiểm dịch thực vật phải trả phí, lệ phí theo quy định của pháp luật về phí và lệ phí.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 13",
@@ -481,7 +516,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Sản xuất, kinh doanh, sử dụng, bảo quản, vận chuyển, thải bỏ, thu gom, xử lý thuốc và bao gói thuốc bảo vệ thực vật trái quy định của Luật này.",
+                    "text": "Sản xuất, kinh doanh, sử dụng, bảo quản, vận chuyển, thải bỏ, thu gom, xử lý thuốc và bao gói thuốc bảo vệ thực vật trái quy định của Luật này. Chương 2. PHÒNG, CHỐNG SINH VẬT GÂY HẠI THỰC VẬT",
                     "sub_clauses": []
                 }
             ]
@@ -765,7 +800,13 @@
         {
             "id": "Điều 19",
             "title": "Công bố hết dịch hại thực vật",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khi dịch hại thực vật đã được khống chế và không còn nguy cơ gây thiệt hại nghiêm trọng thì người có thẩm quyền công bố dịch theo quy định tại khoản 2 Điều 17 của Luật này quyết định công bố hết dịch.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 20",
@@ -907,7 +948,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức, cá nhân hoạt động dịch vụ bảo vệ thực vật có nghĩa vụ sau đây:",
+                    "text": "Tổ chức, cá nhân hoạt động dịch vụ bảo vệ thực vật có nghĩa vụ sau đây: Chương 3. KIỂM DỊCH THỰC VẬT",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1178,7 +1219,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc kiểm dịch vật thể thuộc diện kiểm dịch thực vật và cấp Giấy chứng nhận kiểm dịch thực vật được quy định như sau:",
+                    "text": "Việc kiểm dịch vật thể thuộc diện kiểm dịch thực vật và cấp Giấy chứng nhận kiểm dịch thực vật được quy định như sau: Trường hợp kéo dài hơn 24 giờ do yêu cầu về chuyên môn kỹ thuật hoặc trường hợp không cấp Giấy chứng nhận kiểm dịch thực vật thì cơ quan chuyên ngành bảo vệ và kiểm dịch thực vật thông báo hoặc trả lời bằng văn bản và nêu rõ lý do cho chủ vật thể thuộc diện kiểm dịch thực vật biết.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1312,6 +1353,11 @@
             "id": "Điều 37",
             "title": "Điều kiện cấp Giấy chứng nhận hành nghề xử lý vật thể thuộc diện kiểm dịch thực vật",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức được cấp Giấy chứng nhận hành nghề xử lý vật thể thuộc diện kiểm dịch thực vật phải có đủ các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Điều kiện về cơ sở vật chất - kỹ thuật bao gồm:",
@@ -1735,7 +1781,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chủ vật thể thuộc diện kiểm dịch thực vật có nghĩa vụ sau đây:",
+                    "text": "Chủ vật thể thuộc diện kiểm dịch thực vật có nghĩa vụ sau đây: Chương 4. QUẢN LÝ THUỐC BẢO VỆ THỰC VẬT MỤC 1. QUẢN LÝ THUỐC VÀ ĐĂNG KÝ THUỐC BẢO VỆ THỰC VẬT",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2042,7 +2088,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan chuyên ngành bảo vệ và kiểm dịch thực vật ở trung ương có thẩm quyền thu hồi Giấy chứng nhận đăng ký thuốc bảo vệ thực vật.",
+                    "text": "Cơ quan chuyên ngành bảo vệ và kiểm dịch thực vật ở trung ương có thẩm quyền thu hồi Giấy chứng nhận đăng ký thuốc bảo vệ thực vật. MỤC 2. KHẢO NGHIỆM THUỐC BẢO VỆ THỰC VẬT",
                     "sub_clauses": []
                 }
             ]
@@ -2236,7 +2282,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức thực hiện khảo nghiệm thuốc bảo vệ thực vật có nghĩa vụ sau đây:",
+                    "text": "Tổ chức thực hiện khảo nghiệm thuốc bảo vệ thực vật có nghĩa vụ sau đây: MỤC 3. SẢN XUẤT, BUÔN BÁN, NHẬP KHẨU, XUẤT KHẨU, VẬN CHUYỂN, BẢO QUẢN, QUẢNG CÁO, BAO GÓI, GHI NHÃN VÀ SỬ DỤNG THUỐC BẢO VỆ THỰC VẬT",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2669,7 +2715,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Vận chuyển thuốc bảo vệ thực vật phải tuân thủ các quy định về vận chuyển hàng nguy hiểm của pháp luật về giao thông đường bộ, đường thủy nội địa, đường sắt, hàng không, hàng hải, các quy định khác của pháp luật có liên quan và các điều ước quốc tế mà Việt Nam là thành viên.",
+                    "text": "Vận chuyển thuốc bảo vệ thực vật phải tuân thủ các quy định về vận chuyển hàng nguy hiểm của pháp luật về giao thông đường bộ, đường thủy nội địa, đường sắt, hàng không, hàng hải, các quy định khác của pháp luật có liên quan và các điều ước quốc tế mà Việt Nam là thành viên. Trường hợp chỉ vận chuyển thuốc bảo vệ thực vật sinh học không bắt buộc phải tuân thủ các quy định về vận chuyển hàng nguy hiểm nhưng phải tuân thủ các quy định pháp luật có liên quan và các điều ước quốc tế mà Việt Nam là thành viên.",
                     "sub_clauses": []
                 },
                 {
@@ -2810,7 +2856,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức, cá nhân sử dụng thuốc bảo vệ thực vật có nghĩa vụ sau đây:",
+                    "text": "Tổ chức, cá nhân sử dụng thuốc bảo vệ thực vật có nghĩa vụ sau đây: MỤC 4. THU HỒI, TIÊU HỦY, THU GOM VÀ XỬ LÝ BAO GÓI THUỐC BẢO VỆ THỰC VẬT SAU SỬ DỤNG",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2864,12 +2910,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Khi phát hiện thuốc bảo vệ thực vật thuộc diện bị thu hồi thì cơ sở sản xuất, nhập khẩu phải có trách nhiệm thông báo trên phương tiện thông tin đại chúng về lô thuốc phải thu hồi và có trách nhiệm thu hồi ngay toàn bộ thuốc đó.",
+                    "text": "Khi phát hiện thuốc bảo vệ thực vật thuộc diện bị thu hồi thì cơ sở sản xuất, nhập khẩu phải có trách nhiệm thông báo trên phương tiện thông tin đại chúng về lô thuốc phải thu hồi và có trách nhiệm thu hồi ngay toàn bộ thuốc đó. Trong trường hợp cơ sở sản xuất, nhập khẩu không tự nguyện thu hồi thì cơ quan có thẩm quyền ra quyết định bắt buộc thu hồi.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Các biện pháp xử lý thuốc bảo vệ thực vật bị thu hồi bao gồm:",
+                    "text": "Các biện pháp xử lý thuốc bảo vệ thực vật bị thu hồi bao gồm: Bộ trưởng Bộ Nông nghiệp và phát triển nông thôn quy định cụ thể khoản này.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2973,7 +3019,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bộ Tài nguyên và Môi trường quy định việc xử lý bao gói thuốc bảo vệ thực vật sau sử dụng.",
+                    "text": "Bộ Tài nguyên và Môi trường quy định việc xử lý bao gói thuốc bảo vệ thực vật sau sử dụng. Chương 5. ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2984,7 +3030,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Luật này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2015.",
+                    "text": "Luật này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2015. Pháp lệnh bảo vệ và kiểm dịch thực vật số 36/2001/PL-UBTVQH10 ngày 08 tháng 8 năm 2001 hết hiệu lực kể từ ngày Luật này có hiệu lực.",
                     "sub_clauses": []
                 },
                 {
@@ -2997,8 +3043,18 @@
         {
             "id": "Điều 77",
             "title": "Quy định chi tiết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 6 thông qua ngày 25 tháng 11 năm 2013. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 6 thông qua ngày 25 tháng 11 năm 2013.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

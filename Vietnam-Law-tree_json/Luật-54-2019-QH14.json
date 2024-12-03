@@ -15,7 +15,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định các hoạt động về chứng khoán và thị trường chứng khoán; quyền và nghĩa vụ của tổ chức, cá nhân trong lĩnh vực chứng khoán; tổ chức thị trường chứng khoán; quản lý nhà nước về chứng khoán và thị trường chứng khoán.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -41,12 +47,23 @@
         {
             "id": "Điều 3",
             "title": "Áp dụng Luật Chứng khoán, các luật có liên quan",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Các hoạt động về chứng khoán và thị trường chứng khoán, quyền và nghĩa vụ của tổ chức, cá nhân trong lĩnh vực chứng khoán, tổ chức thị trường chứng khoán, quản lý nhà nước về chứng khoán và thị trường chứng khoán phải tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 4",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Chứng khoán là tài sản, bao gồm các loại sau đây:",
@@ -690,7 +707,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Tổ chức thị trường giao dịch chứng khoán trái quy định của Luật này.",
+                    "text": "Tổ chức thị trường giao dịch chứng khoán trái quy định của Luật này. Chương II CHÀO BÁN CHỨNG KHOÁN Mục 1 CHÀO BÁN CHỨNG KHOÁN RA CÔNG CHÚNG",
                     "sub_clauses": []
                 }
             ]
@@ -1323,7 +1340,13 @@
         {
             "id": "Điều 24",
             "title": "Thông tin trước khi chào bán chứng khoán ra công chúng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong thời gian Ủy ban Chứng khoán Nhà nước xem xét hồ sơ đăng ký chào bán chứng khoán ra công chúng, tổ chức phát hành, tổ chức bảo lãnh phát hành và tổ chức, cá nhân có liên quan chỉ được sử dụng trung thực và chính xác các thông tin trong Bản cáo bạch đã gửi Ủy ban Chứng khoán Nhà nước để thăm dò thị trường, trong đó phải nêu rõ các thông tin về ngày phát hành và giá bán chứng khoán là thông tin dự kiến.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 25",
@@ -1362,7 +1385,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức phát hành, tổ chức bảo lãnh phát hành hoặc tổ chức đại lý phải phân phối chứng khoán công bằng, công khai và bảo đảm thời hạn đăng ký mua chứng khoán cho nhà đầu tư tối thiểu là 20 ngày; trừ trường hợp chứng khoán chào bán là chứng quyền có bảo đảm, thời hạn này phải được ghi trong Bản thông báo phát hành.",
+                    "text": "Tổ chức phát hành, tổ chức bảo lãnh phát hành hoặc tổ chức đại lý phải phân phối chứng khoán công bằng, công khai và bảo đảm thời hạn đăng ký mua chứng khoán cho nhà đầu tư tối thiểu là 20 ngày; trừ trường hợp chứng khoán chào bán là chứng quyền có bảo đảm, thời hạn này phải được ghi trong Bản thông báo phát hành. Trường hợp số lượng chứng khoán đăng ký mua vượt quá số lượng chứng khoán được phép phát hành thì tổ chức phát hành hoặc tổ chức bảo lãnh phát hành phải phân phối hết số chứng khoán được phép phát hành cho nhà đầu tư tương ứng với tỷ lệ đăng ký mua của từng nhà đầu tư.",
                     "sub_clauses": []
                 },
                 {
@@ -1472,7 +1495,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tổ chức phát hành hoàn thành việc chào bán trái phiếu ra công chúng phải tuân thủ nghĩa vụ công bố thông tin theo quy định của Luật này.",
+                    "text": "Tổ chức phát hành hoàn thành việc chào bán trái phiếu ra công chúng phải tuân thủ nghĩa vụ công bố thông tin theo quy định của Luật này. Mục 2 CHÀO BÁN CHỨNG KHOÁN RIÊNG LẺ",
                     "sub_clauses": []
                 }
             ]
@@ -1480,7 +1503,13 @@
         {
             "id": "Điều 30",
             "title": "Chào bán chứng khoán riêng lẻ của tổ chức phát hành không phải là công ty đại chúng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chào bán chứng khoán riêng lẻ của tổ chức phát hành không phải là công ty đại chúng thực hiện theo quy định của Luật Doanh nghiệp và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 31",
@@ -1568,7 +1597,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chính phủ quy định chi tiết việc chào bán chứng khoán riêng lẻ của công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán quy định tại Điều này và các trường hợp chào bán, phát hành chứng khoán riêng lẻ khác của công ty đại chúng.",
+                    "text": "Chính phủ quy định chi tiết việc chào bán chứng khoán riêng lẻ của công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán quy định tại Điều này và các trường hợp chào bán, phát hành chứng khoán riêng lẻ khác của công ty đại chúng. Chương III CÔNG TY ĐẠI CHÚNG Mục 1 QUY ĐỊNH CHUNG VỀ CÔNG TY ĐẠI CHÚNG",
                     "sub_clauses": []
                 }
             ]
@@ -2007,6 +2036,11 @@
             "title": "Hồ sơ hủy tư cách công ty đại chúng",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Công ty đại chúng thuộc trường hợp quy định tại khoản 2 Điều 38 của Luật này phải nộp hồ sơ hủy tư cách công ty đại chúng đến Ủy ban Chứng khoán Nhà nước. Hồ sơ hủy tư cách công ty đại chúng bao gồm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Giấy chứng nhận đăng ký doanh nghiệp;",
                     "sub_clauses": []
@@ -2023,7 +2057,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Báo cáo tài chính năm gần nhất được kiểm toán bởi tổ chức kiểm toán được chấp thuận. Trường hợp công ty tăng vốn điều lệ sau thời điểm kết thúc kỳ kế toán năm gần nhất, công ty phải bổ sung báo cáo tài chính kỳ gần nhất được kiểm toán.",
+                    "text": "Báo cáo tài chính năm gần nhất được kiểm toán bởi tổ chức kiểm toán được chấp thuận. Trường hợp công ty tăng vốn điều lệ sau thời điểm kết thúc kỳ kế toán năm gần nhất, công ty phải bổ sung báo cáo tài chính kỳ gần nhất được kiểm toán. Mục 2 QUẢN TRỊ CÔNG TY ÁP DỤNG ĐỐI VỚI CÔNG TY ĐẠI CHÚNG",
                     "sub_clauses": []
                 }
             ]
@@ -2032,6 +2066,11 @@
             "id": "Điều 40",
             "title": "Nguyên tắc quản trị công ty áp dụng đối với công ty đại chúng",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Việc quản trị công ty đối với công ty đại chúng phải tuân thủ quy định của Luật này, Luật Doanh nghiệp, quy định khác của pháp luật có liên quan và các nguyên tắc sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Cơ cấu quản trị hợp lý, hiệu quả;",
@@ -2202,7 +2241,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương IV THỊ TRƯỜNG GIAO DỊCH CHỨNG KHOÁN",
                     "sub_clauses": []
                 }
             ]
@@ -2612,7 +2651,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết tỷ lệ sở hữu nước ngoài, điều kiện, trình tự, thủ tục đầu tư, việc tham gia của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài trên thị trường chứng khoán Việt Nam.",
+                    "text": "Chính phủ quy định chi tiết tỷ lệ sở hữu nước ngoài, điều kiện, trình tự, thủ tục đầu tư, việc tham gia của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài trên thị trường chứng khoán Việt Nam. Chương V ĐĂNG KÝ, LƯU KÝ, BÙ TRỪ VÀ THANH TOÁN CHỨNG KHOÁN",
                     "sub_clauses": []
                 }
             ]
@@ -3330,7 +3369,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định hồ sơ, trình tự, thủ tục đăng ký làm ngân hàng thanh toán.",
+                    "text": "Chính phủ quy định hồ sơ, trình tự, thủ tục đăng ký làm ngân hàng thanh toán. Chương VI CÔNG TY CHỨNG KHOÁN, CÔNG TY QUẢN LÝ QUỸ ĐẦU TƯ CHỨNG KHOÁN Mục 1 GIẤY PHÉP THÀNH LẬP VÀ HOẠT ĐỘNG KINH DOANH CHỨNG KHOÁN",
                     "sub_clauses": []
                 }
             ]
@@ -3338,7 +3377,13 @@
         {
             "id": "Điều 70",
             "title": "Thẩm quyền cấp, cấp lại, điều chỉnh, thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban Chứng khoán Nhà nước có thẩm quyền cấp, cấp lại, điều chỉnh, thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán cho công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 71",
@@ -3489,7 +3534,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Điều kiện về nhân sự bao gồm:",
+                    "text": "Điều kiện về nhân sự bao gồm: Có Tổng giám đốc (Giám đốc), tối thiểu 03 nhân viên có chứng chỉ hành nghề chứng khoán phù hợp cho mỗi nghiệp vụ kinh doanh chứng khoán đề nghị cấp phép và tối thiểu 01 nhân viên kiểm soát tuân thủ. Tổng giám đốc (Giám đốc) phải đáp ứng các tiêu chuẩn sau đây: Trường hợp có Phó Tổng giám đốc (Phó Giám đốc) phụ trách nghiệp vụ thì phải đáp ứng các tiêu chuẩn quy định tại các điểm a, b và d khoản này và có chứng chỉ hành nghề chứng khoán phù hợp với nghiệp vụ phụ trách.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3573,7 +3618,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Điều kiện về nhân sự bao gồm:",
+                    "text": "Điều kiện về nhân sự bao gồm: Có Tổng giám đốc (Giám đốc), tối thiểu 05 nhân viên có chứng chỉ hành nghề quản lý quỹ và tối thiểu 01 nhân viên kiểm soát tuân thủ. Tổng giám đốc (Giám đốc) phải đáp ứng các tiêu chuẩn sau đây: Trường hợp có Phó Tổng giám đốc (Phó Giám đốc) phụ trách nghiệp vụ thì phải đáp ứng các tiêu chuẩn quy định tại các điểm a, b và d khoản này và có chứng chỉ hành nghề chứng khoán phù hợp với nghiệp vụ phụ trách.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3915,6 +3960,11 @@
             "title": "Công bố thông tin hoạt động",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh, văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam phải công bố thông tin hoạt động trên phương tiện công bố thông tin của Ủy ban Chứng khoán Nhà nước và 01 tờ báo điện tử hoặc báo in trong 03 số liên tiếp ít nhất 30 ngày trước ngày dự kiến chính thức hoạt động. Thông tin bao gồm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Giấy phép thành lập và hoạt động kinh doanh chứng khoán hoặc Giấy chứng nhận đăng ký hoạt động do Ủy ban Chứng khoán Nhà nước cấp;",
                     "sub_clauses": []
@@ -3965,7 +4015,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam được cấp giấy phép phải thông báo cho Ủy ban Chứng khoán Nhà nước về việc đáp ứng quy định tại khoản 3 và khoản 4 Điều này ít nhất là 15 ngày trước ngày chính thức hoạt động. Ủy ban Chứng khoán Nhà nước đình chỉ việc chính thức hoạt động khi công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam không đáp ứng quy định tại khoản 3 và khoản 4 Điều này.",
+                    "text": "Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam được cấp giấy phép phải thông báo cho Ủy ban Chứng khoán Nhà nước về việc đáp ứng quy định tại khoản 3 và khoản 4 Điều này ít nhất là 15 ngày trước ngày chính thức hoạt động. Ủy ban Chứng khoán Nhà nước đình chỉ việc chính thức hoạt động khi công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam không đáp ứng quy định tại khoản 3 và khoản 4 Điều này. Mục 2 HOẠT ĐỘNG CỦA CÔNG TY CHỨNG KHOÁN, CÔNG TY QUẢN LÝ QUỸ ĐẦU TƯ CHỨNG KHOÁN",
                     "sub_clauses": []
                 }
             ]
@@ -4310,7 +4360,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ trưởng Bộ Tài chính quy định chi tiết về chỉ tiêu an toàn tài chính và biện pháp xử lý đối với công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam không đáp ứng chỉ tiêu an toàn tài chính.",
+                    "text": "Bộ trưởng Bộ Tài chính quy định chi tiết về chỉ tiêu an toàn tài chính và biện pháp xử lý đối với công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam không đáp ứng chỉ tiêu an toàn tài chính. Ủy ban Chứng khoán Nhà nước đưa vào diện cảnh báo, kiểm soát, kiểm soát đặc biệt và áp dụng các biện pháp xử lý đối với trường hợp không đáp ứng chỉ tiêu an toàn tài chính. Mục 3 TỔ CHỨC LẠI, ĐÌNH CHỈ VÀ THU HỒI GIẤY PHÉP THÀNH LẬP VÀ HOẠT ĐỘNG KINH DOANH CHỨNG KHOÁN",
                     "sub_clauses": []
                 }
             ]
@@ -4481,7 +4531,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc phá sản công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán thực hiện theo quy định của pháp luật về phá sản.",
+                    "text": "Việc phá sản công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán thực hiện theo quy định của pháp luật về phá sản. Mục 4 HÀNH NGHỀ CHỨNG KHOÁN",
                     "sub_clauses": []
                 }
             ]
@@ -4594,7 +4644,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam, công ty đầu tư chứng khoán chịu trách nhiệm về hoạt động nghiệp vụ của người hành nghề chứng khoán.",
+                    "text": "Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam, công ty đầu tư chứng khoán chịu trách nhiệm về hoạt động nghiệp vụ của người hành nghề chứng khoán. Chương VII QUỸ ĐẦU TƯ CHỨNG KHOÁN, CÔNG TY ĐẦU TƯ CHỨNG KHOÁN VÀ NGÂN HÀNG GIÁM SÁT Mục 1 QUY ĐỊNH CHUNG VỀ QUỸ ĐẦU TƯ CHỨNG KHOÁN",
                     "sub_clauses": []
                 }
             ]
@@ -4924,7 +4974,13 @@
         {
             "id": "Điều 105",
             "title": "Hợp nhất, sáp nhập quỹ đầu tư chứng khoán",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Quỹ đầu tư chứng khoán được hợp nhất, sáp nhập với một quỹ khác cùng loại hình theo quyết định của Đại hội nhà đầu tư quỹ đầu tư chứng khoán. Quỹ thành viên hình thành sau hợp nhất, sáp nhập có số thành viên không vượt quá 99 thành viên.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 106",
@@ -4963,7 +5019,13 @@
         {
             "id": "Điều 107",
             "title": "Báo cáo về quỹ đầu tư chứng khoán",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Công ty quản lý quỹ đầu tư chứng khoán phải báo cáo Ủy ban Chứng khoán Nhà nước định kỳ và bất thường về danh mục đầu tư, hoạt động đầu tư, tình hình tài chính của quỹ đầu tư chứng khoán. Mục 2 QUỸ ĐẠI CHÚNG VÀ QUỸ THÀNH VIÊN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 108",
@@ -5189,7 +5251,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc thành lập quỹ thành viên phải đáp ứng các điều kiện sau đây:",
+                    "text": "Việc thành lập quỹ thành viên phải đáp ứng các điều kiện sau đây: Mục 3 CÔNG TY ĐẦU TƯ CHỨNG KHOÁN",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -5247,7 +5309,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Công ty đầu tư chứng khoán đại chúng phải tuân thủ các quy định sau đây:",
+                    "text": "Công ty đầu tư chứng khoán đại chúng phải tuân thủ các quy định sau đây: Mục 4 NGÂN HÀNG GIÁM SÁT",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -5333,7 +5395,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ngân hàng giám sát, thành viên Hội đồng quản trị, người điều hành và nhân viên của ngân hàng giám sát làm nhiệm vụ giám sát hoạt động và bảo quản tài sản của quỹ đại chúng, công ty đầu tư chứng khoán không được là đối tác mua, bán trong giao dịch mua, bán tài sản của quỹ đại chúng, công ty đầu tư chứng khoán.",
+                    "text": "Ngân hàng giám sát, thành viên Hội đồng quản trị, người điều hành và nhân viên của ngân hàng giám sát làm nhiệm vụ giám sát hoạt động và bảo quản tài sản của quỹ đại chúng, công ty đầu tư chứng khoán không được là đối tác mua, bán trong giao dịch mua, bán tài sản của quỹ đại chúng, công ty đầu tư chứng khoán. Chương VIII CÔNG BỐ THÔNG TIN",
                     "sub_clauses": []
                 }
             ]
@@ -5607,6 +5669,11 @@
             "title": "Công bố thông tin của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam thực hiện công bố thông tin định kỳ các nội dung sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "2",
                     "text": "Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam thực hiện công bố thông tin bất thường theo quy định tại khoản 2 Điều 120 của Luật này và khi xảy ra một trong các sự kiện sau đây:",
                     "sub_clauses": [
@@ -5868,7 +5935,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Quy định tại khoản 1 Điều này không áp dụng đối với trường hợp quỹ hoán đổi danh mục thực hiện giao dịch hoán đổi hoặc giá trị chứng khoán giao dịch chưa đạt giá trị tối thiểu phải công bố thông tin và các trường hợp khác theo quy định của pháp luật",
+                    "text": "Quy định tại khoản 1 Điều này không áp dụng đối với trường hợp quỹ hoán đổi danh mục thực hiện giao dịch hoán đổi hoặc giá trị chứng khoán giao dịch chưa đạt giá trị tối thiểu phải công bố thông tin và các trường hợp khác theo quy định của pháp luật Chương IX THANH TRA, XỬ LÝ VI PHẠM, GIẢI QUYẾT TRANH CHẤP VÀ BỒI THƯỜNG THIỆT HẠI",
                     "sub_clauses": []
                 }
             ]
@@ -6043,7 +6110,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thẩm quyền, thủ tục để bảo vệ quyền, lợi ích hợp pháp của tổ chức, cá nhân hoặc giải quyết tranh chấp phát sinh trong hoạt động chứng khoán và thị trường chứng khoán được thực hiện theo quy định của pháp luật.",
+                    "text": "Thẩm quyền, thủ tục để bảo vệ quyền, lợi ích hợp pháp của tổ chức, cá nhân hoặc giải quyết tranh chấp phát sinh trong hoạt động chứng khoán và thị trường chứng khoán được thực hiện theo quy định của pháp luật. Chương X ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -6092,12 +6159,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam đã được cấp giấy phép trước ngày Luật này có hiệu lực thi hành mà đáp ứng quy định tại khoản 1 Điều này thì thực hiện đăng ký doanh nghiệp, đăng ký kinh doanh theo quy định tại Điều 71 của Luật này; không phải thực hiện thủ tục cấp đổi Giấy phép thành lập và hoạt động kinh doanh chứng khoán, trừ trường hợp có yêu cầu.",
+                    "text": "Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam đã được cấp giấy phép trước ngày Luật này có hiệu lực thi hành mà đáp ứng quy định tại khoản 1 Điều này thì thực hiện đăng ký doanh nghiệp, đăng ký kinh doanh theo quy định tại Điều 71 của Luật này; không phải thực hiện thủ tục cấp đổi Giấy phép thành lập và hoạt động kinh doanh chứng khoán, trừ trường hợp có yêu cầu. Sau 02 năm kể từ ngày Luật này có hiệu lực thi hành, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán và công ty quản lý quỹ nước ngoài tại Việt Nam đã được cấp giấy phép trước ngày Luật này có hiệu lực thi hành mà không đáp ứng quy định tại khoản 1 Điều này, Ủy ban Chứng khoán Nhà nước thực hiện đình chỉ hoạt động, thu hồi giấy phép theo quy định của Luật này.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Trừ trường hợp quy định tại khoản 1 và khoản 2 Điều này, tổ chức, cá nhân khác đã được Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán cấp phép, chấp thuận trước ngày Luật này có hiệu lực thi hành thì không phải thực hiện thủ tục cấp phép, chấp thuận lại theo quy định của Luật này.",
+                    "text": "Trừ trường hợp quy định tại khoản 1 và khoản 2 Điều này, tổ chức, cá nhân khác đã được Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán cấp phép, chấp thuận trước ngày Luật này có hiệu lực thi hành thì không phải thực hiện thủ tục cấp phép, chấp thuận lại theo quy định của Luật này. Trường hợp tổ chức, cá nhân đã nộp hồ sơ đăng ký, đề nghị cấp phép, chấp thuận đến Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán trước ngày Luật này có hiệu lực thi hành nhưng đến ngày Luật này có hiệu lực thi hành chưa được cấp phép hoặc chưa được chấp thuận thì phải thực hiện theo quy định của Luật này.",
                     "sub_clauses": []
                 },
                 {
@@ -6112,16 +6179,20 @@
                 },
                 {
                     "number": "6",
-                    "text": "Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành, Sở giao dịch chứng khoán Việt Nam, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam phải hoạt động theo quy định của Luật này.",
+                    "text": "Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành, Sở giao dịch chứng khoán Việt Nam, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam phải hoạt động theo quy định của Luật này. Các Sở giao dịch chứng khoán và Trung tâm lưu ký chứng khoán đã thành lập và hoạt động trước ngày Luật này có hiệu lực thi hành tiếp tục tổ chức và hoạt động theo quy định của Luật Chứng khoán số 70/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 62/2010/QH12 cho đến khi Sở giao dịch chứng khoán Việt Nam, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam hoạt động theo quy định của Luật này.",
                     "sub_clauses": []
                 },
                 {
                     "number": "7",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. ----------------------------------------------------------- Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 26 tháng 11 năm 2019. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 26 tháng 11 năm 2019.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Nguyễn Thị Kim Ngân"
+    ]
 }

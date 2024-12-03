@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định nguyên tắc, chính sách, hoạt động cơ bản về quốc phòng; tình trạng chiến tranh, tình trạng khẩn cấp về quốc phòng, thiết quân luật, giới nghiêm; lực lượng vũ trang nhân dân; bảo đảm quốc phòng; nhiệm vụ, quyền hạn của cơ quan, tổ chức; quyền và nghĩa vụ của công dân về quốc phòng."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -1456,6 +1470,13 @@
         "text": "Nhà nước có quy hoạch, kế hoạch và xây dựng hệ thống các công trình quốc phòng, khu quân sự, kho đạn dược, công nghiệp quốc phòng, an ninh; hệ thống trung tâm giáo dục quốc phòng và an ninh; quy hoạch, kế hoạch sử dụng đất quốc phòng; kế hoạch xây dựng khu kinh tế - quốc phòng trong phạm vi cả nước."
     },
     {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Bảo đảm hoạt động của lực lượng vũ trang nhân dân",
+        "text": "Nhà nước bảo đảm nhu cầu tài chính, tài sản sử dụng vào mục đích quốc phòng, an ninh và các chế độ, chính sách đãi ngộ phù hợp với tính chất hoạt động đặc thù của lực lượng vũ trang nhân dân. Chương VI NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN, TỔ CHỨC VỀ QUỐC PHÒNG"
+    },
+    {
         "id": "Điều 34.1",
         "article": "Điều 34",
         "clause": "1",
@@ -1512,6 +1533,13 @@
         "text": "Kiểm tra, thanh tra và giải quyết khiếu nại, tố cáo, sơ kết, tổng kết, khen thưởng, xử lý vi phạm pháp luật về quốc phòng."
     },
     {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Bộ Quốc phòng",
+        "text": "Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về quốc phòng và có nhiệm vụ, quyền hạn sau đây:"
+    },
+    {
         "id": "Điều 35.1",
         "article": "Điều 35",
         "clause": "1",
@@ -1545,6 +1573,13 @@
         "clause": "5",
         "title": "Nhiệm vụ, quyền hạn của Bộ Quốc phòng",
         "text": "Chỉ đạo, hướng dẫn Bộ, ngành trung ương và địa phương thực hiện xây dựng nền quốc phòng toàn dân, phòng thủ quân khu, khu vực phòng thủ và công tác quốc phòng."
+    },
+    {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Bộ, ngành trung ương",
+        "text": "Bộ, ngành trung ương, trong phạm vi nhiệm vụ, quyền hạn của mình, phối hợp với Bộ Quốc phòng trong quản lý nhà nước về quốc phòng và có nhiệm vụ, quyền hạn sau đây:"
     },
     {
         "id": "Điều 36.1",
@@ -1587,6 +1622,13 @@
         "clause": "6",
         "title": "Nhiệm vụ, quyền hạn của Bộ, ngành trung ương",
         "text": "Thực hiện nhiệm vụ, quyền hạn khác về quốc phòng theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Hội đồng nhân dân các cấp",
+        "text": "Hội đồng nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, có nhiệm vụ, quyền hạn sau đây:"
     },
     {
         "id": "Điều 37.1",
@@ -1638,6 +1680,13 @@
         "text": "Thực hiện nhiệm vụ, quyền hạn khác về quốc phòng theo quy định của pháp luật."
     },
     {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân các cấp",
+        "text": "Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về quốc phòng tại địa phương và có nhiệm vụ, quyền hạn sau đây:"
+    },
+    {
         "id": "Điều 38.1",
         "article": "Điều 38",
         "clause": "1",
@@ -1680,6 +1729,13 @@
         "text": "Thực hiện nhiệm vụ, quyền hạn khác về quốc phòng theo quy định của pháp luật."
     },
     {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận",
+        "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, phối hợp với Bộ Quốc phòng và cơ quan, tổ chức liên quan có trách nhiệm tuyên truyền, vận động Nhân dân thực hiện pháp luật về quốc phòng; giám sát việc thực hiện pháp luật về quốc phòng của cơ quan, tổ chức, cá nhân. Chương VII ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
         "id": "Điều 40.1",
         "article": "Điều 40",
         "clause": "1",
@@ -1691,6 +1747,6 @@
         "article": "Điều 40",
         "clause": "2",
         "title": "Hiệu lực thi hành",
-        "text": "Luật Quốc phòng số 39/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 5 thông qua ngày 08 tháng 6 năm 2018."
+        "text": "Luật Quốc phòng số 39/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 5 thông qua ngày 08 tháng 6 năm 2018. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Quốc tịch Việt Nam",
+        "text": "Quốc tịch Việt Nam thể hiện mối quan hệ gắn bó của cá nhân với Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam, làm phát sinh quyền, nghĩa vụ của công dân Việt Nam đối với Nhà nước và quyền, trách nhiệm của Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam đối với công dân Việt Nam."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -12,6 +19,13 @@
         "clause": "2",
         "title": "Quyền đối với quốc tịch",
         "text": "Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam là Nhà nước thống nhất của các dân tộc cùng sinh sống trên lãnh thổ Việt Nam, mọi thành viên của các dân tộc đều bình đẳng về quyền có quốc tịch Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -49,6 +63,13 @@
         "text": "Người nước ngoài cư trú ở Việt Nam là công dân nước ngoài và người không quốc tịch thường trú hoặc tạm trú ở Việt Nam."
     },
     {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Nguyên tắc quốc tịch",
+        "text": "Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam công nhận công dân Việt Nam có một quốc tịch là quốc tịch Việt Nam, trừ trường hợp Luật này có quy định khác."
+    },
+    {
         "id": "Điều 5.1",
         "article": "Điều 5",
         "clause": "1",
@@ -77,6 +98,13 @@
         "text": "Quyền và nghĩa vụ của công dân Việt Nam đồng thời có quốc tịch nước ngoài đang định cư ở nước ngoài được thực hiện theo quy định của pháp luật có liên quan."
     },
     {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Bảo hộ đối với công dân Việt Nam ở nước ngoài",
+        "text": "Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam bảo hộ quyền lợi chính đáng của công dân Việt Nam ở nước ngoài. Các cơ quan nhà nước ở trong nước, cơ quan đại diện Việt Nam ở nước ngoài có trách nhiệm thi hành mọi biện pháp cần thiết, phù hợp với pháp luật của nước sở tại, pháp luật và tập quán quốc tế để thực hiện sự bảo hộ đó."
+    },
+    {
         "id": "Điều 7.1",
         "article": "Điều 7",
         "clause": "1",
@@ -89,6 +117,34 @@
         "clause": "2",
         "title": "Chính sách đối với người gốc Việt Nam định cư ở nước ngoài",
         "text": "Nhà nước có chính sách tạo điều kiện thuận lợi cho người đã mất quốc tịch Việt Nam được trở lại quốc tịch Việt Nam."
+    },
+    {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Hạn chế tình trạng không quốc tịch",
+        "text": "Nhà nước Cộng hoà xã hội chủ nghĩa Việt Nam tạo điều kiện cho trẻ em sinh ra trên lãnh thổ Việt Nam đều có quốc tịch và những người không quốc tịch thường trú ở Việt Nam được nhập quốc tịch Việt Nam theo quy định của Luật này."
+    },
+    {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Giữ quốc tịch khi kết hôn, ly hôn, hủy việc kết hôn trái pháp luật",
+        "text": "Việc kết hôn, ly hôn và hủy việc kết hôn trái pháp luật giữa công dân Việt Nam với người nước ngoài không làm thay đổi quốc tịch Việt Nam của đương sự và con chưa thành niên của họ (nếu có)."
+    },
+    {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Giữ quốc tịch khi quốc tịch của vợ hoặc chồng thay đổi",
+        "text": "Việc vợ hoặc chồng nhập, trở lại hoặc mất quốc tịch Việt Nam không làm thay đổi quốc tịch của người kia."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Giấy tờ chứng minh quốc tịch Việt Nam",
+        "text": "Một trong các giấy tờ sau đây có giá trị chứng minh người có quốc tịch Việt Nam:"
     },
     {
         "id": "Điều 11.1",
@@ -147,6 +203,13 @@
         "text": "Người Việt Nam định cư ở nước ngoài mà chưa mất quốc tịch Việt Nam theo quy định của pháp luật Việt Nam trước ngày Luật này có hiệu lực thì vẫn còn quốc tịch Việt Nam và trong thời hạn 5 năm, kể từ ngày Luật này có hiệu lực, phải đăng ký với cơ quan đại diện Việt Nam ở nước ngoài để giữ quốc tịch Việt Nam. Chính phủ quy định trình tự, thủ tục đăng ký giữ quốc tịch Việt Nam."
     },
     {
+        "id": "Điều 14.0",
+        "article": "Điều 14",
+        "clause": "0",
+        "title": "Căn cứ xác định người có quốc tịch Việt Nam",
+        "text": "Người được xác định có quốc tịch Việt Nam, nếu có một trong những căn cứ sau đây:"
+    },
+    {
         "id": "Điều 14.1",
         "article": "Điều 14",
         "clause": "1",
@@ -180,6 +243,13 @@
         "clause": "5",
         "title": "Căn cứ xác định người có quốc tịch Việt Nam",
         "text": "Theo điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên."
+    },
+    {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Quốc tịch của trẻ em khi sinh ra có cha mẹ là công dân Việt Nam",
+        "text": "Trẻ em sinh ra trong hoặc ngoài lãnh thổ Việt Nam mà khi sinh ra có cha mẹ đều là công dân Việt Nam thì có quốc tịch Việt Nam."
     },
     {
         "id": "Điều 16.1",
@@ -432,6 +502,13 @@
         "clause": "4",
         "title": "Trình tự, thủ tục giải quyết hồ sơ xin nhập quốc tịch Việt Nam",
         "text": "Trong thời hạn 30 ngày, kể từ ngày nhận được đề nghị của Thủ tướng Chính phủ, Chủ tịch nước xem xét, quyết định."
+    },
+    {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Trình tự, thủ tục và hồ sơ xin nhập quốc tịch Việt Nam đối với người không quốc tịch đã cư trú ổn định tại Việt Nam",
+        "text": "Người không quốc tịch mà không có đầy đủ các giấy tờ về nhân thân, nhưng đã cư trú ổn định trên lãnh thổ Việt Nam từ 20 năm trở lên tính đến ngày Luật này có hiệu lực và tuân thủ Hiến pháp, pháp luật Việt Nam thì được nhập quốc tịch Việt Nam theo trình tự, thủ tục và hồ sơ do Chính phủ quy định. Mục 3 TRỞ LẠI QUỐC TỊCH VIỆT NAM"
     },
     {
         "id": "Điều 23.1",
@@ -847,6 +924,13 @@
         "text": "Trong thời hạn 20 ngày, kể từ ngày nhận được đề nghị của Thủ tướng Chính phủ, Chủ tịch nước xem xét, quyết định."
     },
     {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Miễn thủ tục xác minh về nhân thân",
+        "text": "Hồ sơ xin thôi quốc tịch Việt Nam của những người thuộc một trong các trường hợp sau đây không phải qua thủ tục xác minh về nhân thân:"
+    },
+    {
         "id": "Điều 30.1",
         "article": "Điều 30",
         "clause": "1",
@@ -966,6 +1050,13 @@
         "text": "Sự thay đổi quốc tịch của người từ đủ 15 tuổi đến chưa đủ 18 tuổi theo quy định tại khoản 1 và khoản 2 Điều này phải được sự đồng ý bằng văn bản của người đó."
     },
     {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Quốc tịch của con chưa thành niên khi cha mẹ bị tước quốc tịch Việt Nam hoặc bị hủy bỏ Quyết định cho nhập quốc tịch Việt Nam",
+        "text": "Khi cha mẹ hoặc một trong hai người bị tước quốc tịch Việt Nam hoặc bị hủy bỏ Quyết định cho nhập quốc tịch Việt Nam thì quốc tịch của con chưa thành niên không thay đổi."
+    },
+    {
         "id": "Điều 37.1",
         "article": "Điều 37",
         "clause": "1",
@@ -1083,5 +1174,33 @@
         "clause": "5",
         "title": "Trách nhiệm của các bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh, cơ quan đại diện Việt Nam ở nước ngoài",
         "text": "Cơ quan đại diện Việt Nam ở nước ngoài có trách nhiệm xem xét và đề xuất ý kiến về các trường hợp xin trở lại quốc tịch Việt Nam, xin thôi quốc tịch Việt Nam, tước quốc tịch Việt Nam; hằng năm, thống kê các việc đã giải quyết về quốc tịch Việt Nam để báo cáo với Bộ Ngoại giao và Bộ Tư pháp."
+    },
+    {
+        "id": "Điều 41.0",
+        "article": "Điều 41",
+        "clause": "0",
+        "title": "Thông báo và đăng tải kết quả giải quyết các việc về quốc tịch",
+        "text": "Bộ Tư pháp có trách nhiệm thông báo cho người xin nhập, xin trở lại, xin thôi quốc tịch Việt Nam, người bị tước quốc tịch Việt Nam, bị hủy bỏ Quyết định cho nhập quốc tịch Việt Nam về kết quả giải quyết các việc về quốc tịch có liên quan và đăng trên Trang thông tin điện tử của Bộ Tư pháp. Văn phòng Chủ tịch nước có trách nhiệm gửi đăng Công báo nước Cộng hòa xã hội chủ nghĩa Việt Nam quyết định cho nhập, cho trở lại, cho thôi, tước quốc tịch Việt Nam, hủy bỏ Quyết định cho nhập quốc tịch Việt Nam. CHƯƠNG VI ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Điều khoản chuyển tiếp",
+        "text": "Kể từ ngày Luật này có hiệu lực thi hành, hồ sơ các việc về quốc tịch đã được tiếp nhận trước đó được tiếp tục giải quyết theo quy định của Luật quốc tịch Việt Nam năm 1998 và các văn bản quy định chi tiết, hướng dẫn thi hành."
+    },
+    {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2009. Luật này thay thế Luật quốc tịch Việt Nam ngày 20 tháng 5 năm 1998."
+    },
+    {
+        "id": "Điều 44.0",
+        "article": "Điều 44",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 4 thông qua ngày 13 tháng 11 năm 2008. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

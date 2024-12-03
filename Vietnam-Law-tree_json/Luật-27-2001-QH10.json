@@ -18,17 +18,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về phòng cháy, chữa cháy, xây dựng lực lượng, trang bị phương tiện, chính sách cho hoạt động phòng cháy và chữa cháy.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan, tổ chức, hộ gia đình và cá nhân hoạt động, sinh sống trên lãnh thổ Cộng hoà xã hội chủ nghĩa Việt Nam phải tuân thủ các quy định của Luật này và các quy định khác của pháp luật có liên quan; trong trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia có quy định khác với Luật này thì áp dụng quy định của điều ước quốc tế đó.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Cháy được hiểu là trường hợp xảy ra cháy không kiểm soát được có thể gây thiệt hại về người, tài sản và ảnh hưởng môi trường.",
@@ -41,7 +58,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ sở là từ gọi chung cho nhà máy, xí nghiệp, kho tàng, trụ sở làm việc, bệnh viện, trường học, rạp hát, khách sạn, chợ, trung tâm thương mại, doanh trại lực lượng vũ trang và các công trình khác.",
+                    "text": "Cơ sở là từ gọi chung cho nhà máy, xí nghiệp, kho tàng, trụ sở làm việc, bệnh viện, trường học, rạp hát, khách sạn, chợ, trung tâm thương mại, doanh trại lực lượng vũ trang và các công trình khác. Cơ quan, tổ chức có thể có một hoặc nhiều cơ sở.",
                     "sub_clauses": []
                 },
                 {
@@ -147,7 +164,13 @@
         {
             "id": "Điều 7",
             "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên có trách nhiệm tổ chức và phối hợp với cơ quan chức năng để tuyên truyền, động viên mọi tầng lớp nhân dân thực hiện và giám sát việc thực hiện các quy định của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 8",
@@ -168,17 +191,35 @@
         {
             "id": "Điều 9",
             "title": "Bảo hiểm cháy, nổ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan, tổ chức và cá nhân có cơ sở có nguy hiểm về cháy, nổ phải thực hiện bảo hiểm cháy, nổ bắt buộc đối với tài sản của cơ sở đó. Nhà nước khuyến khích cơ quan, tổ chức và cá nhân khác tham gia bảo hiểm cháy, nổ. Chính phủ quy định danh mục cơ sở có nguy hiểm về cháy, nổ, điều kiện, mức phí bảo hiểm cháy, nổ, số tiền bảo hiểm tối thiểu và thành lập doanh nghiệp nhà nước kinh doanh bảo hiểm cháy, nổ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 10",
             "title": "Chính sách đối với người tham gia chữa cháy",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người trực tiếp chữa cháy, người tham gia chữa cháy mà bị hy sinh, bị thương, bị tổn hại sức khoẻ, bị tổn thất về tài sản thì được hưởng chế độ, chính sách theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 11",
             "title": "Ngày toàn dân phòng cháy và chữa cháy",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngày 04 tháng 10 hàng năm là “Ngày toàn dân phòng cháy và chữa cháy”.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 12",
@@ -191,7 +232,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong trường hợp xảy ra thảm họa cháy, Nhà nước Việt Nam kêu gọi sự giúp đỡ, hỗ trợ của các nước và các tổ chức quốc tế.",
+                    "text": "Trong trường hợp xảy ra thảm họa cháy, Nhà nước Việt Nam kêu gọi sự giúp đỡ, hỗ trợ của các nước và các tổ chức quốc tế. Trong điều kiện khả năng của mình, Nhà nước Việt Nam sẵn sàng giúp đỡ, hỗ trợ các nước về phòng cháy và chữa cháy khi có yêu cầu.",
                     "sub_clauses": []
                 }
             ]
@@ -237,7 +278,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Các hành vi khác vi phạm quy định của Luật này.",
+                    "text": "Các hành vi khác vi phạm quy định của Luật này. CHƯƠNG II PHÒNG CHÁY",
                     "sub_clauses": []
                 }
             ]
@@ -328,7 +369,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chủ đầu tư thực hiện thủ tục trình duyệt dự án, thiết kế về phòng cháy và chữa cháy; chỉ được thi công khi thiết kế về an toàn phòng cháy và chữa cháy của công trình đã được duyệt; tổ chức kiểm tra, giám sát thi công, nghiệm thu và bàn giao công trình trước khi đưa vào sử dụng.",
+                    "text": "Chủ đầu tư thực hiện thủ tục trình duyệt dự án, thiết kế về phòng cháy và chữa cháy; chỉ được thi công khi thiết kế về an toàn phòng cháy và chữa cháy của công trình đã được duyệt; tổ chức kiểm tra, giám sát thi công, nghiệm thu và bàn giao công trình trước khi đưa vào sử dụng. Trong quá trình thi công công trình, nếu có thay đổi thiết kế thì phải giải trình hoặc thiết kế bổ sung và phải được duyệt lại.",
                     "sub_clauses": []
                 },
                 {
@@ -370,7 +411,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Phương tiện giao thông cơ giới có yêu cầu đặc biệt về bảo đảm an toàn phòng cháy và chữa cháy thì cơ quan đăng kiểm chỉ cấp chứng chỉ đăng kiểm khi đã được cơ quan quản lý nhà nước về phòng cháy và chữa cháy xác nhận đủ điều kiện; các phương tiện trên khi đóng mới hoặc cải tạo phải được duyệt thiết kế.",
+                    "text": "Phương tiện giao thông cơ giới có yêu cầu đặc biệt về bảo đảm an toàn phòng cháy và chữa cháy thì cơ quan đăng kiểm chỉ cấp chứng chỉ đăng kiểm khi đã được cơ quan quản lý nhà nước về phòng cháy và chữa cháy xác nhận đủ điều kiện; các phương tiện trên khi đóng mới hoặc cải tạo phải được duyệt thiết kế. Chính phủ quy định các loại phương tiện giao thông cơ giới có yêu cầu đặc biệt về bảo đảm an toàn phòng cháy và chữa cháy.",
                     "sub_clauses": []
                 },
                 {
@@ -584,17 +625,35 @@
         {
             "id": "Điều 26",
             "title": "Phòng cháy đối với cảng, nhà ga, bến xe",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tại cảng hàng không, cảng biển, cảng sông, nhà ga, bến xe phải tổ chức lực lượng, trang bị phương tiện chữa cháy theo quy định của Bộ trưởng Bộ Công an; phải có phương án thoát nạn, giải toả phương tiện, vật tư, hàng hoá khi có cháy xảy ra.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 27",
             "title": "Phòng cháy đối với bệnh viện, trường học, khách sạn, nhà nghỉ, vũ trường, rạp hát, rạp chiếu phim và những nơi đông người khác",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tại bệnh viện, trường học, khách sạn, nhà nghỉ, vũ trường, rạp hát, rạp chiếu phim và những nơi đông người khác phải có phương án thoát nạn; có lực lượng hướng dẫn, trợ giúp cho mọi người, đặc biệt đối với những người không có khả năng tự thoát nạn; có phương án phối hợp với các lực lượng khác để chữa cháy.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 28",
             "title": "Phòng cháy đối với trụ sở làm việc, thư viện, bảo tàng, kho lưu trữ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tại trụ sở làm việc, thư viện, bảo tàng, kho lưu trữ phải sắp xếp các thiết bị văn phòng, hồ sơ, tài liệu bảo đảm an toàn về phòng cháy và chữa cháy; có biện pháp quản lý chặt chẽ chất cháy, nguồn lửa, nguồn điện, thiết bị và dụng cụ sinh lửa, sinh nhiệt, chất sinh lửa, sinh nhiệt và các biện pháp khác về phòng cháy khi rời nơi làm việc.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 29",
@@ -630,7 +689,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định phạm vi của việc tạm đình chỉ, đình chỉ hoạt động, thời hạn tạm đình chỉ hoạt động và cơ quan có thẩm quyền quyết định tạm đình chỉ, đình chỉ hoạt động.",
+                    "text": "Chính phủ quy định phạm vi của việc tạm đình chỉ, đình chỉ hoạt động, thời hạn tạm đình chỉ hoạt động và cơ quan có thẩm quyền quyết định tạm đình chỉ, đình chỉ hoạt động. CHƯƠNG III CHỮA CHÁY",
                     "sub_clauses": []
                 }
             ]
@@ -675,7 +734,13 @@
         {
             "id": "Điều 32",
             "title": "Thông tin báo cháy và chữa cháy",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thông tin báo cháy bằng hiệu lệnh hoặc bằng điện thoại. Số điện thoại báo cháy được quy định thống nhất trong cả nước. Phương tiện thông tin liên lạc phải được ưu tiên để phục vụ báo cháy, chữa cháy.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 33",
@@ -722,7 +787,13 @@
         {
             "id": "Điều 35",
             "title": "Nguồn nước và các vật liệu chữa cháy",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khi có cháy, mọi nguồn nước và các vật liệu chữa cháy phải được ưu tiên sử dụng cho chữa cháy.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 36",
@@ -770,7 +841,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp tại nơi xảy ra cháy, lực lượng Cảnh sát phòng cháy và chữa cháy chưa đến kịp thì người chỉ huy chữa cháy được quy định như sau:",
+                    "text": "Trường hợp tại nơi xảy ra cháy, lực lượng Cảnh sát phòng cháy và chữa cháy chưa đến kịp thì người chỉ huy chữa cháy được quy định như sau: Người đứng đầu đơn vị kiểm lâm hoặc người được uỷ quyền tại nơi xảy ra cháy có trách nhiệm tham gia chỉ huy chữa cháy;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -824,7 +895,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người chỉ huy chữa cháy là người đứng đầu cơ quan, tổ chức và Chủ tịch Uỷ ban nhân dân cấp xã trở lên được thực hiện các quyền quy định tại khoản 1 Điều này trong phạm vi quản lý của mình.",
+                    "text": "Người chỉ huy chữa cháy là người đứng đầu cơ quan, tổ chức và Chủ tịch Uỷ ban nhân dân cấp xã trở lên được thực hiện các quyền quy định tại khoản 1 Điều này trong phạm vi quản lý của mình. Người chỉ huy chữa cháy quy định tại các điểm a, b, c và d khoản 2 Điều 37 của Luật này trong phạm vi quản lý của mình được thực hiện các quyền quy định tại điểm a và điểm b khoản 1 Điều này.",
                     "sub_clauses": []
                 },
                 {
@@ -921,7 +992,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định cụ thể việc chữa cháy đối với các đối tượng quy định tại khoản 3 Điều này.",
+                    "text": "Chính phủ quy định cụ thể việc chữa cháy đối với các đối tượng quy định tại khoản 3 Điều này. CHƯƠNG IV TỔ CHỨC LỰC LƯỢNG PHÒNG CHÁY VÀ CHỮA CHÁY",
                     "sub_clauses": []
                 }
             ]
@@ -930,6 +1001,11 @@
             "id": "Điều 43",
             "title": "Lực lượng phòng cháy và chữa cháy",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Lực lượng phòng cháy và chữa cháy là lực lượng nòng cốt trong hoạt động phòng cháy và chữa cháy của toàn dân bao gồm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Lực lượng dân phòng;",
@@ -1092,7 +1168,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Công nhân viên thuộc lực lượng Cảnh sát phòng cháy và chữa cháy được hưởng chế độ, chính sách như đối với công nhân viên công an.",
+                    "text": "Công nhân viên thuộc lực lượng Cảnh sát phòng cháy và chữa cháy được hưởng chế độ, chính sách như đối với công nhân viên công an. CHƯƠNG V PHƯƠNG TIỆN PHÒNG CHÁY VÀ CHỮA CHÁY",
                     "sub_clauses": []
                 }
             ]
@@ -1103,7 +1179,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ quan, tổ chức, cá nhân phải tự trang bị phương tiện phòng cháy và chữa cháy cho cơ sở, các loại rừng, phương tiện giao thông cơ giới thuộc phạm vi quản lý của mình.",
+                    "text": "Cơ quan, tổ chức, cá nhân phải tự trang bị phương tiện phòng cháy và chữa cháy cho cơ sở, các loại rừng, phương tiện giao thông cơ giới thuộc phạm vi quản lý của mình. Uỷ ban nhân dân cấp xã phải trang bị phương tiện phòng cháy và chữa cháy cho đội dân phòng. Tổ chức, cá nhân hoạt động sản xuất, kinh doanh, dịch vụ và chủ rừng, chủ phương tiện giao thông cơ giới ngoài quốc doanh phải tự trang bị phương tiện phòng cháy và chữa cháy.",
                     "sub_clauses": []
                 },
                 {
@@ -1121,7 +1197,13 @@
         {
             "id": "Điều 51",
             "title": "Trang bị phương tiện cho lực lượng Cảnh sát phòng cháy và chữa cháy",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước trang bị cho lực lượng Cảnh sát phòng cháy và chữa cháy phương tiện chữa cháy và các phương tiện, thiết bị cần thiết khác bảo đảm đồng bộ, từng bước hiện đại, đáp ứng yêu cầu chữa cháy, cứu người trong mọi tình huống.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 52",
@@ -1150,7 +1232,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức, cá nhân hoạt động sản xuất, kinh doanh phương tiện phòng cháy và chữa cháy phải có đủ điều kiện về cơ sở vật chất, chuyên môn kỹ thuật theo quy định của cơ quan quản lý nhà nước về phòng cháy và chữa cháy có thẩm quyền.",
+                    "text": "Tổ chức, cá nhân hoạt động sản xuất, kinh doanh phương tiện phòng cháy và chữa cháy phải có đủ điều kiện về cơ sở vật chất, chuyên môn kỹ thuật theo quy định của cơ quan quản lý nhà nước về phòng cháy và chữa cháy có thẩm quyền. CHƯƠNG VI ĐẦU TƯ CHO HOẠT ĐỘNG PHÒNG CHÁY VÀ CHỮA CHÁY",
                     "sub_clauses": []
                 }
             ]
@@ -1216,7 +1298,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Nhà nước có chính sách ưu đãi về thuế đối với việc sản xuất, lắp ráp, xuất khẩu phương tiện phòng cháy và chữa cháy.",
+                    "text": "Nhà nước có chính sách ưu đãi về thuế đối với việc sản xuất, lắp ráp, xuất khẩu phương tiện phòng cháy và chữa cháy. CHƯƠNG VII QUẢN LÝ NHÀ NƯỚC VỀ PHÒNG CHÁY VÀ CHỮA CHÁY",
                     "sub_clauses": []
                 }
             ]
@@ -1298,7 +1380,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Các bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Công an tổ chức thực hiện các quy định về phòng cháy và chữa cháy.",
+                    "text": "Các bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Công an tổ chức thực hiện các quy định về phòng cháy và chữa cháy. Chính phủ quy định việc phối hợp giữa Bộ Công an với Bộ Quốc phòng trong tổ chức thực hiện phòng cháy và chữa cháy đối với cơ sở quốc phòng và giữa Bộ Công an với Bộ Nông nghiệp và Phát triển nông thôn trong tổ chức thực hiện phòng cháy và chữa cháy rừng.",
                     "sub_clauses": []
                 },
                 {
@@ -1392,7 +1474,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ quan nhận được khiếu nại, tố cáo, khởi kiện có trách nhiệm xem xét và giải quyết kịp thời theo quy định của pháp luật.",
+                    "text": "Cơ quan nhận được khiếu nại, tố cáo, khởi kiện có trách nhiệm xem xét và giải quyết kịp thời theo quy định của pháp luật. CHƯƠNG VIII KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM",
                     "sub_clauses": []
                 }
             ]
@@ -1400,7 +1482,13 @@
         {
             "id": "Điều 62",
             "title": "Khen thưởng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan, tổ chức, hộ gia đình và cá nhân có thành tích trong hoạt động phòng cháy và chữa cháy thì được khen thưởng theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 63",
@@ -1418,7 +1506,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Người đứng đầu cơ quan, tổ chức do thiếu trách nhiệm trong tổ chức, quản lý, kiểm tra việc thực hiện hoạt động phòng cháy và chữa cháy mà để xảy ra cháy thì tuỳ theo tính chất, mức độ thiệt hại mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.",
+                    "text": "Người đứng đầu cơ quan, tổ chức do thiếu trách nhiệm trong tổ chức, quản lý, kiểm tra việc thực hiện hoạt động phòng cháy và chữa cháy mà để xảy ra cháy thì tuỳ theo tính chất, mức độ thiệt hại mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật. Người đứng đầu đơn vị phòng cháy và chữa cháy do thiếu trách nhiệm trong thực hiện nhiệm vụ chữa cháy để gây hậu quả nghiêm trọng thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật. CHƯƠNG IX ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1426,13 +1514,38 @@
         {
             "id": "Điều 64",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực kể từ ngày 04 tháng 10 năm 2001. Những quy định trước đây trái với Luật này đều bãi bỏ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 65",
             "title": "Hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này. ________________________________________________________________ Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa X, kỳ họp thứ 9 thông qua ngày 29 tháng 6 năm 2001. CHỦ TỊCH QUỐC HỘI (Đã ký) Nông Đức Mạnh Tên văn bản : Luật của Quốc hội số 27/2001/QH10 về phòng cháy và chữa cháy. Loại văn bản : Luật Số hiệu : 27/2001/QH10 Ngày ban hành : 12/07/2001 Cơ quan ban hành : Quốc hội, Người ký : Nông Đức Mạnh, Ngày hiệu lực : 04/10/2001 Văn bản liên quan : 0",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa X, kỳ họp thứ 9 thông qua ngày 29 tháng 6 năm 2001.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "(Đã ký)",
+        "Nông Đức Mạnh",
+        "Tên văn bản : Luật của Quốc hội số 27/2001/QH10 về phòng cháy và chữa cháy.",
+        "Loại văn bản : Luật",
+        "Số hiệu : 27/2001/QH10",
+        "Ngày ban hành : 12/07/2001",
+        "Cơ quan ban hành : Quốc hội,",
+        "Người ký : Nông Đức Mạnh,",
+        "Ngày hiệu lực : 04/10/2001",
+        "Văn bản liên quan : 0"
+    ]
 }

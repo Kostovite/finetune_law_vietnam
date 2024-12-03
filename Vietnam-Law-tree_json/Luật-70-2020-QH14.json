@@ -33,6 +33,11 @@
             "title": "Giải thích từ ngữ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Thỏa thuận quốc tế là thỏa thuận bằng văn bản về hợp tác quốc tế giữa bên ký kết Việt Nam trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình với bên ký kết nước ngoài, không làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ của nước Cộng hòa xã hội chủ nghĩa Việt Nam theo pháp luật quốc tế.",
                     "sub_clauses": []
@@ -226,12 +231,24 @@
         {
             "id": "Điều 6",
             "title": "Tên gọi của thỏa thuận quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thỏa thuận quốc tế được ký kết với tên gọi là thỏa thuận, thông cáo, tuyên bố, ý định thư, bản ghi nhớ, biên bản thỏa thuận, biên bản trao đổi, chương trình hợp tác, kế hoạch hợp tác hoặc tên gọi khác, trừ tên gọi đặc thù của điều ước quốc tế bao gồm công ước, hiệp ước, định ước, hiệp định.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 7",
             "title": "Ngôn ngữ của thỏa thuận quốc tế",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thỏa thuận quốc tế phải có văn bản bằng tiếng Việt, trừ trường hợp có thỏa thuận khác giữa bên ký kết Việt Nam và bên ký kết nước ngoài. Trong trường hợp thỏa thuận quốc tế chỉ có văn bản bằng tiếng nước ngoài thì bên ký kết Việt Nam có trách nhiệm dịch thỏa thuận quốc tế đó ra tiếng Việt Văn bản bằng tiếng Việt phải bảo đảm chính xác về nội dung và thống nhất về hình thức với văn bản bằng tiếng nước ngoài của thỏa thuận quốc tế. Chương II KÝ KẾT THỎA THUẬN QUỐC TẾ Mục l KÝ KẾT THỎA THUẬN QUỐC TẾ NHÂN DANH NHÀ NƯỚC, CHÍNH PHỦ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 8",
@@ -283,12 +300,24 @@
         {
             "id": "Điều 10",
             "title": "Cấp Giấy ủy quyền ký thỏa thuận quốc tế nhân danh Nhà nước, Chính phủ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ trưởng Bộ Ngoại giao cấp Giấy ủy quyền ký thỏa thuận quốc tế nhân danh Nhà nước, Chính phủ trên cơ sở văn bản đồng ý của Chủ tịch nước, Thủ tướng Chính phủ, trừ trường hợp thỏa thuận quốc tế do Chủ tịch nước, Thủ tướng Chính phủ hoặc Bộ trưởng Bộ Ngoại giao ký.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 11",
             "title": "Rà soát, đối chiếu văn bản thỏa thuận quốc tế nhân danh Nhà nước, Chính phủ trước khi ký kết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trước khi tiến hành ký kết thỏa thuận quốc tế nhân danh Nhà nước, Chính phủ, Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ chủ trì, phối hợp với Bộ Ngoại giao và cơ quan nhà nước có liên quan rà soát, đối chiếu văn bản bằng tiếng Việt với văn bản bằng tiếng nước ngoài để bảo đảm chính xác về nội dung và thống nhất về hình thức. Mục 2 KÝ KẾT THỎA THUẬN QUỐC TẾ NHÂN DANH QUỐC HỘI, CƠ QUAN CỦA QUỐC HỘI, TỔNG THƯ KÝ QUỐC HỘI, VĂN PHÒNG QUỐC HỘI, CƠ QUAN THUỘC ỦY BAN THƯỜNG VỤ QUỐC HỘI, KIỂM TOÁN NHÀ NƯỚC",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 12",
@@ -332,7 +361,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ủy ban Đối ngoại của Quốc hội gửi hồ sơ đề xuất ký kết thỏa thuận quốc tế nhân danh Quốc hội để lấy ý kiến bằng văn bản của Bộ Ngoại giao và cơ quan, tổ chức có liên quan trực tiếp đến thỏa thuận quốc tế đó.",
+                    "text": "Ủy ban Đối ngoại của Quốc hội gửi hồ sơ đề xuất ký kết thỏa thuận quốc tế nhân danh Quốc hội để lấy ý kiến bằng văn bản của Bộ Ngoại giao và cơ quan, tổ chức có liên quan trực tiếp đến thỏa thuận quốc tế đó. Cơ quan của Quốc hội, Tổng Thư ký Quốc hội, Văn phòng Quốc hội, cơ quan thuộc Ủy ban Thường vụ Quốc hội, Kiểm toán nhà nước gửi hồ sơ đề xuất ký kết thỏa thuận quốc tế nhân danh mình để lấy ý kiến bằng văn bản của Ủy ban Đối ngoại của Quốc hội, Bộ Ngoại giao và cơ quan, tổ chức có liên quan trực tiếp đến thỏa thuận quốc tế đó.",
                     "sub_clauses": []
                 },
                 {
@@ -347,7 +376,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trong trường hợp cơ quan, tổ chức được lấy ý kiến không đồng ý việc ký kết thỏa thuận quốc tế thì trình tự, thủ tục được tiến hành như sau:",
+                    "text": "Trong trường hợp cơ quan, tổ chức được lấy ý kiến không đồng ý việc ký kết thỏa thuận quốc tế thì trình tự, thủ tục được tiến hành như sau: Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ quy định tại Điều 28 của Luật này, Phó Chủ tịch Quốc hội phụ trách đối ngoại của Quốc hội cho ý kiến về việc ký kết thỏa thuận quốc tế;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -365,7 +394,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Cơ quan của Quốc hội, Tổng Thư ký Quốc hội, Văn phòng Quốc hội, cơ quan thuộc Ủy ban Thường vụ Quốc hội, Kiểm toán nhà nước báo cáo Chủ tịch Quốc hội bằng văn bản, gửi bản sao thỏa thuận quốc tế cho Ủy ban Đối ngoại của Quốc hội, Bộ Ngoại giao trong thời hạn 15 ngày kể từ ngày thỏa thuận quốc tế được ký kết.",
+                    "text": "Cơ quan của Quốc hội, Tổng Thư ký Quốc hội, Văn phòng Quốc hội, cơ quan thuộc Ủy ban Thường vụ Quốc hội, Kiểm toán nhà nước báo cáo Chủ tịch Quốc hội bằng văn bản, gửi bản sao thỏa thuận quốc tế cho Ủy ban Đối ngoại của Quốc hội, Bộ Ngoại giao trong thời hạn 15 ngày kể từ ngày thỏa thuận quốc tế được ký kết. Mục 3 KÝ KẾT THỎA THUẬN QUỐC TẾ NHÂN DANH VĂN PHÒNG CHỦ TỊCH NƯỚC, TÒA ÁN NHÂN DÂN TỐI CAO, VIỆN KIỂM SÁT NHÂN DÂN TỐI CAO",
                     "sub_clauses": []
                 }
             ]
@@ -430,7 +459,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Văn phòng Chủ tịch nước, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao báo cáo Chủ tịch nước bằng văn bản, gửi bản sao thỏa thuận quốc tế cho Bộ Ngoại giao trong thời hạn 15 ngày kể từ ngày thỏa thuận quốc tế được ký kết.",
+                    "text": "Văn phòng Chủ tịch nước, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao báo cáo Chủ tịch nước bằng văn bản, gửi bản sao thỏa thuận quốc tế cho Bộ Ngoại giao trong thời hạn 15 ngày kể từ ngày thỏa thuận quốc tế được ký kết. Mục 4 KÝ KẾT THỎA THUẬN QUỐC TẾ NHÂN DANH BỘ, CƠ QUAN NGANG BỘ, CƠ QUAN THUỘC CHÍNH PHỦ",
                     "sub_clauses": []
                 }
             ]
@@ -438,7 +467,13 @@
         {
             "id": "Điều 16",
             "title": "Thẩm quyền quyết định việc ký kết thỏa thuận quốc tế nhân danh Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, người đứng đầu cơ quan thuộc Chính phủ quyết định việc ký kết thỏa thuận quốc tế nhân danh Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 17",
@@ -479,7 +514,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ báo cáo Thủ tướng Chính phủ bằng văn bản, gửi bản sao thỏa thuận quốc tế cho Bộ Ngoại giao trong thời hạn 15 ngày kể từ ngày thỏa thuận quốc tế được ký kết.",
+                    "text": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ báo cáo Thủ tướng Chính phủ bằng văn bản, gửi bản sao thỏa thuận quốc tế cho Bộ Ngoại giao trong thời hạn 15 ngày kể từ ngày thỏa thuận quốc tế được ký kết. Mục 5 KÝ KẾT THỎA THUẬN QUỐC TẾ NHÂN DANH CƠ QUAN NHÀ NƯỚC CẤP TỈNH",
                     "sub_clauses": []
                 }
             ]
@@ -539,7 +574,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Cơ quan nhà nước cấp tỉnh báo cáo Thủ tướng Chính phủ bằng văn bản, gửi bản sao thỏa thuận quốc tế cho Bộ Ngoại giao trong thời hạn 15 ngày kể từ ngày thỏa thuận quốc tế được ký kết.",
+                    "text": "Cơ quan nhà nước cấp tỉnh báo cáo Thủ tướng Chính phủ bằng văn bản, gửi bản sao thỏa thuận quốc tế cho Bộ Ngoại giao trong thời hạn 15 ngày kể từ ngày thỏa thuận quốc tế được ký kết. Mục 6 KÝ KẾT THỎA THUẬN QUỐC TẾ NHÂN DANH TỔNG CỤC, CỤC THUỘC BỘ, CƠ QUAN NGANG BỘ; CƠ QUAN CHUYÊN MÔN THUỘC ỦY BAN NHÂN DÂN CẤP TỈNH; ỦY BAN NHÂN DÂN CẤP HUYỆN; ỦY BAN NHÂN DÂN CẤP XÃ Ở KHU VỰC BIÊN GIỚI",
                     "sub_clauses": []
                 }
             ]
@@ -560,7 +595,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết việc ký kết và thực hiện thỏa thuận quốc tế nhân danh tổng cục, cục thuộc Bộ, cơ quan ngang Bộ; cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh; Ủy ban nhân dân cấp huyện; Ủy ban nhân dân cấp xã ở khu vực biên giới.",
+                    "text": "Chính phủ quy định chi tiết việc ký kết và thực hiện thỏa thuận quốc tế nhân danh tổng cục, cục thuộc Bộ, cơ quan ngang Bộ; cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh; Ủy ban nhân dân cấp huyện; Ủy ban nhân dân cấp xã ở khu vực biên giới. Mục 7 KÝ KẾT THỎA THUẬN QUỐC TẾ NHÂN DANH CƠ QUAN TRUNG ƯƠNG CỦA TỔ CHỨC VÀ CƠ QUAN CẤP TỈNH CỦA TỔ CHỨC",
                     "sub_clauses": []
                 }
             ]
@@ -568,7 +603,13 @@
         {
             "id": "Điều 21",
             "title": "Thẩm quyền quyết định việc ký kết thỏa thuận quốc tế nhân danh cơ quan trung ương của tổ chức",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người đứng đầu cơ quan trung ương của tổ chức quyết định việc ký kết thỏa thuận quốc tế nhân danh cơ quan trung ương của tổ chức sau khi có văn bản đồng ý của cơ quan quản lý hoạt động đối ngoại của tổ chức.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 22",
@@ -617,7 +658,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết việc ký kết và thực hiện thỏa thuận quốc tế nhân danh cơ quan cấp tỉnh của tổ chức.",
+                    "text": "Chính phủ quy định chi tiết việc ký kết và thực hiện thỏa thuận quốc tế nhân danh cơ quan cấp tỉnh của tổ chức. Mục 8 KÝ KẾT THỎA THUẬN QUỐC TẾ NHÂN DANH NHIỀU CƠ QUAN, TỔ CHỨC; THỎA THUẬN QUỐC TẾ LIÊN QUAN ĐẾN QUỐC PHÒNG, AN NINH, ĐẦU TƯ; THỎA THUẬN QUỐC TẾ CỦA CÁC CƠ QUAN, ĐƠN VỊ TRONG QUÂN ĐỘI NHÂN DÂN VÀ CÔNG AN NHÂN DÂN",
                     "sub_clauses": []
                 }
             ]
@@ -675,7 +716,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ trưởng Bộ Công an quy định cụ thể việc ký kết và thực hiện thỏa thuận quốc tế của các cơ quan, đơn vị trong Công an nhân dân phù hợp với nguyên tắc quy định tại Điều 3 của Luật này.",
+                    "text": "Bộ trưởng Bộ Công an quy định cụ thể việc ký kết và thực hiện thỏa thuận quốc tế của các cơ quan, đơn vị trong Công an nhân dân phù hợp với nguyên tắc quy định tại Điều 3 của Luật này. Mục 9 HỒ SƠ LẤY Ý KIẾN, HỒ SƠ TRÌNH VÀ TRÁCH NHIỆM CHO Ý KIẾN VỀ ĐỀ XUẤT KÝ KẾT THỎA THUẬN QUỐC TẾ",
                     "sub_clauses": []
                 }
             ]
@@ -684,6 +725,11 @@
             "id": "Điều 27",
             "title": "Hồ sơ lấy ý kiến về đề xuất ký kết thỏa thuận quốc tế",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Hồ sơ lấy ý kiến về đề xuất ký kết thỏa thuận quốc tế quy định tại khoản 1 Điều 9, khoản 1 Điều 13, khoản 1 Điều 15, khoản 1 Điều 17, khoản 1 Điều 19 và khoản 1 Điều 22 của Luật này bao gồm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Văn bản đề xuất về việc ký kết thỏa thuận quốc tế phải bao gồm các nội dung chủ yếu sau đây:",
@@ -725,6 +771,11 @@
             "id": "Điều 28",
             "title": "Hồ sơ trình về việc ký kết thỏa thuận quốc tế",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Hồ sơ trình về việc ký kết thỏa thuận quốc tế quy định tại khoản 3 Điều 9, khoản 4 Điều 13, khoản 4 Điều 15, khoản 4 Điều 17, khoản 4 Điều 19 và khoản 4 Điều 22 của Luật này bao gồm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Văn bản đề xuất về việc ký kết thỏa thuận quốc tế, trong đó bao gồm các nội dung quy định tại khoản 1 Điều 27 của Luật này và vấn đề có ý kiến khác nhau giữa cơ quan, tổ chức được lấy ý kiến (nếu có), đề xuất về việc ủy quyền ký thỏa thuận quốc tế (nếu có);",
@@ -804,7 +855,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Đánh giá tính khả thi và hiệu quả của thỏa thuận quốc tế.",
+                    "text": "Đánh giá tính khả thi và hiệu quả của thỏa thuận quốc tế. Mục 10 KÝ THỎA THUẬN QUỐC TẾ TRONG CHUYẾN THĂM CỦA ĐOÀN CẤP CAO",
                     "sub_clauses": []
                 }
             ]
@@ -820,7 +871,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ Ngoại giao hoặc Ủy ban Đối ngoại của Quốc hội chủ trì hoặc phối hợp rà soát, đối chiếu văn bản cuối cùng của thỏa thuận quốc tế; Bộ Ngoại giao hoặc Văn phòng Quốc hội phối hợp với bên nước ngoài tổ chức lễ ký thỏa thuận quốc tế trong chuyến thăm của đoàn cấp cao Việt Nam tại nước ngoài hoặc của đoàn cấp cao nước ngoài tại Việt Nam.",
+                    "text": "Bộ Ngoại giao hoặc Ủy ban Đối ngoại của Quốc hội chủ trì hoặc phối hợp rà soát, đối chiếu văn bản cuối cùng của thỏa thuận quốc tế; Bộ Ngoại giao hoặc Văn phòng Quốc hội phối hợp với bên nước ngoài tổ chức lễ ký thỏa thuận quốc tế trong chuyến thăm của đoàn cấp cao Việt Nam tại nước ngoài hoặc của đoàn cấp cao nước ngoài tại Việt Nam. Chương III HIỆU LỰC, SỬA ĐỔI, BỔ SUNG, GIA HẠN, CHẤM DỨT HIỆU LỰC, RÚT KHỎI, TẠM ĐÌNH CHỈ THỰC HIỆN THỎA THUẬN QUỐC TẾ",
                     "sub_clauses": []
                 }
             ]
@@ -888,7 +939,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Cơ quan nhà nước ở trung ương, cơ quan nhà nước cấp tỉnh, cơ quan trung ương của tổ chức thông báo cho Bộ Ngoại giao về việc chấm dứt hiệu lực, rút khỏi, tạm đình chỉ thực hiện thỏa thuận quốc tế quy định tại các mục 1, 2, 3, 4, 5 và 7 Chương II của Luật này trong thời hạn 15 ngày kể từ ngày việc chấm dứt hiệu lực, rút khỏi, tạm đình chỉ thực hiện thỏa thuận quốc tế có hiệu lực.",
+                    "text": "Cơ quan nhà nước ở trung ương, cơ quan nhà nước cấp tỉnh, cơ quan trung ương của tổ chức thông báo cho Bộ Ngoại giao về việc chấm dứt hiệu lực, rút khỏi, tạm đình chỉ thực hiện thỏa thuận quốc tế quy định tại các mục 1, 2, 3, 4, 5 và 7 Chương II của Luật này trong thời hạn 15 ngày kể từ ngày việc chấm dứt hiệu lực, rút khỏi, tạm đình chỉ thực hiện thỏa thuận quốc tế có hiệu lực. Chương IV TRÌNH TỰ, THỦ TỤC RÚT GỌN",
                     "sub_clauses": []
                 }
             ]
@@ -1070,7 +1121,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong trường hợp thỏa thuận quốc tế chỉ định cơ quan được sửa đổi, bổ sung nội dung của thỏa thuận quốc tế thì cơ quan đó quyết định việc sửa đổi, bổ sung mà không phải lấy ý kiến của cơ quan, tổ chức có liên quan, trừ trường hợp cơ quan, người có thẩm quyền quyết định ký kết thỏa thuận quốc tế có quyết định khác.",
+                    "text": "Trong trường hợp thỏa thuận quốc tế chỉ định cơ quan được sửa đổi, bổ sung nội dung của thỏa thuận quốc tế thì cơ quan đó quyết định việc sửa đổi, bổ sung mà không phải lấy ý kiến của cơ quan, tổ chức có liên quan, trừ trường hợp cơ quan, người có thẩm quyền quyết định ký kết thỏa thuận quốc tế có quyết định khác. Chương V THỰC HIỆN THỎA THUẬN QUỐC TẾ",
                     "sub_clauses": []
                 }
             ]
@@ -1079,6 +1130,11 @@
             "id": "Điều 42",
             "title": "Trách nhiệm của cơ quan nhà nước ở trung ương, cơ quan nhà nước cấp tỉnh, cơ quan trung ương của tổ chức, cơ quan cấp tỉnh của tổ chức trong việc thực hiện thỏa thuận quốc tế",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan nhà nước ở trung ương, cơ quan nhà nước cấp tỉnh, cơ quan trung ương của tổ chức, cơ quan cấp tỉnh của tổ chức, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tổ chức thực hiện thỏa thuận quốc tế do cơ quan đó đã ký kết hoặc đề xuất ký kết trong trường hợp ký kết thỏa thuận quốc tế nhân danh Nhà nước, Quốc hội, Chính phủ, đồng thời yêu cầu bên ký kết nước ngoài thực hiện thỏa thuận quốc tế đó trên tinh thần hữu nghị, hợp tác;",
@@ -1122,7 +1178,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đôn đốc việc thực hiện các thỏa thuận quốc tế do cơ quan nhà nước ở trung ương, cơ quan nhà nước cấp tỉnh đã ký kết hoặc đề xuất ký kết trong trường hợp ký kết thỏa thuận quốc tế nhân danh Nhà nước, Quốc hội, Chính phủ.",
+                    "text": "Đôn đốc việc thực hiện các thỏa thuận quốc tế do cơ quan nhà nước ở trung ương, cơ quan nhà nước cấp tỉnh đã ký kết hoặc đề xuất ký kết trong trường hợp ký kết thỏa thuận quốc tế nhân danh Nhà nước, Quốc hội, Chính phủ. Chương VI TRÁCH NHIỆM CỦA CƠ QUAN NHÀ NƯỚC Ở TRUNG ƯƠNG, CƠ QUAN NHÀ NƯỚC CẤP TỈNH VÀ CƠ QUAN TRUNG ƯƠNG CỦA TỔ CHỨC, CƠ QUAN CẤP TỈNH CỦA TỔ CHỨC, CƠ QUAN QUẢN LÝ HOẠT ĐỘNG ĐỐI NGOẠI CỦA TỔ CHỨC; KINH PHÍ KÝ KẾT VÀ THỰC HIỆN THỎA THUẬN QUỐC TẾ",
                     "sub_clauses": []
                 }
             ]
@@ -1163,6 +1219,11 @@
             "id": "Điều 46",
             "title": "Trách nhiệm của cơ quan nhà nước ở trung ương, cơ quan nhà nước cấp tỉnh và cơ quan trung ương của tổ chức, cơ quan cấp tỉnh của tổ chức",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan nhà nước ở trung ương, cơ quan nhà nước cấp tỉnh và cơ quan trung ương của tổ chức, cơ quan cấp tỉnh của tổ chức ngoài trách nhiệm thực hiện thỏa thuận quốc tế quy định tại Điều 42 của Luật này, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Xây dựng kế hoạch dài hạn, kế hoạch hằng năm về việc ký kết thỏa thuận quốc tế gửi Bộ Ngoại giao để theo dõi và tổng hợp báo cáo Thủ tướng Chính phủ; kế hoạch hằng năm được gửi chậm nhất vào ngày 15 tháng 11 của năm trước;",
@@ -1216,6 +1277,11 @@
             "title": "Trách nhiệm của cơ quan, đơn vị tham mưu về công tác đối ngoại, hợp tác quốc tế của cơ quan nhà nước ở trung ương và cơ quan nhà nước cấp tỉnh",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Cơ quan, đơn vị tham mưu về công tác đối ngoại, hợp tác quốc tế của cơ quan nhà nước ở trung ương và cơ quan nhà nước cấp tỉnh ngoài trách nhiệm thực hiện thỏa thuận quốc tế quy định tại Điều 43 của Luật này, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Xây dựng dự thảo văn bản thuộc thẩm quyền ban hành của cơ quan nhà nước ở trung ương, cơ quan nhà nước cấp tỉnh về công tác ký kết và thực hiện thỏa thuận quốc tế;",
                     "sub_clauses": []
@@ -1241,6 +1307,11 @@
             "id": "Điều 49",
             "title": "Trách nhiệm của cơ quan quản lý hoạt động đối ngoại của tổ chức",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan quản lý hoạt động đối ngoại của tổ chức, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Chủ trì, phối hợp với cơ quan có liên quan hướng dẫn việc ký kết và thực hiện thỏa thuận quốc tế của tổ chức;",
@@ -1274,7 +1345,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương VII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1306,11 +1377,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đối với thỏa thuận quốc tế đã được ký kết theo quy định tại Pháp lệnh Ký kết và thực hiện thỏa thuận quốc tế số 33/2007/PL-UBTVQH11 và Quyết định số 36/2018/QĐ-TTg ngày 24 tháng 8 năm 2018 của Thủ tướng Chính phủ quy định thủ tục ký kết, thực hiện thỏa thuận nhân danh Chính phủ và kiến nghị Chủ tịch nước quyết định ký kết thỏa thuận nhân danh Nhà nước không phải là điều ước quốc tế, bên ký kết Việt Nam tổ chức thực hiện và tiến hành sửa đổi, bổ sung, gia hạn, chấm dứt hiệu lực, rút khỏi, tạm đình chỉ thực hiện thỏa thuận quốc tế theo trình tự, thủ tục quy định tại Luật này.",
+                    "text": "Đối với thỏa thuận quốc tế đã được ký kết theo quy định tại Pháp lệnh Ký kết và thực hiện thỏa thuận quốc tế số 33/2007/PL-UBTVQH11 và Quyết định số 36/2018/QĐ-TTg ngày 24 tháng 8 năm 2018 của Thủ tướng Chính phủ quy định thủ tục ký kết, thực hiện thỏa thuận nhân danh Chính phủ và kiến nghị Chủ tịch nước quyết định ký kết thỏa thuận nhân danh Nhà nước không phải là điều ước quốc tế, bên ký kết Việt Nam tổ chức thực hiện và tiến hành sửa đổi, bổ sung, gia hạn, chấm dứt hiệu lực, rút khỏi, tạm đình chỉ thực hiện thỏa thuận quốc tế theo trình tự, thủ tục quy định tại Luật này. ______________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 10 thông qua ngày 13 tháng 11 năm 2020. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 10 thông qua ngày 13 tháng 11 năm 2020.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Nguyễn Thị Kim Ngân"
+    ]
 }

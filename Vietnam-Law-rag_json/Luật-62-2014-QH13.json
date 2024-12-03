@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Tòa án nhân dân; về Thẩm phán, Hội thẩm và các chức danh khác trong Tòa án nhân dân; về bảo đảm hoạt động của Tòa án nhân dân."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -147,6 +154,13 @@
         "text": "Ủy ban thường vụ Quốc hội quyết định thành lập, giải thể Tòa án quân sự khu vực, Tòa án quân sự quân khu và tương đương và quy định về phạm vi thẩm quyền theo lãnh thổ của mỗi Tòa án theo đề nghị của Chánh án Tòa án nhân dân tối cao sau khi thống nhất với Bộ trưởng Bộ Quốc phòng."
     },
     {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Nguyên tắc tổ chức của Tòa án nhân dân",
+        "text": "Các Tòa án nhân dân được tổ chức độc lập theo thẩm quyền xét xử."
+    },
+    {
         "id": "Điều 6.1",
         "article": "Điều 6",
         "clause": "1",
@@ -175,6 +189,13 @@
         "text": "Chế độ bầu Hội thẩm nhân dân được thực hiện đối với Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương. Chế độ cử Hội thẩm quân nhân được thực hiện đối với Tòa án quân sự quân khu và tương đương, Tòa án quân sự khu vực."
     },
     {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Thực hiện chế độ xét xử có Hội thẩm tham gia",
+        "text": "Việc xét xử sơ thẩm của Tòa án có Hội thẩm tham gia theo quy định của luật tố tụng, trừ trường hợp xét xử theo thủ tục rút gọn."
+    },
+    {
         "id": "Điều 9.1",
         "article": "Điều 9",
         "clause": "1",
@@ -189,6 +210,13 @@
         "text": "Cá nhân, cơ quan, tổ chức có hành vi can thiệp vào việc xét xử của Thẩm phán, Hội thẩm thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật."
     },
     {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Tòa án nhân dân xét xử tập thể",
+        "text": "Tòa án nhân dân xét xử tập thể và quyết định theo đa số, trừ trường hợp xét xử theo thủ tục rút gọn. Thành phần Hội đồng xét xử ở mỗi cấp xét xử do luật tố tụng quy định."
+    },
+    {
         "id": "Điều 11.1",
         "article": "Điều 11",
         "clause": "1",
@@ -201,6 +229,34 @@
         "clause": "2",
         "title": "Tòa án nhân dân xét xử kịp thời, công bằng, công khai",
         "text": "Tòa án nhân dân xét xử công khai. Trường hợp đặc biệt cần giữ bí mật nhà nước, thuần phong, mỹ tục của dân tộc, bảo vệ người chưa thành niên hoặc giữ bí mật đời tư theo yêu cầu chính đáng của đương sự thì Tòa án nhân dân có thể xét xử kín."
+    },
+    {
+        "id": "Điều 12.0",
+        "article": "Điều 12",
+        "clause": "0",
+        "title": "Bảo đảm quyền bình đẳng trước Tòa án nhân dân",
+        "text": "Tòa án xét xử theo nguyên tắc mọi người đều bình đẳng trước pháp luật, không phân biệt dân tộc, giới tính, tín ngưỡng, tôn giáo, thành phần xã hội, địa vị xã hội; cá nhân, cơ quan, tổ chức đều bình đẳng trước Tòa án."
+    },
+    {
+        "id": "Điều 13.0",
+        "article": "Điều 13",
+        "clause": "0",
+        "title": "Bảo đảm tranh tụng trong xét xử",
+        "text": "Nguyên tắc tranh tụng trong xét xử được bảo đảm. Tòa án có trách nhiệm bảo đảm cho những người tham gia tố tụng thực hiện quyền tranh tụng trong xét xử. Việc thực hiện nguyên tắc tranh tụng trong xét xử theo quy định của luật tố tụng."
+    },
+    {
+        "id": "Điều 14.0",
+        "article": "Điều 14",
+        "clause": "0",
+        "title": "Trách nhiệm chứng minh tội phạm và việc bảo đảm quyền bào chữa của bị can, bị cáo, quyền bảo vệ lợi ích hợp pháp của đương sự",
+        "text": "Người bị buộc tội được coi là không có tội cho đến khi được chứng minh theo trình tự luật định và có bản án kết tội của Tòa án đã có hiệu lực pháp luật. Quyền bào chữa của bị can, bị cáo, quyền bảo vệ lợi ích hợp pháp của đương sự được bảo đảm. Bị can, bị cáo có quyền tự bào chữa, nhờ luật sư hoặc người khác bào chữa; đương sự khác trong vụ án có quyền tự mình hoặc nhờ người bảo vệ lợi ích hợp pháp của mình. Tòa án có trách nhiệm bảo đảm quyền bào chữa của bị can, bị cáo, quyền bảo vệ lợi ích hợp pháp của đương sự."
+    },
+    {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Tiếng nói, chữ viết dùng trước Tòa án nhân dân",
+        "text": "Tiếng nói, chữ viết dùng trước Tòa án là tiếng Việt. Tòa án bảo đảm cho những người tham gia tố tụng quyền dùng tiếng nói, chữ viết của dân tộc mình trước Tòa án nhân dân, trường hợp này phải có phiên dịch."
     },
     {
         "id": "Điều 16.1",
@@ -257,6 +313,13 @@
         "clause": "2",
         "title": "Quản lý các Tòa án nhân dân về tổ chức",
         "text": "Tòa án nhân dân tối cao chủ trì, phối hợp với Bộ Quốc phòng quản lý các Tòa án quân sự về tổ chức. Quy chế phối hợp giữa Tòa án nhân dân tối cao và Bộ Quốc phòng trong việc quản lý các Tòa án quân sự về tổ chức do Ủy ban thường vụ Quốc hội quy định."
+    },
+    {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Giám sát hoạt động của Tòa án nhân dân",
+        "text": "Quốc hội, các cơ quan của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, đại biểu Hội đồng nhân dân, Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận giám sát hoạt động của Tòa án nhân dân theo quy định của luật. Chương II TÒA ÁN NHÂN DÂN TỐI CAO Mục 1 NHIỆM VỤ, QUYỀN HẠN, CƠ CẤU TỔ CHỨC CỦA TÒA ÁN NHÂN DÂN TỐI CAO"
     },
     {
         "id": "Điều 20.1",
@@ -418,6 +481,13 @@
         "clause": "2",
         "title": "Việc tổ chức xét xử của Hội đồng Thẩm phán Tòa án nhân dân tối cao",
         "text": "Việc xét xử giám đốc thẩm, tái thẩm bằng Hội đồng xét xử gồm 05 Thẩm phán hoặc toàn thể Thẩm phán Tòa án nhân dân tối cao được thực hiện theo quy định của luật tố tụng."
+    },
+    {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Bộ máy giúp việc của Tòa án nhân dân tối cao",
+        "text": "Bộ máy giúp việc của Tòa án nhân dân tối cao gồm các vụ và các đơn vị tương đương. Chánh án Tòa án nhân dân tối cao trình Ủy ban thường vụ Quốc hội phê chuẩn tổ chức bộ máy; nhiệm vụ, quyền hạn của các đơn vị trong bộ máy giúp việc."
     },
     {
         "id": "Điều 25.1",
@@ -684,6 +754,13 @@
         "clause": "2",
         "title": "Việc tổ chức xét xử của Ủy ban Thẩm phán Tòa án nhân dân cấp cao",
         "text": "Việc xét xử giám đốc thẩm, tái thẩm bằng Hội đồng xét xử gồm 03 Thẩm phán hoặc toàn thể Ủy ban Thẩm phán Tòa án nhân dân cấp cao được thực hiện theo quy định của luật tố tụng."
+    },
+    {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Tòa chuyên trách Tòa án nhân dân cấp cao",
+        "text": "Tòa chuyên trách Tòa án nhân dân cấp cao phúc thẩm vụ việc mà bản án, quyết định của Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương thuộc phạm vi thẩm quyền theo lãnh thổ chưa có hiệu lực pháp luật bị kháng cáo, kháng nghị theo quy định của luật tố tụng."
     },
     {
         "id": "Điều 34.1",
@@ -1029,6 +1106,13 @@
         "text": "Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương có Chánh án, Phó Chánh án, Chánh tòa, Phó Chánh tòa, Thẩm phán, Thư ký Tòa án, Thẩm tra viên về thi hành án, công chức khác và người lao động."
     },
     {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của bộ máy giúp việc Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương",
+        "text": "Chánh án Tòa án nhân dân tối cao quyết định thành lập và quy định nhiệm vụ, quyền hạn của bộ máy giúp việc Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương. Mục 2 CHÁNH ÁN, PHÓ CHÁNH ÁN TÒA ÁN NHÂN DÂN HUYỆN, QUẬN, THỊ XÃ, THÀNH PHỐ THUỘC TỈNH VÀ TƯƠNG ĐƯƠNG"
+    },
+    {
         "id": "Điều 47.1",
         "article": "Điều 47",
         "clause": "1",
@@ -1083,6 +1167,13 @@
         "clause": "3",
         "title": "Phó Chánh án Tòa án nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh và tương đương",
         "text": "Thực hiện nhiệm vụ, quyền hạn theo quy định của luật tố tụng. Chương VI TÒA ÁN QUÂN SỰ Mục 1 NHIỆM VỤ, QUYỀN HẠN, CƠ CẤU TỔ CHỨC CỦA TÒA ÁN QUÂN SỰ"
+    },
+    {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Tòa án quân sự",
+        "text": "Các Tòa án quân sự được tổ chức trong Quân đội nhân dân Việt Nam để xét xử những vụ án mà bị cáo là quân nhân tại ngũ và những vụ án khác theo quy định của luật."
     },
     {
         "id": "Điều 50.1",
@@ -1202,6 +1293,13 @@
         "clause": "3",
         "title": "Ủy ban Thẩm phán Tòa án quân sự trung ương",
         "text": "Phiên họp của Ủy ban Thẩm phán Tòa án quân sự trung ương phải có ít nhất hai phần ba tổng số thành viên tham gia; quyết định của Ủy ban Thẩm phán Tòa án quân sự trung ương phải được quá nửa tổng số thành viên biểu quyết tán thành."
+    },
+    {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Việc tổ chức xét xử của Ủy ban Thẩm phán Tòa án quân sự Trung ương.",
+        "text": "Ủy ban Thẩm phán Tòa án quân sự trung ương tổ chức xét xử theo quy định tại Điều 32 của Luật này."
     },
     {
         "id": "Điều 54.1",
@@ -2023,6 +2121,13 @@
         "text": "Quy chế hoạt động của Hội đồng thi tuyển chọn Thẩm phán sơ cấp, Thẩm phán trung cấp, Thẩm phán cao cấp, Quy chế thi tuyển chọn Thẩm phán sơ cấp, Thẩm phán trung cấp, Thẩm phán cao cấp do Chánh án Tòa án nhân dân tối cao quy định."
     },
     {
+        "id": "Điều 74.0",
+        "article": "Điều 74",
+        "clause": "0",
+        "title": "Nhiệm kỳ của Thẩm phán",
+        "text": "Nhiệm kỳ đầu của các Thẩm phán là 05 năm; trường hợp được bổ nhiệm lại hoặc được bổ nhiệm vào ngạch Thẩm phán khác thì nhiệm kỳ tiếp theo là 10 năm."
+    },
+    {
         "id": "Điều 75.1",
         "article": "Điều 75",
         "clause": "1",
@@ -2814,6 +2919,13 @@
         "text": "Nhà nước ưu tiên đầu tư cơ sở vật chất, phát triển công nghệ thông tin cho Tòa án nhân dân."
     },
     {
+        "id": "Điều 97.0",
+        "article": "Điều 97",
+        "clause": "0",
+        "title": "Chế độ, chính sách đối với công chức khác, viên chức và người lao động của Tòa án nhân dân",
+        "text": "Công chức khác, viên chức và người lao động của Tòa án nhân dân được cấp trang phục và hưởng chế độ chính sách theo quy định của pháp luật. Chương XI ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
         "id": "Điều 98.1",
         "article": "Điều 98",
         "clause": "1",
@@ -2825,6 +2937,6 @@
         "article": "Điều 98",
         "clause": "2",
         "title": "Hiệu lực thi hành",
-        "text": "Luật này thay thế Luật tổ chức Tòa án nhân dân số 33/2002/QH10. Pháp lệnh Thẩm phán và Hội thẩm Tòa án nhân dân số 02/2002/PL-UBTVQH11, Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh Thẩm phán và Hội thẩm Tòa án nhân dân số 14/2011/PL-UBTVQH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Pháp lệnh tổ chức Tòa án quân sự số 04/2002/PL-UBTVQH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ các quy định tại các điều 3, 4, 5, khoản 1 Điều 26, khoản 2 Điều 29 tiếp tục có hiệu lực thi hành cho đến khi bị hủy bỏ. -----------------------------------------------------------------------------------------------------------------------"
+        "text": "Luật này thay thế Luật tổ chức Tòa án nhân dân số 33/2002/QH10. Pháp lệnh Thẩm phán và Hội thẩm Tòa án nhân dân số 02/2002/PL-UBTVQH11, Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh Thẩm phán và Hội thẩm Tòa án nhân dân số 14/2011/PL-UBTVQH12 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Pháp lệnh tổ chức Tòa án quân sự số 04/2002/PL-UBTVQH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ các quy định tại các điều 3, 4, 5, khoản 1 Điều 26, khoản 2 Điều 29 tiếp tục có hiệu lực thi hành cho đến khi bị hủy bỏ. ----------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 24 tháng 11 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

@@ -17,12 +17,24 @@
         {
             "id": "Điều 1",
             "title": "Mặt trận Tổ quốc Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Kế thừa vai trò lịch sử của Mặt trận Dân tộc thống nhất Việt Nam do Đảng Cộng sản Việt Nam và Chủ tịch Hồ Chí Minh sáng lập, lãnh đạo, Mặt trận Tổ quốc Việt Nam là tổ chức liên minh chính trị, liên hiệp tự nguyện của tổ chức chính trị, các tổ chức chính trị - xã hội, tổ chức xã hội và các cá nhân tiêu biểu trong các giai cấp, tầng lớp xã hội, dân tộc, tôn giáo, người Việt Nam định cư ở nước ngoài. Mặt trận Tổ quốc Việt Nam là cơ sở chính trị của chính quyền nhân dân; đại diện, bảo vệ quyền và lợi ích hợp pháp, chính đáng của Nhân dân; tập hợp, phát huy sức mạnh đại đoàn kết toàn dân tộc, thực hiện dân chủ, tăng cường đồng thuận xã hội; giám sát, phản biện xã hội; tham gia xây dựng Đảng, Nhà nước, hoạt động đối ngoại nhân dân góp phần xây dựng và bảo vệ Tổ quốc.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về quyền, trách nhiệm, tổ chức, hoạt động của Mặt trận Tổ quốc Việt Nam; quan hệ giữa Mặt trận Tổ quốc Việt Nam với Nhà nước, Nhân dân và các tổ chức; điều kiện bảo đảm hoạt động của Mặt trận Tổ quốc Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
@@ -118,7 +130,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan của Mặt trận Tổ quốc Việt Nam được tổ chức như sau:",
+                    "text": "Cơ quan của Mặt trận Tổ quốc Việt Nam được tổ chức như sau: Tổ chức, nhiệm vụ, quyền hạn các cơ quan của Mặt trận Tổ quốc Việt Nam do Điều lệ Mặt trận Tổ quốc Việt Nam quy định.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -213,17 +225,35 @@
         {
             "id": "Điều 10",
             "title": "Hoạt động đối ngoại nhân dân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Mặt trận Tổ quốc Việt Nam thực hiện và mở rộng hoạt động đối ngoại nhân dân, góp phần tăng cường tình hữu nghị, đoàn kết với các quốc gia, dân tộc, vì hoà bình, hợp tác và phát triển.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 11",
             "title": "Ngày truyền thống và Ngày hội đại đoàn kết toàn dân tộc",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngày 18 tháng 11 hằng năm là Ngày truyền thống của Mặt trận Tổ quốc Việt Nam và là Ngày hội đại đoàn kết toàn dân tộc. CHƯƠNG II TẬP HỢP, XÂY DỰNG KHỐI ĐẠI ĐOÀN KẾT TOÀN DÂN TỘC",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 12",
             "title": "Nguyên tắc tập hợp, xây dựng khối đại đoàn kết toàn dân tộc",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Mặt trận Tổ quốc Việt Nam phát triển đa dạng các hình thức tổ chức, hoạt động để tập hợp, đoàn kết mọi người Việt Nam ở trong nước và ở nước ngoài, không phân biệt thành phần giai cấp, tầng lớp xã hội, dân tộc, tín ngưỡng, tôn giáo, quá khứ nhằm động viên mọi nguồn lực góp phần xây dựng và bảo vệ Tổ quốc.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 13",
@@ -289,7 +319,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban Mặt trận Tổ quốc Việt Nam phối hợp và thống nhất hành động giữa các thành viên của Mặt trận Tổ quốc Việt Nam xây dựng khối đại đoàn kết toàn dân tộc thông qua các hoạt động sau đây:",
+                    "text": "Ủy ban Mặt trận Tổ quốc Việt Nam phối hợp và thống nhất hành động giữa các thành viên của Mặt trận Tổ quốc Việt Nam xây dựng khối đại đoàn kết toàn dân tộc thông qua các hoạt động sau đây: CHƯƠNG III ĐẠI DIỆN, BẢO VỆ QUYỀN VÀ LỢI ÍCH HỢP PHÁP, CHÍNH ĐÁNG CỦA NHÂN DÂN",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -363,6 +393,11 @@
             "title": "Tuyên truyền, vận động Nhân dân thực hiện quyền làm chủ, thực hiện chính sách, pháp luật",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Mặt trận Tổ quốc Việt Nam tuyên truyền, vận động Nhân dân thực hiện quyền làm chủ, thực hiện chính sách, pháp luật với các nội dung sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tuyên truyền, vận động Nhân dân thực hiện đường lối, chủ trương của Đảng, chính sách, pháp luật của Nhà nước;",
                     "sub_clauses": []
@@ -395,7 +430,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban Mặt trận Tổ quốc Việt Nam từ cấp huyện trở lên có quyền cử bào chữa viên nhân dân để bào chữa cho người bị buộc tội là thành viên của tổ chức mình.",
+                    "text": "Ủy ban Mặt trận Tổ quốc Việt Nam từ cấp huyện trở lên có quyền cử bào chữa viên nhân dân để bào chữa cho người bị buộc tội là thành viên của tổ chức mình. CHƯƠNG IV THAM GIA XÂY DỰNG NHÀ NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -403,7 +438,13 @@
         {
             "id": "Điều 19",
             "title": "Tham gia công tác bầu cử",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Mặt trận Tổ quốc Việt Nam theo quy định của pháp luật tổ chức hiệp thương, lựa chọn, giới thiệu người ứng cử đại biểu Quốc hội, đại biểu Hội đồng nhân dân; tham gia các tổ chức phụ trách bầu cử; phối hợp với cơ quan nhà nước hữu quan tổ chức hội nghị cử tri ở cấp xã, các cuộc tiếp xúc giữa cử tri với người ứng cử; tham gia tuyên truyền, vận động cử tri thực hiện pháp luật về bầu cử.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 20",
@@ -448,7 +489,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam tham dự các kỳ họp Quốc hội; được mời tham dự các phiên họp của Ủy ban thường vụ Quốc hội, Chính phủ khi bàn các vấn đề có liên quan đến quyền và trách nhiệm của Mặt trận Tổ quốc Việt Nam.",
+                    "text": "Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam tham dự các kỳ họp Quốc hội; được mời tham dự các phiên họp của Ủy ban thường vụ Quốc hội, Chính phủ khi bàn các vấn đề có liên quan đến quyền và trách nhiệm của Mặt trận Tổ quốc Việt Nam. Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam ở địa phương tham dự các kỳ họp Hội đồng nhân dân; được mời tham dự các phiên họp Ủy ban nhân dân cùng cấp khi bàn các vấn đề có liên quan đến quyền và trách nhiệm của Mặt trận Tổ quốc Việt Nam.",
                     "sub_clauses": []
                 },
                 {
@@ -498,7 +539,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan, tổ chức, cá nhân có thẩm quyền có trách nhiệm tạo điều kiện để Mặt trận Tổ quốc Việt Nam tham gia góp ý, kiến nghị; tiếp thu và phản hồi góp ý, kiến nghị của Mặt trận Tổ quốc Việt Nam theo quy định của pháp luật.",
+                    "text": "Cơ quan, tổ chức, cá nhân có thẩm quyền có trách nhiệm tạo điều kiện để Mặt trận Tổ quốc Việt Nam tham gia góp ý, kiến nghị; tiếp thu và phản hồi góp ý, kiến nghị của Mặt trận Tổ quốc Việt Nam theo quy định của pháp luật. CHƯƠNG V HOẠT ĐỘNG GIÁM SÁT",
                     "sub_clauses": []
                 }
             ]
@@ -540,7 +581,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ủy ban Mặt trận Tổ quốc Việt Nam chủ trì giám sát đối với đối tượng, nội dung quy định tại khoản 1 và khoản 2 Điều này.",
+                    "text": "Ủy ban Mặt trận Tổ quốc Việt Nam chủ trì giám sát đối với đối tượng, nội dung quy định tại khoản 1 và khoản 2 Điều này. Theo đề nghị của Ủy ban Mặt trận Tổ quốc Việt Nam hoặc quy định của pháp luật, các tổ chức chính trị - xã hội chủ trì giám sát đối với đối tượng, nội dung quy định tại khoản 1 và khoản 2 Điều này có liên quan trực tiếp đến quyền và lợi ích hợp pháp, chính đáng của đoàn viên, hội viên, quyền và trách nhiệm của tổ chức mình. Các tổ chức thành viên khác của Mặt trận Tổ quốc Việt Nam phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp thực hiện giám sát đối với đối tượng, nội dung quy định tại khoản 1 và khoản 2 Điều này có liên quan trực tiếp đến quyền và lợi ích hợp pháp, chính đáng của đoàn viên, hội viên, quyền và trách nhiệm của tổ chức mình.",
                     "sub_clauses": []
                 }
             ]
@@ -695,7 +736,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ủy ban Mặt trận Tổ quốc Việt Nam các cấp có trách nhiệm tập hợp, tổng hợp đầy đủ, kịp thời ý kiến, kiến nghị của cử tri và Nhân dân liên quan đến người được lấy phiếu tín nhiệm gửi đến Quốc hội, Hội đồng nhân dân trước kỳ họp.",
+                    "text": "Ủy ban Mặt trận Tổ quốc Việt Nam các cấp có trách nhiệm tập hợp, tổng hợp đầy đủ, kịp thời ý kiến, kiến nghị của cử tri và Nhân dân liên quan đến người được lấy phiếu tín nhiệm gửi đến Quốc hội, Hội đồng nhân dân trước kỳ họp. CHƯƠNG VI HOẠT ĐỘNG PHẢN BIỆN XÃ HỘI",
                     "sub_clauses": []
                 }
             ]
@@ -737,7 +778,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ủy ban Mặt trận Tổ quốc Việt Nam chủ trì phản biện xã hội đối với đối tượng, nội dung quy định tại khoản 1 và khoản 2 Điều này.",
+                    "text": "Ủy ban Mặt trận Tổ quốc Việt Nam chủ trì phản biện xã hội đối với đối tượng, nội dung quy định tại khoản 1 và khoản 2 Điều này. Theo đề nghị của Ủy ban Mặt trận Tổ quốc Việt Nam hoặc quy định của pháp luật, các tổ chức chính trị - xã hội chủ trì phản biện xã hội đối với đối tượng, nội dung quy định tại khoản 1 và khoản 2 Điều này có liên quan trực tiếp đến quyền và lợi ích hợp pháp, chính đáng của đoàn viên, hội viên, quyền và trách nhiệm của tổ chức mình. Các tổ chức thành viên khác phối hợp với Ủy ban Mặt trận Tổ quốc Việt Nam thực hiện phản biện xã hội đối với đối tượng, nội dung quy định tại khoản 1 và khoản 2 Điều này có liên quan trực tiếp đến quyền và lợi ích hợp pháp, chính đáng của đoàn viên, hội viên, quyền và trách nhiệm của tổ chức mình.",
                     "sub_clauses": []
                 }
             ]
@@ -815,7 +856,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trả lời bằng văn bản đối với kiến nghị của Mặt trận Tổ quốc Việt Nam, trường hợp không tiếp thu kiến nghị thì phải giải trình; báo cáo ý kiến phản biện xã hội của Mặt trận Tổ quốc Việt Nam với cơ quan, tổ chức có thẩm quyền ban hành văn bản.",
+                    "text": "Trả lời bằng văn bản đối với kiến nghị của Mặt trận Tổ quốc Việt Nam, trường hợp không tiếp thu kiến nghị thì phải giải trình; báo cáo ý kiến phản biện xã hội của Mặt trận Tổ quốc Việt Nam với cơ quan, tổ chức có thẩm quyền ban hành văn bản. CHƯƠNG VII ĐIỀU KIỆN BẢO ĐẢM HOẠT ĐỘNG CỦA MẶT TRẬN TỔ QUỐC VIỆT NAM",
                     "sub_clauses": []
                 }
             ]
@@ -878,7 +919,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tuyên truyền, vận động cán bộ, công chức, viên chức, người lao động thực hiện chính sách đại đoàn kết toàn dân tộc; hưởng ứng các cuộc vận động, phong trào thi đua yêu nước do Mặt trận Tổ quốc Việt Nam phát động, tổ chức.",
+                    "text": "Tuyên truyền, vận động cán bộ, công chức, viên chức, người lao động thực hiện chính sách đại đoàn kết toàn dân tộc; hưởng ứng các cuộc vận động, phong trào thi đua yêu nước do Mặt trận Tổ quốc Việt Nam phát động, tổ chức. CHƯƠNG VIII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -902,8 +943,19 @@
         {
             "id": "Điều 41",
             "title": "Quy định chi tiết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban thường vụ Quốc hội, Chính phủ phối hợp với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam quy định chi tiết các điều, khoản được giao trong Luật. --------------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 09 tháng 6 năm 2015. CHỦ TỊCH CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 09 tháng 6 năm 2015.",
+        "CHỦ TỊCH CHỦ TỊCH QUỐC HỘI",
+        "(Đã ký)",
+        "Nguyễn Sinh Hùng"
+    ]
 }

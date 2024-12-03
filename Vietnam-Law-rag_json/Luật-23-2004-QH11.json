@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động giao thông đường thủy nội địa; các điều kiện bảo đảm an toàn giao thông đường thuỷ nội địa đối với kết cấu hạ tầng, phương tiện và người tham gia giao thông, vận tải đường thuỷ nội địa."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, cá nhân liên quan đến hoạt động giao thông đường thuỷ nội địa. Trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc gia nhập có quy định khác với Luật này thì áp dụng quy định của điều ước quốc tế đó."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -462,6 +483,13 @@
         "text": "Cơ quan có thẩm quyền phê duyệt quy hoạch phát triển kết cấu hạ tầng giao thông đường thuỷ nội địa có trách nhiệm công bố quy hoạch và quyết định việc điều chỉnh quy hoạch."
     },
     {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Xây dựng mới, cải tạo, nâng cấp kết cấu hạ tầng giao thông đường thuỷ nội địa",
+        "text": "Việc xây dựng mới, cải tạo, nâng cấp kết cấu hạ tầng giao thông đường thuỷ nội địa phải tuân theo quy hoạch, bảo đảm tiêu chuẩn kỹ thuật, điều kiện an toàn giao thông cho mọi đối tượng tham gia giao thông và tuân theo quy định của pháp luật về đầu tư, xây dựng, đê điều và phòng, chống lụt, bão."
+    },
+    {
         "id": "Điều 12.1",
         "article": "Điều 12",
         "clause": "1",
@@ -819,6 +847,13 @@
         "text": "Bộ trưởng Bộ Giao thông vận tải quy định thẩm quyền công bố và các biện pháp bảo đảm giao thông trong các trường hợp quy định tại khoản 1 Điều này."
     },
     {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Quản lý, bảo trì đường thuỷ nội địa",
+        "text": "Nội dung quản lý, bảo trì đường thuỷ nội địa bao gồm:"
+    },
+    {
         "id": "Điều 22.1",
         "article": "Điều 22",
         "clause": "1",
@@ -1048,6 +1083,13 @@
         "clause": "2",
         "title": "Cơ sở đóng mới, hoán cải, sửa chữa phục hồi phương tiện",
         "text": "Khi đóng mới, hoán cải, sửa chữa phục hồi phương tiện thuộc diện đăng kiểm phải tuân theo tiêu chuẩn chất lượng, an toàn kỹ thuật và phù hợp với hồ sơ thiết kế đã được cơ quan đăng kiểm duyệt. Trong quá trình thi công phải chịu sự kiểm tra, giám sát của cơ quan đăng kiểm về tiêu chuẩn chất lượng, an toàn kỹ thuật và bảo vệ môi trường."
+    },
+    {
+        "id": "Điều 28.0",
+        "article": "Điều 28",
+        "clause": "0",
+        "title": "Nhập khẩu phương tiện",
+        "text": "Phương tiện nhập khẩu phải bảo đảm chất lượng, an toàn kỹ thuật và bảo vệ môi trường; việc nhập khẩu phương tiện phải thực hiện theo quy định của pháp luật. Chương 4 THUYỀN VIÊN VÀ NGƯỜI LÁI PHƯƠNG TIỆN"
     },
     {
         "id": "Điều 29.1",
@@ -1540,6 +1582,13 @@
         "text": "Khi tránh nhau, phương tiện được nhường đường phải chủ động phát tín hiệu điều động theo quy định tại Điều 46 của Luật này và đi về phía luồng đã báo, phương tiện kia phải tránh và nhường đường."
     },
     {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Phương tiện tránh nhau khi đi cắt hướng nhau",
+        "text": "Khi hai phương tiện đi cắt hướng nhau có nguy cơ va chạm, thuyền trưởng, người lái phương tiện phải giảm tốc độ, tránh và nhường đường theo nguyên tắc sau đây:"
+    },
+    {
         "id": "Điều 40.1",
         "article": "Điều 40",
         "clause": "1",
@@ -1848,6 +1897,13 @@
         "text": "Ba chớp đèn là tín hiệu chạy lùi."
     },
     {
+        "id": "Điều 47.0",
+        "article": "Điều 47",
+        "clause": "0",
+        "title": "Âm hiệu thông báo",
+        "text": "Thuyền trưởng, người lái phương tiện thông báo tình trạng hoạt động của phương tiện mà mình đang điều khiển bằng âm hiệu như sau:"
+    },
+    {
         "id": "Điều 47.1",
         "article": "Điều 47",
         "clause": "1",
@@ -1911,6 +1967,13 @@
         "text": "Hai tiếng dài, hai tiếng ngắn là tín hiệu phương tiện mất chủ động."
     },
     {
+        "id": "Điều 48.0",
+        "article": "Điều 48",
+        "clause": "0",
+        "title": "Âm hiệu khi tầm nhìn bị hạn chế",
+        "text": "Khi có sương mù, mưa to hoặc vì lý do khác mà tầm nhìn bị hạn chế, phương tiện phải phát âm hiệu như sau:"
+    },
+    {
         "id": "Điều 48.1",
         "article": "Điều 48",
         "clause": "1",
@@ -1923,6 +1986,13 @@
         "clause": "2",
         "title": "Âm hiệu khi tầm nhìn bị hạn chế",
         "text": "Cách hai phút phát hai tiếng dài là tín hiệu phương tiện đã dừng lại."
+    },
+    {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Phân loại phương tiện để bố trí tín hiệu",
+        "text": "Các phương tiện được chia ra 6 loại để bố trí tín hiệu như sau:"
     },
     {
         "id": "Điều 49.1",
@@ -2261,6 +2331,13 @@
         "text": "Đối với phương tiện bị lai thì áp dụng tín hiệu tương ứng quy định tại khoản 3 Điều 51, khoản 3 Điều 52 và khoản 3 Điều 53 của Luật này."
     },
     {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Tín hiệu trên phương tiện mất chủ động",
+        "text": "Khi phương tiện không còn hoạt động theo sự điều khiển của thuyền trưởng, người lái phương tiện thì phải phát âm hiệu theo quy định tại khoản 9 Điều 47 của Luật này, đồng thời phải bố trí tín hiệu theo quy định sau đây:"
+    },
+    {
         "id": "Điều 55.1",
         "article": "Điều 55",
         "clause": "1",
@@ -2436,6 +2513,13 @@
         "text": "Ban ngày, trên cột đèn treo cờ hiệu \"Cờ chữ N\" phía trên cờ hiệu \"Cờ chữ C\" và phát âm hiệu theo quy định tại khoản 1 Điều này."
     },
     {
+        "id": "Điều 65.0",
+        "article": "Điều 65",
+        "clause": "0",
+        "title": "Tín hiệu báo trạm kiểm soát, phương tiện tuần tra, kiểm soát giao thông",
+        "text": "Cảnh sát giao thông đường thuỷ bố trí tín hiệu báo trạm kiểm soát, phương tiện tuần tra, kiểm soát giao thông như sau:"
+    },
+    {
         "id": "Điều 65.1",
         "article": "Điều 65",
         "clause": "1",
@@ -2478,6 +2562,13 @@
         "text": "Ban ngày, ở vị trí cao nhất trên cột đèn treo cờ hiệu \"Cờ chữ K\"."
     },
     {
+        "id": "Điều 66.0",
+        "article": "Điều 66",
+        "clause": "0",
+        "title": "Tín hiệu gọi phương tiện để kiểm soát giao thông",
+        "text": "Ngoài tín hiệu quy định tại Điều 65 của Luật này, Cảnh sát giao thông đường thuỷ khi gọi phương tiện để kiểm soát phải phát tín hiệu như sau:"
+    },
+    {
         "id": "Điều 66.1",
         "article": "Điều 66",
         "clause": "1",
@@ -2497,6 +2588,13 @@
         "clause": "3",
         "title": "Tín hiệu gọi phương tiện để kiểm soát giao thông",
         "text": "Phương tiện nhận được tín hiệu quy định tại khoản 1 hoặc khoản 2 Điều này phải chấp hành việc kiểm soát theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 67.0",
+        "article": "Điều 67",
+        "clause": "0",
+        "title": "Tín hiệu trên phương tiện làm nhiệm vụ đặc biệt",
+        "text": "Ngoài đèn hiệu quy định tại Điều 50 của Luật này, phương tiện khi làm nhiệm vụ đặc biệt phải sử dụng đồng thời âm hiệu, đèn hiệu, cờ hiệu theo quy định sau đây:"
     },
     {
         "id": "Điều 67.1",
@@ -2786,6 +2884,13 @@
         "text": "Thuyền trưởng có trách nhiệm trả phí hoa tiêu theo quy định của pháp luật."
     },
     {
+        "id": "Điều 76.0",
+        "article": "Điều 76",
+        "clause": "0",
+        "title": "Trách nhiệm của chủ phương tiện và hoa tiêu khi có tổn thất",
+        "text": "Khi xảy ra tổn thất do lỗi của hoa tiêu gây ra, chủ phương tiện phải chịu trách nhiệm bồi thường tổn thất như đối với tổn thất do lỗi của thuyền viên gây ra; hoa tiêu được miễn bồi thường thiệt hại vật chất nhưng phải chịu trách nhiệm hành chính hoặc hình sự theo quy định của pháp luật. Chương 7: VẬN TẢI ĐƯỜNG THUỶ NỘI ĐỊA"
+    },
+    {
         "id": "Điều 77.1",
         "article": "Điều 77",
         "clause": "1",
@@ -2959,6 +3064,13 @@
         "clause": "3",
         "title": "Vận tải hành khách ngang sông",
         "text": "Hành khách phải tuyệt đối tuân theo sự hướng dẫn của thuyền trưởng, người lái phương tiện."
+    },
+    {
+        "id": "Điều 80.0",
+        "article": "Điều 80",
+        "clause": "0",
+        "title": "Vận tải bằng phương tiện nhỏ",
+        "text": "Phương tiện không có động cơ trọng tải toàn phần dưới 5 tấn, phương tiện có động cơ công suất máy chính dưới 5 mã lực, phương tiện không có động cơ có sức chở đến 12 người, khi chở người phải có đủ chỗ ngồi ổn định, an toàn và có đủ dụng cụ cứu sinh tương ứng với số người trên phương tiện; khi chở hàng hoá không được chở quá trọng tải quy định, không được xếp hàng hoá che khuất tầm nhìn của người lái phương tiện, không gây mất ổn định và không làm ảnh hưởng đến việc điều khiển phương tiện."
     },
     {
         "id": "Điều 81.1",
@@ -3507,6 +3619,13 @@
         "text": "Chính phủ quy định danh mục hàng hoá nguy hiểm và việc vận tải hàng hoá nguy hiểm trên đường thuỷ nội địa."
     },
     {
+        "id": "Điều 96.0",
+        "article": "Điều 96",
+        "clause": "0",
+        "title": "Vận tải hàng hoá siêu trường, siêu trọng",
+        "text": "Việc vận tải hàng hoá siêu trường, siêu trọng phải sử dụng loại phương tiện phù hợp với loại hàng hoá và phải có phương án bảo đảm an toàn trong quá trình vận tải được cơ quan nhà nước có thẩm quyền phê duyệt."
+    },
+    {
         "id": "Điều 97.1",
         "article": "Điều 97",
         "clause": "1",
@@ -3631,5 +3750,19 @@
         "clause": "2",
         "title": "Thanh tra giao thông đường thuỷ nội địa",
         "text": "Tổ chức và hoạt động của thanh tra giao thông đường thuỷ nội địa theo quy định của pháp luật về thanh tra. Chương 9: ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 102.0",
+        "article": "Điều 102",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2005."
+    },
+    {
+        "id": "Điều 103.0",
+        "article": "Điều 103",
+        "clause": "0",
+        "title": "Hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam Khoá XI, kỳ họp thứ 5 thông qua ngày 15 tháng 6 năm 2004. Nguyễn Văn An (Đã ký)"
     }
 ]

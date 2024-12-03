@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức, cá nhân và quản lý nhà nước trong hoạt động đầu tư xây dựng."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân trong nước; tổ chức, cá nhân nước ngoài hoạt động đầu tư xây dựng trên lãnh thổ Việt Nam. Trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -1006,6 +1027,13 @@
         "clause": "2",
         "title": "Kinh phí cho công tác lập quy hoạch xây dựng",
         "text": "Nhà nước khuyến khích tổ chức, cá nhân trong nước và tổ chức, cá nhân nước ngoài tài trợ kinh phí để lập quy hoạch xây dựng."
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Trình tự lập, phê duyệt quy hoạch xây dựng",
+        "text": "Quy hoạch xây dựng được thể hiện thông qua đồ án quy hoạch xây dựng và được thực hiện theo trình tự sau:"
     },
     {
         "id": "Điều 20.1",
@@ -2513,6 +2541,13 @@
         "text": "Căn cứ điều kiện cụ thể của dự án, người quyết định đầu tư quyết định việc thực hiện tuần tự hoặc kết hợp, xen kẽ các công việc trong giai đoạn thực hiện dự án và kết thúc xây dựng đưa công trình vào khai thác sử dụng."
     },
     {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Yêu cầu đối với dự án đầu tư xây dựng",
+        "text": "Dự án đầu tư xây dựng không phân biệt các loại nguồn vốn sử dụng phải đáp ứng các yêu cầu sau:"
+    },
+    {
         "id": "Điều 51.1",
         "article": "Điều 51",
         "clause": "1",
@@ -3038,6 +3073,13 @@
         "text": "Điều kiện năng lực hoạt động xây dựng của tổ chức, cá nhân thực hiện khảo sát, thiết kế xây dựng, lập Báo cáo kinh tế - kỹ thuật đầu tư xây dựng."
     },
     {
+        "id": "Điều 59.0",
+        "article": "Điều 59",
+        "clause": "0",
+        "title": "Thời gian thẩm định dự án đầu tư xây dựng",
+        "text": "Thời gian thẩm định dự án được tính từ ngày cơ quan, tổ chức thẩm định nhận đủ hồ sơ hợp lệ, cụ thể như sau:"
+    },
+    {
         "id": "Điều 59.1",
         "article": "Điều 59",
         "clause": "1",
@@ -3176,6 +3218,13 @@
         "clause": "6",
         "title": "Điều chỉnh dự án đầu tư xây dựng",
         "text": "Chính phủ quy định chi tiết về lập, thẩm định, phê duyệt, điều chỉnh dự án đầu tư xây dựng. Mục 3 QUẢN LÝ THỰC HIỆN DỰ ÁN ĐẦU TƯ XÂY DỰNG"
+    },
+    {
+        "id": "Điều 62.0",
+        "article": "Điều 62",
+        "clause": "0",
+        "title": "Hình thức tổ chức quản lý dự án đầu tư xây dựng",
+        "text": "Căn cứ quy mô, tính chất, nguồn vốn sử dụng và điều kiện thực hiện dự án, người quyết định đầu tư quyết định áp dụng một trong các hình thức tổ chức quản lý dự án sau:"
     },
     {
         "id": "Điều 62.1",
@@ -5967,133 +6016,133 @@
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.1",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "1",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Chủ đầu tư có các quyền sau:"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.1a",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "1a",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Tự thực hiện thi công xây dựng công trình khi có đủ năng lực hoạt động thi công xây dựng công trình phù hợp hoặc lựa chọn nhà thầu thi công xây dựng;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.1b",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "1b",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Đàm phán, ký kết hợp đồng thi công xây dựng; giám sát và yêu cầu nhà thầu thi công xây dựng thực hiện đúng hợp đồng đã ký kết;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.1c",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "1c",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Đình chỉ thực hiện hoặc chấm dứt hợp đồng với nhà thầu thi công xây dựng theo quy định của pháp luật và của hợp đồng xây dựng;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.1d",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "1d",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Dừng thi công xây dựng công trình, yêu cầu nhà thầu thi công xây dựng khắc phục hậu quả khi vi phạm các quy định về chất lượng công trình, an toàn và bảo vệ môi trường;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.1đ",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "1đ",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Yêu cầu tổ chức, cá nhân có liên quan phối hợp để thực hiện các công việc trong quá trình thi công xây dựng công trình;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.1e",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "1e",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Các quyền khác theo quy định của pháp luật."
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.2",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "2",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Chủ đầu tư có các nghĩa vụ sau:"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.2a",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "2a",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Lựa chọn nhà thầu có đủ điều kiện năng lực hoạt động thi công xây dựng phù hợp với loại, cấp công trình và công việc thi công xây dựng;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.2b",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "2b",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Phối hợp, tham gia với Ủy ban nhân dân các cấp thực hiện việc bồi thường thiệt hại, giải phóng mặt bằng xây dựng để bàn giao cho nhà thầu thi công xây dựng;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.2c",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "2c",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Tổ chức giám sát và quản lý chất lượng trong thi công xây dựng phù hợp với hình thức quản lý dự án, hợp đồng xây dựng;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.2d",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "2d",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Kiểm tra biện pháp thi công, biện pháp bảo đảm an toàn, vệ sinh môi trường;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.2đ",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "2đ",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Tổ chức nghiệm thu, thanh toán, quyết toán công trình;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.2e",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "2e",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Thuê tổ chức tư vấn có đủ năng lực hoạt động xây dựng để kiểm định chất lượng công trình khi cần thiết;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.2g",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "2g",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Xem xét, quyết định các đề xuất liên quan đến thiết kế của nhà thầu trong quá trình thi công xây dựng;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.2h",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "2h",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Lưu trữ hồ sơ xây dựng công trình;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.2i",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "2i",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Chịu trách nhiệm về chất lượng, nguồn gốc của vật tư, nguyên liệu, vật liệu, thiết bị, sản phẩm xây dựng do mình cung cấp sử dụng vào công trình;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.2k",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "2k",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Bồi thường thiệt hại do vi phạm hợp đồng và hành vi vi phạm khác do mình gây ra;"
     },
     {
         "id": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình.2l",
         "article": "Điều 112.Quyền và nghĩa vụ của chủ đầu tư trong việc thi công xây dựng công trình",
         "clause": "2l",
-        "title": "",
+        "title": "Không có tiêu đề",
         "text": "Các nghĩa vụ khác theo quy định của pháp luật."
     },
     {
@@ -6347,6 +6396,13 @@
         "clause": "3",
         "title": "An toàn trong thi công xây dựng công trình",
         "text": "Nhà thầu thi công xây dựng phải đề xuất, thực hiện các biện pháp bảo đảm an toàn cho người, máy, thiết bị, tài sản, công trình đang xây dựng, công trình ngầm và các công trình liền kề; máy, thiết bị, vật tư phục vụ thi công có yêu cầu nghiêm ngặt về an toàn lao động phải được kiểm định về an toàn trước khi đưa vào sử dụng."
+    },
+    {
+        "id": "Điều 116.0",
+        "article": "Điều 116",
+        "clause": "0",
+        "title": "Bảo vệ môi trường trong thi công xây dựng công trình",
+        "text": "Trong quá trình thi công xây dựng công trình, nhà thầu thi công xây dựng có trách nhiệm:"
     },
     {
         "id": "Điều 116.1",
@@ -8344,6 +8400,13 @@
         "text": "Có thiết bị thi công đáp ứng yêu cầu về an toàn và chất lượng xây dựng công trình."
     },
     {
+        "id": "Điều 158.0",
+        "article": "Điều 158",
+        "clause": "0",
+        "title": "Điều kiện của cá nhân hành nghề độc lập",
+        "text": "Cá nhân hành nghề độc lập thiết kế quy hoạch xây dựng, khảo sát xây dựng, thiết kế xây dựng công trình, giám sát khảo sát xây dựng, giám sát thi công xây dựng công trình, định giá xây dựng phải đáp ứng các điều kiện sau:"
+    },
+    {
         "id": "Điều 158.1",
         "article": "Điều 158",
         "clause": "1",
@@ -8482,6 +8545,13 @@
         "clause": "2",
         "title": "Trách nhiệm của Chính phủ",
         "text": "Chỉ đạo các bộ, ngành, địa phương thực hiện pháp luật về xây dựng; phân công, phân cấp quản lý nhà nước cho các bộ, ngành, địa phương; chỉ đạo giải quyết những vấn đề quan trọng, phức tạp vướng mắc trong quá trình quản lý hoạt động đầu tư xây dựng."
+    },
+    {
+        "id": "Điều 162.0",
+        "article": "Điều 162",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Xây dựng",
+        "text": "Bộ Xây dựng chịu trách nhiệm trước Chính phủ thực hiện thống nhất quản lý nhà nước trong hoạt động đầu tư xây dựng và có trách nhiệm sau:"
     },
     {
         "id": "Điều 162.1",
@@ -8818,5 +8888,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Luật xây dựng số 16/2003/QH11 và Điều 1 của Luật sửa đổi, bổ sung một số điều của các luật liên quan đến đầu tư xây dựng cơ bản số 38/2009/QH12 hết liệu lực thi hành kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 168.0",
+        "article": "Điều 168",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 7 thông qua ngày 18 tháng 6 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

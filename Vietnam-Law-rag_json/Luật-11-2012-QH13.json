@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quyền và nghĩa vụ của tổ chức, cá nhân trong lĩnh vực giá; hoạt động quản lý, điều tiết giá của Nhà nước."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Tổ chức, cá nhân sản xuất, kinh doanh; người tiêu dùng; cơ quan nhà nước; tổ chức, cá nhân khác liên quan đến hoạt động trong lĩnh vực giá trên lãnh thổ Việt Nam."
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -12,6 +26,13 @@
         "clause": "2",
         "title": "Áp dụng luật",
         "text": "Trường hợp điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 4.1",
@@ -866,6 +887,13 @@
         "clause": "2",
         "title": "Trường hợp thực hiện bình ổn giá",
         "text": "Chính phủ quy định chi tiết Điều này."
+    },
+    {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Biện pháp bình ổn giá",
+        "text": "Áp dụng có thời hạn một hoặc một số biện pháp sau để thực hiện bình ổn giá phù hợp với các trường hợp được quy định tại Điều 16 của Luật này:"
     },
     {
         "id": "Điều 17.1",
@@ -2142,6 +2170,13 @@
         "text": "Chính phủ quy định hình thức, phạm vi cung cấp dịch vụ thẩm định giá của tổ chức thẩm định giá nước ngoài tại Việt Nam. Mục 4 THẨM ĐỊNH GIÁ CỦA NHÀ NƯỚC"
     },
     {
+        "id": "Điều 44.0",
+        "article": "Điều 44",
+        "clause": "0",
+        "title": "Phạm vi hoạt động thẩm định giá của Nhà nước",
+        "text": "Hoạt động thẩm định giá của Nhà nước do cơ quan nhà nước có thẩm quyền thực hiện trong các trường hợp sau:"
+    },
+    {
         "id": "Điều 44.1",
         "article": "Điều 44",
         "clause": "1",
@@ -2182,5 +2217,26 @@
         "clause": "2",
         "title": "Phương thức hoạt động thẩm định giá của Nhà nước",
         "text": "Hội đồng thẩm định giá có trách nhiệm thẩm định giá theo quy định của Luật này, quy định khác của pháp luật có liên quan và chịu trách nhiệm về tính chính xác, trung thực của kết quả thẩm định giá."
+    },
+    {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Trình tự, thủ tục thẩm định giá của Nhà nước",
+        "text": "Chính phủ quy định chi tiết về trình tự, thủ tục thẩm định giá của Nhà nước. CHƯƠNG V ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 47.0",
+        "article": "Điều 47",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2013. Pháp lệnh giá số 40/2002/PL-UBTVQH10 hết hiệu lực từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 48.0",
+        "article": "Điều 48",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 3 thông qua ngày 20 tháng 6 năm 2012. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

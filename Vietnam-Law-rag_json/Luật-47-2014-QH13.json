@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định nguyên tắc, điều kiện, trình tự, thủ tục, quyền và nghĩa vụ của người nước ngoài nhập cảnh, xuất cảnh, quá cảnh, cư trú tại Việt Nam; quyền và trách nhiệm của cơ quan quản lý nhà nước Việt Nam, của cơ quan, tổ chức, cá nhân trong hoạt động nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với người nước ngoài nhập cảnh, xuất cảnh, quá cảnh, cư trú tại Việt Nam, cơ quan quản lý nhà nước Việt Nam, cơ quan, tổ chức, cá nhân Việt Nam và nước ngoài có liên quan."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, những từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -187,6 +208,13 @@
         "clause": "6",
         "title": "Các hành vi bị nghiêm cấm",
         "text": "Mua, bán, thuê, cho thuê, mượn, cho mượn, tẩy, xóa, sửa chữa nội dung giấy tờ có giá trị nhập cảnh, xuất cảnh, cư trú để người nước ngoài nhập cảnh, xuất cảnh, quá cảnh, cư trú tại Việt Nam."
+    },
+    {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Thu hồi, huỷ bỏ giấy tờ có giá trị nhập cảnh, xuất cảnh, cư trú do cơ quan có thẩm quyền của Việt Nam cấp",
+        "text": "Người nước ngoài có hành vi vi phạm quy định tại các khoản 3, 4, 5 và 6 Điều 5; khoản 3 Điều 21; điểm b khoản 2 Điều 44 của Luật này thì bị thu hồi, hủy bỏ giấy tờ có giá trị nhập cảnh, xuất cảnh, cư trú tại Việt Nam. CHƯƠNG II THỊ THỰC"
     },
     {
         "id": "Điều 7.1",
@@ -875,6 +903,13 @@
         "text": "Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan quản lý xuất nhập cảnh hoặc cơ quan có thẩm quyền của Bộ Ngoại giao xem xét cấp thị thực. CHƯƠNG III NHẬP CẢNH"
     },
     {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Điều kiện nhập cảnh",
+        "text": "Người nước ngoài được nhập cảnh khi có đủ các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 20.1",
         "article": "Điều 20",
         "clause": "1",
@@ -987,6 +1022,13 @@
         "text": "Người có thẩm quyền ra quyết định chưa cho nhập cảnh có thẩm quyền giải tỏa chưa cho nhập cảnh và chịu trách nhiệm trước pháp luật về quyết định của mình. CHƯƠNG IV QUÁ CẢNH"
     },
     {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Điều kiện quá cảnh",
+        "text": "Người nước ngoài được quá cảnh khi có đủ các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 23.1",
         "article": "Điều 23",
         "clause": "1",
@@ -1034,6 +1076,20 @@
         "clause": "2",
         "title": "Quá cảnh đường hàng không",
         "text": "Trong thời gian quá cảnh, người nước ngoài có nhu cầu vào Việt Nam tham quan, du lịch theo chương trình do doanh nghiệp lữ hành quốc tế tại Việt Nam tổ chức thì được xét cấp thị thực phù hợp với thời gian quá cảnh."
+    },
+    {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Quá cảnh đường biển",
+        "text": "Người nước ngoài quá cảnh đường biển được miễn thị thực và phải ở khu vực quá cảnh tại cửa khẩu cảng biển trong thời gian tàu, thuyền neo đậu; trường hợp có nhu cầu vào nội địa tham quan, du lịch theo chương trình do doanh nghiệp lữ hành quốc tế tại Việt Nam tổ chức thì được xét cấp thị thực phù hợp với thời gian quá cảnh; trường hợp có nhu cầu xuất cảnh qua cửa khẩu khác thì được xét cấp thị thực ký hiệu VR. CHƯƠNG V XUẤT CẢNH"
+    },
+    {
+        "id": "Điều 27.0",
+        "article": "Điều 27",
+        "clause": "0",
+        "title": "Điều kiện xuất cảnh",
+        "text": "Người nước ngoài được xuất cảnh khi có đủ các điều kiện sau đây:"
     },
     {
         "id": "Điều 27.1",
@@ -1272,6 +1328,13 @@
         "clause": "3",
         "title": "Chứng nhận tạm trú",
         "text": "Thời hạn tạm trú có thể bị cơ quan quản lý xuất nhập cảnh hủy bỏ hoặc rút ngắn trong trường hợp người nước ngoài vi phạm pháp luật Việt Nam."
+    },
+    {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Cơ sở lưu trú",
+        "text": "Cơ sở lưu trú là nơi tạm trú của người nước ngoài trên lãnh thổ Việt Nam, bao gồm các cơ sở lưu trú du lịch, nhà khách, khu nhà ở cho người nước ngoài làm việc, lao động, học tập, thực tập, cơ sở khám bệnh, chữa bệnh, nhà riêng hoặc cơ sở lưu trú khác theo quy định của pháp luật."
     },
     {
         "id": "Điều 33.1",
@@ -1981,6 +2044,13 @@
         "text": "Kiểm tra, xử lý vi phạm pháp luật về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam tại cửa khẩu do Bộ Quốc phòng quản lý."
     },
     {
+        "id": "Điều 50.0",
+        "article": "Điều 50",
+        "clause": "0",
+        "title": "Trách nhiệm của bộ, cơ quan ngang bộ",
+        "text": "Bộ, cơ quan ngang bộ không thuộc quy định tại Điều 48 và Điều 49 của Luật này, trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Công an, Bộ Ngoại giao, Bộ Quốc phòng thực hiện hoạt động quản lý nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam."
+    },
+    {
         "id": "Điều 51.1",
         "article": "Điều 51",
         "clause": "1",
@@ -2030,6 +2100,13 @@
         "text": "Giám sát việc thi hành pháp luật về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam đối với cơ quan, tổ chức, cá nhân. CHƯƠNG IX ĐIỀU KHOẢN THI HÀNH"
     },
     {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Điều khoản chuyển tiếp",
+        "text": "Giấy tờ có giá trị nhập cảnh, xuất cảnh, cư trú của người nước ngoài tại Việt Nam đã được cấp trước ngày Luật này có hiệu lực còn thời hạn được tiếp tục sử dụng cho đến khi hết thời hạn ghi trong giấy tờ đó."
+    },
+    {
         "id": "Điều 54.1",
         "article": "Điều 54",
         "clause": "1",
@@ -2042,5 +2119,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Pháp lệnh về nhập cảnh, xuất cảnh, cư trú của người nước ngoài tại Việt Nam số 24/1999/PL-UBTVQH10 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+    },
+    {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 7 thông qua ngày 16 tháng 6 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

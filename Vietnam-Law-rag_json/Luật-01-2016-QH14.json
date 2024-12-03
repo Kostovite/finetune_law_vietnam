@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về nguyên tắc, trình tự, thủ tục đấu giá tài sản; đấu giá viên, tổ chức đấu giá tài sản; thù lao dịch vụ đấu giá, chi phí đấu giá tài sản; xử lý vi phạm, hủy kết quả đấu giá tài sản, bồi thường thiệt hại; quản lý nhà nước về đấu giá tài sản."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -159,6 +166,13 @@
         "clause": "2",
         "title": "Tài sản đấu giá",
         "text": "Tài sản thuộc sở hữu của cá nhân, tổ chức tự nguyện lựa chọn bán thông qua đấu giá theo trình tự, thủ tục quy định tại Luật này."
+    },
+    {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 5.1",
@@ -523,6 +537,13 @@
         "clause": "5đ",
         "title": "Các hành vi bị nghiêm cấm",
         "text": "Các hành vi bị nghiêm cấm khác theo quy định của luật có liên quan."
+    },
+    {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Tiêu chuẩn đấu giá viên",
+        "text": "Đấu giá viên phải có đủ các tiêu chuẩn sau đây:"
     },
     {
         "id": "Điều 10.1",
@@ -1386,6 +1407,13 @@
         "text": "Trong thời hạn 07 ngày làm việc kể từ ngày nhận được giấy đề nghị, Sở Tư pháp cấp lại Giấy đăng ký hoạt động cho doanh nghiệp đấu giá tài sản; trường hợp từ chối thì phải thông báo lý do bằng văn bản. Doanh nghiệp bị từ chối cấp lại Giấy đăng ký hoạt động có quyền khiếu nại, khởi kiện theo quy định của pháp luật."
     },
     {
+        "id": "Điều 27.0",
+        "article": "Điều 27",
+        "clause": "0",
+        "title": "Cung cấp thông tin về nội dung đăng ký hoạt động của doanh nghiệp đấu giá tài sản",
+        "text": "Trong thời hạn 07 ngày làm việc kể từ ngày cấp Giấy đăng ký hoạt động hoặc thay đổi nội dung đăng ký hoạt động của doanh nghiệp đấu giá tài sản, Sở Tư pháp thông báo bằng văn bản cho cơ quan thuế, cơ quan thống kê, cơ quan kế hoạch và đầu tư nơi doanh nghiệp đặt trụ sở; công bố nội dung đăng ký hoạt động của doanh nghiệp đấu giá tài sản quy định tại khoản 1 Điều 28 của Luật này trên cổng thông tin điện tử của Sở Tư pháp."
+    },
+    {
         "id": "Điều 28.1",
         "article": "Điều 28",
         "clause": "1",
@@ -1860,6 +1888,13 @@
         "clause": "2",
         "title": "Xem tài sản đấu giá",
         "text": "Kể từ ngày niêm yết việc đấu giá tài sản cho đến ngày mở cuộc đấu giá, đối với tài sản đấu giá là quyền tài sản hoặc tài sản phải đăng ký quyền sở hữu, quyền sử dụng thì tổ chức đấu giá tài sản tổ chức cho người tham gia đấu giá được xem giấy tờ về quyền sở hữu, quyền sử dụng tài sản và tài liệu liên quan trong khoảng thời gian liên tục ít nhất là 02 ngày."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Địa điểm đấu giá",
+        "text": "Cuộc đấu giá được tổ chức tại trụ sở của tổ chức đấu giá tài sản, nơi có tài sản đấu giá hoặc địa điểm khác theo thỏa thuận của người có tài sản đấu giá và tổ chức đấu giá tài sản, trừ trường hợp pháp luật có quy định khác."
     },
     {
         "id": "Điều 38.1",
@@ -2786,6 +2821,13 @@
         "text": "Trình tự, thủ tục lưu trữ thực hiện theo quy định của pháp luật về lưu trữ. Chương IV ĐẤU GIÁ TÀI SẢN MÀ PHÁP LUẬT QUY ĐỊNH PHẢI BÁN THÔNG QUA ĐẤU GIÁ Mục 1. MỘT SỐ QUY ĐỊNH CHUNG"
     },
     {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Trình tự, thủ tục đấu giá tài sản mà pháp luật quy định phải bán thông qua đấu giá",
+        "text": "Việc đấu giá tài sản quy định tại khoản 1 Điều 4 của Luật này được thực hiện theo trình tự, thủ tục quy định tại Chương III của Luật này và quy định tại Chương này."
+    },
+    {
         "id": "Điều 56.1",
         "article": "Điều 56",
         "clause": "1",
@@ -2980,6 +3022,13 @@
         "clause": "2",
         "title": "Công khai giá khởi điểm, phương thức đấu giá",
         "text": "Việc đấu giá tài sản chỉ được thực hiện theo phương thức trả giá lên."
+    },
+    {
+        "id": "Điều 59.0",
+        "article": "Điều 59",
+        "clause": "0",
+        "title": "Tài sản đấu giá trong trường hợp chỉ có một người đăng ký tham gia đấu giá, một người tham gia đấu giá, một người trả giá",
+        "text": "Việc đấu giá tài sản trong trường hợp chỉ có một người đăng ký tham gia đấu giá, một người tham gia đấu giá, một người trả giá quy định tại Điều 49 của Luật này không áp dụng đối với các tài sản sau đây:"
     },
     {
         "id": "Điều 59.1",
@@ -3416,6 +3465,13 @@
         "text": "Chi phí đấu giá tài sản bao gồm chi phí niêm yết, thông báo công khai, chi phí thực tế hợp lý khác cho việc đấu giá tài sản do người có tài sản đấu giá và tổ chức đấu giá tài sản thỏa thuận."
     },
     {
+        "id": "Điều 67.0",
+        "article": "Điều 67",
+        "clause": "0",
+        "title": "Chi phí dịch vụ làm thủ tục chuyển quyền sở hữu, quyền sử dụng, quản lý tài sản và dịch vụ khác liên quan đến tài sản đấu giá",
+        "text": "Cá nhân, tổ chức có yêu cầu và được tổ chức đấu giá tài sản cung cấp dịch vụ làm thủ tục chuyển quyền sở hữu, quyền sử dụng tài sản, quản lý tài sản và dịch vụ khác liên quan đến tài sản đấu giá thì phải trả chi phí dịch vụ cho tổ chức đấu giá tài sản theo thỏa thuận giữa các bên."
+    },
+    {
         "id": "Điều 68.1",
         "article": "Điều 68",
         "clause": "1",
@@ -3442,6 +3498,27 @@
         "clause": "2",
         "title": "Xử lý vi phạm đối với đấu giá viên, tổ chức đấu giá tài sản, Hội đồng đấu giá tài sản, tổ chức mà Nhà nước sở hữu 100% vốn điều lệ do Chính phủ thành lập để xử lý nợ xấu của tổ chức tín dụng",
         "text": "Tổ chức đấu giá tài sản, Hội đồng đấu giá tài sản, tổ chức mà Nhà nước sở hữu 100% vốn điều lệ do Chính phủ thành lập để xử lý nợ xấu của tổ chức tín dụng có hành vi vi phạm quy định tại khoản 2, khoản 3 Điều 9, khoản 2 Điều 24, khoản 3 Điều 65 hoặc quy định khác của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Xử lý vi phạm đối với người tham gia đấu giá, người trúng đấu giá, cá nhân, tổ chức có liên quan",
+        "text": "Người tham gia đấu giá, người trúng đấu giá, cá nhân, tổ chức có liên quan có hành vi vi phạm quy định tại khoản 5 Điều 9 hoặc quy định khác của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 71.0",
+        "article": "Điều 71",
+        "clause": "0",
+        "title": "Xử lý vi phạm đối với người có tài sản đấu giá",
+        "text": "Người có tài sản đấu giá có hành vi vi phạm quy định tại khoản 4 Điều 9, khoản 2 Điều 47 hoặc quy định khác của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 72.0",
+        "article": "Điều 72",
+        "clause": "0",
+        "title": "Hủy kết quả đấu giá tài sản",
+        "text": "Kết quả đấu giá tài sản bị hủy trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 72.1",
@@ -3477,6 +3554,20 @@
         "clause": "5",
         "title": "Hủy kết quả đấu giá tài sản",
         "text": "Theo quyết định của người có thẩm quyền xử phạt vi phạm hành chính trong trường hợp đấu giá tài sản nhà nước khi có một trong các căn cứ quy định tại khoản 6 Điều 33 của Luật này."
+    },
+    {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Hậu quả pháp lý khi hủy kết quả đấu giá tài sản",
+        "text": "Trường hợp hủy kết quả đấu giá tài sản theo quy định tại các khoản 2, 3, 4 và 5 Điều 72 của Luật này thì các bên khôi phục lại tình trạng ban đầu, hoàn trả cho nhau tài sản đã nhận, nếu không hoàn trả được bằng hiện vật thì phải trả bằng tiền. Bên có lỗi gây thiệt hại phải bồi thường theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 74.0",
+        "article": "Điều 74",
+        "clause": "0",
+        "title": "Giải quyết tranh chấp",
+        "text": "Trường hợp có tranh chấp giữa các bên trong hợp đồng dịch vụ đấu giá tài sản, hợp đồng mua bán tài sản đấu giá thì các bên có thể thương lượng, hòa giải hoặc đề nghị cơ quan có thẩm quyền giải quyết theo quy định của pháp luật."
     },
     {
         "id": "Điều 75.1",
@@ -3756,6 +3847,6 @@
         "article": "Điều 81",
         "clause": "2",
         "title": "Hiệu lực thi hành",
-        "text": "Khoản 4 Điều 80 của Luật này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2017."
+        "text": "Khoản 4 Điều 80 của Luật này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2017. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 2 thông qua ngày 17 tháng 11 năm 2016. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

@@ -17,13 +17,18 @@
             "title": "Không có tiêu đề",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật luật sư:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
-                    "text": "Điều 3 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 3 được sửa đổi, bổ sung như sau: “Điều 3. Chức năng xã hội của luật sư Hoạt động nghề nghiệp của luật sư góp phần bảo vệ công lý, các quyền tự do, dân chủ của công dân, quyền, lợi ích hợp pháp của cá nhân, cơ quan, tổ chức, phát triển kinh tế - xã hội, xây dựng Nhà nước pháp quyền Việt Nam xã hội chủ nghĩa, xã hội dân chủ, công bằng, văn minh.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Điều 6 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 6 được sửa đổi, bổ sung như sau: “Điều 6. Nguyên tắc quản lý luật sư và hành nghề luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -33,12 +38,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức xã hội - nghề nghiệp của luật sư, tổ chức hành nghề luật sư thực hiện quản lý luật sư và hành nghề luật sư của tổ chức mình theo quy định của Luật này, Điều lệ của Liên đoàn luật sư Việt Nam và Quy tắc đạo đức và ứng xử nghề nghiệp luật sư Việt Nam.",
+                    "text": "Tổ chức xã hội - nghề nghiệp của luật sư, tổ chức hành nghề luật sư thực hiện quản lý luật sư và hành nghề luật sư của tổ chức mình theo quy định của Luật này, Điều lệ của Liên đoàn luật sư Việt Nam và Quy tắc đạo đức và ứng xử nghề nghiệp luật sư Việt Nam. Nhà nước thống nhất quản lý về luật sư và hành nghề luật sư theo quy định của Luật này.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Điều 9 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 9 được sửa đổi, bổ sung như sau: “Điều 9. Các hành vi bị nghiêm cấm",
                     "sub_clauses": []
                 },
                 {
@@ -94,7 +99,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Điều 12 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 12 được sửa đổi, bổ sung như sau: “Điều 12. Đào tạo nghề luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -104,7 +109,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thời gian đào tạo nghề luật sư là mười hai tháng.",
+                    "text": "Thời gian đào tạo nghề luật sư là mười hai tháng. Người hoàn thành chương trình đào tạo nghề luật sư được cơ sở đào tạo nghề luật sư cấp Giấy chứng nhận tốt nghiệp đào tạo nghề luật sư.",
                     "sub_clauses": []
                 },
                 {
@@ -119,22 +124,22 @@
                 },
                 {
                     "number": "5",
-                    "text": "Điều 14 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 14 được sửa đổi, bổ sung như sau: “Điều 14. Tập sự hành nghề luật sư",
                     "sub_clauses": []
                 },
                 {
                     "number": "1",
-                    "text": "Người có Giấy chứng nhận tốt nghiệp đào tạo nghề luật sư và người quy định tại khoản 2 Điều 16 của Luật này được tập sự hành nghề tại tổ chức hành nghề luật sư.",
+                    "text": "Người có Giấy chứng nhận tốt nghiệp đào tạo nghề luật sư và người quy định tại khoản 2 Điều 16 của Luật này được tập sự hành nghề tại tổ chức hành nghề luật sư. Thời gian tập sự hành nghề luật sư là mười hai tháng, trừ trường hợp quy định tại khoản 2 và khoản 3 Điều 16 của Luật này. Thời gian tập sự hành nghề luật sư được tính từ ngày đăng ký tập sự tại Đoàn luật sư. Tổ chức hành nghề luật sư phân công luật sư hướng dẫn người tập sự hành nghề luật sư. Luật sư hướng dẫn tập sự phải là người có ít nhất ba năm kinh nghiệm hành nghề luật sư và không thuộc trường hợp đang trong thời gian bị xử lý kỷ luật theo quy định tại khoản 1 Điều 85 của Luật này. Tại cùng một thời điểm, một luật sư không được hướng dẫn quá ba người tập sự.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Người tập sự hành nghề luật sư đăng ký tập sự tại Đoàn luật sư ở địa phương nơi có trụ sở của tổ chức hành nghề luật sư mà mình tập sự và được Đoàn luật sư cấp Giấy chứng nhận người tập sự hành nghề luật sư.",
+                    "text": "Người tập sự hành nghề luật sư đăng ký tập sự tại Đoàn luật sư ở địa phương nơi có trụ sở của tổ chức hành nghề luật sư mà mình tập sự và được Đoàn luật sư cấp Giấy chứng nhận người tập sự hành nghề luật sư. Đoàn luật sư có trách nhiệm giám sát việc tập sự hành nghề luật sư.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Người tập sự hành nghề luật sư được giúp luật sư hướng dẫn trong hoạt động nghề nghiệp nhưng không được đại diện, bào chữa, bảo vệ quyền và lợi ích hợp pháp cho khách hàng tại phiên tòa, không được ký văn bản tư vấn pháp luật.",
+                    "text": "Người tập sự hành nghề luật sư được giúp luật sư hướng dẫn trong hoạt động nghề nghiệp nhưng không được đại diện, bào chữa, bảo vệ quyền và lợi ích hợp pháp cho khách hàng tại phiên tòa, không được ký văn bản tư vấn pháp luật. Người tập sự hành nghề luật sư được đi cùng với luật sư hướng dẫn gặp gỡ người bị tạm giữ, bị can, bị cáo, người bị hại, nguyên đơn dân sự, bị đơn dân sự và người có quyền lợi, nghĩa vụ liên quan đến vụ án hình sự, nguyên đơn, bị đơn và các đương sự khác trong vụ việc dân sự, vụ án hành chính khi được người đó đồng ý; giúp luật sư hướng dẫn nghiên cứu hồ sơ vụ, việc, thu thập tài liệu, đồ vật, tình tiết liên quan đến vụ, việc và các hoạt động nghề nghiệp khác; được tư vấn pháp luật, đại diện ngoài tố tụng và thực hiện các dịch vụ pháp lý khác theo sự phân công của luật sư hướng dẫn khi được khách hàng đồng ý. Luật sư hướng dẫn phải giám sát và chịu trách nhiệm về các hoạt động của người tập sự hành nghề luật sư quy định tại khoản này.",
                     "sub_clauses": []
                 },
                 {
@@ -144,17 +149,17 @@
                 },
                 {
                     "number": "6",
-                    "text": "Điều 15 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 15 được sửa đổi, bổ sung như sau: “Điều 15. Kiểm tra kết quả tập sự hành nghề luật sư",
                     "sub_clauses": []
                 },
                 {
                     "number": "1",
-                    "text": "Người tham dự kiểm tra kết quả tập sự hành nghề luật sư là người tập sự đã hoàn thành thời gian tập sự theo quy định tại khoản 1 Điều 14 của Luật này. Ban chủ nhiệm Đoàn luật sư xem xét, lập danh sách những người đủ điều kiện tham dự kiểm tra kết quả tập sự hành nghề luật sư gửi Liên đoàn luật sư Việt Nam.",
+                    "text": "Người tham dự kiểm tra kết quả tập sự hành nghề luật sư là người tập sự đã hoàn thành thời gian tập sự theo quy định tại khoản 1 Điều 14 của Luật này. Ban chủ nhiệm Đoàn luật sư xem xét, lập danh sách những người đủ điều kiện tham dự kiểm tra kết quả tập sự hành nghề luật sư gửi Liên đoàn luật sư Việt Nam. Người được miễn tập sự hành nghề luật sư theo quy định tại khoản 1 Điều 16 của Luật này thì không phải tham dự kiểm tra kết quả tập sự hành nghề luật sư.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Liên đoàn luật sư Việt Nam tổ chức kiểm tra kết quả tập sự hành nghề luật sư.",
+                    "text": "Liên đoàn luật sư Việt Nam tổ chức kiểm tra kết quả tập sự hành nghề luật sư. Việc kiểm tra kết quả tập sự hành nghề luật sư do Hội đồng kiểm tra kết quả tập sự hành nghề luật sư tiến hành; thành phần Hội đồng gồm Chủ tịch hoặc một Phó Chủ tịch Liên đoàn luật sư Việt Nam làm Chủ tịch, đại diện Ban chủ nhiệm một số Đoàn luật sư và một số luật sư là thành viên. Danh sách thành viên Hội đồng do Chủ tịch Liên đoàn luật sư Việt Nam quyết định. Người đạt yêu cầu kiểm tra kết quả tập sự hành nghề luật sư được Hội đồng kiểm tra cấp Giấy chứng nhận kiểm tra kết quả tập sự hành nghề luật sư.",
                     "sub_clauses": []
                 },
                 {
@@ -164,7 +169,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Điều 16 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 16 được sửa đổi, bổ sung như sau: “Điều 16. Người được miễn, giảm thời gian tập sự hành nghề luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -184,12 +189,12 @@
                 },
                 {
                     "number": "8",
-                    "text": "Điều 17 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 17 được sửa đổi, bổ sung như sau: “Điều 17. Cấp Chứng chỉ hành nghề luật sư",
                     "sub_clauses": []
                 },
                 {
                     "number": "1",
-                    "text": "Người đạt yêu cầu kiểm tra kết quả tập sự hành nghề luật sư có hồ sơ đề nghị cấp Chứng chỉ hành nghề luật sư gửi Ban chủ nhiệm Đoàn luật sư.",
+                    "text": "Người đạt yêu cầu kiểm tra kết quả tập sự hành nghề luật sư có hồ sơ đề nghị cấp Chứng chỉ hành nghề luật sư gửi Ban chủ nhiệm Đoàn luật sư. Hồ sơ gồm có: Trong thời hạn bảy ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Ban chủ nhiệm Đoàn luật sư chuyển hồ sơ cho Sở Tư pháp kèm theo bản xác nhận người đề nghị cấp Chứng chỉ hành nghề luật sư có đủ tiêu chuẩn luật sư theo quy định của Luật này.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -215,7 +220,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người được miễn tập sự hành nghề luật sư có hồ sơ đề nghị cấp Chứng chỉ hành nghề luật sư gửi Sở Tư pháp nơi người đó thường trú.",
+                    "text": "Người được miễn tập sự hành nghề luật sư có hồ sơ đề nghị cấp Chứng chỉ hành nghề luật sư gửi Sở Tư pháp nơi người đó thường trú. Hồ sơ gồm có:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -233,7 +238,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn bảy ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp có trách nhiệm kiểm tra hồ sơ, trong trường hợp cần thiết thì tiến hành xác minh tính hợp pháp của hồ sơ và có văn bản đề nghị kèm theo hồ sơ cấp Chứng chỉ hành nghề luật sư gửi Bộ Tư pháp.",
+                    "text": "Trong thời hạn bảy ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp có trách nhiệm kiểm tra hồ sơ, trong trường hợp cần thiết thì tiến hành xác minh tính hợp pháp của hồ sơ và có văn bản đề nghị kèm theo hồ sơ cấp Chứng chỉ hành nghề luật sư gửi Bộ Tư pháp. Trong thời hạn hai mươi ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ trưởng Bộ Tư pháp quyết định cấp Chứng chỉ hành nghề luật sư; trong trường hợp từ chối phải thông báo bằng văn bản và nêu rõ lý do cho người đề nghị cấp Chứng chỉ hành nghề luật sư và Sở Tư pháp nơi gửi hồ sơ đề nghị cấp Chứng chỉ hành nghề luật sư. Người bị từ chối cấp Chứng chỉ hành nghề luật sư có quyền khiếu nại, khiếu kiện theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -272,7 +277,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Điều 18 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 18 được sửa đổi, bổ sung như sau: “Điều 18. Thu hồi Chứng chỉ hành nghề luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -328,7 +333,7 @@
                 },
                 {
                     "number": "10",
-                    "text": "Điều 19 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 19 được sửa đổi, bổ sung như sau: “Điều 19. Cấp lại Chứng chỉ hành nghề luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -371,12 +376,12 @@
                 },
                 {
                     "number": "11",
-                    "text": "Điều 20 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 20 được sửa đổi, bổ sung như sau: “Điều 20. Gia nhập Đoàn luật sư",
                     "sub_clauses": []
                 },
                 {
                     "number": "1",
-                    "text": "Người có Chứng chỉ hành nghề luật sư có quyền lựa chọn gia nhập một Đoàn luật sư để hành nghề luật sư.",
+                    "text": "Người có Chứng chỉ hành nghề luật sư có quyền lựa chọn gia nhập một Đoàn luật sư để hành nghề luật sư. Người đã gia nhập Đoàn luật sư phải làm việc theo hợp đồng lao động cho tổ chức hành nghề luật sư, hành nghề với tư cách cá nhân theo hợp đồng lao động cho cơ quan, tổ chức hoặc thành lập, tham gia thành lập tổ chức hành nghề luật sư theo quy định của Luật này tại địa phương nơi Đoàn luật sư có trụ sở.",
                     "sub_clauses": []
                 },
                 {
@@ -404,7 +409,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trong thời hạn bảy ngày làm việc, kể từ ngày có quyết định gia nhập Đoàn luật sư, Ban chủ nhiệm Đoàn luật sư có trách nhiệm gửi văn bản đề nghị Liên đoàn luật sư Việt Nam cấp Thẻ luật sư cho người gia nhập Đoàn luật sư. Thời hạn cấp Thẻ luật sư không quá hai mươi ngày, kể từ ngày nhận được văn bản đề nghị của Đoàn luật sư.",
+                    "text": "Trong thời hạn bảy ngày làm việc, kể từ ngày có quyết định gia nhập Đoàn luật sư, Ban chủ nhiệm Đoàn luật sư có trách nhiệm gửi văn bản đề nghị Liên đoàn luật sư Việt Nam cấp Thẻ luật sư cho người gia nhập Đoàn luật sư. Thời hạn cấp Thẻ luật sư không quá hai mươi ngày, kể từ ngày nhận được văn bản đề nghị của Đoàn luật sư. Thẻ luật sư có giá trị không thời hạn, được đổi khi luật sư chuyển Đoàn luật sư hoặc khi bị mất, hỏng.",
                     "sub_clauses": []
                 },
                 {
@@ -414,12 +419,12 @@
                 },
                 {
                     "number": "6",
-                    "text": "Luật sư chuyển Đoàn luật sư phải gửi đến Ban chủ nhiệm Đoàn luật sư mà mình đang là thành viên giấy đề nghị rút tên ra khỏi danh sách luật sư của Đoàn luật sư.",
+                    "text": "Luật sư chuyển Đoàn luật sư phải gửi đến Ban chủ nhiệm Đoàn luật sư mà mình đang là thành viên giấy đề nghị rút tên ra khỏi danh sách luật sư của Đoàn luật sư. Trong thời hạn năm ngày làm việc, kể từ ngày nhận được giấy đề nghị, Ban chủ nhiệm Đoàn luật sư ra quyết định xoá tên đối với luật sư rút khỏi danh sách luật sư của Đoàn, đồng thời gửi giấy giới thiệu của Đoàn kèm theo hồ sơ của luật sư đó đến Đoàn luật sư nơi luật sư dự định gia nhập. Thủ tục gia nhập Đoàn luật sư và đổi Thẻ luật sư được thực hiện theo quy định tại khoản 3 và khoản 4 Điều này. Trong thời gian chờ đổi Thẻ luật sư, luật sư tiếp tục dùng Thẻ luật sư đang sử dụng để hành nghề và phải nộp lại ngay khi được đổi Thẻ luật sư.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "12",
-                    "text": "Điều 21 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 21 được sửa đổi, bổ sung như sau: “Điều 21. Quyền, nghĩa vụ của luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -484,7 +489,7 @@
                 },
                 {
                     "number": "13",
-                    "text": "Điều 23 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 23 được sửa đổi, bổ sung như sau: “Điều 23. Hình thức hành nghề của luật sư Luật sư được lựa chọn một trong hai hình thức hành nghề sau đây:",
                     "sub_clauses": []
                 },
                 {
@@ -499,7 +504,7 @@
                 },
                 {
                     "number": "14",
-                    "text": "Điều 27 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 27 được sửa đổi, bổ sung như sau: “Điều 27. Hoạt động tham gia tố tụng của luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -509,12 +514,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Khi tham gia tố tụng với tư cách là người bảo vệ quyền, lợi ích hợp pháp của đương sự trong vụ việc dân sự, vụ án hành chính, bảo vệ quyền, lợi ích hợp pháp của người bị hại, nguyên đơn dân sự, bị đơn dân sự, người có quyền, nghĩa vụ liên quan trong vụ án hình sự, luật sư xuất trình Thẻ luật sư và giấy yêu cầu luật sư của khách hàng. Trong thời hạn ba ngày làm việc, kể từ khi luật sư xuất trình Thẻ luật sư và giấy yêu cầu luật sư của khách hàng, cơ quan tiến hành tố tụng cấp Giấy chứng nhận về việc tham gia tố tụng của luật sư, trường hợp từ chối phải thông báo bằng văn bản và nêu rõ lý do.",
+                    "text": "Khi tham gia tố tụng với tư cách là người bảo vệ quyền, lợi ích hợp pháp của đương sự trong vụ việc dân sự, vụ án hành chính, bảo vệ quyền, lợi ích hợp pháp của người bị hại, nguyên đơn dân sự, bị đơn dân sự, người có quyền, nghĩa vụ liên quan trong vụ án hình sự, luật sư xuất trình Thẻ luật sư và giấy yêu cầu luật sư của khách hàng. Trong thời hạn ba ngày làm việc, kể từ khi luật sư xuất trình Thẻ luật sư và giấy yêu cầu luật sư của khách hàng, cơ quan tiến hành tố tụng cấp Giấy chứng nhận về việc tham gia tố tụng của luật sư, trường hợp từ chối phải thông báo bằng văn bản và nêu rõ lý do. Trong trường hợp người tập sự hành nghề luật sư đi cùng với luật sư hướng dẫn trong các vụ việc dân sự, vụ án hành chính theo quy định tại khoản 3 Điều 14 của Luật này thì khi liên hệ với cá nhân, cơ quan, tổ chức, luật sư hướng dẫn xuất trình Giấy chứng nhận người tập sự hành nghề luật sư và giấy tờ xác nhận có sự đồng ý của khách hàng.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Khi tham gia tố tụng hình sự với tư cách là người bào chữa, luật sư được cơ quan tiến hành tố tụng cấp Giấy chứng nhận người bào chữa. Giấy chứng nhận người bào chữa có giá trị trong các giai đoạn tố tụng, trừ trường hợp người bị tạm giữ, bị can, bị cáo từ chối hoặc yêu cầu thay đổi luật sư hoặc luật sư không được tham gia tố tụng theo quy định của pháp luật.",
+                    "text": "Khi tham gia tố tụng hình sự với tư cách là người bào chữa, luật sư được cơ quan tiến hành tố tụng cấp Giấy chứng nhận người bào chữa. Giấy chứng nhận người bào chữa có giá trị trong các giai đoạn tố tụng, trừ trường hợp người bị tạm giữ, bị can, bị cáo từ chối hoặc yêu cầu thay đổi luật sư hoặc luật sư không được tham gia tố tụng theo quy định của pháp luật. Khi đề nghị cấp Giấy chứng nhận người bào chữa, luật sư xuất trình các giấy tờ sau đây: Trong trường hợp người tập sự hành nghề luật sư đi cùng với luật sư hướng dẫn trong vụ án hình sự theo quy định tại khoản 3 Điều 14 của Luật này thì khi đề nghị cấp Giấy chứng nhận người bào chữa, luật sư hướng dẫn gửi kèm theo Giấy chứng nhận người tập sự hành nghề luật sư và giấy tờ xác nhận có sự đồng ý của khách hàng đến cơ quan tiến hành tố tụng để đề nghị cho phép người tập sự được đi cùng luật sư hướng dẫn. Chậm nhất là ba ngày làm việc hoặc 24 giờ đối với trường hợp tạm giữ, kể từ khi nhận đủ giấy tờ hợp lệ, cơ quan tiến hành tố tụng cấp Giấy chứng nhận người bào chữa cho luật sư, trong đó cho phép người tập sự hành nghề luật sư tham gia vụ việc (nếu có); trong trường hợp từ chối phải thông báo bằng văn bản và nêu rõ lý do. Người bị từ chối có quyền khiếu nại theo quy định của pháp luật tố tụng. Khi cần liên hệ với cá nhân, cơ quan, tổ chức để thực hiện quyền, nghĩa vụ và các hoạt động có liên quan đến việc bào chữa trong vụ án hình sự, luật sư xuất trình Thẻ luật sư và Giấy chứng nhận người bào chữa của luật sư.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -555,7 +560,7 @@
                 },
                 {
                     "number": "15",
-                    "text": "Điều 32 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 32 được sửa đổi, bổ sung như sau: “Điều 32. Hình thức tổ chức hành nghề luật sư, điều kiện thành lập tổ chức hành nghề luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -603,7 +608,7 @@
                 },
                 {
                     "number": "16",
-                    "text": "Điều 39 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 39 được sửa đổi, bổ sung như sau: “Điều 39. Quyền của tổ chức hành nghề luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -648,7 +653,7 @@
                 },
                 {
                     "number": "17",
-                    "text": "Điều 40 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 40 được sửa đổi, bổ sung như sau: “Điều 40. Nghĩa vụ của tổ chức hành nghề luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -713,7 +718,7 @@
                 },
                 {
                     "number": "18",
-                    "text": "Điều 45 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 45 được sửa đổi, bổ sung như sau: “Điều 45. Hợp nhất, sáp nhập và chuyển đổi hình thức tổ chức hành nghề luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -728,7 +733,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Văn phòng luật sư có thể chuyển đổi thành công ty luật trên cơ sở kế thừa toàn bộ quyền, nghĩa vụ của văn phòng luật sư theo quy định của pháp luật.",
+                    "text": "Văn phòng luật sư có thể chuyển đổi thành công ty luật trên cơ sở kế thừa toàn bộ quyền, nghĩa vụ của văn phòng luật sư theo quy định của pháp luật. Công ty luật trách nhiệm hữu hạn một thành viên được chuyển đổi thành công ty luật trách nhiệm hữu hạn hai thành viên trở lên và ngược lại; công ty luật trách nhiệm hữu hạn được chuyển đổi thành công ty luật hợp danh và ngược lại. Công ty luật được chuyển đổi kế thừa toàn bộ quyền và nghĩa vụ của công ty luật bị chuyển đổi.",
                     "sub_clauses": []
                 },
                 {
@@ -738,7 +743,7 @@
                 },
                 {
                     "number": "19",
-                    "text": "Điều 49 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 49 được sửa đổi, bổ sung như sau: “Điều 49. Luật sư hành nghề với tư cách cá nhân",
                     "sub_clauses": []
                 },
                 {
@@ -758,12 +763,12 @@
                 },
                 {
                     "number": "20",
-                    "text": "Điều 50 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 50 được sửa đổi, bổ sung như sau: “Điều 50. Đăng ký hành nghề luật sư với tư cách cá nhân",
                     "sub_clauses": []
                 },
                 {
                     "number": "1",
-                    "text": "Luật sư hành nghề với tư cách cá nhân đăng ký hành nghề tại Sở Tư pháp ở địa phương nơi có Đoàn luật sư mà luật sư đó là thành viên.",
+                    "text": "Luật sư hành nghề với tư cách cá nhân đăng ký hành nghề tại Sở Tư pháp ở địa phương nơi có Đoàn luật sư mà luật sư đó là thành viên. Luật sư hành nghề với tư cách cá nhân phải có Đơn đề nghị đăng ký hành nghề luật sư theo mẫu do Bộ Tư pháp ban hành, kèm theo hồ sơ gửi Sở Tư pháp. Hồ sơ gồm có:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -787,12 +792,12 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trường hợp luật sư chuyển Đoàn luật sư thì phải thông báo cho Sở Tư pháp nơi đã đăng ký hành nghề, nộp lại Giấy đăng ký hành nghề luật sư đã được cấp trước đó và thực hiện thủ tục đăng ký hành nghề với Sở Tư pháp nơi có Đoàn luật sư mà mình chuyển đến. Thủ tục đăng ký thực hiện theo quy định tại các khoản 1, 2 và 3 Điều này.",
+                    "text": "Trường hợp luật sư chuyển Đoàn luật sư thì phải thông báo cho Sở Tư pháp nơi đã đăng ký hành nghề, nộp lại Giấy đăng ký hành nghề luật sư đã được cấp trước đó và thực hiện thủ tục đăng ký hành nghề với Sở Tư pháp nơi có Đoàn luật sư mà mình chuyển đến. Thủ tục đăng ký thực hiện theo quy định tại các khoản 1, 2 và 3 Điều này. Trường hợp luật sư chấm dứt việc hành nghề thì Sở Tư pháp thu hồi Giấy đăng ký hành nghề luật sư.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "21",
-                    "text": "Điều 60 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 60 được sửa đổi, bổ sung như sau: “Điều 60. Đoàn luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -812,12 +817,12 @@
                 },
                 {
                     "number": "4",
-                    "text": "Thành viên của Đoàn luật sư là các luật sư.",
+                    "text": "Thành viên của Đoàn luật sư là các luật sư. Quyền và nghĩa vụ của thành viên Đoàn luật sư do Điều lệ của Liên đoàn luật sư Việt Nam quy định.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "22",
-                    "text": "Điều 61 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 61 được sửa đổi, bổ sung như sau: “Điều 61. Nhiệm vụ, quyền hạn của Đoàn luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -917,7 +922,7 @@
                 },
                 {
                     "number": "23",
-                    "text": "Điều 65 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 65 được sửa đổi, bổ sung như sau: “Điều 65. Nhiệm vụ, quyền hạn của Liên đoàn luật sư Việt Nam",
                     "sub_clauses": []
                 },
                 {
@@ -1017,7 +1022,7 @@
                 },
                 {
                     "number": "24",
-                    "text": "Điều 67 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 67 được sửa đổi, bổ sung như sau: “Điều 67. Điều lệ của Liên đoàn luật sư Việt Nam",
                     "sub_clauses": []
                 },
                 {
@@ -1090,7 +1095,7 @@
                 },
                 {
                     "number": "25",
-                    "text": "Điều 68 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 68 được sửa đổi, bổ sung như sau: “Điều 68. Điều kiện hành nghề của tổ chức hành nghề luật sư nước ngoài Tổ chức hành nghề luật sư nước ngoài đã được thành lập và đang hành nghề luật sư hợp pháp tại nước ngoài được phép hành nghề tại Việt Nam theo quy định của Luật này khi có đủ các điều kiện sau đây:",
                     "sub_clauses": []
                 },
                 {
@@ -1110,7 +1115,7 @@
                 },
                 {
                     "number": "26",
-                    "text": "Điều 69 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 69 được sửa đổi, bổ sung như sau: “Điều 69. Hình thức hành nghề của tổ chức hành nghề luật sư nước ngoài",
                     "sub_clauses": []
                 },
                 {
@@ -1129,22 +1134,22 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chi nhánh, công ty luật nước ngoài được tổ chức, hoạt động theo quy định của Luật này, pháp luật về doanh nghiệp, pháp luật về đầu tư và quy định khác của pháp luật có liên quan.",
+                    "text": "Chi nhánh, công ty luật nước ngoài được tổ chức, hoạt động theo quy định của Luật này, pháp luật về doanh nghiệp, pháp luật về đầu tư và quy định khác của pháp luật có liên quan. Chính phủ quy định việc hợp nhất, sáp nhập các công ty luật nước ngoài cùng loại; chuyển đổi chi nhánh tổ chức hành nghề luật sư nước ngoài thành công ty luật trách nhiệm hữu hạn một trăm phần trăm vốn nước ngoài; chuyển đổi công ty luật nước ngoài thành công ty luật Việt Nam; tạm ngừng, chấm dứt hoạt động của tổ chức hành nghề luật sư nước ngoài.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "27",
-                    "text": "Điều 70 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 70 được sửa đổi, bổ sung như sau: “Điều 70. Phạm vi hành nghề của tổ chức luật sư nước ngoài Chi nhánh, công ty luật nước ngoài hành nghề tại Việt Nam được thực hiện tư vấn pháp luật và các dịch vụ pháp lý khác, không được cử luật sư nước ngoài và luật sư Việt Nam trong tổ chức hành nghề của mình tham gia tố tụng với tư cách là người đại diện, người bào chữa, người bảo vệ quyền và lợi ích hợp pháp của đương sự trước Tòa án Việt Nam hoặc thực hiện các dịch vụ về giấy tờ pháp lý và công chứng liên quan tới pháp luật Việt Nam, được cử luật sư Việt Nam trong tổ chức hành nghề của mình tư vấn pháp luật Việt Nam.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "28",
-                    "text": "Điều 72 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 72 được sửa đổi, bổ sung như sau: “Điều 72. Công ty luật nước ngoài",
                     "sub_clauses": []
                 },
                 {
                     "number": "1",
-                    "text": "Công ty luật trách nhiệm hữu hạn một trăm phần trăm vốn nước ngoài là tổ chức hành nghề luật sư do một hoặc nhiều tổ chức hành nghề luật sư nước ngoài thành lập tại Việt Nam.",
+                    "text": "Công ty luật trách nhiệm hữu hạn một trăm phần trăm vốn nước ngoài là tổ chức hành nghề luật sư do một hoặc nhiều tổ chức hành nghề luật sư nước ngoài thành lập tại Việt Nam. Công ty luật trách nhiệm hữu hạn dưới hình thức liên doanh là tổ chức hành nghề luật sư liên doanh giữa tổ chức hành nghề luật sư nước ngoài và tổ chức hành nghề luật sư Việt Nam. Công ty luật hợp danh là tổ chức hành nghề luật sư hợp danh giữa tổ chức hành nghề luật sư nước ngoài và công ty luật hợp danh Việt Nam.",
                     "sub_clauses": []
                 },
                 {
@@ -1154,7 +1159,7 @@
                 },
                 {
                     "number": "29",
-                    "text": "Điều 74 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 74 được sửa đổi, bổ sung như sau: “Điều 74. Điều kiện hành nghề của luật sư nước ngoài Luật sư nước ngoài đáp ứng đủ các điều kiện sau đây thì được cấp Giấy phép hành nghề luật sư tại Việt Nam:",
                     "sub_clauses": []
                 },
                 {
@@ -1179,12 +1184,12 @@
                 },
                 {
                     "number": "30",
-                    "text": "Điều 76 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 76 được sửa đổi, bổ sung như sau: “Điều 76. Phạm vi hành nghề của luật sư nước ngoài Luật sư nước ngoài hành nghề tại Việt Nam được tư vấn pháp luật nước ngoài và pháp luật quốc tế, được thực hiện các dịch vụ pháp lý khác liên quan đến pháp luật nước ngoài, được tư vấn pháp luật Việt Nam trong trường hợp có Bằng cử nhân luật của Việt Nam và đáp ứng đầy đủ các yêu cầu tương tự như đối với một luật sư Việt Nam, không được tham gia tố tụng với tư cách là người đại diện, người bào chữa, người bảo vệ quyền và lợi ích hợp pháp của đương sự trước Tòa án Việt Nam.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "31",
-                    "text": "Điều 82 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 82 được sửa đổi, bổ sung như sau: “Điều 82. Cấp, gia hạn Giấy phép hành nghề luật sư tại Việt Nam cho luật sư nước ngoài",
                     "sub_clauses": []
                 },
                 {
@@ -1222,7 +1227,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Hồ sơ đề nghị gia hạn Giấy phép hành nghề luật sư tại Việt Nam phải được gửi đến Bộ Tư pháp chậm nhất ba mươi ngày trước khi hết thời hạn hoạt động ghi trong Giấy phép. Hồ sơ gồm có:",
+                    "text": "Hồ sơ đề nghị gia hạn Giấy phép hành nghề luật sư tại Việt Nam phải được gửi đến Bộ Tư pháp chậm nhất ba mươi ngày trước khi hết thời hạn hoạt động ghi trong Giấy phép. Hồ sơ gồm có: Trong thời hạn bảy ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tư pháp quyết định việc gia hạn Giấy phép hành nghề luật sư tại Việt Nam cho luật sư nước ngoài; trường hợp từ chối gia hạn phải thông báo bằng văn bản và nêu rõ lý do.”",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1240,7 +1245,7 @@
                 },
                 {
                     "number": "32",
-                    "text": " Điều 83 được sửa đổi, bổ sung như sau:",
+                    "text": " Điều 83 được sửa đổi, bổ sung như sau: “Điều 83. Trách nhiệm quản lý nhà nước về luật sư và hành nghề luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -1313,7 +1318,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương thực hiện quản lý nhà nước về luật sư và hành nghề luật sư tại địa phương và có các nhiệm vụ, quyền hạn sau đây:",
+                    "text": "Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương thực hiện quản lý nhà nước về luật sư và hành nghề luật sư tại địa phương và có các nhiệm vụ, quyền hạn sau đây: Sở Tư pháp giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương thực hiện quản lý nhà nước về luật sư và hành nghề luật sư tại địa phương.”",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1351,7 +1356,7 @@
                 },
                 {
                     "number": "33",
-                    "text": "Điều 89 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 89 được sửa đổi, bổ sung như sau: “Điều 89. Xử lý vi phạm đối với luật sư",
                     "sub_clauses": []
                 },
                 {
@@ -1361,17 +1366,17 @@
                 },
                 {
                     "number": "2",
-                    "text": "Luật sư nước ngoài hành nghề tại Việt Nam vi phạm quy định của Luật này thì tuỳ theo tính chất, mức độ vi phạm bị xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+                    "text": "Luật sư nước ngoài hành nghề tại Việt Nam vi phạm quy định của Luật này thì tuỳ theo tính chất, mức độ vi phạm bị xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. Luật sư nước ngoài vi phạm Quy tắc đạo đức và ứng xử nghề nghiệp luật sư Việt Nam thì Bộ Tư pháp thông báo cho tổ chức hành nghề luật sư nước ngoài đã cử luật sư đó vào hành nghề tại Việt Nam hoặc tổ chức hành nghề luật sư Việt Nam đã tuyển dụng luật sư đó và tùy theo tính chất, mức độ vi phạm có thể bị thu hồi hoặc xem xét không gia hạn Giấy phép hành nghề luật sư tại Việt Nam.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "34",
-                    "text": "Bổ sung Điều 92a vào sau Điều 92 như sau:",
+                    "text": "Bổ sung Điều 92a vào sau Điều 92 như sau: “Điều 92a. Điều khoản chuyển tiếp",
                     "sub_clauses": []
                 },
                 {
                     "number": "1",
-                    "text": "Trong thời hạn một năm, kể từ ngày Luật này có hiệu lực, luật sư là thành viên của Đoàn luật sư khác với Đoàn luật sư nơi có tổ chức hành nghề luật sư hoặc chi nhánh của tổ chức hành nghề luật sư mà mình thành lập hoặc tham gia thành lập hoặc nơi có tổ chức hành nghề luật sư hoặc cơ quan, tổ chức mà mình ký kết hợp đồng lao động phải chuyển về gia nhập Đoàn luật sư theo quy định tại Điều 20 của Luật này. Luật sư chuyển Đoàn luật sư theo quy định tại khoản này không phải nộp phí gia nhập Đoàn luật sư.",
+                    "text": "Trong thời hạn một năm, kể từ ngày Luật này có hiệu lực, luật sư là thành viên của Đoàn luật sư khác với Đoàn luật sư nơi có tổ chức hành nghề luật sư hoặc chi nhánh của tổ chức hành nghề luật sư mà mình thành lập hoặc tham gia thành lập hoặc nơi có tổ chức hành nghề luật sư hoặc cơ quan, tổ chức mà mình ký kết hợp đồng lao động phải chuyển về gia nhập Đoàn luật sư theo quy định tại Điều 20 của Luật này. Luật sư chuyển Đoàn luật sư theo quy định tại khoản này không phải nộp phí gia nhập Đoàn luật sư. Các Đoàn luật sư có trách nhiệm tạo điều kiện thuận lợi cho luật sư chuyển Đoàn luật sư theo quy định của Luật này.",
                     "sub_clauses": []
                 },
                 {
@@ -1412,7 +1417,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết, hướng dẫn thi hành những điều, khoản được giao trong Luật.",
+                    "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết, hướng dẫn thi hành những điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 4 thông qua ngày 20 tháng 11 năm 2012. CHỦ TỊCH QUỐC HỘI (đã ký) Nguyễn Sinh Hùng",
                     "sub_clauses": []
                 }
             ]

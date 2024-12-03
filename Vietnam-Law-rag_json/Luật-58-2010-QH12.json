@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về viên chức; quyền nghĩa vụ của viên chức; tuyển dụng, sử dụng và quản lý viên chức trong đơn vị sự nghiệp công lập."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Viên chức",
+        "text": "Viên chức là công dân Việt Nam được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập theo chế độ hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -33,6 +54,13 @@
         "clause": "5",
         "title": "Giải thích từ ngữ",
         "text": "Hợp đồng làm việc là sự thỏa thuận bằng văn bản giữa viên chức hoặc người được tuyển dụng làm viên chức với người đứng đầu đơn vị sự nghiệp công lập về vị trí việc làm, tiền lương, chế độ đãi ngộ, điều kiện làm việc quyền và nghĩa vụ của mỗi bên."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Hoạt động nghề nghiệp của viên chức",
+        "text": "Hoạt động nghề nghiệp của viên chức là việc thực hiện công việc hoặc nhiệm vụ có yêu cầu về trình độ, năng lực, kỹ năng chuyên môn, nghiệp vụ trong đơn vị sự nghiệp công lập theo quy định của Luật này và các quy định khác của pháp luật có liên quan."
     },
     {
         "id": "Điều 5.1",
@@ -308,6 +336,13 @@
         "text": "Được góp vốn nhưng không tham gia quản lý, điều hành công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh, hợp tác xã, bệnh viện tư, trường học tư và tổ chức nghiên cứu khoa học tư, trừ trường hợp pháp luật chuyên ngành có quy định khác."
     },
     {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Các quyền khác của viên chức",
+        "text": "Viên chức được khen thưởng, tôn vinh, được tham gia hoạt động kinh tế xã hội; được hưởng chính sách ưu đãi về nhà ở; được tạo điều kiện học tập hoạt động nghề nghiệp ở trong nước và nước ngoài theo quy định của pháp luật. Trường hợp bị thương hoặc chết do thực hiện công việc hoặc nhiệm vụ được giao thì được xét hưởng chính sách như thương binh hoặc được xét để công nhận là liệt sĩ theo quy định của pháp luật. Mục 2. NGHĨA VỤ CỦA VIÊN CHỨC"
+    },
+    {
         "id": "Điều 16.1",
         "article": "Điều 16",
         "clause": "1",
@@ -420,6 +455,13 @@
         "text": "Thực hiện các nghĩa vụ khác theo quy định của pháp luật."
     },
     {
+        "id": "Điều 18.0",
+        "article": "Điều 18",
+        "clause": "0",
+        "title": "Nghĩa vụ của viên chức quản lý",
+        "text": "Viên chức quản lý thực hiện các nghĩa vụ quy định tại Điều 16, Điều 17 của Luật này và các nghĩa vụ sau:"
+    },
+    {
         "id": "Điều 18.1",
         "article": "Điều 18",
         "clause": "1",
@@ -495,6 +537,13 @@
         "clause": "6",
         "title": "Những việc viên chức không được làm",
         "text": "Những việc khác viên chức không được làm theo quy định của Luật phòng, chống tham nhũng, Luật thực hành tiết kiệm, chống lãng phí và các quy định khác của pháp luật có liên quan. Chương III TUYỂN DỤNG, SỬ DỤNG VIÊN CHỨC Mục 1. TUYỂN DỤNG"
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Căn cứ tuyển dụng",
+        "text": "Việc tuyển dụng viên chức phải căn cứ vào nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập."
     },
     {
         "id": "Điều 21.1",
@@ -607,6 +656,13 @@
         "clause": "2b",
         "title": "Điều kiện đăng ký dự tuyển",
         "text": "Đang bị truy cứu trách nhiệm hình sự; đang chấp hành bản án, quyết định về hình sự của Tòa án; đang bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở chữa bệnh, cơ sở giáo dục, trường giáo dưỡng."
+    },
+    {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Phương thức tuyển dụng",
+        "text": "Việc tuyển dụng viên chức được thực hiện thông qua thi tuyển hoặc xét tuyển."
     },
     {
         "id": "Điều 24.1",
@@ -945,6 +1001,13 @@
         "text": "Viên chức phải thông báo bằng văn bản về việc đơn phương chấm dứt hợp đồng làm việc cho người đứng đầu đơn vị sự nghiệp công lập biết trước ít nhất 03 ngày đối với các trường hợp quy định tại các điểm a, b, c, đ và e khoản 5 Điều này; ít nhất 30 ngày đối với trường hợp quy định tại điểm d khoản 5 Điều này."
     },
     {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Giải quyết tranh chấp về hợp đồng làm việc",
+        "text": "Tranh chấp liên quan đến việc ký kết, thực hiện hoặc chấm dứt hợp đồng làm việc được giải quyết theo quy định của pháp luật về lao động. Mục 3. BỔ NHIỆM, THAY ĐỔI CHỨC DANH NGHỀ NGHIỆP, THAY ĐỔI VỊ TRÍ VIỆC LÀM CỦA VIÊN CHỨC"
+    },
+    {
         "id": "Điều 31.1",
         "article": "Điều 31",
         "clause": "1",
@@ -1244,6 +1307,20 @@
         "clause": "4",
         "title": "Xin thôi giữ chức vụ quản lý hoặc miễn nhiệm đối với viên chức quản lý",
         "text": "Thẩm quyền, trình tự, thủ tục xem xét, quyết định việc xin thôi giữ chức vụ quản lý, miễn nhiệm viên chức quản lý được thực hiện theo quy định của pháp luật. Mục 6. ĐÁNH GIÁ VIÊN CHỨC"
+    },
+    {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Mục đích của đánh giá viên chức",
+        "text": "Mục đích của đánh giá viên chức để làm căn cứ tiếp tục bố trí, sử dụng, bổ nhiệm, miễn nhiệm, đào tạo, bồi dưỡng, khen thưởng, kỷ luật và thực hiện chế độ, chính sách đối với viên chức."
+    },
+    {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Căn cứ đánh giá viên chức",
+        "text": "Việc đánh giá viên chức được thực hiện dựa trên các căn cứ sau:"
     },
     {
         "id": "Điều 40.1",
@@ -1624,6 +1701,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Khiếu nại và giải quyết khiếu nại đối với quyết định liên quan đến quản lý viên chức",
+        "text": "Việc khiếu nại và giải quyết khiếu nại của viên chức đối với các quyết định của người đứng đầu đơn vị sự nghiệp công lập hoặc cấp có thẩm quyền liên quan đến quản lý viên chức được thực hiện theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 50.1",
         "article": "Điều 50",
         "clause": "1",
@@ -1902,5 +1986,26 @@
         "clause": "3",
         "title": "Quy định chuyển tiếp",
         "text": "Chính phủ quy định chi tiết Điều này."
+    },
+    {
+        "id": "Điều 60.0",
+        "article": "Điều 60",
+        "clause": "0",
+        "title": "Áp dụng quy định của Luật viên chức đối với các đối tượng khác",
+        "text": "Chính phủ quy định việc áp dụng Luật viên chức đối với những người làm việc trong các đơn vị sự nghiệp thuộc tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, đơn vị sự nghiệp công lập công ty trách nhiệm hữu hạn một thành viên do Nhà nước làm chủ sở hữu."
+    },
+    {
+        "id": "Điều 61.0",
+        "article": "Điều 61",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2012."
+    },
+    {
+        "id": "Điều 62.0",
+        "article": "Điều 62",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật này; hướng dẫn thi hành những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 8 thông qua ngày 15 tháng 11 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

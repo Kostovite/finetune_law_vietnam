@@ -15,7 +15,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định nguyên tắc, chính sách, nội dung cơ bản, hình thức giáo dục quốc phòng và an ninh; nhiệm vụ, quyền hạn của cơ quan, tổ chức, quyền và trách nhiệm của công dân về giáo dục quốc phòng và an ninh.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -38,6 +44,11 @@
             "title": "Giải thích từ ngữ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Kiến thức quốc phòng và an ninh bao gồm hệ thống quan điểm của Đảng Cộng sản Việt Nam, chính sách, pháp luật của Nhà nước về quốc phòng và an ninh; truyền thống dựng nước, giữ nước của dân tộc và kỹ năng quân sự.",
                     "sub_clauses": []
@@ -52,7 +63,13 @@
         {
             "id": "Điều 4",
             "title": "Mục tiêu giáo dục quốc phòng và an ninh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Giáo dục cho công dân về kiến thức quốc phòng và an ninh để phát huy tinh thần yêu nước, truyền thống dựng nước và giữ nước, lòng tự hào, tự tôn dân tộc, nâng cao ý thức, trách nhiệm, tự giác thực hiện nhiệm vụ quốc phòng và an ninh, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 5",
@@ -114,7 +131,13 @@
         {
             "id": "Điều 7",
             "title": "Quyền và trách nhiệm của công dân về giáo dục quốc phòng và an ninh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Công dân có quyền và trách nhiệm học tập, nghiên cứu để nắm vững kiến thức quốc phòng và an ninh. Người tham gia giáo dục quốc phòng và an ninh được hưởng chế độ, chính sách theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 8",
@@ -167,7 +190,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Các hành vi khác theo quy định của pháp luật.",
+                    "text": "Các hành vi khác theo quy định của pháp luật. Chương II GIÁO DỤC QUỐC PHÒNG VÀ AN NINH TRONG NHÀ TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -251,7 +274,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Căn cứ chương trình khung của Bộ Quốc phòng, trường của cơ quan nhà nước, tổ chức chính trị - xã hội xây dựng và thực hiện chương trình, nội dung giáo dục quốc phòng và an ninh đối với người học trong trường.",
+                    "text": "Căn cứ chương trình khung của Bộ Quốc phòng, trường của cơ quan nhà nước, tổ chức chính trị - xã hội xây dựng và thực hiện chương trình, nội dung giáo dục quốc phòng và an ninh đối với người học trong trường. Chương III BỒI DƯỠNG KIẾN THỨC QUỐC PHÒNG VÀ AN NINH",
                     "sub_clauses": []
                 }
             ]
@@ -361,7 +384,13 @@
         {
             "id": "Điều 17",
             "title": "Thẩm quyền triệu tập, quy định cơ sở bồi dưỡng kiến thức quốc phòng và an ninh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định thẩm quyền triệu tập, cơ sở bồi dưỡng kiến thức quốc phòng và an ninh cho đối tượng quy định tại các điều 14, 15 và 16 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 18",
@@ -384,7 +413,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Người hoàn thành chương trình bồi dưỡng kiến thức quốc phòng và an ninh được cấp giấy chứng nhận.",
+                    "text": "Người hoàn thành chương trình bồi dưỡng kiến thức quốc phòng và an ninh được cấp giấy chứng nhận. Chương IV PHỔ BIẾN KIẾN THỨC QUỐC PHÒNG VÀ AN NINH CHO TOÀN DÂN",
                     "sub_clauses": []
                 }
             ]
@@ -392,7 +421,13 @@
         {
             "id": "Điều 19",
             "title": "Nội dung phổ biến kiến thức quốc phòng và an ninh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Những hiểu biết cần thiết về độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Tổ quốc; âm mưu, thủ đoạn hoạt động chống phá của các thế lực thù địch; nhiệm vụ quốc phòng và an ninh trong từng thời kỳ; phòng thủ dân sự; trách nhiệm của công dân đối với sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 20",
@@ -471,7 +506,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ủy ban nhân dân cấp tỉnh chỉ đạo cơ quan quân sự, công an, Hội đồng phổ biến, giáo dục pháp luật cùng cấp phối hợp tổ chức phổ biến kiến thức quốc phòng và an ninh cho đối tượng quy định tại khoản 1 Điều này.",
+                    "text": "Ủy ban nhân dân cấp tỉnh chỉ đạo cơ quan quân sự, công an, Hội đồng phổ biến, giáo dục pháp luật cùng cấp phối hợp tổ chức phổ biến kiến thức quốc phòng và an ninh cho đối tượng quy định tại khoản 1 Điều này. Chương V GIÁO VIÊN, GIẢNG VIÊN, BÁO CÁO VIÊN, TUYÊN TRUYỀN VIÊN GIÁO DỤC QUỐC PHÒNG VÀ AN NINH",
                     "sub_clauses": []
                 }
             ]
@@ -526,7 +561,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định điều kiện cơ sở giáo dục đại học, trường của lực lượng vũ trang nhân dân được đào tạo giáo viên, giảng viên giáo dục quốc phòng và an ninh; Bộ Giáo dục và Đào tạo quyết định cơ sở giáo dục đại học, trường của lực lượng vũ trang nhân dân có đủ điều kiện được đào tạo giáo viên, giảng viên giáo dục quốc phòng và an ninh.",
+                    "text": "Chính phủ quy định điều kiện cơ sở giáo dục đại học, trường của lực lượng vũ trang nhân dân được đào tạo giáo viên, giảng viên giáo dục quốc phòng và an ninh; Bộ Giáo dục và Đào tạo quyết định cơ sở giáo dục đại học, trường của lực lượng vũ trang nhân dân có đủ điều kiện được đào tạo giáo viên, giảng viên giáo dục quốc phòng và an ninh. Bộ Giáo dục và Đào tạo, bộ, cơ quan ngang bộ có liên quan, Ủy ban nhân dân cấp tỉnh chỉ đạo cơ sở giáo dục trực thuộc xây dựng kế hoạch tuyển sinh, đào tạo, tuyển dụng đội ngũ giáo viên, giảng viên giáo dục quốc phòng và an ninh ở cơ sở giáo dục từ trung học phổ thông đến đại học.",
                     "sub_clauses": []
                 }
             ]
@@ -551,6 +586,11 @@
             "id": "Điều 26",
             "title": "Báo cáo viên",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Báo cáo viên giáo dục quốc phòng và an ninh là người được cơ quan, tổ chức có thẩm quyền mời tham gia bồi dưỡng kiến thức quốc phòng và an ninh, bao gồm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Lãnh đạo bộ, ban, ngành trung ương;",
@@ -581,7 +621,13 @@
         {
             "id": "Điều 27",
             "title": "Tuyên truyền viên",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Căn cứ tiêu chuẩn do Bộ trưởng Bộ Quốc phòng quy định, Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định công nhận tuyên truyền viên giáo dục quốc phòng và an ninh.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 28",
@@ -604,7 +650,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Hưởng chế độ, chính sách theo quy định của pháp luật.",
+                    "text": "Hưởng chế độ, chính sách theo quy định của pháp luật. Chương VI KINH PHÍ GIÁO DỤC QUỐC PHÒNG VÀ AN NINH",
                     "sub_clauses": []
                 }
             ]
@@ -672,7 +718,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hằng năm, doanh nghiệp, đơn vị sự nghiệp có kế hoạch bảo đảm kinh phí thực hiện nhiệm vụ giáo dục quốc phòng và an ninh.",
+                    "text": "Hằng năm, doanh nghiệp, đơn vị sự nghiệp có kế hoạch bảo đảm kinh phí thực hiện nhiệm vụ giáo dục quốc phòng và an ninh. Chương VII NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN, TỔ CHỨC VỀ GIÁO DỤC QUỐC PHÒNG VÀ AN NINH",
                     "sub_clauses": []
                 }
             ]
@@ -910,7 +956,13 @@
         {
             "id": "Điều 39",
             "title": "Nhiệm vụ, quyền hạn của Bộ Thông tin và Truyền thông",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an, bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và cơ quan, tổ chức ở trung ương có liên quan hướng dẫn các cơ quan thông tin đại chúng xây dựng chương trình, nội dung phổ biến kiến thức quốc phòng và an ninh cho toàn dân.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 40",
@@ -1048,7 +1100,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thực hiện sự chỉ đạo, hướng dẫn về công tác giáo dục quốc phòng và an ninh của Ủy ban nhân dân các cấp nơi cơ quan, tổ chức có trụ sở.",
+                    "text": "Thực hiện sự chỉ đạo, hướng dẫn về công tác giáo dục quốc phòng và an ninh của Ủy ban nhân dân các cấp nơi cơ quan, tổ chức có trụ sở. Chương VIII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1056,13 +1108,29 @@
         {
             "id": "Điều 46",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2014.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 47",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 5 thông qua ngày 19 tháng 6 năm 2013. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 5 thông qua ngày 19 tháng 6 năm 2013.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

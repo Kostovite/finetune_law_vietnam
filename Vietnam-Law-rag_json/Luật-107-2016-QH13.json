@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về đối tượng chịu thuế, người nộp thuế, căn cứ tính thuế, thời điểm tính thuế, biểu thuế, thuế chống bán phá giá, thuế chống trợ cấp, thuế tự vệ áp dụng đối với hàng hóa xuất khẩu, nhập khẩu; miễn thuế, giảm thuế, hoàn thuế xuất khẩu, thuế nhập khẩu."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -152,6 +159,13 @@
         "clause": "7",
         "title": "Người nộp thuế",
         "text": "Trường hợp khác theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 4.1",
@@ -985,5 +999,12 @@
         "clause": "2",
         "title": "Điều khoản chuyển tiếp",
         "text": "Nguyên liệu, vật tư, linh kiện nhập khẩu để sản xuất hàng hóa xuất khẩu nhưng chưa xuất khẩu sản phẩm; hàng hóa kinh doanh tạm nhập, tái xuất nhưng chưa tái xuất thuộc các tờ khai đăng ký với cơ quan hải quan trước ngày Luật này có hiệu lực thi hành, chưa nộp thuế thì được áp dụng theo quy định của Luật này."
+    },
+    {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 11 thông qua ngày 06 tháng 4 năm 2016. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

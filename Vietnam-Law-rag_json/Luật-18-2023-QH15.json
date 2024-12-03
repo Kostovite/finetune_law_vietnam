@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định nguyên tắc, hoạt động phòng thủ dân sự; quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức, cá nhân trong hoạt động phòng thủ dân sự; quản lý nhà nước và nguồn lực bảo đảm thực hiện phòng thủ dân sự."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -693,6 +707,13 @@
         "text": "Các Bộ chỉ đạo cơ quan, đơn vị trực thuộc phối hợp với các địa phương trên địa bàn thực hiện diễn tập phòng thủ dân sự theo kế hoạch của địa phương."
     },
     {
+        "id": "Điều 18.0",
+        "article": "Điều 18",
+        "clause": "0",
+        "title": "Biện pháp được áp dụng khi có nguy cơ xảy ra sự cố, thảm họa",
+        "text": "Khi có nguy cơ xảy ra sự cố, thảm họa, Chủ tịch Ủy ban nhân dân các cấp được áp dụng biện pháp quy định tại các luật khác có liên quan và biện pháp sau đây:"
+    },
+    {
         "id": "Điều 18.1",
         "article": "Điều 18",
         "clause": "1",
@@ -726,6 +747,13 @@
         "clause": "5",
         "title": "Biện pháp được áp dụng khi có nguy cơ xảy ra sự cố, thảm họa",
         "text": "Chuẩn bị lực lượng, trang thiết bị sẵn sàng ứng phó sự cố, thảm hoạ."
+    },
+    {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Chuẩn bị lực lượng, trang thiết bị",
+        "text": "Công tác chuẩn bị lực lượng, trang thiết bị bao gồm:"
     },
     {
         "id": "Điều 19.1",
@@ -1181,6 +1209,13 @@
         "clause": "4",
         "title": "Thống kê, đánh giá thiệt hại",
         "text": "Chính phủ quy định chi tiết Điều này."
+    },
+    {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Cứu trợ, hỗ trợ khắc phục thiệt hại",
+        "text": "Ủy ban nhân dân các cấp, căn cứ vào thống kê, đánh giá thiệt hại do sự cố, thảm họa gây ra tại địa phương, xác định đối tượng cụ thể cần cứu trợ, hỗ trợ và nguồn lực để thực hiện hoạt động sau đây:"
     },
     {
         "id": "Điều 29.1",
@@ -1988,6 +2023,13 @@
         "text": "Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, chịu trách nhiệm quản lý nhà nước về phòng thủ dân sự tại địa phương."
     },
     {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Quốc phòng",
+        "text": "Bộ Quốc phòng là đầu mối chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về phòng thủ dân sự; chủ trì, phối hợp với Bộ, ngành trung ương, cơ quan ngang Bộ, địa phương thực hiện các nhiệm vụ sau đây:"
+    },
+    {
         "id": "Điều 43.1",
         "article": "Điều 43",
         "clause": "1",
@@ -2296,6 +2338,13 @@
         "text": "Xây dựng nội dung, chương trình đào tạo, huấn luyện, bồi dưỡng kiến thức phòng thủ dân sự cho lực lượng phòng thủ dân sự trong lĩnh vực được phân công."
     },
     {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ, ngành trung ương, cơ quan ngang Bộ",
+        "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ, ngành trung ương, cơ quan ngang Bộ có trách nhiệm chủ trì, phối hợp với Bộ Quốc phòng thực hiện quản lý nhà nước về phòng thủ dân sự và có trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 51.1",
         "article": "Điều 51",
         "clause": "1",
@@ -2364,6 +2413,13 @@
         "clause": "2d",
         "title": "Trách nhiệm của chính quyền địa phương",
         "text": "Chỉ đạo và thực hiện công tác kiểm tra, thanh tra, xử lý vi phạm, giải quyết khiếu nại, tố cáo, sơ kết, tổng kết, khen thưởng về phòng thủ dân sự tại địa phương."
+    },
+    {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận",
+        "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với cơ quan, tổ chức tuyên truyền, vận động Nhân dân thực hiện pháp luật về phòng thủ dân sự; giám sát việc thực hiện pháp luật về phòng thủ dân sự. Chương VII ĐIỀU KHOẢN THI HÀNH"
     },
     {
         "id": "Điều 54.1",
@@ -2567,5 +2623,12 @@
         "clause": "8",
         "title": "Sửa đổi, bổ sung, thay thế, bãi bỏ một số điều của các luật có liên quan đến phòng thủ dân sự",
         "text": "Thay thế cụm từ “Ủy ban Quốc gia tìm kiếm cứu nạn” bằng cụm từ “Ban chỉ đạo Phòng thủ dân sự quốc gia” tại khoản 3 Điều 102 của Luật Hàng không dân dụng Việt Nam số 66/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 45/2013/QH13 và Luật số 61/2014/QH13."
+    },
+    {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2024. ____________________________________________________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 5 thông qua ngày 20 tháng 6 năm 2023. CHỦ TỊCH QUỐC HỘI Vương Đình Huệ"
     }
 ]

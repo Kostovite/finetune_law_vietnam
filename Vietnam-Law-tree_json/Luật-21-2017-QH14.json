@@ -16,17 +16,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định việc lập, thẩm định, quyết định hoặc phê duyệt, công bố, thực hiện, đánh giá, điều chỉnh quy hoạch trong hệ thống quy hoạch quốc gia; trách nhiệm quản lý nhà nước về quy hoạch.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân tham gia lập, thẩm định, quyết định hoặc phê duyệt, công bố, thực hiện, đánh giá, điều chỉnh quy hoạch trong hệ thống quy hoạch quốc gia và cơ quan, tổ chức, cá nhân khác có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Quy hoạch là việc sắp xếp, phân bố không gian các hoạt động kinh tế - xã hội, quốc phòng, an ninh gắn với phát triển kết cấu hạ tầng, sử dụng tài nguyên và bảo vệ môi trường trên lãnh thổ xác định để sử dụng hiệu quả các nguồn lực của đất nước phục vụ mục tiêu phát triển bền vững cho thời kỳ xác định.",
@@ -151,7 +168,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Quy hoạch cấp quốc gia.",
+                    "text": "Quy hoạch cấp quốc gia. Quy hoạch cấp quốc gia bao gồm quy hoạch tổng thể quốc gia, quy hoạch không gian biển quốc gia, quy hoạch sử dụng đất quốc gia, quy hoạch ngành quốc gia.",
                     "sub_clauses": []
                 },
                 {
@@ -166,7 +183,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Quy hoạch đơn vị hành chính - kinh tế đặc biệt.",
+                    "text": "Quy hoạch đơn vị hành chính - kinh tế đặc biệt. Quy hoạch đơn vị hành chính - kinh tế đặc biệt do Quốc hội quy định.",
                     "sub_clauses": []
                 },
                 {
@@ -187,12 +204,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Quy hoạch ngành quốc gia phải phù hợp với quy hoạch tổng thể quốc gia, quy hoạch không gian biển quốc gia, quy hoạch sử dụng đất quốc gia.",
+                    "text": "Quy hoạch ngành quốc gia phải phù hợp với quy hoạch tổng thể quốc gia, quy hoạch không gian biển quốc gia, quy hoạch sử dụng đất quốc gia. Trường hợp quy hoạch ngành quốc gia có mâu thuẫn với quy hoạch không gian biển quốc gia, quy hoạch sử dụng đất quốc gia hoặc các quy hoạch ngành quốc gia mâu thuẫn với nhau thì phải điều chỉnh và thực hiện theo quy hoạch không gian biển quốc gia, quy hoạch sử dụng đất quốc gia và quy hoạch tổng thể quốc gia.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Quy hoạch vùng phải phù hợp với quy hoạch cấp quốc gia; quy hoạch tỉnh phải phù hợp quy hoạch vùng, quy hoạch cấp quốc gia.",
+                    "text": "Quy hoạch vùng phải phù hợp với quy hoạch cấp quốc gia; quy hoạch tỉnh phải phù hợp quy hoạch vùng, quy hoạch cấp quốc gia. Trường hợp quy hoạch vùng, quy hoạch tỉnh có mâu thuẫn với quy hoạch ngành quốc gia thì phải điều chỉnh và thực hiện theo quy hoạch ngành quốc gia và quy hoạch tổng thể quốc gia. Trường hợp quy hoạch vùng có mâu thuẫn với nhau, quy hoạch tỉnh có mâu thuẫn với nhau thì phải điều chỉnh và thực hiện theo quy hoạch cao hơn; trường hợp quy hoạch tỉnh có mâu thuẫn với quy hoạch vùng thì phải điều chỉnh và thực hiện theo quy hoạch vùng và quy hoạch cấp quốc gia.",
                     "sub_clauses": []
                 },
                 {
@@ -388,7 +405,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Can thiệp bất hợp pháp, cản trở hoạt động quy hoạch.",
+                    "text": "Can thiệp bất hợp pháp, cản trở hoạt động quy hoạch. Chương II LẬP QUY HOẠCH Mục 1. TỔ CHỨC LẬP QUY HOẠCH",
                     "sub_clauses": []
                 }
             ]
@@ -679,7 +696,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết việc lấy ý kiến về từng loại quy hoạch.",
+                    "text": "Chính phủ quy định chi tiết việc lấy ý kiến về từng loại quy hoạch. Mục 2. NỘI DUNG QUY HOẠCH",
                     "sub_clauses": []
                 }
             ]
@@ -829,7 +846,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết nội dung quy hoạch tổng thể quốc gia tại khoản 2 Điều này; quy định việc tích hợp quy hoạch vào quy hoạch tổng thể quốc gia.",
+                    "text": "Chính phủ quy định chi tiết nội dung quy hoạch tổng thể quốc gia tại khoản 2 Điều này; quy định việc tích hợp quy hoạch vào quy hoạch tổng thể quốc gia. Việc lập, thẩm định, phê duyệt và điều chỉnh quy hoạch có tính chất kỹ thuật, chuyên ngành để triển khai các nội dung quy định tại khoản 2 Điều này được thực hiện theo quy định của pháp luật có liên quan.",
                     "sub_clauses": []
                 }
             ]
@@ -887,7 +904,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết nội dung quy hoạch không gian biển quốc gia tại khoản 2 Điều này; quy định việc tích hợp quy hoạch vào quy hoạch không gian biển quốc gia.",
+                    "text": "Chính phủ quy định chi tiết nội dung quy hoạch không gian biển quốc gia tại khoản 2 Điều này; quy định việc tích hợp quy hoạch vào quy hoạch không gian biển quốc gia. Việc lập, thẩm định, phê duyệt và điều chỉnh quy hoạch có tính chất kỹ thuật, chuyên ngành để triển khai các nội dung quy định tại khoản 2 Điều này được thực hiện theo quy định của pháp luật có liên quan.",
                     "sub_clauses": []
                 }
             ]
@@ -953,7 +970,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Danh mục các quy hoạch ngành quốc gia quy định tại Phụ lục 1 của Luật này.",
+                    "text": "Danh mục các quy hoạch ngành quốc gia quy định tại Phụ lục 1 của Luật này. Căn cứ điều kiện kinh tế - xã hội và yêu cầu quản lý nhà nước trong từng thời kỳ, Chính phủ rà soát Danh mục các quy hoạch ngành quốc gia và trình Ủy ban Thường vụ Quốc hội xem xét, quyết định sửa đổi, bổ sung.",
                     "sub_clauses": []
                 },
                 {
@@ -1086,7 +1103,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Chính phủ quy định chi tiết nội dung quy hoạch ngành quốc gia tại các khoản 3, 4, 5 và 6 Điều này; quy định việc tích hợp quy hoạch vào quy hoạch ngành quốc gia.",
+                    "text": "Chính phủ quy định chi tiết nội dung quy hoạch ngành quốc gia tại các khoản 3, 4, 5 và 6 Điều này; quy định việc tích hợp quy hoạch vào quy hoạch ngành quốc gia. Việc lập, thẩm định, phê duyệt và điều chỉnh quy hoạch có tính chất kỹ thuật, chuyên ngành để triển khai các nội dung quy định tại các khoản 3, 4, 5 và 6 Điều này thực hiện theo quy định của pháp luật có liên quan.",
                     "sub_clauses": []
                 }
             ]
@@ -1140,7 +1157,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết nội dung quy hoạch vùng tại khoản 2 Điều này; quy định việc tích hợp quy hoạch vào quy hoạch vùng.",
+                    "text": "Chính phủ quy định chi tiết nội dung quy hoạch vùng tại khoản 2 Điều này; quy định việc tích hợp quy hoạch vào quy hoạch vùng. Việc lập, thẩm định, phê duyệt và điều chỉnh quy hoạch có tính chất kỹ thuật, chuyên ngành để triển khai các nội dung quy định tại khoản 2 Điều này được thực hiện theo quy định của pháp luật có liên quan.",
                     "sub_clauses": []
                 }
             ]
@@ -1222,7 +1239,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết nội dung quy hoạch tỉnh tại khoản 2 Điều này; quy định việc tích hợp quy hoạch vào quy hoạch tỉnh.",
+                    "text": "Chính phủ quy định chi tiết nội dung quy hoạch tỉnh tại khoản 2 Điều này; quy định việc tích hợp quy hoạch vào quy hoạch tỉnh. Việc lập, thẩm định, phê duyệt và điều chỉnh quy hoạch có tính chất kỹ thuật, chuyên ngành để triển khai các nội dung quy định tại khoản 2 Điều này được thực hiện theo quy định của pháp luật có liên quan.",
                     "sub_clauses": []
                 }
             ]
@@ -1230,7 +1247,13 @@
         {
             "id": "Điều 28",
             "title": "Nội dung quy hoạch đô thị, quy hoạch nông thôn",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nội dung quy hoạch đô thị, quy hoạch nông thôn và việc lập, thẩm định, phê duyệt, thực hiện, điều chỉnh quy hoạch đô thị, quy hoạch nông thôn thực hiện theo quy định của pháp luật về quy hoạch đô thị và pháp luật về xây dựng. Việc công bố, công khai quy hoạch đô thị, quy hoạch nông thôn thực hiện theo quy định của Luật này, pháp luật về quy hoạch đô thị và pháp luật về xây dựng. Chương III THẨM ĐỊNH, QUYẾT ĐỊNH HOẶC PHÊ DUYỆT, CÔNG BỐ VÀ CUNG CẤP THÔNG TIN QUY HOẠCH Mục 1. THẨM ĐỊNH QUY HOẠCH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 29",
@@ -1264,7 +1287,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Hội đồng thẩm định quy hoạch làm việc theo chế độ tập thể và chịu trách nhiệm thẩm định quy hoạch theo nhiệm vụ được giao. Cơ quan thường trực Hội đồng thẩm định tổ chức lấy ý kiến chuyên gia, tổ chức xã hội - nghề nghiệp và tổ chức khác có liên quan trước khi trình Hội đồng thẩm định quy hoạch.",
+                    "text": "Hội đồng thẩm định quy hoạch làm việc theo chế độ tập thể và chịu trách nhiệm thẩm định quy hoạch theo nhiệm vụ được giao. Cơ quan thường trực Hội đồng thẩm định tổ chức lấy ý kiến chuyên gia, tổ chức xã hội - nghề nghiệp và tổ chức khác có liên quan trước khi trình Hội đồng thẩm định quy hoạch. Trường hợp cần thiết, Hội đồng thẩm định quy hoạch có thể lựa chọn tư vấn phản biện độc lập. Tư vấn phản biện độc lập phải đáp ứng điều kiện về năng lực chuyên môn phù hợp với công việc đảm nhận theo quy định của pháp luật có liên quan và quy định của Chính phủ.",
                     "sub_clauses": []
                 },
                 {
@@ -1320,6 +1343,11 @@
             "title": "Nội dung thẩm định quy hoạch",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Nội dung thẩm định quy hoạch tập trung vào các vấn đề sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Sự phù hợp với nhiệm vụ lập quy hoạch đã được phê duyệt;",
                     "sub_clauses": []
@@ -1357,7 +1385,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Báo cáo thẩm định quy hoạch tổng thể quốc gia, quy hoạch không gian biển quốc gia, quy hoạch sử dụng đất quốc gia, quy hoạch vùng và các tài liệu kèm theo phải được gửi đến cơ quan lập quy hoạch chậm nhất là 15 ngày kể từ ngày kết thúc thẩm định. Cơ quan lập quy hoạch có trách nhiệm nghiên cứu, giải trình, tiếp thu ý kiến thẩm định để chỉnh lý, hoàn thiện hồ sơ trình quyết định hoặc phê duyệt quy hoạch.",
+                    "text": "Báo cáo thẩm định quy hoạch tổng thể quốc gia, quy hoạch không gian biển quốc gia, quy hoạch sử dụng đất quốc gia, quy hoạch vùng và các tài liệu kèm theo phải được gửi đến cơ quan lập quy hoạch chậm nhất là 15 ngày kể từ ngày kết thúc thẩm định. Cơ quan lập quy hoạch có trách nhiệm nghiên cứu, giải trình, tiếp thu ý kiến thẩm định để chỉnh lý, hoàn thiện hồ sơ trình quyết định hoặc phê duyệt quy hoạch. Báo cáo thẩm định quy hoạch ngành quốc gia, quy hoạch tỉnh và các tài liệu kèm theo phải được gửi đến cơ quan tổ chức lập quy hoạch chậm nhất là 15 ngày kể từ ngày kết thúc thẩm định. Cơ quan tổ chức lập quy hoạch có trách nhiệm chỉ đạo cơ quan lập quy hoạch nghiên cứu, giải trình, tiếp thu ý kiến thẩm định để chỉnh lý, hoàn thiện hồ sơ trình phê duyệt quy hoạch. Trường hợp kết luận quy hoạch chưa đủ điều kiện trình quyết định hoặc phê duyệt thì Hội đồng thẩm định quy hoạch trả lại hồ sơ cho cơ quan trình thẩm định quy hoạch và nêu rõ lý do. Mục 2. QUYẾT ĐỊNH HOẶC PHÊ DUYỆT QUY HOẠCH",
                     "sub_clauses": []
                 }
             ]
@@ -1373,7 +1401,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thủ tướng Chính phủ phê duyệt quy hoạch ngành quốc gia, quy hoạch vùng, quy hoạch tỉnh.",
+                    "text": "Thủ tướng Chính phủ phê duyệt quy hoạch ngành quốc gia, quy hoạch vùng, quy hoạch tỉnh. Đối với quy hoạch Thủ đô, Thủ tướng Chính phủ phê duyệt sau khi có ý kiến của Quốc hội.",
                     "sub_clauses": []
                 }
             ]
@@ -1382,6 +1410,11 @@
             "id": "Điều 35",
             "title": "Hồ sơ trình quyết định hoặc phê duyệt quy hoạch",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Hồ sơ trình quyết định hoặc phê duyệt quy hoạch bao gồm các tài liệu chủ yếu sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tờ trình;",
@@ -1466,7 +1499,13 @@
         {
             "id": "Điều 37",
             "title": "Nội dung quyết định hoặc phê duyệt quy hoạch",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nội dung quyết định hoặc phê duyệt quy hoạch bao gồm các nội dung chủ yếu quy định tại khoản 2 Điều 22, khoản 2 Điều 23, khoản 2 Điều 24, các khoản 3, 4, 5 và 6 Điều 25, khoản 2 Điều 26 và khoản 2 Điều 27 của Luật này tương ứng với từng loại quy hoạch. Mục 3. CÔNG BỐ VÀ CUNG CẤP THÔNG TIN QUY HOẠCH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 38",
@@ -1554,7 +1593,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hệ thống thông tin và cơ sở dữ liệu quốc gia về quy hoạch được xây dựng, vận hành thống nhất trên phạm vi cả nước phục vụ cho hoạt động quy hoạch.",
+                    "text": "Hệ thống thông tin và cơ sở dữ liệu quốc gia về quy hoạch được xây dựng, vận hành thống nhất trên phạm vi cả nước phục vụ cho hoạt động quy hoạch. Hệ thống thông tin và cơ sở dữ liệu quốc gia về quy hoạch bao gồm hồ sơ quy hoạch, các dữ liệu về tự nhiên, kinh tế - xã hội, môi trường, biến đổi khí hậu, quốc phòng, an ninh gắn với hệ thống cơ sở dữ liệu nền địa lý quốc gia đã được chuẩn hóa và cập nhật thường xuyên.",
                     "sub_clauses": []
                 },
                 {
@@ -1670,7 +1709,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc lưu trữ hồ sơ quy hoạch thực hiện theo quy định của pháp luật về lưu trữ.",
+                    "text": "Việc lưu trữ hồ sơ quy hoạch thực hiện theo quy định của pháp luật về lưu trữ. Chương IV THỰC HIỆN, ĐÁNH GIÁ, ĐIỀU CHỈNH QUY HOẠCH Mục 1. THỰC HIỆN QUY HOẠCH",
                     "sub_clauses": []
                 }
             ]
@@ -1712,6 +1751,11 @@
             "id": "Điều 46",
             "title": "Chính sách, giải pháp thực hiện quy hoạch",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Chính sách, giải pháp thực hiện quy hoạch được ban hành phù hợp với kế hoạch thực hiện quy hoạch bao gồm các nội dung chủ yếu sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Thu hút đầu tư phát triển theo quy hoạch đã được quyết định hoặc phê duyệt;",
@@ -1786,7 +1830,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ có trách nhiệm báo cáo Quốc hội về hoạt động quy hoạch theo định kỳ 05 năm.",
+                    "text": "Chính phủ có trách nhiệm báo cáo Quốc hội về hoạt động quy hoạch theo định kỳ 05 năm. Mục 2. ĐÁNH GIÁ THỰC HIỆN QUY HOẠCH",
                     "sub_clauses": []
                 }
             ]
@@ -1824,7 +1868,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ quan đánh giá thực hiện quy hoạch tổng thể quốc gia, quy hoạch không gian biển quốc gia và quy hoạch sử dụng đất quốc gia gửi báo cáo đánh giá đến Chính phủ. Trường hợp cần thiết, Chính phủ báo cáo Quốc hội.",
+                    "text": "Cơ quan đánh giá thực hiện quy hoạch tổng thể quốc gia, quy hoạch không gian biển quốc gia và quy hoạch sử dụng đất quốc gia gửi báo cáo đánh giá đến Chính phủ. Trường hợp cần thiết, Chính phủ báo cáo Quốc hội. Cơ quan đánh giá thực hiện quy hoạch ngành quốc gia, quy hoạch vùng, quy hoạch tỉnh gửi báo cáo đến Thủ tướng Chính phủ.",
                     "sub_clauses": []
                 }
             ]
@@ -1840,7 +1884,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Xác định yếu tố, nguyên nhân ảnh hưởng đến tình hình và kết quả thực hiện quy hoạch; đề xuất giải pháp nâng cao hiệu quả hoạt động quy hoạch trong kỳ quy hoạch, kỳ quy hoạch tiếp theo; kiến nghị Điều chỉnh quy hoạch (nếu có).",
+                    "text": "Xác định yếu tố, nguyên nhân ảnh hưởng đến tình hình và kết quả thực hiện quy hoạch; đề xuất giải pháp nâng cao hiệu quả hoạt động quy hoạch trong kỳ quy hoạch, kỳ quy hoạch tiếp theo; kiến nghị Điều chỉnh quy hoạch (nếu có). Mục 3. ĐIỀU CHỈNH QUY HOẠCH",
                     "sub_clauses": []
                 }
             ]
@@ -1892,6 +1936,11 @@
             "title": "Căn cứ điều chỉnh quy hoạch",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Việc điều chỉnh quy hoạch được thực hiện khi có một trong các căn cứ sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Có sự điều chỉnh mục tiêu của chiến lược phát triển kinh tế - xã hội, chiến lược phát triển ngành, lĩnh vực làm thay đổi mục tiêu của quy hoạch;",
                     "sub_clauses": []
@@ -1934,7 +1983,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chính phủ trình Quốc hội quyết định chủ trương điều chỉnh quy hoạch tổng thể quốc gia, quy hoạch không gian biển quốc gia và quy hoạch sử dụng đất quốc gia.",
+                    "text": "Chính phủ trình Quốc hội quyết định chủ trương điều chỉnh quy hoạch tổng thể quốc gia, quy hoạch không gian biển quốc gia và quy hoạch sử dụng đất quốc gia. Bộ, cơ quan ngang Bộ trình Thủ tướng Chính phủ phê duyệt chủ trương điều chỉnh quy hoạch ngành quốc gia thuộc thẩm quyền tổ chức lập. Bộ Kế hoạch và Đầu tư trình Thủ tướng Chính phủ phê duyệt chủ trương điều chỉnh quy hoạch vùng. Ủy ban nhân dân cấp tỉnh trình Thủ tướng Chính phủ phê duyệt chủ trương điều chỉnh quy hoạch tỉnh.",
                     "sub_clauses": []
                 },
                 {
@@ -1944,7 +1993,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ quan tổ chức lập quy hoạch có trách nhiệm cập nhật và thể hiện trong quy hoạch những nội dung được điều chỉnh.",
+                    "text": "Cơ quan tổ chức lập quy hoạch có trách nhiệm cập nhật và thể hiện trong quy hoạch những nội dung được điều chỉnh. Chương V QUẢN LÝ NHÀ NƯỚC VỀ QUY HOẠCH",
                     "sub_clauses": []
                 }
             ]
@@ -2062,6 +2111,11 @@
             "title": "Trách nhiệm quản lý nhà nước về quy hoạch của Ủy ban nhân dân cấp tỉnh",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về quy hoạch tại địa phương và có nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Ban hành theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành kế hoạch, chính sách, giải pháp và bố trí nguồn lực thực hiện quy hoạch tỉnh;",
                     "sub_clauses": []
@@ -2088,7 +2142,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Khen thưởng cơ quan, tổ chức, cá nhân có thành tích trong hoạt động quy hoạch.",
+                    "text": "Khen thưởng cơ quan, tổ chức, cá nhân có thành tích trong hoạt động quy hoạch. Chương VI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2099,12 +2153,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Sửa đổi, bổ sung khoản 2 Điều 50 của Luật Công nghệ thông tin số 67/2006/QH11 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 2 Điều 50 của Luật Công nghệ thông tin số 67/2006/QH11 như sau: “2. Bộ Thông tin và Truyền thông công bố danh mục và xây dựng chương trình phát triển các sản phẩm công nghệ thông tin trọng điểm trong từng thời kỳ phù hợp với chiến lược phát triển công nghiệp công nghệ thông tin.”.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Sửa đổi, bổ sung một số điều của Luật Tổ chức chính quyền địa phương số 77/2015/QH13 như sau:",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật Tổ chức chính quyền địa phương số 77/2015/QH13 như sau: “a) Phù hợp với các quy hoạch có liên quan đã được cấp có thẩm quyền quyết định hoặc phê duyệt;”.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2118,7 +2172,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Sửa đổi, bổ sung một số điều của Luật Thú y số 79/2015/QH13 như sau:",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật Thú y số 79/2015/QH13 như sau: “b) Xây dựng hệ thống truy xuất nguồn gốc động vật, sản phẩm động vật; xây dựng mạng lưới cơ sở giết mổ, sơ chế, chế biến sản phẩm động vật theo hướng công nghiệp gắn với vùng chăn nuôi;”; “b) Xây dựng quy hoạch vùng và cơ sở an toàn dịch bệnh động vật, tích hợp vào quy hoạch tỉnh và tổ chức thực hiện; xây dựng, ban hành và tổ chức thực hiện kế hoạch phòng, chống dịch bệnh động vật, chương trình giám sát, khống chế, thanh toán dịch bệnh động vật;”; “3. Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định việc lập trạm kiểm dịch động vật tại đầu mối giao thông trên phạm vi cả nước.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2136,7 +2190,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Ủy ban nhân dân cấp tỉnh căn cứ quy định của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn tại khoản 3 Điều này quyết định thành lập và tổ chức thực hiện việc kiểm dịch động vật, sản phẩm động vật của các trạm kiểm dịch động vật tại đầu mối giao thông trên địa bàn.”;",
+                    "text": "Ủy ban nhân dân cấp tỉnh căn cứ quy định của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn tại khoản 3 Điều này quyết định thành lập và tổ chức thực hiện việc kiểm dịch động vật, sản phẩm động vật của các trạm kiểm dịch động vật tại đầu mối giao thông trên địa bàn.”; “b) Chỉ đạo xây dựng mạng lưới cơ sở giết mổ động vật tập trung và lập kế hoạch thực hiện việc giết mổ động vật tập trung;”; “a) Phối hợp với các phòng, ban, ngành liên quan tổ chức triển khai thực hiện mạng lưới cơ sở giết mổ động vật tập trung;”.",
                     "sub_clauses": [
                         {
                             "letter": "d",
@@ -2150,7 +2204,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Sửa đổi, bổ sung Điều 58 của Luật Dự trữ quốc gia số 22/2012/QH13 như sau:",
+                    "text": "Sửa đổi, bổ sung Điều 58 của Luật Dự trữ quốc gia số 22/2012/QH13 như sau: “Điều 58. Quy hoạch tổng thể hệ thống kho dự trữ quốc gia",
                     "sub_clauses": []
                 },
                 {
@@ -2191,7 +2245,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Sửa đổi, bổ sung Điều 8 của Luật Giáo dục nghề nghiệp số 74/2014/QH13 như sau:",
+                    "text": "Sửa đổi, bổ sung Điều 8 của Luật Giáo dục nghề nghiệp số 74/2014/QH13 như sau: “Điều 8. Quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp",
                     "sub_clauses": []
                 },
                 {
@@ -2228,17 +2282,17 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh căn cứ vào quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp quốc gia xây dựng và phê duyệt quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp của Bộ, cơ quan ngang bộ, địa phương mình và chịu trách nhiệm chỉ đạo việc tổ chức thực hiện.",
+                    "text": "Bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh căn cứ vào quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp quốc gia xây dựng và phê duyệt quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp của Bộ, cơ quan ngang bộ, địa phương mình và chịu trách nhiệm chỉ đạo việc tổ chức thực hiện. Việc tích hợp quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp của Bộ, cơ quan ngang bộ, địa phương vào các quy hoạch thuộc hệ thống quy hoạch quốc gia thực hiện theo quy định của pháp luật về quy hoạch.”.",
                     "sub_clauses": []
                 },
                 {
                     "number": "6",
-                    "text": "Bổ sung khoản 5 vào Điều 82 của Luật Khám bệnh, chữa bệnh số 40/2009/QH12 như sau:",
+                    "text": "Bổ sung khoản 5 vào Điều 82 của Luật Khám bệnh, chữa bệnh số 40/2009/QH12 như sau: “5. Quy hoạch hệ thống cơ sở khám bệnh, chữa bệnh trên toàn quốc và cơ sở khám bệnh, chữa bệnh chuyên ngành được tích hợp vào quy hoạch mạng lưới cơ sở y tế quốc gia; quy hoạch hệ thống cơ sở khám bệnh, chữa bệnh của địa phương được tích hợp vào quy hoạch tỉnh theo quy định của pháp luật về quy hoạch.”.",
                     "sub_clauses": []
                 },
                 {
                     "number": "7",
-                    "text": "Sửa đổi, bổ sung một số điều của Luật Viễn thông số 41/2009/QH12 như sau:",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật Viễn thông số 41/2009/QH12 như sau: “a) Phù hợp với chiến lược phát triển kinh tế - xã hội, quy hoạch cấp quốc gia, kế hoạch phát triển kinh tế - xã hội của đất nước trong từng thời kỳ; tuân thủ pháp luật Việt Nam, điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;”; “3. Bộ Thông tin và Truyền thông xây dựng quy hoạch phát triển viễn thông quốc gia và tích hợp vào quy hoạch hạ tầng thông tin và truyền thông quốc gia theo quy định của pháp luật về quy hoạch và quy định khác của pháp luật có liên quan.”; “đ) Được phân bổ tài nguyên viễn thông theo quy định về quản lý tài nguyên viễn thông;”; “3. Việc sửa đổi, bổ sung giấy phép viễn thông trong thời gian giấy phép còn hiệu lực được thực hiện theo đề nghị của tổ chức được cấp giấy phép hoặc theo yêu cầu của Bộ Thông tin và Truyền thông phải phù hợp với các quy định về quản lý tài nguyên viễn thông, kết nối, giá cước, tiêu chuẩn, quy chuẩn kỹ thuật viễn thông.”; “1. Việc sử dụng chung cơ sở hạ tầng kỹ thuật giao thông, cung cấp năng lượng, chiếu sáng công cộng, cấp nước, thoát nước, viễn thông và các công trình hạ tầng kỹ thuật khác được thực hiện theo nguyên tắc hiệu quả, tiết kiệm, bảo đảm yêu cầu về cảnh quan, môi trường, phù hợp với các quy hoạch được cơ quan có thẩm quyền quyết định hoặc phê duyệt.”.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2264,7 +2318,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Sửa đổi, bổ sung một số Điều của Luật Thực hành tiết kiệm, chống lãng phí số 44/2013/QH13 như sau:",
+                    "text": "Sửa đổi, bổ sung một số Điều của Luật Thực hành tiết kiệm, chống lãng phí số 44/2013/QH13 như sau: “d) Các quy hoạch đã được cơ quan có thẩm quyền quyết định hoặc phê duyệt; kế hoạch phát triển kinh tế - xã hội; kế hoạch phát triển ngành, vùng; kế hoạch sử dụng đất; danh mục dự án đầu tư, nguồn vốn đầu tư; kế hoạch và hoạt động khai thác tài nguyên;”; “Điều 33. Lập, thẩm định, phê duyệt quy hoạch, kế hoạch và danh mục dự án đầu tư",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2283,7 +2337,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc lập, thẩm định và phê duyệt danh mục dự án đầu tư phải phù hợp với quy hoạch đã được cơ quan có thẩm quyền quyết định hoặc phê duyệt; kế hoạch phát triển kinh tế - xã hội; kế hoạch phát triển ngành, vùng, lĩnh vực và sản phẩm; kế hoạch sử dụng đất.”;",
+                    "text": "Việc lập, thẩm định và phê duyệt danh mục dự án đầu tư phải phù hợp với quy hoạch đã được cơ quan có thẩm quyền quyết định hoặc phê duyệt; kế hoạch phát triển kinh tế - xã hội; kế hoạch phát triển ngành, vùng, lĩnh vực và sản phẩm; kế hoạch sử dụng đất.”; “1. Lập, thẩm định dự án đầu tư phải phù hợp với quy hoạch được cơ quan có thẩm quyền quyết định hoặc phê duyệt; kế hoạch phát triển kinh tế - xã hội; kế hoạch phát triển ngành, vùng; kế hoạch sử dụng đất; danh mục dự án đầu tư theo đúng tiêu chuẩn, quy chuẩn trong xây dựng.”.",
                     "sub_clauses": [
                         {
                             "letter": "c",
@@ -2309,7 +2363,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Các quy định của Luật này về lập, thẩm định quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh có hiệu lực thi hành từ ngày 01 tháng 3 năm 2018.",
+                    "text": "Các quy định của Luật này về lập, thẩm định quy hoạch cấp quốc gia, quy hoạch vùng, quy hoạch tỉnh có hiệu lực thi hành từ ngày 01 tháng 3 năm 2018. Chính phủ bảo đảm kinh phí lập, thẩm định quy hoạch quy định tại khoản này theo quy định của pháp luật về đầu tư công và pháp luật về ngân sách nhà nước.",
                     "sub_clauses": []
                 }
             ]
@@ -2357,412 +2411,412 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ rà soát, trình Quốc hội sửa đổi, bổ sung các quy định liên quan đến quy hoạch trong các bộ luật, luật thuộc danh mục quy định tại Phụ lục 3 của Luật này và các văn bản quy phạm pháp luật khác bảo đảm phù hợp với Luật Quy hoạch và có hiệu lực thi hành chậm nhất là ngày 01 tháng 01 năm 2019.",
+                    "text": "Chính phủ rà soát, trình Quốc hội sửa đổi, bổ sung các quy định liên quan đến quy hoạch trong các bộ luật, luật thuộc danh mục quy định tại Phụ lục 3 của Luật này và các văn bản quy phạm pháp luật khác bảo đảm phù hợp với Luật Quy hoạch và có hiệu lực thi hành chậm nhất là ngày 01 tháng 01 năm 2019. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 4 thông qua ngày 24 tháng 11 năm 2017. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân PHỤ LỤC (Ban hành kèm theo Luật Quy hoạch số 21/2017/QH14) PHỤ LỤC I DANH MỤC CÁC QUY HOẠCH NGÀNH QUỐC GIA TT TÊN QUY HOẠCH I KẾT CẤU HẠ TẦNG",
                     "sub_clauses": []
                 },
                 {
                     "number": "1.",
-                    "text": "",
+                    "text": " Quy hoạch mạng lưới đường bộ",
                     "sub_clauses": []
                 },
                 {
                     "number": "2.",
-                    "text": "",
+                    "text": " Quy hoạch mạng lưới đường sắt",
                     "sub_clauses": []
                 },
                 {
                     "number": "3.",
-                    "text": "",
+                    "text": " Quy hoạch tổng thể phát triển hệ thống cảng biển",
                     "sub_clauses": []
                 },
                 {
                     "number": "4.",
-                    "text": "",
+                    "text": " Quy hoạch tổng thể phát triển hệ thống cảng hàng không, sân bay toàn quốc",
                     "sub_clauses": []
                 },
                 {
                     "number": "5.",
-                    "text": "",
+                    "text": " Quy hoạch kết cấu hạ tầng đường thủy nội địa",
                     "sub_clauses": []
                 },
                 {
                     "number": "6.",
-                    "text": "",
+                    "text": " Quy hoạch mạng lưới trạm khí tượng thủy văn quốc gia",
                     "sub_clauses": []
                 },
                 {
                     "number": "7.",
-                    "text": "",
+                    "text": " Quy hoạch tổng thể về năng lượng",
                     "sub_clauses": []
                 },
                 {
                     "number": "8.",
-                    "text": "",
+                    "text": " Quy hoạch phát triển điện lực",
                     "sub_clauses": []
                 },
                 {
                     "number": "9.",
-                    "text": "",
+                    "text": " Quy hoạch hạ tầng dự trữ, cung ứng xăng dầu, khí đốt",
                     "sub_clauses": []
                 },
                 {
                     "number": "10.",
-                    "text": "",
+                    "text": " Quy hoạch hạ tầng thông tin và truyền thông",
                     "sub_clauses": []
                 },
                 {
                     "number": "11.",
-                    "text": "",
+                    "text": " Quy hoạch phát triển mạng lưới cơ sở báo chí, phát thanh, truyền hình, thông tin điện tử, cơ sở xuất bản",
                     "sub_clauses": []
                 },
                 {
                     "number": "12.",
-                    "text": "",
+                    "text": " Quy hoạch phòng, chống thiên tai và thủy lợi",
                     "sub_clauses": []
                 },
                 {
                     "number": "13.",
-                    "text": "",
+                    "text": " Quy hoạch hệ thống du lịch",
                     "sub_clauses": []
                 },
                 {
                     "number": "14.",
-                    "text": "",
+                    "text": " Quy hoạch mạng lưới cơ sở văn hóa và thể thao",
                     "sub_clauses": []
                 },
                 {
                     "number": "15.",
-                    "text": "",
+                    "text": " Quy hoạch mạng lưới tổ chức khoa học và công nghệ công lập",
                     "sub_clauses": []
                 },
                 {
                     "number": "16.",
-                    "text": "",
+                    "text": " Quy hoạch mạng lưới cơ sở giáo dục đại học và sư phạm",
                     "sub_clauses": []
                 },
                 {
                     "number": "17.",
-                    "text": "",
+                    "text": " Quy hoạch hệ thống cơ sở giáo dục chuyên biệt đối với người khuyết tật và hệ thống trung tâm hỗ trợ phát triển giáo dục hòa nhập",
                     "sub_clauses": []
                 },
                 {
                     "number": "18.",
-                    "text": "",
+                    "text": " Quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp",
                     "sub_clauses": []
                 },
                 {
                     "number": "19.",
-                    "text": "",
+                    "text": " Quy hoạch mạng lưới cơ sở trợ giúp xã hội",
                     "sub_clauses": []
                 },
                 {
                     "number": "20.",
-                    "text": "",
+                    "text": " Quy hoạch hệ thống cơ sở xã hội nuôi dưỡng, điều dưỡng người có công với cách mạng",
                     "sub_clauses": []
                 },
                 {
                     "number": "21.",
-                    "text": "",
+                    "text": " Quy hoạch hệ thống cảng cá, khu neo đậu tránh trú bão cho tàu cá",
                     "sub_clauses": []
                 },
                 {
                     "number": "22.",
-                    "text": "",
+                    "text": " Quy hoạch mạng lưới cơ sở y tế",
                     "sub_clauses": []
                 },
                 {
                     "number": "23.",
-                    "text": "",
+                    "text": " Quy hoạch tổng thể hệ thống kho dự trữ quốc gia",
                     "sub_clauses": []
                 },
                 {
                     "number": "24.",
-                    "text": "",
+                    "text": " Quy hoạch hệ thống các công trình quốc phòng, khu quân sự, kho đạn dược, công nghiệp quốc phòng",
                     "sub_clauses": []
                 },
                 {
                     "number": "25.",
-                    "text": "",
+                    "text": " Quy hoạch hạ tầng phòng cháy và chữa cháy",
                     "sub_clauses": []
                 },
                 {
                     "number": "26.",
-                    "text": "",
+                    "text": " Quy hoạch hệ thống đô thị và nông thôn",
                     "sub_clauses": []
                 },
                 {
                     "number": "27.",
-                    "text": "",
+                    "text": " Quy hoạch hệ thống trung tâm giáo dục quốc phòng và an ninh II SỬ DỤNG TÀI NGUYÊN",
                     "sub_clauses": []
                 },
                 {
                     "number": "28.",
-                    "text": "",
+                    "text": " Quy hoạch tổng thể khai thác, sử dụng bền vững tài nguyên vùng bờ",
                     "sub_clauses": []
                 },
                 {
                     "number": "29.",
-                    "text": "",
+                    "text": " Quy hoạch điều tra cơ bản địa chất về khoáng sản",
                     "sub_clauses": []
                 },
                 {
                     "number": "30.",
-                    "text": "",
+                    "text": " Quy hoạch tài nguyên nước",
                     "sub_clauses": []
                 },
                 {
                     "number": "31.",
-                    "text": "",
+                    "text": " Quy hoạch thăm dò, khai thác, chế biến và sử dụng quặng phóng xạ",
                     "sub_clauses": []
                 },
                 {
                     "number": "32.",
-                    "text": "",
+                    "text": " Quy hoạch thăm dò, khai thác, chế biến và sử dụng các loại khoáng sản",
                     "sub_clauses": []
                 },
                 {
                     "number": "33.",
-                    "text": "",
+                    "text": " Quy hoạch thăm dò, khai thác, chế biến và sử dụng các loại khoáng sản làm vật liệu xây dựng",
                     "sub_clauses": []
                 },
                 {
                     "number": "34.",
-                    "text": "",
+                    "text": " Quy hoạch lâm nghiệp",
                     "sub_clauses": []
                 },
                 {
                     "number": "35.",
-                    "text": "",
+                    "text": " Quy hoạch bảo vệ và khai thác nguồn lợi thủy sản",
                     "sub_clauses": []
                 },
                 {
                     "number": "36.",
-                    "text": "",
+                    "text": " Quy hoạch sử dụng đất quốc phòng",
                     "sub_clauses": []
                 },
                 {
                     "number": "37.",
-                    "text": "",
+                    "text": " Quy hoạch sử dụng đất an ninh III BẢO VỆ MÔI TRƯỜNG",
                     "sub_clauses": []
                 },
                 {
                     "number": "38.",
-                    "text": "",
+                    "text": " Quy hoạch bảo vệ môi trường IV BẢO TỒN ĐA DẠNG SINH HỌC",
                     "sub_clauses": []
                 },
                 {
                     "number": "39.",
-                    "text": "",
+                    "text": " Quy hoạch tổng thể bảo tồn đa dạng sinh học PHỤ LỤC II DANH MỤC CÁC QUY HOẠCH CÓ TÍNH CHẤT KỸ THUẬT, CHUYÊN NGÀNH STT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH",
                     "sub_clauses": []
                 },
                 {
                     "number": "1.",
-                    "text": "",
+                    "text": " Quy hoạch sử dụng đất cấp huyện Luật Đất đai số 45/2013/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "2.",
-                    "text": "",
+                    "text": " Quy hoạch tổng thể quan trắc môi trường quốc gia Luật Bảo vệ môi trường số 55/2014/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "3.",
-                    "text": "",
+                    "text": " Quy hoạch tổng hợp lưu vực sông liên tỉnh, nguồn nước liên tỉnh Luật Tài nguyên nước số 17/2012/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "4.",
-                    "text": "",
+                    "text": " Quy hoạch bảo vệ, khai thác, sử dụng nguồn nước liên quốc gia Luật Tài nguyên nước số 17/2012/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "5.",
-                    "text": "",
+                    "text": " Quy hoạch tổng thể điều tra cơ bản tài nguyên nước Luật Tài nguyên nước số 17/2012/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "6.",
-                    "text": "",
+                    "text": " Quy hoạch vùng không nhiễm sinh vật gây hại Luật Bảo vệ và kiểm dịch thực vật số 41/2013/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "7.",
-                    "text": "",
+                    "text": " Quy hoạch thủy lợi Luật Thủy lợi số 08/2017/QH14",
                     "sub_clauses": []
                 },
                 {
                     "number": "8.",
-                    "text": "",
+                    "text": " Quy hoạch phòng, chống lũ của tuyến sông có đê Luật Đê điều số 79/2006/QH11",
                     "sub_clauses": []
                 },
                 {
                     "number": "9.",
-                    "text": "",
+                    "text": " Quy hoạch đê điều Luật Đê điều số 79/2006/QH11",
                     "sub_clauses": []
                 },
                 {
                     "number": "10.",
-                    "text": "",
+                    "text": " Quy hoạch vùng dân cư và tổ chức sản xuất thích ứng với thiên tai Luật Phòng, chống thiên tai số 33/2013/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "11.",
-                    "text": "",
+                    "text": " Quy hoạch xây dựng Luật Xây dựng số 50/2014/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "12.",
-                    "text": "",
+                    "text": " Quy hoạch bảo quản, tu bổ, phục hồi di tích Luật Di sản văn hóa số 28/2001/QH10 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật Di sản văn hóa số 32/2009/QH12",
                     "sub_clauses": []
                 },
                 {
                     "number": "13.",
-                    "text": "",
+                    "text": " Quy hoạch khảo cổ Luật Di sản văn hóa số 28/2001/QH10 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật Di sản văn hóa số 32/2009/QH12",
                     "sub_clauses": []
                 },
                 {
                     "number": "14.",
-                    "text": "",
+                    "text": " Quy hoạch hệ thống cơ sở chỉnh hình, phục hồi chức năng và cơ sở chăm sóc người khuyết tật Luật Người khuyết tật số 51/2010/QH12",
                     "sub_clauses": []
                 },
                 {
                     "number": "15.",
-                    "text": "",
+                    "text": " Quy hoạch cơ sở chăm sóc người cao tuổi Luật Người cao tuổi số 39/2009/QH12",
                     "sub_clauses": []
                 },
                 {
                     "number": "16.",
-                    "text": "",
+                    "text": " Quy hoạch mạng lưới cơ sở giáo dục đại học Luật Giáo dục đại học số 08/2012/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "17.",
-                    "text": "",
+                    "text": " Quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp cấp tỉnh, của Bộ, cơ quan ngang Bộ Luật Giáo dục nghề nghiệp số 74/2014/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "18.",
-                    "text": "",
+                    "text": " Quy hoạch cửa khẩu; quy hoạch tuyến, ga đường sắt; quy hoạch cảng hàng không, sân bay Luật Biên giới quốc gia số 06/2003/QH11; Luật Đường sắt số 06/2017/QH14; Luật Hàng không dân dụng Việt Nam số 66/2006/QH11 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật hàng không dân dụng Việt Nam số 61/2014/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "19.",
-                    "text": "",
+                    "text": " Quy hoạch vùng thông báo bay Luật Hàng không dân dụng Việt Nam số 66/2006/QH11 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật hàng không dân dụng Việt Nam số 61/2014/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "20.",
-                    "text": "",
+                    "text": " Quy hoạch chi tiết nhóm cảng biển, bến cảng, cầu cảng, bến phao, khu nước, vùng nước Bộ luật Hàng hải Việt Nam số 95/2015/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "21.",
-                    "text": "",
+                    "text": " Quy hoạch chi tiết phát triển vùng đất, vùng nước cảng biển Bộ luật Hàng hải Việt Nam số 95/2015/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "22.",
-                    "text": "",
+                    "text": " Quy hoạch phát triển hệ thống cảng cạn Bộ luật Hàng hải Việt Nam số 95/2015/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "23.",
-                    "text": "",
+                    "text": " Quy hoạch kết cấu hạ tầng giao thông đường bộ Luật Giao thông đường bộ số 23/2008/QH12",
                     "sub_clauses": []
                 },
                 {
                     "number": "24.",
-                    "text": "",
+                    "text": " Quy hoạch phát triển, ứng dụng năng lượng nguyên tử Luật Năng lượng nguyên tử số 18/2008/QH12",
                     "sub_clauses": []
                 },
                 {
                     "number": "25.",
-                    "text": "",
+                    "text": " Quy hoạch phát triển điện hạt nhân Luật Năng lượng nguyên tử số 18/2008/QH12",
                     "sub_clauses": []
                 },
                 {
                     "number": "26.",
-                    "text": "",
+                    "text": " Quy hoạch hệ thống cơ sở khám bệnh, chữa bệnh Luật Khám bệnh, chữa bệnh số 40/2009/QH12",
                     "sub_clauses": []
                 },
                 {
                     "number": "27.",
-                    "text": "",
+                    "text": " Quy hoạch phát triển viễn thông quốc gia Luật Viễn thông số 41/2009/QH12",
                     "sub_clauses": []
                 },
                 {
                     "number": "28.",
-                    "text": "",
+                    "text": " Quy hoạch kho số viễn thông Luật Viễn thông số 41/2009/QH12",
                     "sub_clauses": []
                 },
                 {
                     "number": "29.",
-                    "text": "",
+                    "text": " Quy hoạch tài nguyên Internet Luật Viễn thông số 41/2009/QH12",
                     "sub_clauses": []
                 },
                 {
                     "number": "30.",
-                    "text": "",
+                    "text": " Quy hoạch hạ tầng kỹ thuật viễn thông thụ động Luật Viễn thông số 41/2009/QH12",
                     "sub_clauses": []
                 },
                 {
                     "number": "31.",
-                    "text": "",
+                    "text": " Quy hoạch tần số vô tuyến điện Luật Tần số vô tuyến điện số 42/2009/QH12",
                     "sub_clauses": []
                 },
                 {
                     "number": "32.",
-                    "text": "",
+                    "text": " Quy hoạch phát triển mạng bưu chính công cộng Luật Bưu chính số 49/2010/QH12",
                     "sub_clauses": []
                 },
                 {
                     "number": "33.",
-                    "text": "",
+                    "text": " Quy hoạch chi tiết mạng lưới kho dự trữ quốc gia Luật Dự trữ quốc gia số 22/2012/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "34.",
-                    "text": "",
+                    "text": " Quy hoạch các công trình quốc phòng, khu quân sự Luật Quốc phòng số 39/2005/QH11",
                     "sub_clauses": []
                 },
                 {
                     "number": "35.",
-                    "text": "",
+                    "text": " Quy hoạch sử dụng biển của cả nước Luật Biển Việt Nam số 18/2012/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "36.",
-                    "text": "",
+                    "text": " Quy hoạch quảng cáo ngoài trời Luật Quảng cáo số 16/2012/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "37.",
-                    "text": "",
+                    "text": " Quy hoạch vùng và cơ sở an toàn dịch bệnh động vật Luật Thú y số 79/2015/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "38.",
-                    "text": "",
+                    "text": " Quy hoạch hệ thống kiểm nghiệm của Nhà nước Luật Dược số 105/2016/QH13",
                     "sub_clauses": []
                 },
                 {
                     "number": "39.",
-                    "text": "",
+                    "text": " Quy hoạch khác có tính chất kỹ thuật, chuyên ngành để tích hợp vào hệ thống quy hoạch quốc gia PHỤ LỤC III DANH MỤC CÁC BỘ LUẬT, LUẬT CÓ QUY ĐỊNH LIÊN QUAN ĐẾN QUY HOẠCH CẦN SỬA ĐỔI, BỔ SUNG TT TÊN BỘ LUẬT, LUẬT CÁC ĐIỂM, KHOẢN, ĐIỀU CẦN SỬA ĐỔI, BỔ SUNG",
                     "sub_clauses": []
                 },
                 {
                     "number": "1.",
-                    "text": "",
+                    "text": " Bộ luật Hàng hải Việt Nam số 95/2015/QH13 Khoản 2 Điều 7, khoản 12 Điều 12, Điều 44, Điều 46, khoản 1 Điều 48, Điều 81, điểm a và điểm b khoản 1 Điều 82, khoản 1 Điều 88, khoản 1 Điều 92, điểm đ khoản 1 Điều 126",
                     "sub_clauses": []
                 },
                 {
                     "number": "2.",
-                    "text": "",
+                    "text": " Luật Giao thông đường thủy nội địa số 23/2004/QH11 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật Giao thông đường thủy nội địa số 48/2014/QH13 Khoản 1 Điều 3, Điều 10, khoản 3 Điều 13, khoản 4 Điều 99, khoản 2 Điều 100",
                     "sub_clauses": []
                 },
                 {
                     "number": "3.",
-                    "text": "",
+                    "text": " Luật Giao thông đường bộ số 23/2008/QH12",
                     "sub_clauses": []
                 }
             ]
@@ -2773,7 +2827,7 @@
             "content": [
                 {
                     "number": "4.",
-                    "text": "",
+                    "text": " Luật Hóa chất số 06/2007/QH12",
                     "sub_clauses": []
                 }
             ]
@@ -2784,7 +2838,7 @@
             "content": [
                 {
                     "number": "5.",
-                    "text": "",
+                    "text": " Luật Đa dạng sinh học số 20/2008/QH12",
                     "sub_clauses": []
                 }
             ]
@@ -2795,17 +2849,17 @@
             "content": [
                 {
                     "number": "6.",
-                    "text": "",
+                    "text": " Luật Phòng, chống tác hại của thuốc lá số 09/2012/QH13 Khoản 3 Điều 4, Điều 20, khoản 1 Điều 21",
                     "sub_clauses": []
                 },
                 {
                     "number": "7.",
-                    "text": "",
+                    "text": " Luật Bảo vệ môi trường số 55/2014/QH13 Khoản 21 Điều 3, Điều 8, Điều 9, khoản 2 Điều 10, Điều 11, Điều 12, khoản 1 Điều 13, Điều 40, khoản 1 và khoản 5 Điều 49, khoản 1 Điều 52, Điều 94, Điều 98, điểm a khoản 3 Điều 142",
                     "sub_clauses": []
                 },
                 {
                     "number": "8.",
-                    "text": "",
+                    "text": " Luật Tài nguyên, môi trường biển và hải đảo số 82/2015/QH13",
                     "sub_clauses": []
                 }
             ]
@@ -2816,7 +2870,7 @@
             "content": [
                 {
                     "number": "9.",
-                    "text": "",
+                    "text": " Luật Đất đai số 45/2013/QH13",
                     "sub_clauses": []
                 }
             ]
@@ -2827,17 +2881,17 @@
             "content": [
                 {
                     "number": "10.",
-                    "text": "",
+                    "text": " Luật Khoáng sản số 60/2010/QH12 Khoản 1 và khoản 3 Điều 3, khoản 1 Điều 4, Điều 10, khoản 1 Điều 11, Điều 12, Điều 13, Điều 14, Điều 15, khoản 1 Điều 26, điểm b khoản 2 Điều 40, điểm b khoản 1 Điều 47, điểm a khoản 2 Điều 53, điểm b khoản 2 và khoản 3 Điều 80, điểm c khoản 1 Điều 81",
                     "sub_clauses": []
                 },
                 {
                     "number": "11.",
-                    "text": "",
+                    "text": " Luật Tài nguyên nước số 17/2012/QH13 Khoản 2 Điều 10, Điều 11, điểm a khoản 1 Điều 14, Điều 15, Điều 16, Điều 17, Điều 18, Điều 20, Điều 21, Điều 22, Điều 24, khoản 3 Điều 50, điểm b khoản 1 Điều 55, điểm a và điểm b khoản 2 Điều 70",
                     "sub_clauses": []
                 },
                 {
                     "number": "12.",
-                    "text": "",
+                    "text": " Luật Khí tượng thủy văn số 90/2015/QH13",
                     "sub_clauses": []
                 }
             ]
@@ -2848,7 +2902,7 @@
             "content": [
                 {
                     "number": "13.",
-                    "text": "",
+                    "text": " Luật Điện lực số 28/2004/QH11 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật điện lực số 24/2012/QH13",
                     "sub_clauses": []
                 }
             ]
@@ -2859,7 +2913,7 @@
             "content": [
                 {
                     "number": "14.",
-                    "text": "",
+                    "text": " Luật Khoa học và công nghệ số 29/2013/QH13",
                     "sub_clauses": []
                 }
             ]
@@ -2870,7 +2924,7 @@
             "content": [
                 {
                     "number": "15.",
-                    "text": "",
+                    "text": " Luật Giáo dục đại học số 08/2012/QH13",
                     "sub_clauses": []
                 }
             ]
@@ -2881,22 +2935,22 @@
             "content": [
                 {
                     "number": "16.",
-                    "text": "",
+                    "text": " Luật Xây dựng số 50/2014/QH13 Điểm a khoản 1 và điểm a khoản 2 Điều 14, Điều 16, Điều 20, khoản 5 Điều 34, Điều 35, Điều 40, Điều 41, Điều 42, Điều 43",
                     "sub_clauses": []
                 },
                 {
                     "number": "17.",
-                    "text": "",
+                    "text": " Luật Quy hoạch đô thị số 30/2009/QH12 Khoản 2 Điều 17, khoản 1 Điều 24, khoản 1 Điều 47, Điều 53, Điều 54, Điều 55",
                     "sub_clauses": []
                 },
                 {
                     "number": "18.",
-                    "text": "",
+                    "text": " Luật Công chứng số 53/2014/QH13 Khoản 1 Điều 18, khoản 1 Điều 24, điểm b và điểm c khoản 2 Điều 69, điểm b khoản 1 Điều 70",
                     "sub_clauses": []
                 },
                 {
                     "number": "19.",
-                    "text": "",
+                    "text": " Luật Đê điều số 79/2006/QH11",
                     "sub_clauses": []
                 }
             ]
@@ -2907,17 +2961,17 @@
             "content": [
                 {
                     "number": "20.",
-                    "text": "",
+                    "text": " Luật Trẻ em số 102/2016/QH13 Khoản 2 Điều 45, khoản 1 và khoản 2 Điều 57",
                     "sub_clauses": []
                 },
                 {
                     "number": "21.",
-                    "text": "",
+                    "text": " Luật Đầu tư số 67/2014/QH13 Khoản 1 Điều 20, Điều 21",
                     "sub_clauses": []
                 },
                 {
                     "number": "22.",
-                    "text": "",
+                    "text": " Luật Đầu tư công số 49/2014/QH13",
                     "sub_clauses": []
                 }
             ]
@@ -2928,21 +2982,318 @@
             "content": [
                 {
                     "number": "23.",
-                    "text": "",
+                    "text": " Luật Dược số 105/2016/QH13 Điểm c khoản 1 Điều 10",
                     "sub_clauses": []
                 },
                 {
                     "number": "24.",
-                    "text": "",
+                    "text": " Luật Sử dụng năng lượng tiết kiệm và hiệu quả số 50/2010/QH12 Điểm b khoản 1 và khoản 2 Điều 6",
                     "sub_clauses": []
                 },
                 {
                     "number": "25.",
-                    "text": "",
+                    "text": " Luật Thủy lợi số 08/2017/QH14 Khoản 5 Điều 11, Điều 12, Điều 13, Điều 14, điểm b khoản 1 Điều 57",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 4 thông qua ngày 24 tháng 11 năm 2017.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân",
+        "PHỤ LỤC",
+        "(Ban hành kèm theo Luật Quy hoạch số 21/2017/QH14)",
+        "PHỤ LỤC I",
+        "DANH MỤC CÁC QUY HOẠCH NGÀNH QUỐC GIA",
+        "TT",
+        "TÊN QUY HOẠCH",
+        "I",
+        "KẾT CẤU HẠ TẦNG",
+        "1.",
+        "Quy hoạch mạng lưới đường bộ",
+        "2.",
+        "Quy hoạch mạng lưới đường sắt",
+        "3.",
+        "Quy hoạch tổng thể phát triển hệ thống cảng biển",
+        "4.",
+        "Quy hoạch tổng thể phát triển hệ thống cảng hàng không, sân bay toàn quốc",
+        "5.",
+        "Quy hoạch kết cấu hạ tầng đường thủy nội địa",
+        "6.",
+        "Quy hoạch mạng lưới trạm khí tượng thủy văn quốc gia",
+        "7.",
+        "Quy hoạch tổng thể về năng lượng",
+        "8.",
+        "Quy hoạch phát triển điện lực",
+        "9.",
+        "Quy hoạch hạ tầng dự trữ, cung ứng xăng dầu, khí đốt",
+        "10.",
+        "Quy hoạch hạ tầng thông tin và truyền thông",
+        "11.",
+        "Quy hoạch phát triển mạng lưới cơ sở báo chí, phát thanh, truyền hình, thông tin điện tử, cơ sở xuất bản",
+        "12.",
+        "Quy hoạch phòng, chống thiên tai và thủy lợi",
+        "13.",
+        "Quy hoạch hệ thống du lịch",
+        "14.",
+        "Quy hoạch mạng lưới cơ sở văn hóa và thể thao",
+        "15.",
+        "Quy hoạch mạng lưới tổ chức khoa học và công nghệ công lập",
+        "16.",
+        "Quy hoạch mạng lưới cơ sở giáo dục đại học và sư phạm",
+        "17.",
+        "Quy hoạch hệ thống cơ sở giáo dục chuyên biệt đối với người khuyết tật và hệ thống trung tâm hỗ trợ phát triển giáo dục hòa nhập",
+        "18.",
+        "Quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp",
+        "19.",
+        "Quy hoạch mạng lưới cơ sở trợ giúp xã hội",
+        "20.",
+        "Quy hoạch hệ thống cơ sở xã hội nuôi dưỡng, điều dưỡng người có công với cách mạng",
+        "21.",
+        "Quy hoạch hệ thống cảng cá, khu neo đậu tránh trú bão cho tàu cá",
+        "22.",
+        "Quy hoạch mạng lưới cơ sở y tế",
+        "23.",
+        "Quy hoạch tổng thể hệ thống kho dự trữ quốc gia",
+        "24.",
+        "Quy hoạch hệ thống các công trình quốc phòng, khu quân sự, kho đạn dược, công nghiệp quốc phòng",
+        "25.",
+        "Quy hoạch hạ tầng phòng cháy và chữa cháy",
+        "26.",
+        "Quy hoạch hệ thống đô thị và nông thôn",
+        "27.",
+        "Quy hoạch hệ thống trung tâm giáo dục quốc phòng và an ninh",
+        "II",
+        "SỬ DỤNG TÀI NGUYÊN",
+        "28.",
+        "Quy hoạch tổng thể khai thác, sử dụng bền vững tài nguyên vùng bờ",
+        "29.",
+        "Quy hoạch điều tra cơ bản địa chất về khoáng sản",
+        "30.",
+        "Quy hoạch tài nguyên nước",
+        "31.",
+        "Quy hoạch thăm dò, khai thác, chế biến và sử dụng quặng phóng xạ",
+        "32.",
+        "Quy hoạch thăm dò, khai thác, chế biến và sử dụng các loại khoáng sản",
+        "33.",
+        "Quy hoạch thăm dò, khai thác, chế biến và sử dụng các loại khoáng sản làm vật liệu xây dựng",
+        "34.",
+        "Quy hoạch lâm nghiệp",
+        "35.",
+        "Quy hoạch bảo vệ và khai thác nguồn lợi thủy sản",
+        "36.",
+        "Quy hoạch sử dụng đất quốc phòng",
+        "37.",
+        "Quy hoạch sử dụng đất an ninh",
+        "III",
+        "BẢO VỆ MÔI TRƯỜNG",
+        "38.",
+        "Quy hoạch bảo vệ môi trường",
+        "IV",
+        "BẢO TỒN ĐA DẠNG SINH HỌC",
+        "39.",
+        "Quy hoạch tổng thể bảo tồn đa dạng sinh học",
+        "PHỤ LỤC II",
+        "DANH MỤC CÁC QUY HOẠCH CÓ TÍNH CHẤT KỸ THUẬT, CHUYÊN NGÀNH",
+        "STT",
+        "TÊN QUY HOẠCH",
+        "VĂN BẢN QUY ĐỊNH",
+        "1.",
+        "Quy hoạch sử dụng đất cấp huyện",
+        "Luật Đất đai số 45/2013/QH13",
+        "2.",
+        "Quy hoạch tổng thể quan trắc môi trường quốc gia",
+        "Luật Bảo vệ môi trường số 55/2014/QH13",
+        "3.",
+        "Quy hoạch tổng hợp lưu vực sông liên tỉnh, nguồn nước liên tỉnh",
+        "Luật Tài nguyên nước số 17/2012/QH13",
+        "4.",
+        "Quy hoạch bảo vệ, khai thác, sử dụng nguồn nước liên quốc gia",
+        "Luật Tài nguyên nước số 17/2012/QH13",
+        "5.",
+        "Quy hoạch tổng thể điều tra cơ bản tài nguyên nước",
+        "Luật Tài nguyên nước số 17/2012/QH13",
+        "6.",
+        "Quy hoạch vùng không nhiễm sinh vật gây hại",
+        "Luật Bảo vệ và kiểm dịch thực vật số 41/2013/QH13",
+        "7.",
+        "Quy hoạch thủy lợi",
+        "Luật Thủy lợi số 08/2017/QH14",
+        "8.",
+        "Quy hoạch phòng, chống lũ của tuyến sông có đê",
+        "Luật Đê điều số 79/2006/QH11",
+        "9.",
+        "Quy hoạch đê điều",
+        "Luật Đê điều số 79/2006/QH11",
+        "10.",
+        "Quy hoạch vùng dân cư và tổ chức sản xuất thích ứng với thiên tai",
+        "Luật Phòng, chống thiên tai số 33/2013/QH13",
+        "11.",
+        "Quy hoạch xây dựng",
+        "Luật Xây dựng số 50/2014/QH13",
+        "12.",
+        "Quy hoạch bảo quản, tu bổ, phục hồi di tích",
+        "Luật Di sản văn hóa số 28/2001/QH10 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật Di sản văn hóa số 32/2009/QH12",
+        "13.",
+        "Quy hoạch khảo cổ",
+        "Luật Di sản văn hóa số 28/2001/QH10 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật Di sản văn hóa số 32/2009/QH12",
+        "14.",
+        "Quy hoạch hệ thống cơ sở chỉnh hình, phục hồi chức năng và cơ sở chăm sóc người khuyết tật",
+        "Luật Người khuyết tật số 51/2010/QH12",
+        "15.",
+        "Quy hoạch cơ sở chăm sóc người cao tuổi",
+        "Luật Người cao tuổi số 39/2009/QH12",
+        "16.",
+        "Quy hoạch mạng lưới cơ sở giáo dục đại học",
+        "Luật Giáo dục đại học số 08/2012/QH13",
+        "17.",
+        "Quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp cấp tỉnh, của Bộ, cơ quan ngang Bộ",
+        "Luật Giáo dục nghề nghiệp số 74/2014/QH13",
+        "18.",
+        "Quy hoạch cửa khẩu; quy hoạch tuyến, ga đường sắt; quy hoạch cảng hàng không, sân bay",
+        "Luật Biên giới quốc gia số 06/2003/QH11; Luật Đường sắt số 06/2017/QH14; Luật Hàng không dân dụng Việt Nam số 66/2006/QH11 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật hàng không dân dụng Việt Nam số 61/2014/QH13",
+        "19.",
+        "Quy hoạch vùng thông báo bay",
+        "Luật Hàng không dân dụng Việt Nam số 66/2006/QH11 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật hàng không dân dụng Việt Nam số 61/2014/QH13",
+        "20.",
+        "Quy hoạch chi tiết nhóm cảng biển, bến cảng, cầu cảng, bến phao, khu nước, vùng nước",
+        "Bộ luật Hàng hải Việt Nam số 95/2015/QH13",
+        "21.",
+        "Quy hoạch chi tiết phát triển vùng đất, vùng nước cảng biển",
+        "Bộ luật Hàng hải Việt Nam số 95/2015/QH13",
+        "22.",
+        "Quy hoạch phát triển hệ thống cảng cạn",
+        "Bộ luật Hàng hải Việt Nam số 95/2015/QH13",
+        "23.",
+        "Quy hoạch kết cấu hạ tầng giao thông đường bộ",
+        "Luật Giao thông đường bộ số 23/2008/QH12",
+        "24.",
+        "Quy hoạch phát triển, ứng dụng năng lượng nguyên tử",
+        "Luật Năng lượng nguyên tử số 18/2008/QH12",
+        "25.",
+        "Quy hoạch phát triển điện hạt nhân",
+        "Luật Năng lượng nguyên tử số 18/2008/QH12",
+        "26.",
+        "Quy hoạch hệ thống cơ sở khám bệnh, chữa bệnh",
+        "Luật Khám bệnh, chữa bệnh số 40/2009/QH12",
+        "27.",
+        "Quy hoạch phát triển viễn thông quốc gia",
+        "Luật Viễn thông số 41/2009/QH12",
+        "28.",
+        "Quy hoạch kho số viễn thông",
+        "Luật Viễn thông số 41/2009/QH12",
+        "29.",
+        "Quy hoạch tài nguyên Internet",
+        "Luật Viễn thông số 41/2009/QH12",
+        "30.",
+        "Quy hoạch hạ tầng kỹ thuật viễn thông thụ động",
+        "Luật Viễn thông số 41/2009/QH12",
+        "31.",
+        "Quy hoạch tần số vô tuyến điện",
+        "Luật Tần số vô tuyến điện số 42/2009/QH12",
+        "32.",
+        "Quy hoạch phát triển mạng bưu chính công cộng",
+        "Luật Bưu chính số 49/2010/QH12",
+        "33.",
+        "Quy hoạch chi tiết mạng lưới kho dự trữ quốc gia",
+        "Luật Dự trữ quốc gia số 22/2012/QH13",
+        "34.",
+        "Quy hoạch các công trình quốc phòng, khu quân sự",
+        "Luật Quốc phòng số 39/2005/QH11",
+        "35.",
+        "Quy hoạch sử dụng biển của cả nước",
+        "Luật Biển Việt Nam số 18/2012/QH13",
+        "36.",
+        "Quy hoạch quảng cáo ngoài trời",
+        "Luật Quảng cáo số 16/2012/QH13",
+        "37.",
+        "Quy hoạch vùng và cơ sở an toàn dịch bệnh động vật",
+        "Luật Thú y số 79/2015/QH13",
+        "38.",
+        "Quy hoạch hệ thống kiểm nghiệm của Nhà nước",
+        "Luật Dược số 105/2016/QH13",
+        "39.",
+        "Quy hoạch khác có tính chất kỹ thuật, chuyên ngành để tích hợp vào hệ thống quy hoạch quốc gia",
+        "PHỤ LỤC III",
+        "DANH MỤC CÁC BỘ LUẬT, LUẬT CÓ QUY ĐỊNH LIÊN QUAN ĐẾN QUY HOẠCH CẦN SỬA ĐỔI, BỔ SUNG",
+        "TT",
+        "TÊN BỘ LUẬT, LUẬT",
+        "CÁC ĐIỂM, KHOẢN, ĐIỀU CẦN SỬA ĐỔI, BỔ SUNG",
+        "1.",
+        "Bộ luật Hàng hải Việt Nam số 95/2015/QH13",
+        "Khoản 2 Điều 7, khoản 12 Điều 12, Điều 44, Điều 46, khoản 1 Điều 48, Điều 81, điểm a và điểm b khoản 1 Điều 82, khoản 1 Điều 88, khoản 1 Điều 92, điểm đ khoản 1 Điều 126",
+        "2.",
+        "Luật Giao thông đường thủy nội địa số 23/2004/QH11 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật Giao thông đường thủy nội địa số 48/2014/QH13",
+        "Khoản 1 Điều 3, Điều 10, khoản 3 Điều 13, khoản 4 Điều 99, khoản 2 Điều 100",
+        "3.",
+        "Luật Giao thông đường bộ số 23/2008/QH12",
+        "Điều 6, khoản 2 Điều 46, khoản 3 Điều 64, khoản 1 Điều 84",
+        "4.",
+        "Luật Hóa chất số 06/2007/QH12",
+        "Điều 8, Điều 9, khoản 3 Điều 49",
+        "5.",
+        "Luật Đa dạng sinh học số 20/2008/QH12",
+        "Điều 8, Điều 10, Điều 11, Điều 12, Điều 13, Điều 14, Điều 15, khoản 1 Điều 24",
+        "6.",
+        "Luật Phòng, chống tác hại của thuốc lá số 09/2012/QH13",
+        "Khoản 3 Điều 4, Điều 20, khoản 1 Điều 21",
+        "7.",
+        "Luật Bảo vệ môi trường số 55/2014/QH13",
+        "Khoản 21 Điều 3, Điều 8, Điều 9, khoản 2 Điều 10, Điều 11, Điều 12, khoản 1 Điều 13, Điều 40, khoản 1 và khoản 5 Điều 49, khoản 1 Điều 52, Điều 94, Điều 98, điểm a khoản 3 Điều 142",
+        "8.",
+        "Luật Tài nguyên, môi trường biển và hải đảo số 82/2015/QH13",
+        "Điều 26, Điều 27, Điều 28, Điều 29, Điều 30, Điều 31, Điều 32",
+        "9.",
+        "Luật Đất đai số 45/2013/QH13",
+        "Điều 35, khoản 1 và khoản 2 Điều 38, khoản 1 Điều 39, khoản 1 Điều 40, Điều 41, Điều 42, Điều 43, Điều 44, Điều 45, Điều 46, Điều 48, khoản 1 Điều 151",
+        "10.",
+        "Luật Khoáng sản số 60/2010/QH12",
+        "Khoản 1 và khoản 3 Điều 3, khoản 1 Điều 4, Điều 10, khoản 1 Điều 11, Điều 12, Điều 13, Điều 14, Điều 15, khoản 1 Điều 26, điểm b khoản 2 Điều 40, điểm b khoản 1 Điều 47, điểm a khoản 2 Điều 53, điểm b khoản 2 và khoản 3 Điều 80, điểm c khoản 1 Điều 81",
+        "11.",
+        "Luật Tài nguyên nước số 17/2012/QH13",
+        "Khoản 2 Điều 10, Điều 11, điểm a khoản 1 Điều 14, Điều 15, Điều 16, Điều 17, Điều 18, Điều 20, Điều 21, Điều 22, Điều 24, khoản 3 Điều 50, điểm b khoản 1 Điều 55, điểm a và điểm b khoản 2 Điều 70",
+        "12.",
+        "Luật Khí tượng thủy văn số 90/2015/QH13",
+        "Điều 11",
+        "13.",
+        "Luật Điện lực số 28/2004/QH11 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật điện lực số 24/2012/QH13",
+        "Điều 8, Điều 8a, Điều 9, Điều 10",
+        "14.",
+        "Luật Khoa học và công nghệ số 29/2013/QH13",
+        "Điều 10, khoản 2 và khoản 3 Điều 67",
+        "15.",
+        "Luật Giáo dục đại học số 08/2012/QH13",
+        "Điều 11, điểm a khoản 1 Điều 22",
+        "16.",
+        "Luật Xây dựng số 50/2014/QH13",
+        "Điểm a khoản 1 và điểm a khoản 2 Điều 14, Điều 16, Điều 20, khoản 5 Điều 34, Điều 35, Điều 40, Điều 41, Điều 42, Điều 43",
+        "17.",
+        "Luật Quy hoạch đô thị số 30/2009/QH12",
+        "Khoản 2 Điều 17, khoản 1 Điều 24, khoản 1 Điều 47, Điều 53, Điều 54, Điều 55",
+        "18.",
+        "Luật Công chứng số 53/2014/QH13",
+        "Khoản 1 Điều 18, khoản 1 Điều 24, điểm b và điểm c khoản 2 Điều 69, điểm b khoản 1 Điều 70",
+        "19.",
+        "Luật Đê điều số 79/2006/QH11",
+        "Điều 12, Điều 13, Điều 14, Điều 16, Điều 17, Điều 18, Điều 19",
+        "20.",
+        "Luật Trẻ em số 102/2016/QH13",
+        "Khoản 2 Điều 45, khoản 1 và khoản 2 Điều 57",
+        "21.",
+        "Luật Đầu tư số 67/2014/QH13",
+        "Khoản 1 Điều 20, Điều 21",
+        "22.",
+        "Luật Đầu tư công số 49/2014/QH13",
+        "Điều 8, Điều 9, Điều 10, điểm d khoản 2 Điều 21, khoản 2 Điều 40, điểm b khoản 2 Điều 47",
+        "23.",
+        "Luật Dược số 105/2016/QH13",
+        "Điểm c khoản 1 Điều 10",
+        "24.",
+        "Luật Sử dụng năng lượng tiết kiệm và hiệu quả số 50/2010/QH12",
+        "Điểm b khoản 1 và khoản 2 Điều 6",
+        "25.",
+        "Luật Thủy lợi số 08/2017/QH14",
+        "Khoản 5 Điều 11, Điều 12, Điều 13, Điều 14, điểm b khoản 1 Điều 57"
+    ]
 }

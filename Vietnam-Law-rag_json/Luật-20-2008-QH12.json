@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về bảo tồn và phát triển bền vững đa dạng sinh học; quyền và nghĩa vụ của tổ chức, hộ gia đình, cá nhân trong bảo tồn và phát triển bền vững đa dạng sinh học."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, hộ gia đình, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài có hoạt động trực tiếp hoặc liên quan đến bảo tồn và phát triển bền vững đa dạng sinh học tại Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -707,6 +728,13 @@
         "text": "Chính phủ quy định cụ thể tiêu chí phân cấp khu bảo tồn."
     },
     {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Vườn quốc gia",
+        "text": "Vườn quốc gia phải có các tiêu chí chủ yếu sau đây:"
+    },
+    {
         "id": "Điều 17.1",
         "article": "Điều 17",
         "clause": "1",
@@ -1183,6 +1211,13 @@
         "text": "Căn cứ vào tình hình thực tế của địa phương, khu bảo tồn cấp tỉnh được giao cho Ban quản lý là đơn vị sự nghiệp công lập tự chủ về tài chính hoặc đơn vị sự nghiệp công lập chưa tự chủ về tài chính hoặc tổ chức được giao quản lý khu bảo tồn theo quy định của pháp luật."
     },
     {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Quyền và trách nhiệm của Ban quản lý, tổ chức được giao quản lý khu bảo tồn",
+        "text": "Ban quản lý khu bảo tồn, tổ chức được giao quản lý khu bảo tồn có các quyền và trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 29.1",
         "article": "Điều 29",
         "clause": "1",
@@ -1279,6 +1314,13 @@
         "clause": "2",
         "title": "Quyền và nghĩa vụ của hộ gia đình, cá nhân sinh sống hợp pháp trong khu bảo tồn",
         "text": "Chính phủ quy định cụ thể việc thực hiện Điều này."
+    },
+    {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của tổ chức, cá nhân có hoạt động hợp pháp trong khu bảo tồn",
+        "text": "Tổ chức, cá nhân có hoạt động hợp pháp trong khu bảo tồn có các quyền và nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 31.1",
@@ -1869,6 +1911,13 @@
         "text": "Việc nuôi sinh sản, nuôi sinh trưởng và trồng, cấy nhân tạo một số loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ tại cơ sở nuôi sinh sản, nuôi sinh trưởng và trồng, cấy nhân tạo phục vụ mục đích thương mại được thực hiện theo quy định của pháp luật."
     },
     {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Trao đổi, xuất khẩu, nhập khẩu, mua, bán, tặng cho, lưu giữ, vận chuyển các loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ và mẫu vật di truyền, sản phẩm của chúng",
+        "text": "Việc trao đổi, xuất khẩu, nhập khẩu, mua, bán, tặng cho, lưu giữ, vận chuyển loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ và mẫu vật di truyền của chúng phục vụ mục đích bảo tồn đa dạng sinh học, nghiên cứu khoa học, du lịch sinh thái; việc trao đổi, xuất khẩu, nhập khẩu, mua, bán, tặng cho, vận chuyển một số loài thuộc Danh mục loài nguy cấp, quý, hiếm được ưu tiên bảo vệ và các sản phẩm của chúng phục vụ mục đích thương mại được thực hiện theo quy định cụ thể của Chính phủ."
+    },
+    {
         "id": "Điều 47.1",
         "article": "Điều 47",
         "clause": "1",
@@ -2126,6 +2175,13 @@
         "clause": "2d",
         "title": "Quyền và nghĩa vụ của tổ chức, hộ gia đình, cá nhân được giao quản lý nguồn gen",
         "text": "Chịu trách nhiệm trước pháp luật và cơ quan quản lý nhà nước có thẩm quyền về việc quản lý nguồn gen."
+    },
+    {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Trình tự, thủ tục tiếp cận nguồn gen",
+        "text": "Trình tự, thủ tục tiếp cận nguồn gen được quy định như sau:"
     },
     {
         "id": "Điều 57.1",
@@ -2702,6 +2758,13 @@
         "text": "Nhà nước khuyến khích, tạo điều kiện cho tổ chức, cá nhân Việt Nam, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài thực hiện các chương trình, dự án hợp tác quốc tế về đa dạng sinh học."
     },
     {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Hợp tác với các nước có chung biên giới với Việt Nam",
+        "text": "Nhà nước ưu tiên hợp tác với các nước có chung biên giới với Việt Nam bằng các hoạt động sau đây:"
+    },
+    {
         "id": "Điều 70.1",
         "article": "Điều 70",
         "clause": "1",
@@ -3008,5 +3071,19 @@
         "clause": "2",
         "title": "Quy định chuyển tiếp",
         "text": "Các loại giấy phép, giấy chứng nhận đã cấp cho các cơ sở bảo tồn đa dạng sinh học, cơ sở nuôi sinh sản, nuôi sinh trưởng, trồng cấy nhân tạo các loài động vật, thực vật hoang dã nguy cấp, quý, hiếm trước khi Luật này có hiệu lực nếu phù hợp với quy định của Luật này thì vẫn có giá trị thi hành."
+    },
+    {
+        "id": "Điều 77.0",
+        "article": "Điều 77",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2009."
+    },
+    {
+        "id": "Điều 78.0",
+        "article": "Điều 78",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 4 thông qua ngày 13  tháng 11  năm 2008. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

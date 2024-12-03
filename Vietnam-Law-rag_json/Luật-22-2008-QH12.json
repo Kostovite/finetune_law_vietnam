@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+        "text": "Luật này quy định về cán bộ, công chức; bầu cử, tuyển dụng, sử dụng, quản lý cán bộ, công chức; nghĩa vụ, quyền của cán bộ, công chức và điều kiện bảo đảm thi hành công vụ."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Hoạt động công vụ của cán bộ, công chức",
+        "text": "Hoạt động công vụ của cán bộ, công chức là việc thực hiện nhiệm vụ, quyền hạn của cán bộ, công chức theo quy định của Luật này và các quy định khác có liên quan."
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -89,6 +103,20 @@
         "clause": "5",
         "title": "Các nguyên tắc quản lý cán bộ, công chức",
         "text": "Thực hiện bình đẳng giới."
+    },
+    {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Chính sách đối với người có tài năng",
+        "text": "Nhà nước có chính sách để phát hiện, thu hút, bồi dưỡng, trọng dụng và đãi ngộ xứng đáng đối với người có tài năng. Chính phủ quy định cụ thể chính sách đối với người có tài năng."
+    },
+    {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ sau đây được hiểu như sau:"
     },
     {
         "id": "Điều 7.1",
@@ -252,6 +280,13 @@
         "text": "Các nghĩa vụ khác theo quy định của pháp luật."
     },
     {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Nghĩa vụ của cán bộ, công chức là người đứng đầu",
+        "text": "Ngoài việc thực hiện quy định tại Điều 8 và Điều 9 của Luật này, cán bộ, công chức là người đứng đầu cơ quan, tổ chức, đơn vị còn phải thực hiện các nghĩa vụ sau đây:"
+    },
+    {
         "id": "Điều 10.1",
         "article": "Điều 10",
         "clause": "1",
@@ -343,6 +378,27 @@
         "text": "Được hưởng tiền làm thêm giờ, tiền làm đêm, công tác phí và các chế độ khác theo quy định của pháp luật."
     },
     {
+        "id": "Điều 13.0",
+        "article": "Điều 13",
+        "clause": "0",
+        "title": "Quyền của cán bộ, công chức về nghỉ ngơi",
+        "text": "Cán bộ, công chức được nghỉ hàng năm, nghỉ lễ, nghỉ để giải quyết việc riêng theo quy định của pháp luật về lao động. Trường hợp do yêu cầu nhiệm vụ, cán bộ, công chức không sử dụng hoặc sử dụng không hết số ngày nghỉ hàng năm thì ngoài tiền lương còn được thanh toán thêm một khoản tiền bằng tiền lương cho những ngày không nghỉ."
+    },
+    {
+        "id": "Điều 14.0",
+        "article": "Điều 14",
+        "clause": "0",
+        "title": "Các quyền khác của cán bộ, công chức",
+        "text": "Cán bộ, công chức được bảo đảm quyền học tập, nghiên cứu khoa học, tham gia các hoạt động kinh tế, xã hội; được hưởng chính sách ưu đãi về nhà ở, phương tiện đi lại, chế độ bảo hiểm xã hội, bảo hiểm y tế theo quy định của pháp luật; nếu bị thương hoặc hy sinh trong khi thi hành công vụ thì được xem xét hưởng chế độ, chính sách như thương binh hoặc được xem xét để công nhận là liệt sĩ và các quyền khác theo quy định của pháp luật. Mục 3 ĐẠO ĐỨC, VĂN HÓA GIAO TIẾP CỦA CÁN BỘ, CÔNG CHỨC"
+    },
+    {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Đạo đức của cán bộ, công chức",
+        "text": "Cán bộ, công chức phải thực hiện cần, kiệm, liêm, chính, chí công vô tư trong hoạt động công vụ."
+    },
+    {
         "id": "Điều 16.1",
         "article": "Điều 16",
         "clause": "1",
@@ -427,6 +483,13 @@
         "text": "Chính phủ quy định cụ thể danh mục ngành, nghề, công việc, thời hạn mà cán bộ, công chức không được làm và chính sách đối với những người phải áp dụng quy định tại Điều này."
     },
     {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Những việc khác cán bộ, công chức không được làm",
+        "text": "Ngoài những việc không được làm quy định tại Điều 18 và Điều 19 của Luật này, cán bộ, công chức còn không được làm những việc liên quan đến sản xuất, kinh doanh, công tác nhân sự quy định tại Luật phòng, chống tham nhũng, Luật thực hành tiết kiệm, chống lãng phí và những việc khác theo quy định của pháp luật và của cơ quan có thẩm quyền. CHƯƠNG III CÁN BỘ Ở TRUNG ƯƠNG, CẤP TỈNH, CẤP HUYỆN"
+    },
+    {
         "id": "Điều 21.1",
         "article": "Điều 21",
         "clause": "1",
@@ -462,6 +525,20 @@
         "text": "Chịu trách nhiệm trước Đảng, Nhà nước, nhân dân và trước cơ quan, tổ chức có thẩm quyền về việc thực hiện nhiệm vụ, quyền hạn được giao."
     },
     {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Bầu cử, bổ nhiệm chức vụ, chức danh cán bộ trong cơ quan của Đảng Cộng sản Việt Nam, tổ chức chính trị - xã hội",
+        "text": "Việc bầu cử, bổ nhiệm chức vụ, chức danh cán bộ trong cơ quan của Đảng Cộng sản Việt Nam, tổ chức chính trị - xã hội được thực hiện theo quy định của điều lệ, pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Bầu cử, phê chuẩn, bổ nhiệm chức vụ, chức danh cán bộ trong cơ quan nhà nước",
+        "text": "Việc bầu cử, phê chuẩn, bổ nhiệm chức vụ, chức danh cán bộ theo nhiệm kỳ trong cơ quan nhà nước từ trung ương đến cấp huyện được thực hiện theo quy định của Hiến pháp, Luật tổ chức Quốc hội, Luật tổ chức Chính phủ, Luật tổ chức Hội đồng nhân dân và Uỷ ban nhân dân, Luật tổ chức Tòa án nhân dân, Luật tổ chức Viện kiểm sát nhân dân, Luật kiểm toán nhà nước, Luật bầu cử đại biểu Quốc hội, Luật bầu cử đại biểu Hội đồng nhân dân."
+    },
+    {
         "id": "Điều 25.1",
         "article": "Điều 25",
         "clause": "1",
@@ -488,6 +565,13 @@
         "clause": "2",
         "title": "Điều động, luân chuyển cán bộ",
         "text": "Việc điều động, luân chuyển cán bộ được thực hiện theo quy định của pháp luật và của cơ quan có thẩm quyền."
+    },
+    {
+        "id": "Điều 27.0",
+        "article": "Điều 27",
+        "clause": "0",
+        "title": "Mục đích đánh giá cán bộ",
+        "text": "Đánh giá cán bộ để làm rõ phẩm chất chính trị, đạo đức, năng lực, trình độ chuyên môn, nghiệp vụ, kết quả thực hiện nhiệm vụ được giao. Kết quả đánh giá là căn cứ để bố trí, sử dụng, đào tạo, bồi dưỡng, khen thưởng, kỷ luật và thực hiện chính sách đối với cán bộ."
     },
     {
         "id": "Điều 28.1",
@@ -770,6 +854,13 @@
         "text": "Công chức không giữ chức vụ lãnh đạo, quản lý."
     },
     {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Căn cứ tuyển dụng công chức",
+        "text": "Việc tuyển dụng công chức phải căn cứ vào yêu cầu nhiệm vụ, vị trí việc làm và chỉ tiêu biên chế."
+    },
+    {
         "id": "Điều 36.1",
         "article": "Điều 36",
         "clause": "1",
@@ -936,6 +1027,20 @@
         "clause": "5",
         "title": "Cơ quan thực hiện tuyển dụng công chức",
         "text": "Cơ quan của Đảng Cộng sản Việt Nam, tổ chức chính trị - xã hội tuyển dụng và phân cấp tuyển dụng công chức trong cơ quan, tổ chức, đơn vị thuộc quyền quản lý."
+    },
+    {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Tập sự đối với công chức",
+        "text": "Người được tuyển dụng vào công chức phải thực hiện chế độ tập sự theo quy định của Chính phủ."
+    },
+    {
+        "id": "Điều 41.0",
+        "article": "Điều 41",
+        "clause": "0",
+        "title": "Tuyển chọn, bổ nhiệm Thẩm phán, Kiểm sát viên",
+        "text": "Việc tuyển chọn, bổ nhiệm Thẩm phán Tòa án nhân dân, Kiểm sát viên Viện kiểm sát nhân dân được thực hiện theo quy định của pháp luật về tổ chức Tòa án nhân dân và pháp luật về tổ chức Viện kiểm sát nhân dân. Mục 3 CÁC QUY ĐỊNH VỀ NGẠCH CÔNG CHỨC"
     },
     {
         "id": "Điều 42.1",
@@ -1358,6 +1463,13 @@
         "text": "Thẩm quyền, trình tự, thủ tục xem xét, quyết định việc từ chức hoặc miễn nhiệm công chức lãnh đạo, quản lý được thực hiện theo quy định của pháp luật và của cơ quan có thẩm quyền. Mục 6 ĐÁNH GIÁ CÔNG CHỨC"
     },
     {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Mục đích đánh giá công chức",
+        "text": "Đánh giá công chức để làm rõ phẩm chất chính trị, đạo đức, năng lực, trình độ chuyên môn, nghiệp vụ, kết quả thực hiện nhiệm vụ được giao. Kết quả đánh giá là căn cứ để bố trí, sử dụng, bổ nhiệm, đào tạo, bồi dưỡng, khen thưởng, kỷ luật và thực hiện chính sách đối với công chức."
+    },
+    {
         "id": "Điều 56.1",
         "article": "Điều 56",
         "clause": "1",
@@ -1750,6 +1862,13 @@
         "text": "Việc đào tạo, bồi dưỡng cán bộ, công chức cấp xã phải căn cứ vào tiêu chuẩn của từng chức vụ, chức danh, yêu cầu nhiệm vụ và phù hợp với quy hoạch cán bộ, công chức. Chế độ đào tạo, bồi dưỡng cán bộ, công chức cấp xã do cơ quan có thẩm quyền của Đảng Cộng sản Việt Nam, Chính phủ quy định. Kinh phí đào tạo, bồi dưỡng cán bộ, công chức cấp xã do ngân sách nhà nước cấp và các nguồn thu khác theo quy định của pháp luật."
     },
     {
+        "id": "Điều 64.0",
+        "article": "Điều 64",
+        "clause": "0",
+        "title": "Đánh giá, phân loại, xin thôi làm nhiệm vụ, từ chức, miễn nhiệm, thôi việc, nghỉ hưu đối với cán bộ, công chức cấp xã",
+        "text": "Việc đánh giá, phân loại, xin thôi làm nhiệm vụ, từ chức, miễn nhiệm, thôi việc, nghỉ hưu đối với cán bộ, công chức cấp xã được thực hiện theo quy định tương ứng của Luật này đối với cán bộ, công chức và các quy định khác của pháp luật, điều lệ có liên quan. CHƯƠNG VI QUẢN LÝ CÁN BỘ, CÔNG CHỨC"
+    },
+    {
         "id": "Điều 65.1",
         "article": "Điều 65",
         "clause": "1",
@@ -1988,6 +2107,13 @@
         "text": "Người đứng đầu cơ quan, tổ chức, đơn vị có trách nhiệm xây dựng quy chế quản lý trang thiết bị làm việc trong công sở, bảo đảm hiệu quả, tiết kiệm."
     },
     {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Phương tiện đi lại để thi hành công vụ",
+        "text": "Nhà nước bố trí phương tiện đi lại cho cán bộ, công chức để thi hành công vụ theo quy định của pháp luật về quản lý, sử dụng tài sản nhà nước; trường hợp không bố trí được thì cán bộ, công chức được thanh toán chi phí đi lại theo quy định của Chính phủ. CHƯƠNG VIII THANH TRA CÔNG VỤ"
+    },
+    {
         "id": "Điều 74.1",
         "article": "Điều 74",
         "clause": "1",
@@ -2035,6 +2161,13 @@
         "clause": "2",
         "title": "Khen thưởng cán bộ, công chức",
         "text": "Cán bộ, công chức được khen thưởng do có thành tích xuất sắc hoặc công trạng thì được nâng lương trước thời hạn, được ưu tiên khi xem xét bổ nhiệm chức vụ cao hơn nếu cơ quan, tổ chức, đơn vị có nhu cầu. Chính phủ quy định cụ thể khoản này."
+    },
+    {
+        "id": "Điều 77.0",
+        "article": "Điều 77",
+        "clause": "0",
+        "title": "Miễn trách nhiệm đối với cán bộ, công chức",
+        "text": "Cán bộ, công chức được miễn trách nhiệm trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 77.1",
@@ -2240,6 +2373,13 @@
         "text": "Cán bộ, công chức bị kỷ luật cách chức do tham nhũng thì không được bổ nhiệm vào vị trí lãnh đạo, quản lý."
     },
     {
+        "id": "Điều 83.0",
+        "article": "Điều 83",
+        "clause": "0",
+        "title": "Quản lý hồ sơ khen thưởng, kỷ luật cán bộ, công chức",
+        "text": "Việc khen thưởng, kỷ luật cán bộ, công chức được lưu vào hồ sơ cán bộ, công chức. CHƯƠNG X ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
         "id": "Điều 84.1",
         "article": "Điều 84",
         "clause": "1",
@@ -2268,6 +2408,13 @@
         "text": "Chính phủ quy định khung số lượng, chế độ, chính sách đối với những người hoạt động không chuyên trách ở cấp xã."
     },
     {
+        "id": "Điều 85.0",
+        "article": "Điều 85",
+        "clause": "0",
+        "title": "Điều khoản chuyển tiếp đối với những người làm việc trong đơn vị sự nghiệp công lập",
+        "text": "Các quy định của pháp luật hiện hành liên quan đến những người làm việc trong đơn vị sự nghiệp công lập mà không phải là cán bộ, công chức quy định tại Luật này được tiếp tục thực hiện cho đến khi ban hành Luật viên chức."
+    },
+    {
         "id": "Điều 86.1",
         "article": "Điều 86",
         "clause": "1",
@@ -2280,5 +2427,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Pháp lệnh cán bộ, công chức ngày 26 tháng 02 năm 1998; Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh cán bộ, công chức ngày 28 tháng 4 năm 2000; Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh cán bộ, công chức ngày 29 tháng 4 năm 2003 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 87.0",
+        "article": "Điều 87",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Ủy ban thường vụ Quốc hội, Chính phủ và các cơ quan khác có thẩm quyền quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật này; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. _____________________________________________________________________________ Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 4 thông qua ngày 13 tháng 11 năm 2008. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

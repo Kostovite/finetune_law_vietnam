@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định việc điều tra cơ bản địa chất về khoáng sản; bảo vệ khoáng sản chưa khai thác; thăm dò, khai thác khoáng sản; quản lý nhà nước về khoáng sản trong phạm vi đất liền, hải đảo, nội thủy, lãnh hải, vùng tiếp giáp lãnh hải, vùng đặc quyền kinh tế và thềm lục địa của nước Cộng hòa xã hội chủ nghĩa Việt Nam. Khoáng sản là dầu khí; khoáng sản là nước thiên nhiên không phải là nước khoáng, nước nóng thiên nhiên không thuộc phạm vi điều chỉnh của Luật này."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -945,6 +959,13 @@
         "text": "Bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Tài nguyên và Môi trường, Bộ Công an, Bộ Quốc phòng trong việc bảo vệ khoáng sản chưa khai thác."
     },
     {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Kinh phí cho công tác bảo vệ khoáng sản chưa khai thác",
+        "text": "Nhà nước bảo đảm kinh phí cho công tác bảo vệ khoáng sản chưa khai thác. Kinh phí cho công tác bảo vệ khoáng sản chưa khai thác được bố trí trong dự toán ngân sách nhà nước hằng năm. CHƯƠNG IV ĐIỀU TRA CƠ BẢN ĐỊA CHẤT VỀ KHOÁNG SẢN"
+    },
+    {
         "id": "Điều 21.1",
         "article": "Điều 21",
         "clause": "1",
@@ -1344,6 +1365,13 @@
         "text": "Nguồn nước, khối lượng nước và phương thức sử dụng nước, xả nước thải trong hoạt động khoáng sản phải được xác định trong đề án thăm dò, dự án đầu tư khai thác khoáng sản và thiết kế mỏ."
     },
     {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Bảo hiểm trong hoạt động khoáng sản",
+        "text": "Tổ chức, cá nhân hoạt động khoáng sản phải mua bảo hiểm phương tiện, công trình phục vụ hoạt động khoáng sản và các bảo hiểm khác theo quy định của pháp luật. CHƯƠNG VII THĂM DÒ KHOÁNG SẢN"
+    },
+    {
         "id": "Điều 34.1",
         "article": "Điều 34",
         "clause": "1",
@@ -1433,6 +1461,13 @@
         "clause": "2",
         "title": "Lựa chọn tổ chức, cá nhân thăm dò khoáng sản",
         "text": "Chính phủ quy định chi tiết việc lựa chọn tổ chức, cá nhân thăm dò khoáng sản."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Lựa chọn diện tích lập đề án thăm dò khoáng sản",
+        "text": "Tổ chức, cá nhân quy định tại Điều 34 của Luật này có nhu cầu thăm dò khoáng sản được tiến hành khảo sát tại thực địa, lấy mẫu trên mặt đất để lựa chọn diện tích lập đề án thăm dò khoáng sản sau khi có sự chấp thuận bằng văn bản của Ủy ban nhân dân cấp tỉnh nơi có khu vực dự kiến thăm dò khoáng sản."
     },
     {
         "id": "Điều 38.1",
@@ -1811,6 +1846,13 @@
         "clause": "4",
         "title": "Chuyển nhượng quyền thăm dò khoáng sản",
         "text": "Chính phủ quy định chi tiết việc chuyển nhượng quyền thăm dò khoáng sản."
+    },
+    {
+        "id": "Điều 44.0",
+        "article": "Điều 44",
+        "clause": "0",
+        "title": "Thăm dò khoáng sản độc hại",
+        "text": "Ngoài việc thực hiện nghĩa vụ quy định tại khoản 2 Điều 42 của Luật này, tổ chức, cá nhân thăm dò khoáng sản độc hại phải thực hiện các biện pháp ngăn ngừa ô nhiễm môi trường, tác động xấu đến sức khỏe con người; trường hợp đã gây ô nhiễm môi trường thì phải xác định đầy đủ các yếu tố gây ô nhiễm, thực hiện các biện pháp khắc phục, giảm thiểu ô nhiễm; trường hợp thăm dò khoáng sản độc hại có chứa chất phóng xạ còn phải thực hiện quy định của Luật năng lượng nguyên tử và các quy định khác của pháp luật có liên quan."
     },
     {
         "id": "Điều 45.1",
@@ -2464,6 +2506,13 @@
         "text": "Nghĩa vụ khác theo quy định của pháp luật."
     },
     {
+        "id": "Điều 56.0",
+        "article": "Điều 56",
+        "clause": "0",
+        "title": "Khai thác khoáng sản độc hại có chứa chất phóng xạ",
+        "text": "Ngoài việc thực hiện nghĩa vụ quy định tại khoản 2 Điều 55 của Luật này, tổ chức, cá nhân khai thác khoáng sản độc hại có chứa chất phóng xạ còn phải thực hiện quy định của Luật năng lượng nguyên tử và các quy định khác của pháp luật có liên quan."
+    },
+    {
         "id": "Điều 57.1",
         "article": "Điều 57",
         "clause": "1",
@@ -3052,6 +3101,20 @@
         "text": "Chính phủ quy định chi tiết việc chuyển nhượng quyền khai thác khoáng sản. Mục 2 KHAI THÁC TẬN THU KHOÁNG SẢN"
     },
     {
+        "id": "Điều 67.0",
+        "article": "Điều 67",
+        "clause": "0",
+        "title": "Khai thác tận thu khoáng sản",
+        "text": "Khai thác tận thu khoáng sản là hoạt động khai thác khoáng sản còn lại ở bãi thải của mỏ đã có quyết định đóng cửa mỏ."
+    },
+    {
+        "id": "Điều 68.0",
+        "article": "Điều 68",
+        "clause": "0",
+        "title": "Thời hạn Giấy phép khai thác tận thu khoáng sản",
+        "text": "Giấy phép khai thác tận thu khoáng sản có thời hạn không quá 05 năm, kể cả thời gian gia hạn Giấy phép."
+    },
+    {
         "id": "Điều 69.1",
         "article": "Điều 69",
         "clause": "1",
@@ -3239,6 +3302,13 @@
         "clause": "3",
         "title": "Thu hồi Giấy phép khai thác tận thu khoáng sản",
         "text": "Trường hợp Giấy phép khai thác tận thu khoáng sản bị thu hồi theo quy định tại điểm b khoản 1 Điều này thì tổ chức, cá nhân khai thác tận thu khoáng sản được bồi thường thiệt hại theo quy định của pháp luật. Mục 3 ĐÓNG CỬA MỎ KHOÁNG SẢN"
+    },
+    {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Đóng cửa mỏ khoáng sản",
+        "text": "Tổ chức, cá nhân khai thác khoáng sản phải lập đề án đóng cửa mỏ đối với toàn bộ hoặc một phần diện tích khai thác khoáng sản trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 73.1",
@@ -3645,5 +3715,19 @@
         "clause": "3",
         "title": "Điều khoản chuyển tiếp",
         "text": "Kể từ ngày Luật này có hiệu lực, tổ chức, cá nhân đang thực hiện theo giấy phép khai thác được cấp trước ngày Luật này có hiệu lực phải nộp tiền cấp quyền khai thác khoáng sản đối với phần trữ lượng khoáng sản chưa khai thác."
+    },
+    {
+        "id": "Điều 85.0",
+        "article": "Điều 85",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2011. Luật khoáng sản ngày 20 tháng 3 năm 1996 và Luật sửa đổi, bổ sung một số điều của Luật khoáng sản số 46/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 86.0",
+        "article": "Điều 86",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 8 thông qua ngày 17 tháng 11 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

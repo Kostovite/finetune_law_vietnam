@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về việc thành lập, tổ chức, hoạt động, kiểm soát đặc biệt, tổ chức lại, giải thể tổ chức tín dụng; việc thành lập, tổ chức, hoạt động của chi nhánh ngân hàng nước ngoài, văn phòng đại diện của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với các đối tượng sau đây:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -68,6 +82,13 @@
         "clause": "4b",
         "title": "Áp dụng Luật các tổ chức tín dụng, điều ước quốc tế, tập quán thương mại quốc tế và các luật có liên quan",
         "text": "Tập quán thương mại khác không trái với pháp luật của Việt Nam."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 4.1",
@@ -385,6 +406,13 @@
         "text": "Người điều hành tổ chức tín dụng bao gồm Tổng giám đốc (Giám đốc), Phó Tổng giám đốc (Phó giám đốc), Kế toán trưởng, Giám đốc chi nhánh và các chức danh tương đương theo quy định tại Điều lệ của tổ chức tín dụng."
     },
     {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Sử dụng thuật ngữ liên quan đến hoạt động ngân hàng",
+        "text": "Tổ chức không phải là tổ chức tín dụng không được phép sử dụng cụm từ hoặc thuật ngữ “tổ chức tín dụng”, “ngân hàng”, “công ty tài chính”, “công ty cho thuê tài chính” hoặc các cụm từ, thuật ngữ khác trong tên của tổ chức, chức danh hoặc trong các phần phụ thêm của tên, chức danh hoặc trong giấy tờ giao dịch hoặc quảng cáo của mình nếu việc sử dụng cụm từ, thuật ngữ đó có thể gây nhầm lẫn cho khách hàng về việc tổ chức của mình là một tổ chức tín dụng."
+    },
+    {
         "id": "Điều 6.1",
         "article": "Điều 6",
         "clause": "1",
@@ -476,6 +504,13 @@
         "text": "Chính phủ quy định cụ thể các hành vi cạnh tranh không lành mạnh trong hoạt động ngân hàng và hình thức xử lý các hành vi này."
     },
     {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Bảo vệ quyền lợi của khách hàng",
+        "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài có trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 10.1",
         "article": "Điều 10",
         "clause": "1",
@@ -509,6 +544,13 @@
         "clause": "5",
         "title": "Bảo vệ quyền lợi của khách hàng",
         "text": "Công bố thời gian giao dịch chính thức và không được tự ý ngừng giao dịch vào thời gian đã công bố. Trường hợp ngừng giao dịch trong thời gian giao dịch chính thức, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài phải niêm yết tại nơi giao dịch chậm nhất là 24 giờ trước thời điểm ngừng giao dịch. Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài không được phép ngừng giao dịch quá 01 ngày làm việc, trừ trường hợp quy định tại điểm e khoản 1 Điều 29 của Luật này."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Trách nhiệm phòng, chống rửa tiền, tài trợ khủng bố",
+        "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài có trách nhiệm sau đây:"
     },
     {
         "id": "Điều 11.1",
@@ -656,6 +698,13 @@
         "clause": "3",
         "title": "Ngân hàng chính sách",
         "text": "Ngân hàng chính sách phải thực hiện kiểm soát nội bộ, kiểm toán nội bộ; xây dựng, ban hành quy trình nội bộ về các hoạt động nghiệp vụ; thực hiện chế độ báo cáo thống kê, báo cáo hoạt động và hoạt động thanh toán theo quy định của Ngân hàng Nhà nước. CHƯƠNG II GIẤY PHÉP"
+    },
+    {
+        "id": "Điều 18.0",
+        "article": "Điều 18",
+        "clause": "0",
+        "title": "Thẩm quyền cấp, thu hồi Giấy phép",
+        "text": "Ngân hàng Nhà nước có thẩm quyền cấp, sửa đổi, bổ sung và thu hồi Giấy phép theo quy định của Luật này."
     },
     {
         "id": "Điều 19.1",
@@ -819,6 +868,13 @@
         "text": "Điều kiện cấp Giấy phép đối với ngân hàng hợp tác xã, quỹ tín dụng nhân dân, tổ chức tài chính vi mô do Ngân hàng Nhà nước quy định."
     },
     {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Hồ sơ, trình tự, thủ tục đề nghị cấp Giấy phép",
+        "text": "Ngân hàng Nhà nước quy định cụ thể hồ sơ, trình tự, thủ tục đề nghị cấp Giấy phép."
+    },
+    {
         "id": "Điều 22.1",
         "article": "Điều 22",
         "clause": "1",
@@ -838,6 +894,27 @@
         "clause": "3",
         "title": "Thời hạn cấp Giấy phép",
         "text": "Trường hợp từ chối cấp Giấy phép, Ngân hàng Nhà nước phải trả lời bằng văn bản và nêu rõ lý do."
+    },
+    {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Lệ phí cấp Giấy phép",
+        "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, văn phòng đại diện của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng được cấp Giấy phép phải nộp lệ phí cấp Giấy phép theo quy định của pháp luật về phí, lệ phí."
+    },
+    {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Đăng ký kinh doanh, đăng ký hoạt động",
+        "text": "Sau khi được cấp Giấy phép, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài phải đăng ký kinh doanh; văn phòng đại diện của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng phải đăng ký hoạt động theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Công bố thông tin hoạt động",
+        "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, văn phòng đại diện của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng phải công bố trên phương tiện thông tin của Ngân hàng Nhà nước và trên một tờ báo viết hằng ngày trong 03 số liên tiếp hoặc báo điện tử của Việt Nam ít nhất 30 ngày trước ngày dự kiến khai trương hoạt động các thông tin sau đây:"
     },
     {
         "id": "Điều 25.1",
@@ -2702,6 +2779,20 @@
         "text": "Trong thời hạn 05 năm, kể từ ngày được cấp Giấy phép, cổ đông sáng lập chỉ được phép chuyển nhượng cổ phần cho các cổ đông sáng lập khác với điều kiện bảo đảm các tỷ lệ sở hữu cổ phần quy định tại Điều 55 của Luật này."
     },
     {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Mua lại cổ phần của cổ đông",
+        "text": "Tổ chức tín dụng chỉ được mua lại cổ phần của cổ đông nếu sau khi thanh toán hết số cổ phần được mua lại mà vẫn bảo đảm các tỷ lệ an toàn trong hoạt động ngân hàng, giá trị thực của vốn điều lệ không giảm thấp hơn mức vốn pháp định; trường hợp mua lại cổ phần dẫn đến việc giảm vốn điều lệ của tổ chức tín dụng thì phải được Ngân hàng Nhà nước chấp thuận trước bằng văn bản."
+    },
+    {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Cổ phiếu",
+        "text": "Trường hợp cổ phiếu được phát hành dưới hình thức chứng chỉ, tổ chức tín dụng phải phát hành cổ phiếu cho các cổ đông trong thời hạn 30 ngày, kể từ ngày khai trương hoạt động đối với tổ chức tín dụng thành lập mới hoặc trong thời hạn 30 ngày, kể từ ngày cổ đông thanh toán đủ cổ phần cam kết mua đối với tổ chức tín dụng tăng vốn điều lệ."
+    },
+    {
         "id": "Điều 59.1",
         "article": "Điều 59",
         "clause": "1",
@@ -2917,6 +3008,20 @@
         "clause": "4",
         "title": "Đại hội đồng cổ đông",
         "text": "Quyết định về các vấn đề quy định tại các điểm a, d, e và r khoản 2 Điều này phải được thông qua bằng hình thức biểu quyết tại cuộc họp Đại hội đồng cổ đông."
+    },
+    {
+        "id": "Điều 60.0",
+        "article": "Điều 60",
+        "clause": "0",
+        "title": "Triệu tập Đại hội đồng cổ đông theo yêu cầu của Ngân hàng Nhà nước",
+        "text": "Trường hợp xảy ra sự kiện ảnh hưởng đến an toàn hoạt động của tổ chức tín dụng cổ phần, Ngân hàng Nhà nước có quyền yêu cầu Hội đồng quản trị của tổ chức tín dụng cổ phần triệu tập Đại hội đồng cổ đông bất thường và quyết định về nội dung Ngân hàng Nhà nước yêu cầu."
+    },
+    {
+        "id": "Điều 61.0",
+        "article": "Điều 61",
+        "clause": "0",
+        "title": "Báo cáo kết quả họp Đại hội đồng cổ đông",
+        "text": "Trong thời hạn 15 ngày, kể từ ngày bế mạc cuộc họp hoặc từ ngày kết thúc kiểm phiếu đối với trường hợp lấy ý kiến bằng văn bản, tất cả các nghị quyết, quyết định được Đại hội đồng cổ đông thông qua phải được gửi đến Ngân hàng Nhà nước."
     },
     {
         "id": "Điều 62.1",
@@ -3822,6 +3927,13 @@
         "text": "Các quyền, nghĩa vụ khác theo quy định tại Điều lệ của tổ chức tín dụng."
     },
     {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Tính chất và mục tiêu hoạt động",
+        "text": "Tổ chức tín dụng là hợp tác xã là loại hình tổ chức tín dụng được tổ chức theo mô hình hợp tác xã hoạt động trong lĩnh vực ngân hàng nhằm mục đích chủ yếu là tương trợ giữa các thành viên thực hiện có hiệu quả các hoạt động sản xuất, kinh doanh dịch vụ và cải thiện đời sống. Tổ chức tín dụng là hợp tác xã gồm ngân hàng hợp tác xã, quỹ tín dụng nhân dân."
+    },
+    {
         "id": "Điều 74.1",
         "article": "Điều 74",
         "clause": "1",
@@ -4340,6 +4452,13 @@
         "text": "Thông báo Hội đồng quản trị, báo cáo Đại hội thành viên và Ngân hàng Nhà nước về kết quả kiểm soát; kiến nghị với Hội đồng quản trị, Tổng giám đốc (Giám đốc) khắc phục những yếu kém, vi phạm trong hoạt động của ngân hàng hợp tác xã, quỹ tín dụng nhân dân."
     },
     {
+        "id": "Điều 85.0",
+        "article": "Điều 85",
+        "clause": "0",
+        "title": "Tổng giám đốc (Giám đốc) ngân hàng hợp tác xã, quỹ tín dụng nhân dân",
+        "text": "Hội đồng quản trị bổ nhiệm một thành viên Hội đồng quản trị hoặc thuê người khác làm Tổng giám đốc (Giám đốc) ngân hàng hợp tác xã, quỹ tín dụng nhân dân. Tổng giám đốc (Giám đốc) là người điều hành cao nhất, có nhiệm vụ điều hành các công việc hằng ngày của ngân hàng hợp tác xã, quỹ tín dụng nhân dân."
+    },
+    {
         "id": "Điều 86.1",
         "article": "Điều 86",
         "clause": "1",
@@ -4401,6 +4520,13 @@
         "clause": "2",
         "title": "Loại hình tổ chức tài chính vi mô",
         "text": "Cơ cấu tổ chức, quản trị, điều hành của tổ chức tài chính vi mô được thực hiện theo quy định của Luật này và các quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 88.0",
+        "article": "Điều 88",
+        "clause": "0",
+        "title": "Thành viên, vốn góp, cơ cấu tổ chức, địa bàn hoạt động của tổ chức tài chính vi mô",
+        "text": "Ngân hàng Nhà nước quy định việc tham gia góp vốn thành lập tổ chức tài chính vi mô của tổ chức, cá nhân nước ngoài; số lượng thành viên góp vốn; tỷ lệ sở hữu vốn góp, phần vốn góp của các tổ chức, cá nhân trong nước và nước ngoài vào tổ chức tài chính vi mô; giới hạn về cơ cấu tổ chức mạng lưới, địa bàn hoạt động của tổ chức tài chính vi mô. Mục 8 CHI NHÁNH NGÂN HÀNG NƯỚC NGOÀI TẠI VIỆT NAM"
     },
     {
         "id": "Điều 89.1",
@@ -4676,6 +4802,13 @@
         "text": "Thời hạn lưu trữ hồ sơ tín dụng thực hiện theo quy định của pháp luật."
     },
     {
+        "id": "Điều 97.0",
+        "article": "Điều 97",
+        "clause": "0",
+        "title": "Hoạt động ngân hàng điện tử",
+        "text": "Tổ chức tín dụng được thực hiện các hoạt động kinh doanh qua việc sử dụng các phương tiện điện tử theo hướng dẫn của Ngân hàng Nhà nước về quản lý rủi ro và quy định của pháp luật về giao dịch điện tử. Mục 2 HOẠT ĐỘNG CỦA NGÂN HÀNG THƯƠNG MẠI"
+    },
+    {
         "id": "Điều 98.1",
         "article": "Điều 98",
         "clause": "1",
@@ -4772,6 +4905,20 @@
         "clause": "6b",
         "title": "Hoạt động ngân hàng của ngân hàng thương mại",
         "text": "Thực hiện dịch vụ thanh toán quốc tế và các dịch vụ thanh toán khác sau khi được Ngân hàng Nhà nước chấp thuận."
+    },
+    {
+        "id": "Điều 99.0",
+        "article": "Điều 99",
+        "clause": "0",
+        "title": "Vay vốn của Ngân hàng Nhà nước",
+        "text": "Ngân hàng thương mại được vay vốn của Ngân hàng Nhà nước dưới hình thức tái cấp vốn theo quy định của Luật Ngân hàng Nhà nước Việt Nam."
+    },
+    {
+        "id": "Điều 100.0",
+        "article": "Điều 100",
+        "clause": "0",
+        "title": "Vay vốn của tổ chức tín dụng, tổ chức tài chính",
+        "text": "Ngân hàng thương mại được vay vốn của tổ chức tín dụng, tổ chức tài chính trong nước và nước ngoài theo quy định của pháp luật."
     },
     {
         "id": "Điều 101.1",
@@ -4886,6 +5033,13 @@
         "text": "Ngân hàng thương mại, công ty con của ngân hàng thương mại được mua, nắm giữ cổ phiếu của tổ chức tín dụng khác với điều kiện và trong giới hạn quy định của Ngân hàng Nhà nước."
     },
     {
+        "id": "Điều 104.0",
+        "article": "Điều 104",
+        "clause": "0",
+        "title": "Tham gia thị trường tiền tệ",
+        "text": "Ngân hàng thương mại được tham gia đấu thầu tín phiếu Kho bạc, mua, bán công cụ chuyển nhượng, trái phiếu Chính phủ, tín phiếu Kho bạc, tín phiếu Ngân hàng Nhà nước và các giấy tờ có giá khác trên thị trường tiền tệ."
+    },
+    {
         "id": "Điều 105.1",
         "article": "Điều 105",
         "clause": "1",
@@ -4919,6 +5073,13 @@
         "clause": "3",
         "title": "Kinh doanh, cung ứng dịch vụ ngoại hối và sản phẩm phái sinh",
         "text": "Việc cung ứng dịch vụ ngoại hối của ngân hàng thương mại cho khách hàng thực hiện theo quy định của pháp luật về ngoại hối."
+    },
+    {
+        "id": "Điều 106.0",
+        "article": "Điều 106",
+        "clause": "0",
+        "title": "Nghiệp vụ ủy thác và đại lý",
+        "text": "Ngân hàng thương mại được quyền ủy thác, nhận ủy thác, đại lý trong lĩnh vực liên quan đến hoạt động ngân hàng, kinh doanh bảo hiểm, quản lý tài sản theo quy định của Ngân hàng Nhà nước."
     },
     {
         "id": "Điều 107.1",
@@ -5180,6 +5341,13 @@
         "text": "Thực hiện hình thức cấp tín dụng khác khi được Ngân hàng Nhà nước chấp thuận."
     },
     {
+        "id": "Điều 113.0",
+        "article": "Điều 113",
+        "clause": "0",
+        "title": "Hoạt động cho thuê tài chính",
+        "text": "Hoạt động cho thuê tài chính là việc cấp tín dụng trung hạn, dài hạn trên cơ sở hợp đồng cho thuê tài chính và phải có một trong các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 113.1",
         "article": "Điều 113",
         "clause": "1",
@@ -5220,6 +5388,13 @@
         "clause": "2",
         "title": "Mở tài khoản của công ty cho thuê tài chính",
         "text": "Công ty cho thuê tài chính được mở tài khoản thanh toán tại ngân hàng thương mại, chi nhánh ngân hàng nước ngoài."
+    },
+    {
+        "id": "Điều 115.0",
+        "article": "Điều 115",
+        "clause": "0",
+        "title": "Góp vốn, mua cổ phần của công ty cho thuê tài chính",
+        "text": "Công ty cho thuê tài chính không được góp vốn, mua cổ phần, thành lập công ty con, công ty liên kết dưới mọi hình thức."
     },
     {
         "id": "Điều 116.1",
@@ -5514,6 +5689,20 @@
         "clause": "3",
         "title": "Nội dung hoạt động của chi nhánh ngân hàng nước ngoài",
         "text": "Ngân hàng Nhà nước quy định cụ thể nội dung hoạt động trong Giấy phép cấp cho chi nhánh ngân hàng nước ngoài theo quy định của Luật này, phù hợp với quy mô, loại hình, lĩnh vực hoạt động của ngân hàng nước ngoài. CHƯƠNG V VĂN PHÒNG ĐẠI DIỆN CỦA TỔ CHỨC TÍN DỤNG NƯỚC NGOÀI, TỔ CHỨC NƯỚC NGOÀI KHÁC CÓ HOẠT ĐỘNG NGÂN HÀNG"
+    },
+    {
+        "id": "Điều 124.0",
+        "article": "Điều 124",
+        "clause": "0",
+        "title": "Thành lập văn phòng đại diện",
+        "text": "Tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng được phép thành lập văn phòng đại diện tại các tỉnh, thành phố trực thuộc trung ương trên lãnh thổ Việt Nam. Tại mỗi tỉnh, thành phố trực thuộc trung ương, tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng chỉ được phép thành lập một văn phòng đại diện."
+    },
+    {
+        "id": "Điều 125.0",
+        "article": "Điều 125",
+        "clause": "0",
+        "title": "Nội dung hoạt động của văn phòng đại diện",
+        "text": "Văn phòng đại diện của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng được thực hiện các hoạt động sau đây theo nội dung ghi trong Giấy phép do Ngân hàng Nhà nước cấp:"
     },
     {
         "id": "Điều 125.1",
@@ -5866,6 +6055,13 @@
         "text": "Trong trường hợp tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thu hồi được vốn đã xử lý bằng khoản dự phòng rủi ro, số tiền thu hồi này được coi là doanh thu của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài."
     },
     {
+        "id": "Điều 132.0",
+        "article": "Điều 132",
+        "clause": "0",
+        "title": "Kinh doanh bất động sản",
+        "text": "Tổ chức tín dụng không được kinh doanh bất động sản, trừ các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 132.1",
         "article": "Điều 132",
         "clause": "1",
@@ -5885,6 +6081,20 @@
         "clause": "3",
         "title": "Kinh doanh bất động sản",
         "text": "Nắm giữ bất động sản do việc xử lý nợ vay. Trong thời hạn 03 năm, kể từ ngày quyết định xử lý tài sản bảo đảm là bất động sản, tổ chức tín dụng phải bán, chuyển nhượng hoặc mua lại bất động sản này để bảo đảm tỷ lệ đầu tư vào tài sản cố định và mục đích sử dụng tài sản cố định quy định tại Điều 140 của Luật này."
+    },
+    {
+        "id": "Điều 133.0",
+        "article": "Điều 133",
+        "clause": "0",
+        "title": "Yêu cầu bảo đảm an toàn trong hoạt động ngân hàng điện tử",
+        "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài phải bảo đảm an toàn và bảo mật trong hoạt động ngân hàng điện tử theo hướng dẫn của Ngân hàng Nhà nước."
+    },
+    {
+        "id": "Điều 134.0",
+        "article": "Điều 134",
+        "clause": "0",
+        "title": "Quyền, nghĩa vụ của công ty kiểm soát",
+        "text": "Công ty đang sở hữu trực tiếp hoặc gián tiếp trên 20% vốn điều lệ hoặc vốn cổ phần có quyền biểu quyết hoặc nắm quyền kiểm soát của một ngân hàng thương mại trước ngày Luật này có hiệu lực; ngân hàng thương mại có công ty con, công ty liên kết (sau đây gọi tắt là công ty kiểm soát) có quyền, nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 134.1",
@@ -5929,6 +6139,27 @@
         "text": "Tổ chức tín dụng đang là công ty con, công ty liên kết của công ty kiểm soát không được góp vốn, mua cổ phần của công ty kiểm soát đó. CHƯƠNG VII TÀI CHÍNH, HẠCH TOÁN, BÁO CÁO"
     },
     {
+        "id": "Điều 136.0",
+        "article": "Điều 136",
+        "clause": "0",
+        "title": "Chế độ tài chính",
+        "text": "Chế độ tài chính của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được thực hiện theo quy định của Chính phủ."
+    },
+    {
+        "id": "Điều 137.0",
+        "article": "Điều 137",
+        "clause": "0",
+        "title": "Năm tài chính",
+        "text": "Năm tài chính của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 năm dương lịch."
+    },
+    {
+        "id": "Điều 138.0",
+        "article": "Điều 138",
+        "clause": "0",
+        "title": "Hạch toán, kế toán",
+        "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài phải thực hiện hạch toán, kế toán theo quy định của pháp luật về kế toán."
+    },
+    {
         "id": "Điều 139.1",
         "article": "Điều 139",
         "clause": "1",
@@ -5962,6 +6193,13 @@
         "clause": "2",
         "title": "Quỹ dự trữ",
         "text": "Tổ chức tín dụng không được dùng các quỹ quy định tại khoản 1 Điều này để trả cổ tức cho cổ đông hoặc phân chia lợi nhuận cho chủ sở hữu, thành viên góp vốn."
+    },
+    {
+        "id": "Điều 140.0",
+        "article": "Điều 140",
+        "clause": "0",
+        "title": "Mua, đầu tư vào tài sản cố định",
+        "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được mua, đầu tư vào tài sản cố định phục vụ trực tiếp cho hoạt động không quá 50% vốn điều lệ và quỹ dự trữ bổ sung vốn điều lệ đối với tổ chức tín dụng hoặc không quá 50% vốn được cấp và quỹ dự trữ bổ sung vốn được cấp đối với chi nhánh ngân hàng nước ngoài."
     },
     {
         "id": "Điều 141.1",
@@ -6062,6 +6300,13 @@
         "text": "Trong thời hạn 90 ngày, kể từ ngày kết thúc năm tài chính, công ty kiểm soát phải lập và gửi cho Ngân hàng Nhà nước báo cáo tổng hợp về giao dịch mua, bán và giao dịch khác giữa công ty kiểm soát với công ty con, công ty liên kết của công ty kiểm soát."
     },
     {
+        "id": "Điều 143.0",
+        "article": "Điều 143",
+        "clause": "0",
+        "title": "Công khai báo cáo tài chính",
+        "text": "Trong thời hạn 120 ngày, kể từ ngày kết thúc năm tài chính, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài phải công khai các báo cáo tài chính theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 144.1",
         "article": "Điều 144",
         "clause": "1",
@@ -6088,6 +6333,13 @@
         "clause": "4",
         "title": "Chuyển lợi nhuận, chuyển tài sản ra nước ngoài",
         "text": "Việc chuyển tiền và tài sản khác ra nước ngoài quy định tại các khoản 1, 2 và 3 Điều này được thực hiện theo quy định của pháp luật Việt Nam. CHƯƠNG VIII KIỂM SOÁT ĐẶC BIỆT, TỔ CHỨC LẠI, PHÁ SẢN, GIẢI THỂ, THANH LÝ TỔ CHỨC TÍN DỤNG Mục 1 KIỂM SOÁT ĐẶC BIỆT"
+    },
+    {
+        "id": "Điều 145.0",
+        "article": "Điều 145",
+        "clause": "0",
+        "title": "Báo cáo khó khăn về khả năng chi trả",
+        "text": "Khi có nguy cơ mất khả năng chi trả, tổ chức tín dụng phải kịp thời báo cáo với Ngân hàng Nhà nước về thực trạng tài chính, nguyên nhân và các biện pháp đã áp dụng, dự kiến áp dụng để khắc phục."
     },
     {
         "id": "Điều 146.1",
@@ -6307,6 +6559,13 @@
         "text": "Việc góp vốn, mua cổ phần quy định tại khoản 3 Điều này thực hiện theo quy định của Thủ tướng Chính phủ."
     },
     {
+        "id": "Điều 150.0",
+        "article": "Điều 150",
+        "clause": "0",
+        "title": "Trách nhiệm của tổ chức tín dụng được kiểm soát đặc biệt",
+        "text": "Hội đồng quản trị, Hội đồng thành viên, Ban kiểm soát, Tổng giám đốc (Giám đốc) của tổ chức tín dụng được kiểm soát đặc biệt có trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 150.1",
         "article": "Điều 150",
         "clause": "1",
@@ -6426,6 +6685,13 @@
         "text": "Ngân hàng Nhà nước quy định cụ thể điều kiện, hồ sơ, trình tự, thủ tục chấp thuận việc tổ chức lại tổ chức tín dụng."
     },
     {
+        "id": "Điều 154.0",
+        "article": "Điều 154",
+        "clause": "0",
+        "title": "Giải thể tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+        "text": "Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài giải thể trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 154.1",
         "article": "Điều 154",
         "clause": "1",
@@ -6531,6 +6797,13 @@
         "text": "Ủy ban nhân dân các cấp thực hiện việc quản lý nhà nước đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài hoạt động tại địa phương theo quy định của pháp luật."
     },
     {
+        "id": "Điều 159.0",
+        "article": "Điều 159",
+        "clause": "0",
+        "title": "Thẩm quyền kiểm tra, thanh tra, giám sát",
+        "text": "Ngân hàng Nhà nước thực hiện kiểm tra, thanh tra, giám sát đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng."
+    },
+    {
         "id": "Điều 160.1",
         "article": "Điều 160",
         "clause": "1",
@@ -6627,5 +6900,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Luật các tổ chức tín dụng số 02/1997/QH10 và Luật sửa đổi, bổ sung một số điều của Luật các tổ chức tín dụng số 20/2004/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 163.0",
+        "article": "Điều 163",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác trong Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 7 thông qua ngày 16 tháng 6 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

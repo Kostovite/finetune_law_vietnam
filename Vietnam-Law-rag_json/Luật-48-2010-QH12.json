@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về đối tượng chịu thuế, đối tượng không chịu thuế; người nộp thuế; căn cứ tính thuế; đăng ký, khai, tính và nộp thuế; miễn, giảm thuế sử dụng đất phi nông nghiệp."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -19,6 +26,13 @@
         "clause": "3",
         "title": "Đối tượng chịu thuế",
         "text": "Đất phi nông nghiệp quy định tại Điều 3 của Luật này sử dụng vào mục đích kinh doanh."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Đối tượng không chịu thuế",
+        "text": "Đất phi nông nghiệp sử dụng không vào mục đích kinh doanh bao gồm:"
     },
     {
         "id": "Điều 3.1",
@@ -124,6 +138,13 @@
         "clause": "3đ",
         "title": "Người nộp thuế",
         "text": "Trường hợp người có quyền sử dụng đất góp vốn kinh doanh bằng quyền sử dụng đất mà hình thành pháp nhân mới có quyền sử dụng đất thuộc đối tượng chịu thuế quy định tại Điều 2 của Luật này thì pháp nhân mới là người nộp thuế."
+    },
+    {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Căn cứ tính thuế",
+        "text": "Căn cứ tính thuế là giá tính thuế và thuế suất."
     },
     {
         "id": "Điều 6.1",
@@ -329,6 +350,13 @@
         "text": "Người nộp thuế gặp khó khăn do sự kiện bất khả kháng nếu giá trị thiệt hại về đất và nhà trên đất trên 50% giá tính thuế."
     },
     {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Giảm thuế",
+        "text": "Giảm 50% số thuế phải nộp cho các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 10.1",
         "article": "Điều 10",
         "clause": "1",
@@ -411,5 +439,12 @@
         "clause": "2b",
         "title": "Hiệu lực thi hành",
         "text": "Pháp lệnh sửa đổi, bổ sung một số điều của Pháp lệnh thuế nhà, đất năm 1994."
+    },
+    {
+        "id": "Điều 13.0",
+        "article": "Điều 13",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành những nội dung cần thiết của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

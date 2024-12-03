@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về tố cáo và giải quyết tố cáo đối với hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ và hành vi vi phạm pháp luật khác về quản lý nhà nước trong các lĩnh vực; bảo vệ người tố cáo; trách nhiệm của cơ quan, tổ chức trong việc quản lý công tác giải quyết tố cáo."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -138,6 +152,20 @@
         "clause": "2",
         "title": "Trách nhiệm của cơ quan, tổ chức, cá nhân có thẩm quyền trong việc tiếp nhận, giải quyết tố cáo",
         "text": "Cơ quan, tổ chức, cá nhân có thẩm quyền trong việc tiếp nhận, giải quyết tố cáo mà không tiếp nhận, không giải quyết tố cáo theo đúng quy định của pháp luật, thiếu trách nhiệm trong việc tiếp nhận, giải quyết tố cáo hoặc giải quyết tố cáo trái pháp luật thì phải bị xử lý nghiêm minh; nếu gây thiệt hại thì phải bồi thường, bồi hoàn theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Trách nhiệm phối hợp của cơ quan, tổ chức, cá nhân có liên quan trong việc giải quyết tố cáo",
+        "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm phối hợp với người giải quyết tố cáo; cung cấp thông tin, tài liệu có liên quan đến nội dung tố cáo theo quy định của pháp luật; áp dụng các biện pháp bảo vệ người tố cáo theo thẩm quyền; xử lý người có hành vi vi phạm pháp luật theo kết luận nội dung tố cáo; xử lý cơ quan, tổ chức, cá nhân có hành vi vi phạm pháp luật về tố cáo."
+    },
+    {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Chấp hành quyết định xử lý hành vi vi phạm pháp luật bị tố cáo",
+        "text": "Quyết định xử lý hành vi vi phạm pháp luật bị tố cáo của cơ quan, tổ chức, cá nhân có thẩm quyền phải được cơ quan, tổ chức, cá nhân có liên quan tôn trọng, nghiêm chỉnh chấp hành. Cơ quan, tổ chức, cá nhân có trách nhiệm chấp hành quyết định xử lý hành vi vi phạm pháp luật bị tố cáo mà không chấp hành thì phải bị xử lý nghiêm minh theo quy định của pháp luật."
     },
     {
         "id": "Điều 8.1",
@@ -861,6 +889,13 @@
         "text": "Giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của cơ quan, tổ chức do mình quản lý trực tiếp, của Viện kiểm sát nhân dân cấp cao, Viện kiểm sát nhân dân cấp tỉnh."
     },
     {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong Kiểm toán nhà nước",
+        "text": "Tổng Kiểm toán nhà nước có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của công chức, viên chức, đơn vị trong Kiểm toán nhà nước."
+    },
+    {
         "id": "Điều 17.1",
         "article": "Điều 17",
         "clause": "1",
@@ -950,6 +985,27 @@
         "clause": "2",
         "title": "Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của người có chức danh, chức vụ trong doanh nghiệp nhà nước",
         "text": "Người đứng đầu cơ quan nhà nước được giao quản lý doanh nghiệp nhà nước có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ của Chủ tịch Hội đồng thành viên, thành viên Hội đồng thành viên, Chủ tịch công ty, kiểm soát viên do mình bổ nhiệm, quản lý trực tiếp trong doanh nghiệp nhà nước."
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong tổ chức chính trị, tổ chức chính trị - xã hội",
+        "text": "Cơ quan trung ương của tổ chức chính trị, tổ chức chính trị - xã hội căn cứ vào nguyên tắc xác định thẩm quyền quy định tại Điều 12 của Luật này hướng dẫn về thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ trong tổ chức mình; hành vi vi phạm pháp luật trong việc thực hiện nhiệm vụ, công vụ của tổ chức, đơn vị do mình quản lý."
+    },
+    {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của người được giao thực hiện nhiệm vụ, công vụ mà không phải là cán bộ, công chức, viên chức",
+        "text": "Người đứng đầu cơ quan, tổ chức, đơn vị quản lý trực tiếp người được giao thực hiện nhiệm vụ, công vụ mà không phải là cán bộ, công chức, viên chức có thẩm quyền giải quyết tố cáo hành vi vi phạm pháp luật của người đó trong việc thực hiện nhiệm vụ, công vụ. Mục 2. HÌNH THỨC TỐ CÁO, TIẾP NHẬN,  XỬ LÝ BAN ĐẦU THÔNG TIN TỐ CÁO"
+    },
+    {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Hình thức tố cáo",
+        "text": "Việc tố cáo được thực hiện bằng đơn hoặc được trình bày trực tiếp tại cơ quan, tổ chức có thẩm quyền."
     },
     {
         "id": "Điều 23.1",
@@ -2394,6 +2450,13 @@
         "text": "Tài liệu khác có liên quan đến việc áp dụng biện pháp bảo vệ."
     },
     {
+        "id": "Điều 56.0",
+        "article": "Điều 56",
+        "clause": "0",
+        "title": "Biện pháp bảo vệ bí mật thông tin",
+        "text": "Cơ quan, tổ chức, cá nhân có thẩm quyền khi tiếp nhận, chuyển đơn tố cáo, giải quyết tố cáo căn cứ vào tình hình cụ thể quyết định áp dụng biện pháp sau đây:"
+    },
+    {
         "id": "Điều 56.1",
         "article": "Điều 56",
         "clause": "1",
@@ -2583,6 +2646,34 @@
         "text": "Hằng năm, Ủy ban nhân dân báo cáo Hội đồng nhân dân cùng cấp, cơ quan cấp trên trực tiếp và thông báo đến Ủy ban Mặt trận Tổ quốc Việt Nam cùng cấp về công tác giải quyết tố cáo trong phạm vi địa phương và lĩnh vực thuộc phạm vi quản lý của mình. Chương VIII KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM"
     },
     {
+        "id": "Điều 62.0",
+        "article": "Điều 62",
+        "clause": "0",
+        "title": "Khen thưởng",
+        "text": "Người tố cáo trung thực, tích cực cộng tác với cơ quan, tổ chức, cá nhân có thẩm quyền trong việc phát hiện, ngăn chặn và xử lý hành vi vi phạm pháp luật thì được khen thưởng theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": "Xử lý hành vi vi phạm của người giải quyết tố cáo",
+        "text": "Người giải quyết tố cáo có hành vi quy định tại Điều 8 của Luật này hoặc vi phạm các quy định khác của pháp luật trong việc giải quyết tố cáo thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường, bồi hoàn theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 64.0",
+        "article": "Điều 64",
+        "clause": "0",
+        "title": "Xử lý hành vi vi phạm của người có trách nhiệm chấp hành quyết định xử lý hành vi vi phạm bị tố cáo",
+        "text": "Người có trách nhiệm chấp hành quyết định xử lý hành vi vi phạm bị tố cáo nếu không chấp hành thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. Người đứng đầu cơ quan, tổ chức có thẩm quyền mà không áp dụng biện pháp cần thiết để xử lý kịp thời đối với người giải quyết tố cáo có hành vi vi phạm quy định tại Điều 63 của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 65.0",
+        "article": "Điều 65",
+        "clause": "0",
+        "title": "Xử lý hành vi vi phạm của người tố cáo và những người khác có liên quan",
+        "text": "Người tố cáo và những người khác có liên quan có hành vi quy định tại Điều 8 của Luật này hoặc vi phạm các quy định khác của pháp luật về tố cáo và giải quyết tố cáo thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. Chương IX ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
         "id": "Điều 66.1",
         "article": "Điều 66",
         "clause": "1",
@@ -2602,5 +2693,12 @@
         "clause": "3",
         "title": "Hiệu lực thi hành",
         "text": "Tố cáo đã được thụ lý, đang xem xét và chưa có kết luận trước ngày Luật này có hiệu lực thi hành thì được tiếp tục giải quyết theo quy định của Luật Tố cáo số 03/2011/QH13."
+    },
+    {
+        "id": "Điều 67.0",
+        "article": "Điều 67",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ quy định chi tiết Chương VI của Luật này và các điều, khoản được giao trong Luật; quy định về tố cáo và giải quyết tố cáo trong Quân đội nhân dân và Công an nhân dân. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 5 thông qua ngày 12 tháng 6 năm 2018. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về giám định viên tư pháp; tổ chức giám định tư pháp; người giám định tư pháp theo vụ việc, tổ chức giám định tư pháp theo vụ việc; hoạt động giám định tư pháp; chi phí giám định tư pháp, chế độ, chính sách trong hoạt động giám định tư pháp và trách nhiệm của cơ quan nhà nước đối với tổ chức, hoạt động giám định tư pháp."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -1561,6 +1575,13 @@
         "text": "Trình tự, thủ tục, chi phí thực hiện tương trợ tư pháp về giám định tư pháp giữa Việt Nam và nước ngoài theo quy định của pháp luật về tương trợ tư pháp. CHƯƠNG VI CHI PHÍ GIÁM ĐỊNH TƯ PHÁP, CHẾ ĐỘ, CHÍNH SÁCH TRONG HOẠT ĐỘNG GIÁM ĐỊNH TƯ PHÁP"
     },
     {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Chi phí giám định tư pháp",
+        "text": "Người trưng cầu giám định, người yêu cầu giám định có trách nhiệm trả chi phí giám định tư pháp cho cá nhân, tổ chức thực hiện giám định tư pháp theo quy định của pháp luật về chi phí giám định tư pháp."
+    },
+    {
         "id": "Điều 37.1",
         "article": "Điều 37",
         "clause": "1",
@@ -1755,6 +1776,13 @@
         "clause": "11",
         "title": "Nhiệm vụ, quyền hạn của bộ, cơ quan ngang bộ quản lý chuyên môn về lĩnh vực giám định tư pháp",
         "text": "Hằng năm, tổng kết về tổ chức, hoạt động giám định tư pháp ở lĩnh vực thuộc thẩm quyền quản lý và gửi báo cáo về Bộ Tư pháp để tổng hợp báo cáo Chính phủ."
+    },
+    {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Bộ Y tế, Bộ Công an, Bộ Quốc phòng",
+        "text": "Ngoài nhiệm vụ, quyền hạn quy định tại Điều 41 của Luật này, Bộ Y tế, Bộ Công an, Bộ Quốc phòng có nhiệm vụ, quyền hạn sau đây:"
     },
     {
         "id": "Điều 42.1",
@@ -1972,5 +2000,12 @@
         "clause": "3",
         "title": "Hiệu lực thi hành",
         "text": "Kể từ ngày Luật này có hiệu lực thi hành, các quy định của Bộ luật tố tụng hình sự, Bộ luật tố tụng dân sự, Luật tố tụng hành chính về giám định tư pháp có nội dung khác với Luật này thì áp dụng quy định của Luật này."
+    },
+    {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 3 thông qua ngày 20 tháng 6 năm 2012. CHỦ TỊCH QUỐC HỘI (đã ký) Nguyễn Sinh Hùng"
     }
 ]

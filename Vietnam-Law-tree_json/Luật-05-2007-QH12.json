@@ -11,17 +11,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định quyền và nghĩa vụ của tổ chức, cá nhân sản xuất, kinh doanh sản phẩm, hàng hoá và tổ chức, cá nhân có hoạt động liên quan đến chất lượng sản phẩm, hàng hoá; quản lý chất lượng sản phẩm, hàng hóa.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với tổ chức, cá nhân sản xuất, kinh doanh sản phẩm, hàng hoá và tổ chức, cá nhân có hoạt động liên quan đến chất lượng sản phẩm, hàng hoá tại Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Sản phẩm là kết quả của quá trình sản xuất hoặc cung ứng dịch vụ nhằm mục đích kinh doanh hoặc tiêu dùng.",
@@ -136,7 +153,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chất lượng sản phẩm, hàng hoá được quản lý trên cơ sở tiêu chuẩn công bố áp dụng, quy chuẩn kỹ thuật tương ứng. Căn cứ vào khả năng gây mất an toàn, sản phẩm, hàng hoá được quản lý như sau:",
+                    "text": "Chất lượng sản phẩm, hàng hoá được quản lý trên cơ sở tiêu chuẩn công bố áp dụng, quy chuẩn kỹ thuật tương ứng. Căn cứ vào khả năng gây mất an toàn, sản phẩm, hàng hoá được quản lý như sau: Chính phủ quy định cụ thể việc ban hành Danh mục sản phẩm, hàng hóa nhóm 2.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -155,7 +172,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Quản lý nhà nước về chất l­ượng sản phẩm, hàng hoá là trách nhiệm của cơ quan quản lý nhà nước có thẩm quyền nhằm thực thi các quy định của pháp luật về chất lượng sản phẩm, hàng hoá.",
+                    "text": "Quản lý nhà nước về chất l­ượng sản phẩm, hàng hoá là trách nhiệm của cơ quan quản lý nhà nước có thẩm quyền nhằm thực thi các quy định của pháp luật về chất lượng sản phẩm, hàng hoá. Hoạt động quản lý nhà nước về chất lượng sản phẩm, hàng hoá phải bảo đảm minh bạch, khách quan, không phân biệt đối xử về xuất xứ hàng hoá và tổ chức, cá nhân có hoạt động liên quan đến chất l­ượng sản phẩm, hàng hoá, phù hợp với thông lệ quốc tế, bảo vệ quyền, lợi ích hợp pháp của tổ chức, cá nhân sản xuất, kinh doanh và người tiêu dùng.",
                     "sub_clauses": []
                 }
             ]
@@ -288,7 +305,7 @@
                 },
                 {
                     "number": "13",
-                    "text": "Lợi dụng hoạt động quản lý chất lượng sản phẩm, hàng hóa để gây phương hại cho lợi ích quốc gia, trật tự, an toàn xã hội.",
+                    "text": "Lợi dụng hoạt động quản lý chất lượng sản phẩm, hàng hóa để gây phương hại cho lợi ích quốc gia, trật tự, an toàn xã hội. Chương II QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN ĐỐI VỚI CHẤT LƯỢNG SẢN PHẨM, HÀNG HOÁ Mục 1 QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN SẢN XUẤT, KINH DOANH",
                     "sub_clauses": []
                 }
             ]
@@ -309,7 +326,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Lựa chọn tổ chức đánh giá sự phù hợp để thử nghiệm, kiểm định, giám định, chứng nhận chất lượng sản phẩm, hàng hóa.",
+                    "text": "Lựa chọn tổ chức đánh giá sự phù hợp để thử nghiệm, kiểm định, giám định, chứng nhận chất lượng sản phẩm, hàng hóa. Trường hợp chứng nhận hợp quy, kiểm tra chất lượng sản phẩm theo yêu cầu quản lý nhà nước thì người sản xuất lựa chọn tổ chức đánh giá sự phù hợp được chỉ định.",
                     "sub_clauses": []
                 },
                 {
@@ -706,7 +723,7 @@
                 },
                 {
                     "number": "14",
-                    "text": "Trả chi phí lấy mẫu, thử nghiệm theo quy định tại Điều 41; chi phí lấy mẫu, thử nghiệm, giám định theo quy định tại Điều 58 của Luật này.",
+                    "text": "Trả chi phí lấy mẫu, thử nghiệm theo quy định tại Điều 41; chi phí lấy mẫu, thử nghiệm, giám định theo quy định tại Điều 58 của Luật này. Mục 2 QUYỀN VÀ NGHĨA VỤ CỦA NGƯỜI TIÊU DÙNG",
                     "sub_clauses": []
                 }
             ]
@@ -768,7 +785,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Tuân thủ quy định của pháp luật về bảo vệ môi trường trong quá trình sử dụng sản phẩm, hàng hoá.",
+                    "text": "Tuân thủ quy định của pháp luật về bảo vệ môi trường trong quá trình sử dụng sản phẩm, hàng hoá. Mục 3 QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC ĐÁNH GIÁ SỰ PHÙ HỢP, TỔ CHỨC NGHỀ NGHIỆP VÀ TỔ CHỨC BẢO VỆ QUYỀN LỢI NGƯỜI TIÊU DÙNG",
                     "sub_clauses": []
                 }
             ]
@@ -927,7 +944,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Tổ chức hướng dẫn, tư vấn về quyền lợi người tiêu dùng liên quan tới chất lượng sản phẩm, hàng hóa.",
+                    "text": "Tổ chức hướng dẫn, tư vấn về quyền lợi người tiêu dùng liên quan tới chất lượng sản phẩm, hàng hóa. Chương III QUẢN LÝ CHẤT LƯỢNG SẢN PHẨM, HÀNG HÓA TRONG SẢN XUẤT, XUẤT KHẨU, NHẬP KHẨU, LƯU THÔNG TRÊN THỊ TRƯỜNG VÀ TRONG QUÁ TRÌNH SỬ DỤNG Mục 1 QUY ĐỊNH CHUNG VỀ BIỆN PHÁP QUẢN LÝ CHẤT LƯỢNG SẢN PHẨM, HÀNG HÓA",
                     "sub_clauses": []
                 }
             ]
@@ -1116,7 +1133,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Việc miễn, giảm kiểm tra chất lượng đối với sản phẩm, hàng hoá đã được chứng nhận hợp chuẩn, chứng nhận hợp quy, công bố hợp chuẩn, công bố hợp quy, chứng nhận đã áp dụng các hệ thống quản lý tiên tiến theo tiêu chuẩn quốc tế, tiêu chuẩn khu vực được thực hiện theo quy định của Bộ quản lý ngành, lĩnh vực.",
+                    "text": "Việc miễn, giảm kiểm tra chất lượng đối với sản phẩm, hàng hoá đã được chứng nhận hợp chuẩn, chứng nhận hợp quy, công bố hợp chuẩn, công bố hợp quy, chứng nhận đã áp dụng các hệ thống quản lý tiên tiến theo tiêu chuẩn quốc tế, tiêu chuẩn khu vực được thực hiện theo quy định của Bộ quản lý ngành, lĩnh vực. Mục 2 QUẢN LÝ CHẤT LƯỢNG SẢN PHẨM TRONG SẢN XUẤT",
                     "sub_clauses": []
                 }
             ]
@@ -1237,7 +1254,13 @@
         {
             "id": "Điều 31",
             "title": "Chi phí thử nghiệm, chứng nhận hợp chuẩn, chứng nhận hợp quy",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người sản xuất phải trả chi phí thử nghiệm, chứng nhận hợp chuẩn, chứng nhận hợp quy theo thỏa thuận với tổ chức thử nghiệm, tổ chức chứng nhận hợp chuẩn, hợp quy. Mục 3 QUẢN LÝ CHẤT LƯỢNG HÀNG HOÁ XUẤT KHẨU",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 32",
@@ -1260,6 +1283,11 @@
             "title": "Biện pháp xử lý hàng hoá xuất khẩu không bảo đảm điều kiện xuất khẩu",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Hàng hoá không bảo đảm điều kiện xuất khẩu quy định tại khoản 1 Điều 32 của Luật này mà không xuất khẩu được hoặc bị trả lại thì tuỳ theo tính chất, mức độ vi phạm, cơ quan kiểm tra chất lượng sản phẩm, hàng hoá áp dụng một hoặc các biện pháp xử lý sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Thực hiện biện pháp kiểm tra chất lượng sản phẩm trong sản xuất theo nội dung quy định tại khoản 1 Điều 27, trình tự thủ tục theo quy định tại khoản 3 Điều 29 của Luật này đối với hàng hoá xuất khẩu không bảo đảm chất lượng gây ảnh hưởng đến lợi ích và uy tín quốc gia.",
                     "sub_clauses": []
@@ -1276,7 +1304,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Kiến nghị cơ quan nhà nước có thẩm quyền ra quyết định tiêu huỷ.",
+                    "text": "Kiến nghị cơ quan nhà nước có thẩm quyền ra quyết định tiêu huỷ. Mục 4 QUẢN LÝ CHẤT LƯỢNG HÀNG HOÁ NHẬP KHẨU",
                     "sub_clauses": []
                 }
             ]
@@ -1386,7 +1414,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ Tài chính quy định mức, việc thu và quản lý lệ phí kiểm tra chất lượng hàng hoá nhập khẩu.",
+                    "text": "Bộ Tài chính quy định mức, việc thu và quản lý lệ phí kiểm tra chất lượng hàng hoá nhập khẩu. Mục 5 QUẢN LÝ CHẤT LƯỢNG HÀNG HOÁ LƯU THÔNG TRÊN THỊ TRƯỜNG",
                     "sub_clauses": []
                 }
             ]
@@ -1395,6 +1423,11 @@
             "id": "Điều 38",
             "title": "Điều kiện bảo đảm chất lượng hàng hoá lưu thông trên thị trường",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Hàng hoá lưu thông trên thị trường phải được người bán hàng thực hiện các yêu cầu về quản lý chất lượng sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tuân thủ các quy chuẩn kỹ thuật tương ứng trong quá trình lưu thông hàng hoá hoặc tự áp dụng các biện pháp kiểm soát chất lượng nhằm duy trì chất lượng của hàng hoá do mình bán;",
@@ -1536,7 +1569,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong trường hợp sản phẩm, hàng hoá bị khiếu nại, tố cáo về chất lượng mà cơ quan kiểm tra chất lượng sản phẩm, hàng hoá kết luận việc khiếu nại, tố cáo về chất lượng sản phẩm, hàng hoá không đúng thì người khiếu nại, tố cáo phải trả chi phí lấy mẫu và thử nghiệm chất lượng sản phẩm, hàng hóa cho cơ quan kiểm tra chất lượng sản phẩm, hàng hoá.",
+                    "text": "Trong trường hợp sản phẩm, hàng hoá bị khiếu nại, tố cáo về chất lượng mà cơ quan kiểm tra chất lượng sản phẩm, hàng hoá kết luận việc khiếu nại, tố cáo về chất lượng sản phẩm, hàng hoá không đúng thì người khiếu nại, tố cáo phải trả chi phí lấy mẫu và thử nghiệm chất lượng sản phẩm, hàng hóa cho cơ quan kiểm tra chất lượng sản phẩm, hàng hoá. Mục 6 QUẢN LÝ CHẤT LƯỢNG HÀNG HOÁ TRONG QUÁ TRÌNH SỬ DỤNG",
                     "sub_clauses": []
                 }
             ]
@@ -1584,7 +1617,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ Tài chính quy định mức, việc thu và quản lý lệ phí kiểm định hàng hoá trong quá trình sử dụng.",
+                    "text": "Bộ Tài chính quy định mức, việc thu và quản lý lệ phí kiểm định hàng hoá trong quá trình sử dụng. Chương IV KIỂM TRA, THANH TRA VỀ CHẤT LƯỢNG SẢN PHẨM, HÀNG HOÁ Mục 1 KIỂM TRA CHẤT LƯỢNG SẢN PHẨM, HÀNG HOÁ",
                     "sub_clauses": []
                 }
             ]
@@ -1620,6 +1653,11 @@
             "title": "Quyền hạn của cơ quan kiểm tra chất lượng sản phẩm, hàng hoá",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, cơ quan kiểm tra chất lượng sản phẩm, hàng hoá có các quyền sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Quyết định thành lập đoàn kiểm tra hoặc phân công kiểm soát viên chất lượng thực hiện công tác kiểm tra theo kế hoạch hoặc đột xuất;",
                     "sub_clauses": []
@@ -1645,6 +1683,11 @@
             "id": "Điều 47",
             "title": "Nhiệm vụ của cơ quan kiểm tra chất lượng sản phẩm, hàng hoá",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, cơ quan kiểm tra chất lượng sản phẩm, hàng hoá có nhiệm vụ sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Xác định chủng loại hàng hoá cụ thể để tiến hành kiểm tra chất lượng;",
@@ -1713,6 +1756,11 @@
             "title": "Nhiệm vụ, quyền hạn của đoàn kiểm tra",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong quá trình kiểm tra chất lượng sản phẩm, hàng hoá, đoàn kiểm tra có những nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Yêu cầu tổ chức, cá nhân sản xuất, kinh doanh xuất trình các tài liệu liên quan đến sản phẩm, hàng hoá theo nội dung kiểm tra quy định tại Điều 27 và xử lý vi phạm trong quá trình kiểm tra theo quy định tại Điều 30 và Điều 40 của Luật này; khi cần thiết, yêu cầu tổ chức, cá nhân sản xuất, kinh doanh cung cấp bản sao các tài liệu quy định tại khoản này;",
                     "sub_clauses": []
@@ -1780,6 +1828,11 @@
             "title": "Nhiệm vụ, quyền hạn của kiểm soát viên chất lượng",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong quá trình kiểm tra chất lượng sản phẩm, hàng hoá, kiểm soát viên chất lượng có những nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Yêu cầu tổ chức, cá nhân sản xuất, kinh doanh xuất trình các tài liệu liên quan đến sản phẩm, hàng hoá theo nội dung kiểm tra quy định tại khoản 2 Điều 27 và xử lý vi phạm trong quá trình kiểm tra theo quy định tại Điều 40 của Luật này; khi cần thiết, yêu cầu tổ chức, cá nhân sản xuất, kinh doanh cung cấp bản sao các tài liệu quy định tại khoản này;",
                     "sub_clauses": []
@@ -1816,7 +1869,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Chịu trách nhiệm trước pháp luật về kết quả kiểm tra, kết luận và xử lý vi phạm của mình.",
+                    "text": "Chịu trách nhiệm trước pháp luật về kết quả kiểm tra, kết luận và xử lý vi phạm của mình. Mục 2 THANH TRA CHUYÊN NGÀNH VỀ CHẤT LƯỢNG SẢN PHẨM, HÀNG HÓA",
                     "sub_clauses": []
                 }
             ]
@@ -1853,7 +1906,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đối tượng của thanh tra chuyên ngành về chất lượng sản phẩm, hàng hoá là tổ chức, cá nhân sản xuất, kinh doanh, người tiêu dùng, tổ chức đánh giá sự phù hợp, tổ chức nghề nghiệp, tổ chức bảo vệ quyền lợi người tiêu dùng và cơ quan kiểm tra chất lượng sản phẩm, hàng hoá.",
+                    "text": "Đối tượng của thanh tra chuyên ngành về chất lượng sản phẩm, hàng hoá là tổ chức, cá nhân sản xuất, kinh doanh, người tiêu dùng, tổ chức đánh giá sự phù hợp, tổ chức nghề nghiệp, tổ chức bảo vệ quyền lợi người tiêu dùng và cơ quan kiểm tra chất lượng sản phẩm, hàng hoá. Chương V GIẢI QUYẾT TRANH CHẤP, BỒI THƯỜNG THIỆT HẠI, GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO VÀ XỬ LÝ VI PHẠM PHÁP LUẬT VỀ CHẤT LƯỢNG SẢN PHẨM, HÀNG HOÁ Mục 1 GIẢI QUYẾT TRANH CHẤP VỀ CHẤT LƯỢNG SẢN PHẨM, HÀNG HOÁ",
                     "sub_clauses": []
                 }
             ]
@@ -1862,6 +1915,11 @@
             "id": "Điều 54",
             "title": "Tranh chấp về chất lượng sản phẩm, hàng hoá",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Tranh chấp về chất lượng sản phẩm, hàng hoá bao gồm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tranh chấp giữa người mua với người nhập khẩu, người bán hàng hoặc giữa các thương nhân với nhau do sản phẩm, hàng hoá không phù hợp với tiêu chuẩn công bố áp dụng, quy chuẩn kỹ thuật tương ứng hoặc thỏa thuận về chất lượng trong hợp đồng.",
@@ -1890,7 +1948,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Giải quyết tại trọng tài hoặc toà án.",
+                    "text": "Giải quyết tại trọng tài hoặc toà án. Thủ tục giải quyết tranh chấp về chất lượng sản phẩm, hàng hóa tại trọng tài hoặc toà án được tiến hành theo quy định của pháp luật về tố tụng trọng tài hoặc tố tụng dân sự.",
                     "sub_clauses": []
                 }
             ]
@@ -1952,7 +2010,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong trường hợp kết quả thử nghiệm hoặc giám định khẳng định tổ chức, cá nhân sản xuất, kinh doanh sản phẩm, hàng hoá vi phạm quy định về chất l­ượng sản phẩm, hàng hóa thì tổ chức, cá nhân sản xuất, kinh doanh phải trả lại chi phí lấy mẫu và thử nghiệm hoặc giám định chất lượng sản phẩm, hàng hóa tranh chấp cho ng­ười khiếu nại, khởi kiện.",
+                    "text": "Trong trường hợp kết quả thử nghiệm hoặc giám định khẳng định tổ chức, cá nhân sản xuất, kinh doanh sản phẩm, hàng hoá vi phạm quy định về chất l­ượng sản phẩm, hàng hóa thì tổ chức, cá nhân sản xuất, kinh doanh phải trả lại chi phí lấy mẫu và thử nghiệm hoặc giám định chất lượng sản phẩm, hàng hóa tranh chấp cho ng­ười khiếu nại, khởi kiện. Mục 2 BỒI THƯỜNG THIỆT HẠI VỀ CHẤT LƯỢNG SẢN PHẨM, HÀNG HOÁ",
                     "sub_clauses": []
                 }
             ]
@@ -2096,7 +2154,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức, cá nhân có sản phẩm, hàng hóa được đánh giá sự phù hợp có nghĩa vụ chứng minh kết quả sai và lỗi của tổ chức đánh giá sự phù hợp quy định tại khoản 1 Điều này.",
+                    "text": "Tổ chức, cá nhân có sản phẩm, hàng hóa được đánh giá sự phù hợp có nghĩa vụ chứng minh kết quả sai và lỗi của tổ chức đánh giá sự phù hợp quy định tại khoản 1 Điều này. Mục 3 GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO",
                     "sub_clauses": []
                 }
             ]
@@ -2125,7 +2183,13 @@
         {
             "id": "Điều 65",
             "title": "Giải quyết khiếu nại, tố cáo hành vi vi phạm pháp luật về chất lượng sản phẩm, hàng hoá",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan nhà nước, người có thẩm quyền giải quyết khiếu nại, tố cáo có trách nhiệm xem xét, giải quyết khiếu nại, tố cáo hành vi vi phạm pháp luật về chất lượng sản phẩm, hàng hóa theo quy định của pháp luật về khiếu nại, tố cáo. Mục 4 XỬ LÝ VI PHẠM PHÁP LUẬT VỀ CHẤT LƯỢNG SẢN PHẨM, HÀNG HOÁ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 66",
@@ -2143,7 +2207,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Mức phạt tiền trong xử phạt vi phạm hành chính quy định tại khoản 1 và khoản 2 Điều này được ấn định ít nhất bằng giá trị sản phẩm, hàng hoá vi phạm đã tiêu thụ và nhiều nhất không quá năm lần giá trị hàng hoá vi phạm đã tiêu thụ; tiền do vi phạm mà có sẽ bị tịch thu theo quy định của pháp luật.",
+                    "text": "Mức phạt tiền trong xử phạt vi phạm hành chính quy định tại khoản 1 và khoản 2 Điều này được ấn định ít nhất bằng giá trị sản phẩm, hàng hoá vi phạm đã tiêu thụ và nhiều nhất không quá năm lần giá trị hàng hoá vi phạm đã tiêu thụ; tiền do vi phạm mà có sẽ bị tịch thu theo quy định của pháp luật. Chính phủ quy định cụ thể về hành vi, hình thức và mức xử phạt các hành vi vi phạm hành chính trong lĩnh vực chất lượng sản phẩm, hàng hoá và cách xác định giá trị sản phẩm, hàng hoá vi phạm.",
                     "sub_clauses": []
                 }
             ]
@@ -2151,7 +2215,13 @@
         {
             "id": "Điều 67",
             "title": "Khởi kiện hành chính",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân có quyền khởi kiện cơ quan nhà nước, người có thẩm quyền tại toà án về quyết định hành chính, hành vi hành chính liên quan đến chất lượng sản phẩm, hàng hoá theo quy định của pháp luật về thủ tục giải quyết các vụ án hành chính. Chương VI TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ CHẤT LƯỢNG SẢN PHẨM, HÀNG HOÁ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 68",
@@ -2270,7 +2340,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trách nhiệm quản lý nhà nước về chất lượng sản phẩm, hàng hoá xuất khẩu, nhập khẩu, lưu thông trên thị trường, trong quá trình sử dụng có khả năng gây mất an toàn được quy định như sau:",
+                    "text": "Trách nhiệm quản lý nhà nước về chất lượng sản phẩm, hàng hoá xuất khẩu, nhập khẩu, lưu thông trên thị trường, trong quá trình sử dụng có khả năng gây mất an toàn được quy định như sau: Chương VII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2307,12 +2377,24 @@
         {
             "id": "Điều 71",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2008. Pháp lệnh chất lượng hàng hóa ngày 24 tháng 12 năm 1999 hết hiệu lực kể từ ngày Luật này có hiệu lực.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 72",
             "title": "Hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 2 thông qua ngày 21 tháng 11 năm 2007. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": []

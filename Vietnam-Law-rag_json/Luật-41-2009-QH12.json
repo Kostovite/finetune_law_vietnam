@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động viễn thông, bao gồm đầu tư, kinh doanh viễn thông; viễn thông công ích; quản lý viễn thông; xây dựng công trình viễn thông; quyền và nghĩa vụ của tổ chức, cá nhân tham gia hoạt động viễn thông."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, cá nhân trong nước, tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc có liên quan đến hoạt động viễn thông tại Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -504,6 +525,20 @@
         "text": "Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về viễn thông tại địa phương."
     },
     {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Cơ quan quản lý chuyên ngành về viễn thông",
+        "text": "Cơ quan quản lý chuyên ngành về viễn thông là cơ quan thuộc Bộ Thông tin và Truyền thông, có trách nhiệm giúp Bộ trưởng Bộ Thông tin và Truyền thông thực hiện nhiệm vụ quản lý nhà nước về viễn thông theo sự phân công, phân cấp của cơ quan nhà nước có thẩm quyền."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Thanh tra chuyên ngành về viễn thông",
+        "text": "Thanh tra chuyên ngành về viễn thông và tổ chức bộ máy thanh tra chuyên ngành do Bộ Thông tin và Truyền thông thực hiện theo quy định của pháp luật về thanh tra."
+    },
+    {
         "id": "Điều 12.1",
         "article": "Điều 12",
         "clause": "1",
@@ -663,6 +698,13 @@
         "clause": "2d",
         "title": "Quyền, nghĩa vụ của doanh nghiệp viễn thông",
         "text": "Các quyền, nghĩa vụ quy định tại khoản 1 Điều này."
+    },
+    {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Quyền, nghĩa vụ của đại lý dịch vụ viễn thông",
+        "text": "Ngoài các quyền, nghĩa vụ quy định tại Luật thương mại, đại lý dịch vụ viễn thông còn có các quyền, nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 15.1",
@@ -1246,6 +1288,13 @@
         "text": "Bộ Thông tin và Truyền thông quy định chi tiết việc cung cấp dịch vụ viễn thông."
     },
     {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Từ chối cung cấp dịch vụ viễn thông",
+        "text": "Doanh nghiệp viễn thông không được từ chối giao kết hợp đồng hoặc đơn phương chấm dứt hợp đồng với người sử dụng dịch vụ viễn thông, trừ các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 26.1",
         "article": "Điều 26",
         "clause": "1",
@@ -1811,6 +1860,13 @@
         "clause": "2",
         "title": "Thu hồi giấy phép viễn thông",
         "text": "Tổ chức bị thu hồi giấy phép viễn thông trong trường hợp quy định tại các điểm b, c, d và đ khoản 1 Điều này sau thời hạn một năm kể từ ngày bị thu hồi giấy phép có quyền đề nghị cấp giấy phép viễn thông, nếu đã khắc phục hậu quả gây ra và có đủ điều kiện để được cấp giấy phép viễn thông theo quy định tại Luật này."
+    },
+    {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Miễn giấy phép viễn thông",
+        "text": "Tổ chức, cá nhân hoạt động viễn thông được miễn giấy phép viễn thông trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 40.1",
@@ -2569,6 +2625,13 @@
         "text": "Thực hiện bình đẳng, không phân biệt trong quản lý và quy định giá cước viễn thông, trừ trường hợp cần khuyến khích doanh nghiệp mới tham gia thị trường."
     },
     {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Căn cứ xác định giá cước viễn thông",
+        "text": "Giá cước viễn thông được xác định dựa trên cơ sở các căn cứ sau đây:"
+    },
+    {
         "id": "Điều 55.1",
         "article": "Điều 55",
         "clause": "1",
@@ -2826,5 +2889,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Các quy định về viễn thông của Pháp lệnh bưu chính, viễn thông số 43/2002/PL-UBTVQH10 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 6 thông qua ngày 23 tháng 11 năm 2009. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

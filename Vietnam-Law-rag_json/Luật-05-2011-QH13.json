@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động cơ yếu; nhiệm vụ, quyền hạn, nguyên tắc tổ chức và hoạt động của lực lượng cơ yếu; chế độ, chính sách đối với người làm việc trong tổ chức cơ yếu; quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức, cá nhân liên quan đến hoạt động cơ yếu."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức cơ yếu, người làm việc trong tổ chức cơ yếu và cơ quan, tổ chức, cá nhân liên quan đến hoạt động cơ yếu."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -145,6 +166,20 @@
         "clause": "6",
         "title": "Trách nhiệm quản lý nhà nước về cơ yếu",
         "text": "Ủy ban nhân dân các cấp thực hiện quản lý nhà nước về cơ yếu theo sự phân cấp của Chính phủ."
+    },
+    {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Trách nhiệm giúp đỡ lực lượng cơ yếu",
+        "text": "Cơ quan, tổ chức, cá nhân có trách nhiệm giúp đỡ lực lượng cơ yếu và người làm công tác cơ yếu thực hiện nhiệm vụ khi có yêu cầu."
+    },
+    {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Bảo vệ bí mật sản phẩm mật mã, thông tin trong hoạt động cơ yếu",
+        "text": "Sản phẩm mật mã, thông tin về tổ chức, mạng liên lạc cơ yếu, nơi làm việc, cơ sở sản xuất, kho cất giữ sản phẩm mật mã của cơ yếu là bí mật nhà nước, phải được quản lý và bảo vệ theo quy định của pháp luật về bảo vệ bí mật nhà nước."
     },
     {
         "id": "Điều 9.1",
@@ -355,6 +390,20 @@
         "clause": "2",
         "title": "Triển khai sản phẩm mật mã bảo vệ thông tin bí mật nhà nước lưu giữ trong các thiết bị điện tử, tin học và trên mạng viễn thông",
         "text": "Tổ chức cơ yếu có thẩm quyền có trách nhiệm triển khai sản phẩm mật mã bảo vệ thông tin bí mật nhà nước lưu giữ trong các thiết bị điện tử, tin học và trên mạng viễn thông theo quy định của Chính phủ."
+    },
+    {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Bảo đảm an toàn mật mã trong trường hợp khẩn cấp, nguy hiểm",
+        "text": "Trường hợp khẩn cấp, nguy hiểm mà không còn biện pháp nào khác để bảo đảm an toàn mật mã thì cơ quan, tổ chức, cá nhân sử dụng sản phẩm mật mã phải thực hiện ngay biện pháp tiêu hủy, sau đó kịp thời báo cáo với người có thẩm quyền. CHƯƠNG III NHIỆM VỤ, QUYỀN HẠN, TỔ CHỨC CỦA LỰC LƯỢNG CƠ YẾU"
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Vị trí, chức năng, nhiệm vụ của lực lượng cơ yếu",
+        "text": "Lực lượng cơ yếu là một trong những lực lượng chuyên trách bảo vệ bí mật nhà nước, có chức năng tham mưu cho Đảng, Nhà nước về công tác cơ yếu, thực hiện hoạt động cơ yếu; góp phần bảo đảm tuyệt đối bí mật, an toàn, chính xác, kịp thời thông tin phục vụ sự lãnh đạo của Đảng, quản lý của Nhà nước, chỉ đạo, chỉ huy của lực lượng vũ trang nhân dân trong mọi tình huống; chủ động phòng ngừa, tham gia đấu tranh với các hoạt động thám mã gây phương hại đến an ninh quốc gia, lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân."
     },
     {
         "id": "Điều 21.1",
@@ -686,6 +735,13 @@
         "text": "Người làm công tác cơ yếu biệt phái được hưởng chế độ, chính sách theo quy định của Luật này và các quy định khác của pháp luật có liên quan."
     },
     {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Thời hạn không được tham gia hoạt động mật mã",
+        "text": "Người làm việc trong tổ chức cơ yếu quy định tại điểm a và điểm b khoản 1 Điều 23 của Luật này khi nghỉ hưu, chuyển ngành, chuyển công tác khác hoặc thôi việc thì trong thời hạn 05 năm, kể từ khi có quyết định nghỉ hưu, chuyển ngành, chuyển công tác khác hoặc thôi việc không được tham gia hoạt động mật mã cho tổ chức, cá nhân ngoài ngành cơ yếu."
+    },
+    {
         "id": "Điều 30.1",
         "article": "Điều 30",
         "clause": "1",
@@ -728,6 +784,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Chế độ, chính sách đối với người được tuyển chọn để đào tạo, bồi dưỡng, huấn luyện chuyên môn, nghiệp vụ cơ yếu",
+        "text": "Người được tuyển chọn để đào tạo, bồi dưỡng, huấn luyện chuyên môn, nghiệp vụ cơ yếu được hưởng các chế độ, chính sách theo chế độ, chính sách đối với học viên ở các trường Quân đội, Công an."
+    },
+    {
         "id": "Điều 33.1",
         "article": "Điều 33",
         "clause": "1",
@@ -740,6 +803,13 @@
         "clause": "2",
         "title": "Chế độ, chính sách đối với người làm công tác khác trong tổ chức cơ yếu",
         "text": "Người làm công tác khác trong tổ chức cơ yếu không phải là quân nhân, Công an nhân dân được hưởng chế độ tiền lương và phụ cấp, các chế độ, chính sách như đối với công nhân, viên chức quốc phòng trong Quân đội nhân dân và được miễn thực hiện nghĩa vụ quân sự tại ngũ."
+    },
+    {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Chế độ phụ cấp trách nhiệm bảo vệ cơ mật mật mã",
+        "text": "Người làm việc trong tổ chức cơ yếu được hưởng chế độ phụ cấp trách nhiệm bảo vệ cơ mật mật mã theo quy định của Chính phủ."
     },
     {
         "id": "Điều 35.1",
@@ -838,5 +908,19 @@
         "clause": "2",
         "title": "Bảo đảm điều kiện hoạt động cho người làm công tác cơ yếu",
         "text": "Cơ quan, tổ chức sử dụng cơ yếu có trách nhiệm quản lý, sử dụng người làm công tác cơ yếu đúng chuyên môn, nghiệp vụ và bảo đảm điều kiện làm việc; thường xuyên giáo dục chính trị, tư tưởng, phẩm chất đạo đức; thực hiện đầy đủ chế độ, chính sách và chăm lo đời sống vật chất, tinh thần cho người làm công tác cơ yếu. CHƯƠNG V ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 02 năm 2012. Pháp lệnh cơ yếu số 33/2001/PL-UBTVQH10 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật này. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 2 thông qua ngày 26 tháng 11 năm 2011. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

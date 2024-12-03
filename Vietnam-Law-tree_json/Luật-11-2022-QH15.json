@@ -15,12 +15,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về tổ chức và hoạt động thanh tra.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Thanh tra là hoạt động xem xét, đánh giá, xử lý theo trình tự, thủ tục do pháp luật quy định của cơ quan thực hiện chức năng thanh tra đối với việc thực hiện chính sách, pháp luật, nhiệm vụ, quyền hạn của cơ quan, tổ chức, cá nhân. Hoạt động thanh tra bao gồm thanh tra hành chính và thanh tra chuyên ngành.",
@@ -126,7 +137,13 @@
         {
             "id": "Điều 3",
             "title": "Mục đích hoạt động thanh tra",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hoạt động thanh tra nhằm phát hiện hạn chế, bất cập trong cơ chế quản lý, chính sách, pháp luật để kiến nghị với cơ quan nhà nước có thẩm quyền có giải pháp, biện pháp khắc phục; phòng ngừa, phát hiện và xử lý hành vi vi phạm pháp luật; giúp cơ quan, tổ chức, cá nhân thực hiện đúng quy định của pháp luật; phát huy nhân tố tích cực; góp phần nâng cao hiệu lực, hiệu quả hoạt động quản lý nhà nước; bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 4",
@@ -152,7 +169,13 @@
         {
             "id": "Điều 5",
             "title": "Chức năng của cơ quan thanh tra",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, cơ quan thanh tra giúp cơ quan nhà nước có thẩm quyền thực hiện quản lý nhà nước về công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực; tiến hành thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 6",
@@ -165,7 +188,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thủ trưởng cơ quan quản lý nhà nước phải thường xuyên tổ chức kiểm tra việc thực hiện nhiệm vụ, quyền hạn được giao của cơ quan, tổ chức, cá nhân thuộc quyền quản lý; việc chấp hành chính sách, pháp luật của cơ quan, tổ chức, cá nhân thuộc ngành, lĩnh vực do mình phụ trách để bảo đảm hiệu lực, hiệu quả của công tác quản lý nhà nước.",
+                    "text": "Thủ trưởng cơ quan quản lý nhà nước phải thường xuyên tổ chức kiểm tra việc thực hiện nhiệm vụ, quyền hạn được giao của cơ quan, tổ chức, cá nhân thuộc quyền quản lý; việc chấp hành chính sách, pháp luật của cơ quan, tổ chức, cá nhân thuộc ngành, lĩnh vực do mình phụ trách để bảo đảm hiệu lực, hiệu quả của công tác quản lý nhà nước. Trong quá trình kiểm tra, nếu phát hiện vi phạm thì áp dụng hoặc kiến nghị cơ quan nhà nước có thẩm quyền áp dụng biện pháp theo quy định của pháp luật để xử lý kịp thời hành vi vi phạm; trường hợp cần thiết thì yêu cầu hoặc đề nghị cơ quan có thẩm quyền tiến hành thanh tra; nếu có dấu hiệu tội phạm thì kiến nghị khởi tố và chuyển hồ sơ vụ việc, tài liệu có liên quan đến cơ quan điều tra để xem xét, quyết định việc khởi tố vụ án hình sự theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -242,7 +265,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Hành vi khác bị nghiêm cấm theo quy định của luật.",
+                    "text": "Hành vi khác bị nghiêm cấm theo quy định của luật. Chương II TỔ CHỨC, NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN THỰC HIỆN CHỨC NĂNG THANH TRA",
                     "sub_clauses": []
                 }
             ]
@@ -303,7 +326,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Cơ quan được giao thực hiện chức năng thanh tra chuyên ngành.",
+                    "text": "Cơ quan được giao thực hiện chức năng thanh tra chuyên ngành. Mục 1. THANH TRA CHÍNH PHỦ",
                     "sub_clauses": []
                 }
             ]
@@ -311,7 +334,13 @@
         {
             "id": "Điều 10",
             "title": "Vị trí, chức năng của Thanh tra Chính phủ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thanh tra Chính phủ là cơ quan của Chính phủ, giúp Chính phủ thực hiện quản lý nhà nước về công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực trong phạm vi cả nước; thực hiện nhiệm vụ thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 11",
@@ -397,7 +426,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tổng Thanh tra Chính phủ là thành viên Chính phủ, chịu trách nhiệm trước Quốc hội, Chính phủ, Thủ tướng Chính phủ về công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực.",
+                    "text": "Tổng Thanh tra Chính phủ là thành viên Chính phủ, chịu trách nhiệm trước Quốc hội, Chính phủ, Thủ tướng Chính phủ về công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng, tiêu cực. Các Phó Tổng Thanh tra Chính phủ giúp Tổng Thanh tra Chính phủ thực hiện nhiệm vụ theo sự phân công của Tổng Thanh tra Chính phủ.",
                     "sub_clauses": []
                 },
                 {
@@ -471,7 +500,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức của Thanh tra Chính phủ được thực hiện theo quy định của pháp luật về tổ chức Chính phủ và quy định khác của pháp luật có liên quan.",
+                    "text": "Tổ chức của Thanh tra Chính phủ được thực hiện theo quy định của pháp luật về tổ chức Chính phủ và quy định khác của pháp luật có liên quan. Mục 2. THANH TRA BỘ",
                     "sub_clauses": []
                 }
             ]
@@ -563,6 +592,11 @@
             "title": "Nhiệm vụ, quyền hạn của Chánh Thanh tra Bộ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong lĩnh vực thanh tra, Chánh Thanh tra Bộ có nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Lãnh đạo, chỉ đạo, kiểm tra công tác thanh tra trong phạm vi quản lý nhà nước của Bộ; lãnh đạo Thanh tra Bộ thực hiện nhiệm vụ, quyền hạn theo quy định của Luật này và quy định khác của pháp luật có liên quan;",
                     "sub_clauses": []
@@ -630,12 +664,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thanh tra Bộ có Chánh Thanh tra, Phó Chánh Thanh tra, Thanh tra viên và công chức khác.",
+                    "text": "Thanh tra Bộ có Chánh Thanh tra, Phó Chánh Thanh tra, Thanh tra viên và công chức khác. Chánh Thanh tra Bộ do Bộ trưởng bổ nhiệm, miễn nhiệm, cách chức, điều động, luân chuyển, biệt phái sau khi tham khảo ý kiến của Tổng Thanh tra Chính phủ.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức của Thanh tra Bộ được thực hiện theo quy định của pháp luật về tổ chức Chính phủ và quy định khác của pháp luật có liên quan.",
+                    "text": "Tổ chức của Thanh tra Bộ được thực hiện theo quy định của pháp luật về tổ chức Chính phủ và quy định khác của pháp luật có liên quan. Mục 3. THANH TRA TỔNG CỤC, CỤC",
                     "sub_clauses": []
                 }
             ]
@@ -651,7 +685,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thanh tra Tổng cục, Cục được thành lập trong các trường hợp sau đây:",
+                    "text": "Thanh tra Tổng cục, Cục được thành lập trong các trường hợp sau đây: Việc thành lập Thanh tra Tổng cục, Cục không được làm tăng số lượng đầu mối đơn vị trực thuộc và biên chế của Tổng cục, Cục thuộc Bộ.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -721,6 +755,11 @@
             "title": "Nhiệm vụ, quyền hạn của Chánh Thanh tra Tổng cục, Cục",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong lĩnh vực thanh tra, Chánh Thanh tra Tổng cục, Cục có nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Lãnh đạo, chỉ đạo, kiểm tra công tác thanh tra trong phạm vi quản lý của Tổng cục, Cục; lãnh đạo Thanh tra Tổng cục, Cục thực hiện nhiệm vụ, quyền hạn theo quy định của Luật này và quy định khác của pháp luật có liên quan;",
                     "sub_clauses": []
@@ -748,12 +787,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thanh tra Tổng cục, Cục có Chánh Thanh tra, Phó Chánh Thanh tra, Thanh tra viên và công chức khác.",
+                    "text": "Thanh tra Tổng cục, Cục có Chánh Thanh tra, Phó Chánh Thanh tra, Thanh tra viên và công chức khác. Chánh Thanh tra Tổng cục, Cục do Tổng Cục trưởng, Cục trưởng bổ nhiệm, miễn nhiệm, cách chức, điều động, luân chuyển, biệt phái sau khi tham khảo ý kiến của Chánh Thanh tra Bộ.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức của Thanh tra Tổng cục, Cục được thực hiện theo quy định của pháp luật về tổ chức Chính phủ và quy định khác của pháp luật có liên quan.",
+                    "text": "Tổ chức của Thanh tra Tổng cục, Cục được thực hiện theo quy định của pháp luật về tổ chức Chính phủ và quy định khác của pháp luật có liên quan. Mục 4. THANH TRA TỈNH",
                     "sub_clauses": []
                 }
             ]
@@ -845,6 +884,11 @@
             "title": "Nhiệm vụ, quyền hạn của Chánh Thanh tra tỉnh",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong lĩnh vực thanh tra, Chánh Thanh tra tỉnh có nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Lãnh đạo, chỉ đạo, kiểm tra công tác thanh tra trong phạm vi quản lý nhà nước của Ủy ban nhân dân cấp tỉnh; lãnh đạo Thanh tra tỉnh thực hiện nhiệm vụ, quyền hạn theo quy định của Luật này và quy định khác của pháp luật có liên quan;",
                     "sub_clauses": []
@@ -907,12 +951,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thanh tra tỉnh có Chánh Thanh tra, Phó Chánh Thanh tra, Thanh tra viên và công chức khác.",
+                    "text": "Thanh tra tỉnh có Chánh Thanh tra, Phó Chánh Thanh tra, Thanh tra viên và công chức khác. Chánh Thanh tra tỉnh do Chủ tịch Ủy ban nhân dân cấp tỉnh bổ nhiệm, miễn nhiệm, cách chức, điều động, luân chuyển, biệt phái sau khi tham khảo ý kiến của Tổng Thanh tra Chính phủ.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức của Thanh tra tỉnh được thực hiện theo quy định của pháp luật về tổ chức chính quyền địa phương và quy định khác của pháp luật có liên quan.",
+                    "text": "Tổ chức của Thanh tra tỉnh được thực hiện theo quy định của pháp luật về tổ chức chính quyền địa phương và quy định khác của pháp luật có liên quan. Mục 5. THANH TRA SỞ",
                     "sub_clauses": []
                 }
             ]
@@ -1003,6 +1047,11 @@
             "title": "Nhiệm vụ, quyền hạn của Chánh Thanh tra sở",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong lĩnh vực thanh tra, Chánh Thanh tra sở có nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Lãnh đạo Thanh tra sở thực hiện nhiệm vụ, quyền hạn theo quy định của Luật này và quy định khác của pháp luật có liên quan;",
                     "sub_clauses": []
@@ -1035,12 +1084,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thanh tra sở có Chánh Thanh tra, Phó Chánh Thanh tra, Thanh tra viên và công chức khác.",
+                    "text": "Thanh tra sở có Chánh Thanh tra, Phó Chánh Thanh tra, Thanh tra viên và công chức khác. Chánh Thanh tra sở do Giám đốc sở bổ nhiệm, miễn nhiệm, cách chức, điều động, luân chuyển, biệt phái sau khi tham khảo ý kiến của Chánh Thanh tra tỉnh.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức của Thanh tra sở được thực hiện theo quy định của pháp luật về tổ chức chính quyền địa phương và quy định khác của pháp luật có liên quan.",
+                    "text": "Tổ chức của Thanh tra sở được thực hiện theo quy định của pháp luật về tổ chức chính quyền địa phương và quy định khác của pháp luật có liên quan. Mục 6. THANH TRA HUYỆN",
                     "sub_clauses": []
                 }
             ]
@@ -1108,6 +1157,11 @@
             "title": "Nhiệm vụ, quyền hạn của Chánh Thanh tra huyện",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong lĩnh vực thanh tra, Chánh Thanh tra huyện có nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Lãnh đạo, chỉ đạo công tác thanh tra trong phạm vi quản lý nhà nước của Ủy ban nhân dân cấp huyện; lãnh đạo Thanh tra huyện thực hiện nhiệm vụ, quyền hạn theo quy định của Luật này và quy định khác của pháp luật có liên quan;",
                     "sub_clauses": []
@@ -1145,12 +1199,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thanh tra huyện có Chánh Thanh tra, Phó Chánh Thanh tra, Thanh tra viên và công chức khác.",
+                    "text": "Thanh tra huyện có Chánh Thanh tra, Phó Chánh Thanh tra, Thanh tra viên và công chức khác. Chánh Thanh tra huyện do Chủ tịch Ủy ban nhân dân cấp huyện bổ nhiệm, miễn nhiệm, cách chức, điều động, luân chuyển, biệt phái sau khi tham khảo ý kiến của Chánh Thanh tra tỉnh.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức của Thanh tra huyện được thực hiện theo quy định của pháp luật về tổ chức chính quyền địa phương và quy định khác của pháp luật có liên quan.",
+                    "text": "Tổ chức của Thanh tra huyện được thực hiện theo quy định của pháp luật về tổ chức chính quyền địa phương và quy định khác của pháp luật có liên quan. Mục 7. CƠ QUAN THANH TRA Ở CƠ QUAN THUỘC CHÍNH PHỦ",
                     "sub_clauses": []
                 }
             ]
@@ -1191,7 +1245,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định về nhiệm vụ, quyền hạn và hoạt động, của cơ quan thanh tra ở cơ quan thuộc Chính phủ.",
+                    "text": "Chính phủ quy định về nhiệm vụ, quyền hạn và hoạt động, của cơ quan thanh tra ở cơ quan thuộc Chính phủ. Mục 8. CƠ QUAN ĐƯỢC GIAO THỰC HIỆN CHỨC NĂNG THANH TRA CHUYÊN NGÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1200,6 +1254,11 @@
             "id": "Điều 36",
             "title": "Giao thực hiện chức năng thanh tra chuyên ngành",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan được giao thực hiện chức năng thanh tra chuyên ngành trong các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Theo quy định của luật;",
@@ -1228,7 +1287,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Căn cứ quy định của Luật này, Chính phủ quy định về hoạt động thanh tra và việc thực hiện kết luận thanh tra của cơ quan được giao thực hiện chức năng thanh tra chuyên ngành.",
+                    "text": "Căn cứ quy định của Luật này, Chính phủ quy định về hoạt động thanh tra và việc thực hiện kết luận thanh tra của cơ quan được giao thực hiện chức năng thanh tra chuyên ngành. Chương III THANH TRA VIÊN, NGƯỜI ĐƯỢC GIAO THỰC HIỆN NHIỆM VỤ THANH TRA CHUYÊN NGÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1249,7 +1308,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Người được giao thực hiện nhiệm vụ thanh tra chuyên ngành phải là công chức của cơ quan được giao thực hiện chức năng thanh tra chuyên ngành, trừ trường hợp là viên chức ở cơ quan thuộc Chính phủ theo quy định của Chính phủ.",
+                    "text": "Người được giao thực hiện nhiệm vụ thanh tra chuyên ngành phải là công chức của cơ quan được giao thực hiện chức năng thanh tra chuyên ngành, trừ trường hợp là viên chức ở cơ quan thuộc Chính phủ theo quy định của Chính phủ. Người được giao thực hiện nhiệm vụ thanh tra chuyên ngành phải có chuyên môn, nghiệp vụ phù hợp với chuyên ngành, am hiểu pháp luật, có nghiệp vụ thanh tra và có ít nhất 01 năm làm công tác chuyên môn trong lĩnh vực được giao thực hiện nhiệm vụ thanh tra chuyên ngành, không kể thời gian tập sự.",
                     "sub_clauses": []
                 },
                 {
@@ -1403,7 +1462,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người được giao thực hiện nhiệm vụ thanh tra chuyên ngành được cấp trang phục, thẻ thanh tra chuyên ngành theo quy định của Bộ trưởng, Thủ trưởng cơ quan thuộc Chính phủ để sử dụng khi thực hiện nhiệm vụ thanh tra chuyên ngành.",
+                    "text": "Người được giao thực hiện nhiệm vụ thanh tra chuyên ngành được cấp trang phục, thẻ thanh tra chuyên ngành theo quy định của Bộ trưởng, Thủ trưởng cơ quan thuộc Chính phủ để sử dụng khi thực hiện nhiệm vụ thanh tra chuyên ngành. Chương IV HOẠT ĐỘNG THANH TRA Mục 1. QUY ĐỊNH CHUNG",
                     "sub_clauses": []
                 }
             ]
@@ -1435,12 +1494,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Kế hoạch thanh tra bao gồm kế hoạch thanh tra của Thanh tra Chính phủ, kế hoạch thanh tra của Bộ và kế hoạch thanh tra của tỉnh.",
+                    "text": "Kế hoạch thanh tra bao gồm kế hoạch thanh tra của Thanh tra Chính phủ, kế hoạch thanh tra của Bộ và kế hoạch thanh tra của tỉnh. Kế hoạch thanh tra của Bộ bao gồm các kế hoạch thanh tra của Thanh tra Bộ, Thanh tra Tổng cục, Cục; bảo đảm không chồng chéo, trùng lặp trong hoạt động thanh tra giữa Thanh tra Bộ, Thanh tra Tổng cục, Cục. Kế hoạch thanh tra của tỉnh bao gồm các kế hoạch thanh tra của Thanh tra tỉnh, Thanh tra sở và Thanh tra huyện; bảo đảm không chồng chéo, trùng lặp trong hoạt động thanh tra giữa Thanh tra tỉnh, Thanh tra sở và Thanh tra huyện.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Chậm nhất vào ngày 25 tháng 10 hằng năm, căn cứ vào Định hướng chương trình thanh tra, Tổng Thanh tra Chính phủ có trách nhiệm hướng dẫn Thanh tra Bộ, Thanh tra tỉnh xây dựng dự thảo kế hoạch thanh tra của Bộ, kế hoạch thanh tra của tỉnh.",
+                    "text": "Chậm nhất vào ngày 25 tháng 10 hằng năm, căn cứ vào Định hướng chương trình thanh tra, Tổng Thanh tra Chính phủ có trách nhiệm hướng dẫn Thanh tra Bộ, Thanh tra tỉnh xây dựng dự thảo kế hoạch thanh tra của Bộ, kế hoạch thanh tra của tỉnh. Chậm nhất vào ngày 30 tháng 10 hằng năm, căn cứ vào Định hướng chương trình thanh tra và hướng dẫn của Thanh tra Chính phủ, Thanh tra Bộ hướng dẫn Thanh tra Tổng cục, Cục; Thanh tra tỉnh hướng dẫn Thanh tra sở, Thanh tra huyện xây dựng dự thảo kế hoạch thanh tra của cơ quan mình.",
                     "sub_clauses": []
                 },
                 {
@@ -1455,7 +1514,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chậm nhất vào ngày 30 tháng 11 hằng năm, Chánh Thanh tra Bộ trình Bộ trưởng ban hành kế hoạch thanh tra của Bộ; Chánh Thanh tra tỉnh trình Chủ tịch Ủy ban nhân dân cấp tỉnh ban hành kế hoạch thanh tra của tỉnh.",
+                    "text": "Chậm nhất vào ngày 30 tháng 11 hằng năm, Chánh Thanh tra Bộ trình Bộ trưởng ban hành kế hoạch thanh tra của Bộ; Chánh Thanh tra tỉnh trình Chủ tịch Ủy ban nhân dân cấp tỉnh ban hành kế hoạch thanh tra của tỉnh. Chậm nhất vào ngày 10 tháng 12 hằng năm, Bộ trưởng có trách nhiệm ban hành kế hoạch thanh tra của Bộ. Chậm nhất vào ngày 20 tháng 12 hằng năm, Chủ tịch Ủy ban nhân dân cấp tỉnh có trách nhiệm ban hành kế hoạch thanh tra của tỉnh.",
                     "sub_clauses": []
                 },
                 {
@@ -1553,7 +1612,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc gia hạn thời hạn thanh tra do người ra quyết định thanh tra xem xét, quyết định.",
+                    "text": "Việc gia hạn thời hạn thanh tra do người ra quyết định thanh tra xem xét, quyết định. Trưởng đoàn thanh tra có văn bản gửi người ra quyết định thanh tra đề nghị gia hạn thời hạn thanh tra kèm theo dự thảo quyết định gia hạn thời hạn thanh tra; văn bản đề nghị phải nêu rõ lý do, thời gian gia hạn.",
                     "sub_clauses": []
                 },
                 {
@@ -1645,7 +1704,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trình tự, thủ tục tiến hành một cuộc thanh tra chuyên ngành được quy định như sau:",
+                    "text": "Trình tự, thủ tục tiến hành một cuộc thanh tra chuyên ngành được quy định như sau: Trường hợp để bảo đảm việc thanh tra có trọng tâm, trọng điểm, tránh chồng chéo, trùng lặp, trước khi ban hành quyết định thanh tra, Thủ trưởng cơ quan thanh tra có thể quyết định việc thu thập thông tin theo quy định tại Điều 58 của Luật này;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1677,6 +1736,11 @@
             "id": "Điều 51",
             "title": "Căn cứ ra quyết định thanh tra",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Việc ra quyết định thanh tra phải có một trong các căn cứ sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Kế hoạch thanh tra;",
@@ -1770,7 +1834,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trường hợp Đoàn thanh tra đã phát hiện và báo cáo về vụ việc có dấu hiệu vi phạm pháp luật nhưng người ra quyết định thanh tra không xử lý thì Trưởng đoàn thanh tra, thành viên khác của Đoàn thanh tra không phải chịu trách nhiệm. Trong trường hợp này, người ra quyết định thanh tra phải chịu trách nhiệm theo quy định của pháp luật.",
+                    "text": "Trường hợp Đoàn thanh tra đã phát hiện và báo cáo về vụ việc có dấu hiệu vi phạm pháp luật nhưng người ra quyết định thanh tra không xử lý thì Trưởng đoàn thanh tra, thành viên khác của Đoàn thanh tra không phải chịu trách nhiệm. Trong trường hợp này, người ra quyết định thanh tra phải chịu trách nhiệm theo quy định của pháp luật. Trường hợp thành viên Đoàn thanh tra đã phát hiện và báo cáo về vụ việc có dấu hiệu vi phạm pháp luật nhưng Trưởng đoàn thanh tra không xử lý thì thành viên đó không phải chịu trách nhiệm. Trong trường hợp này, Trưởng đoàn thanh tra phải chịu trách nhiệm theo quy định của pháp luật.",
                     "sub_clauses": []
                 }
             ]
@@ -1904,7 +1968,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chậm nhất là 15 ngày kể từ ngày kết thúc hồ sơ thanh tra, Trưởng đoàn thanh tra có trách nhiệm hoàn thành việc lập và bàn giao hồ sơ thanh tra cho cơ quan tiến hành thanh tra.",
+                    "text": "Chậm nhất là 15 ngày kể từ ngày kết thúc hồ sơ thanh tra, Trưởng đoàn thanh tra có trách nhiệm hoàn thành việc lập và bàn giao hồ sơ thanh tra cho cơ quan tiến hành thanh tra. Mục 2. CHUẨN BỊ THANH TRA",
                     "sub_clauses": []
                 }
             ]
@@ -1984,7 +2048,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đoàn thanh tra có Trưởng đoàn thanh tra và thành viên khác. Thành viên khác của Đoàn thanh tra bao gồm Thanh tra viên và người khác tham gia Đoàn thanh tra nhưng không phải là Thanh tra viên.",
+                    "text": "Đoàn thanh tra có Trưởng đoàn thanh tra và thành viên khác. Thành viên khác của Đoàn thanh tra bao gồm Thanh tra viên và người khác tham gia Đoàn thanh tra nhưng không phải là Thanh tra viên. Trường hợp cần thiết, Đoàn thanh tra có Phó Trưởng đoàn thanh tra để giúp Trưởng đoàn thanh tra thực hiện nhiệm vụ được giao, phụ trách một số hoạt động của Đoàn thanh tra khi được Trưởng đoàn thanh tra giao. Trưởng đoàn thanh tra, Phó Trưởng đoàn thanh tra (nếu có) phải là người đã được bổ nhiệm vào ngạch thanh tra viên. Thanh tra viên, thành viên khác của Đoàn thanh tra thực hiện nhiệm vụ theo sự phân công của Trưởng đoàn thanh tra.",
                     "sub_clauses": []
                 },
                 {
@@ -2082,7 +2146,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đối với hoạt động thanh tra chuyên ngành, trường hợp phát hiện hành vi vi phạm cần phải tiến hành thanh tra ngay thì không thông báo việc công bố quyết định thanh tra cho đối tượng thanh tra.",
+                    "text": "Đối với hoạt động thanh tra chuyên ngành, trường hợp phát hiện hành vi vi phạm cần phải tiến hành thanh tra ngay thì không thông báo việc công bố quyết định thanh tra cho đối tượng thanh tra. Mục 3. TIẾN HÀNH THANH TRA TRỰC TIẾP",
                     "sub_clauses": []
                 }
             ]
@@ -2098,7 +2162,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thành phần tham dự buổi công bố quyết định thanh tra bao gồm: Đoàn thanh tra, đại diện lãnh đạo cơ quan, tổ chức hoặc cá nhân là đối tượng thanh tra. Trong trường hợp cần thiết, Trưởng đoàn thanh tra mời đại diện lãnh đạo cơ quan tiến hành thanh tra, đại diện cơ quan, tổ chức, cá nhân có liên quan tham dự buổi công bố quyết định thanh tra.",
+                    "text": "Thành phần tham dự buổi công bố quyết định thanh tra bao gồm: Đoàn thanh tra, đại diện lãnh đạo cơ quan, tổ chức hoặc cá nhân là đối tượng thanh tra. Trong trường hợp cần thiết, Trưởng đoàn thanh tra mời đại diện lãnh đạo cơ quan tiến hành thanh tra, đại diện cơ quan, tổ chức, cá nhân có liên quan tham dự buổi công bố quyết định thanh tra. Việc công bố quyết định thanh tra phải được lập thành biên bản.",
                     "sub_clauses": []
                 },
                 {
@@ -2161,7 +2225,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trưởng đoàn thanh tra, thành viên khác của Đoàn thanh tra có trách nhiệm nghiên cứu thông tin, tài liệu đã thu thập được; đánh giá việc chấp hành chính sách, pháp luật, nhiệm vụ, quyền hạn của đối tượng thanh tra liên quan đến nội dung thanh tra được phân công.",
+                    "text": "Trưởng đoàn thanh tra, thành viên khác của Đoàn thanh tra có trách nhiệm nghiên cứu thông tin, tài liệu đã thu thập được; đánh giá việc chấp hành chính sách, pháp luật, nhiệm vụ, quyền hạn của đối tượng thanh tra liên quan đến nội dung thanh tra được phân công. Trưởng đoàn thanh tra, Thanh tra viên có quyền yêu cầu người có trách nhiệm, người có liên quan giải trình về những vấn đề chưa rõ; trường hợp cần làm việc trực tiếp với đối tượng thanh tra, người có liên quan thì Thanh tra viên báo cáo Trưởng đoàn thanh tra xem xét, quyết định.",
                     "sub_clauses": []
                 },
                 {
@@ -2192,7 +2256,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trường hợp phát hiện vụ việc có dấu hiệu tội phạm thì Trưởng đoàn thanh tra phải báo cáo để người ra quyết định thanh tra chuyển ngay hồ sơ vụ việc, tài liệu có liên quan cùng với văn bản kiến nghị khởi tố cho cơ quan điều tra có thẩm quyền xem xét, xử lý theo quy định của pháp luật và thông báo cho Viện kiểm sát nhân dân cùng cấp biết.",
+                    "text": "Trường hợp phát hiện vụ việc có dấu hiệu tội phạm thì Trưởng đoàn thanh tra phải báo cáo để người ra quyết định thanh tra chuyển ngay hồ sơ vụ việc, tài liệu có liên quan cùng với văn bản kiến nghị khởi tố cho cơ quan điều tra có thẩm quyền xem xét, xử lý theo quy định của pháp luật và thông báo cho Viện kiểm sát nhân dân cùng cấp biết. Đoàn thanh tra tiếp tục thanh tra theo kế hoạch tiến hành thanh tra đã phê duyệt; người ra quyết định thanh tra ban hành kết luận thanh tra theo quy định của pháp luật. Cơ quan điều tra có trách nhiệm thông báo cho cơ quan thanh tra về kết quả giải quyết vụ việc; trường hợp hết thời hạn xem xét giải quyết kiến nghị khởi tố theo quy định của Bộ luật Tố tụng hình sự mà cơ quan thanh tra đã kiến nghị khởi tố không nhận được thông báo bằng văn bản hoặc không đồng ý với kết quả giải quyết thì trao đổi với cơ quan điều tra, Viện kiểm sát nhân dân cùng cấp để làm rõ lý do, nếu vẫn không đồng ý thì kiến nghị với cơ quan điều tra, Viện kiểm sát nhân dân cấp trên xem xét, giải quyết và báo cáo cơ quan thanh tra cấp trên.",
                     "sub_clauses": []
                 },
                 {
@@ -2298,7 +2362,13 @@
         {
             "id": "Điều 72",
             "title": "Kết thúc việc tiến hành thanh tra trực tiếp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khi kết thúc việc tiến hành thanh tra trực tiếp tại nơi được thanh tra, Trưởng đoàn thanh tra có trách nhiệm báo cáo bằng văn bản với người ra quyết định thanh tra và thông báo bằng văn bản cho đối tượng thanh tra biết; trường hợp cần thiết thì tổ chức buổi làm việc với đối tượng thanh tra để thông báo kết thúc việc tiến hành thanh tra trực tiếp. Mục 4. KẾT THÚC CUỘC THANH TRA",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 73",
@@ -2372,7 +2442,13 @@
         {
             "id": "Điều 74",
             "title": "Xem xét báo cáo kết quả thanh tra",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người ra quyết định thanh tra xem xét, đánh giá các nội dung trong báo cáo kết quả thanh tra của Đoàn thanh tra. Trường hợp cần thiết, người ra quyết định thanh tra yêu cầu Trưởng đoàn thanh tra làm rõ hoặc bổ sung nội dung trong báo cáo kết quả thanh tra.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 75",
@@ -2395,7 +2471,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Dự thảo kết luận thanh tra được gửi đến thành viên khác của Đoàn thanh tra để tham gia ý kiến trước khi trình người ra quyết định thanh tra.",
+                    "text": "Dự thảo kết luận thanh tra được gửi đến thành viên khác của Đoàn thanh tra để tham gia ý kiến trước khi trình người ra quyết định thanh tra. Thành viên khác của Đoàn thanh tra có quyền bảo lưu ý kiến về nội dung dự thảo kết luận thanh tra. Trưởng đoàn thanh tra có quyền bảo lưu ý kiến về nội dung trong kết luận thanh tra trước người ra quyết định thanh tra. Ý kiến bảo lưu được thể hiện bằng văn bản gửi kèm theo dự thảo kết luận thanh tra.",
                     "sub_clauses": []
                 },
                 {
@@ -2421,7 +2497,13 @@
         {
             "id": "Điều 76",
             "title": "Tham khảo ý kiến về dự thảo kết luận thanh tra",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong quá trình xây dựng dự thảo kết luận thanh tra, người ra quyết định thanh tra có thể quyết định việc xin ý kiến của cơ quan, tổ chức, cá nhân có liên quan về một hoặc một số nội dung của dự thảo kết luận thanh tra. Cơ quan, tổ chức, cá nhân được đề nghị có văn bản trả lời về nội dung được xin ý kiến trong thời hạn theo đề nghị của người ra quyết định thanh tra.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 77",
@@ -2455,7 +2537,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trong thời hạn 15 ngày kể từ ngày nhận được dự thảo kết luận thanh tra, người ra quyết định thanh tra ký ban hành kết luận thanh tra và chịu trách nhiệm về kết luận, kiến nghị của mình. Thủ trưởng cơ quan quản lý nhà nước cùng cấp có trách nhiệm đôn đốc, kiểm tra để bảo đảm việc ban hành kết luận thanh tra đúng thời hạn theo quy định.",
+                    "text": "Trong thời hạn 15 ngày kể từ ngày nhận được dự thảo kết luận thanh tra, người ra quyết định thanh tra ký ban hành kết luận thanh tra và chịu trách nhiệm về kết luận, kiến nghị của mình. Thủ trưởng cơ quan quản lý nhà nước cùng cấp có trách nhiệm đôn đốc, kiểm tra để bảo đảm việc ban hành kết luận thanh tra đúng thời hạn theo quy định. Đối với dự thảo kết luận thanh tra về vụ việc liên quan đến an ninh, quốc phòng, vụ việc quan trọng, phức tạp thuộc diện chỉ đạo, theo dõi của Ban Chỉ đạo Trung ương về phòng, chống tham nhũng, tiêu cực, Ban Chỉ đạo phòng, chống tham nhũng, tiêu cực cấp tỉnh hoặc có yêu cầu của Thủ trưởng cơ quan quản lý nhà nước cùng cấp thì người ra quyết định thanh tra phải có văn bản báo cáo Thủ trưởng cơ quan quản lý nhà nước cùng cấp. Chậm nhất là 30 ngày kể từ ngày nhận được văn bản báo cáo, Thủ trưởng cơ quan quản lý nhà nước cùng cấp có ý kiến bằng văn bản về nội dung được báo cáo; trường hợp Thủ trưởng cơ quan quản lý nhà nước không trả lời hoặc không có ý kiến khác với dự thảo kết luận thanh tra thì người ra quyết định thanh tra ban hành ngay kết luận thanh tra. Trường hợp Thủ trưởng cơ quan quản lý nhà nước cùng cấp có ý kiến bằng văn bản yêu cầu bổ sung, làm rõ về nội dung dự thảo kết luận thanh tra thì chậm nhất là 30 ngày kể từ ngày nhận được văn bản đó, người ra quyết định thanh tra phải hoàn thiện, ban hành kết luận thanh tra.",
                     "sub_clauses": []
                 },
                 {
@@ -2539,7 +2621,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Mục 5. NHIỆM VỤ, QUYỀN HẠN CỦA NGƯỜI TIẾN HÀNH THANH TRA",
                     "sub_clauses": []
                 }
             ]
@@ -2783,7 +2865,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trưởng đoàn thanh tra quyết định niêm phong một phần hoặc toàn bộ tài liệu của đối tượng thanh tra khi có căn cứ cho rằng tài liệu đó có liên quan đến hành vi vi phạm pháp luật hoặc cần bảo đảm nguyên trạng tài liệu.",
+                    "text": "Trưởng đoàn thanh tra quyết định niêm phong một phần hoặc toàn bộ tài liệu của đối tượng thanh tra khi có căn cứ cho rằng tài liệu đó có liên quan đến hành vi vi phạm pháp luật hoặc cần bảo đảm nguyên trạng tài liệu. Quyết định niêm phong tài liệu phải bằng văn bản, trong đó ghi rõ tài liệu cần niêm phong, thời hạn niêm phong và nghĩa vụ của đối tượng thanh tra. Tài liệu niêm phong phải được lập thành danh mục có chữ ký của đại diện Đoàn thanh tra, đối tượng thanh tra.",
                     "sub_clauses": []
                 },
                 {
@@ -2914,12 +2996,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Quyết định thu hồi tài sản phải bằng văn bản, trong đó ghi rõ tài sản phải thu hồi, trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan, thời gian thực hiện, trách nhiệm của đối tượng có tài sản bị thu hồi. Đối tượng có tài sản bị thu hồi phải chấp hành nghiêm chỉnh quyết định thu hồi.",
+                    "text": "Quyết định thu hồi tài sản phải bằng văn bản, trong đó ghi rõ tài sản phải thu hồi, trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan, thời gian thực hiện, trách nhiệm của đối tượng có tài sản bị thu hồi. Đối tượng có tài sản bị thu hồi phải chấp hành nghiêm chỉnh quyết định thu hồi. Người ra quyết định thu hồi tài sản có trách nhiệm theo dõi, kiểm tra, đôn đốc việc thực hiện quyết định thu hồi đó.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Mục 6. QUYỀN VÀ NGHĨA VỤ CỦA ĐỐI TƯỢNG THANH TRA; GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO, KIẾN NGHỊ, PHẢN ÁNH TRONG HOẠT ĐỘNG THANH TRA",
                     "sub_clauses": []
                 }
             ]
@@ -2977,7 +3059,13 @@
         {
             "id": "Điều 94",
             "title": "Khiếu nại, kiến nghị của cơ quan, tổ chức, cá nhân có liên quan",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan, tổ chức, cá nhân có liên quan có quyền khiếu nại quyết định hành chính, hành vi hành chính của người tiến hành thanh tra và quyết định xử lý về thanh tra theo quy định của pháp luật về khiếu nại khi có căn cứ cho rằng quyết định hoặc hành vi đó là trái pháp luật, xâm phạm quyền và lợi ích hợp pháp của mình; kiến nghị về nội dung trong kết luận thanh tra khi cho rằng nội dung đó chưa chính xác.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 95",
@@ -3021,7 +3109,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết thẩm quyền, trình tự, thủ tục giải quyết kiến nghị về nội dung trong kết luận thanh tra và kiến nghị, phản ánh về hoạt động thanh tra.",
+                    "text": "Chính phủ quy định chi tiết thẩm quyền, trình tự, thủ tục giải quyết kiến nghị về nội dung trong kết luận thanh tra và kiến nghị, phản ánh về hoạt động thanh tra. Mục 7. GIÁM SÁT HOẠT ĐỘNG CỦA ĐOÀN THANH TRA",
                     "sub_clauses": []
                 }
             ]
@@ -3032,7 +3120,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người ra quyết định thanh tra có trách nhiệm giám sát hoạt động của Đoàn thanh tra.",
+                    "text": "Người ra quyết định thanh tra có trách nhiệm giám sát hoạt động của Đoàn thanh tra. Trong trường hợp cần thiết, người ra quyết định thanh tra ra quyết định giao công chức hoặc thành lập Tổ giám sát thực hiện giám sát hoạt động của Đoàn thanh tra (sau đây gọi chung là người thực hiện giám sát), trong đó xác định rõ nội dung, thành phần, thời gian và phương thức giám sát. Quyết định giám sát được ban hành cùng thời điểm ban hành quyết định thanh tra hoặc trong quá trình tiến hành thanh tra khi có thông tin, phản ánh, kiến nghị, tố cáo về hoạt động của Đoàn thanh tra.",
                     "sub_clauses": []
                 },
                 {
@@ -3148,7 +3236,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Kết quả giám sát là một trong các căn cứ để người ra quyết định thanh tra xem xét, ban hành kết luận thanh tra.",
+                    "text": "Kết quả giám sát là một trong các căn cứ để người ra quyết định thanh tra xem xét, ban hành kết luận thanh tra. Chương V THỰC HIỆN KẾT LUẬN THANH TRA",
                     "sub_clauses": []
                 }
             ]
@@ -3159,7 +3247,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thủ trưởng cơ quan thanh tra phải có văn bản kiến nghị Thủ trưởng cơ quan quản lý cùng cấp để chỉ đạo việc thực hiện nội dung của kết luận thanh tra.",
+                    "text": "Thủ trưởng cơ quan thanh tra phải có văn bản kiến nghị Thủ trưởng cơ quan quản lý cùng cấp để chỉ đạo việc thực hiện nội dung của kết luận thanh tra. Văn bản kiến nghị phải được gửi đồng thời với kết luận thanh tra, trong đó đề xuất cách thức, biện pháp tổ chức thực hiện đối với các kiến nghị trong kết luận thanh tra thuộc thẩm quyền xử lý của Thủ trưởng cơ quan quản lý cùng cấp.",
                     "sub_clauses": []
                 },
                 {
@@ -3175,7 +3263,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thủ tướng Chính phủ, Bộ trưởng, Chủ tịch Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp huyện chịu trách nhiệm chỉ đạo việc thực hiện kết luận thanh tra của Thanh tra Chính phủ, Thanh tra Bộ, Thanh tra tỉnh, Thanh tra huyện.",
+                    "text": "Thủ tướng Chính phủ, Bộ trưởng, Chủ tịch Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp huyện chịu trách nhiệm chỉ đạo việc thực hiện kết luận thanh tra của Thanh tra Chính phủ, Thanh tra Bộ, Thanh tra tỉnh, Thanh tra huyện. Tổng Cục trưởng, Cục trưởng, Giám đốc sở chịu trách nhiệm chỉ đạo việc thực hiện kết luận thanh tra của Thanh tra Tổng cục, Cục, Thanh tra sở.",
                     "sub_clauses": []
                 },
                 {
@@ -3203,7 +3291,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Thủ tướng Chính phủ, Bộ trưởng, Tổng Cục trưởng, Cục trưởng, Chủ tịch Ủy ban nhân dân cấp tỉnh, Giám đốc sở, Chủ tịch Ủy ban nhân dân cấp huyện giao cơ quan, đơn vị phụ trách công tác tổ chức, cán bộ chủ trì, phối hợp với cơ quan có thẩm quyền quản lý cán bộ, công chức, viên chức tiến hành xử lý cán bộ, công chức, viên chức có hành vi vi phạm pháp luật được nêu trong kết luận thanh tra; giao Thanh tra Chính phủ, Thanh tra Bộ, Thanh tra tỉnh, Thanh tra huyện theo dõi, đôn đốc việc thực hiện.",
+                    "text": "Thủ tướng Chính phủ, Bộ trưởng, Tổng Cục trưởng, Cục trưởng, Chủ tịch Ủy ban nhân dân cấp tỉnh, Giám đốc sở, Chủ tịch Ủy ban nhân dân cấp huyện giao cơ quan, đơn vị phụ trách công tác tổ chức, cán bộ chủ trì, phối hợp với cơ quan có thẩm quyền quản lý cán bộ, công chức, viên chức tiến hành xử lý cán bộ, công chức, viên chức có hành vi vi phạm pháp luật được nêu trong kết luận thanh tra; giao Thanh tra Chính phủ, Thanh tra Bộ, Thanh tra tỉnh, Thanh tra huyện theo dõi, đôn đốc việc thực hiện. Trường hợp Thủ trưởng cơ quan có thẩm quyền quản lý cán bộ, công chức, viên chức không xử lý cán bộ, công chức, viên chức có hành vi vi phạm pháp luật hoặc xử lý không phù hợp với tính chất, mức độ hành vi vi phạm thì Thủ tướng Chính phủ, Bộ trưởng, Chủ tịch Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp huyện xem xét, xử lý trách nhiệm đối với Thủ trưởng cơ quan có thẩm quyền quản lý cán bộ, công chức, viên chức.",
                     "sub_clauses": []
                 }
             ]
@@ -3214,7 +3302,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đối tượng thanh tra phải thực hiện kết luận thanh tra đầy đủ, kịp thời, đúng thời hạn.",
+                    "text": "Đối tượng thanh tra phải thực hiện kết luận thanh tra đầy đủ, kịp thời, đúng thời hạn. Đối với những nội dung trong kết luận thanh tra mà chưa thực hiện được ngay, trong thời hạn 10 ngày kể từ ngày công khai kết luận thanh tra, đối tượng thanh tra phải xây dựng kế hoạch thực hiện kết luận thanh tra trình người có thẩm quyền, trong đó nêu rõ tiến độ và giải thích lý do.",
                     "sub_clauses": []
                 },
                 {
@@ -3257,7 +3345,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thanh tra Chính phủ có trách nhiệm theo dõi, đôn đốc, kiểm tra việc thực hiện kết luận thanh tra, quyết định xử lý về thanh tra của mình và của Thủ tướng Chính phủ.",
+                    "text": "Thanh tra Chính phủ có trách nhiệm theo dõi, đôn đốc, kiểm tra việc thực hiện kết luận thanh tra, quyết định xử lý về thanh tra của mình và của Thủ tướng Chính phủ. Thanh tra Bộ, Thanh tra Tổng cục, Cục, Thanh tra tỉnh, Thanh tra sở, Thanh tra huyện có trách nhiệm theo dõi, đôn đốc, kiểm tra việc thực hiện kết luận thanh tra, quyết định xử lý về thanh tra của mình và của Thủ trưởng cơ quan quản lý nhà nước cùng cấp.",
                     "sub_clauses": []
                 },
                 {
@@ -3288,7 +3376,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết việc xử lý vi phạm trong thực hiện kết luận thanh tra.",
+                    "text": "Chính phủ quy định chi tiết việc xử lý vi phạm trong thực hiện kết luận thanh tra. Chương VI PHỐI HỢP TRONG HOẠT ĐỘNG THANH TRA, KIỂM TOÁN NHÀ NƯỚC, ĐIỀU TRA",
                     "sub_clauses": []
                 }
             ]
@@ -3296,7 +3384,13 @@
         {
             "id": "Điều 107",
             "title": "Trách nhiệm phối hợp trong hoạt động thanh tra, kiểm toán nhà nước, điều tra",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan thực hiện chức năng thanh tra, cơ quan kiểm toán nhà nước và cơ quan điều tra có trách nhiệm phối hợp để nâng cao hiệu quả hoạt động thanh tra, kiểm toán nhà nước, điều tra, góp phần phòng, chống tội phạm và các vi phạm pháp luật khác trong quản lý nhà nước.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 108",
@@ -3322,7 +3416,13 @@
         {
             "id": "Điều 109",
             "title": "Trách nhiệm của Thủ trưởng cơ quan thực hiện chức năng thanh tra và Kiểm toán trưởng Kiểm toán nhà nước khu vực, chuyên ngành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thủ trưởng cơ quan thực hiện chức năng thanh tra và Kiểm toán trưởng Kiểm toán nhà nước khu vực, chuyên ngành có trách nhiệm phối hợp trong hoạt động, trao đổi thường xuyên để tránh chồng chéo, trùng lặp khi tiến hành thanh tra, kiểm toán. Trường hợp phát hiện thấy nội dung, phạm vi thanh tra có chồng chéo, trùng lặp với cơ quan thanh tra khác hoặc cơ quan kiểm toán nhà nước, Thủ trưởng cơ quan thực hiện chức năng thanh tra phải báo cáo ngay với Thủ trưởng cơ quan quản lý cùng cấp, cơ quan thanh tra cấp trên và thông báo cho cơ quan kiểm toán nhà nước, cơ quan, tổ chức, đơn vị có liên quan để có giải pháp phù hợp tránh chồng chéo, trùng lặp và bảo đảm tính kế thừa trong hoạt động giữa các cơ quan, tổ chức, đơn vị.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 110",
@@ -3343,7 +3443,13 @@
         {
             "id": "Điều 111",
             "title": "Trách nhiệm của cơ quan điều tra",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan điều tra có trách nhiệm tiếp nhận văn bản kiến nghị khởi tố và hồ sơ vụ việc có dấu hiệu tội phạm, tài liệu có liên quan do cơ quan thực hiện chức năng thanh tra chuyển đến để xử lý theo quy định của pháp luật về tố tụng hình sự. Chương VII ĐIỀU KIỆN BẢO ĐẢM HOẠT ĐỘNG THANH TRA",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 112",
@@ -3382,7 +3488,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ trưởng, Chủ tịch Ủy ban nhân dân cấp tỉnh có trách nhiệm bảo đảm các điều kiện để tăng cường hoạt động thanh tra và thúc đẩy hoạt động thanh tra theo hướng chuyên nghiệp, chính quy, từng bước hiện đại, góp phần nâng cao hiệu lực, hiệu quả quản lý nhà nước.",
+                    "text": "Bộ trưởng, Chủ tịch Ủy ban nhân dân cấp tỉnh có trách nhiệm bảo đảm các điều kiện để tăng cường hoạt động thanh tra và thúc đẩy hoạt động thanh tra theo hướng chuyên nghiệp, chính quy, từng bước hiện đại, góp phần nâng cao hiệu lực, hiệu quả quản lý nhà nước. Chương VIII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -3444,7 +3550,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Sửa đổi, bổ sung điểm a khoản 2 Điều 160 của Luật Bảo vệ môi trường số 72/2020/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung điểm a khoản 2 Điều 160 của Luật Bảo vệ môi trường số 72/2020/QH14 như sau: “a) Thanh tra theo kế hoạch;”.",
                     "sub_clauses": []
                 }
             ]
@@ -3468,8 +3574,18 @@
         {
             "id": "Điều 118",
             "title": "Quy định chuyển tiếp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Các cuộc thanh tra có quyết định thanh tra được ban hành trước ngày Luật này có hiệu lực thi hành thì tiếp tục thực hiện theo quy định của Luật Thanh tra số 56/2010/QH12. _________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 4 thông qua ngày 14 tháng 11 năm 2022. CHỦ TỊCH QUỐC HỘI Vương Đình Huệ",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 4 thông qua ngày 14 tháng 11 năm 2022.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Vương Đình Huệ"
+    ]
 }

@@ -16,12 +16,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về xây dựng, huy động lực lượng dự bị động viên; chế độ, chính sách; trách nhiệm của cơ quan, tổ chức, cá nhân trong xây dựng, huy động lực lượng dự bị động viên.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Lực lượng dự bị động viên bao gồm quân nhân dự bị và phương tiện kỹ thuật dự bị được đăng ký, quản lý và sắp xếp vào đơn vị dự bị động viên để sẵn sàng bổ sung cho lực lượng thường trực của Quân đội nhân dân.",
@@ -186,7 +197,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người có thẩm quyền quyết định huy động, điều động phương tiện kỹ thuật dự bị có trách nhiệm thực hiện việc bồi thường thiệt hại. Mức bồi thường và việc chi trả tiền bồi thường thiệt hại cho chủ phương tiện kỹ thuật dự bị được thực hiện như đối với người có tài sản trưng dụng theo quy định của pháp luật về trưng mua, trưng dụng tài sản.",
+                    "text": "Người có thẩm quyền quyết định huy động, điều động phương tiện kỹ thuật dự bị có trách nhiệm thực hiện việc bồi thường thiệt hại. Mức bồi thường và việc chi trả tiền bồi thường thiệt hại cho chủ phương tiện kỹ thuật dự bị được thực hiện như đối với người có tài sản trưng dụng theo quy định của pháp luật về trưng mua, trưng dụng tài sản. Trường hợp phương tiện kỹ thuật dự bị được huy động, điều động là tài sản nhà nước giao cho cơ quan nhà nước, đơn vị sự nghiệp công lập bị hư hỏng, bị mất hoặc bị tiêu hủy thì được bố trí kinh phí để sửa chữa hoặc mua mới theo quy định của pháp luật về ngân sách nhà nước.",
                     "sub_clauses": []
                 }
             ]
@@ -217,7 +228,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Phân biệt đối xử về giới trong xây dựng, huy động lực lượng dự bị động viên.",
+                    "text": "Phân biệt đối xử về giới trong xây dựng, huy động lực lượng dự bị động viên. Chương II XÂY DỰNG, HUY ĐỘNG, TIẾP NHẬN LỰC LƯỢNG DỰ BỊ ĐỘNG VIÊN Mục 1. KẾ HOẠCH XÂY DỰNG, HUY ĐỘNG, TIẾP NHẬN LỰC LƯỢNG DỰ BỊ ĐỘNG VIÊN",
                     "sub_clauses": []
                 }
             ]
@@ -233,7 +244,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ được giao nhiệm vụ xây dựng, huy động lực lượng dự bị động viên lập kế hoạch xây dựng, huy động lực lượng dự bị động viên của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ.",
+                    "text": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ được giao nhiệm vụ xây dựng, huy động lực lượng dự bị động viên lập kế hoạch xây dựng, huy động lực lượng dự bị động viên của Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ. Đơn vị trực thuộc Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ được giao nhiệm vụ xây dựng, huy động lực lượng dự bị động viên lập kế hoạch xây dựng, huy động lực lượng dự bị động viên của đơn vị.",
                     "sub_clauses": []
                 },
                 {
@@ -393,7 +404,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Kế hoạch xây dựng, huy động, tiếp nhận lực lượng dự bị động viên được lập mới trong trường hợp sau đây:",
+                    "text": "Kế hoạch xây dựng, huy động, tiếp nhận lực lượng dự bị động viên được lập mới trong trường hợp sau đây: Mục 2. XÂY DỰNG LỰC LƯỢNG DỰ BỊ ĐỘNG VIÊN",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -413,7 +424,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ban chỉ huy quân sự cấp xã, Ban chỉ huy quân sự cấp huyện nơi không có đơn vị hành chính cấp xã thực hiện đăng ký quân nhân dự bị cho công dân cư trú tại địa phương.",
+                    "text": "Ban chỉ huy quân sự cấp xã, Ban chỉ huy quân sự cấp huyện nơi không có đơn vị hành chính cấp xã thực hiện đăng ký quân nhân dự bị cho công dân cư trú tại địa phương. Ban chỉ huy quân sự cơ quan, tổ chức thực hiện đăng ký quân nhân dự bị cho công dân đang lao động, học tập, làm việc tại cơ quan, tổ chức. Trường hợp cơ quan, tổ chức không có Ban chỉ huy quân sự thì người đứng đầu hoặc người đại diện hợp pháp của cơ quan, tổ chức có trách nhiệm tổ chức cho công dân đang lao động, học tập, làm việc tại cơ quan, tổ chức thực hiện đăng ký quân nhân dự bị tại nơi cư trú.",
                     "sub_clauses": []
                 },
                 {
@@ -553,12 +564,24 @@
         {
             "id": "Điều 18",
             "title": "Sắp xếp phương tiện kỹ thuật dự bị vào đơn vị dự bị động viên",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Phương tiện kỹ thuật dự bị được sắp xếp vào đơn vị dự bị động viên có tính năng đúng yêu cầu sử dụng trong biên chế của từng đơn vị Quân đội nhân dân; trường hợp không có thì sắp xếp phương tiện kỹ thuật dự bị có tính năng tương tự.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 19",
             "title": "Thẩm quyền sắp xếp quân nhân dự bị, phương tiện kỹ thuật dự bị vào đơn vị dự bị động viên",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện chủ trì, phối hợp với đơn vị thường trực của Quân đội nhân dân có chỉ tiêu tiếp nhận lực lượng dự bị động viên thực hiện việc sắp xếp quân nhân dự bị, phương tiện kỹ thuật dự bị vào đơn vị dự bị động viên.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 20",
@@ -646,12 +669,12 @@
                 },
                 {
                     "number": "5",
-                    "text": "Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ quyết định điều động có thời hạn phương tiện kỹ thuật dự bị đã xếp trong đơn vị dự bị động viên thuộc Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ phục vụ huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu.",
+                    "text": "Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ quyết định điều động có thời hạn phương tiện kỹ thuật dự bị đã xếp trong đơn vị dự bị động viên thuộc Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ phục vụ huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu. Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định điều động số lượng, thời hạn phương tiện kỹ thuật dự bị đã xếp vào đơn vị dự bị động viên phục vụ huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu. Chủ tịch Ủy ban nhân dân cấp huyện tổ chức thực hiện quyết định của Chủ tịch Ủy ban nhân dân cấp tỉnh về việc điều động từng phương tiện kỹ thuật dự bị.",
                     "sub_clauses": []
                 },
                 {
                     "number": "6",
-                    "text": "Việc huấn luyện đơn vị dự bị động viên thuộc Bộ Tư lệnh Thủ đô Hà Nội, Bộ Tư lệnh Thành phố Hồ Chí Minh, Bộ Chỉ huy quân sự cấp tỉnh thực hiện tại cơ sở huấn luyện dự bị động viên cấp tỉnh.",
+                    "text": "Việc huấn luyện đơn vị dự bị động viên thuộc Bộ Tư lệnh Thủ đô Hà Nội, Bộ Tư lệnh Thành phố Hồ Chí Minh, Bộ Chỉ huy quân sự cấp tỉnh thực hiện tại cơ sở huấn luyện dự bị động viên cấp tỉnh. Việc huấn luyện đơn vị dự bị động viên không thuộc Bộ Tư lệnh Thủ đô Hà Nội, Bộ Tư lệnh Thành phố Hồ Chí Minh, Bộ Chỉ huy quân sự cấp tỉnh thực hiện theo quy định của Bộ trưởng Bộ Quốc phòng.",
                     "sub_clauses": []
                 },
                 {
@@ -677,7 +700,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ trưởng Bộ Quốc phòng quy định hình thức, nội dung, thời gian sinh hoạt của quân nhân dự bị.",
+                    "text": "Bộ trưởng Bộ Quốc phòng quy định hình thức, nội dung, thời gian sinh hoạt của quân nhân dự bị. Mục 3. HUY ĐỘNG, TIẾP NHẬN LỰC LƯỢNG DỰ BỊ ĐỘNG VIÊN",
                     "sub_clauses": []
                 }
             ]
@@ -724,7 +747,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Căn cứ quyết định của Thủ tướng Chính phủ, lệnh huy động của Bộ trưởng Bộ Quốc phòng, việc huy động lực lượng dự bị động viên được quy định như sau:",
+                    "text": "Căn cứ quyết định của Thủ tướng Chính phủ, lệnh huy động của Bộ trưởng Bộ Quốc phòng, việc huy động lực lượng dự bị động viên được quy định như sau: Chủ tịch Ủy ban nhân dân cấp huyện tổ chức thực hiện quyết định của Chủ tịch Ủy ban nhân dân cấp tỉnh về việc huy động phương tiện kỹ thuật dự bị, người vận hành, điều khiển phương tiện kỹ thuật dự bị.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -753,7 +776,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định huy động quân nhân dự bị, phương tiện kỹ thuật dự bị trong trường hợp quy định tại khoản 3 và khoản 4 Điều 24 của Luật này.",
+                    "text": "Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định huy động quân nhân dự bị, phương tiện kỹ thuật dự bị trong trường hợp quy định tại khoản 3 và khoản 4 Điều 24 của Luật này. Chủ tịch Ủy ban nhân dân cấp huyện tổ chức thực hiện quyết định của Chủ tịch Ủy ban nhân dân cấp tỉnh về việc huy động quân nhân dự bị, phương tiện kỹ thuật dự bị.",
                     "sub_clauses": []
                 },
                 {
@@ -779,7 +802,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trách nhiệm thông báo quyết định, lệnh huy động lực lượng dự bị động viên được quy định như sau:",
+                    "text": "Trách nhiệm thông báo quyết định, lệnh huy động lực lượng dự bị động viên được quy định như sau: Bộ Tư lệnh Thủ đô Hà Nội, Bộ Tư lệnh Thành phố Hồ Chí Minh, Bộ Chỉ huy quân sự cấp tỉnh thông báo lệnh huy động đơn vị dự bị động viên của Tư lệnh Bộ Tư lệnh Thủ đô Hà Nội, Tư lệnh Bộ Tư lệnh Thành phố Hồ Chí Minh, Chỉ huy trưởng Bộ Chỉ huy quân sự cấp tỉnh và lệnh gọi sĩ quan dự bị nhập ngũ của cấp có thẩm quyền đến cơ quan quân sự cấp huyện; Cơ quan quân sự cấp huyện thông báo quyết định huy động phương tiện kỹ thuật dự bị của Chủ tịch Ủy ban nhân dân cấp tỉnh, lệnh gọi sĩ quan dự bị nhập ngũ của cấp trên và thông báo lệnh gọi quân nhân chuyên nghiệp, hạ sĩ quan, binh sĩ dự bị nhập ngũ của Chỉ huy trưởng Ban chỉ huy quân sự cấp huyện đến Ủy ban nhân dân cấp xã và cơ quan, tổ chức có liên quan;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -840,7 +863,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bộ trưởng Bộ Quốc phòng quy định chi tiết Điều này.",
+                    "text": "Bộ trưởng Bộ Quốc phòng quy định chi tiết Điều này. Chương III CHẾ ĐỘ, CHÍNH SÁCH VÀ KINH PHÍ BẢO ĐẢM CHO XÂY DỰNG, HUY ĐỘNG LỰC LƯỢNG DỰ BỊ ĐỘNG VIÊN",
                     "sub_clauses": []
                 }
             ]
@@ -914,7 +937,13 @@
         {
             "id": "Điều 31",
             "title": "Chế độ trợ cấp đối với gia đình quân nhân dự bị",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Gia đình quân nhân dự bị được hưởng trợ cấp trong thời gian quân nhân dự bị tập trung huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu và huy động khi chưa đến mức tổng động viên hoặc động viên cục bộ theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 32",
@@ -1098,7 +1127,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Ủy ban nhân dân cấp xã, cơ quan, tổ chức chi cho việc đăng ký, quản lý, sinh hoạt và kiểm tra sức khỏe quân nhân dự bị; quản lý phương tiện kỹ thuật dự bị; tập trung, vận chuyển, giao nhận quân nhân dự bị, phương tiện kỹ thuật dự bị.",
+                    "text": "Ủy ban nhân dân cấp xã, cơ quan, tổ chức chi cho việc đăng ký, quản lý, sinh hoạt và kiểm tra sức khỏe quân nhân dự bị; quản lý phương tiện kỹ thuật dự bị; tập trung, vận chuyển, giao nhận quân nhân dự bị, phương tiện kỹ thuật dự bị. Chương IV TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC TRONG XÂY DỰNG, HUY ĐỘNG LỰC LƯỢNG DỰ BỊ ĐỘNG VIÊN",
                     "sub_clauses": []
                 }
             ]
@@ -1144,6 +1173,11 @@
             "id": "Điều 36",
             "title": "Trách nhiệm của Bộ Quốc phòng",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Quốc phòng chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về xây dựng, huy động lực lượng dự bị động viên và có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Trình Chính phủ, Thủ tướng Chính phủ ban hành hoặc ban hành theo thẩm quyền văn bản quy phạm pháp luật về xây dựng, huy động lực lượng dự bị động viên;",
@@ -1244,12 +1278,24 @@
         {
             "id": "Điều 39",
             "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tuyên truyền, vận động Nhân dân thực hiện pháp luật về lực lượng dự bị động viên; giám sát việc thực hiện pháp luật về lực lượng dự bị động viên.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 40",
             "title": "Trách nhiệm của cơ quan, tổ chức",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan, tổ chức nơi quân nhân dự bị đang lao động, học tập, làm việc có trách nhiệm phối hợp với địa phương bố trí thời gian cho quân nhân dự bị tập trung huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu và thực hiện nhiệm vụ khi chưa đến mức tổng động viên hoặc động viên cục bộ; tiếp nhận, bố trí công việc cho quân nhân dự bị khi kết thúc huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu và thực hiện xong nhiệm vụ. Chương V ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 41",
@@ -1262,11 +1308,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Pháp lệnh về lực lượng dự bị động viên ngày 27 tháng 8 năm 1996 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.",
+                    "text": "Pháp lệnh về lực lượng dự bị động viên ngày 27 tháng 8 năm 1996 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 26 tháng 11 năm 2019. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 26 tháng 11 năm 2019.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

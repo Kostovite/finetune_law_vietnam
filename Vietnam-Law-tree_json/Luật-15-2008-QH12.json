@@ -11,12 +11,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về việc trưng mua, trưng dụng tài sản; quyền và trách nhiệm của cơ quan nhà nước trong việc trưng mua, trưng dụng tài sản; quyền và nghĩa vụ của người có tài sản trưng mua, trưng dụng; quyền và nghĩa vụ của người khác có liên quan đến việc trưng mua, trưng dụng tài sản.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Trưng mua tài sản là việc Nhà nước mua tài sản của tổ chức (không bao gồm cơ quan nhà nước, đơn vị sự nghiệp công lập, đơn vị vũ trang nhân dân), cá nhân, hộ gia đình thông qua quyết định hành chính trong trường hợp thật cần thiết vì lý do quốc phòng, an ninh và vì lợi ích quốc gia.",
@@ -95,6 +106,11 @@
             "id": "Điều 5",
             "title": "Điều kiện trưng mua, trưng dụng tài sản",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Việc trưng mua, trưng dụng tài sản chỉ được thực hiện khi Nhà nước có nhu cầu sử dụng tài sản mà các biện pháp huy động khác không thực hiện được, thuộc một trong các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Khi đất nước trong tình trạng chiến tranh hoặc trong tình trạng khẩn cấp về quốc phòng theo quy định của pháp luật về quốc phòng và pháp luật về tình trạng khẩn cấp;",
@@ -235,7 +251,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Các bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của  mình",
+                    "text": "Các bộ, cơ quan ngang bộ trong phạm vi nhiệm vụ, quyền hạn của  mình phối hợp với Bộ Tài chính thực hiện quản lý nhà nước về trưng mua, trưng dụng tài sản.",
                     "sub_clauses": []
                 },
                 {
@@ -277,7 +293,13 @@
         {
             "id": "Điều 11",
             "title": "Quản lý, lưu trữ các tài liệu liên quan đến việc trưng mua, trưng dụng tài sản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Các tài liệu liên quan đến việc trưng mua, trưng dụng tài sản phải được lập thành hồ sơ và được quản lý, lưu  trữ theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 12",
@@ -315,7 +337,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Quản lý, sử dụng tài sản trưng mua, trưng dụng trái với quy định của pháp luật.",
+                    "text": "Quản lý, sử dụng tài sản trưng mua, trưng dụng trái với quy định của pháp luật. Chương II TRƯNG MUA TÀI SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -470,7 +492,13 @@
         {
             "id": "Điều 17",
             "title": "Cưỡng chế thi hành quyết định trưng mua tài sản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp quyết định trưng mua tài sản đã được thực hiện theo đúng quy định của pháp luật mà người có tài sản trưng mua không chấp hành thì người quyết định trưng mua tài sản ra quyết định cưỡng chế thi hành và tổ chức cưỡng chế thi hành hoặc giao cho Chủ tịch Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là Uỷ ban nhân dân cấp huyện) nơi có tài sản trưng mua tổ chức cưỡng chế thi hành.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 18",
@@ -534,17 +562,35 @@
         {
             "id": "Điều 20",
             "title": "Kinh phí thanh toán tiền trưng mua tài sản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Kinh phí thanh toán tiền trưng mua tài sản do ngân sách nhà nước chi trả theo quy định của pháp luật về ngân sách nhà nước.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 21",
             "title": "Quản lý, sử dụng tài sản trưng mua",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc quản lý, sử dụng tài sản trưng mua được thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản nhà nước.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 22",
             "title": "Hiến, tặng cho tài sản trưng mua",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp người có tài sản trưng mua tự nguyện hiến, tặng cho tài sản trưng mua cho Nhà nước thì Nhà nước không phải thanh toán tiền cho người hiến, tặng cho tài sản. Việc hiến, tặng cho tài sản được lập thành văn bản. Chương III TRƯNG DỤNG TÀI SẢN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 23",
@@ -763,17 +809,34 @@
         {
             "id": "Điều 30",
             "title": "Bàn giao, tiếp nhận tài sản trong trường hợp quyết định trưng dụng bằng lời nói",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người đang quản lý, sử dụng tài sản trưng dụng phải giao ngay tài sản cho cá nhân, đại diện tổ chức được giao quản lý, sử dụng tài sản trưng dụng sau khi có quyết định trưng dụng tài sản bằng lời nói.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 31",
             "title": "Cưỡng chế thi hành quyết định trưng dụng tài sản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp quyết định trưng dụng tài sản đã được thực hiện theo đúng quy định của pháp luật mà người có tài sản trưng dụng không chấp hành thì người quyết định trưng dụng tài sản ra quyết định cưỡng chế thi hành và tổ chức cưỡng chế thi hành hoặc giao cho Chủ tịch Ủy ban nhân dân cấp huyện nơi có tài sản trưng dụng tổ chức cưỡng chế thi hành.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 32",
             "title": "Quản lý, sử dụng tài sản trưng dụng",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân được giao quản lý, sử dụng tài sản trưng dụng có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Sử dụng tài sản đúng mục đích, tiết kiệm và có hiệu quả;",
@@ -1054,7 +1117,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đối với tài sản trưng dụng đã tham gia bảo hiểm bị thiệt hại nhưng không được doanh nghiệp kinh doanh bảo hiểm chi trả hoặc số tiền được doanh nghiệp kinh doanh bảo hiểm chi trả theo chế độ quy định thấp hơn số tiền người có tài sản trưng dụng được bồi thường thì số tiền chênh lệch do ngân sách nhà nước chi trả.",
+                    "text": "Đối với tài sản trưng dụng đã tham gia bảo hiểm bị thiệt hại nhưng không được doanh nghiệp kinh doanh bảo hiểm chi trả hoặc số tiền được doanh nghiệp kinh doanh bảo hiểm chi trả theo chế độ quy định thấp hơn số tiền người có tài sản trưng dụng được bồi thường thì số tiền chênh lệch do ngân sách nhà nước chi trả. Chương IV ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1065,12 +1128,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Bỏ cụm từ “trưng mua” tại đoạn 2 khoản 1 Điều 270 của Bộ luật hình sự  số 15/1999/QH10 và sửa đổi đoạn  này như sau:",
+                    "text": "Bỏ cụm từ “trưng mua” tại đoạn 2 khoản 1 Điều 270 của Bộ luật hình sự  số 15/1999/QH10 và sửa đổi đoạn  này như sau: “Nhà ở, công trình xây dựng trái phép có thể bị dỡ bỏ hoặc tịch thu”.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Bỏ cụm từ “trưng dụng” tại Điều 55 của Luật phòng, chống bệnh truyền nhiễm số 03/2007/QH12 và sửa đổi, bổ sung Điều này như sau:",
+                    "text": "Bỏ cụm từ “trưng dụng” tại Điều 55 của Luật phòng, chống bệnh truyền nhiễm số 03/2007/QH12 và sửa đổi, bổ sung Điều này như sau: “Điều 55. Huy động các nguồn lực cho hoạt động chống dịch",
                     "sub_clauses": []
                 },
                 {
@@ -1090,17 +1153,17 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thay cụm từ “trưng dụng” bằng cụm từ “huy động” tại khoản 8 Điều 14 của Luật Công an nhân dân số 54/2005/QH11 và sửa đổi, bổ sung khoản này như sau:",
+                    "text": "Thay cụm từ “trưng dụng” bằng cụm từ “huy động” tại khoản 8 Điều 14 của Luật Công an nhân dân số 54/2005/QH11 và sửa đổi, bổ sung khoản này như sau: “8. Trong trường hợp cấp thiết, được ra quyết định hoặc kiến nghị tạm đình chỉ, đình chỉ hoạt động của cơ quan, tổ chức, cá nhân gây nguy hại đến an ninh quốc gia, trật tự, an toàn xã hội và huy động phương tiện giao thông, thông tin, các phương tiện kỹ thuật khác của cơ quan, tổ chức, cá nhân và người điều khiển, sử dụng các phương tiện đó theo quy định của pháp luật.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "4",
-                    "text": "Thay cụm từ “trưng dụng đất” bằng cụm từ “quyết định sử dụng đất có thời hạn” tại điểm đ khoản 2 Điều 35 của Luật đê điều số 79/2006/QH11 và sửa đổi, bổ sung điểm này như sau:",
+                    "text": "Thay cụm từ “trưng dụng đất” bằng cụm từ “quyết định sử dụng đất có thời hạn” tại điểm đ khoản 2 Điều 35 của Luật đê điều số 79/2006/QH11 và sửa đổi, bổ sung điểm này như sau: “đ) Trường hợp khẩn cấp chống lũ, lụt, bão, thiên tai khác mà cần phải sử dụng đất thì Chủ tịch Ủy ban nhân dân cấp tỉnh, cấp huyện có quyền quyết định sử dụng đất có thời hạn. Chính phủ quy định chi tiết việc trả lại đất và bồi thường thiệt hại cho người có đất bị Nhà nước quyết định sử dụng đất có thời hạn.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "5",
-                    "text": "Thay cụm từ “trưng dụng đất” bằng cụm từ “quyết định sử dụng đất có thời hạn” tại điểm a khoản 8 Điều 42 của Luật đê điều số 79/2006/QH11 và sửa đổi, bổ sung điểm này như sau:",
+                    "text": "Thay cụm từ “trưng dụng đất” bằng cụm từ “quyết định sử dụng đất có thời hạn” tại điểm a khoản 8 Điều 42 của Luật đê điều số 79/2006/QH11 và sửa đổi, bổ sung điểm này như sau: “a) Hướng dẫn việc bồi thường cho tổ chức, cá nhân bị thu hồi đất hoặc bị quyết định sử dụng đất có thời hạn để phục vụ cho xây dựng, tu bổ, nâng cấp, kiên cố hóa đê điều và các công trình phòng, chống lũ, lụt, bão”.",
                     "sub_clauses": []
                 },
                 {
@@ -1126,11 +1189,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đối với các trường hợp Nhà nước đã thực hiện việc trưng mua, trưng dụng tài sản của các tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư trước ngày Luật này có hiệu lực thi hành thì thực hiện theo các quy định của pháp luật tại thời điểm trưng mua, trưng dụng.",
+                    "text": "Đối với các trường hợp Nhà nước đã thực hiện việc trưng mua, trưng dụng tài sản của các tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư trước ngày Luật này có hiệu lực thi hành thì thực hiện theo các quy định của pháp luật tại thời điểm trưng mua, trưng dụng. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 3 thông qua ngày 03 tháng 6  năm 2008. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 3 thông qua ngày 03 tháng 6  năm 2008.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Phú Trọng"
+    ]
 }

@@ -59,6 +59,11 @@
             "title": "Giải thích từ ngữ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Rửa tiền là hành vi của tổ chức, cá nhân nhằm hợp pháp hóa nguồn gốc của tài sản do phạm tội mà có.",
                     "sub_clauses": []
@@ -253,7 +258,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hợp tác quốc tế về phòng, chống rửa tiền được thực hiện trên nguyên tắc tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, an ninh quốc gia, các bên cùng có lợi, tuân thủ quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, thỏa thuận quốc tế giữa bên ký kết Việt Nam với bên ký kết nước ngoài.",
+                    "text": "Hợp tác quốc tế về phòng, chống rửa tiền được thực hiện trên nguyên tắc tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, an ninh quốc gia, các bên cùng có lợi, tuân thủ quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, thỏa thuận quốc tế giữa bên ký kết Việt Nam với bên ký kết nước ngoài. Trường hợp giữa Việt Nam và nước ngoài chưa có điều ước quốc tế, thỏa thuận quốc tế, việc trao đổi, cung cấp, chuyển giao thông tin trong hợp tác quốc tế về phòng, chống rửa tiền được thực hiện trên nguyên tắc có đi có lại nhưng không trái với pháp luật Việt Nam, phù hợp với pháp luật và tập quán quốc tế.",
                     "sub_clauses": []
                 },
                 {
@@ -382,7 +387,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Đe dọa, trả thù người phát hiện, cung cấp thông tin, báo cáo, tố cáo về hành vi rửa tiền.",
+                    "text": "Đe dọa, trả thù người phát hiện, cung cấp thông tin, báo cáo, tố cáo về hành vi rửa tiền. Chương II BIỆN PHÁP PHÒNG, CHỐNG RỬA TIỀN Mục 1 NHẬN BIẾT KHÁCH HÀNG, THU THẬP, CẬP NHẬT, XÁC MINH THÔNG TIN NHẬN BIẾT KHÁCH HÀNG",
                     "sub_clauses": []
                 }
             ]
@@ -456,6 +461,11 @@
             "title": "Thông tin nhận biết khách hàng",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Đối tượng báo cáo phải thu thập các thông tin nhận biết khách hàng, bao gồm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Thông tin nhận dạng khách hàng, kể cả thông tin về người đại diện của khách hàng cá nhân (nếu có):",
                     "sub_clauses": [
@@ -500,7 +510,13 @@
         {
             "id": "Điều 11",
             "title": "Cập nhật thông tin nhận biết khách hàng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Đối tượng báo cáo phải cập nhật thông tin nhận biết khách hàng trong thời gian thiết lập quan hệ với khách hàng nhằm bảo đảm các giao dịch mà khách hàng đang tiến hành phù hợp với các thông tin về khách hàng trong hồ sơ hiện có, những thông tin đã biết về khách hàng, hoạt động kinh doanh, mức độ rủi ro về rửa tiền và nguồn gốc tài sản của khách hàng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 12",
@@ -794,7 +810,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Bên nhận ủy thác trong thỏa thuận pháp lý có trách nhiệm sau đây:",
+                    "text": "Bên nhận ủy thác trong thỏa thuận pháp lý có trách nhiệm sau đây: Các thông tin này phải được lưu trữ ít nhất 05 năm kể từ thời điểm bên nhận ủy thác ngừng tham gia vào hoạt động ủy thác;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -852,7 +868,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Ngân hàng Nhà nước Việt Nam, các cơ quan nhà nước có thẩm quyền trong quá trình thực hiện chức năng, nhiệm vụ quản lý nhà nước về phòng, chống rửa tiền, thực hiện điều tra, truy tố, xét xử có quyền yêu cầu tổ chức phi lợi nhuận cung cấp thông tin, hồ sơ, tài liệu quy định tại khoản 1 Điều này.",
+                    "text": "Ngân hàng Nhà nước Việt Nam, các cơ quan nhà nước có thẩm quyền trong quá trình thực hiện chức năng, nhiệm vụ quản lý nhà nước về phòng, chống rửa tiền, thực hiện điều tra, truy tố, xét xử có quyền yêu cầu tổ chức phi lợi nhuận cung cấp thông tin, hồ sơ, tài liệu quy định tại khoản 1 Điều này. Mục 2 TRÁCH NHIỆM XÂY DỰNG QUY ĐỊNH NỘI BỘ VÀ BÁO CÁO, CUNG CẤP, LƯU TRỮ THÔNG TIN, HỒ SƠ VỀ PHÒNG, CHỐNG RỬA TIỀN",
                     "sub_clauses": []
                 }
             ]
@@ -1470,7 +1486,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đối tượng báo cáo, người quản lý, người lao động thuộc đối tượng báo cáo không được tiết lộ thông tin về việc đã báo cáo giao dịch đáng ngờ hoặc các thông tin có liên quan đến giao dịch đáng ngờ cho Ngân hàng Nhà nước Việt Nam.",
+                    "text": "Đối tượng báo cáo, người quản lý, người lao động thuộc đối tượng báo cáo không được tiết lộ thông tin về việc đã báo cáo giao dịch đáng ngờ hoặc các thông tin có liên quan đến giao dịch đáng ngờ cho Ngân hàng Nhà nước Việt Nam. Mục 3 THU THẬP, XỬ LÝ, PHÂN TÍCH, TRAO ĐỔI, CUNG CẤP VÀ CHUYỂN GIAO THÔNG TIN VỀ PHÒNG, CHỐNG RỬA TIỀN",
                     "sub_clauses": []
                 }
             ]
@@ -1502,7 +1518,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Khi có cơ sở hợp lý để nghi ngờ giao dịch được nêu trong thông tin, báo cáo liên quan đến rửa tiền, trong thời hạn 07 ngày làm việc, Ngân hàng Nhà nước Việt Nam có trách nhiệm chuyển giao thông tin hoặc hồ sơ vụ việc cho cơ quan có thẩm quyền để phục vụ việc xác minh, điều tra, truy tố, xét xử.",
+                    "text": "Khi có cơ sở hợp lý để nghi ngờ giao dịch được nêu trong thông tin, báo cáo liên quan đến rửa tiền, trong thời hạn 07 ngày làm việc, Ngân hàng Nhà nước Việt Nam có trách nhiệm chuyển giao thông tin hoặc hồ sơ vụ việc cho cơ quan có thẩm quyền để phục vụ việc xác minh, điều tra, truy tố, xét xử. Thông tin giao dịch đáng ngờ do Ngân hàng Nhà nước Việt Nam chuyển giao cho cơ quan có thẩm quyền là bí mật nhà nước.",
                     "sub_clauses": []
                 },
                 {
@@ -1543,7 +1559,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Thông tin giao dịch đáng ngờ do Ngân hàng Nhà nước Việt Nam trao đổi, cung cấp, chuyển giao cho cơ quan có thẩm quyền nước ngoài là bí mật nhà nước.",
+                    "text": "Thông tin giao dịch đáng ngờ do Ngân hàng Nhà nước Việt Nam trao đổi, cung cấp, chuyển giao cho cơ quan có thẩm quyền nước ngoài là bí mật nhà nước. Mục 4 ÁP DỤNG CÁC BIỆN PHÁP TẠM THỜI VÀ XỬ LÝ VI PHẠM",
                     "sub_clauses": []
                 }
             ]
@@ -1595,12 +1611,24 @@
         {
             "id": "Điều 45",
             "title": "Phong tỏa tài khoản, niêm phong, phong tỏa hoặc tạm giữ tài sản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Đối tượng báo cáo phải thực hiện quyết định của cơ quan nhà nước có thẩm quyền về việc phong tỏa tài khoản, niêm phong, phong tỏa hoặc tạm giữ tài sản của các tổ chức, cá nhân theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 46",
             "title": "Xử lý vi phạm",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân có hành vi vi phạm quy định pháp luật về phòng, chống rửa tiền thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. Chương III TRÁCH NHIỆM CỦA CÁC CƠ QUAN NHÀ NƯỚC TRONG PHÒNG, CHỐNG RỬA TIỀN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 47",
@@ -1627,6 +1655,11 @@
             "id": "Điều 48",
             "title": "Trách nhiệm của Ngân hàng Nhà nước Việt Nam",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Ngân hàng Nhà nước Việt Nam chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về phòng, chống rửa tiền và có các nhiệm vụ, quyền hạn sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Xây dựng và trình cấp có thẩm quyền ban hành hoặc ban hành theo thẩm quyền các văn bản quy phạm pháp luật, kế hoạch về phòng, chống rửa tiền;",
@@ -2014,7 +2047,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan nhà nước có thẩm quyền trong quá trình trao đổi, cung cấp, chuyển giao thông tin quy định tại Điều 6 của Luật này cho cơ quan có thẩm quyền nước ngoài phải bảo đảm các thông tin được bảo mật và sử dụng đúng mục đích tại yêu cầu trao đổi, cung cấp, chuyển giao thông tin.",
+                    "text": "Cơ quan nhà nước có thẩm quyền trong quá trình trao đổi, cung cấp, chuyển giao thông tin quy định tại Điều 6 của Luật này cho cơ quan có thẩm quyền nước ngoài phải bảo đảm các thông tin được bảo mật và sử dụng đúng mục đích tại yêu cầu trao đổi, cung cấp, chuyển giao thông tin. Chương IV ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2025,12 +2058,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Sửa đổi, bổ sung khoản 1 Điều 49 của Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 1 Điều 49 của Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 như sau: “1. Cơ quan Thanh tra, giám sát ngân hàng là đơn vị thuộc cơ cấu tổ chức của Ngân hàng Nhà nước, thực hiện nhiệm vụ thanh tra, giám sát ngân hàng.”.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Sửa đổi, bổ sung một số điều của Luật Phòng, chống khủng bố số 28/2013/QH13 như sau:",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật Phòng, chống khủng bố số 28/2013/QH13 như sau: “Điều 34. Thực hiện các biện pháp phòng, chống tài trợ khủng bố và áp dụng biện pháp tạm thời; đánh giá rủi ro quốc gia về phòng, chống tài trợ khủng bố",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2050,7 +2083,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Định kỳ 05 năm, Bộ Công an chủ trì, phối hợp với các Bộ, ngành có liên quan thực hiện đánh giá rủi ro quốc gia về tài trợ khủng bố tại Việt Nam và trình Chính phủ phê duyệt kết quả đánh giá, kế hoạch thực hiện sau đánh giá.”;",
+                    "text": "Định kỳ 05 năm, Bộ Công an chủ trì, phối hợp với các Bộ, ngành có liên quan thực hiện đánh giá rủi ro quốc gia về tài trợ khủng bố tại Việt Nam và trình Chính phủ phê duyệt kết quả đánh giá, kế hoạch thực hiện sau đánh giá.”; “Điều 35. Kiểm soát vận chuyển tiền mặt, kim khí quý, đá quý và công cụ chuyển nhượng qua biên giới Tổ chức, cá nhân có thẩm quyền thực hiện việc kiểm soát vận chuyển tiền mặt, kim khí quý, đá quý và công cụ chuyển nhượng qua biên giới Việt Nam quy định tại Điều 24 của Luật này và Điều 35 của Luật Phòng, chống rửa tiền có trách nhiệm phát hiện, ngăn chặn, xử lý kịp thời hành vi lợi dụng các hoạt động này để tài trợ khủng bố.”.",
                     "sub_clauses": [
                         {
                             "letter": "b",
@@ -2063,7 +2096,13 @@
         {
             "id": "Điều 65",
             "title": "Áp dụng quy định của Luật này trong phòng, chống tài trợ phổ biến vũ khí hủy diệt hàng loạt",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức tài chính, tổ chức, cá nhân kinh doanh ngành, nghề phi tài chính có liên quan áp dụng quy định tại các điều từ Điều 9 đến Điều 40 của Luật này để nhận biết khách hàng, thu thập, cập nhật, xác minh thông tin nhận biết khách hàng; xây dựng quy định nội bộ và báo cáo, cung cấp, lưu trữ thông tin, hồ sơ, tài liệu, báo cáo về phòng, chống tài trợ phổ biến vũ khí hủy diệt hàng loạt.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 66",
@@ -2081,11 +2120,15 @@
                 },
                 {
                     "number": "3",
-                    "text": "Luật Phòng, chống rửa tiền số 07/2012/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.",
+                    "text": "Luật Phòng, chống rửa tiền số 07/2012/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. ___________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 4 thông qua ngày 15 tháng 11 năm 2022. CHỦ TỊCH QUỐC HỘI Vương Đình Huệ",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 4 thông qua ngày 15 tháng 11 năm 2022.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Vương Đình Huệ"
+    ]
 }

@@ -42,6 +42,13 @@
         "text": "Căn cứ vào những nguyên tắc của Luật này, Chính phủ quy định cụ thể việc áp dụng Luật này đối với cá nhân hoạt động thương mại một cách độc lập, thường xuyên không phải đăng ký kinh doanh."
     },
     {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -224,6 +231,13 @@
         "text": "Nhà nước thực hiện độc quyền Nhà nước có thời hạn về hoạt động thương mại đối với một số hàng hóa, dịch vụ hoặc tại một số địa bàn để bảo đảm lợi ích quốc gia. Chính phủ quy định cụ thể danh mục hàng hóa, dịch vụ, địa bàn độc quyền Nhà nước."
     },
     {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Nghĩa vụ đăng ký kinh doanh của thương nhân",
+        "text": "Thương nhân có nghĩa vụ đăng ký kinh doanh theo quy định của pháp luật. Trường hợp chưa đăng ký kinh doanh, thương nhân vẫn phải chịu trách nhiệm về mọi hoạt động của mình theo quy định của Luật này và quy định khác của pháp luật."
+    },
+    {
         "id": "Điều 8.1",
         "article": "Điều 8",
         "clause": "1",
@@ -266,6 +280,13 @@
         "text": "Hiệp hội thương mại được tổ chức và hoạt động theo quy định của pháp luật về hội. MỤC 2. NHỮNG NGUYÊN TẮC CƠ BẢN TRONG HOẠT ĐỘNG THƯƠNG MẠI"
     },
     {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Nguyên tắc bình đẳng trước pháp luật của thương nhân trong hoạt động thương mại",
+        "text": "Thương nhân thuộc mọi thành phần kinh tế bình đẳng trước pháp luật trong hoạt động thương mại."
+    },
+    {
         "id": "Điều 11.1",
         "article": "Điều 11",
         "clause": "1",
@@ -280,6 +301,20 @@
         "text": "Trong hoạt động thương mại, các bên hoàn toàn tự nguyện, không bên nào được thực hiện hành vi áp đặt, cưỡng ép, đe doạ, ngăn cản bên nào."
     },
     {
+        "id": "Điều 12.0",
+        "article": "Điều 12",
+        "clause": "0",
+        "title": "Nguyên tắc áp dụng thói quen trong hoạt động thương mại được thiết lập giữa các bên",
+        "text": "Trừ trường hợp có thoả thuận khác, các bên được coi là mặc nhiên áp dụng thói quen trong hoạt động thương mại đã được thiết lập giữa các bên đó mà các bên đã biết hoặc phải biết nhưng không được trái với quy định của pháp luật."
+    },
+    {
+        "id": "Điều 13.0",
+        "article": "Điều 13",
+        "clause": "0",
+        "title": "Nguyên tắc áp dụng tập quán trong hoạt động thương mại",
+        "text": "Trường hợp pháp luật không có quy định, các bên không có thoả thuận và không có thói quen đã được thiết lập giữa các bên thì áp dụng tập quán thương mại nhưng không được trái với những nguyên tắc quy định trong Luật này và trong Bộ luật dân sự."
+    },
+    {
         "id": "Điều 14.1",
         "article": "Điều 14",
         "clause": "1",
@@ -292,6 +327,13 @@
         "clause": "2",
         "title": "Nguyên tắc bảo vệ lợi ích chính đáng của người tiêu dùng",
         "text": "Thương nhân thực hiện hoạt động thương mại phải chịu trách nhiệm về chất lượng, tính hợp pháp của hàng hoá, dịch vụ mà mình kinh doanh."
+    },
+    {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Nguyên tắc thừa nhận giá trị pháp lý của thông điệp dữ liệu trong hoạt động thương mại",
+        "text": "Trong hoạt động thương mại, các thông điệp dữ liệu đáp ứng các điều kiện, tiêu chuẩn kỹ thuật theo quy định của pháp luật thì được thừa nhận có giá trị pháp lý tương đương văn bản. MỤC 3. THƯƠNG NHÂN NƯỚC NGOÀI HOẠT ĐỘNG THƯƠNG MẠI TẠI VIỆT NAM"
     },
     {
         "id": "Điều 16.1",
@@ -481,6 +523,13 @@
         "clause": "3",
         "title": "Nghĩa vụ của Chi nhánh",
         "text": "Các nghĩa vụ khác theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của doanh nghiệp có vốn đầu tư nước ngoài",
+        "text": "Quyền và nghĩa vụ của doanh nghiệp có vốn đầu tư nước ngoài được xác định theo quy định của pháp luật Việt Nam hoặc điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
     },
     {
         "id": "Điều 22.1",
@@ -721,6 +770,13 @@
         "text": "Chính phủ quy định chi tiết về hoạt động chuyển khẩu hàng hóa."
     },
     {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Áp dụng các biện pháp khẩn cấp đối với hoạt động mua bán hàng hóa quốc tế",
+        "text": "Trong trường hợp cần thiết, để bảo vệ an ninh quốc gia và các lợi ích quốc gia khác phù hợp với pháp luật Việt Nam và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, Thủ tướng Chính phủ quyết định áp dụng các biện pháp khẩn cấp đối với hoạt động mua bán hàng hóa quốc tế."
+    },
+    {
         "id": "Điều 32.1",
         "article": "Điều 32",
         "clause": "1",
@@ -868,6 +924,13 @@
         "text": "Trường hợp không có thỏa thuận về thời hạn giao hàng thì bên bán phải giao hàng trong một thời hạn hợp lý sau khi giao kết hợp đồng."
     },
     {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Giao hàng trước thời hạn đã thỏa thuận",
+        "text": "Trường hợp bên bán giao hàng trước thời hạn đã thỏa thuận thì bên mua có quyền nhận hoặc không nhận hàng nếu các bên không có thoả thuận khác."
+    },
+    {
         "id": "Điều 39.1",
         "article": "Điều 39",
         "clause": "1",
@@ -908,6 +971,13 @@
         "clause": "2",
         "title": "Hàng hoá không phù hợp với hợp đồng",
         "text": "Bên mua có quyền từ chối nhận hàng nếu hàng hoá không phù hợp với hợp đồng theo quy định tại khoản 1 Điều này."
+    },
+    {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Trách nhiệm đối với hàng hoá không phù hợp với hợp đồng",
+        "text": "Trừ trường hợp các bên có thoả thuận khác, trách nhiệm đối với hàng hóa không phù hợp với hợp đồng được quy định như sau:"
     },
     {
         "id": "Điều 40.1",
@@ -1022,6 +1092,13 @@
         "text": "Bên bán phải chịu trách nhiệm về những khiếm khuyết của hàng hoá mà bên mua hoặc đại diện của bên mua đã kiểm tra nếu các khiếm khuyết của hàng hoá không thể phát hiện được trong quá trình kiểm tra bằng biện pháp thông thường và bên bán đã biết hoặc phải biết về các khiếm khuyết đó nhưng không thông báo cho bên mua."
     },
     {
+        "id": "Điều 45.0",
+        "article": "Điều 45",
+        "clause": "0",
+        "title": "Nghĩa vụ bảo đảm quyền sở hữu đối với hàng hoá",
+        "text": "Bên bán phải bảo đảm:"
+    },
+    {
         "id": "Điều 45.1",
         "article": "Điều 45",
         "clause": "1",
@@ -1071,6 +1148,13 @@
         "text": "Bên mua mất quyền viện dẫn quy định tại Điều 45 và khoản 1 Điều 46 của Luật này nếu bên mua không thông báo ngay cho bên bán về khiếu nại của bên thứ ba đối với hàng hoá được giao sau khi bên mua đã biết hoặc phải biết về khiếu nại đó, trừ trường hợp bên bán biết hoặc phải biết về khiếu nại của bên thứ ba."
     },
     {
+        "id": "Điều 48.0",
+        "article": "Điều 48",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên bán trong trường hợp hàng hóa là đối tượng của biện pháp bảo đảm thực hiện nghĩa vụ dân sự",
+        "text": "Trường hợp hàng hoá được bán là đối tượng của biện pháp bảo đảm thực hiện nghĩa vụ dân sự thì bên bán phải thông báo cho bên mua về biện pháp bảo đảm và phải được sự đồng ý của bên nhận bảo đảm về việc bán hàng hóa đó."
+    },
+    {
         "id": "Điều 49.1",
         "article": "Điều 49",
         "clause": "1",
@@ -1113,6 +1197,13 @@
         "text": "Bên mua vẫn phải thanh toán tiền mua hàng trong trường hợp hàng hoá mất mát, hư hỏng sau thời điểm rủi ro được chuyển từ bên bán sang bên mua, trừ trường hợp mất mát, hư hỏng do lỗi của bên bán gây ra."
     },
     {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Việc ngừng thanh toán tiền mua hàng",
+        "text": "Trừ trường hợp có thoả thuận khác, việc ngừng thanh toán tiền mua hàng được quy định như sau:"
+    },
+    {
         "id": "Điều 51.1",
         "article": "Điều 51",
         "clause": "1",
@@ -1141,6 +1232,27 @@
         "text": "Trường hợp tạm ngừng thanh toán theo quy định tại khoản 2 và khoản 3 Điều này mà bằng chứng do bên mua đưa ra không xác thực, gây thiệt hại cho bên bán thì bên mua phải bồi thường thiệt hại đó và chịu các chế tài khác theo quy định của Luật này."
     },
     {
+        "id": "Điều 52.0",
+        "article": "Điều 52",
+        "clause": "0",
+        "title": "Xác định giá",
+        "text": "Trường hợp không có thoả thuận về giá hàng hoá, không có thoả thuận về phương pháp xác định giá và cũng không có bất kỳ chỉ dẫn nào khác về giá thì giá của hàng hoá được xác định theo giá của loại hàng hoá đó trong các điều kiện tương tự về phương thức giao hàng, thời điểm mua bán hàng hoá, thị trường địa lý, phương thức thanh toán và các điều kiện khác có ảnh hưởng đến giá."
+    },
+    {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Xác định giá theo trọng lượng",
+        "text": "Trừ trường hợp có thoả thuận khác, nếu giá được xác định theo trọng lượng của hàng hoá thì trọng lượng đó là trọng lượng tịnh."
+    },
+    {
+        "id": "Điều 54.0",
+        "article": "Điều 54",
+        "clause": "0",
+        "title": "Địa điểm thanh toán",
+        "text": "Trường hợp không có thỏa thuận về địa điểm thanh toán cụ thể thì bên mua phải thanh toán cho bên bán tại một trong các địa điểm sau đây:"
+    },
+    {
         "id": "Điều 54.1",
         "article": "Điều 54",
         "clause": "1",
@@ -1153,6 +1265,13 @@
         "clause": "2",
         "title": "Địa điểm thanh toán",
         "text": "Địa điểm giao hàng hoặc giao chứng từ, nếu việc thanh toán được tiến hành đồng thời với việc giao hàng hoặc giao chứng từ."
+    },
+    {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Thời hạn thanh toán",
+        "text": "Trừ trường hợp có thoả thuận khác, thời hạn thanh toán được quy định như sau:"
     },
     {
         "id": "Điều 55.1",
@@ -1169,6 +1288,34 @@
         "text": "Bên mua không có nghĩa vụ thanh toán cho đến khi có thể kiểm tra xong hàng hoá trong trường hợp có thỏa thuận theo quy định tại Điều 44 của Luật này."
     },
     {
+        "id": "Điều 56.0",
+        "article": "Điều 56",
+        "clause": "0",
+        "title": "Nhận hàng",
+        "text": "Bên mua có nghĩa vụ nhận hàng theo thoả thuận và thực hiện những công việc hợp lý để giúp bên bán giao hàng."
+    },
+    {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Chuyển rủi ro trong trường hợp có địa điểm giao hàng xác định",
+        "text": "Trừ trường hợp có thoả thuận khác, nếu bên bán có nghĩa vụ giao hàng cho bên mua tại một địa điểm nhất định thì rủi ro về mất mát hoặc hư hỏng hàng hoá được chuyển cho bên mua khi hàng hoá đã được giao cho bên mua hoặc người được bên mua uỷ quyền đã nhận hàng tại địa điểm đó, kể cả trong trường hợp bên bán được uỷ quyền giữ lại các chứng từ xác lập quyền sở hữu đối với hàng hoá."
+    },
+    {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Chuyển rủi ro trong trường hợp không có địa điểm giao hàng xác định",
+        "text": "Trừ trường hợp có thoả thuận khác, nếu hợp đồng có quy định về việc vận chuyển hàng hoá và bên bán không có nghĩa vụ giao hàng tại một địa điểm nhất định thì rủi ro về mất mát hoặc hư hỏng hàng hoá được chuyển cho bên mua khi hàng hoá đã được giao cho người vận chuyển đầu tiên."
+    },
+    {
+        "id": "Điều 59.0",
+        "article": "Điều 59",
+        "clause": "0",
+        "title": "Chuyển rủi ro trong trường hợp giao hàng cho người nhận hàng để giao mà không phải là người vận chuyển",
+        "text": "Trừ trường hợp có thoả thuận khác, nếu hàng hoá đang được người nhận hàng để giao nắm giữ mà không phải là người vận chuyển thì rủi ro về mất mát hoặc hư hỏng hàng hoá được chuyển cho bên mua thuộc một trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 59.1",
         "article": "Điều 59",
         "clause": "1",
@@ -1183,6 +1330,20 @@
         "text": "Khi người nhận hàng để giao xác nhận quyền chiếm hữu hàng hoá của bên mua."
     },
     {
+        "id": "Điều 60.0",
+        "article": "Điều 60",
+        "clause": "0",
+        "title": "Chuyển rủi ro trong trường hợp mua bán hàng hoá đang trên đường vận chuyển",
+        "text": "Trừ trường hợp có thỏa thuận khác, nếu đối tượng của hợp đồng là hàng hoá đang trên đường vận chuyển thì rủi ro về mất mát hoặc hư hỏng hàng hoá được chuyển cho bên mua kể từ thời điểm giao kết hợp đồng."
+    },
+    {
+        "id": "Điều 61.0",
+        "article": "Điều 61",
+        "clause": "0",
+        "title": "Chuyển rủi ro trong các trường hợp khác",
+        "text": "Trừ trường hợp có thoả thuận khác, việc chuyển rủi ro trong các trường hợp khác được quy định như sau:"
+    },
+    {
         "id": "Điều 61.1",
         "article": "Điều 61",
         "clause": "1",
@@ -1195,6 +1356,13 @@
         "clause": "2",
         "title": "Chuyển rủi ro trong các trường hợp khác",
         "text": "Rủi ro về mất mát hoặc hư hỏng hàng hoá không được chuyển cho bên mua, nếu hàng hoá không được xác định rõ ràng bằng ký mã hiệu, chứng từ vận tải, không được thông báo cho bên mua hoặc không được xác định bằng bất kỳ cách thức nào khác."
+    },
+    {
+        "id": "Điều 62.0",
+        "article": "Điều 62",
+        "clause": "0",
+        "title": "Thời điểm chuyển quyền sở hữu hàng hoá",
+        "text": "Trừ trường hợp pháp luật có quy định khác hoặc các bên có thỏa thuận khác, quyền sở hữu được chuyển từ bên bán sang bên mua kể từ thời điểm hàng hóa được chuyển giao. MỤC 3. MUA BÁN HÀNG HÓA QUA SỞ GIAO DỊCH HÀNG HÓA"
     },
     {
         "id": "Điều 63.1",
@@ -1314,6 +1482,13 @@
         "clause": "2",
         "title": "Sở giao dịch hàng hoá",
         "text": "Chính phủ quy định chi tiết điều kiện thành lập Sở giao dịch hàng hóa, quyền hạn, trách nhiệm của Sở giao dịch hàng hóa và việc phê chuẩn Điều lệ hoạt động của Sở giao dịch hàng hóa."
+    },
+    {
+        "id": "Điều 68.0",
+        "article": "Điều 68",
+        "clause": "0",
+        "title": "Hàng hoá giao dịch tại Sở giao dịch hàng hóa",
+        "text": "Danh mục hàng hoá giao dịch tại Sở giao dịch hàng hóa do Bộ trưởng Bộ Thương mại quy định."
     },
     {
         "id": "Điều 69.1",
@@ -1463,6 +1638,13 @@
         "text": "Các biện pháp cần thiết khác theo quy định của Chính phủ."
     },
     {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Quyền hoạt động mua bán hàng hóa qua Sở giao dịch hàng hóa ở nước ngoài",
+        "text": "Thương nhân Việt Nam được quyền hoạt động mua bán hàng hóa qua Sở giao dịch hàng hóa ở nước ngoài theo quy định của Chính phủ. Chương III CUNG ỨNG DỊCH VỤ MỤC 1. CÁC QUY ĐỊNH CHUNG ĐỐI VỚI HOẠT ĐỘNG CUNG ỨNG DỊCH VỤ"
+    },
+    {
         "id": "Điều 74.1",
         "article": "Điều 74",
         "clause": "1",
@@ -1568,6 +1750,20 @@
         "text": "Đối với dịch vụ hạn chế kinh doanh, dịch vụ kinh doanh có điều kiện, việc cung ứng dịch vụ chỉ được thực hiện khi dịch vụ và các bên tham gia hoạt động cung ứng dịch vụ đáp ứng đầy đủ các điều kiện theo quy định của pháp luật."
     },
     {
+        "id": "Điều 77.0",
+        "article": "Điều 77",
+        "clause": "0",
+        "title": "Áp dụng các biện pháp khẩn cấp đối với hoạt động cung ứng hoặc sử dụng dịch vụ",
+        "text": "Trong trường hợp cần thiết, để bảo vệ an ninh quốc gia và các lợi ích quốc gia khác phù hợp với pháp luật Việt Nam và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, Thủ tướng Chính phủ quyết định áp dụng các biện pháp khẩn cấp đối với hoạt động cung ứng hoặc sử dụng dịch vụ, bao gồm việc tạm thời cấm cung ứng hoặc sử dụng đối với một hoặc một số loại dịch vụ hoặc các biện pháp khẩn cấp khác đối với một hoặc một số thị trường cụ thể trong một thời gian nhất định. MỤC 2. QUYỀN VÀ NGHĨA VỤ CỦA CÁC BÊN TRONG HỢP ĐỒNG DỊCH VỤ"
+    },
+    {
+        "id": "Điều 78.0",
+        "article": "Điều 78",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên cung ứng dịch vụ",
+        "text": "Trừ trường hợp có thoả thuận khác, bên cung ứng dịch vụ có các nghĩa vụ sau đây:"
+    },
+    {
         "id": "Điều 78.1",
         "article": "Điều 78",
         "clause": "1",
@@ -1594,6 +1790,27 @@
         "clause": "4",
         "title": "Nghĩa vụ của bên cung ứng dịch vụ",
         "text": "Giữ bí mật về thông tin mà mình biết được trong quá trình cung ứng dịch vụ nếu có thoả thuận hoặc pháp luật có quy định."
+    },
+    {
+        "id": "Điều 79.0",
+        "article": "Điều 79",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên cung ứng dịch vụ theo kết quả công việc",
+        "text": "Trừ trường hợp có thoả thuận khác, nếu tính chất của loại dịch vụ được cung ứng yêu cầu bên cung ứng dịch vụ phải đạt được một kết quả nhất định thì bên cung ứng dịch vụ phải thực hiện việc cung ứng dịch vụ với kết quả phù hợp với các điều khoản và mục đích của hợp đồng. Trong trường hợp hợp đồng không có quy định cụ thể về tiêu chuẩn kết quả cần đạt được, bên cung ứng dịch vụ phải thực hiện việc cung ứng dịch vụ với kết quả phù hợp với tiêu chuẩn thông thường của loại dịch vụ đó."
+    },
+    {
+        "id": "Điều 80.0",
+        "article": "Điều 80",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên cung ứng dịch vụ theo nỗ lực và khả năng cao nhất",
+        "text": "Trừ trường hợp có thoả thuận khác, nếu tính chất của loại dịch vụ được cung ứng yêu cầu bên cung ứng dịch vụ phải nỗ lực cao nhất để đạt được kết quả mong muốn thì bên cung ứng dịch vụ phải thực hiện nghĩa vụ cung ứng dịch vụ đó với nỗ lực và khả năng cao nhất."
+    },
+    {
+        "id": "Điều 81.0",
+        "article": "Điều 81",
+        "clause": "0",
+        "title": "Hợp tác giữa các bên cung ứng dịch vụ",
+        "text": "Trường hợp theo thỏa thuận hoặc dựa vào tình hình cụ thể, một dịch vụ do nhiều bên cung ứng dịch vụ cùng tiến hành hoặc phối hợp với bên cung ứng dịch vụ khác thì mỗi bên cung ứng dịch vụ có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 81.1",
@@ -1645,6 +1862,20 @@
         "text": "Trừ trường hợp có thoả thuận khác, khách hàng phải chịu những chi phí hợp lý cho việc thực hiện những yêu cầu thay đổi của mình."
     },
     {
+        "id": "Điều 84.0",
+        "article": "Điều 84",
+        "clause": "0",
+        "title": "Tiếp tục cung ứng dịch vụ sau khi hết thời hạn hoàn thành việc cung ứng dịch vụ",
+        "text": "Sau khi hết thời hạn hoàn thành việc cung ứng dịch vụ mà dịch vụ vẫn chưa hoàn thành, nếu khách hàng không phản đối thì bên cung ứng dịch vụ phải tiếp tục cung ứng theo nội dung đã thoả thuận và phải bồi thường thiệt hại, nếu có."
+    },
+    {
+        "id": "Điều 85.0",
+        "article": "Điều 85",
+        "clause": "0",
+        "title": "Nghĩa vụ của khách hàng",
+        "text": "Trừ trường hợp có thoả thuận khác, khách hàng có các nghĩa vụ sau đây:"
+    },
+    {
         "id": "Điều 85.1",
         "article": "Điều 85",
         "clause": "1",
@@ -1673,6 +1904,20 @@
         "text": "Trường hợp một dịch vụ do nhiều bên cung ứng dịch vụ cùng tiến hành hoặc phối hợp với bên cung ứng dịch vụ khác, khách hàng có nghĩa vụ điều phối hoạt động của các bên cung ứng dịch vụ để không gây cản trở đến công việc của bất kỳ bên cung ứng dịch vụ nào."
     },
     {
+        "id": "Điều 86.0",
+        "article": "Điều 86",
+        "clause": "0",
+        "title": "Giá dịch vụ",
+        "text": "Trường hợp không có thoả thuận về giá dịch vụ, không có thoả thuận về phương pháp xác định giá dịch vụ và cũng không có bất kỳ chỉ dẫn nào khác về giá dịch vụ thì giá dịch vụ được xác định theo giá của loại dịch vụ đó trong các điều kiện tương tự về phương thức cung ứng, thời điểm cung ứng, thị trường địa lý, phương thức thanh toán và các điều kiện khác có ảnh hưởng đến giá dịch vụ."
+    },
+    {
+        "id": "Điều 87.0",
+        "article": "Điều 87",
+        "clause": "0",
+        "title": "Thời hạn thanh toán",
+        "text": "Trường hợp không có thỏa thuận và giữa các bên không có bất kỳ thói quen nào về việc thanh toán thì thời hạn thanh toán là thời điểm việc cung ứng dịch vụ được hoàn thành. Chương IV XÚC TIẾN THƯƠNG MẠI MỤC 1. KHUYẾN MẠI"
+    },
+    {
         "id": "Điều 88.1",
         "article": "Điều 88",
         "clause": "1",
@@ -1699,6 +1944,20 @@
         "clause": "2b",
         "title": "Khuyến mại",
         "text": "Thương nhân kinh doanh dịch vụ khuyến mại thực hiện khuyến mại cho hàng hóa, dịch vụ của thương nhân khác theo thỏa thuận với thương nhân đó."
+    },
+    {
+        "id": "Điều 89.0",
+        "article": "Điều 89",
+        "clause": "0",
+        "title": "Kinh doanh dịch vụ khuyến mại",
+        "text": "Kinh doanh dịch vụ khuyến mại là hoạt động thương mại, theo đó một thương nhân thực hiện khuyến mại cho hàng hóa, dịch vụ của thương nhân khác trên cơ sở hợp đồng."
+    },
+    {
+        "id": "Điều 90.0",
+        "article": "Điều 90",
+        "clause": "0",
+        "title": "Hợp đồng dịch vụ khuyến mại",
+        "text": "Hợp đồng dịch vụ khuyến mại phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương."
     },
     {
         "id": "Điều 91.1",
@@ -2016,6 +2275,13 @@
         "text": "Cách thức khác nhưng phải được cung cấp kèm với dịch vụ khi dịch vụ đó được cung ứng."
     },
     {
+        "id": "Điều 99.0",
+        "article": "Điều 99",
+        "clause": "0",
+        "title": "Bảo đảm bí mật thông tin về chương trình, nội dung khuyến mại",
+        "text": "Trường hợp chương trình khuyến mại phải được sự chấp thuận của cơ quan nhà nước có thẩm quyền thì cơ quan đó phải giữ bí mật chương trình, nội dung khuyến mại do thương nhân cung cấp cho đến khi chương trình được cơ quan nhà nước có thẩm quyền chấp thuận."
+    },
+    {
         "id": "Điều 100.1",
         "article": "Điều 100",
         "clause": "1",
@@ -2100,6 +2366,13 @@
         "text": "Chính phủ quy định cụ thể việc đăng ký hoạt động khuyến mại và thông báo kết quả hoạt động khuyến mại của các thương nhân với cơ quan quản lý nhà nước về thương mại. MỤC 2. QUẢNG CÁO THƯƠNG MẠI"
     },
     {
+        "id": "Điều 102.0",
+        "article": "Điều 102",
+        "clause": "0",
+        "title": "Quảng cáo thương mại",
+        "text": "Quảng cáo thương mại là hoạt động xúc tiến thương mại của thương nhân để giới thiệu với khách hàng về hoạt động kinh doanh hàng hoá, dịch vụ của mình."
+    },
+    {
         "id": "Điều 103.1",
         "article": "Điều 103",
         "clause": "1",
@@ -2119,6 +2392,20 @@
         "clause": "3",
         "title": "Quyền quảng cáo thương mại",
         "text": "Thương nhân nước ngoài muốn quảng cáo thương mại về hoạt động kinh doanh hàng hoá, dịch vụ của mình tại Việt Nam phải thuê thương nhân kinh doanh dịch vụ quảng cáo thương mại Việt Nam thực hiện."
+    },
+    {
+        "id": "Điều 104.0",
+        "article": "Điều 104",
+        "clause": "0",
+        "title": "Kinh doanh dịch vụ quảng cáo thương mại",
+        "text": "Kinh doanh dịch vụ quảng cáo thương mại là hoạt động thương mại của thương nhân để thực hiện việc quảng cáo thương mại cho thương nhân khác."
+    },
+    {
+        "id": "Điều 105.0",
+        "article": "Điều 105",
+        "clause": "0",
+        "title": "Sản phẩm quảng cáo thương mại",
+        "text": "Sản phẩm quảng cáo thương mại gồm những thông tin bằng hình ảnh, hành động, âm thanh, tiếng nói, chữ viết, biểu tượng, màu sắc, ánh sáng chứa đựng nội dung quảng cáo thương mại."
     },
     {
         "id": "Điều 106.1",
@@ -2205,6 +2492,13 @@
         "text": "Đúng mức độ, thời lượng, thời điểm quy định đối với từng loại phương tiện thông tin đại chúng."
     },
     {
+        "id": "Điều 108.0",
+        "article": "Điều 108",
+        "clause": "0",
+        "title": "Bảo hộ quyền sở hữu trí tuệ đối với sản phẩm quảng cáo thương mại",
+        "text": "Thương nhân có quyền đăng ký bảo hộ quyền sở hữu trí tuệ đối với sản phẩm quảng cáo thương mại theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 109.1",
         "article": "Điều 109",
         "clause": "1",
@@ -2268,6 +2562,20 @@
         "text": "Quảng cáo nhằm cạnh tranh không lành mạnh theo quy định của pháp luật."
     },
     {
+        "id": "Điều 110.0",
+        "article": "Điều 110",
+        "clause": "0",
+        "title": "Hợp đồng dịch vụ quảng cáo thương mại",
+        "text": "Hợp đồng dịch vụ quảng cáo thương mại phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương."
+    },
+    {
+        "id": "Điều 111.0",
+        "article": "Điều 111",
+        "clause": "0",
+        "title": "Quyền của bên thuê quảng cáo thương mại",
+        "text": "Trừ trường hợp có thoả thuận khác, bên thuê quảng cáo thương mại có các quyền sau đây:"
+    },
+    {
         "id": "Điều 111.1",
         "article": "Điều 111",
         "clause": "1",
@@ -2280,6 +2588,13 @@
         "clause": "2",
         "title": "Quyền của bên thuê quảng cáo thương mại",
         "text": "Kiểm tra, giám sát việc thực hiện hợp đồng dịch vụ quảng cáo thương mại."
+    },
+    {
+        "id": "Điều 112.0",
+        "article": "Điều 112",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên thuê quảng cáo thương mại",
+        "text": "Trừ trường hợp có thoả thuận khác, bên thuê quảng cáo thương mại có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 112.1",
@@ -2296,6 +2611,13 @@
         "text": "Trả thù lao dịch vụ quảng cáo thương mại và các chi phí hợp lý khác."
     },
     {
+        "id": "Điều 113.0",
+        "article": "Điều 113",
+        "clause": "0",
+        "title": "Quyền của bên cung ứng dịch vụ quảng cáo thương mại",
+        "text": "Trừ trường hợp có thoả thuận khác, bên cung ứng dịch vụ quảng cáo thương mại có các quyền sau đây:"
+    },
+    {
         "id": "Điều 113.1",
         "article": "Điều 113",
         "clause": "1",
@@ -2308,6 +2630,13 @@
         "clause": "2",
         "title": "Quyền của bên cung ứng dịch vụ quảng cáo thương mại",
         "text": "Nhận thù lao dịch vụ quảng cáo thương mại và các chi phí hợp lý khác."
+    },
+    {
+        "id": "Điều 114.0",
+        "article": "Điều 114",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên cung ứng dịch vụ quảng cáo thương mại",
+        "text": "Trừ trường hợp có thỏa thuận khác, bên cung ứng dịch vụ quảng cáo thương mại có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 114.1",
@@ -2331,6 +2660,20 @@
         "text": "Thực hiện các nghĩa vụ khác đã thoả thuận trong hợp đồng dịch vụ quảng cáo thương mại."
     },
     {
+        "id": "Điều 115.0",
+        "article": "Điều 115",
+        "clause": "0",
+        "title": "Người phát hành quảng cáo thương mại",
+        "text": "Người phát hành quảng cáo thương mại là người trực tiếp phát hành sản phẩm quảng cáo thương mại."
+    },
+    {
+        "id": "Điều 116.0",
+        "article": "Điều 116",
+        "clause": "0",
+        "title": "Nghĩa vụ của người phát hành quảng cáo thương mại",
+        "text": "Người phát hành quảng cáo thương mại có các nghĩa vụ sau đây:"
+    },
+    {
         "id": "Điều 116.1",
         "article": "Điều 116",
         "clause": "1",
@@ -2352,6 +2695,13 @@
         "text": "Thực hiện các nghĩa vụ khác theo quy định của pháp luật. MỤC 3. TRƯNG BÀY, GIỚI THIỆU HÀNG HÓA, DỊCH VỤ"
     },
     {
+        "id": "Điều 117.0",
+        "article": "Điều 117",
+        "clause": "0",
+        "title": "Trưng bày, giới thiệu hàng hoá, dịch vụ",
+        "text": "Trưng bày, giới thiệu hàng hoá, dịch vụ là hoạt động xúc tiến thương mại của thương nhân dùng hàng hoá, dịch vụ và tài liệu về hàng hoá, dịch vụ để giới thiệu với khách hàng về hàng hoá, dịch vụ đó."
+    },
+    {
         "id": "Điều 118.1",
         "article": "Điều 118",
         "clause": "1",
@@ -2371,6 +2721,13 @@
         "clause": "3",
         "title": "Quyền trưng bày, giới thiệu hàng hoá, dịch vụ",
         "text": "Thương nhân nước ngoài chưa được phép hoạt động thương mại tại Việt nam muốn trưng bày, giới thiệu hàng hoá, dịch vụ của mình tại Việt Nam phải thuê thương nhân kinh doanh dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ Việt Nam thực hiện."
+    },
+    {
+        "id": "Điều 119.0",
+        "article": "Điều 119",
+        "clause": "0",
+        "title": "Kinh doanh dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ",
+        "text": "Kinh doanh dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ là hoạt động thương mại, theo đó một thương nhân thực hiện cung ứng dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ cho thương nhân khác."
     },
     {
         "id": "Điều 120.1",
@@ -2413,6 +2770,13 @@
         "clause": "2",
         "title": "Điều kiện đối với hàng hoá, dịch vụ trưng bày, giới thiệu",
         "text": "Hàng hoá, dịch vụ trưng bày, giới thiệu phải tuân thủ các quy định của pháp luật về chất lượng hàng hóa và ghi nhãn hàng hoá."
+    },
+    {
+        "id": "Điều 122.0",
+        "article": "Điều 122",
+        "clause": "0",
+        "title": "Điều kiện đối với hàng hoá nhập khẩu vào Việt Nam để trưng bày, giới thiệu",
+        "text": "Hàng hoá nhập khẩu vào Việt Nam để trưng bày, giới thiệu tại Việt Nam, ngoài việc đáp ứng các điều kiện quy định tại Điều 121 của Luật này còn phải đáp ứng các điều kiện sau đây:"
     },
     {
         "id": "Điều 122.1",
@@ -2471,6 +2835,20 @@
         "text": "Trưng bày, giới thiệu mẫu hàng hoá không đúng với hàng hoá đang kinh doanh về chất lượng, giá, công dụng, kiểu dáng, chủng loại, bao bì, thời hạn bảo hành và các chỉ tiêu chất lượng khác nhằm lừa dối khách hàng."
     },
     {
+        "id": "Điều 124.0",
+        "article": "Điều 124",
+        "clause": "0",
+        "title": "Hợp đồng dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ",
+        "text": "Hợp đồng dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương."
+    },
+    {
+        "id": "Điều 125.0",
+        "article": "Điều 125",
+        "clause": "0",
+        "title": "Quyền của bên thuê dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ",
+        "text": "Trừ trường hợp có thỏa thuận khác, bên thuê dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ có các quyền sau đây:"
+    },
+    {
         "id": "Điều 125.1",
         "article": "Điều 125",
         "clause": "1",
@@ -2483,6 +2861,13 @@
         "clause": "2",
         "title": "Quyền của bên thuê dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ",
         "text": "Kiểm tra, giám sát việc thực hiện hợp đồng trưng bày, giới thiệu hàng hoá, dịch vụ."
+    },
+    {
+        "id": "Điều 126.0",
+        "article": "Điều 126",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên thuê dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ",
+        "text": "Trừ trường hợp có thỏa thuận khác, bên thuê dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 126.1",
@@ -2506,6 +2891,13 @@
         "text": "Trả thù lao dịch vụ và các chi phí hợp lý khác."
     },
     {
+        "id": "Điều 127.0",
+        "article": "Điều 127",
+        "clause": "0",
+        "title": "Quyền của bên cung ứng dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ",
+        "text": "Trừ trường hợp có thỏa thuận khác, bên cung ứng dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ có các quyền sau đây:"
+    },
+    {
         "id": "Điều 127.1",
         "article": "Điều 127",
         "clause": "1",
@@ -2527,6 +2919,13 @@
         "text": "Nhận thù lao dịch vụ và các chi phí hợp lý khác."
     },
     {
+        "id": "Điều 128.0",
+        "article": "Điều 128",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên cung ứng dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ",
+        "text": "Trừ trường hợp có thỏa thuận khác, bên cung ứng dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ có các nghĩa vụ sau đây:"
+    },
+    {
         "id": "Điều 128.1",
         "article": "Điều 128",
         "clause": "1",
@@ -2546,6 +2945,13 @@
         "clause": "3",
         "title": "Nghĩa vụ của bên cung ứng dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ",
         "text": "Thực hiện việc trưng bày, giới thiệu hàng hoá, dịch vụ theo những nội dung đã được thoả thuận với bên thuê dịch vụ trưng bày, giới thiệu hàng hoá, dịch vụ. MỤC 4. HỘI CHỢ, TRIỂN LÃM THƯƠNG MẠI"
+    },
+    {
+        "id": "Điều 129.0",
+        "article": "Điều 129",
+        "clause": "0",
+        "title": "Hội chợ, triển lãm thương mại",
+        "text": "Hội chợ, triển lãm thương mại là hoạt động xúc tiến thương mại được thực hiện tập trung trong một thời gian và tại một địa điểm nhất định để thương nhân trưng bày, giới thiệu hàng hoá, dịch vụ nhằm mục đích thúc đẩy, tìm kiếm cơ hội giao kết hợp đồng mua bán hàng hoá, hợp đồng dịch vụ."
     },
     {
         "id": "Điều 130.1",
@@ -2856,6 +3262,20 @@
         "text": "Trong trường hợp thương nhân cử người của mình để làm đại diện cho mình thì áp dụng quy định của Bộ luật dân sự."
     },
     {
+        "id": "Điều 142.0",
+        "article": "Điều 142",
+        "clause": "0",
+        "title": "Hợp đồng đại diện cho thương nhân",
+        "text": "Hợp đồng đại diện cho thương nhân phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương."
+    },
+    {
+        "id": "Điều 143.0",
+        "article": "Điều 143",
+        "clause": "0",
+        "title": "Phạm vi đại diện",
+        "text": "Các bên có thể thoả thuận về việc bên đại diện được thực hiện một phần hoặc toàn bộ hoạt động thương mại thuộc phạm vi hoạt động của bên giao đại diện."
+    },
+    {
         "id": "Điều 144.1",
         "article": "Điều 144",
         "clause": "1",
@@ -2882,6 +3302,13 @@
         "clause": "4",
         "title": "Thời hạn đại diện cho thương nhân",
         "text": "Trường hợp thời hạn đại diện chấm dứt theo quy định tại khoản 2 Điều này theo yêu cầu của bên đại diện thì bên đại diện bị mất quyền hưởng thù lao đối với các giao dịch mà đáng lẽ mình được hưởng nếu các bên không có thoả thuận khác."
+    },
+    {
+        "id": "Điều 145.0",
+        "article": "Điều 145",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên đại diện",
+        "text": "Trừ trường hợp có thỏa thuận khác, bên đại diện có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 145.1",
@@ -2926,6 +3353,13 @@
         "text": "Bảo quản tài sản, tài liệu được giao để thực hiện hoạt động đại diện."
     },
     {
+        "id": "Điều 146.0",
+        "article": "Điều 146",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên giao đại diện",
+        "text": "Trừ trường hợp có thỏa thuận khác, bên giao đại diện có các nghĩa vụ sau đây:"
+    },
+    {
         "id": "Điều 146.1",
         "article": "Điều 146",
         "clause": "1",
@@ -2968,6 +3402,34 @@
         "text": "Trường hợp không có thỏa thuận, mức thù lao cho bên đại diện được xác định theo quy định tại Điều 86 của Luật này."
     },
     {
+        "id": "Điều 148.0",
+        "article": "Điều 148",
+        "clause": "0",
+        "title": "Thanh toán chi phí phát sinh",
+        "text": "Trừ trường hợp có thoả thuận khác, bên đại diện có quyền yêu cầu được thanh toán các khoản chi phí phát sinh hợp lý để thực hiện hoạt động đại diện."
+    },
+    {
+        "id": "Điều 149.0",
+        "article": "Điều 149",
+        "clause": "0",
+        "title": "Quyền cầm giữ",
+        "text": "Trừ trường hợp có thỏa thuận khác, bên đại diện có quyền cầm giữ tài sản, tài liệu được giao để bảo đảm việc thanh toán các khoản thù lao và chi phí đã đến hạn. MỤC 2. MÔI GIỚI THƯƠNG MẠI"
+    },
+    {
+        "id": "Điều 150.0",
+        "article": "Điều 150",
+        "clause": "0",
+        "title": "Môi giới thương mại",
+        "text": "Môi giới thương mại là hoạt động thương mại, theo đó một thương nhân làm trung gian (gọi là bên môi giới) cho các bên mua bán hàng hoá, cung ứng dịch vụ (gọi là bên được môi giới) trong việc đàm phán, giao kết hợp đồng mua bán hàng hoá, dịch vụ và được hưởng thù lao theo hợp đồng môi giới."
+    },
+    {
+        "id": "Điều 151.0",
+        "article": "Điều 151",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên môi giới thương mại",
+        "text": "Trừ trường hợp có thỏa thuận khác, bên môi giới thương mại có các nghĩa vụ sau đây:"
+    },
+    {
         "id": "Điều 151.1",
         "article": "Điều 151",
         "clause": "1",
@@ -2994,6 +3456,13 @@
         "clause": "4",
         "title": "Nghĩa vụ của bên môi giới thương mại",
         "text": "Không được tham gia thực hiện hợp đồng giữa các bên được môi giới, trừ trường hợp có uỷ quyền của bên được môi giới."
+    },
+    {
+        "id": "Điều 152.0",
+        "article": "Điều 152",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên được môi giới",
+        "text": "Trừ trường hợp có thỏa thuận khác, bên được môi giới có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 152.1",
@@ -3024,6 +3493,69 @@
         "text": "Trường hợp không có thỏa thuận, mức thù lao môi giới được xác định theo quy định tại Điều 86 của Luật này."
     },
     {
+        "id": "Điều 154.0",
+        "article": "Điều 154",
+        "clause": "0",
+        "title": "Thanh toán chi phí phát sinh liên quan đến việc môi giới",
+        "text": "Trừ trường hợp có thỏa thuận khác, bên được môi giới phải thanh toán các chi phí phát sinh hợp lý liên quan đến việc môi giới, kể cả khi việc môi giới không mang lại kết quả cho bên được môi giới. MỤC 3. ỦY THÁC MUA BÁN HÀNG HÓA"
+    },
+    {
+        "id": "Điều 155.0",
+        "article": "Điều 155",
+        "clause": "0",
+        "title": "Uỷ thác mua bán hàng hóa",
+        "text": "Uỷ thác mua bán hàng hoá là hoạt động thương mại, theo đó bên nhận uỷ thác thực hiện việc mua bán hàng hoá với danh nghĩa của mình theo những điều kiện đã thoả thuận với bên uỷ thác và được nhận thù lao uỷ thác."
+    },
+    {
+        "id": "Điều 156.0",
+        "article": "Điều 156",
+        "clause": "0",
+        "title": "Bên nhận uỷ thác",
+        "text": "Bên nhận uỷ thác mua bán hàng hoá là thương nhân kinh doanh mặt hàng phù hợp với hàng hoá được uỷ thác và thực hiện mua bán hàng hoá theo những điều kiện đã thoả thuận với bên uỷ thác."
+    },
+    {
+        "id": "Điều 157.0",
+        "article": "Điều 157",
+        "clause": "0",
+        "title": "Bên uỷ thác",
+        "text": "Bên uỷ thác mua bán hàng hoá là thương nhân hoặc không phải là thương nhân giao cho bên nhận uỷ thác thực hiện mua bán hàng hoá theo yêu cầu của mình và phải trả thù lao uỷ thác."
+    },
+    {
+        "id": "Điều 158.0",
+        "article": "Điều 158",
+        "clause": "0",
+        "title": "Hàng hoá uỷ thác",
+        "text": "Tất cả hàng hoá lưu thông hợp pháp đều có thể được uỷ thác mua bán."
+    },
+    {
+        "id": "Điều 159.0",
+        "article": "Điều 159",
+        "clause": "0",
+        "title": "Hợp đồng uỷ thác",
+        "text": "Hợp đồng uỷ thác mua bán hàng hoá phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương."
+    },
+    {
+        "id": "Điều 160.0",
+        "article": "Điều 160",
+        "clause": "0",
+        "title": "Uỷ thác lại cho bên thứ ba",
+        "text": "Bên nhận uỷ thác không được uỷ thác lại cho bên thứ ba thực hiện hợp đồng uỷ thác mua bán hàng hoá đã ký, trừ trường hợp có sự chấp thuận bằng văn bản của bên uỷ thác."
+    },
+    {
+        "id": "Điều 161.0",
+        "article": "Điều 161",
+        "clause": "0",
+        "title": "Nhận uỷ thác của nhiều bên",
+        "text": "Bên nhận uỷ thác có thể nhận uỷ thác mua bán hàng hoá của nhiều bên uỷ thác khác nhau."
+    },
+    {
+        "id": "Điều 162.0",
+        "article": "Điều 162",
+        "clause": "0",
+        "title": "Quyền của bên uỷ thác",
+        "text": "Trừ trường hợp có thoả thuận khác, bên uỷ thác có các quyền sau đây:"
+    },
+    {
         "id": "Điều 162.1",
         "article": "Điều 162",
         "clause": "1",
@@ -3036,6 +3568,13 @@
         "clause": "2",
         "title": "Quyền của bên uỷ thác",
         "text": "Không chịu trách nhiệm trong trường hợp bên nhận uỷ thác vi phạm pháp luật, trừ trường hợp quy định tại khoản 4 Điều 163 của Luật này."
+    },
+    {
+        "id": "Điều 163.0",
+        "article": "Điều 163",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên uỷ thác",
+        "text": "Trừ trường hợp có thoả thuận khác, bên uỷ thác có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 163.1",
@@ -3066,6 +3605,13 @@
         "text": "Liên đới chịu trách nhiệm trong trường hợp bên nhận uỷ thác vi phạm pháp luật mà nguyên nhân do bên uỷ thác gây ra hoặc do các bên cố ý làm trái pháp luật."
     },
     {
+        "id": "Điều 164.0",
+        "article": "Điều 164",
+        "clause": "0",
+        "title": "Quyền của bên nhận uỷ thác",
+        "text": "Trừ trường hợp có thoả thuận khác, bên nhận uỷ thác có các quyền sau đây:"
+    },
+    {
         "id": "Điều 164.1",
         "article": "Điều 164",
         "clause": "1",
@@ -3085,6 +3631,13 @@
         "clause": "3",
         "title": "Quyền của bên nhận uỷ thác",
         "text": "Không chịu trách nhiệm về hàng hoá đã bàn giao đúng thoả thuận cho bên uỷ thác."
+    },
+    {
+        "id": "Điều 165.0",
+        "article": "Điều 165",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên nhận uỷ thác",
+        "text": "Trừ trường hợp có thoả thuận khác, bên nhận uỷ thác có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 165.1",
@@ -3136,6 +3689,13 @@
         "text": "Liên đới chịu trách nhiệm về hành vi vi phạm pháp luật của bên ủy thác, nếu nguyên nhân của hành vi vi phạm pháp luật đó có một phần do lỗi của mình gây ra. MỤC 4. ĐẠI LÝ THƯƠNG MẠI"
     },
     {
+        "id": "Điều 166.0",
+        "article": "Điều 166",
+        "clause": "0",
+        "title": "Đại lý thương mại",
+        "text": "Đại lý thương mại là hoạt động thương mại, theo đó bên giao đại lý và bên đại lý thoả thuận việc bên đại lý nhân danh chính mình mua, bán hàng hoá cho bên giao đại lý hoặc cung ứng dịch vụ của bên giao đại lý cho khách hàng để hưởng thù lao."
+    },
+    {
         "id": "Điều 167.1",
         "article": "Điều 167",
         "clause": "1",
@@ -3148,6 +3708,13 @@
         "clause": "2",
         "title": "Bên giao đại lý, bên đại lý",
         "text": "Bên đại lý là thương nhân nhận hàng hoá để làm đại lý bán, nhận tiền mua hàng để làm đại lý mua hoặc là bên nhận uỷ quyền cung ứng dịch vụ."
+    },
+    {
+        "id": "Điều 168.0",
+        "article": "Điều 168",
+        "clause": "0",
+        "title": "Hợp đồng đại lý",
+        "text": "Hợp đồng đại lý phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương."
     },
     {
         "id": "Điều 169.1",
@@ -3176,6 +3743,13 @@
         "clause": "4",
         "title": "Các hình thức đại lý",
         "text": "Các hình thức đại lý khác mà các bên thỏa thuận."
+    },
+    {
+        "id": "Điều 170.0",
+        "article": "Điều 170",
+        "clause": "0",
+        "title": "Quyền sở hữu trong đại lý thương mại",
+        "text": "Bên giao đại lý là chủ sở hữu đối với hàng hoá hoặc tiền giao cho bên đại lý."
     },
     {
         "id": "Điều 171.1",
@@ -3227,6 +3801,13 @@
         "text": "Trường hợp không áp dụng được điểm a và điểm b khoản này thì mức thù lao đại lý là mức thù lao thông thường được áp dụng cho cùng loại hàng hoá, dịch vụ trên thị trường."
     },
     {
+        "id": "Điều 172.0",
+        "article": "Điều 172",
+        "clause": "0",
+        "title": "Quyền của bên giao đại lý",
+        "text": "Trừ trường hợp có thỏa thuận khác, bên giao đại lý có các quyền sau đây:"
+    },
+    {
         "id": "Điều 172.1",
         "article": "Điều 172",
         "clause": "1",
@@ -3260,6 +3841,13 @@
         "clause": "5",
         "title": "Quyền của bên giao đại lý",
         "text": "Kiểm tra, giám sát việc thực hiện hợp đồng của bên đại lý."
+    },
+    {
+        "id": "Điều 173.0",
+        "article": "Điều 173",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên giao đại lý",
+        "text": "Trừ trường hợp có thỏa thuận khác, bên giao đại lý có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 173.1",
@@ -3297,6 +3885,13 @@
         "text": "Liên đới chịu trách nhiệm về hành vi vi phạm pháp luật của bên đại lý, nếu nguyên nhân của hành vi vi phạm pháp luật đó có một phần do lỗi của mình gây ra."
     },
     {
+        "id": "Điều 174.0",
+        "article": "Điều 174",
+        "clause": "0",
+        "title": "Quyền của bên đại lý",
+        "text": "Trừ trường hợp các bên có thỏa thuận khác, bên đại lý có các quyền sau đây:"
+    },
+    {
         "id": "Điều 174.1",
         "article": "Điều 174",
         "clause": "1",
@@ -3330,6 +3925,13 @@
         "clause": "5",
         "title": "Quyền của bên đại lý",
         "text": "Hưởng thù lao, các quyền và lợi ích hợp pháp khác do hoạt động đại lý mang lại."
+    },
+    {
+        "id": "Điều 175.0",
+        "article": "Điều 175",
+        "clause": "0",
+        "title": "Nghĩa vụ của bên đại lý",
+        "text": "Trừ trường hợp có thỏa thuận khác, bên đại lý có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 175.1",
@@ -3381,6 +3983,13 @@
         "text": "Trường hợp pháp luật có quy định cụ thể về việc bên đại lý chỉ được giao kết hợp đồng đại lý với một bên giao đại lý đối với một loại hàng hóa hoặc dịch vụ nhất định thì phải tuân thủ quy định của pháp luật đó."
     },
     {
+        "id": "Điều 176.0",
+        "article": "Điều 176",
+        "clause": "0",
+        "title": "Thanh toán trong đại lý",
+        "text": "Trừ trường hợp có thoả thuận khác, việc thanh toán tiền hàng, tiền cung ứng dịch vụ và thù lao đại lý được thực hiện theo từng đợt sau khi bên đại lý hoàn thành việc mua, bán một khối lượng hàng hoá hoặc cung ứng một khối lượng dịch vụ nhất định."
+    },
+    {
         "id": "Điều 177.1",
         "article": "Điều 177",
         "clause": "1",
@@ -3400,6 +4009,20 @@
         "clause": "3",
         "title": "Thời hạn đại lý",
         "text": "Trường hợp hợp đồng đại lý được chấm dứt trên cơ sở yêu cầu của bên đại lý thì bên đại lý không có quyền yêu cầu bên giao đại lý bồi thường cho thời gian mà mình đã làm đại lý cho bên giao đại lý. Chương VI MỘT SỐ HOẠT ĐỘNG THƯƠNG MẠI CỤ THỂ KHÁC MỤC 1. GIA CÔNG TRONG THƯƠNG MẠI"
+    },
+    {
+        "id": "Điều 178.0",
+        "article": "Điều 178",
+        "clause": "0",
+        "title": "Gia công trong thương mại",
+        "text": "Gia công trong thương mại là hoạt động thương mại, theo đó bên nhận gia công sử dụng một phần hoặc toàn bộ nguyên liệu, vật liệu của bên đặt gia công để thực hiện một hoặc nhiều công đoạn trong quá trình sản xuất theo yêu cầu của bên đặt gia công để hưởng thù lao."
+    },
+    {
+        "id": "Điều 179.0",
+        "article": "Điều 179",
+        "clause": "0",
+        "title": "Hợp đồng gia công",
+        "text": "Hợp đồng gia công phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương."
     },
     {
         "id": "Điều 180.1",
@@ -3500,6 +4123,13 @@
         "text": "Trường hợp gia công hàng hóa cho tổ chức, cá nhân nước ngoài, nếu bên nhận gia công nhận thù lao gia công bằng sản phẩm gia công, máy móc, thiết bị dùng để gia công thì phải tuân thủ các quy định về nhập khẩu đối với sản phẩm, máy móc, thiết bị đó."
     },
     {
+        "id": "Điều 184.0",
+        "article": "Điều 184",
+        "clause": "0",
+        "title": "Chuyển giao công nghệ trong gia công với tổ chức, cá nhân nước ngoài",
+        "text": "Việc chuyển giao công nghệ trong gia công với tổ chức, cá nhân nước ngoài được thực hiện theo thoả thuận trong hợp đồng gia công và phải phù hợp với các quy định của pháp luật Việt Nam về chuyển giao công nghệ. MỤC 2. ĐẤU GIÁ HÀNG HÓA"
+    },
+    {
         "id": "Điều 185.1",
         "article": "Điều 185",
         "clause": "1",
@@ -3554,6 +4184,20 @@
         "clause": "2",
         "title": "Người tham gia đấu giá, người điều hành đấu giá",
         "text": "Người điều hành đấu giá là người tổ chức đấu giá hoặc người được người tổ chức đấu giá uỷ quyền điều hành bán đấu giá."
+    },
+    {
+        "id": "Điều 188.0",
+        "article": "Điều 188",
+        "clause": "0",
+        "title": "Nguyên tắc đấu giá",
+        "text": "Việc đấu giá hàng hoá trong thương mại phải được thực hiện theo nguyên tắc công khai, trung thực, bảo đảm quyền, lợi ích hợp pháp của các bên tham gia."
+    },
+    {
+        "id": "Điều 189.0",
+        "article": "Điều 189",
+        "clause": "0",
+        "title": "Quyền của người tổ chức đấu giá",
+        "text": "Trừ trường hợp có thoả thuận khác, người tổ chức đấu giá có các quyền sau đây:"
     },
     {
         "id": "Điều 189.1",
@@ -3647,6 +4291,13 @@
         "text": "Thanh toán cho người bán hàng tiền hàng đã bán, kể cả khoản tiền chênh lệch thu được từ người rút lại giá đã trả quy định tại khoản 3 Điều 204 của Luật này hoặc trả lại hàng hoá không bán được cho người bán hàng theo thoả thuận. Trường hợp không có thoả thuận thì phải thanh toán tiền cho người bán hàng chậm nhất là ba ngày làm việc sau khi nhận được tiền của người mua hàng hoặc phải trả lại ngay hàng hoá trong thời hạn hợp lý sau cuộc đấu giá."
     },
     {
+        "id": "Điều 191.0",
+        "article": "Điều 191",
+        "clause": "0",
+        "title": "Quyền của người bán hàng không phải là người tổ chức đấu giá",
+        "text": "Trừ trường hợp có thoả thuận khác, người bán hàng có các quyền sau đây:"
+    },
+    {
         "id": "Điều 191.1",
         "article": "Điều 191",
         "clause": "1",
@@ -3659,6 +4310,13 @@
         "clause": "2",
         "title": "Quyền của người bán hàng không phải là người tổ chức đấu giá",
         "text": "Giám sát việc tổ chức bán đấu giá hàng hoá."
+    },
+    {
+        "id": "Điều 192.0",
+        "article": "Điều 192",
+        "clause": "0",
+        "title": "Nghĩa vụ của người bán hàng không phải là người tổ chức đấu giá",
+        "text": "Trừ trường hợp có thoả thuận khác, người bán hàng có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 192.1",
@@ -3717,6 +4375,13 @@
         "text": "Trường hợp trong hợp đồng cầm cố, thế chấp có thoả thuận về việc bán đấu giá mà người cầm cố, thế chấp vắng mặt không có lý do chính đáng hoặc từ chối giao kết hợp đồng dịch vụ tổ chức đấu giá hàng hoá thì giá khởi điểm do người nhận cầm cố, thế chấp xác định."
     },
     {
+        "id": "Điều 195.0",
+        "article": "Điều 195",
+        "clause": "0",
+        "title": "Thông báo cho người có quyền lợi và nghĩa vụ liên quan đến hàng hóa là đối tượng cầm cố, thế chấp",
+        "text": "Trường hợp hàng hoá là đối tượng cầm cố, thế chấp, thì đồng thời với việc niêm yết đấu giá hàng hoá, người tổ chức đấu giá phải thông báo cho những người có quyền lợi và nghĩa vụ liên quan trong thời hạn chậm nhất là bảy ngày làm việc trước khi tiến hành bán đấu giá hàng hóa đó theo quy định tại Điều 197 của Luật này."
+    },
+    {
         "id": "Điều 196.1",
         "article": "Điều 196",
         "clause": "1",
@@ -3729,6 +4394,13 @@
         "clause": "2",
         "title": "Thời hạn thông báo và niêm yết đấu giá hàng hoá",
         "text": "Trường hợp người tổ chức đấu giá hàng hóa là người bán hàng thì thời hạn niêm yết đấu giá hàng hóa do người bán hàng tự quyết định."
+    },
+    {
+        "id": "Điều 197.0",
+        "article": "Điều 197",
+        "clause": "0",
+        "title": "Nội dung thông báo và niêm yết đấu giá hàng hóa",
+        "text": "Thông báo và niêm yết đấu giá hàng hóa phải có đầy đủ các nội dung sau đây:"
     },
     {
         "id": "Điều 197.1",
@@ -3850,6 +4522,20 @@
         "text": "Trường hợp người đăng ký tham gia đấu giá đã nộp một khoản tiền đặt trước nhưng sau đó không dự cuộc đấu giá thì người tổ chức đấu giá có quyền thu khoản tiền đặt trước đó."
     },
     {
+        "id": "Điều 200.0",
+        "article": "Điều 200",
+        "clause": "0",
+        "title": "Trưng bày hàng hoá đấu giá",
+        "text": "Hàng hoá, mẫu hàng hoá, tài liệu giới thiệu về hàng hoá và các thông tin cần thiết khác về hàng hoá đó phải được trưng bày tại địa điểm được thông báo từ khi niêm yết."
+    },
+    {
+        "id": "Điều 201.0",
+        "article": "Điều 201",
+        "clause": "0",
+        "title": "Tiến hành cuộc đấu giá",
+        "text": "Cuộc đấu giá được tiến hành theo trình tự sau đây:"
+    },
+    {
         "id": "Điều 201.1",
         "article": "Điều 201",
         "clause": "1",
@@ -3890,6 +4576,13 @@
         "clause": "6",
         "title": "Tiến hành cuộc đấu giá",
         "text": "Người điều hành đấu giá phải lập văn bản bán đấu giá hàng hoá ngay tại cuộc đấu giá, kể cả trong trường hợp đấu giá không thành. Văn bản bán đấu giá phải ghi rõ kết quả đấu giá, có chữ ký của người điều hành đấu giá, người mua hàng và hai người chứng kiến trong số những người tham gia đấu giá; đối với hàng hoá bán đấu giá phải có công chứng nhà nước theo quy định của pháp luật thì văn bản bán đấu giá cũng phải được công chứng."
+    },
+    {
+        "id": "Điều 202.0",
+        "article": "Điều 202",
+        "clause": "0",
+        "title": "Đấu giá không thành",
+        "text": "Cuộc đấu giá được coi là không thành trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 202.1",
@@ -4046,6 +4739,27 @@
         "text": "Người bán hàng và người tổ chức đấu giá có nghĩa vụ làm thủ tục chuyển quyền sở hữu hàng hoá cho người mua hàng. Chi phí làm thủ tục chuyển quyền sở hữu được trừ vào tiền bán hàng hoá, trừ trường hợp có thoả thuận khác."
     },
     {
+        "id": "Điều 207.0",
+        "article": "Điều 207",
+        "clause": "0",
+        "title": "Thời điểm thanh toán tiền mua hàng hoá",
+        "text": "Thời điểm thanh toán tiền mua hàng hoá do người tổ chức đấu giá và người mua hàng hoá đấu giá thoả thuận; nếu không có thoả thuận thì thời điểm thanh toán tiền mua hàng hoá là thời điểm theo quy định tại Điều 55 của Luật này."
+    },
+    {
+        "id": "Điều 208.0",
+        "article": "Điều 208",
+        "clause": "0",
+        "title": "Địa điểm thanh toán tiền mua hàng hoá",
+        "text": "Địa điểm thanh toán tiền mua hàng hoá do người tổ chức đấu giá và người mua hàng thoả thuận; nếu không có thoả thuận thì địa điểm thanh toán là trụ sở kinh doanh của người tổ chức đấu giá."
+    },
+    {
+        "id": "Điều 209.0",
+        "article": "Điều 209",
+        "clause": "0",
+        "title": "Thời hạn giao hàng hoá bán đấu giá",
+        "text": "Trừ trường hợp có thoả thuận khác giữa người tổ chức đấu giá và người mua hàng, thời hạn giao hàng hoá bán đấu giá được quy định như sau:"
+    },
+    {
         "id": "Điều 209.1",
         "article": "Điều 209",
         "clause": "1",
@@ -4074,6 +4788,13 @@
         "text": "Trường hợp hàng hoá là động sản thì địa điểm giao hàng là nơi tổ chức đấu giá, trừ trường hợp người tổ chức đấu giá và người mua hàng có thoả thuận khác."
     },
     {
+        "id": "Điều 211.0",
+        "article": "Điều 211",
+        "clause": "0",
+        "title": "Thù lao dịch vụ đấu giá hàng hoá",
+        "text": "Trường hợp không có thoả thuận về mức thù lao dịch vụ đấu giá hàng hóa thì thù lao được xác định như sau:"
+    },
+    {
         "id": "Điều 211.1",
         "article": "Điều 211",
         "clause": "1",
@@ -4086,6 +4807,13 @@
         "clause": "2",
         "title": "Thù lao dịch vụ đấu giá hàng hoá",
         "text": "Trường hợp đấu giá không thành thì người bán hàng phải trả mức thù lao bằng 50% của mức thù lao quy định tại khoản 1 Điều này."
+    },
+    {
+        "id": "Điều 212.0",
+        "article": "Điều 212",
+        "clause": "0",
+        "title": "Chi phí liên quan đến đấu giá hàng hoá",
+        "text": "Trừ trường hợp có thoả thuận khác giữa người bán hàng và người tổ chức đấu giá, chi phí liên quan đến đấu giá hàng hóa được xác định như sau:"
     },
     {
         "id": "Điều 212.1",
@@ -4179,6 +4907,13 @@
         "text": "Trong trường hợp đấu thầu theo phương thức đấu thầu hai túi hồ sơ thì bên dự thầu nộp hồ sơ dự thầu gồm đề xuất về kỹ thuật, đề xuất về tài chính trong từng túi hồ sơ riêng biệt được nộp trong cùng một thời điểm và việc mở thầu được tiến hành hai lần. Hồ sơ đề xuất về kỹ thuật sẽ được mở trước."
     },
     {
+        "id": "Điều 217.0",
+        "article": "Điều 217",
+        "clause": "0",
+        "title": "Sơ tuyển các bên dự thầu",
+        "text": "Bên mời thầu có thể tổ chức sơ tuyển các bên dự thầu nhằm lựa chọn những bên dự thầu có khả năng đáp ứng các điều kiện mà bên mời thầu đưa ra."
+    },
+    {
         "id": "Điều 218.1",
         "article": "Điều 218",
         "clause": "1",
@@ -4268,6 +5003,20 @@
         "clause": "2",
         "title": "Thông báo mời thầu",
         "text": "Bên mời thầu có trách nhiệm thông báo rộng rãi trên các phương tiện thông tin đại chúng đối với trường hợp đấu thầu rộng rãi hoặc gửi thông báo mời đăng ký dự thầu đến các nhà thầu đủ điều kiện trong trường hợp đấu thầu hạn chế."
+    },
+    {
+        "id": "Điều 220.0",
+        "article": "Điều 220",
+        "clause": "0",
+        "title": "Chỉ dẫn cho bên dự thầu",
+        "text": "Bên mời thầu có trách nhiệm chỉ dẫn cho bên dự thầu về các điều kiện dự thầu, các thủ tục được áp dụng trong quá trình đấu thầu và giải đáp các câu hỏi của bên dự thầu."
+    },
+    {
+        "id": "Điều 221.0",
+        "article": "Điều 221",
+        "clause": "0",
+        "title": "Quản lý hồ sơ dự thầu",
+        "text": "Bên mời thầu có trách nhiệm quản lý hồ sơ dự thầu."
     },
     {
         "id": "Điều 222.1",
@@ -4515,6 +5264,13 @@
         "text": "Sau khi nộp tiền đặt cọc, ký quỹ bảo đảm thực hiện hợp đồng, bên trúng thầu được hoàn trả tiền đặt cọc, ký quỹ dự thầu."
     },
     {
+        "id": "Điều 232.0",
+        "article": "Điều 232",
+        "clause": "0",
+        "title": "Đấu thầu lại",
+        "text": "Việc đấu thầu lại được tổ chức khi có một trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 232.1",
         "article": "Điều 232",
         "clause": "1",
@@ -4527,6 +5283,13 @@
         "clause": "2",
         "title": "Đấu thầu lại",
         "text": "Các bên dự thầu đều không đạt yêu cầu đấu thầu. MỤC 4. DỊCH VỤ LOGISTICS"
+    },
+    {
+        "id": "Điều 233.0",
+        "article": "Điều 233",
+        "clause": "0",
+        "title": "Dịch vụ logistics",
+        "text": "Dịch vụ logistics là hoạt động thương mại, theo đó thương nhân tổ chức thực hiện một hoặc nhiều công việc bao gồm nhận hàng, vận chuyển, lưu kho, lưu bãi, làm thủ tục hải quan, các thủ tục giấy tờ khác, tư vấn khách hàng, đóng gói bao bì, ghi ký mã hiệu, giao hàng hoặc các dịch vụ khác có liên quan đến hàng hoá theo thoả thuận với khách hàng để hưởng thù lao. Dịch vụ logistics được phiên âm theo tiếng Việt là dịch vụ lô-gi-stíc."
     },
     {
         "id": "Điều 234.1",
@@ -4583,6 +5346,13 @@
         "clause": "2",
         "title": "Quyền và nghĩa vụ của thương nhân kinh doanh dịch vụ logistics",
         "text": "Khi thực hiện việc vận chuyển hàng hóa, thương nhân kinh doanh dịch vụ logistics phải tuân thủ các quy định của pháp luật và tập quán vận tải."
+    },
+    {
+        "id": "Điều 236.0",
+        "article": "Điều 236",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của khách hàng",
+        "text": "Trừ trường hợp có thỏa thuận khác, khách hàng có các quyền và nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 236.1",
@@ -4739,6 +5509,13 @@
         "text": "Thương nhân kinh doanh dịch vụ logistics được sử dụng số tiền thu được từ việc định đoạt hàng hoá để thanh toán các khoản mà khách hàng nợ mình và các chi phí có liên quan; nếu số tiền thu được từ việc định đoạt vượt quá giá trị các khoản nợ thì số tiền vượt quá phải được trả lại cho khách hàng. Kể từ thời điểm đó, thương nhân kinh doanh dịch vụ logistics không phải chịu trách nhiệm đối với hàng hoá hoặc chứng từ đã được định đoạt."
     },
     {
+        "id": "Điều 240.0",
+        "article": "Điều 240",
+        "clause": "0",
+        "title": "Nghĩa vụ của thương nhân kinh doanh dịch vụ logistics khi cầm giữ hàng hoá",
+        "text": "Khi chưa thực hiện quyền định đoạt hàng hoá theo quy định tại Điều 239 của Luật này, thương nhân kinh doanh dịch vụ logistics thực hiện quyền cầm giữ hàng hoá có các nghĩa vụ sau đây:"
+    },
+    {
         "id": "Điều 240.1",
         "article": "Điều 240",
         "clause": "1",
@@ -4765,6 +5542,13 @@
         "clause": "4",
         "title": "Nghĩa vụ của thương nhân kinh doanh dịch vụ logistics khi cầm giữ hàng hoá",
         "text": "Bồi thường thiệt hại cho bên có hàng hoá bị cầm giữ nếu làm mất mát hoặc hư hỏng hàng hoá cầm giữ. MỤC 5. QUÁ CẢNH HÀNG HÓA QUA LÃNH THỔ VIỆT NAM VÀ DỊCH VỤ QUÁ CẢNH HÀNG HÓA"
+    },
+    {
+        "id": "Điều 241.0",
+        "article": "Điều 241",
+        "clause": "0",
+        "title": "Quá cảnh hàng hóa",
+        "text": "Quá cảnh hàng hóa là việc vận chuyển hàng hóa thuộc sở hữu của tổ chức, cá nhân nước ngoài qua lãnh thổ Việt Nam, kể cả việc trung chuyển, chuyển tải, lưu kho, chia tách lô hàng, thay đổi phương thức vận tải hoặc các công việc khác được thực hiện trong thời gian quá cảnh."
     },
     {
         "id": "Điều 242.1",
@@ -4830,6 +5614,20 @@
         "text": "Trong thời gian quá cảnh, việc thay đổi tuyến đường được vận chuyển hàng hoá quá cảnh phải được sự đồng ý của Bộ trưởng Bộ Giao thông vận tải."
     },
     {
+        "id": "Điều 244.0",
+        "article": "Điều 244",
+        "clause": "0",
+        "title": "Quá cảnh bằng đường hàng không",
+        "text": "Quá cảnh bằng đường hàng không được thực hiện theo quy định của điều ước quốc tế về hàng không mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+    },
+    {
+        "id": "Điều 245.0",
+        "article": "Điều 245",
+        "clause": "0",
+        "title": "Giám sát hàng hóa quá cảnh",
+        "text": "Hàng hóa quá cảnh lãnh thổ Việt Nam phải chịu sự giám sát của cơ quan Hải quan Việt Nam trong toàn bộ thời gian quá cảnh."
+    },
+    {
         "id": "Điều 246.1",
         "article": "Điều 246",
         "clause": "1",
@@ -4884,6 +5682,27 @@
         "clause": "2",
         "title": "Những hành vi bị cấm trong quá cảnh",
         "text": "Tiêu thụ trái phép hàng hóa, phương tiện vận tải chở hàng quá cảnh."
+    },
+    {
+        "id": "Điều 249.0",
+        "article": "Điều 249",
+        "clause": "0",
+        "title": "Dịch vụ quá cảnh hàng hóa",
+        "text": "Dịch vụ quá cảnh hàng hóa là hoạt động thương mại, theo đó thương nhân thực hiện việc quá cảnh cho hàng hóa thuộc sở hữu của tổ chức, cá nhân nước ngoài qua lãnh thổ Việt Nam để hưởng thù lao."
+    },
+    {
+        "id": "Điều 250.0",
+        "article": "Điều 250",
+        "clause": "0",
+        "title": "Điều kiện kinh doanh dịch vụ quá cảnh",
+        "text": "Thương nhân kinh doanh dịch vụ quá cảnh phải là doanh nghiệp có đăng ký kinh doanh dịch vụ vận tải, kinh doanh dịch vụ logistics theo quy định tại Điều 234 của Luật này."
+    },
+    {
+        "id": "Điều 251.0",
+        "article": "Điều 251",
+        "clause": "0",
+        "title": "Hợp đồng dịch vụ quá cảnh",
+        "text": "Hợp đồng dịch vụ quá cảnh phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương."
     },
     {
         "id": "Điều 252.1",
@@ -5033,6 +5852,34 @@
         "text": "Có trách nhiệm hợp tác với cơ quan nhà nước có thẩm quyền của Việt Nam để xử lý những vấn đề có liên quan đến hàng hóa quá cảnh."
     },
     {
+        "id": "Điều 254.0",
+        "article": "Điều 254",
+        "clause": "0",
+        "title": "Dịch vụ giám định",
+        "text": "Dịch vụ giám định là hoạt động thương mại, theo đó một thương nhân thực hiện những công việc cần thiết để xác định tình trạng thực tế của hàng hoá, kết quả cung ứng dịch vụ và những nội dung khác theo yêu cầu của khách hàng."
+    },
+    {
+        "id": "Điều 255.0",
+        "article": "Điều 255",
+        "clause": "0",
+        "title": "Nội dung giám định",
+        "text": "Giám định bao gồm một hoặc một số nội dung về số lượng, chất lượng, bao bì, giá trị hàng hoá, xuất xứ hàng hoá, tổn thất, độ an toàn, tiêu chuẩn vệ sinh, phòng dịch, kết quả thực hiện dịch vụ, phương pháp cung ứng dịch vụ và các nội dung khác theo yêu cầu của khách hàng."
+    },
+    {
+        "id": "Điều 256.0",
+        "article": "Điều 256",
+        "clause": "0",
+        "title": "Thương nhân kinh doanh dịch vụ giám định thương mại",
+        "text": "Chỉ các thương nhân có đủ điều kiện theo quy định của pháp luật và được cấp giấy chứng nhận đăng ký kinh doanh dịch vụ giám định thương mại mới được phép thực hiện dịch vụ giám định và cấp chứng thư giám định."
+    },
+    {
+        "id": "Điều 257.0",
+        "article": "Điều 257",
+        "clause": "0",
+        "title": "Điều kiện kinh doanh dịch vụ giám định thương mại",
+        "text": "Thương nhân kinh doanh dịch vụ giám định thương mại phải có đủ các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 257.1",
         "article": "Điều 257",
         "clause": "1",
@@ -5052,6 +5899,13 @@
         "clause": "3",
         "title": "Điều kiện kinh doanh dịch vụ giám định thương mại",
         "text": "Có khả năng thực hiện quy trình, phương pháp giám định hàng hoá, dịch vụ theo quy định của pháp luật, tiêu chuẩn quốc tế hoặc đã được các nước áp dụng một cách phổ biến trong giám định hàng hoá, dịch vụ đó."
+    },
+    {
+        "id": "Điều 258.0",
+        "article": "Điều 258",
+        "clause": "0",
+        "title": "Phạm vi kinh doanh dịch vụ giám định thương mại",
+        "text": "Thương nhân kinh doanh dịch vụ giám định thương mại chỉ được cung cấp dịch vụ giám định trong các lĩnh vực giám định khi có đủ các điều kiện quy định tại khoản 2 và khoản 3 Điều 257 của Luật này."
     },
     {
         "id": "Điều 259.1",
@@ -5115,6 +5969,13 @@
         "clause": "4",
         "title": "Chứng thư giám định",
         "text": "Thương nhân kinh doanh dịch vụ giám định chịu trách nhiệm về tính chính xác của kết quả và kết luận trong Chứng thư giám định."
+    },
+    {
+        "id": "Điều 261.0",
+        "article": "Điều 261",
+        "clause": "0",
+        "title": "Giá trị pháp lý của chứng thư giám định đối với bên yêu cầu giám định",
+        "text": "Chứng thư giám định có giá trị pháp lý đối với bên yêu cầu giám định nếu bên yêu cầu giám định không chứng minh được kết quả giám định không khách quan, không trung thực hoặc sai về kỹ thuật, nghiệp vụ giám định."
     },
     {
         "id": "Điều 262.1",
@@ -5208,6 +6069,13 @@
         "text": "Trả tiền phạt vi phạm, bồi thường thiệt hại theo quy định tại Điều 266 của Luật này."
     },
     {
+        "id": "Điều 264.0",
+        "article": "Điều 264",
+        "clause": "0",
+        "title": "Quyền của khách hàng",
+        "text": "Trừ trường hợp có thoả thuận khác, khách hàng có các quyền sau đây:"
+    },
+    {
         "id": "Điều 264.1",
         "article": "Điều 264",
         "clause": "1",
@@ -5227,6 +6095,13 @@
         "clause": "3",
         "title": "Quyền của khách hàng",
         "text": "Yêu cầu trả tiền phạt vi phạm, bồi thường thiệt hại theo quy định tại Điều 266 của Luật này."
+    },
+    {
+        "id": "Điều 265.0",
+        "article": "Điều 265",
+        "clause": "0",
+        "title": "Nghĩa vụ của khách hàng",
+        "text": "Trừ trường hợp có thoả thuận khác, khách hàng có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 265.1",
@@ -5264,6 +6139,13 @@
         "text": "Khách hàng có nghĩa vụ chứng minh kết quả giám định sai và lỗi của thương nhân kinh doanh dịch vụ giám định."
     },
     {
+        "id": "Điều 267.0",
+        "article": "Điều 267",
+        "clause": "0",
+        "title": "Uỷ quyền giám định",
+        "text": "Trường hợp thương nhân kinh doanh dịch vụ giám định nước ngoài được thuê thực hiện giám định mà chưa được phép hoạt động tại Việt Nam thì thương nhân đó được ủy quyền cho thương nhân kinh doanh dịch vụ giám định đã được phép hoạt động tại Việt Nam thực hiện dịch vụ giám định nhưng vẫn phải chịu trách nhiệm về kết quả giám định."
+    },
+    {
         "id": "Điều 268.1",
         "article": "Điều 268",
         "clause": "1",
@@ -5276,6 +6158,20 @@
         "clause": "2",
         "title": "Giám định theo yêu cầu của cơ quan nhà nước",
         "text": "Cơ quan nhà nước yêu cầu giám định có trách nhiệm trả thù lao giám định cho thương nhân kinh doanh dịch vụ giám định theo thỏa thuận giữa hai bên trên cơ sở giá thị trường. MỤC 7. CHO THUÊ HÀNG HÓA"
+    },
+    {
+        "id": "Điều 269.0",
+        "article": "Điều 269",
+        "clause": "0",
+        "title": "Cho thuê hàng hoá",
+        "text": "Cho thuê hàng hoá là hoạt động thương mại, theo đó một bên chuyển quyền chiếm hữu và sử dụng hàng hoá (gọi là bên cho thuê) cho bên khác (gọi là bên thuê) trong một thời hạn nhất định để nhận tiền cho thuê."
+    },
+    {
+        "id": "Điều 270.0",
+        "article": "Điều 270",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của bên cho thuê",
+        "text": "Trừ trường hợp có thoả thuận khác, bên cho thuê có các quyền và nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 270.1",
@@ -5318,6 +6214,13 @@
         "clause": "6",
         "title": "Quyền và nghĩa vụ của bên cho thuê",
         "text": "Nhận lại hàng hoá cho thuê khi kết thúc thời hạn cho thuê."
+    },
+    {
+        "id": "Điều 271.0",
+        "article": "Điều 271",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của bên thuê",
+        "text": "Trừ trường hợp có thoả thuận khác, bên thuê có các quyền và nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 271.1",
@@ -5383,6 +6286,13 @@
         "text": "Trong trường hợp quy định tại khoản 1 Điều này, bên cho thuê có trách nhiệm sửa chữa hàng hoá cho thuê trong thời hạn hợp lý để bảo đảm mục đích sử dụng của bên thuê."
     },
     {
+        "id": "Điều 274.0",
+        "article": "Điều 274",
+        "clause": "0",
+        "title": "Chuyển rủi ro đối với hàng hóa cho thuê",
+        "text": "Trường hợp các bên có thỏa thuận về việc chuyển rủi ro cho bên thuê nhưng không xác định thời điểm chuyển rủi ro thì thời điểm chuyển rủi ro được xác định như sau:"
+    },
+    {
         "id": "Điều 274.1",
         "article": "Điều 274",
         "clause": "1",
@@ -5416,6 +6326,13 @@
         "clause": "3",
         "title": "Chuyển rủi ro đối với hàng hóa cho thuê",
         "text": "Trong các trường hợp khác không được quy định tại khoản 1 và khoản 2 Điều này thì rủi ro được chuyển cho bên thuê khi bên thuê nhận hàng hoá cho thuê."
+    },
+    {
+        "id": "Điều 275.0",
+        "article": "Điều 275",
+        "clause": "0",
+        "title": "Hàng hoá cho thuê không phù hợp với hợp đồng",
+        "text": "Trường hợp không có thỏa thuận cụ thể, hàng hoá được coi là không phù hợp với hợp đồng khi hàng hoá đó thuộc một trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 275.1",
@@ -5544,6 +6461,13 @@
         "text": "Việc rút lại chấp nhận phải được thực hiện trong khoảng thời gian hợp lý, nhưng không quá ba tháng, kể từ thời điểm bên thuê chấp nhận hàng hoá."
     },
     {
+        "id": "Điều 280.0",
+        "article": "Điều 280",
+        "clause": "0",
+        "title": "Trách nhiệm đối với khiếm khuyết của hàng hoá cho thuê",
+        "text": "Trừ trường hợp có thoả thuận khác, trách nhiệm đối với khiếm khuyết của hàng hoá cho thuê được quy định như sau:"
+    },
+    {
         "id": "Điều 280.1",
         "article": "Điều 280",
         "clause": "1",
@@ -5586,6 +6510,27 @@
         "text": "Trong trường hợp bên thuê cho thuê lại hàng hóa cho thuê mà không có sự chấp thuận của bên cho thuê thì bên cho thuê có quyền hủy hợp đồng cho thuê. Người thuê lại phải có trách nhiệm trả lại ngay hàng hóa cho bên cho thuê."
     },
     {
+        "id": "Điều 282.0",
+        "article": "Điều 282",
+        "clause": "0",
+        "title": "Lợi ích phát sinh trong thời hạn thuê",
+        "text": "Trừ trường hợp có thỏa thuận khác, mọi lợi ích phát sinh từ hàng hóa cho thuê trong thời hạn thuê thuộc về bên thuê."
+    },
+    {
+        "id": "Điều 283.0",
+        "article": "Điều 283",
+        "clause": "0",
+        "title": "Thay đổi quyền sở hữu trong thời hạn thuê",
+        "text": "Mọi thay đổi về quyền sở hữu đối với hàng hóa cho thuê không ảnh hưởng đến hiệu lực của hợp đồng cho thuê. MỤC 8. NHƯỢNG QUYỀN THƯƠNG MẠI"
+    },
+    {
+        "id": "Điều 284.0",
+        "article": "Điều 284",
+        "clause": "0",
+        "title": "Nhượng quyền thương mại",
+        "text": "Nhượng quyền thương mại là hoạt động thương mại, theo đó bên nhượng quyền cho phép và yêu cầu bên nhận quyền tự mình tiến hành việc mua bán hàng hoá, cung ứng dịch vụ theo các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 284.1",
         "article": "Điều 284",
         "clause": "1",
@@ -5598,6 +6543,20 @@
         "clause": "2",
         "title": "Nhượng quyền thương mại",
         "text": "Bên nhượng quyền có quyền kiểm soát và trợ giúp cho bên nhận quyền trong việc điều hành công việc kinh doanh."
+    },
+    {
+        "id": "Điều 285.0",
+        "article": "Điều 285",
+        "clause": "0",
+        "title": "Hợp đồng nhượng quyền thương mại",
+        "text": "Hợp đồng nhượng quyền thương mại phải được lập thành văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương."
+    },
+    {
+        "id": "Điều 286.0",
+        "article": "Điều 286",
+        "clause": "0",
+        "title": "Quyền của thương nhân nhượng quyền",
+        "text": "Trừ trường hợp có thỏa thuận khác, thương nhân nhượng quyền có các quyền sau đây:"
     },
     {
         "id": "Điều 286.1",
@@ -5619,6 +6578,13 @@
         "clause": "3",
         "title": "Quyền của thương nhân nhượng quyền",
         "text": "Kiểm tra định kỳ hoặc đột xuất hoạt động của bên nhận quyền nhằm bảo đảm sự thống nhất của hệ thống nhượng quyền thương mại và sự ổn định về chất lượng hàng hoá, dịch vụ."
+    },
+    {
+        "id": "Điều 287.0",
+        "article": "Điều 287",
+        "clause": "0",
+        "title": "Nghĩa vụ của thương nhân nhượng quyền",
+        "text": "Trừ trường hợp có thỏa thuận khác, thương nhân nhượng quyền có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 287.1",
@@ -5656,6 +6622,13 @@
         "text": "Đối xử bình đẳng với các thương nhân nhận quyền trong hệ thống nhượng quyền thương mại."
     },
     {
+        "id": "Điều 288.0",
+        "article": "Điều 288",
+        "clause": "0",
+        "title": "Quyền của thương nhân nhận quyền",
+        "text": "Trừ trường hợp có thỏa thuận khác, thương nhân nhận quyền có các quyền sau đây:"
+    },
+    {
         "id": "Điều 288.1",
         "article": "Điều 288",
         "clause": "1",
@@ -5668,6 +6641,13 @@
         "clause": "2",
         "title": "Quyền của thương nhân nhận quyền",
         "text": "Yêu cầu thương nhân nhượng quyền đối xử bình đẳng với các thương nhân nhận quyền khác trong hệ thống nhượng quyền thương mại."
+    },
+    {
+        "id": "Điều 289.0",
+        "article": "Điều 289",
+        "clause": "0",
+        "title": "Nghĩa vụ của thương nhân nhận quyền",
+        "text": "Trừ trường hợp có thỏa thuận khác, thương nhân nhận quyền có các nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 289.1",
@@ -5794,6 +6774,13 @@
         "clause": "7",
         "title": "Các loại chế tài trong thương mại",
         "text": "Các biện pháp khác do các bên thoả thuận không trái với nguyên tắc cơ bản của pháp luật Việt Nam, điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên và tập quán thương mại quốc tế."
+    },
+    {
+        "id": "Điều 293.0",
+        "article": "Điều 293",
+        "clause": "0",
+        "title": "Áp dụng chế tài trong thương mại đối với vi phạm không cơ bản",
+        "text": "Trừ trường hợp có thoả thuận khác, bên bị vi phạm không được áp dụng chế tài tạm ngừng thực hiện hợp đồng, đình chỉ thực hiện hợp đồng hoặc huỷ bỏ hợp đồng đối với vi phạm không cơ bản."
     },
     {
         "id": "Điều 294.1",
@@ -5936,6 +6923,13 @@
         "text": "Trường hợp bên vi phạm là bên mua thì bên bán có quyền yêu cầu bên mua trả tiền, nhận hàng hoặc thực hiện các nghĩa vụ khác của bên mua được quy định trong hợp đồng và trong Luật này."
     },
     {
+        "id": "Điều 298.0",
+        "article": "Điều 298",
+        "clause": "0",
+        "title": "Gia hạn thực hiện nghĩa vụ",
+        "text": "Trường hợp buộc thực hiện đúng hợp đồng, bên bị vi phạm có thể gia hạn một thời gian hợp lý để bên vi phạm thực hiện nghĩa vụ hợp đồng."
+    },
+    {
         "id": "Điều 299.1",
         "article": "Điều 299",
         "clause": "1",
@@ -5950,6 +6944,20 @@
         "text": "Trường hợp bên vi phạm không thực hiện chế tài buộc thực hiện đúng hợp đồng trong thời hạn mà bên bị vi phạm ấn định, bên bị vi phạm được áp dụng các chế tài khác để bảo vệ quyền lợi chính đáng của mình."
     },
     {
+        "id": "Điều 300.0",
+        "article": "Điều 300",
+        "clause": "0",
+        "title": "Phạt vi phạm",
+        "text": "Phạt vi phạm là việc bên bị vi phạm yêu cầu bên vi phạm trả một khoản tiền phạt do vi phạm hợp đồng nếu trong hợp đồng có thoả thuận, trừ các trường hợp miễn trách nhiệm quy định tại Điều 294 của Luật này."
+    },
+    {
+        "id": "Điều 301.0",
+        "article": "Điều 301",
+        "clause": "0",
+        "title": "Mức phạt vi phạm",
+        "text": "Mức phạt đối với vi phạm nghĩa vụ hợp đồng hoặc tổng mức phạt đối với nhiều vi phạm do các bên thoả thuận trong hợp đồng, nhưng không quá 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm, trừ trường hợp quy định tại Điều 266 của Luật này."
+    },
+    {
         "id": "Điều 302.1",
         "article": "Điều 302",
         "clause": "1",
@@ -5962,6 +6970,13 @@
         "clause": "2",
         "title": "Bồi thường thiệt hại",
         "text": "Giá trị bồi thường thiệt hại bao gồm giá trị tổn thất thực tế, trực tiếp mà bên bị vi phạm phải chịu do bên vi phạm gây ra và khoản lợi trực tiếp mà bên bị vi phạm đáng lẽ được hưởng nếu không có hành vi vi phạm."
+    },
+    {
+        "id": "Điều 303.0",
+        "article": "Điều 303",
+        "clause": "0",
+        "title": "Căn cứ phát sinh trách nhiệm bồi thường thiệt hại",
+        "text": "Trừ các trường hợp miễn trách nhiệm quy định tại Điều 294 của Luật này, trách nhiệm bồi thường thiệt hại phát sinh khi có đủ các yếu tố sau đây:"
     },
     {
         "id": "Điều 303.1",
@@ -5985,6 +7000,27 @@
         "text": "Hành vi vi phạm hợp đồng là nguyên nhân trực tiếp gây ra thiệt hại."
     },
     {
+        "id": "Điều 304.0",
+        "article": "Điều 304",
+        "clause": "0",
+        "title": "Nghĩa vụ chứng minh tổn thất",
+        "text": "Bên yêu cầu bồi thường thiệt hại phải chứng minh tổn thất, mức độ tổn thất do hành vi vi phạm gây ra và khoản lợi trực tiếp mà bên bị vi phạm đáng lẽ được hưởng nếu không có hành vi vi phạm."
+    },
+    {
+        "id": "Điều 305.0",
+        "article": "Điều 305",
+        "clause": "0",
+        "title": "Nghĩa vụ hạn chế tổn thất",
+        "text": "Bên yêu cầu bồi thường thiệt hại phải áp dụng các biện pháp hợp lý để hạn chế tổn thất kể cả tổn thất đối với khoản lợi trực tiếp đáng lẽ được hưởng do hành vi vi phạm hợp đồng gây ra; nếu bên yêu cầu bồi thường thiệt hại không áp dụng các biện pháp đó, bên vi phạm hợp đồng có quyền yêu cầu giảm bớt giá trị bồi thường thiệt hại bằng mức tổn thất đáng lẽ có thể hạn chế được."
+    },
+    {
+        "id": "Điều 306.0",
+        "article": "Điều 306",
+        "clause": "0",
+        "title": "Quyền yêu cầu tiền lãi do chậm thanh toán",
+        "text": "Trường hợp bên vi phạm hợp đồng chậm thanh toán tiền hàng hay chậm thanh toán thù lao dịch vụ và các chi phí hợp lý khác thì bên bị vi phạm hợp đồng có quyền yêu cầu trả tiền lãi trên số tiền chậm trả đó theo lãi suất nợ quá hạn trung bình trên thị trường tại thời điểm thanh toán tương ứng với thời gian chậm trả, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác."
+    },
+    {
         "id": "Điều 307.1",
         "article": "Điều 307",
         "clause": "1",
@@ -5997,6 +7033,13 @@
         "clause": "2",
         "title": "Quan hệ giữa chế tài phạt vi phạm và chế tài bồi thường thiệt hại",
         "text": "Trường hợp các bên có thỏa thuận phạt vi phạm thì bên bị vi phạm có quyền áp dụng cả chế tài phạt vi phạm và buộc bồi thường thiệt hại, trừ trường hợp Luật này có quy định khác."
+    },
+    {
+        "id": "Điều 308.0",
+        "article": "Điều 308",
+        "clause": "0",
+        "title": "Tạm ngừng thực hiện hợp đồng",
+        "text": "Trừ các trường hợp miễn trách nhiệm quy định tại Điều 294 của Luật này, tạm ngừng thực hiện hợp đồng là việc một bên tạm thời không thực hiện nghĩa vụ trong hợp đồng thuộc một trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 308.1",
@@ -6025,6 +7068,13 @@
         "clause": "2",
         "title": "Hậu quả pháp lý của việc tạm ngừng thực hiện hợp đồng",
         "text": "Bên bị vi phạm có quyền yêu cầu bồi thường thiệt hại theo quy định của Luật này."
+    },
+    {
+        "id": "Điều 310.0",
+        "article": "Điều 310",
+        "clause": "0",
+        "title": "Đình chỉ thực hiện hợp đồng",
+        "text": "Trừ các trường hợp miễn trách nhiệm quy định tại Điều 294 của Luật này, đình chỉ thực hiện hợp đồng là việc một bên chấm dứt thực hiện nghĩa vụ hợp đồng thuộc một trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 310.1",
@@ -6139,6 +7189,20 @@
         "text": "Bên bị vi phạm có quyền yêu cầu bồi thường thiệt hại theo quy định của Luật này."
     },
     {
+        "id": "Điều 315.0",
+        "article": "Điều 315",
+        "clause": "0",
+        "title": "Thông báo tạm ngừng thực hiện hợp đồng, đình chỉ thực hiện hợp đồng hoặc huỷ bỏ hợp đồng",
+        "text": "Bên tạm ngừng thực hiện hợp đồng, đình chỉ thực hiện hợp đồng hoặc huỷ bỏ hợp đồng phải thông báo ngay cho bên kia biết về việc tạm ngừng, đình chỉ hoặc huỷ bỏ hợp đồng. Trong trường hợp không thông báo ngay mà gây thiệt hại cho bên kia thì bên tạm ngừng thực hiện hợp đồng, đình chỉ thực hiện hợp đồng hoặc huỷ bỏ hợp đồng phải bồi thường thiệt hại."
+    },
+    {
+        "id": "Điều 316.0",
+        "article": "Điều 316",
+        "clause": "0",
+        "title": "Quyền yêu cầu bồi thường thiệt hại khi đã áp dụng các chế tài khác",
+        "text": "Một bên không bị mất quyền yêu cầu bồi thường thiệt hại đối với tổn thất do vi phạm hợp đồng của bên kia khi đã áp dụng các chế tài khác. MỤC 2. GIẢI QUYẾT TRANH CHẤP TRONG THƯƠNG MẠI"
+    },
+    {
         "id": "Điều 317.1",
         "article": "Điều 317",
         "clause": "1",
@@ -6160,6 +7224,13 @@
         "text": "Giải quyết tại Trọng tài hoặc Toà án. Thủ tục giải quyết tranh chấp trong thương mại tại Trọng tài, Toà án được tiến hành theo các thủ tục tố tụng của Trọng tài, Toà án do pháp luật quy định."
     },
     {
+        "id": "Điều 318.0",
+        "article": "Điều 318",
+        "clause": "0",
+        "title": "Thời hạn khiếu nại",
+        "text": "Trừ trường hợp quy định tại điểm đ khoản 1 Điều 237 của Luật này, thời hạn khiếu nại do các bên thỏa thuận, nếu các bên không có thoả thuận thì thời hạn khiếu nại được quy định như sau:"
+    },
+    {
         "id": "Điều 318.1",
         "article": "Điều 318",
         "clause": "1",
@@ -6179,6 +7250,13 @@
         "clause": "3",
         "title": "Thời hạn khiếu nại",
         "text": "Chín tháng, kể từ ngày bên vi phạm phải hoàn thành nghĩa vụ theo hợp đồng hoặc trong trường hợp có bảo hành thì kể từ ngày hết thời hạn bảo hành đối với khiếu nại về các vi phạm khác."
+    },
+    {
+        "id": "Điều 319.0",
+        "article": "Điều 319",
+        "clause": "0",
+        "title": "Thời hiệu khởi kiện",
+        "text": "Thời hiệu khởi kiện áp dụng đối với các tranh chấp thương mại là hai năm, kể từ thời điểm quyền và lợi ích hợp pháp bị xâm phạm, trừ trường hợp quy định tại điểm e khoản 1 Điều 237 của Luật này. Chương VIII XỬ LÝ VI PHẠM PHÁP LUẬT VỀ THƯƠNG MẠI"
     },
     {
         "id": "Điều 320.1",
@@ -6305,5 +7383,26 @@
         "clause": "2",
         "title": "Hình thức xử lý vi phạm pháp luật về thương mại",
         "text": "Trường hợp hành vi vi phạm gây thiệt hại đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân thì phải bồi thường thiệt hại theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 322.0",
+        "article": "Điều 322",
+        "clause": "0",
+        "title": "Xử phạt vi phạm hành chính trong hoạt động thương mại",
+        "text": "Chính phủ quy định cụ thể về xử phạt vi phạm hành chính trong hoạt động thương mại. Chương IX ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 323.0",
+        "article": "Điều 323",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2006. Luật này thay thế Luật thương mại ngày 10 tháng 5 năm 1997."
+    },
+    {
+        "id": "Điều 324.0",
+        "article": "Điều 324",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XI, kỳ họp thứ 7 thông qua ngày 14 tháng 6 năm 2005. CHỦ TỊCH QUỐC HỘI Nguyễn Văn An"
     }
 ]

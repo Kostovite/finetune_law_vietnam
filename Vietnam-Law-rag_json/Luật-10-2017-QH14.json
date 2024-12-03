@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định trách nhiệm bồi thường của Nhà nước đối với cá nhân, tổ chức bị thiệt hại do người thi hành công vụ gây ra trong hoạt động quản lý hành chính, tố tụng và thi hành án; thiệt hại được bồi thường; quyền, nghĩa vụ của cá nhân, tổ chức bị thiệt hại; cơ quan giải quyết bồi thường; thủ tục giải quyết yêu cầu bồi thường; phục hồi danh dự; kinh phí bồi thường; trách nhiệm hoàn trả; trách nhiệm của các cơ quan nhà nước trong công tác bồi thường nhà nước."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng được bồi thường",
+        "text": "Cá nhân, tổ chức bị thiệt hại về vật chất, thiệt hại về tinh thần do người thi hành công vụ gây ra thuộc phạm vi trách nhiệm bồi thường của Nhà nước được quy định tại Luật này."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -89,6 +110,13 @@
         "clause": "5",
         "title": "Nguyên tắc bồi thường của Nhà nước",
         "text": "Trường hợp người bị thiệt hại có một phần lỗi trong việc gây ra thiệt hại thì Nhà nước chỉ bồi thường phần thiệt hại sau khi trừ đi phần thiệt hại tương ứng với phần lỗi của người bị thiệt hại."
+    },
+    {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Quyền yêu cầu bồi thường",
+        "text": "Những người sau đây có quyền yêu cầu Nhà nước bồi thường:"
     },
     {
         "id": "Điều 5.1",
@@ -217,6 +245,13 @@
         "text": "Tòa án có thẩm quyền giải quyết vụ án hình sự đã xác định có hành vi trái pháp luật của bị cáo là người thi hành công vụ gây thiệt hại thuộc phạm vi trách nhiệm bồi thường của Nhà nước trong hoạt động quản lý hành chính, tố tụng dân sự, tố tụng hành chính, thi hành án hình sự, thi hành án dân sự và có yêu cầu bồi thường trong quá trình giải quyết vụ án hình sự."
     },
     {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động quản lý hành chính",
+        "text": "Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động quản lý hành chính quy định tại Điều 17 của Luật này bao gồm:"
+    },
+    {
         "id": "Điều 8.1",
         "article": "Điều 8",
         "clause": "1",
@@ -266,6 +301,13 @@
         "text": "Văn bản khác theo quy định của pháp luật đáp ứng điều kiện quy định tại khoản 5 Điều 3 của Luật này."
     },
     {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động tố tụng hình sự",
+        "text": "Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động tố tụng hình sự quy định tại Điều 18 của Luật này bao gồm:"
+    },
+    {
         "id": "Điều 9.1",
         "article": "Điều 9",
         "clause": "1",
@@ -285,6 +327,13 @@
         "clause": "3",
         "title": "Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động tố tụng hình sự",
         "text": "Văn bản khác theo quy định của pháp luật về tố tụng hình sự đáp ứng điều kiện quy định tại khoản 5 Điều 3 của Luật này."
+    },
+    {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động tố tụng dân sự, tố tụng hành chính",
+        "text": "Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động tố tụng dân sự, tố tụng hành chính quy định tại Điều 19 của Luật này bao gồm:"
     },
     {
         "id": "Điều 10.1",
@@ -329,6 +378,13 @@
         "text": "Văn bản khác theo quy định của pháp luật đáp ứng điều kiện quy định tại khoản 5 Điều 3 của Luật này."
     },
     {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động thi hành án hình sự",
+        "text": "Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động thi hành án hình sự quy định tại Điều 20 của Luật này bao gồm:"
+    },
+    {
         "id": "Điều 11.1",
         "article": "Điều 11",
         "clause": "1",
@@ -362,6 +418,13 @@
         "clause": "5",
         "title": "Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động thi hành án hình sự",
         "text": "Văn bản khác theo quy định của pháp luật đáp ứng điều kiện quy định tại khoản 5 Điều 3 của Luật này."
+    },
+    {
+        "id": "Điều 12.0",
+        "article": "Điều 12",
+        "clause": "0",
+        "title": "Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động thi hành án dân sự",
+        "text": "Văn bản làm căn cứ yêu cầu bồi thường trong hoạt động thi hành án dân sự quy định tại Điều 21 của Luật này bao gồm:"
     },
     {
         "id": "Điều 12.1",
@@ -728,6 +791,13 @@
         "text": "Sách nhiễu, cản trở hoạt động giải quyết yêu cầu bồi thường. Chương II PHẠM VI TRÁCH NHIỆM BỒI THƯỜNG CỦA NHÀ NƯỚC"
     },
     {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Phạm vi trách nhiệm bồi thường của Nhà nước trong hoạt động quản lý hành chính",
+        "text": "Nhà nước có trách nhiệm bồi thường thiệt hại trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 17.1",
         "article": "Điều 17",
         "clause": "1",
@@ -896,6 +966,13 @@
         "text": "Ra quyết định xử lý kỷ luật buộc thôi việc trái pháp luật đối với công chức từ Tổng Cục trưởng và tương đương trở xuống."
     },
     {
+        "id": "Điều 18.0",
+        "article": "Điều 18",
+        "clause": "0",
+        "title": "Phạm vi trách nhiệm bồi thường của Nhà nước trong hoạt động tố tụng hình sự",
+        "text": "Nhà nước có trách nhiệm bồi thường thiệt hại trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 18.1",
         "article": "Điều 18",
         "clause": "1",
@@ -966,6 +1043,13 @@
         "text": "Cá nhân, tổ chức có tài sản bị thiệt hại do việc thu giữ, tạm giữ, kê biên, tịch thu, xử lý, có tài khoản bị phong tỏa hoặc cá nhân, tổ chức khác có liên quan đến các trường hợp quy định tại các khoản 1, 2, 3, 4, 5, 6, 7, 8 và 9 Điều này bị thiệt hại."
     },
     {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Phạm vi trách nhiệm bồi thường của Nhà nước trong hoạt động tố tụng dân sự, tố tụng hành chính",
+        "text": "Nhà nước có trách nhiệm bồi thường thiệt hại trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 19.1",
         "article": "Điều 19",
         "clause": "1",
@@ -1006,6 +1090,13 @@
         "clause": "6",
         "title": "Phạm vi trách nhiệm bồi thường của Nhà nước trong hoạt động tố tụng dân sự, tố tụng hành chính",
         "text": "Thêm, bớt, sửa đổi, đánh tráo, hủy hoặc làm hư hỏng tài liệu, chứng cứ hoặc bằng hành vi khác làm sai lệch nội dung vụ án, vụ việc dẫn đến việc ban hành bản án, quyết định trái pháp luật."
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Phạm vi trách nhiệm bồi thường của Nhà nước trong hoạt động thi hành án hình sự",
+        "text": "Nhà nước có trách nhiệm bồi thường thiệt hại trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 20.1",
@@ -1069,6 +1160,13 @@
         "clause": "3e",
         "title": "Phạm vi trách nhiệm bồi thường của Nhà nước trong hoạt động thi hành án hình sự",
         "text": "Đại xá của Quốc hội đối với người bị kết án được đại xá."
+    },
+    {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Phạm vi trách nhiệm bồi thường của Nhà nước trong hoạt động thi hành án dân sự",
+        "text": "Nhà nước có trách nhiệm bồi thường thiệt hại trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 21.1",
@@ -1715,6 +1813,13 @@
         "text": "Tòa án có thẩm quyền giải quyết vụ án theo quy định của pháp luật về tố tụng hình sự, tố tụng dân sự, tố tụng hành chính; Tòa án có thẩm quyền áp dụng biện pháp xử lý hành chính theo quy định của Luật Xử lý vi phạm hành chính."
     },
     {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra giải quyết bồi thường trong hoạt động tố tụng hình sự",
+        "text": "Cơ quan điều tra hoặc cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra là cơ quan giải quyết bồi thường trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 34.1",
         "article": "Điều 34",
         "clause": "1",
@@ -1734,6 +1839,13 @@
         "clause": "3",
         "title": "Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra giải quyết bồi thường trong hoạt động tố tụng hình sự",
         "text": "Viện kiểm sát quyết định trả hồ sơ vụ án để điều tra bổ sung, Cơ quan điều tra ra kết luận điều tra bổ sung hoặc kết luận điều tra mới đề nghị truy tố nhưng Viện kiểm sát ra quyết định đình chỉ vụ án đối với bị can vì không có sự việc phạm tội hoặc hành vi không cấu thành tội phạm."
+    },
+    {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Viện kiểm sát giải quyết bồi thường trong hoạt động tố tụng hình sự",
+        "text": "Viện kiểm sát là cơ quan giải quyết bồi thường trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 35.1",
@@ -3668,6 +3780,13 @@
         "text": "Trường hợp người thi hành công vụ gây thiệt hại đã nghỉ việc nhưng không hưởng lương hưu hoặc không làm việc tại cơ quan, tổ chức nào khác thì cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại tại thời điểm người đó gây ra thiệt hại có trách nhiệm tổ chức thực hiện quyết định hoàn trả theo quy định của pháp luật."
     },
     {
+        "id": "Điều 72.0",
+        "article": "Điều 72",
+        "clause": "0",
+        "title": "Trách nhiệm hoàn trả trong trường hợp người thi hành công vụ gây thiệt hại chết",
+        "text": "Trường hợp người thi hành công vụ gây thiệt hại chết thì quyết định hoàn trả chấm dứt hiệu lực tại thời điểm người đó chết. Chương VIII TRÁCH NHIỆM CỦA CÁC CƠ QUAN NHÀ NƯỚC TRONG CÔNG TÁC BỒI THƯỜNG NHÀ NƯỚC"
+    },
+    {
         "id": "Điều 73.1",
         "article": "Điều 73",
         "clause": "1",
@@ -3857,6 +3976,13 @@
         "text": "Sở Tư pháp giúp Ủy ban nhân dân cấp tỉnh thực hiện quản lý nhà nước về công tác bồi thường nhà nước tại địa phương."
     },
     {
+        "id": "Điều 74.0",
+        "article": "Điều 74",
+        "clause": "0",
+        "title": "Trách nhiệm của Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao",
+        "text": "Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong phạm vi chức năng, nhiệm vụ và quyền hạn của mình có trách nhiệm:"
+    },
+    {
         "id": "Điều 74.1",
         "article": "Điều 74",
         "clause": "1",
@@ -3911,6 +4037,13 @@
         "clause": "8",
         "title": "Trách nhiệm của Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao",
         "text": "Thực hiện nhiệm vụ, quyền hạn khác theo quy định của Luật này."
+    },
+    {
+        "id": "Điều 75.0",
+        "article": "Điều 75",
+        "clause": "0",
+        "title": "Trách nhiệm của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ",
+        "text": "Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ trong phạm vi chức năng, nhiệm vụ và quyền hạn của mình có trách nhiệm:"
     },
     {
         "id": "Điều 75.1",
@@ -4001,6 +4134,6 @@
         "article": "Điều 78",
         "clause": "2",
         "title": "Quy định chuyển tiếp",
-        "text": "Kể từ ngày Luật này có hiệu lực thi hành, các trường hợp được bồi thường theo quy định của Luật Trách nhiệm bồi thường của Nhà nước số 35/2009/QH12 mà còn thời hiệu theo quy định của Luật Trách nhiệm bồi thường của Nhà nước số 35/2009/QH12 nhưng chưa yêu cầu Nhà nước bồi thường hoặc đã yêu cầu nhưng chưa được thụ lý giải quyết thì áp dụng quy định của Luật này để giải quyết. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 20 tháng 6 năm 2017."
+        "text": "Kể từ ngày Luật này có hiệu lực thi hành, các trường hợp được bồi thường theo quy định của Luật Trách nhiệm bồi thường của Nhà nước số 35/2009/QH12 mà còn thời hiệu theo quy định của Luật Trách nhiệm bồi thường của Nhà nước số 35/2009/QH12 nhưng chưa yêu cầu Nhà nước bồi thường hoặc đã yêu cầu nhưng chưa được thụ lý giải quyết thì áp dụng quy định của Luật này để giải quyết. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 20 tháng 6 năm 2017. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

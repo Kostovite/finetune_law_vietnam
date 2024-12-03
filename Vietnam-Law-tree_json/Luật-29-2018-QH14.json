@@ -15,15 +15,26 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về bí mật nhà nước, hoạt động bảo vệ bí mật nhà nước và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
-                    "text": "Bí mật nhà nước là thông tin có nội dung quan trọng do người đứng đầu cơ quan, tổ chức có thẩm quyền xác định căn cứ vào quy định của Luật này, chưa công khai, nếu bị lộ, bị mất có thể gây nguy hại đến lợi ích quốc gia, dân tộc.",
+                    "text": "Bí mật nhà nước là thông tin có nội dung quan trọng do người đứng đầu cơ quan, tổ chức có thẩm quyền xác định căn cứ vào quy định của Luật này, chưa công khai, nếu bị lộ, bị mất có thể gây nguy hại đến lợi ích quốc gia, dân tộc. Hình thức chứa bí mật nhà nước bao gồm tài liệu, vật, địa điểm, lời nói, hoạt động hoặc các dạng khác.",
                     "sub_clauses": []
                 },
                 {
@@ -173,7 +184,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc quản lý, sử dụng kinh phí, cơ sở vật chất phục vụ bảo vệ bí mật nhà nước thực hiện theo quy định của pháp luật.",
+                    "text": "Việc quản lý, sử dụng kinh phí, cơ sở vật chất phục vụ bảo vệ bí mật nhà nước thực hiện theo quy định của pháp luật. Chương II PHẠM VI, PHÂN LOẠI, BAN HÀNH DANH MỤC BÍ MẬT NHÀ NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -182,6 +193,11 @@
             "id": "Điều 7",
             "title": "Phạm vi bí mật nhà nước",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Phạm vi bí mật nhà nước là giới hạn thông tin quan trọng trong các lĩnh vực sau đây chưa công khai, nếu bị lộ, bị mất có thể gây nguy hại đến lợi ích quốc gia, dân tộc:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Thông tin về chính trị:",
@@ -438,6 +454,11 @@
             "title": "Phân loại bí mật nhà nước",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Căn cứ vào tính chất quan trọng của nội dung thông tin, mức độ nguy hại nếu bị lộ, bị mất, bí mật nhà nước được phân loại thành 03 độ mật, bao gồm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Bí mật nhà nước độ Tuyệt mật là bí mật nhà nước liên quan đến chính trị, quốc phòng, an ninh, cơ yếu, đối ngoại, nếu bị lộ, bị mất có thể gây nguy hại đặc biệt nghiêm trọng đến lợi ích quốc gia, dân tộc;",
                     "sub_clauses": []
@@ -495,7 +516,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Người lập danh mục bí mật nhà nước quy định tại khoản 2 Điều này có trách nhiệm gửi hồ sơ đến Bộ Công an để thẩm định, trừ trường hợp quy định tại khoản 5 Điều này.",
+                    "text": "Người lập danh mục bí mật nhà nước quy định tại khoản 2 Điều này có trách nhiệm gửi hồ sơ đến Bộ Công an để thẩm định, trừ trường hợp quy định tại khoản 5 Điều này. Hồ sơ gửi Bộ Công an bao gồm văn bản trình Thủ tướng Chính phủ; dự thảo quyết định ban hành danh mục bí mật nhà nước; báo cáo tổng hợp, giải trình, tiếp thu ý kiến của các cơ quan, tổ chức có liên quan; bản sao ý kiến tham gia. Văn bản thẩm định của Bộ Công an phải gửi đến người có trách nhiệm lập danh mục bí mật nhà nước chậm nhất 30 ngày kể từ ngày nhận đủ hồ sơ.",
                     "sub_clauses": []
                 },
                 {
@@ -505,7 +526,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an trình Thủ tướng Chính phủ xem xét, quyết định ban hành danh mục bí mật nhà nước thuộc phạm vi quản lý.",
+                    "text": "Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an trình Thủ tướng Chính phủ xem xét, quyết định ban hành danh mục bí mật nhà nước thuộc phạm vi quản lý. Chương III HOẠT ĐỘNG BẢO VỆ BÍ MẬT NHÀ NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -661,7 +682,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Người có thẩm quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước quy định tại khoản 1 và khoản 2 Điều này có thể ủy quyền cho cấp phó thực hiện thẩm quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước.",
+                    "text": "Người có thẩm quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước quy định tại khoản 1 và khoản 2 Điều này có thể ủy quyền cho cấp phó thực hiện thẩm quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước. Việc ủy quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước được thực hiện thường xuyên hoặc theo từng trường hợp cụ thể và phải được thể hiện bằng văn bản, trong đó xác định rõ phạm vi, nội dung, thời hạn ủy quyền. Cấp phó được ủy quyền cho phép sao, chụp tài liệu, vật chứa bí mật nhà nước phải chịu trách nhiệm về quyết định cho phép sao, chụp của mình trước cấp trưởng và trước pháp luật. Người được ủy quyền không được ủy quyền tiếp cho người khác.",
                     "sub_clauses": []
                 },
                 {
@@ -994,7 +1015,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chậm nhất 15 ngày kể từ ngày gia hạn, cơ quan, tổ chức đã gia hạn phải thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan.",
+                    "text": "Chậm nhất 15 ngày kể từ ngày gia hạn, cơ quan, tổ chức đã gia hạn phải thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan. Cơ quan, tổ chức, cá nhân có liên quan khi nhận được thông báo về việc gia hạn có trách nhiệm đóng dấu, có văn bản hoặc hình thức khác xác định việc gia hạn đối với bí mật nhà nước thuộc phạm vi quản lý.",
                     "sub_clauses": []
                 }
             ]
@@ -1025,7 +1046,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chậm nhất 15 ngày kể từ ngày điều chỉnh độ mật, cơ quan, tổ chức đã điều chỉnh độ mật phải thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan.",
+                    "text": "Chậm nhất 15 ngày kể từ ngày điều chỉnh độ mật, cơ quan, tổ chức đã điều chỉnh độ mật phải thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan. Cơ quan, tổ chức, cá nhân có liên quan khi nhận được thông báo về việc điều chỉnh độ mật có trách nhiệm đóng dấu, có văn bản hoặc hình thức khác xác định việc điều chỉnh độ mật tương ứng đối với bí mật nhà nước thuộc phạm vi quản lý.",
                     "sub_clauses": []
                 }
             ]
@@ -1059,7 +1080,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trường hợp quy định tại điểm a và điểm c khoản 2 Điều này thì đương nhiên giải mật.",
+                    "text": "Trường hợp quy định tại điểm a và điểm c khoản 2 Điều này thì đương nhiên giải mật. Trường hợp quy định tại điểm c khoản 2 Điều này, cơ quan, tổ chức xác định bí mật nhà nước phải đóng dấu, có văn bản hoặc hình thức khác xác định việc giải mật và thông báo ngay bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan.",
                     "sub_clauses": []
                 },
                 {
@@ -1095,7 +1116,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chậm nhất 15 ngày kể từ ngày có quyết định giải mật, cơ quan, tổ chức quyết định giải mật phải thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan.",
+                    "text": "Chậm nhất 15 ngày kể từ ngày có quyết định giải mật, cơ quan, tổ chức quyết định giải mật phải thông báo bằng văn bản đến cơ quan, tổ chức, cá nhân có liên quan. Cơ quan, tổ chức, cá nhân có liên quan khi nhận được thông báo về việc giải mật có trách nhiệm đóng dấu, có văn bản hoặc hình thức khác xác định việc giải mật đối với bí mật nhà nước thuộc phạm vi quản lý.",
                     "sub_clauses": []
                 }
             ]
@@ -1178,7 +1199,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Việc tiêu hủy tài liệu, vật chứa bí mật nhà nước trong lĩnh vực cơ yếu thực hiện theo quy định của pháp luật về cơ yếu; việc tiêu hủy tài liệu, vật chứa bí mật nhà nước do Lưu trữ lịch sử lưu trữ được thực hiện theo quy định của pháp luật về lưu trữ.",
+                    "text": "Việc tiêu hủy tài liệu, vật chứa bí mật nhà nước trong lĩnh vực cơ yếu thực hiện theo quy định của pháp luật về cơ yếu; việc tiêu hủy tài liệu, vật chứa bí mật nhà nước do Lưu trữ lịch sử lưu trữ được thực hiện theo quy định của pháp luật về lưu trữ. Chương IV TRÁCH NHIỆM BẢO VỆ BÍ MẬT NHÀ NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -1331,7 +1352,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người trực tiếp quản lý bí mật nhà nước có trách nhiệm sau đây:",
+                    "text": "Người trực tiếp quản lý bí mật nhà nước có trách nhiệm sau đây: Chương V ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1377,8 +1398,18 @@
         {
             "id": "Điều 28",
             "title": "Điều khoản chuyển tiếp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bí mật nhà nước đã được xác định trước ngày 01 tháng 01 năm 2019 được xác định thời hạn bảo vệ theo quy định tại khoản 1 Điều 19 của Luật này. Cơ quan, tổ chức đã xác định bí mật nhà nước có trách nhiệm xác định thời hạn bảo vệ đối với bí mật nhà nước đó bảo đảm kết thúc trước ngày 01 tháng 7 năm 2021. Trường hợp thời hạn bảo vệ bí mật nhà nước kết thúc trước thời điểm Luật này có hiệu lực thi hành thì phải tiến hành gia hạn thời hạn bảo vệ bí mật nhà nước theo quy định tại Điều 20 của Luật này tính từ thời điểm gia hạn; nếu không được gia hạn thì phải giải mật theo quy định của Pháp lệnh Bảo vệ bí mật nhà nước số 30/2000/PL-UBTVQH10. Trường hợp thời hạn bảo vệ bí mật nhà nước kết thúc sau thời điểm Luật này có hiệu lực thi hành thì bí mật nhà nước thuộc danh mục bí mật nhà nước được ban hành theo quy định của Luật này tiếp tục được bảo vệ đến hết thời hạn đã được xác định hoặc gia hạn; nếu không còn thuộc danh mục bí mật nhà nước thì phải giải mật theo quy định của Luật này. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua ngày 15 tháng 11 năm 2018. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua ngày 15 tháng 11 năm 2018.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

@@ -17,17 +17,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định nguyên tắc, thẩm quyền, hình thức, trình tự, thủ tục xây dựng, ban hành văn bản quy phạm pháp luật; trách nhiệm của các cơ quan nhà nước, tổ chức, cá nhân trong việc xây dựng văn bản quy phạm pháp luật. Luật này không quy định việc làm Hiến pháp, sửa đổi Hiến pháp.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Văn bản quy phạm pháp luật",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Văn bản quy phạm pháp luật là văn bản có chứa quy phạm pháp luật, được ban hành theo đúng thẩm quyền, hình thức, trình tự, thủ tục quy định trong Luật này. Văn bản có chứa quy phạm pháp luật nhưng được ban hành không đúng thẩm quyền, hình thức, trình tự, thủ tục quy định trong Luật này thì không phải là văn bản quy phạm pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Quy phạm pháp luật là quy tắc xử sự chung, có hiệu lực bắt buộc chung, được áp dụng lặp đi lặp lại nhiều lần đối với cơ quan, tổ chức, cá nhân trong phạm vi cả nước hoặc đơn vị hành chính nhất định, do cơ quan nhà nước, người có thẩm quyền quy định trong Luật này ban hành và được Nhà nước bảo đảm thực hiện.",
@@ -204,7 +221,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Cơ quan thẩm định chịu trách nhiệm trước cơ quan, tổ chức, người có thẩm quyền trình hoặc cơ quan, người có thẩm quyền ban hành văn bản quy phạm pháp luật về kết quả thẩm định đề nghị xây dựng văn bản quy phạm pháp luật, dự án, dự thảo văn bản quy phạm pháp luật.",
+                    "text": "Cơ quan thẩm định chịu trách nhiệm trước cơ quan, tổ chức, người có thẩm quyền trình hoặc cơ quan, người có thẩm quyền ban hành văn bản quy phạm pháp luật về kết quả thẩm định đề nghị xây dựng văn bản quy phạm pháp luật, dự án, dự thảo văn bản quy phạm pháp luật. Cơ quan thẩm tra chịu trách nhiệm trước cơ quan có thẩm quyền ban hành văn bản quy phạm pháp luật về kết quả thẩm tra dự án, dự thảo văn bản quy phạm pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -235,7 +252,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ngôn ngữ trong văn bản quy phạm pháp luật là tiếng Việt.",
+                    "text": "Ngôn ngữ trong văn bản quy phạm pháp luật là tiếng Việt. Ngôn ngữ sử dụng trong văn bản quy phạm pháp luật phải chính xác, phổ thông, cách diễn đạt phải rõ ràng, dễ hiểu.",
                     "sub_clauses": []
                 },
                 {
@@ -250,7 +267,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Ủy ban thường vụ Quốc hội quy định về thể thức và kỹ thuật trình bày văn bản quy phạm pháp luật của Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước.",
+                    "text": "Ủy ban thường vụ Quốc hội quy định về thể thức và kỹ thuật trình bày văn bản quy phạm pháp luật của Quốc hội, Ủy ban thường vụ Quốc hội, Chủ tịch nước. Chính phủ quy định về thể thức và kỹ thuật trình bày văn bản quy phạm pháp luật của các cơ quan, người có thẩm quyền khác được quy định trong Luật này.",
                     "sub_clauses": []
                 }
             ]
@@ -258,7 +275,13 @@
         {
             "id": "Điều 9",
             "title": "Dịch văn bản quy phạm pháp luật ra tiếng dân tộc thiểu số, tiếng nước ngoài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Văn bản quy phạm pháp luật có thể được dịch ra tiếng dân tộc thiểu số, tiếng nước ngoài; bản dịch có giá trị tham khảo. Chính phủ quy định chi tiết Điều này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 10",
@@ -305,12 +328,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan được giao ban hành văn bản quy định chi tiết không được ủy quyền tiếp.",
+                    "text": "Cơ quan được giao ban hành văn bản quy định chi tiết không được ủy quyền tiếp. Dự thảo văn bản quy định chi tiết phải được chuẩn bị và trình đồng thời với dự án luật, pháp lệnh và phải được ban hành để có hiệu lực cùng thời điểm có hiệu lực của văn bản hoặc điều, khoản, điểm được quy định chi tiết.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Trường hợp một cơ quan được giao quy định chi tiết nhiều nội dung của một văn bản quy phạm pháp luật thì ban hành một văn bản để quy định chi tiết các nội dung đó, trừ trường hợp cần phải quy định trong các văn bản khác nhau.",
+                    "text": "Trường hợp một cơ quan được giao quy định chi tiết nhiều nội dung của một văn bản quy phạm pháp luật thì ban hành một văn bản để quy định chi tiết các nội dung đó, trừ trường hợp cần phải quy định trong các văn bản khác nhau. Trường hợp một cơ quan được giao quy định chi tiết các nội dung của nhiều văn bản quy phạm pháp luật khác nhau thì có thể ban hành một văn bản để quy định chi tiết.",
                     "sub_clauses": []
                 }
             ]
@@ -321,7 +344,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Văn bản quy phạm pháp luật chỉ được sửa đổi, bổ sung, thay thế hoặc bãi bỏ bằng văn bản quy phạm pháp luật của chính cơ quan nhà nước đã ban hành văn bản đó hoặc bị đình chỉ việc thi hành hoặc bãi bỏ bằng văn bản của cơ quan nhà nước cấp trên có thẩm quyền. Văn bản sửa đổi, bổ sung, thay thế, bãi bỏ hoặc đình chỉ việc thi hành văn bản khác phải xác định rõ tên văn bản, phần, chương, mục, tiểu mục, điều, khoản, điểm của văn bản bị sửa đổi, bổ sung, thay thế, bãi bỏ hoặc đình chỉ việc thi hành.",
+                    "text": "Văn bản quy phạm pháp luật chỉ được sửa đổi, bổ sung, thay thế hoặc bãi bỏ bằng văn bản quy phạm pháp luật của chính cơ quan nhà nước đã ban hành văn bản đó hoặc bị đình chỉ việc thi hành hoặc bãi bỏ bằng văn bản của cơ quan nhà nước cấp trên có thẩm quyền. Văn bản sửa đổi, bổ sung, thay thế, bãi bỏ hoặc đình chỉ việc thi hành văn bản khác phải xác định rõ tên văn bản, phần, chương, mục, tiểu mục, điều, khoản, điểm của văn bản bị sửa đổi, bổ sung, thay thế, bãi bỏ hoặc đình chỉ việc thi hành. Văn bản bãi bỏ văn bản quy phạm pháp luật phải được đăng Công báo, niêm yết theo quy định.",
                     "sub_clauses": []
                 },
                 {
@@ -342,7 +365,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Văn bản quy phạm pháp luật phải được gửi đến cơ quan có thẩm quyền để giám sát, kiểm tra.",
+                    "text": "Văn bản quy phạm pháp luật phải được gửi đến cơ quan có thẩm quyền để giám sát, kiểm tra. Chậm nhất là 03 ngày kể từ ngày công bố luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội hoặc ký chứng thực, ký ban hành đối với văn bản quy phạm pháp luật khác, cơ quan, người có thẩm quyền ban hành văn bản quy phạm pháp luật có trách nhiệm gửi văn bản đến cơ quan có thẩm quyền quy định tại khoản 1 Điều 164 của Luật này để giám sát, cơ quan có thẩm quyền quy định tại khoản 3 Điều 165, khoản 1 Điều 166 hoặc khoản 1 Điều 167 của Luật này để kiểm tra.",
                     "sub_clauses": []
                 },
                 {
@@ -373,7 +396,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Quy định thủ tục hành chính trong thông tư của Chánh án Tòa án nhân dân tối cao, thông tư của Viện trưởng Viện kiểm sát nhân dân tối cao, thông tư của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, thông tư liên tịch giữa Chánh án Tòa án nhân dân tối cao với Viện trưởng Viện kiểm sát nhân dân tối cao, thông tư liên tịch giữa Bộ trưởng, Thủ trưởng cơ quan ngang bộ với Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, quyết định của Tổng Kiểm toán nhà nước, nghị quyết của Hội đồng nhân dân cấp tỉnh, quyết định của Ủy ban nhân dân cấp tỉnh, văn bản quy phạm pháp luật của chính quyền địa phương ở đơn vị hành chính - kinh tế đặc biệt; nghị quyết của Hội đồng nhân dân cấp huyện, quyết định của Ủy ban nhân dân cấp huyện, nghị quyết của Hội đồng nhân dân cấp xã, quyết định của Ủy ban nhân dân cấp xã, trừ trường hợp được giao trong luật.",
+                    "text": "Quy định thủ tục hành chính trong thông tư của Chánh án Tòa án nhân dân tối cao, thông tư của Viện trưởng Viện kiểm sát nhân dân tối cao, thông tư của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, thông tư liên tịch giữa Chánh án Tòa án nhân dân tối cao với Viện trưởng Viện kiểm sát nhân dân tối cao, thông tư liên tịch giữa Bộ trưởng, Thủ trưởng cơ quan ngang bộ với Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, quyết định của Tổng Kiểm toán nhà nước, nghị quyết của Hội đồng nhân dân cấp tỉnh, quyết định của Ủy ban nhân dân cấp tỉnh, văn bản quy phạm pháp luật của chính quyền địa phương ở đơn vị hành chính - kinh tế đặc biệt; nghị quyết của Hội đồng nhân dân cấp huyện, quyết định của Ủy ban nhân dân cấp huyện, nghị quyết của Hội đồng nhân dân cấp xã, quyết định của Ủy ban nhân dân cấp xã, trừ trường hợp được giao trong luật. CHƯƠNG II THẨM QUYỀN BAN HÀNH, NỘI DUNG VĂN BẢN QUY PHẠM PHÁP LUẬT",
                     "sub_clauses": []
                 }
             ]
@@ -510,6 +533,11 @@
             "title": "Lệnh, quyết định của Chủ tịch nước",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Chủ tịch nước ban hành lệnh, quyết định để quy định:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tổng động viên hoặc động viên cục bộ, công bố, bãi bỏ tình trạng khẩn cấp căn cứ vào nghị quyết của Ủy ban thường vụ Quốc hội; công bố, bãi bỏ tình trạng khẩn cấp trong cả nước hoặc ở từng địa phương trong trường hợp Ủy ban thường vụ Quốc hội không thể họp được;",
                     "sub_clauses": []
@@ -524,12 +552,23 @@
         {
             "id": "Điều 18",
             "title": "Nghị quyết liên tịch giữa Ủy ban thường vụ Quốc hội hoặc Chính phủ với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban thường vụ Quốc hội hoặc Chính phủ và Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam ban hành nghị quyết liên tịch để quy định chi tiết những vấn đề được luật giao.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 19",
             "title": "Nghị định của Chính phủ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ ban hành nghị định để quy định:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Chi tiết điều, khoản, điểm được giao trong luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước;",
@@ -552,6 +591,11 @@
             "title": "Quyết định của Thủ tướng Chính phủ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Thủ tướng Chính phủ ban hành quyết định để quy định:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Biện pháp lãnh đạo, điều hành hoạt động của Chính phủ và hệ thống hành chính nhà nước từ trung ương đến địa phương, chế độ làm việc với các thành viên Chính phủ, chính quyền địa phương và các vấn đề khác thuộc thẩm quyền của Thủ tướng Chính phủ;",
                     "sub_clauses": []
@@ -566,22 +610,45 @@
         {
             "id": "Điều 21",
             "title": "Nghị quyết của Hội đồng Thẩm phán Tòa án nhân dân tối cao",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hội đồng Thẩm phán Tòa án nhân dân tối cao ban hành nghị quyết để hướng dẫn việc áp dụng thống nhất pháp luật trong xét xử thông qua tổng kết việc áp dụng pháp luật, giám đốc việc xét xử.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 22",
             "title": "Thông tư của Chánh án Tòa án nhân dân tối cao",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chánh án Tòa án nhân dân tối cao ban hành thông tư để thực hiện việc quản lý các Tòa án nhân dân và Tòa án quân sự về tổ chức và những vấn đề khác được Luật tổ chức Tòa án nhân dân và luật khác có liên quan giao.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 23",
             "title": "Thông tư của Viện trưởng Viện kiểm sát nhân dân tối cao",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Viện trưởng Viện kiểm sát nhân dân tối cao ban hành thông tư để quy định những vấn đề được Luật tổ chức Viện kiểm sát nhân dân và luật khác có liên quan giao.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 24",
             "title": "Thông tư của Bộ trưởng, Thủ trưởng cơ quan ngang bộ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ ban hành thông tư để quy định:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Chi tiết điều, khoản, điểm được giao trong luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước, nghị định của Chính phủ, quyết định của Thủ tướng Chính phủ;",
@@ -597,17 +664,34 @@
         {
             "id": "Điều 25",
             "title": "Thông tư liên tịch giữa Chánh án Tòa án nhân dân tối cao với Viện trưởng Viện kiểm sát nhân dân tối cao; thông tư liên tịch giữa Bộ trưởng, Thủ trưởng cơ quan ngang bộ với Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chánh án Tòa án nhân dân tối cao và Viện trưởng Viện kiểm sát nhân dân tối cao; Bộ trưởng, Thủ trưởng cơ quan ngang bộ và Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao ban hành thông tư liên tịch để quy định về việc phối hợp giữa các cơ quan này trong việc thực hiện trình tự, thủ tục tố tụng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 26",
             "title": "Quyết định của Tổng Kiểm toán nhà nước",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổng Kiểm toán nhà nước ban hành quyết định để quy định chuẩn mực kiểm toán nhà nước, quy trình kiểm toán, hồ sơ kiểm toán.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 27",
             "title": "Nghị quyết của Hội đồng nhân dân cấp tỉnh",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Hội đồng nhân dân cấp tỉnh ban hành nghị quyết để quy định:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Chi tiết điều, khoản, điểm được giao trong văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên;",
@@ -635,6 +719,11 @@
             "title": "Quyết định của Ủy ban nhân dân cấp tỉnh",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Ủy ban nhân dân cấp tỉnh ban hành quyết định để quy định:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Chi tiết điều, khoản, điểm được giao trong văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên;",
                     "sub_clauses": []
@@ -654,12 +743,24 @@
         {
             "id": "Điều 29",
             "title": "Văn bản quy phạm pháp luật của chính quyền địa phương ở đơn vị hành chính - kinh tế đặc biệt",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hội đồng nhân dân ở đơn vị hành chính - kinh tế đặc biệt ban hành nghị quyết, Ủy ban nhân dân ở đơn vị hành chính - kinh tế đặc biệt ban hành quyết định theo quy định của Luật này và các luật khác có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 30",
             "title": "Nghị quyết của Hội đồng nhân dân, quyết định của Ủy ban nhân dân cấp huyện, cấp xã",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hội đồng nhân dân cấp huyện, cấp xã ban hành nghị quyết, Ủy ban nhân dân cấp huyện, cấp xã ban hành quyết định để quy định những vấn đề được luật giao. CHƯƠNG III XÂY DỰNG, BAN HÀNH VĂN BẢN QUY PHẠM PHÁP LUẬT CỦA QUỐC HỘI, ỦY BAN THƯỜNG VỤ QUỐC HỘI Mục 1 LẬP CHƯƠNG TRÌNH XÂY DỰNG LUẬT, PHÁP LỆNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 31",
@@ -785,7 +886,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ quan, tổ chức có trách nhiệm tiến hành đánh giá tác động của từng chính sách trong đề nghị xây dựng luật, pháp lệnh. Đại biểu Quốc hội tự mình hoặc yêu cầu cơ quan có thẩm quyền tiến hành đánh giá tác động của từng chính sách trong đề nghị xây dựng luật, pháp lệnh.",
+                    "text": "Cơ quan, tổ chức có trách nhiệm tiến hành đánh giá tác động của từng chính sách trong đề nghị xây dựng luật, pháp lệnh. Đại biểu Quốc hội tự mình hoặc yêu cầu cơ quan có thẩm quyền tiến hành đánh giá tác động của từng chính sách trong đề nghị xây dựng luật, pháp lệnh. Trong quá trình soạn thảo, thẩm định, thẩm tra, xem xét, cho ý kiến về dự án luật, pháp lệnh, nếu có chính sách mới được đề xuất thì cơ quan đề xuất chính sách đó có trách nhiệm đánh giá tác động của chính sách.",
                     "sub_clauses": []
                 },
                 {
@@ -898,7 +999,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Các bộ, cơ quan ngang bộ lập đề nghị xây dựng luật, pháp lệnh có trách nhiệm gửi hồ sơ đề nghị đến Bộ Tư pháp để thẩm định. Hồ sơ gồm các tài liệu quy định tại khoản 1 Điều 37 của Luật này.",
+                    "text": "Các bộ, cơ quan ngang bộ lập đề nghị xây dựng luật, pháp lệnh có trách nhiệm gửi hồ sơ đề nghị đến Bộ Tư pháp để thẩm định. Hồ sơ gồm các tài liệu quy định tại khoản 1 Điều 37 của Luật này. Tài liệu quy định tại điểm a và điểm b khoản 1 Điều 37 của Luật này được gửi bằng bản giấy, các tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": []
                 },
                 {
@@ -954,7 +1055,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ trình Chính phủ bao gồm:",
+                    "text": "Hồ sơ trình Chính phủ bao gồm: Tài liệu quy định tại điểm a và điểm b khoản 1 Điều 37 của Luật này và điểm b khoản này được gửi bằng bản giấy, các tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -976,6 +1077,11 @@
             "id": "Điều 41",
             "title": "Chính phủ xem xét, thông qua đề nghị xây dựng luật, pháp lệnh do Chính phủ trình",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ tổ chức phiên họp để xem xét các đề nghị xây dựng luật, pháp lệnh theo trình tự sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Đại diện bộ, cơ quan ngang bộ đề nghị xây dựng luật, pháp lệnh trình bày Tờ trình đề nghị xây dựng luật, pháp lệnh;",
@@ -1006,7 +1112,13 @@
         {
             "id": "Điều 42",
             "title": "Chỉnh lý và gửi hồ sơ đề nghị xây dựng luật, pháp lệnh do Chính phủ trình",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ, cơ quan ngang bộ đề nghị xây dựng luật, pháp lệnh chủ trì, phối hợp với các cơ quan có liên quan hoàn thiện hồ sơ đề nghị xây dựng luật, pháp lệnh trên cơ sở nghị quyết của Chính phủ và gửi Bộ Tư pháp để lập đề nghị của Chính phủ về chương trình xây dựng luật, pháp lệnh.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 43",
@@ -1014,7 +1126,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chính phủ lập đề nghị về chương trình xây dựng luật, pháp lệnh trình Ủy ban thường vụ Quốc hội.",
+                    "text": "Chính phủ lập đề nghị về chương trình xây dựng luật, pháp lệnh trình Ủy ban thường vụ Quốc hội. Bộ Tư pháp có trách nhiệm giúp Chính phủ lập đề nghị về chương trình xây dựng luật, pháp lệnh trên cơ sở các đề nghị xây dựng luật, pháp lệnh đã được Chính phủ thông qua.",
                     "sub_clauses": []
                 },
                 {
@@ -1047,7 +1159,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đối với đề nghị xây dựng luật, pháp lệnh không do Chính phủ trình và kiến nghị về luật, pháp lệnh thì trước khi trình Ủy ban thường vụ Quốc hội, cơ quan, tổ chức, đại biểu Quốc hội gửi hồ sơ đề nghị xây dựng luật, pháp lệnh, văn bản kiến nghị về luật, pháp lệnh quy định tại Điều 37 của Luật này để Chính phủ cho ý kiến.",
+                    "text": "Đối với đề nghị xây dựng luật, pháp lệnh không do Chính phủ trình và kiến nghị về luật, pháp lệnh thì trước khi trình Ủy ban thường vụ Quốc hội, cơ quan, tổ chức, đại biểu Quốc hội gửi hồ sơ đề nghị xây dựng luật, pháp lệnh, văn bản kiến nghị về luật, pháp lệnh quy định tại Điều 37 của Luật này để Chính phủ cho ý kiến. Chính phủ có trách nhiệm xem xét, trả lời bằng văn bản trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ đề nghị, văn bản kiến nghị.",
                     "sub_clauses": []
                 },
                 {
@@ -1095,7 +1207,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan, đơn vị được phân công lập đề nghị xây dựng luật, pháp lệnh tiến hành các hoạt động quy định tại Điều 34 của Luật này.",
+                    "text": "Cơ quan, đơn vị được phân công lập đề nghị xây dựng luật, pháp lệnh tiến hành các hoạt động quy định tại Điều 34 của Luật này. Đối với đề nghị xây dựng luật, pháp lệnh của Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, đơn vị được phân công lập đề nghị có trách nhiệm lấy ý kiến của Hội đồng Thẩm phán Tòa án nhân dân tối cao, Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao trước khi báo cáo Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao.",
                     "sub_clauses": []
                 },
                 {
@@ -1161,7 +1273,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ đề nghị xây dựng luật, pháp lệnh, văn bản kiến nghị về luật, pháp lệnh của đại biểu Quốc hội được gửi Ủy ban thường vụ Quốc hội theo quy định sau đây:",
+                    "text": "Hồ sơ đề nghị xây dựng luật, pháp lệnh, văn bản kiến nghị về luật, pháp lệnh của đại biểu Quốc hội được gửi Ủy ban thường vụ Quốc hội theo quy định sau đây: Đối với kiến nghị về luật, pháp lệnh của đại biểu Quốc hội thì tài liệu gồm văn bản kiến nghị về luật, pháp lệnh và ý kiến của Chính phủ về kiến nghị về luật, pháp lệnh.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1181,7 +1293,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ủy ban pháp luật tập hợp và chủ trì thẩm tra đề nghị về chương trình xây dựng luật, pháp lệnh của cơ quan, tổ chức, đại biểu Quốc hội và kiến nghị về luật, pháp lệnh của đại biểu Quốc hội.",
+                    "text": "Ủy ban pháp luật tập hợp và chủ trì thẩm tra đề nghị về chương trình xây dựng luật, pháp lệnh của cơ quan, tổ chức, đại biểu Quốc hội và kiến nghị về luật, pháp lệnh của đại biểu Quốc hội. Nội dung thẩm tra tập trung vào sự cần thiết ban hành, phạm vi, đối tượng điều chỉnh, chính sách cơ bản của văn bản, tính thống nhất, tính khả thi, thứ tự ưu tiên, thời điểm trình, điều kiện bảo đảm để xây dựng và thi hành văn bản.",
                     "sub_clauses": []
                 },
                 {
@@ -1197,7 +1309,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ủy ban thường vụ Quốc hội xem xét đề nghị xây dựng luật, pháp lệnh, kiến nghị về luật, pháp lệnh theo trình tự sau đây:",
+                    "text": "Ủy ban thường vụ Quốc hội xem xét đề nghị xây dựng luật, pháp lệnh, kiến nghị về luật, pháp lệnh theo trình tự sau đây: Đại diện cơ quan, tổ chức khác, đại biểu Quốc hội có thể được mời phát biểu ý kiến về đề nghị xây dựng luật, pháp lệnh, kiến nghị về luật, pháp lệnh của mình;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1227,7 +1339,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Căn cứ vào đề nghị xây dựng luật, pháp lệnh của cơ quan, tổ chức, đại biểu Quốc hội, kiến nghị về luật, pháp lệnh của đại biểu Quốc hội, ý kiến thẩm tra của Ủy ban pháp luật, Ủy ban thường vụ Quốc hội lập dự kiến chương trình xây dựng luật, pháp lệnh trình Quốc hội xem xét, quyết định.",
+                    "text": "Căn cứ vào đề nghị xây dựng luật, pháp lệnh của cơ quan, tổ chức, đại biểu Quốc hội, kiến nghị về luật, pháp lệnh của đại biểu Quốc hội, ý kiến thẩm tra của Ủy ban pháp luật, Ủy ban thường vụ Quốc hội lập dự kiến chương trình xây dựng luật, pháp lệnh trình Quốc hội xem xét, quyết định. Hồ sơ dự kiến chương trình xây dựng luật, pháp lệnh gồm tờ trình và dự thảo nghị quyết của Quốc hội về chương trình xây dựng luật, pháp lệnh, kèm theo bản điện tử hồ sơ quy định tại khoản 2 Điều 46 của Luật này. Dự kiến chương trình xây dựng luật, pháp lệnh phải được đăng tải trên Cổng thông tin điện tử của Quốc hội.",
                     "sub_clauses": []
                 },
                 {
@@ -1280,7 +1392,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ủy ban thường vụ Quốc hội có trách nhiệm chỉ đạo và triển khai việc thực hiện chương trình xây dựng luật, pháp lệnh thông qua các hoạt động sau đây:",
+                    "text": "Ủy ban thường vụ Quốc hội có trách nhiệm chỉ đạo và triển khai việc thực hiện chương trình xây dựng luật, pháp lệnh thông qua các hoạt động sau đây: Trong trường hợp Ủy ban thường vụ Quốc hội trình dự án luật, dự thảo nghị quyết của Quốc hội thì Quốc hội quyết định cơ quan thẩm tra hoặc thành lập Ủy ban lâm thời để thẩm tra. Trong trường hợp Hội đồng dân tộc, Ủy ban của Quốc hội trình dự án luật, pháp lệnh, dự thảo nghị quyết thì Ủy ban thường vụ Quốc hội quyết định cơ quan thẩm tra;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1314,7 +1426,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ủy ban thường vụ Quốc hội tự mình hoặc theo đề nghị của cơ quan, tổ chức, đại biểu Quốc hội trình dự án luật, pháp lệnh quyết định điều chỉnh chương trình xây dựng luật, pháp lệnh trong các trường hợp sau đây:",
+                    "text": "Ủy ban thường vụ Quốc hội tự mình hoặc theo đề nghị của cơ quan, tổ chức, đại biểu Quốc hội trình dự án luật, pháp lệnh quyết định điều chỉnh chương trình xây dựng luật, pháp lệnh trong các trường hợp sau đây: Việc bổ sung vào chương trình được thực hiện theo quy định tại các điều từ Điều 32 đến Điều 42, các điều 44, 45, 47 và khoản 1 Điều 48 của Luật này.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1328,7 +1440,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban thường vụ Quốc hội có trách nhiệm báo cáo Quốc hội tại kỳ họp gần nhất về việc điều chỉnh chương trình xây dựng luật, pháp lệnh.",
+                    "text": "Ủy ban thường vụ Quốc hội có trách nhiệm báo cáo Quốc hội tại kỳ họp gần nhất về việc điều chỉnh chương trình xây dựng luật, pháp lệnh. Mục 2 SOẠN THẢO LUẬT, PHÁP LỆNH, NGHỊ QUYẾT",
                     "sub_clauses": []
                 }
             ]
@@ -1471,7 +1583,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Đối với dự án, dự thảo do Ủy ban thường vụ Quốc hội trình và dự án, dự thảo do đại biểu Quốc hội tự mình soạn thảo thì cơ quan được Ủy ban thường vụ Quốc hội giao chủ trì soạn thảo, đại biểu Quốc hội có trách nhiệm báo cáo tiến độ soạn thảo với Ủy ban thường vụ Quốc hội.",
+                    "text": "Đối với dự án, dự thảo do Ủy ban thường vụ Quốc hội trình và dự án, dự thảo do đại biểu Quốc hội tự mình soạn thảo thì cơ quan được Ủy ban thường vụ Quốc hội giao chủ trì soạn thảo, đại biểu Quốc hội có trách nhiệm báo cáo tiến độ soạn thảo với Ủy ban thường vụ Quốc hội. Đối với dự án, dự thảo do Chính phủ trình thì bộ, cơ quan ngang bộ được giao chủ trì soạn thảo có trách nhiệm báo cáo tiến độ soạn thảo với Bộ Tư pháp để tổng hợp, báo cáo Chính phủ. Trong quá trình tiếp thu, chỉnh lý dự thảo luật, pháp lệnh, nghị quyết, nếu có sự thay đổi lớn về chính sách so với chính sách đã được Chính phủ thông qua thì bộ, cơ quan ngang bộ chủ trì soạn thảo có trách nhiệm kịp thời báo cáo Chính phủ, Thủ tướng Chính phủ xem xét, quyết định.",
                     "sub_clauses": []
                 }
             ]
@@ -1482,7 +1594,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ quan, tổ chức, đại biểu Quốc hội trình dự án luật, pháp lệnh, dự thảo nghị quyết có các nhiệm vụ sau đây:",
+                    "text": "Cơ quan, tổ chức, đại biểu Quốc hội trình dự án luật, pháp lệnh, dự thảo nghị quyết có các nhiệm vụ sau đây: Đối với dự án, dự thảo do đại biểu Quốc hội tự mình soạn thảo thì đại biểu có thể đề nghị Văn phòng Quốc hội, Văn phòng Đoàn đại biểu Quốc hội, Viện nghiên cứu lập pháp, cơ quan, tổ chức có liên quan hỗ trợ trong quá trình soạn thảo;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1507,7 +1619,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trong quá trình soạn thảo văn bản, cơ quan, tổ chức, đại biểu Quốc hội chủ trì soạn thảo phải lấy ý kiến đối tượng chịu sự tác động trực tiếp của văn bản và cơ quan, tổ chức có liên quan; nêu những vấn đề cần xin ý kiến phù hợp với từng đối tượng lấy ý kiến và xác định cụ thể địa chỉ tiếp nhận ý kiến; đăng tải toàn văn dự thảo văn bản và tờ trình trên cổng thông tin điện tử quy định tại điểm a khoản 1 Điều 36 của Luật này và của cơ quan, tổ chức chủ trì soạn thảo trong thời gian ít nhất là 60 ngày, trừ những văn bản được ban hành theo trình tự, thủ tục rút gọn, để các cơ quan, tổ chức, cá nhân góp ý kiến. Trong thời gian dự thảo đang được lấy ý kiến, nếu cơ quan chủ trì soạn thảo chỉnh lý lại dự thảo văn bản mà khác với dự thảo đã đăng tải trước đó thì phải đăng lại dự thảo văn bản đã được chỉnh lý.",
+                    "text": "Trong quá trình soạn thảo văn bản, cơ quan, tổ chức, đại biểu Quốc hội chủ trì soạn thảo phải lấy ý kiến đối tượng chịu sự tác động trực tiếp của văn bản và cơ quan, tổ chức có liên quan; nêu những vấn đề cần xin ý kiến phù hợp với từng đối tượng lấy ý kiến và xác định cụ thể địa chỉ tiếp nhận ý kiến; đăng tải toàn văn dự thảo văn bản và tờ trình trên cổng thông tin điện tử quy định tại điểm a khoản 1 Điều 36 của Luật này và của cơ quan, tổ chức chủ trì soạn thảo trong thời gian ít nhất là 60 ngày, trừ những văn bản được ban hành theo trình tự, thủ tục rút gọn, để các cơ quan, tổ chức, cá nhân góp ý kiến. Trong thời gian dự thảo đang được lấy ý kiến, nếu cơ quan chủ trì soạn thảo chỉnh lý lại dự thảo văn bản mà khác với dự thảo đã đăng tải trước đó thì phải đăng lại dự thảo văn bản đã được chỉnh lý. Đối với trường hợp lấy ý kiến bằng văn bản, cơ quan, tổ chức được lấy ý kiến có trách nhiệm trả lời bằng văn bản trong thời hạn 20 ngày kể từ ngày nhận được đề nghị góp ý kiến.",
                     "sub_clauses": []
                 },
                 {
@@ -1533,12 +1645,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Bộ Tư pháp có trách nhiệm thẩm định dự án luật, pháp lệnh, dự thảo nghị quyết trước khi trình Chính phủ.",
+                    "text": "Bộ Tư pháp có trách nhiệm thẩm định dự án luật, pháp lệnh, dự thảo nghị quyết trước khi trình Chính phủ. Đối với dự án, dự thảo có nội dung phức tạp, liên quan đến nhiều ngành, nhiều lĩnh vực hoặc do Bộ Tư pháp chủ trì soạn thảo thì Bộ trưởng Bộ Tư pháp thành lập hội đồng thẩm định, bao gồm đại diện các cơ quan, tổ chức có liên quan, các chuyên gia, nhà khoa học.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ gửi thẩm định bao gồm:",
+                    "text": "Hồ sơ gửi thẩm định bao gồm: Tài liệu quy định tại điểm a và điểm b khoản này được gửi bằng bản giấy, các tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1568,7 +1680,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Nội dung thẩm định tập trung vào các vấn đề sau đây:",
+                    "text": "Nội dung thẩm định tập trung vào các vấn đề sau đây: Trong trường hợp cần thiết, cơ quan thẩm định yêu cầu cơ quan chủ trì soạn thảo báo cáo về những vấn đề liên quan đến nội dung dự án, dự thảo.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1598,7 +1710,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Báo cáo thẩm định phải thể hiện rõ ý kiến của cơ quan thẩm định về nội dung thẩm định quy định tại khoản 3 Điều này và ý kiến về việc dự án, dự thảo đủ điều kiện hoặc chưa đủ điều kiện trình Chính phủ. Trong trường hợp Bộ Tư pháp kết luận dự án, dự thảo chưa đủ điều kiện trình Chính phủ thì trả lại hồ sơ cho cơ quan chủ trì soạn thảo để tiếp tục chỉnh lý, hoàn thiện dự án, dự thảo.",
+                    "text": "Báo cáo thẩm định phải thể hiện rõ ý kiến của cơ quan thẩm định về nội dung thẩm định quy định tại khoản 3 Điều này và ý kiến về việc dự án, dự thảo đủ điều kiện hoặc chưa đủ điều kiện trình Chính phủ. Trong trường hợp Bộ Tư pháp kết luận dự án, dự thảo chưa đủ điều kiện trình Chính phủ thì trả lại hồ sơ cho cơ quan chủ trì soạn thảo để tiếp tục chỉnh lý, hoàn thiện dự án, dự thảo. Báo cáo thẩm định phải được gửi đến cơ quan chủ trì soạn thảo chậm nhất là 20 ngày kể từ ngày nhận đủ hồ sơ gửi thẩm định.",
                     "sub_clauses": []
                 },
                 {
@@ -1644,7 +1756,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Tài liệu khác (nếu có).",
+                    "text": "Tài liệu khác (nếu có). Tài liệu quy định tại các khoản 1, 2 và 3 Điều này được gửi bằng bản giấy, các tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": []
                 }
             ]
@@ -1652,7 +1764,13 @@
         {
             "id": "Điều 60",
             "title": "Chỉnh lý, hoàn thiện dự án luật, pháp lệnh, dự thảo nghị quyết trước khi trình Chính phủ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong trường hợp còn có ý kiến khác nhau giữa các bộ, cơ quan ngang bộ về dự án, dự thảo nghị quyết thì Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ triệu tập cuộc họp gồm đại diện lãnh đạo cơ quan chủ trì soạn thảo, Bộ Tư pháp, các bộ, cơ quan ngang bộ có liên quan để thống nhất ý kiến trước khi trình Chính phủ xem xét, quyết định. Căn cứ vào ý kiến tại cuộc họp này, cơ quan chủ trì soạn thảo phối hợp với các cơ quan có liên quan tiếp tục chỉnh lý, hoàn thiện dự án, dự thảo để trình Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 61",
@@ -1697,7 +1815,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đối với dự án luật, pháp lệnh, dự thảo nghị quyết không do Chính phủ trình, thì trước khi trình Quốc hội, Ủy ban thường vụ Quốc hội, cơ quan, tổ chức, đại biểu Quốc hội trình dự án luật, pháp lệnh, dự thảo nghị quyết phải gửi các tài liệu sau đây để Chính phủ cho ý kiến:",
+                    "text": "Đối với dự án luật, pháp lệnh, dự thảo nghị quyết không do Chính phủ trình, thì trước khi trình Quốc hội, Ủy ban thường vụ Quốc hội, cơ quan, tổ chức, đại biểu Quốc hội trình dự án luật, pháp lệnh, dự thảo nghị quyết phải gửi các tài liệu sau đây để Chính phủ cho ý kiến: Tài liệu quy định tại điểm a và điểm b khoản này được gửi bằng bản giấy, các tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1724,7 +1842,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ, cơ quan ngang bộ được Thủ tướng Chính phủ phân công chuẩn bị ý kiến, chủ trì phối hợp với Bộ Tư pháp dự kiến những nội dung cần cho ý kiến, trình Chính phủ xem xét, quyết định.",
+                    "text": "Bộ, cơ quan ngang bộ được Thủ tướng Chính phủ phân công chuẩn bị ý kiến, chủ trì phối hợp với Bộ Tư pháp dự kiến những nội dung cần cho ý kiến, trình Chính phủ xem xét, quyết định. Mục 3 THẨM TRA DỰ ÁN LUẬT, PHÁP LỆNH, DỰ THẢO NGHỊ QUYẾT",
                     "sub_clauses": []
                 }
             ]
@@ -1735,7 +1853,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Dự án, dự thảo trước khi trình Quốc hội, Ủy ban thường vụ Quốc hội thảo luận, cho ý kiến phải được Hội đồng dân tộc, Ủy ban của Quốc hội thẩm tra (sau đây gọi chung là cơ quan thẩm tra).",
+                    "text": "Dự án, dự thảo trước khi trình Quốc hội, Ủy ban thường vụ Quốc hội thảo luận, cho ý kiến phải được Hội đồng dân tộc, Ủy ban của Quốc hội thẩm tra (sau đây gọi chung là cơ quan thẩm tra). Hội đồng dân tộc, Ủy ban của Quốc hội có trách nhiệm chủ trì thẩm tra dự án, dự thảo thuộc lĩnh vực do mình phụ trách và dự án, dự thảo khác do Quốc hội, Ủy ban thường vụ Quốc hội giao; tham gia thẩm tra dự án, dự thảo do cơ quan khác của Quốc hội chủ trì thẩm tra theo sự phân công của Ủy ban thường vụ Quốc hội.",
                     "sub_clauses": []
                 },
                 {
@@ -1750,7 +1868,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Cơ quan thẩm tra có quyền yêu cầu cơ quan, tổ chức, đại biểu Quốc hội trình dự án, dự thảo báo cáo, giải trình, cung cấp thông tin, tài liệu về những vấn đề liên quan đến nội dung của dự án, dự thảo; tự mình hoặc cùng cơ quan, tổ chức chủ trì soạn thảo tổ chức hội thảo, khảo sát về những vấn đề thuộc nội dung của dự án, dự thảo.",
+                    "text": "Cơ quan thẩm tra có quyền yêu cầu cơ quan, tổ chức, đại biểu Quốc hội trình dự án, dự thảo báo cáo, giải trình, cung cấp thông tin, tài liệu về những vấn đề liên quan đến nội dung của dự án, dự thảo; tự mình hoặc cùng cơ quan, tổ chức chủ trì soạn thảo tổ chức hội thảo, khảo sát về những vấn đề thuộc nội dung của dự án, dự thảo. Cơ quan, tổ chức, cá nhân được yêu cầu có trách nhiệm cung cấp thông tin, tài liệu và đáp ứng các yêu cầu khác của cơ quan thẩm tra.",
                     "sub_clauses": []
                 }
             ]
@@ -1761,7 +1879,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hồ sơ dự án, dự thảo để thẩm tra bao gồm:",
+                    "text": "Hồ sơ dự án, dự thảo để thẩm tra bao gồm: Tài liệu quy định tại điểm a và điểm b khoản này được gửi bằng bản giấy, các tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1791,7 +1909,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đối với dự án, dự thảo trình Ủy ban thường vụ Quốc hội thì chậm nhất là 20 ngày trước ngày bắt đầu phiên họp Ủy ban thường vụ Quốc hội, cơ quan, tổ chức, đại biểu Quốc hội trình dự án, dự thảo phải gửi hồ sơ quy định tại khoản 1 Điều này đến cơ quan chủ trì thẩm tra, Ủy ban pháp luật, Ủy ban về các vấn đề xã hội và cơ quan khác tham gia thẩm tra để tiến hành thẩm tra.",
+                    "text": "Đối với dự án, dự thảo trình Ủy ban thường vụ Quốc hội thì chậm nhất là 20 ngày trước ngày bắt đầu phiên họp Ủy ban thường vụ Quốc hội, cơ quan, tổ chức, đại biểu Quốc hội trình dự án, dự thảo phải gửi hồ sơ quy định tại khoản 1 Điều này đến cơ quan chủ trì thẩm tra, Ủy ban pháp luật, Ủy ban về các vấn đề xã hội và cơ quan khác tham gia thẩm tra để tiến hành thẩm tra. Đối với dự án, dự thảo trình Quốc hội thì chậm nhất là 30 ngày trước ngày khai mạc kỳ họp Quốc hội, cơ quan, tổ chức, đại biểu Quốc hội trình dự án, dự thảo phải gửi hồ sơ quy định tại khoản 1 Điều này đến cơ quan chủ trì thẩm tra, Ủy ban pháp luật, Ủy ban về các vấn đề xã hội và cơ quan khác tham gia thẩm tra để tiến hành thẩm tra.",
                     "sub_clauses": []
                 },
                 {
@@ -1805,6 +1923,11 @@
             "id": "Điều 65",
             "title": "Nội dung thẩm tra dự án luật, pháp lệnh, dự thảo nghị quyết",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Nội dung thẩm tra tập trung vào các vấn đề sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Phạm vi, đối tượng điều chỉnh của văn bản;",
@@ -1837,7 +1960,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Ngôn ngữ, kỹ thuật và trình tự, thủ tục soạn thảo văn bản.",
+                    "text": "Ngôn ngữ, kỹ thuật và trình tự, thủ tục soạn thảo văn bản. Trong trường hợp cần thiết, cơ quan thẩm tra yêu cầu cơ quan trình dự án, dự thảo báo cáo về những vấn đề liên quan đến nội dung dự án, dự thảo.",
                     "sub_clauses": []
                 }
             ]
@@ -1869,7 +1992,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Báo cáo thẩm tra phải phản ánh đầy đủ ý kiến của thành viên cơ quan chủ trì thẩm tra, ý kiến của cơ quan tham gia thẩm tra về nội dung dự án, dự thảo; về việc dự án, dự thảo đủ hoặc chưa đủ điều kiện trình Ủy ban thường vụ Quốc hội, Quốc hội.",
+                    "text": "Báo cáo thẩm tra phải phản ánh đầy đủ ý kiến của thành viên cơ quan chủ trì thẩm tra, ý kiến của cơ quan tham gia thẩm tra về nội dung dự án, dự thảo; về việc dự án, dự thảo đủ hoặc chưa đủ điều kiện trình Ủy ban thường vụ Quốc hội, Quốc hội. Trong trường hợp cơ quan chủ trì thẩm tra có ý kiến dự án, dự thảo chưa đủ điều kiện trình Ủy ban thường vụ Quốc hội, Quốc hội thì báo cáo Ủy ban thường vụ Quốc hội xem xét trả lại hồ sơ cho cơ quan trình dự án, dự thảo để tiếp tục chỉnh lý, hoàn thiện dự án, dự thảo.",
                     "sub_clauses": []
                 }
             ]
@@ -1920,7 +2043,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Nội dung thẩm tra việc lồng ghép vấn đề bình đẳng giới bao gồm:",
+                    "text": "Nội dung thẩm tra việc lồng ghép vấn đề bình đẳng giới bao gồm: Mục 4 ỦY BAN THƯỜNG VỤ QUỐC HỘI XEM XÉT, CHO Ý KIẾN VỀ DỰ ÁN LUẬT, DỰ THẢO NGHỊ QUYẾT CỦA QUỐC HỘI",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1945,7 +2068,13 @@
         {
             "id": "Điều 70",
             "title": "Thời hạn gửi tài liệu cho Ủy ban thường vụ Quốc hội xem xét, cho ý kiến về dự án luật, dự thảo nghị quyết của Quốc hội",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chậm nhất là 07 ngày trước ngày bắt đầu phiên họp Ủy ban thường vụ Quốc hội, cơ quan, tổ chức, đại biểu Quốc hội trình dự án luật, dự thảo nghị quyết của Quốc hội phải gửi hồ sơ quy định tại khoản 1 Điều 64 của Luật này đến Ủy ban thường vụ Quốc hội để cho ý kiến. Dự thảo văn bản, tờ trình và báo cáo thẩm tra về dự án, dự thảo được đăng tải trên Cổng thông tin điện tử của Quốc hội.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 71",
@@ -1958,7 +2087,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban thường vụ Quốc hội xem xét, cho ý kiến theo trình tự sau đây:",
+                    "text": "Ủy ban thường vụ Quốc hội xem xét, cho ý kiến theo trình tự sau đây: Đại diện Chính phủ phát biểu ý kiến về dự án, dự thảo không do Chính phủ trình;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1990,12 +2119,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trên cơ sở ý kiến của Ủy ban thường vụ Quốc hội, cơ quan, tổ chức, đại biểu Quốc hội trình dự án luật, dự thảo nghị quyết có trách nhiệm nghiên cứu, tiếp thu để chỉnh lý dự án, dự thảo.",
+                    "text": "Trên cơ sở ý kiến của Ủy ban thường vụ Quốc hội, cơ quan, tổ chức, đại biểu Quốc hội trình dự án luật, dự thảo nghị quyết có trách nhiệm nghiên cứu, tiếp thu để chỉnh lý dự án, dự thảo. Đối với dự án, dự thảo do Chính phủ trình thì người được Thủ tướng Chính phủ ủy quyền trình có trách nhiệm phối hợp với Bộ Tư pháp tổ chức nghiên cứu, tiếp thu để chỉnh lý dự án, dự thảo, trừ trường hợp cần báo cáo Thủ tướng Chính phủ xem xét, quyết định.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Trong trường hợp cơ quan, tổ chức, đại biểu Quốc hội trình dự án luật, dự thảo nghị quyết có ý kiến khác với ý kiến của Ủy ban thường vụ Quốc hội thì báo cáo Quốc hội xem xét, quyết định.",
+                    "text": "Trong trường hợp cơ quan, tổ chức, đại biểu Quốc hội trình dự án luật, dự thảo nghị quyết có ý kiến khác với ý kiến của Ủy ban thường vụ Quốc hội thì báo cáo Quốc hội xem xét, quyết định. Mục 5 THẢO LUẬN, TIẾP THU, CHỈNH LÝ VÀ THÔNG QUA DỰ ÁN LUẬT, PHÁP LỆNH, DỰ THẢO NGHỊ QUYẾT",
                     "sub_clauses": []
                 }
             ]
@@ -2006,17 +2135,17 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Quốc hội xem xét, thông qua dự án luật, dự thảo nghị quyết tại một hoặc hai kỳ họp Quốc hội; trường hợp dự án luật lớn, nhiều điều, khoản có tính chất phức tạp thì Quốc hội có thể xem xét, thông qua tại ba kỳ họp.",
+                    "text": "Quốc hội xem xét, thông qua dự án luật, dự thảo nghị quyết tại một hoặc hai kỳ họp Quốc hội; trường hợp dự án luật lớn, nhiều điều, khoản có tính chất phức tạp thì Quốc hội có thể xem xét, thông qua tại ba kỳ họp. Chậm nhất là 20 ngày trước ngày khai mạc kỳ họp Quốc hội, hồ sơ dự án, dự thảo trình Quốc hội phải được gửi đến các đại biểu Quốc hội.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban thường vụ Quốc hội xem xét, thông qua dự án pháp lệnh, dự thảo nghị quyết tại một hoặc hai phiên họp Ủy ban thường vụ Quốc hội.",
+                    "text": "Ủy ban thường vụ Quốc hội xem xét, thông qua dự án pháp lệnh, dự thảo nghị quyết tại một hoặc hai phiên họp Ủy ban thường vụ Quốc hội. Chậm nhất là 20 ngày trước ngày bắt đầu phiên họp Ủy ban thường vụ Quốc hội, hồ sơ dự án, dự thảo phải được gửi đến các thành viên Ủy ban thường vụ Quốc hội.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Hồ sơ dự án, dự thảo trình Quốc hội, Ủy ban thường vụ Quốc hội bao gồm các tài liệu quy định tại khoản 1 Điều 64 của Luật này và báo cáo thẩm tra về dự án, dự thảo.",
+                    "text": "Hồ sơ dự án, dự thảo trình Quốc hội, Ủy ban thường vụ Quốc hội bao gồm các tài liệu quy định tại khoản 1 Điều 64 của Luật này và báo cáo thẩm tra về dự án, dự thảo. Tờ trình, dự thảo văn bản và báo cáo thẩm tra về dự án, dự thảo được gửi bằng bản giấy, các tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": []
                 }
             ]
@@ -2025,6 +2154,11 @@
             "id": "Điều 74",
             "title": "Trình tự xem xét, thông qua dự án luật, dự thảo nghị quyết tại một kỳ họp Quốc hội",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Quốc hội xem xét, thông qua dự án luật, dự thảo nghị quyết tại một kỳ họp Quốc hội theo trình tự sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Đại diện cơ quan, tổ chức, đại biểu Quốc hội trình dự án, dự thảo thuyết trình về dự án, dự thảo;",
@@ -2047,7 +2181,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Đối với những vấn đề quan trọng, những vấn đề lớn của dự án, dự thảo còn có ý kiến khác nhau thì Quốc hội tiến hành biểu quyết theo đề nghị của Ủy ban thường vụ Quốc hội.",
+                    "text": "Đối với những vấn đề quan trọng, những vấn đề lớn của dự án, dự thảo còn có ý kiến khác nhau thì Quốc hội tiến hành biểu quyết theo đề nghị của Ủy ban thường vụ Quốc hội. Cơ quan chủ trì thẩm tra chủ trì, phối hợp với cơ quan, tổ chức, đại biểu Quốc hội trình dự án, dự thảo, Tổng thư ký Quốc hội và cơ quan, tổ chức có liên quan giúp Ủy ban thường vụ Quốc hội dự kiến những vấn đề quan trọng, những vấn đề lớn của dự án, dự thảo còn có ý kiến khác nhau trình Quốc hội biểu quyết;",
                     "sub_clauses": []
                 },
                 {
@@ -2066,7 +2200,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Ủy ban thường vụ Quốc hội báo cáo Quốc hội về việc giải trình, tiếp thu, chỉnh lý dự thảo.",
+                    "text": "Ủy ban thường vụ Quốc hội báo cáo Quốc hội về việc giải trình, tiếp thu, chỉnh lý dự thảo. Trường hợp cơ quan, tổ chức, đại biểu Quốc hội trình dự án, dự thảo có ý kiến khác hoặc Chính phủ có ý kiến khác đối với dự án, dự thảo không do Chính phủ trình thì Chính phủ, cơ quan, tổ chức, đại biểu Quốc hội báo cáo Quốc hội xem xét, quyết định;",
                     "sub_clauses": []
                 },
                 {
@@ -2076,7 +2210,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Chủ tịch Quốc hội ký chứng thực luật, nghị quyết của Quốc hội.",
+                    "text": "Chủ tịch Quốc hội ký chứng thực luật, nghị quyết của Quốc hội. Trong trường hợp dự thảo chưa được thông qua hoặc mới được thông qua một phần thì Quốc hội xem xét, quyết định việc trình lại hoặc xem xét, thông qua tại kỳ họp tiếp theo theo đề nghị của Ủy ban thường vụ Quốc hội.",
                     "sub_clauses": []
                 }
             ]
@@ -2086,8 +2220,13 @@
             "title": "Trình tự xem xét, thông qua dự án luật, dự thảo nghị quyết tại hai kỳ họp Quốc hội",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Quốc hội xem xét, thông qua dự án luật, dự thảo nghị quyết tại hai kỳ họp theo trình tự sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
-                    "text": "Tại kỳ họp thứ nhất:",
+                    "text": "Tại kỳ họp thứ nhất: Trong quá trình thảo luận, đại diện cơ quan, tổ chức, đại biểu Quốc hội trình dự án, dự thảo có trách nhiệm giải trình về những vấn đề liên quan đến dự án, dự thảo mà đại biểu Quốc hội nêu; Cơ quan chủ trì thẩm tra chủ trì, phối hợp với cơ quan, tổ chức, đại biểu Quốc hội trình dự án, dự thảo, Tổng thư ký Quốc hội và cơ quan, tổ chức có liên quan giúp Ủy ban thường vụ Quốc hội dự kiến những vấn đề quan trọng, những vấn đề lớn của dự án, dự thảo còn có ý kiến khác nhau trình Quốc hội biểu quyết;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2113,7 +2252,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời gian giữa hai kỳ họp Quốc hội, Ủy ban thường vụ Quốc hội chỉ đạo, tổ chức việc nghiên cứu, giải trình, tiếp thu, chỉnh lý dự thảo theo trình tự sau đây:",
+                    "text": "Trong thời gian giữa hai kỳ họp Quốc hội, Ủy ban thường vụ Quốc hội chỉ đạo, tổ chức việc nghiên cứu, giải trình, tiếp thu, chỉnh lý dự thảo theo trình tự sau đây: Đoàn đại biểu Quốc hội, Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội có trách nhiệm tổ chức thảo luận, góp ý kiến và gửi báo cáo tổng hợp ý kiến đến cơ quan chủ trì thẩm tra chậm nhất là 20 ngày trước ngày khai mạc kỳ họp Quốc hội;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2135,7 +2274,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tại kỳ họp thứ hai:",
+                    "text": "Tại kỳ họp thứ hai: Trường hợp cơ quan, tổ chức, đại biểu Quốc hội trình dự án, dự thảo có ý kiến khác hoặc Chính phủ có ý kiến khác đối với dự án, dự thảo không do Chính phủ trình thì Chính phủ, cơ quan, tổ chức, đại biểu Quốc hội báo cáo Quốc hội xem xét, quyết định; Trong trường hợp dự thảo chưa được thông qua hoặc mới được thông qua một phần thì Quốc hội xem xét, quyết định việc trình lại hoặc xem xét, thông qua tại kỳ họp tiếp theo theo đề nghị của Ủy ban thường vụ Quốc hội.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2170,6 +2309,11 @@
             "title": "Trình tự xem xét, thông qua dự án luật tại ba kỳ họp Quốc hội",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Quốc hội xem xét, thông qua dự án luật tại ba kỳ họp theo trình tự sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tại kỳ họp thứ nhất, trình tự xem xét, thảo luận dự án luật được thực hiện theo quy định tại khoản 1 Điều 75 của Luật này;",
                     "sub_clauses": []
@@ -2198,7 +2342,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tại kỳ họp thứ hai:",
+                    "text": "Tại kỳ họp thứ hai: Trong quá trình thảo luận, đại diện cơ quan, tổ chức, đại biểu Quốc hội trình dự án luật có trách nhiệm giải trình về những vấn đề liên quan đến dự án mà đại biểu Quốc hội nêu; Cơ quan chủ trì thẩm tra chủ trì, phối hợp với cơ quan, tổ chức, đại biểu Quốc hội trình dự án luật, Tổng thư ký Quốc hội và cơ quan, tổ chức có liên quan giúp Ủy ban thường vụ Quốc hội dự kiến những vấn đề còn có ý kiến khác nhau của dự án luật trình Quốc hội biểu quyết;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2224,7 +2368,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trong thời gian giữa kỳ họp thứ hai và kỳ họp thứ ba của Quốc hội, Ủy ban thường vụ Quốc hội chỉ đạo, tổ chức việc nghiên cứu, giải trình, tiếp thu, chỉnh lý dự thảo luật theo trình tự sau đây:",
+                    "text": "Trong thời gian giữa kỳ họp thứ hai và kỳ họp thứ ba của Quốc hội, Ủy ban thường vụ Quốc hội chỉ đạo, tổ chức việc nghiên cứu, giải trình, tiếp thu, chỉnh lý dự thảo luật theo trình tự sau đây: Đoàn đại biểu Quốc hội, Thường trực Hội đồng dân tộc, Thường trực Ủy ban của Quốc hội có trách nhiệm tổ chức thảo luận, góp ý kiến và gửi báo cáo tổng hợp ý kiến đến cơ quan chủ trì thẩm tra chậm nhất là 20 ngày trước ngày khai mạc kỳ họp Quốc hội;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2246,7 +2390,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Tại kỳ họp thứ ba, trình tự xem xét, thông qua dự thảo luật được thực hiện theo quy định tại khoản 3 Điều 75 của Luật này.",
+                    "text": "Tại kỳ họp thứ ba, trình tự xem xét, thông qua dự thảo luật được thực hiện theo quy định tại khoản 3 Điều 75 của Luật này. Trong trường hợp dự thảo luật chưa được thông qua hoặc mới được thông qua một phần thì Quốc hội xem xét, quyết định theo đề nghị của Ủy ban thường vụ Quốc hội.",
                     "sub_clauses": []
                 }
             ]
@@ -2257,7 +2401,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ủy ban thường vụ Quốc hội xem xét, thông qua dự án pháp lệnh, dự thảo nghị quyết tại một phiên họp theo trình tự sau đây:",
+                    "text": "Ủy ban thường vụ Quốc hội xem xét, thông qua dự án pháp lệnh, dự thảo nghị quyết tại một phiên họp theo trình tự sau đây: Trường hợp cơ quan, tổ chức, đại biểu Quốc hội trình dự án, dự thảo có ý kiến khác hoặc Chính phủ có ý kiến khác đối với dự án, dự thảo không do Chính phủ trình thì Chính phủ, cơ quan, tổ chức, đại biểu Quốc hội báo cáo Ủy ban thường vụ Quốc hội xem xét, quyết định;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2299,7 +2443,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban thường vụ Quốc hội xem xét, thông qua dự án pháp lệnh, dự thảo nghị quyết tại hai phiên họp theo trình tự sau đây:",
+                    "text": "Ủy ban thường vụ Quốc hội xem xét, thông qua dự án pháp lệnh, dự thảo nghị quyết tại hai phiên họp theo trình tự sau đây: Trường hợp cơ quan, tổ chức, đại biểu Quốc hội trình dự án, dự thảo có ý kiến khác hoặc Chính phủ có ý kiến khác đối với dự án, dự thảo không do Chính phủ trình thì Chính phủ, cơ quan, tổ chức, đại biểu Quốc hội báo cáo Ủy ban thường vụ Quốc hội xem xét, quyết định;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2348,7 +2492,13 @@
         {
             "id": "Điều 79",
             "title": "Ngày thông qua luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngày thông qua luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội là ngày Quốc hội, Ủy ban thường vụ Quốc hội biểu quyết thông qua luật, pháp lệnh, nghị quyết đó. Mục 6 CÔNG BỐ LUẬT, PHÁP LỆNH, NGHỊ QUYẾT",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 80",
@@ -2356,12 +2506,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chủ tịch nước công bố luật, pháp lệnh chậm nhất là 15 ngày kể từ ngày luật, pháp lệnh được thông qua.",
+                    "text": "Chủ tịch nước công bố luật, pháp lệnh chậm nhất là 15 ngày kể từ ngày luật, pháp lệnh được thông qua. Đối với pháp lệnh đã được Ủy ban thường vụ Quốc hội thông qua mà Chủ tịch nước đề nghị Ủy ban thường vụ Quốc hội xem xét lại theo quy định tại khoản 1 Điều 88 của Hiến pháp thì chậm nhất là 10 ngày kể từ ngày pháp lệnh được thông qua, Chủ tịch nước gửi văn bản đến Ủy ban thường vụ Quốc hội yêu cầu xem xét lại. Ủy ban thường vụ Quốc hội có trách nhiệm xem xét lại những vấn đề mà Chủ tịch nước có ý kiến tại phiên họp gần nhất. Sau khi pháp lệnh được Ủy ban thường vụ Quốc hội biểu quyết, thông qua lại thì Chủ tịch nước công bố chậm nhất là 15 ngày kể từ ngày Ủy ban thường vụ Quốc hội thông qua lại. Trong trường hợp Chủ tịch nước vẫn không nhất trí thì Chủ tịch nước trình Quốc hội quyết định tại kỳ họp gần nhất. Đối với luật, pháp lệnh được xây dựng, ban hành theo trình tự, thủ tục rút gọn thì Chủ tịch nước công bố luật, pháp lệnh chậm nhất là 05 ngày kể từ ngày luật, pháp lệnh được thông qua.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Tổng thư ký Quốc hội công bố nghị quyết của Quốc hội, nghị quyết của Ủy ban thường vụ Quốc hội chậm nhất là 15 ngày kể từ ngày nghị quyết được thông qua.",
+                    "text": "Tổng thư ký Quốc hội công bố nghị quyết của Quốc hội, nghị quyết của Ủy ban thường vụ Quốc hội chậm nhất là 15 ngày kể từ ngày nghị quyết được thông qua. Đối với nghị quyết được xây dựng, ban hành theo trình tự, thủ tục rút gọn thì Tổng thư ký Quốc hội công bố nghị quyết chậm nhất là 05 ngày kể từ ngày nghị quyết được thông qua. CHƯƠNG IV XÂY DỰNG, BAN HÀNH VĂN BẢN QUY PHẠM PHÁP LUẬT CỦA CHỦ TỊCH NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -2397,7 +2547,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chủ tịch nước xem xét, ký ban hành lệnh, quyết định.",
+                    "text": "Chủ tịch nước xem xét, ký ban hành lệnh, quyết định. CHƯƠNG V XÂY DỰNG, BAN HÀNH VĂN BẢN QUY PHẠM PHÁP LUẬT CỦA CHÍNH PHỦ, THỦ TƯỚNG CHÍNH PHỦ, BỘ TRƯỞNG, THỦ TRƯỞNG CƠ QUAN NGANG BỘ Mục 1 LẬP DANH MỤC VĂN BẢN QUY ĐỊNH CHI TIẾT LUẬT, NGHỊ QUYẾT CỦA QUỐC HỘI, PHÁP LỆNH, NGHỊ QUYẾT CỦA ỦY BAN THƯỜNG VỤ QUỐC HỘI, LỆNH, QUYẾT ĐỊNH CỦA CHỦ TỊCH NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -2429,7 +2579,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ có trách nhiệm xây dựng, ban hành văn bản theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành văn bản quy định chi tiết luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước trong danh mục văn bản quy định chi tiết; định kỳ hằng quý và hằng năm báo cáo tiến độ, tình hình ban hành văn bản quy định chi tiết với Bộ Tư pháp để theo dõi, tổng hợp báo cáo Chính phủ.",
+                    "text": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ có trách nhiệm xây dựng, ban hành văn bản theo thẩm quyền hoặc trình cơ quan có thẩm quyền ban hành văn bản quy định chi tiết luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước trong danh mục văn bản quy định chi tiết; định kỳ hằng quý và hằng năm báo cáo tiến độ, tình hình ban hành văn bản quy định chi tiết với Bộ Tư pháp để theo dõi, tổng hợp báo cáo Chính phủ. Mục 2 XÂY DỰNG, BAN HÀNH NGHỊ ĐỊNH",
                     "sub_clauses": []
                 }
             ]
@@ -2478,7 +2628,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tổng kết việc thi hành pháp luật, đánh giá các văn bản quy phạm pháp luật hiện hành có liên quan đến đề nghị xây dựng nghị định; khảo sát, đánh giá thực trạng quan hệ xã hội liên quan đến đề nghị xây dựng nghị định.",
+                    "text": "Tổng kết việc thi hành pháp luật, đánh giá các văn bản quy phạm pháp luật hiện hành có liên quan đến đề nghị xây dựng nghị định; khảo sát, đánh giá thực trạng quan hệ xã hội liên quan đến đề nghị xây dựng nghị định. Trong trường hợp cần thiết, đề nghị cơ quan, tổ chức có liên quan tổng kết, đánh giá việc thực hiện các văn bản quy phạm pháp luật thuộc lĩnh vực do cơ quan, tổ chức đó phụ trách có liên quan đến đề nghị xây dựng nghị định.",
                     "sub_clauses": []
                 },
                 {
@@ -2508,8 +2658,13 @@
             "title": "Lấy ý kiến đối với đề nghị xây dựng nghị định",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Cơ quan lập đề nghị xây dựng nghị định có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
-                    "text": "Cơ quan lập đề nghị xây dựng nghị định lấy ý kiến đối tượng chịu sự tác động trực tiếp của chính sách trong đề nghị xây dựng nghị định và cơ quan, tổ chức có liên quan; nêu những vấn đề cần xin ý kiến phù hợp với từng đối tượng lấy ý kiến và xác định cụ thể địa chỉ tiếp nhận ý kiến; đăng tải toàn văn hồ sơ đề nghị xây dựng nghị định trên Cổng thông tin điện tử của Chính phủ và của cơ quan đề nghị xây dựng nghị định trong thời hạn ít nhất là 30 ngày để các cơ quan, tổ chức, cá nhân góp ý kiến.",
+                    "text": "Cơ quan lập đề nghị xây dựng nghị định lấy ý kiến đối tượng chịu sự tác động trực tiếp của chính sách trong đề nghị xây dựng nghị định và cơ quan, tổ chức có liên quan; nêu những vấn đề cần xin ý kiến phù hợp với từng đối tượng lấy ý kiến và xác định cụ thể địa chỉ tiếp nhận ý kiến; đăng tải toàn văn hồ sơ đề nghị xây dựng nghị định trên Cổng thông tin điện tử của Chính phủ và của cơ quan đề nghị xây dựng nghị định trong thời hạn ít nhất là 30 ngày để các cơ quan, tổ chức, cá nhân góp ý kiến. Đối với trường hợp lấy ý kiến bằng văn bản, tùy theo tính chất, nội dung của đề nghị xây dựng nghị định, cơ quan lập đề nghị xây dựng nghị định gửi văn bản lấy ý kiến các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ. Cơ quan được lấy ý kiến có trách nhiệm trả lời bằng văn bản trong thời hạn 15 ngày kể từ ngày nhận được đề nghị góp ý kiến. Bộ Tài chính có trách nhiệm góp ý kiến về nguồn tài chính, Bộ Nội vụ có trách nhiệm góp ý kiến về nguồn nhân lực, Bộ Ngoại giao có trách nhiệm góp ý kiến về tính tương thích với điều ước quốc tế có liên quan mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, Bộ Tư pháp có trách nhiệm góp ý kiến về tính hợp hiến, tính hợp pháp, tính thống nhất của đề nghị xây dựng nghị định với hệ thống pháp luật;",
                     "sub_clauses": []
                 },
                 {
@@ -2571,7 +2726,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ thẩm định gửi đến Bộ Tư pháp gồm các tài liệu quy định tại Điều 87 của Luật này.",
+                    "text": "Hồ sơ thẩm định gửi đến Bộ Tư pháp gồm các tài liệu quy định tại Điều 87 của Luật này. Tài liệu quy định tại khoản 1 và khoản 2 Điều 87 của Luật này được gửi bằng bản giấy, tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": []
                 },
                 {
@@ -2627,7 +2782,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ trình Chính phủ bao gồm:",
+                    "text": "Hồ sơ trình Chính phủ bao gồm: Tài liệu quy định tại khoản 1 và khoản 2 Điều 87 của Luật này và tài liệu quy định tại điểm b khoản này được gửi bằng bản giấy, tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2713,7 +2868,13 @@
         {
             "id": "Điều 91",
             "title": "Lấy ý kiến đối với dự thảo nghị định",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong quá trình soạn thảo nghị định, cơ quan chủ trì soạn thảo phải lấy ý kiến các đối tượng chịu sự tác động trực tiếp của văn bản và bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ theo quy định tại các khoản 1, 2 và 3 Điều 57 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 92",
@@ -2721,12 +2882,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Bộ Tư pháp có trách nhiệm thẩm định dự thảo nghị định trước khi trình Chính phủ.",
+                    "text": "Bộ Tư pháp có trách nhiệm thẩm định dự thảo nghị định trước khi trình Chính phủ. Đối với dự thảo nghị định có nội dung phức tạp, liên quan đến nhiều ngành, nhiều lĩnh vực hoặc do Bộ Tư pháp chủ trì soạn thảo thì Bộ trưởng Bộ Tư pháp thành lập hội đồng thẩm định, bao gồm đại diện các cơ quan, tổ chức có liên quan, các chuyên gia, nhà khoa học.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ gửi thẩm định bao gồm:",
+                    "text": "Hồ sơ gửi thẩm định bao gồm: Tài liệu quy định tại điểm a và điểm b khoản này được gửi bằng bản giấy, tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2783,7 +2944,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Báo cáo thẩm định phải thể hiện rõ ý kiến của cơ quan thẩm định về nội dung thẩm định quy định tại khoản 3 Điều này và ý kiến về việc dự thảo đủ điều kiện hoặc chưa đủ điều kiện trình Chính phủ.",
+                    "text": "Báo cáo thẩm định phải thể hiện rõ ý kiến của cơ quan thẩm định về nội dung thẩm định quy định tại khoản 3 Điều này và ý kiến về việc dự thảo đủ điều kiện hoặc chưa đủ điều kiện trình Chính phủ. Báo cáo thẩm định phải được gửi đến cơ quan chủ trì soạn thảo trong thời hạn chậm nhất là 15 ngày kể từ ngày cơ quan thẩm định nhận đủ hồ sơ gửi thẩm định.",
                     "sub_clauses": []
                 },
                 {
@@ -2829,7 +2990,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Tài liệu khác (nếu có).",
+                    "text": "Tài liệu khác (nếu có). Tài liệu quy định tại các khoản 1, 2 và 3 Điều này được gửi bằng bản giấy, tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": []
                 }
             ]
@@ -2837,7 +2998,13 @@
         {
             "id": "Điều 94",
             "title": "Chỉnh lý, hoàn thiện dự thảo nghị định trước khi trình Chính phủ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong trường hợp còn có ý kiến khác nhau giữa các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ về những vấn đề lớn thuộc nội dung của dự thảo nghị định thì Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ tổ chức cuộc họp gồm đại diện lãnh đạo của cơ quan chủ trì soạn thảo, Bộ Tư pháp, bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan để thảo luận trước khi trình Chính phủ xem xét, quyết định. Căn cứ vào ý kiến tại cuộc họp này, cơ quan chủ trì soạn thảo phối hợp với các cơ quan có liên quan tiếp tục chỉnh lý, hoàn thiện dự thảo để trình Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 95",
@@ -2900,6 +3067,11 @@
             "title": "Trình tự xem xét, thông qua dự thảo nghị định",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Chính phủ xem xét, thông qua dự thảo nghị định theo trình tự sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Đại diện cơ quan chủ trì soạn thảo thuyết trình về dự thảo nghị định;",
                     "sub_clauses": []
@@ -2921,17 +3093,17 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ thảo luận.",
+                    "text": "Chính phủ thảo luận. Cơ quan chủ trì soạn thảo phối hợp với Bộ Tư pháp, Văn phòng Chính phủ và các cơ quan có liên quan chỉnh lý dự thảo nghị định theo ý kiến của Chính phủ;",
                     "sub_clauses": []
                 },
                 {
                     "number": "6",
-                    "text": "Chính phủ biểu quyết thông qua dự thảo nghị định.",
+                    "text": "Chính phủ biểu quyết thông qua dự thảo nghị định. Trong trường hợp dự thảo nghị định chưa được thông qua thì Thủ tướng Chính phủ chỉ đạo những vấn đề cần phải chỉnh lý và ấn định thời gian trình lại dự thảo, đồng thời giao cơ quan chủ trì soạn thảo hoàn thiện dự thảo để trình Chính phủ xem xét, thông qua;",
                     "sub_clauses": []
                 },
                 {
                     "number": "7",
-                    "text": "Thủ tướng Chính phủ ký nghị định.",
+                    "text": "Thủ tướng Chính phủ ký nghị định. Mục 3 XÂY DỰNG, BAN HÀNH QUYẾT ĐỊNH CỦA THỦ TƯỚNG CHÍNH PHỦ",
                     "sub_clauses": []
                 }
             ]
@@ -2947,7 +3119,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan được giao chủ trì soạn thảo có nhiệm vụ sau đây:",
+                    "text": "Cơ quan được giao chủ trì soạn thảo có nhiệm vụ sau đây: Đối với trường hợp lấy ý kiến bằng văn bản, tùy theo tính chất, nội dung của dự thảo quyết định, cơ quan chủ trì soạn thảo gửi văn bản lấy ý kiến các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ. Cơ quan được lấy ý kiến có trách nhiệm trả lời bằng văn bản trong thời hạn 20 ngày kể từ ngày nhận được đề nghị góp ý kiến. Bộ Tài chính có trách nhiệm góp ý kiến về nguồn tài chính, Bộ Nội vụ có trách nhiệm góp ý kiến về nguồn nhân lực, Bộ Ngoại giao có trách nhiệm góp ý kiến về tính tương thích với điều ước quốc tế có liên quan mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, Bộ Tư pháp có trách nhiệm góp ý kiến về tính hợp hiến, tính hợp pháp, tính thống nhất của dự thảo quyết định với hệ thống pháp luật;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2979,12 +3151,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Bộ Tư pháp có trách nhiệm thẩm định dự thảo quyết định của Thủ tướng Chính phủ trước khi trình Thủ tướng Chính phủ.",
+                    "text": "Bộ Tư pháp có trách nhiệm thẩm định dự thảo quyết định của Thủ tướng Chính phủ trước khi trình Thủ tướng Chính phủ. Đối với dự thảo quyết định có nội dung phức tạp, liên quan đến nhiều ngành, nhiều lĩnh vực hoặc do Bộ Tư pháp chủ trì soạn thảo thì Bộ trưởng Bộ Tư pháp thành lập hội đồng thẩm định, bao gồm đại diện các cơ quan, tổ chức có liên quan, các chuyên gia, nhà khoa học.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ gửi thẩm định bao gồm:",
+                    "text": "Hồ sơ gửi thẩm định bao gồm: Tài liệu quy định tại điểm a và điểm b khoản này được gửi bằng bản giấy, tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3045,7 +3217,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Báo cáo thẩm định phải thể hiện rõ ý kiến của cơ quan thẩm định về nội dung thẩm định quy định tại khoản 1 Điều này và ý kiến về việc dự thảo đủ điều kiện hoặc chưa đủ điều kiện trình Thủ tướng Chính phủ.",
+                    "text": "Báo cáo thẩm định phải thể hiện rõ ý kiến của cơ quan thẩm định về nội dung thẩm định quy định tại khoản 1 Điều này và ý kiến về việc dự thảo đủ điều kiện hoặc chưa đủ điều kiện trình Thủ tướng Chính phủ. Báo cáo thẩm định phải được gửi đến cơ quan chủ trì soạn thảo chậm nhất là 15 ngày kể từ ngày nhận đủ hồ sơ gửi thẩm định.",
                     "sub_clauses": []
                 },
                 {
@@ -3086,7 +3258,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Tài liệu khác (nếu có).",
+                    "text": "Tài liệu khác (nếu có). Tài liệu quy định tại các khoản 1, 2 và 3 Điều này được gửi bằng bản giấy, các tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": []
                 }
             ]
@@ -3097,12 +3269,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trong thời hạn 10 ngày kể từ ngày nhận đủ hồ sơ dự thảo quyết định, Văn phòng Chính phủ có trách nhiệm kiểm tra hồ sơ dự thảo quyết định. Trường hợp còn có ý kiến khác nhau giữa các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ về những vấn đề lớn thuộc nội dung của dự thảo quyết định của Thủ tướng Chính phủ thì Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ tổ chức cuộc họp gồm đại diện lãnh đạo của cơ quan chủ trì soạn thảo, Bộ Tư pháp, lãnh đạo của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan để giải quyết trước khi trình Thủ tướng Chính phủ xem xét, quyết định.",
+                    "text": "Trong thời hạn 10 ngày kể từ ngày nhận đủ hồ sơ dự thảo quyết định, Văn phòng Chính phủ có trách nhiệm kiểm tra hồ sơ dự thảo quyết định. Trường hợp còn có ý kiến khác nhau giữa các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ về những vấn đề lớn thuộc nội dung của dự thảo quyết định của Thủ tướng Chính phủ thì Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ tổ chức cuộc họp gồm đại diện lãnh đạo của cơ quan chủ trì soạn thảo, Bộ Tư pháp, lãnh đạo của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ có liên quan để giải quyết trước khi trình Thủ tướng Chính phủ xem xét, quyết định. Căn cứ vào ý kiến tại cuộc họp này, cơ quan chủ trì soạn thảo phối hợp với các cơ quan có liên quan tiếp tục chỉnh lý, hoàn thiện dự thảo quyết định trình Thủ tướng Chính phủ. Trong trường hợp Thủ tướng Chính phủ có ý kiến về dự thảo quyết định thì cơ quan chủ trì soạn thảo chủ trì, phối hợp với Bộ Tư pháp và Văn phòng Chính phủ chỉnh lý, hoàn thiện dự thảo quyết định và trình Thủ tướng Chính phủ ký ban hành quyết định.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Thủ tướng Chính phủ xem xét, ký ban hành quyết định.",
+                    "text": "Thủ tướng Chính phủ xem xét, ký ban hành quyết định. Mục 4 XÂY DỰNG, BAN HÀNH THÔNG TƯ CỦA BỘ TRƯỞNG, THỦ TRƯỞNG CƠ QUAN NGANG BỘ",
                     "sub_clauses": []
                 }
             ]
@@ -3118,7 +3290,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong quá trình soạn thảo thông tư, bộ, cơ quan ngang bộ chủ trì soạn thảo phải lấy ý kiến đối tượng chịu sự tác động trực tiếp của văn bản; nêu những vấn đề cần xin ý kiến phù hợp với từng đối tượng lấy ý kiến và xác định cụ thể địa chỉ tiếp nhận ý kiến; đăng tải toàn văn dự thảo trên Cổng thông tin điện tử của Chính phủ và cổng thông tin điện tử của bộ, cơ quan ngang bộ trong thời gian ít nhất là 60 ngày.",
+                    "text": "Trong quá trình soạn thảo thông tư, bộ, cơ quan ngang bộ chủ trì soạn thảo phải lấy ý kiến đối tượng chịu sự tác động trực tiếp của văn bản; nêu những vấn đề cần xin ý kiến phù hợp với từng đối tượng lấy ý kiến và xác định cụ thể địa chỉ tiếp nhận ý kiến; đăng tải toàn văn dự thảo trên Cổng thông tin điện tử của Chính phủ và cổng thông tin điện tử của bộ, cơ quan ngang bộ trong thời gian ít nhất là 60 ngày. Tùy theo tính chất và nội dung của dự thảo thông tư, bộ, cơ quan ngang bộ có thể lấy ý kiến của các bộ, cơ quan ngang bộ khác, cơ quan thuộc Chính phủ, Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh, các cơ quan, tổ chức khác, các chuyên gia, nhà khoa học. Cơ quan, tổ chức được lấy ý kiến có trách nhiệm trả lời bằng văn bản chậm nhất là 20 ngày kể từ ngày nhận được đề nghị góp ý kiến.",
                     "sub_clauses": []
                 },
                 {
@@ -3134,12 +3306,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tổ chức pháp chế thuộc bộ, cơ quan ngang bộ có trách nhiệm thẩm định dự thảo thông tư trước khi trình Bộ trưởng, Thủ trưởng cơ quan ngang bộ.",
+                    "text": "Tổ chức pháp chế thuộc bộ, cơ quan ngang bộ có trách nhiệm thẩm định dự thảo thông tư trước khi trình Bộ trưởng, Thủ trưởng cơ quan ngang bộ. Đối với thông tư có quy định ảnh hưởng trực tiếp đến quyền, nghĩa vụ, lợi ích của người dân, doanh nghiệp, liên quan đến nhiều ngành, nhiều lĩnh vực hoặc do tổ chức pháp chế chủ trì soạn thảo thì Bộ trưởng, Thủ trưởng cơ quan ngang bộ thành lập hội đồng tư vấn thẩm định có sự tham gia của cơ quan, tổ chức, đơn vị có liên quan, các chuyên gia, nhà khoa học.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ gửi thẩm định bao gồm:",
+                    "text": "Hồ sơ gửi thẩm định bao gồm: Tài liệu quy định tại điểm a và điểm b khoản này được gửi bằng bản giấy, tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3195,7 +3367,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Báo cáo thẩm định phải thể hiện rõ ý kiến của tổ chức pháp chế về nội dung thẩm định quy định tại khoản 3 Điều này.",
+                    "text": "Báo cáo thẩm định phải thể hiện rõ ý kiến của tổ chức pháp chế về nội dung thẩm định quy định tại khoản 3 Điều này. Báo cáo thẩm định phải được gửi đến đơn vị chủ trì soạn thảo chậm nhất là 10 ngày kể từ ngày nhận đủ hồ sơ gửi thẩm định.",
                     "sub_clauses": []
                 },
                 {
@@ -3236,7 +3408,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Tài liệu khác (nếu có).",
+                    "text": "Tài liệu khác (nếu có). Tài liệu quy định tại các khoản 1, 2 và 3 Điều này được gửi bằng bản giấy, tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": []
                 }
             ]
@@ -3247,12 +3419,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đơn vị chủ trì soạn thảo báo cáo Bộ trưởng, Thủ trưởng cơ quan ngang bộ về dự thảo thông tư.",
+                    "text": "Đơn vị chủ trì soạn thảo báo cáo Bộ trưởng, Thủ trưởng cơ quan ngang bộ về dự thảo thông tư. Trong trường hợp dự thảo còn vấn đề có ý kiến khác nhau giữa các đơn vị thì tổ chức pháp chế chủ trì phối hợp với các đơn vị có liên quan thống nhất ý kiến trước khi trình Bộ trưởng, Thủ trưởng cơ quan ngang bộ. Căn cứ vào ý kiến tại cuộc họp này, đơn vị chủ trì soạn thảo phối hợp với tổ chức pháp chế, các đơn vị có liên quan chỉnh lý, hoàn thiện dự thảo thông tư trình Bộ trưởng, Thủ trưởng cơ quan ngang bộ.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ xem xét, ký ban hành thông tư.",
+                    "text": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ xem xét, ký ban hành thông tư. CHƯƠNG VI XÂY DỰNG, BAN HÀNH VĂN BẢN QUY PHẠM PHÁP LUẬT CỦA HỘI ĐỒNG THẨM PHÁN TÒA ÁN NHÂN DÂN TỐI CAO, CHÁNH ÁN TÒA ÁN NHÂN DÂN TỐI CAO, VIỆN TRƯỞNG VIỆN KIỂM SÁT NHÂN DÂN TỐI CAO, TỔNG KIỂM TOÁN NHÀ NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -3268,7 +3440,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Dự thảo nghị quyết được đăng tải trên Cổng thông tin điện tử của Chính phủ và Cổng thông tin điện tử của Tòa án nhân dân tối cao trong thời gian ít nhất là 60 ngày để cơ quan, tổ chức, cá nhân tham gia ý kiến.",
+                    "text": "Dự thảo nghị quyết được đăng tải trên Cổng thông tin điện tử của Chính phủ và Cổng thông tin điện tử của Tòa án nhân dân tối cao trong thời gian ít nhất là 60 ngày để cơ quan, tổ chức, cá nhân tham gia ý kiến. Dự thảo nghị quyết phải gửi để lấy ý kiến của Viện kiểm sát nhân dân tối cao, Bộ Tư pháp, bộ, cơ quan ngang bộ có liên quan, Hội Luật gia Việt Nam và Liên đoàn luật sư Việt Nam.",
                     "sub_clauses": []
                 },
                 {
@@ -3288,7 +3460,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Hội đồng Thẩm phán Tòa án nhân dân tối cao tổ chức phiên họp để thông qua dự thảo nghị quyết.",
+                    "text": "Hội đồng Thẩm phán Tòa án nhân dân tối cao tổ chức phiên họp để thông qua dự thảo nghị quyết. Trong trường hợp Viện trưởng Viện kiểm sát nhân dân tối cao, Bộ trưởng Bộ Tư pháp không nhất trí với nghị quyết của Hội đồng Thẩm phán Tòa án nhân dân tối cao thì có quyền báo cáo Ủy ban thường vụ Quốc hội xem xét, cho ý kiến tại phiên họp gần nhất.",
                     "sub_clauses": []
                 },
                 {
@@ -3309,7 +3481,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đơn vị được phân công chủ trì soạn thảo có trách nhiệm tổng kết thực tiễn thi hành pháp luật liên quan đến dự thảo; nghiên cứu thông tin, tư liệu có liên quan; chuẩn bị đề cương, biên soạn và chỉnh lý dự thảo; tổ chức lấy ý kiến; chuẩn bị tờ trình và tài liệu có liên quan đến dự thảo.",
+                    "text": "Đơn vị được phân công chủ trì soạn thảo có trách nhiệm tổng kết thực tiễn thi hành pháp luật liên quan đến dự thảo; nghiên cứu thông tin, tư liệu có liên quan; chuẩn bị đề cương, biên soạn và chỉnh lý dự thảo; tổ chức lấy ý kiến; chuẩn bị tờ trình và tài liệu có liên quan đến dự thảo. Dự thảo thông tư được đăng tải trên Cổng thông tin điện tử của Tòa án nhân dân tối cao trong thời gian ít nhất là 60 ngày để cơ quan, tổ chức, cá nhân tham gia ý kiến. Tùy theo tính chất và nội dung của dự thảo, Chánh án Tòa án nhân dân tối cao quyết định gửi dự thảo thông tư để lấy ý kiến của Tòa án nhân dân địa phương, Tòa án quân sự và cơ quan, tổ chức có liên quan.",
                     "sub_clauses": []
                 },
                 {
@@ -3335,7 +3507,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đơn vị được phân công chủ trì soạn thảo có trách nhiệm tổng kết thực tiễn thi hành pháp luật liên quan đến dự thảo; nghiên cứu thông tin, tư liệu có liên quan; chuẩn bị đề cương, biên soạn và chỉnh lý dự thảo; tổ chức lấy ý kiến; chuẩn bị tờ trình và tài liệu có liên quan đến dự thảo.",
+                    "text": "Đơn vị được phân công chủ trì soạn thảo có trách nhiệm tổng kết thực tiễn thi hành pháp luật liên quan đến dự thảo; nghiên cứu thông tin, tư liệu có liên quan; chuẩn bị đề cương, biên soạn và chỉnh lý dự thảo; tổ chức lấy ý kiến; chuẩn bị tờ trình và tài liệu có liên quan đến dự thảo. Dự thảo thông tư được đăng tải trên Cổng thông tin điện tử của Viện kiểm sát nhân dân tối cao trong thời gian ít nhất là 60 ngày để cơ quan, tổ chức, cá nhân tham gia ý kiến. Tuỳ theo tính chất và nội dung của dự thảo, Viện trưởng Viện kiểm sát nhân dân tối cao quyết định gửi dự thảo thông tư để lấy ý kiến Viện kiểm sát nhân dân địa phương, Viện kiểm sát quân sự và cơ quan, tổ chức có liên quan.",
                     "sub_clauses": []
                 },
                 {
@@ -3371,7 +3543,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Tổng Kiểm toán nhà nước chỉ đạo việc tiếp thu ý kiến góp ý, xem xét và ký ban hành quyết định.",
+                    "text": "Tổng Kiểm toán nhà nước chỉ đạo việc tiếp thu ý kiến góp ý, xem xét và ký ban hành quyết định. CHƯƠNG VII XÂY DỰNG, BAN HÀNH VĂN BẢN QUY PHẠM PHÁP LUẬT LIÊN TỊCH",
                     "sub_clauses": []
                 }
             ]
@@ -3397,7 +3569,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trước khi ban hành, dự thảo nghị quyết liên tịch giữa Ủy ban thường vụ Quốc hội với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam phải được Hội đồng dân tộc, Ủy ban của Quốc hội thẩm tra; dự thảo nghị quyết liên tịch giữa Chính phủ với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam phải được Bộ Tư pháp thẩm định.",
+                    "text": "Trước khi ban hành, dự thảo nghị quyết liên tịch giữa Ủy ban thường vụ Quốc hội với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam phải được Hội đồng dân tộc, Ủy ban của Quốc hội thẩm tra; dự thảo nghị quyết liên tịch giữa Chính phủ với Đoàn Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam phải được Bộ Tư pháp thẩm định. Hồ sơ, nội dung thẩm định theo quy định tại khoản 2 và khoản 3 Điều 58; hồ sơ, nội dung thẩm tra theo quy định tại khoản 1 Điều 64 và Điều 65 của Luật này.",
                     "sub_clauses": []
                 },
                 {
@@ -3407,7 +3579,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Dự thảo được thông qua khi có sự thống nhất ý kiến của các cơ quan, tổ chức có thẩm quyền ban hành nghị quyết liên tịch.",
+                    "text": "Dự thảo được thông qua khi có sự thống nhất ý kiến của các cơ quan, tổ chức có thẩm quyền ban hành nghị quyết liên tịch. Chủ tịch Quốc hội hoặc Thủ tướng Chính phủ và Chủ tịch Ủy ban trung ương Mặt trận Tổ quốc Việt Nam cùng ký ban hành nghị quyết liên tịch.",
                     "sub_clauses": []
                 }
             ]
@@ -3428,7 +3600,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Dự thảo được đăng tải trên cổng thông tin điện tử của cơ quan chủ trì soạn thảo trong thời gian ít nhất là 60 ngày để cơ quan, tổ chức, cá nhân tham gia ý kiến.",
+                    "text": "Dự thảo được đăng tải trên cổng thông tin điện tử của cơ quan chủ trì soạn thảo trong thời gian ít nhất là 60 ngày để cơ quan, tổ chức, cá nhân tham gia ý kiến. Dự thảo thông tư liên tịch giữa Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao; thông tư liên tịch giữa Bộ trưởng, Thủ trưởng cơ quan ngang bộ với Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao phải được lấy ý kiến các thành viên Hội đồng Thẩm phán Tòa án nhân dân tối cao, thành viên Ủy ban kiểm sát Viện kiểm sát nhân dân tối cao.",
                     "sub_clauses": []
                 },
                 {
@@ -3438,7 +3610,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Dự thảo được thông qua khi có sự thống nhất ý kiến của các cơ quan có thẩm quyền ban hành thông tư liên tịch.",
+                    "text": "Dự thảo được thông qua khi có sự thống nhất ý kiến của các cơ quan có thẩm quyền ban hành thông tư liên tịch. Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Bộ trưởng, Thủ trưởng cơ quan ngang bộ cùng ký ban hành thông tư liên tịch. CHƯƠNG VIII XÂY DỰNG, BAN HÀNH NGHỊ QUYẾT CỦA  HỘI ĐỒNG NHÂN DÂN CẤP TỈNH",
                     "sub_clauses": []
                 }
             ]
@@ -3470,7 +3642,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tổng kết việc thi hành pháp luật hoặc đánh giá các văn bản quy phạm pháp luật hiện hành có liên quan đến đề nghị xây dựng nghị quyết; khảo sát, đánh giá thực trạng quan hệ xã hội liên quan đến nội dung chính của dự thảo nghị quyết.",
+                    "text": "Tổng kết việc thi hành pháp luật hoặc đánh giá các văn bản quy phạm pháp luật hiện hành có liên quan đến đề nghị xây dựng nghị quyết; khảo sát, đánh giá thực trạng quan hệ xã hội liên quan đến nội dung chính của dự thảo nghị quyết. Trong trường hợp cần thiết, đề nghị cơ quan, tổ chức có liên quan tổng kết, đánh giá việc thực hiện các văn bản quy phạm pháp luật thuộc lĩnh vực do cơ quan, tổ chức đó phụ trách có liên quan đến nội dung của dự thảo.",
                     "sub_clauses": []
                 },
                 {
@@ -3501,7 +3673,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ quan đề nghị xây dựng nghị quyết có trách nhiệm lấy ý kiến đối tượng chịu sự tác động trực tiếp của chính sách trong đề nghị xây dựng nghị quyết và các cơ quan, tổ chức có liên quan; nêu những vấn đề cần xin ý kiến phù hợp với từng đối tượng lấy ý kiến và xác định cụ thể địa chỉ tiếp nhận ý kiến; đăng tải toàn văn hồ sơ đề nghị xây dựng nghị quyết trên cổng thông tin điện tử của tỉnh, thành phố trực thuộc trung ương trong thời hạn ít nhất là 30 ngày để các cơ quan, tổ chức, cá nhân tham gia ý kiến.",
+                    "text": "Cơ quan đề nghị xây dựng nghị quyết có trách nhiệm lấy ý kiến đối tượng chịu sự tác động trực tiếp của chính sách trong đề nghị xây dựng nghị quyết và các cơ quan, tổ chức có liên quan; nêu những vấn đề cần xin ý kiến phù hợp với từng đối tượng lấy ý kiến và xác định cụ thể địa chỉ tiếp nhận ý kiến; đăng tải toàn văn hồ sơ đề nghị xây dựng nghị quyết trên cổng thông tin điện tử của tỉnh, thành phố trực thuộc trung ương trong thời hạn ít nhất là 30 ngày để các cơ quan, tổ chức, cá nhân tham gia ý kiến. Ngoài đăng tải để lấy ý kiến theo quy định tại khoản này, việc lấy ý kiến có thể bằng hình thức lấy ý kiến trực tiếp, gửi dự thảo đề nghị góp ý kiến, tổ chức hội thảo hoặc thông qua phương tiện thông tin đại chúng để các cơ quan, tổ chức, cá nhân tham gia ý kiến.",
                     "sub_clauses": []
                 },
                 {
@@ -3563,7 +3735,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ đề nghị xây dựng nghị quyết gửi để thẩm định gồm các tài liệu theo quy định tại Điều 114 của Luật này.",
+                    "text": "Hồ sơ đề nghị xây dựng nghị quyết gửi để thẩm định gồm các tài liệu theo quy định tại Điều 114 của Luật này. Tài liệu quy định tại khoản 1 và khoản 2 Điều 114 của Luật này được gửi bằng bản giấy, tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": []
                 },
                 {
@@ -3645,7 +3817,13 @@
         {
             "id": "Điều 118",
             "title": "Phân công cơ quan, tổ chức chủ trì soạn thảo nghị quyết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Thường trực Hội đồng nhân dân cấp tỉnh xem xét đề nghị xây dựng nghị quyết; nếu chấp thuận thì phân công cơ quan, tổ chức trình dự thảo nghị quyết và quyết định thời hạn trình Hội đồng nhân dân cấp tỉnh dự thảo nghị quyết; cơ quan, tổ chức trình phân công cơ quan, tổ chức chủ trì soạn thảo, cơ quan phối hợp soạn thảo dự thảo nghị quyết.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 119",
@@ -3674,7 +3852,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan chủ trì soạn thảo tổ chức lấy ý kiến của cơ quan, tổ chức có liên quan.",
+                    "text": "Cơ quan chủ trì soạn thảo tổ chức lấy ý kiến của cơ quan, tổ chức có liên quan. Trong trường hợp lấy ý kiến của đối tượng chịu sự tác động trực tiếp của nghị quyết thì cơ quan lấy ý kiến có trách nhiệm xác định những vấn đề cần lấy ý kiến và bảo đảm ít nhất là 30 ngày kể từ ngày tổ chức lấy ý kiến để các đối tượng được lấy ý kiến góp ý vào dự thảo văn bản.",
                     "sub_clauses": []
                 },
                 {
@@ -3690,12 +3868,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Dự thảo nghị quyết của Hội đồng nhân dân cấp tỉnh do Ủy ban nhân dân cùng cấp trình phải được Sở Tư pháp thẩm định trước khi trình Ủy ban nhân dân.",
+                    "text": "Dự thảo nghị quyết của Hội đồng nhân dân cấp tỉnh do Ủy ban nhân dân cùng cấp trình phải được Sở Tư pháp thẩm định trước khi trình Ủy ban nhân dân. Trong trường hợp cần thiết, Sở Tư pháp yêu cầu cơ quan chủ trì soạn thảo báo cáo những vấn đề thuộc nội dung của dự thảo nghị quyết; tự mình hoặc cùng cơ quan chủ trì soạn thảo tổ chức khảo sát về những vấn đề thuộc nội dung của dự thảo nghị quyết. Cơ quan chủ trì soạn thảo có trách nhiệm cung cấp thông tin, tài liệu phục vụ cho việc thẩm định dự thảo nghị quyết. Đối với dự thảo nghị quyết liên quan đến nhiều lĩnh vực hoặc do Sở Tư pháp chủ trì soạn thảo thì Giám đốc Sở Tư pháp thành lập hội đồng tư vấn thẩm định, bao gồm đại diện các cơ quan, tổ chức có liên quan, các chuyên gia, nhà khoa học. Chậm nhất là 20 ngày trước ngày Ủy ban nhân dân họp, cơ quan chủ trì soạn thảo phải gửi hồ sơ dự thảo nghị quyết đến Sở Tư pháp để thẩm định.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ gửi thẩm định bao gồm:",
+                    "text": "Hồ sơ gửi thẩm định bao gồm: Tài liệu quy định tại điểm a và điểm b khoản này được gửi bằng bản giấy, tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3739,7 +3917,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Báo cáo thẩm định phải thể hiện rõ ý kiến của cơ quan thẩm định về nội dung thẩm định quy định tại khoản 3 Điều này và ý kiến về việc dự án đủ điều kiện hoặc chưa đủ điều kiện trình Ủy ban nhân dân.",
+                    "text": "Báo cáo thẩm định phải thể hiện rõ ý kiến của cơ quan thẩm định về nội dung thẩm định quy định tại khoản 3 Điều này và ý kiến về việc dự án đủ điều kiện hoặc chưa đủ điều kiện trình Ủy ban nhân dân. Báo cáo thẩm định phải được gửi đến cơ quan chủ trì soạn thảo trong thời hạn 10 ngày kể từ ngày Sở Tư pháp nhận đủ hồ sơ gửi thẩm định.",
                     "sub_clauses": []
                 },
                 {
@@ -3755,7 +3933,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hồ sơ dự thảo nghị quyết trình Ủy ban nhân dân cấp tỉnh bao gồm:",
+                    "text": "Hồ sơ dự thảo nghị quyết trình Ủy ban nhân dân cấp tỉnh bao gồm: Tài liệu quy định tại các điểm a, b và c khoản này được gửi bằng bản giấy, tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3797,7 +3975,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đối với dự thảo nghị quyết do cơ quan, tổ chức khác trình thì Ủy ban nhân dân có trách nhiệm tham gia ý kiến bằng văn bản.",
+                    "text": "Đối với dự thảo nghị quyết do cơ quan, tổ chức khác trình thì Ủy ban nhân dân có trách nhiệm tham gia ý kiến bằng văn bản. Chậm nhất là 25 ngày trước ngày khai mạc kỳ họp Hội đồng nhân dân, cơ quan, tổ chức trình dự thảo nghị quyết phải gửi tờ trình, dự thảo nghị quyết và các tài liệu có liên quan đến Ủy ban nhân dân cấp tỉnh để Ủy ban nhân dân tham gia ý kiến. Chậm nhất là 20 ngày trước ngày khai mạc kỳ họp Hội đồng nhân dân, Ủy ban nhân dân phải gửi ý kiến bằng văn bản đến cơ quan, tổ chức trình dự thảo nghị quyết.",
                     "sub_clauses": []
                 }
             ]
@@ -3813,7 +3991,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chậm nhất là 15 ngày trước ngày khai mạc kỳ họp Hội đồng nhân dân, cơ quan trình dự thảo nghị quyết phải gửi hồ sơ dự thảo nghị quyết đến Ban của Hội đồng nhân dân được phân công thẩm tra để thẩm tra. Hồ sơ gửi thẩm tra bao gồm:",
+                    "text": "Chậm nhất là 15 ngày trước ngày khai mạc kỳ họp Hội đồng nhân dân, cơ quan trình dự thảo nghị quyết phải gửi hồ sơ dự thảo nghị quyết đến Ban của Hội đồng nhân dân được phân công thẩm tra để thẩm tra. Hồ sơ gửi thẩm tra bao gồm: Tài liệu quy định tại các điểm a, b và c khoản này được gửi bằng bản giấy, tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3861,7 +4039,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Báo cáo thẩm tra phải thể hiện rõ quan điểm của cơ quan thẩm tra về những vấn đề thuộc nội dung thẩm tra quy định tại khoản 3 Điều này và đề xuất những nội dung cần sửa đổi, bổ sung, phương án xử lý của cơ quan chủ trì thẩm tra đối với những vấn đề còn có ý kiến khác nhau.",
+                    "text": "Báo cáo thẩm tra phải thể hiện rõ quan điểm của cơ quan thẩm tra về những vấn đề thuộc nội dung thẩm tra quy định tại khoản 3 Điều này và đề xuất những nội dung cần sửa đổi, bổ sung, phương án xử lý của cơ quan chủ trì thẩm tra đối với những vấn đề còn có ý kiến khác nhau. Báo cáo thẩm tra phải được gửi đến Thường trực Hội đồng nhân dân chậm nhất là 10 ngày trước ngày khai mạc kỳ họp Hội đồng nhân dân.",
                     "sub_clauses": []
                 }
             ]
@@ -3872,7 +4050,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thường trực Hội đồng nhân dân cấp tỉnh chỉ đạo việc chuẩn bị hồ sơ dự thảo nghị quyết để gửi đến đại biểu Hội đồng nhân dân. Hồ sơ dự thảo nghị quyết bao gồm:",
+                    "text": "Thường trực Hội đồng nhân dân cấp tỉnh chỉ đạo việc chuẩn bị hồ sơ dự thảo nghị quyết để gửi đến đại biểu Hội đồng nhân dân. Hồ sơ dự thảo nghị quyết bao gồm: Tài liệu quy định tại điểm a khoản 2 Điều 124 của Luật này và điểm b khoản này được gửi bằng bản giấy, tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3936,7 +4114,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chủ tịch Hội đồng nhân dân ký chứng thực nghị quyết.",
+                    "text": "Chủ tịch Hội đồng nhân dân ký chứng thực nghị quyết. CHƯƠNG IX XÂY DỰNG, BAN HÀNH QUYẾT ĐỊNH CỦA ỦY BAN NHÂN DÂN CẤP TỈNH",
                     "sub_clauses": []
                 }
             ]
@@ -3998,17 +4176,35 @@
         {
             "id": "Điều 129",
             "title": "Lấy ý kiến về dự thảo quyết định của Ủy ban nhân dân cấp tỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan chủ trì soạn thảo tổ chức lấy ý kiến đối tượng chịu sự tác động trực tiếp của văn bản và các cơ quan, tổ chức có liên quan theo quy định tại Điều 120 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 130",
             "title": "Thẩm định dự thảo quyết định của Ủy ban nhân dân cấp tỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Sở Tư pháp có trách nhiệm thẩm định dự thảo quyết định trước khi trình Ủy ban nhân dân cấp tỉnh. Thời hạn, hồ sơ, nội dung thẩm định, báo cáo thẩm định được thực hiện theo quy định tại Điều 121 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 131",
             "title": "Hồ sơ dự thảo quyết định trình Ủy ban nhân dân cấp tỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan chủ trì soạn thảo gửi hồ sơ dự thảo quyết định đến Ủy ban nhân dân cấp tỉnh chậm nhất là 03 ngày làm việc trước ngày Ủy ban nhân dân họp để chuyển đến các thành viên Ủy ban nhân dân. Hồ sơ dự thảo quyết định theo quy định tại khoản 1 Điều 125 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 132",
@@ -4043,7 +4239,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chủ tịch Ủy ban nhân dân cấp tỉnh ký quyết định.",
+                    "text": "Chủ tịch Ủy ban nhân dân cấp tỉnh ký quyết định. CHƯƠNG X XÂY DỰNG, BAN HÀNH VĂN BẢN QUY PHẠM PHÁP LUẬT CỦA HỘI ĐỒNG NHÂN DÂN, ỦY BAN NHÂN DÂN CẤP HUYỆN",
                     "sub_clauses": []
                 }
             ]
@@ -4059,7 +4255,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Căn cứ vào tính chất và nội dung của dự thảo nghị quyết, cơ quan chủ trì soạn thảo tổ chức lấy ý kiến của cơ quan, tổ chức có liên quan, đối tượng chịu sự tác động trực tiếp của nghị quyết.",
+                    "text": "Căn cứ vào tính chất và nội dung của dự thảo nghị quyết, cơ quan chủ trì soạn thảo tổ chức lấy ý kiến của cơ quan, tổ chức có liên quan, đối tượng chịu sự tác động trực tiếp của nghị quyết. Cơ quan, tổ chức có liên quan được lấy ý kiến có trách nhiệm trả lời bằng văn bản trong thời hạn 07 ngày kể từ ngày nhận được dự thảo nghị quyết. Trong trường hợp lấy ý kiến của đối tượng chịu sự tác động trực tiếp của nghị quyết thì cơ quan, tổ chức lấy ý kiến có trách nhiệm xác định những vấn đề cần lấy ý kiến, địa chỉ tiếp nhận ý kiến và bảo đảm ít nhất là 07 ngày kể từ ngày tổ chức lấy ý kiến để các đối tượng được lấy ý kiến góp ý vào dự thảo nghị quyết.",
                     "sub_clauses": []
                 }
             ]
@@ -4070,7 +4266,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Phòng Tư pháp có trách nhiệm thẩm định dự thảo nghị quyết của Hội đồng nhân dân cấp huyện trước khi trình Ủy ban nhân dân cấp huyện.",
+                    "text": "Phòng Tư pháp có trách nhiệm thẩm định dự thảo nghị quyết của Hội đồng nhân dân cấp huyện trước khi trình Ủy ban nhân dân cấp huyện. Chậm nhất là 10 ngày trước ngày Ủy ban nhân dân họp, cơ quan chủ trì soạn thảo phải gửi hồ sơ dự thảo nghị quyết của Hội đồng nhân dân cấp huyện đến Phòng Tư pháp để thẩm định.",
                     "sub_clauses": []
                 },
                 {
@@ -4099,7 +4295,13 @@
         {
             "id": "Điều 136",
             "title": "Thẩm tra dự thảo nghị quyết của Hội đồng nhân dân cấp huyện",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Dự thảo nghị quyết của Hội đồng nhân dân cấp huyện phải được Ban của Hội đồng nhân dân cùng cấp thẩm tra trước khi trình Hội đồng nhân dân. Chậm nhất là 10 ngày trước ngày khai mạc kỳ họp Hội đồng nhân dân, Ủy ban nhân dân có trách nhiệm gửi dự thảo nghị quyết đến Ban của Hội đồng nhân dân được phân công thẩm tra. Hồ sơ, nội dung thẩm tra và báo cáo thẩm tra theo quy định tại các khoản 2, 3 và 4 Điều 124 của Luật này. Ban của Hội đồng nhân dân được phân công thẩm tra có trách nhiệm gửi báo cáo thẩm tra đến Thường trực Hội đồng nhân dân để chuyển đến các đại biểu Hội đồng nhân dân chậm nhất là 07 ngày trước ngày khai mạc kỳ họp.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 137",
@@ -4146,7 +4348,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Căn cứ vào tính chất và nội dung của dự thảo quyết định, cơ quan soạn thảo tổ chức lấy ý kiến của cơ quan, tổ chức có liên quan, đối tượng chịu sự tác động trực tiếp của quyết định.",
+                    "text": "Căn cứ vào tính chất và nội dung của dự thảo quyết định, cơ quan soạn thảo tổ chức lấy ý kiến của cơ quan, tổ chức có liên quan, đối tượng chịu sự tác động trực tiếp của quyết định. Cơ quan, tổ chức có liên quan được lấy ý kiến có trách nhiệm trả lời bằng văn bản trong thời hạn 07 ngày kể từ ngày nhận được dự thảo quyết định. Trong trường hợp lấy ý kiến của đối tượng chịu sự tác động trực tiếp của quyết định thì cơ quan lấy ý kiến có trách nhiệm xác định những vấn đề cần lấy ý kiến và bảo đảm ít nhất là 07 ngày kể từ ngày tổ chức lấy ý kiến để các đối tượng được lấy ý kiến góp ý vào dự thảo quyết định.",
                     "sub_clauses": []
                 }
             ]
@@ -4157,7 +4359,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Phòng Tư pháp có trách nhiệm thẩm định dự thảo quyết định của Ủy ban nhân dân cấp huyện trước khi trình.",
+                    "text": "Phòng Tư pháp có trách nhiệm thẩm định dự thảo quyết định của Ủy ban nhân dân cấp huyện trước khi trình. Chậm nhất là 10 ngày trước ngày Ủy ban nhân dân họp, cơ quan soạn thảo phải gửi hồ sơ dự thảo quyết định đến Phòng Tư pháp để thẩm định.",
                     "sub_clauses": []
                 },
                 {
@@ -4205,7 +4407,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ dự thảo quyết định trình Ủy ban nhân dân bao gồm:",
+                    "text": "Hồ sơ dự thảo quyết định trình Ủy ban nhân dân bao gồm: Tài liệu quy định tại điểm a và điểm b khoản 2 Điều 139 của Luật này và điểm b khoản này được gửi bằng bản giấy, tài liệu còn lại được gửi bằng bản điện tử.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4248,7 +4450,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chủ tịch Ủy ban nhân dân ký ban hành quyết định.",
+                    "text": "Chủ tịch Ủy ban nhân dân ký ban hành quyết định. CHƯƠNG XI XÂY DỰNG, BAN HÀNH VĂN BẢN QUY PHẠM PHÁP LUẬT CỦA HỘI ĐỒNG NHÂN DÂN, ỦY BAN NHÂN DÂN CẤP XÃ",
                     "sub_clauses": []
                 }
             ]
@@ -4354,7 +4556,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chủ tịch Ủy ban nhân dân cấp xã ký ban hành quyết định.",
+                    "text": "Chủ tịch Ủy ban nhân dân cấp xã ký ban hành quyết định. CHƯƠNG XII XÂY DỰNG, BAN HÀNH VĂN BẢN QUY PHẠM PHÁP LUẬT THEO TRÌNH TỰ, THỦ TỤC RÚT GỌN",
                     "sub_clauses": []
                 }
             ]
@@ -4411,6 +4613,11 @@
             "title": "Trình tự, thủ tục xây dựng, ban hành văn bản quy phạm pháp luật theo trình tự, thủ tục rút gọn",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Việc xây dựng, ban hành luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban thường vụ Quốc hội, lệnh, quyết định của Chủ tịch nước, nghị định của Chính phủ, quyết định của Thủ tướng Chính phủ, nghị quyết của Hội đồng nhân dân cấp tỉnh, quyết định của Ủy ban nhân dân cấp tỉnh theo trình tự, thủ tục rút gọn được thực hiện như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Cơ quan chủ trì soạn thảo tổ chức việc soạn thảo;",
                     "sub_clauses": []
@@ -4422,7 +4629,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn 07 ngày kể từ ngày nhận được dự thảo văn bản, cơ quan thẩm định có trách nhiệm thẩm định, cơ quan chủ trì thẩm tra có trách nhiệm thẩm tra dự thảo văn bản.",
+                    "text": "Trong thời hạn 07 ngày kể từ ngày nhận được dự thảo văn bản, cơ quan thẩm định có trách nhiệm thẩm định, cơ quan chủ trì thẩm tra có trách nhiệm thẩm tra dự thảo văn bản. Hồ sơ thẩm định gồm tờ trình và dự thảo; hồ sơ thẩm tra gồm tờ trình, dự thảo, báo cáo thẩm định và báo cáo giải trình, tiếp thu ý kiến thẩm định.",
                     "sub_clauses": []
                 }
             ]
@@ -4451,7 +4658,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trình tự xem xét, thông qua:",
+                    "text": "Trình tự xem xét, thông qua: CHƯƠNG XIII HIỆU LỰC CỦA VĂN BẢN QUY PHẠM PHÁP LUẬT, NGUYÊN TẮC ÁP DỤNG, CÔNG KHAI VĂN BẢN QUY PHẠM PHÁP LUẬT",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4506,7 +4713,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trong thời hạn 03 ngày kể từ ngày công bố hoặc ký ban hành, cơ quan, người có thẩm quyền ban hành văn bản quy phạm pháp luật phải gửi văn bản đến cơ quan Công báo để đăng Công báo hoặc niêm yết công khai.",
+                    "text": "Trong thời hạn 03 ngày kể từ ngày công bố hoặc ký ban hành, cơ quan, người có thẩm quyền ban hành văn bản quy phạm pháp luật phải gửi văn bản đến cơ quan Công báo để đăng Công báo hoặc niêm yết công khai. Cơ quan Công báo có trách nhiệm đăng toàn văn văn bản quy phạm pháp luật trên Công báo chậm nhất là 15 ngày đối với văn bản quy phạm pháp luật do các cơ quan trung ương ban hành, 07 ngày đối với văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân cấp tỉnh, chính quyền địa phương ở đơn vị hành chính-kinh tế đặc biệt ban hành kể từ ngày nhận được văn bản.",
                     "sub_clauses": []
                 },
                 {
@@ -4602,6 +4809,11 @@
             "title": "Trường hợp văn bản quy phạm pháp luật hết hiệu lực",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Văn bản quy phạm pháp luật hết hiệu lực toàn bộ hoặc một phần trong các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Hết thời hạn có hiệu lực đã được quy định trong văn bản;",
                     "sub_clauses": []
@@ -4634,7 +4846,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân ở đơn vị hành chính nào thì có hiệu lực trong phạm vi đơn vị hành chính đó và phải được quy định cụ thể ngay trong văn bản đó.",
+                    "text": "Văn bản quy phạm pháp luật của Hội đồng nhân dân, Ủy ban nhân dân ở đơn vị hành chính nào thì có hiệu lực trong phạm vi đơn vị hành chính đó và phải được quy định cụ thể ngay trong văn bản đó. Trường hợp có sự thay đổi về địa giới hành chính thì hiệu lực về không gian và đối tượng áp dụng của văn bản quy phạm pháp luật của chính quyền địa phương được xác định như sau:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4658,7 +4870,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Văn bản quy phạm pháp luật được áp dụng từ thời điểm bắt đầu có hiệu lực.",
+                    "text": "Văn bản quy phạm pháp luật được áp dụng từ thời điểm bắt đầu có hiệu lực. Văn bản quy phạm pháp luật được áp dụng đối với hành vi xảy ra tại thời điểm mà văn bản đó đang có hiệu lực. Trong trường hợp quy định của văn bản quy phạm pháp luật có hiệu lực trở về trước thì áp dụng theo quy định đó.",
                     "sub_clauses": []
                 },
                 {
@@ -4686,7 +4898,13 @@
         {
             "id": "Điều 157",
             "title": "Đăng tải và đưa tin văn bản quy phạm pháp luật",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Văn bản quy phạm pháp luật do các cơ quan nhà nước ở trung ương, Hội đồng nhân dân, Ủy ban nhân dân ban hành phải được đăng tải toàn văn trên Cơ sở dữ liệu quốc gia về pháp luật chậm nhất là 15 ngày kể từ ngày công bố hoặc ký ban hành và đưa tin trên phương tiện thông tin đại chúng, trừ văn bản có nội dung thuộc bí mật nhà nước theo quy định của pháp luật về bí mật nhà nước. Văn bản quy phạm pháp luật đăng tải trên Cơ sở dữ liệu quốc gia về pháp luật có giá trị sử dụng chính thức. CHƯƠNG XIV GIẢI THÍCH HIẾN PHÁP, LUẬT, PHÁP LỆNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 158",
@@ -4739,7 +4957,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tùy theo tính chất, nội dung của vấn đề cần được giải thích, Ủy ban thường vụ Quốc hội giao Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng dân tộc, Ủy ban của Quốc hội soạn thảo dự thảo nghị quyết giải thích Hiến pháp, luật, pháp lệnh trình Ủy ban thường vụ Quốc hội.",
+                    "text": "Tùy theo tính chất, nội dung của vấn đề cần được giải thích, Ủy ban thường vụ Quốc hội giao Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Hội đồng dân tộc, Ủy ban của Quốc hội soạn thảo dự thảo nghị quyết giải thích Hiến pháp, luật, pháp lệnh trình Ủy ban thường vụ Quốc hội. Ủy ban thường vụ Quốc hội giao Hội đồng dân tộc hoặc Ủy ban của Quốc hội thẩm tra về sự phù hợp của dự thảo nghị quyết giải thích Hiến pháp, luật, pháp lệnh với tinh thần và nội dung của văn bản được giải thích.",
                     "sub_clauses": []
                 },
                 {
@@ -4789,7 +5007,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Nghị quyết của Ủy ban thường vụ Quốc hội giải thích Hiến pháp, luật, pháp lệnh được áp dụng cùng với văn bản được giải thích.",
+                    "text": "Nghị quyết của Ủy ban thường vụ Quốc hội giải thích Hiến pháp, luật, pháp lệnh được áp dụng cùng với văn bản được giải thích. CHƯƠNG XV GIÁM SÁT, KIỂM TRA, XỬ LÝ VĂN BẢN QUY PHẠM PHÁP LUẬT",
                     "sub_clauses": []
                 }
             ]
@@ -4883,7 +5101,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ Tư pháp giúp Chính phủ thực hiện việc kiểm tra, xử lý văn bản quy phạm pháp luật của bộ, cơ quan ngang bộ, Hội đồng nhân dân và Ủy ban nhân dân cấp tỉnh, chính quyền địa phương ở đơn vị hành chính - kinh tế đặc biệt trái với Hiến pháp, luật và văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên.",
+                    "text": "Bộ Tư pháp giúp Chính phủ thực hiện việc kiểm tra, xử lý văn bản quy phạm pháp luật của bộ, cơ quan ngang bộ, Hội đồng nhân dân và Ủy ban nhân dân cấp tỉnh, chính quyền địa phương ở đơn vị hành chính - kinh tế đặc biệt trái với Hiến pháp, luật và văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên. Đối với nghị quyết của Hội đồng nhân dân cấp tỉnh trái với Hiến pháp, luật và văn bản quy phạm pháp luật của cơ quan nhà nước cấp trên đã bị Thủ tướng Chính phủ đình chỉ việc thi hành thì Bộ Tư pháp chủ trì, phối hợp với Văn phòng Chính phủ và các bộ, cơ quan ngang bộ có liên quan chuẩn bị hồ sơ báo cáo Thủ tướng Chính phủ xem xét việc đề nghị Ủy ban thường vụ Quốc hội bãi bỏ.",
                     "sub_clauses": []
                 },
                 {
@@ -4899,7 +5117,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ có trách nhiệm kiểm tra văn bản quy phạm pháp luật do mình ban hành và do bộ, cơ quan ngang bộ, Hội đồng nhân dân và Ủy ban nhân dân cấp tỉnh ban hành về những nội dung có liên quan đến ngành, lĩnh vực do mình phụ trách.",
+                    "text": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ có trách nhiệm kiểm tra văn bản quy phạm pháp luật do mình ban hành và do bộ, cơ quan ngang bộ, Hội đồng nhân dân và Ủy ban nhân dân cấp tỉnh ban hành về những nội dung có liên quan đến ngành, lĩnh vực do mình phụ trách. Khi phát hiện văn bản quy phạm pháp luật do mình ban hành trái pháp luật thì Bộ trưởng, Thủ trưởng cơ quan ngang bộ có trách nhiệm tự mình bãi bỏ một phần hoặc toàn bộ văn bản.",
                     "sub_clauses": []
                 },
                 {
@@ -4920,17 +5138,17 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hội đồng nhân dân, Ủy ban nhân dân các cấp có trách nhiệm tự kiểm tra văn bản quy phạm pháp luật do mình ban hành; Hội đồng nhân dân, Ủy ban nhân dân cấp trên kiểm tra văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân cấp dưới ban hành.",
+                    "text": "Hội đồng nhân dân, Ủy ban nhân dân các cấp có trách nhiệm tự kiểm tra văn bản quy phạm pháp luật do mình ban hành; Hội đồng nhân dân, Ủy ban nhân dân cấp trên kiểm tra văn bản quy phạm pháp luật do Hội đồng nhân dân, Ủy ban nhân dân cấp dưới ban hành. Khi phát hiện văn bản quy phạm pháp luật do mình ban hành trái pháp luật thì Hội đồng nhân dân, Ủy ban nhân dân có trách nhiệm tự mình bãi bỏ một phần hoặc toàn bộ văn bản. Chủ tịch Ủy ban nhân dân cấp tỉnh tổ chức kiểm tra văn bản quy phạm pháp luật do Hội đồng nhân dân và Ủy ban nhân dân cấp huyện ban hành. Chủ tịch Ủy ban nhân dân cấp huyện tổ chức kiểm tra văn bản quy phạm pháp luật do Hội đồng nhân dân và Ủy ban nhân dân cấp xã ban hành.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Chủ tịch Ủy ban nhân dân cấp tỉnh đình chỉ việc thi hành nghị quyết trái pháp luật của Hội đồng nhân dân cấp huyện và đề nghị Hội đồng nhân dân cấp tỉnh bãi bỏ.",
+                    "text": "Chủ tịch Ủy ban nhân dân cấp tỉnh đình chỉ việc thi hành nghị quyết trái pháp luật của Hội đồng nhân dân cấp huyện và đề nghị Hội đồng nhân dân cấp tỉnh bãi bỏ. Chủ tịch Ủy ban nhân dân cấp huyện đình chỉ việc thi hành nghị quyết trái pháp luật của Hội đồng nhân dân cấp xã và đề nghị Hội đồng nhân dân cấp huyện bãi bỏ.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Chủ tịch Ủy ban nhân dân cấp trên trực tiếp đình chỉ việc thi hành, bãi bỏ một phần hoặc toàn bộ văn bản quy phạm pháp luật trái pháp luật của Ủy ban nhân dân cấp dưới.",
+                    "text": "Chủ tịch Ủy ban nhân dân cấp trên trực tiếp đình chỉ việc thi hành, bãi bỏ một phần hoặc toàn bộ văn bản quy phạm pháp luật trái pháp luật của Ủy ban nhân dân cấp dưới. CHƯƠNG XVI HỢP NHẤT VĂN BẢN QUY PHẠM PHÁP LUẬT, PHÁP ĐIỂN HỆ THỐNG QUY PHẠM PHÁP LUẬT, RÀ SOÁT, HỆ THỐNG HÓA VĂN BẢN QUY PHẠM PHÁP LUẬT",
                     "sub_clauses": []
                 }
             ]
@@ -4973,7 +5191,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cơ quan nhà nước trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm rà soát, hệ thống hóa các văn bản quy phạm pháp luật; nếu phát hiện có quy định trái pháp luật, mâu thuẫn, chồng chéo, hết hiệu lực hoặc không còn phù hợp với tình hình phát triển kinh tế - xã hội thì tự mình hoặc kiến nghị với cơ quan nhà nước có thẩm quyền kịp thời đình chỉ việc thi hành, bãi bỏ, sửa đổi, bổ sung, ban hành văn bản mới hoặc thay thế văn bản quy phạm pháp luật.",
+                    "text": "Cơ quan nhà nước trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm rà soát, hệ thống hóa các văn bản quy phạm pháp luật; nếu phát hiện có quy định trái pháp luật, mâu thuẫn, chồng chéo, hết hiệu lực hoặc không còn phù hợp với tình hình phát triển kinh tế - xã hội thì tự mình hoặc kiến nghị với cơ quan nhà nước có thẩm quyền kịp thời đình chỉ việc thi hành, bãi bỏ, sửa đổi, bổ sung, ban hành văn bản mới hoặc thay thế văn bản quy phạm pháp luật. Cơ quan, tổ chức và công dân có quyền đề nghị cơ quan nhà nước có thẩm quyền xem xét đình chỉ việc thi hành, bãi bỏ, sửa đổi, bổ sung, ban hành văn bản mới hoặc thay thế văn bản quy phạm pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -4988,7 +5206,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. CHƯƠNG XVII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -4996,7 +5214,13 @@
         {
             "id": "Điều 171",
             "title": "Bảo đảm nguồn lực xây dựng, ban hành văn bản quy phạm pháp luật",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước có chính sách thu hút, đào tạo, bồi dưỡng, bố trí cán bộ, công chức tham gia xây dựng, ban hành văn bản quy phạm pháp luật phù hợp với yêu cầu, nhiệm vụ quy định tại Luật này; hiện đại hóa phương tiện, hạ tầng kỹ thuật; bảo đảm kinh phí cho hoạt động xây dựng chính sách, soạn thảo, thẩm định, thẩm tra, chỉnh lý, hoàn thiện và ban hành văn bản quy phạm pháp luật. Chính phủ quy định chi tiết Điều này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 172",
@@ -5019,7 +5243,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Những quy định về thủ tục hành chính trong văn bản quy phạm pháp luật do cơ quan, người có thẩm quyền quy định tại khoản 4 Điều 14 của Luật",
+                    "text": "Những quy định về thủ tục hành chính trong văn bản quy phạm pháp luật do cơ quan, người có thẩm quyền quy định tại khoản 4 Điều 14 của Luật này được ban hành trước ngày Luật này có hiệu lực thì tiếp tục được áp dụng cho đến khi bị bãi bỏ bằng văn bản khác hoặc bị thay thế bằng thủ tục hành chính mới.",
                     "sub_clauses": []
                 }
             ]
@@ -5027,8 +5251,19 @@
         {
             "id": "Điều 173",
             "title": "Quy định chi tiết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban thường vụ Quốc hội, Chính phủ có trách nhiệm quy định chi tiết các điều, khoản được giao trong Luật. ----------------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 22 tháng 6 năm 2015. CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 9 thông qua ngày 22 tháng 6 năm 2015.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "(Đã ký)",
+        "Nguyễn Sinh Hùng"
+    ]
 }

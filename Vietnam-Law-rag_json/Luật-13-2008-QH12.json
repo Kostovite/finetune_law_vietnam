@@ -1,5 +1,33 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về đối tượng chịu thuế, đối tượng không chịu thuế, người nộp thuế, căn cứ và phương pháp tính thuế, khấu trừ và hoàn thuế giá trị gia tăng."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Thuế giá trị gia tăng",
+        "text": "Thuế giá trị gia tăng là thuế tính trên giá trị tăng thêm của hàng hoá, dịch vụ phát sinh trong quá trình từ sản xuất, lưu thông đến tiêu dùng."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Đối tượng chịu thuế",
+        "text": "Hàng hóa, dịch vụ sử dụng cho sản xuất, kinh doanh và tiêu dùng ở Việt Nam là đối tượng chịu thuế giá trị gia tăng, trừ các đối tượng quy định tại Điều 5 của Luật này."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Người nộp thuế",
+        "text": "Người nộp thuế giá trị gia tăng là tổ chức, cá nhân sản xuất, kinh doanh hàng hóa, dịch vụ chịu thuế giá trị gia tăng (sau đây gọi là cơ sở kinh doanh) và tổ chức, cá nhân nhập khẩu hàng hóa chịu thuế giá trị gia tăng (sau đây gọi là người nhập khẩu)."
+    },
+    {
         "id": "Điều 5.1",
         "article": "Điều 5",
         "clause": "1",
@@ -173,6 +201,13 @@
         "clause": "25",
         "title": "Đối tượng không chịu thuế",
         "text": "Hàng hóa, dịch vụ của cá nhân kinh doanh có mức thu nhập bình quân tháng thấp hơn mức lương tối thiểu chung áp dụng đối với tổ chức, doanh nghiệp trong nước. Cơ sở kinh doanh hàng hóa, dịch vụ không chịu thuế giá trị gia tăng quy định tại Điều này không được khấu trừ và hoàn thuế giá trị gia tăng đầu vào, trừ trường hợp áp dụng mức thuế suất 0% quy định tại khoản 1 Điều 8 của Luật này. Chương II CĂN CỨ VÀ PHƯƠNG PHÁP TÍNH THUẾ"
+    },
+    {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Căn cứ tính thuế",
+        "text": "Căn cứ tính thuế giá trị gia tăng là giá tính thuế và thuế suất."
     },
     {
         "id": "Điều 7.1",
@@ -390,6 +425,13 @@
         "clause": "3",
         "title": "Thuế suất",
         "text": "Mức thuế suất 10% áp dụng đối với hàng hoá, dịch vụ không quy định tại khoản 1 và khoản 2 Điều này."
+    },
+    {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Phương pháp tính thuế",
+        "text": "Phương pháp tính thuế giá trị gia tăng gồm phương pháp khấu trừ thuế giá trị gia tăng và phương pháp tính trực tiếp trên giá trị gia tăng."
     },
     {
         "id": "Điều 10.1",
@@ -621,5 +663,12 @@
         "clause": "3",
         "title": "Hiệu lực thi hành",
         "text": "Bãi bỏ Điều 2 của Luật sửa đổi, bổ sung một số điều của Luật thuế tiêu thụ đặc biệt và Luật thuế giá trị gia tăng số 57/2005/QH11."
+    },
+    {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều 5, 7, 8, 12, 13 và các nội dung cần thiết khác của Luật này theo yêu cầu quản lý. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 3 thông qua ngày 03 tháng 6 năm 2008. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

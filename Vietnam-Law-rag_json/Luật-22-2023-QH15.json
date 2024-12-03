@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quản lý nhà nước đối với hoạt động đấu thầu; thẩm quyền và trách nhiệm của các cơ quan, tổ chức, cá nhân trong hoạt động đấu thầu; hoạt động lựa chọn nhà thầu thực hiện gói thầu, hoạt động lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với các cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động đấu thầu bao gồm:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -173,6 +187,13 @@
         "clause": "7g",
         "title": "Áp dụng Luật Đấu thầu, pháp luật có liên quan và điều ước quốc tế, thỏa thuận về vốn hỗ trợ phát triển chính thức, vốn vay ưu đãi của nhà tài trợ nước ngoài",
         "text": "Lựa chọn nhà thầu cung cấp dịch vụ dầu khí, hàng hóa phục vụ hoạt động dầu khí phù hợp với hợp đồng dầu khí được cấp có thẩm quyền phê duyệt theo quy định của Luật Dầu khí."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 4.1",
@@ -2079,6 +2100,13 @@
         "text": "Đấu thầu rộng rãi được áp dụng đối với tất cả các gói thầu, trừ trường hợp quy định tại các Điều 22, 23, 24, 25, 26, 27, 28 và 29 của Luật này. Trường hợp không đấu thầu rộng rãi, văn bản trình duyệt kế hoạch lựa chọn nhà thầu phải nêu rõ lý do không thực hiện đấu thầu rộng rãi; người có thẩm quyền quyết định và chịu trách nhiệm về việc không áp dụng đấu thầu rộng rãi."
     },
     {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Đấu thầu hạn chế",
+        "text": "Đấu thầu hạn chế là hình thức lựa chọn nhà thầu trong đó chỉ có một số nhà thầu đáp ứng yêu cầu của gói thầu được mời tham dự thầu, áp dụng trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 22.1",
         "article": "Điều 22",
         "clause": "1",
@@ -2254,6 +2282,13 @@
         "text": "Chính phủ quy định chi tiết điểm c khoản 1 Điều này."
     },
     {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Chào hàng cạnh tranh",
+        "text": "Chào hàng cạnh tranh được áp dụng đối với gói thầu có giá gói thầu không quá 05 tỷ đồng thuộc một trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 24.1",
         "article": "Điều 24",
         "clause": "1",
@@ -2371,6 +2406,13 @@
         "clause": "3",
         "title": "Tự thực hiện",
         "text": "Tổ chức, đơn vị quy định tại khoản 2 điều này không được chuyển nhượng cho tổ chức, cá nhân khác khối lượng công việc có giá trị từ 10% trở lên hoặc trên 50 tỷ đồng tính trên giá trị công việc quy định tại thỏa thuận giao việc."
+    },
+    {
+        "id": "Điều 27.0",
+        "article": "Điều 27",
+        "clause": "0",
+        "title": "Tham gia thực hiện của cộng đồng",
+        "text": "Cộng đồng dân cư, tổ, nhóm thợ đủ năng lực tại địa phương nơi có gói thầu được giao thực hiện toàn bộ hoặc một phần gói thầu thuộc chương trình mục tiêu quốc gia, chương trình đầu tư công mà Nhà nước và Nhân dân cùng làm có giá gói thầu không quá 05 tỷ đồng."
     },
     {
         "id": "Điều 28.1",
@@ -4942,6 +4984,13 @@
         "text": "Chủ đầu tư phải bảo đảm các điều kiện về vốn tạm ứng, vốn thanh toán, mặt bằng thực hiện và điều kiện cần thiết khác để triển khai thực hiện gói thầu theo đúng tiến độ."
     },
     {
+        "id": "Điều 67.0",
+        "article": "Điều 67",
+        "clause": "0",
+        "title": "Ký kết hợp đồng với nhà thầu được lựa chọn",
+        "text": "Việc ký kết hợp đồng giữa chủ đầu tư và nhà thầu được thực hiện như sau:"
+    },
+    {
         "id": "Điều 67.1",
         "article": "Điều 67",
         "clause": "1",
@@ -5255,6 +5304,13 @@
         "clause": "4",
         "title": "Ký kết hợp đồng và nguyên tắc thực hiện hợp đồng dự án đầu tư kinh doanh",
         "text": "Việc thực hiện hợp đồng dự án đầu tư kinh doanh tuân thủ nguyên tắc quy định tại Điều 69 của Luật này."
+    },
+    {
+        "id": "Điều 72.0",
+        "article": "Điều 72",
+        "clause": "0",
+        "title": "Hồ sơ hợp đồng dự án đầu tư kinh doanh",
+        "text": "Hồ sơ hợp đồng dự án đầu tư kinh doanh bao gồm các tài liệu sau đây:"
     },
     {
         "id": "Điều 72.1",
@@ -6871,6 +6927,6 @@
         "article": "Điều 96",
         "clause": "4",
         "title": "Quy định chuyển tiếp",
-        "text": "Hợp đồng mà nhà thầu trúng thầu vật tư, hóa chất có trách nhiệm cung cấp trang thiết bị y tế để sử dụng vật tư, hóa chất đó được ký kết trước ngày Luật này có hiệu lực thi hành được tiếp tục thực hiện trong thời hạn quy định tại hợp đồng nhưng không quá 05 năm kể từ ngày Luật này có hiệu lực thi hành. ________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 5 thông qua ngày 23 tháng 6 năm 2023."
+        "text": "Hợp đồng mà nhà thầu trúng thầu vật tư, hóa chất có trách nhiệm cung cấp trang thiết bị y tế để sử dụng vật tư, hóa chất đó được ký kết trước ngày Luật này có hiệu lực thi hành được tiếp tục thực hiện trong thời hạn quy định tại hợp đồng nhưng không quá 05 năm kể từ ngày Luật này có hiệu lực thi hành. ________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 5 thông qua ngày 23 tháng 6 năm 2023. CHỦ TỊCH QUỐC HỘI Vương Đình Huệ"
     }
 ]

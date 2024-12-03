@@ -15,7 +15,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về việc thành lập, tổ chức quản lý, tổ chức lại, giải thể và hoạt động có liên quan của doanh nghiệp, bao gồm công ty trách nhiệm hữu hạn, công ty cổ phần, công ty hợp danh và doanh nghiệp tư nhân; quy định về nhóm công ty.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -36,12 +42,23 @@
         {
             "id": "Điều 3",
             "title": "Áp dụng Luật Doanh nghiệp và luật khác",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp luật khác có quy định đặc thù về việc thành lập, tổ chức quản lý, tổ chức lại, giải thể và hoạt động có liên quan của doanh nghiệp thì áp dụng quy định của luật đó.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 4",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Bản sao là giấy tờ được sao từ sổ gốc hoặc được chứng thực từ bản chính bởi cơ quan, tổ chức có thẩm quyền hoặc đã được đối chiếu với bản chính.",
@@ -733,7 +750,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Lừa đảo, rửa tiền, tài trợ khủng bố.",
+                    "text": "Lừa đảo, rửa tiền, tài trợ khủng bố. Chương II THÀNH LẬP DOANH NGHIỆP",
                     "sub_clauses": []
                 }
             ]
@@ -749,7 +766,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức, cá nhân sau đây không có quyền thành lập và quản lý doanh nghiệp tại Việt Nam:",
+                    "text": "Tổ chức, cá nhân sau đây không có quyền thành lập và quản lý doanh nghiệp tại Việt Nam: Trường hợp Cơ quan đăng ký kinh doanh có yêu cầu, người đăng ký thành lập doanh nghiệp phải nộp Phiếu lý lịch tư pháp cho Cơ quan đăng ký kinh doanh;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -904,7 +921,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bản sao các giấy tờ sau đây:",
+                    "text": "Bản sao các giấy tờ sau đây: Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -943,7 +960,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bản sao các giấy tờ sau đây:",
+                    "text": "Bản sao các giấy tờ sau đây: Đối với cổ đông là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -965,6 +982,11 @@
             "id": "Điều 23",
             "title": "Nội dung giấy đề nghị đăng ký doanh nghiệp",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Giấy đề nghị đăng ký doanh nghiệp bao gồm các nội dung chủ yếu sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tên doanh nghiệp;",
@@ -1126,6 +1148,11 @@
             "title": "Danh sách thành viên công ty trách nhiệm hữu hạn, công ty hợp danh, danh sách cổ đông sáng lập và cổ đông là nhà đầu tư nước ngoài đối với công ty cổ phần",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Danh sách thành viên công ty trách nhiệm hữu hạn, công ty hợp danh, danh sách cổ đông sáng lập và cổ đông là nhà đầu tư nước ngoài đối với công ty cổ phần phải bao gồm các nội dung chủ yếu sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Họ, tên, chữ ký, quốc tịch, địa chỉ liên lạc của thành viên là cá nhân đối với công ty trách nhiệm hữu hạn và công ty hợp danh; của cổ đông sáng lập và cổ đông là nhà đầu tư nước ngoài là cá nhân đối với công ty cổ phần;",
                     "sub_clauses": []
@@ -1233,6 +1260,11 @@
             "id": "Điều 28",
             "title": "Nội dung Giấy chứng nhận đăng ký doanh nghiệp",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Giấy chứng nhận đăng ký doanh nghiệp bao gồm các nội dung chủ yếu sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tên doanh nghiệp và mã số doanh nghiệp;",
@@ -1516,12 +1548,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tài sản góp vốn khi thành lập doanh nghiệp phải được các thành viên, cổ đông sáng lập định giá theo nguyên tắc đồng thuận hoặc do một tổ chức thẩm định giá định giá. Trường hợp tổ chức thẩm định giá định giá thì giá trị tài sản góp vốn phải được trên 50% số thành viên, cổ đông sáng lập chấp thuận.",
+                    "text": "Tài sản góp vốn khi thành lập doanh nghiệp phải được các thành viên, cổ đông sáng lập định giá theo nguyên tắc đồng thuận hoặc do một tổ chức thẩm định giá định giá. Trường hợp tổ chức thẩm định giá định giá thì giá trị tài sản góp vốn phải được trên 50% số thành viên, cổ đông sáng lập chấp thuận. Trường hợp tài sản góp vốn được định giá cao hơn so với giá trị thực tế của tài sản đó tại thời điểm góp vốn thì các thành viên, cổ đông sáng lập cùng liên đới góp thêm bằng số chênh lệch giữa giá trị được định giá và giá trị thực tế của tài sản góp vốn tại thời điểm kết thúc định giá; đồng thời liên đới chịu trách nhiệm đối với thiệt hại do cố ý định giá tài sản góp vốn cao hơn giá trị thực tế.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Tài sản góp vốn trong quá trình hoạt động do chủ sở hữu, Hội đồng thành viên đối với công ty trách nhiệm hữu hạn và công ty hợp danh, Hội đồng quản trị đối với công ty cổ phần và người góp vốn thỏa thuận định giá hoặc do một tổ chức thẩm định giá định giá. Trường hợp tổ chức thẩm định giá định giá thì giá trị tài sản góp vốn phải được người góp vốn và chủ sở hữu, Hội đồng thành viên hoặc Hội đồng quản trị chấp thuận.",
+                    "text": "Tài sản góp vốn trong quá trình hoạt động do chủ sở hữu, Hội đồng thành viên đối với công ty trách nhiệm hữu hạn và công ty hợp danh, Hội đồng quản trị đối với công ty cổ phần và người góp vốn thỏa thuận định giá hoặc do một tổ chức thẩm định giá định giá. Trường hợp tổ chức thẩm định giá định giá thì giá trị tài sản góp vốn phải được người góp vốn và chủ sở hữu, Hội đồng thành viên hoặc Hội đồng quản trị chấp thuận. Trường hợp tài sản góp vốn được định giá cao hơn giá trị thực tế của tài sản đó tại thời điểm góp vốn thì người góp vốn, chủ sở hữu, thành viên Hội đồng thành viên đối với công ty trách nhiệm hữu hạn và công ty hợp danh, thành viên Hội đồng quản trị đối với công ty cổ phần cùng liên đới góp thêm bằng số chênh lệch giữa giá trị được định giá và giá trị thực tế của tài sản góp vốn tại thời điểm kết thúc định giá; đồng thời liên đới chịu trách nhiệm đối với thiệt hại do việc cố ý định giá tài sản góp vốn cao hơn giá trị thực tế.",
                     "sub_clauses": []
                 }
             ]
@@ -1686,7 +1718,13 @@
         {
             "id": "Điều 42",
             "title": "Trụ sở chính của doanh nghiệp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trụ sở chính của doanh nghiệp đặt trên lãnh thổ Việt Nam, là địa chỉ liên lạc của doanh nghiệp và được xác định theo địa giới đơn vị hành chính; có số điện thoại, số fax và thư điện tử (nếu có).",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 43",
@@ -1770,7 +1808,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương III CÔNG TY TRÁCH NHIỆM HỮU HẠN Mục 1 CÔNG TY TRÁCH NHIỆM HỮU HẠN HAI THÀNH VIÊN TRỞ LÊN",
                     "sub_clauses": []
                 }
             ]
@@ -2587,6 +2625,11 @@
             "title": "Thủ tục thông qua nghị quyết, quyết định của Hội đồng thành viên theo hình thức lấy ý kiến bằng văn bản",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trường hợp Điều lệ công ty không có quy định khác thì thẩm quyền và thể thức lấy ý kiến thành viên bằng văn bản để thông qua nghị quyết, quyết định được thực hiện theo quy định sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Chủ tịch Hội đồng thành viên quyết định việc lấy ý kiến thành viên Hội đồng thành viên bằng văn bản để thông qua nghị quyết, quyết định các vấn đề thuộc thẩm quyền;",
                     "sub_clauses": []
@@ -2915,12 +2958,24 @@
         {
             "id": "Điều 69",
             "title": "Điều kiện để chia lợi nhuận",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Công ty chỉ được chia lợi nhuận cho các thành viên sau khi đã hoàn thành nghĩa vụ thuế và các nghĩa vụ tài chính khác theo quy định của pháp luật, bảo đảm thanh toán đủ các khoản nợ và nghĩa vụ tài sản khác đến hạn trả sau khi chia lợi nhuận.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 70",
             "title": "Thu hồi phần vốn góp đã hoàn trả hoặc lợi nhuận đã chia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp hoàn trả một phần vốn góp do giảm vốn điều lệ trái với quy định tại khoản 3 Điều 68 của Luật này hoặc chia lợi nhuận cho thành viên trái với quy định tại Điều 69 của Luật này thì các thành viên công ty phải hoàn trả cho công ty số tiền, tài sản khác đã nhận; phải cùng liên đới chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của công ty tương ứng với số tiền, tài sản chưa hoàn trả đủ cho đến khi hoàn trả đủ số tiền, tài sản khác đã nhận.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 71",
@@ -3011,7 +3066,13 @@
         {
             "id": "Điều 73",
             "title": "Công bố thông tin",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Công ty trách nhiệm hữu hạn hai thành viên trở lên theo quy định tại điểm b khoản 1 Điều 88 của Luật này thực hiện công bố thông tin theo quy định tại các điểm a, c, đ, g khoản 1 Điều 109 và Điều 110 của Luật này. Mục 2 CÔNG TY TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 74",
@@ -3560,7 +3621,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Công ty trách nhiệm hữu hạn một thành viên giảm vốn điều lệ trong trường hợp sau đây:",
+                    "text": "Công ty trách nhiệm hữu hạn một thành viên giảm vốn điều lệ trong trường hợp sau đây: Chương IV DOANH NGHIỆP NHÀ NƯỚC",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3647,6 +3708,11 @@
             "id": "Điều 90",
             "title": "Cơ cấu tổ chức quản lý",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan đại diện chủ sở hữu quyết định tổ chức quản lý doanh nghiệp nhà nước dưới hình thức công ty trách nhiệm hữu hạn một thành viên theo một trong hai mô hình sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Chủ tịch công ty, Giám đốc hoặc Tổng giám đốc, Ban kiểm soát;",
@@ -4616,7 +4682,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương V CÔNG TY CỔ PHẦN",
                     "sub_clauses": []
                 }
             ]
@@ -5312,6 +5378,11 @@
             "title": "Bán cổ phần",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Hội đồng quản trị quyết định thời điểm, phương thức và giá bán cổ phần. Giá bán cổ phần không được thấp hơn giá thị trường tại thời điểm bán hoặc giá trị được ghi trong sổ sách của cổ phần tại thời điểm gần nhất, trừ trường hợp sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Cổ phần bán lần đầu tiên cho những người không phải là cổ đông sáng lập;",
                     "sub_clauses": []
@@ -5480,7 +5551,13 @@
         {
             "id": "Điều 131",
             "title": "Mua cổ phần, trái phiếu",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cổ phần, trái phiếu của công ty cổ phần có thể được mua bằng Đồng Việt Nam, ngoại tệ tự do chuyển đổi, vàng, quyền sử dụng đất, quyền sở hữu trí tuệ, công nghệ, bí quyết kỹ thuật, tài sản khác quy định tại Điều lệ công ty và phải được thanh toán đủ một lần.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 132",
@@ -5502,6 +5579,11 @@
             "id": "Điều 133",
             "title": "Mua lại cổ phần theo quyết định của công ty",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Công ty có quyền mua lại không quá 30% tổng số cổ phần phổ thông đã bán, một phần hoặc toàn bộ cổ phần ưu đãi cổ tức đã bán theo quy định sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Hội đồng quản trị có quyền quyết định mua lại không quá 10% tổng số cổ phần của từng loại đã bán trong thời hạn 12 tháng. Trường hợp khác, việc mua lại cổ phần do Đại hội đồng cổ đông quyết định;",
@@ -5631,7 +5713,13 @@
         {
             "id": "Điều 136",
             "title": "Thu hồi tiền thanh toán cổ phần được mua lại hoặc cổ tức",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp việc thanh toán cổ phần được mua lại trái với quy định tại khoản 1 Điều 134 của Luật này hoặc trả cổ tức trái với quy định tại Điều 135 của Luật này, cổ đông phải hoàn trả cho công ty số tiền, tài sản khác đã nhận; trường hợp cổ đông không hoàn trả được cho công ty thì tất cả thành viên Hội đồng quản trị phải cùng liên đới chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản khác của công ty trong phạm vi giá trị số tiền, tài sản đã trả cho cổ đông mà chưa được hoàn lại.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 137",
@@ -6035,6 +6123,11 @@
             "title": "Thể thức tiến hành họp và biểu quyết tại cuộc họp Đại hội đồng cổ đông",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong trường hợp Điều lệ công ty không có quy định khác thì thể thức họp và biểu quyết tại cuộc họp Đại hội đồng cổ đông được tiến hành như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Trước khi khai mạc cuộc họp, phải tiến hành đăng ký cổ đông dự họp Đại hội đồng cổ đông;",
                     "sub_clauses": []
@@ -6231,6 +6324,11 @@
             "title": "Thẩm quyền và thể thức lấy ý kiến cổ đông bằng văn bản để thông qua nghị quyết Đại hội đồng cổ đông",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trường hợp Điều lệ công ty không có quy định khác thì thẩm quyền và thể thức lấy ý kiến cổ đông bằng văn bản để thông qua nghị quyết Đại hội đồng cổ đông được thực hiện theo quy định sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Hội đồng quản trị có quyền lấy ý kiến cổ đông bằng văn bản để thông qua nghị quyết Đại hội đồng cổ đông khi xét thấy cần thiết vì lợi ích của công ty, trừ trường hợp quy định tại khoản 2 Điều 147 của Luật này;",
                     "sub_clauses": []
@@ -6294,7 +6392,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Hội đồng quản trị tổ chức kiểm phiếu và lập biên bản kiểm phiếu dưới sự chứng kiến, giám sát của Ban kiểm soát hoặc của cổ đông không nắm giữ chức vụ quản lý công ty. Biên bản kiểm phiếu phải bao gồm các nội dung chủ yếu sau đây:",
+                    "text": "Hội đồng quản trị tổ chức kiểm phiếu và lập biên bản kiểm phiếu dưới sự chứng kiến, giám sát của Ban kiểm soát hoặc của cổ đông không nắm giữ chức vụ quản lý công ty. Biên bản kiểm phiếu phải bao gồm các nội dung chủ yếu sau đây: Các thành viên Hội đồng quản trị, người kiểm phiếu và người giám sát kiểm phiếu phải liên đới chịu trách nhiệm về tính trung thực, chính xác của biên bản kiểm phiếu; liên đới chịu trách nhiệm về các thiệt hại phát sinh từ các quyết định được thông qua do kiểm phiếu không trung thực, không chính xác;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -6345,7 +6443,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Cuộc họp Đại hội đồng cổ đông phải được ghi biên bản và có thể ghi âm hoặc ghi và lưu giữ dưới hình thức điện tử khác. Biên bản phải lập bằng tiếng Việt, có thể lập thêm bằng tiếng nước ngoài và phải bao gồm các nội dung chủ yếu sau đây:",
+                    "text": "Cuộc họp Đại hội đồng cổ đông phải được ghi biên bản và có thể ghi âm hoặc ghi và lưu giữ dưới hình thức điện tử khác. Biên bản phải lập bằng tiếng Việt, có thể lập thêm bằng tiếng nước ngoài và phải bao gồm các nội dung chủ yếu sau đây: Trường hợp chủ tọa, thư ký từ chối ký biên bản họp thì biên bản này có hiệu lực nếu được tất cả thành viên khác của Hội đồng quản trị tham dự họp ký và có đầy đủ nội dung theo quy định tại khoản này. Biên bản họp ghi rõ việc chủ tọa, thư ký từ chối ký biên bản họp.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -6416,6 +6514,11 @@
             "id": "Điều 151",
             "title": "Yêu cầu hủy bỏ nghị quyết Đại hội đồng cổ đông",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong thời hạn 90 ngày kể từ ngày nhận được nghị quyết hoặc biên bản họp Đại hội đồng cổ đông hoặc biên bản kết quả kiểm phiếu lấy ý kiến Đại hội đồng cổ đông, cổ đông, nhóm cổ đông quy định tại khoản 2 Điều 115 của Luật này có quyền yêu cầu Tòa án hoặc Trọng tài xem xét, hủy bỏ nghị quyết hoặc một phần nội dung nghị quyết Đại hội đồng cổ đông trong các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Trình tự, thủ tục triệu tập họp và ra quyết định của Đại hội đồng cổ đông vi phạm nghiêm trọng quy định của Luật này và Điều lệ công ty, trừ trường hợp quy định tại khoản 2 Điều 152 của Luật này;",
@@ -6750,12 +6853,12 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chủ tịch Hội đồng quản trị hoặc người triệu tập họp Hội đồng quản trị phải gửi thông báo mời họp chậm nhất là 03 ngày làm việc trước ngày họp nếu Điều lệ công ty không có quy định khác. Thông báo mời họp phải xác định cụ thể thời gian và địa điểm họp, chương trình, các vấn đề thảo luận và quyết định. Kèm theo thông báo mời họp phải có tài liệu sử dụng tại cuộc họp và phiếu biểu quyết của thành viên.",
+                    "text": "Chủ tịch Hội đồng quản trị hoặc người triệu tập họp Hội đồng quản trị phải gửi thông báo mời họp chậm nhất là 03 ngày làm việc trước ngày họp nếu Điều lệ công ty không có quy định khác. Thông báo mời họp phải xác định cụ thể thời gian và địa điểm họp, chương trình, các vấn đề thảo luận và quyết định. Kèm theo thông báo mời họp phải có tài liệu sử dụng tại cuộc họp và phiếu biểu quyết của thành viên. Thông báo mời họp Hội đồng quản trị có thể gửi bằng giấy mời, điện thoại, fax, phương tiện điện tử hoặc phương thức khác do Điều lệ công ty quy định và bảo đảm đến được địa chỉ liên lạc của từng thành viên Hội đồng quản trị được đăng ký tại công ty.",
                     "sub_clauses": []
                 },
                 {
                     "number": "7",
-                    "text": "Chủ tịch Hội đồng quản trị hoặc người triệu tập gửi thông báo mời họp và các tài liệu kèm theo đến các Kiểm soát viên như đối với các thành viên Hội đồng quản trị.",
+                    "text": "Chủ tịch Hội đồng quản trị hoặc người triệu tập gửi thông báo mời họp và các tài liệu kèm theo đến các Kiểm soát viên như đối với các thành viên Hội đồng quản trị. Kiểm soát viên có quyền dự các cuộc họp Hội đồng quản trị; có quyền thảo luận nhưng không được biểu quyết.",
                     "sub_clauses": []
                 },
                 {
@@ -7012,7 +7115,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Giám đốc hoặc Tổng giám đốc là người điều hành công việc kinh doanh hằng ngày của công ty; chịu sự giám sát của Hội đồng quản trị; chịu trách nhiệm trước Hội đồng quản trị và trước pháp luật về việc thực hiện quyền, nghĩa vụ được giao.",
+                    "text": "Giám đốc hoặc Tổng giám đốc là người điều hành công việc kinh doanh hằng ngày của công ty; chịu sự giám sát của Hội đồng quản trị; chịu trách nhiệm trước Hội đồng quản trị và trước pháp luật về việc thực hiện quyền, nghĩa vụ được giao. Nhiệm kỳ của Giám đốc hoặc Tổng giám đốc không quá 05 năm và có thể được bổ nhiệm lại với số nhiệm kỳ không hạn chế.",
                     "sub_clauses": []
                 },
                 {
@@ -7093,7 +7196,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp Điều lệ công ty không có quy định khác thì tiền lương, thù lao, thưởng và lợi ích khác của thành viên Hội đồng quản trị, Giám đốc hoặc Tổng giám đốc được trả theo quy định sau đây:",
+                    "text": "Trường hợp Điều lệ công ty không có quy định khác thì tiền lương, thù lao, thưởng và lợi ích khác của thành viên Hội đồng quản trị, Giám đốc hoặc Tổng giám đốc được trả theo quy định sau đây: Thù lao công việc được tính theo số ngày công cần thiết hoàn thành nhiệm vụ của thành viên Hội đồng quản trị và mức thù lao mỗi ngày. Hội đồng quản trị dự tính mức thù lao cho từng thành viên theo nguyên tắc nhất trí. Tổng mức thù lao và thưởng của Hội đồng quản trị do Đại hội đồng cổ đông quyết định tại cuộc họp thường niên;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -7120,6 +7223,11 @@
             "id": "Điều 164",
             "title": "Công khai các lợi ích liên quan",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp Điều lệ công ty không có quy định khác chặt chẽ hơn, việc công khai lợi ích và người có liên quan của công ty thực hiện theo quy định sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Công ty phải tập hợp và cập nhật danh sách những người có liên quan của công ty theo quy định tại khoản 23 Điều 4 của Luật này và các hợp đồng, giao dịch tương ứng của họ với công ty;",
@@ -7469,6 +7577,11 @@
             "title": "Tiền lương, thù lao, thưởng và lợi ích khác của Kiểm soát viên",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trường hợp Điều lệ công ty không có quy định khác thì tiền lương, thù lao, thưởng và lợi ích khác của Kiểm soát viên được thực hiện theo quy định sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Kiểm soát viên được trả tiền lương, thù lao, thưởng và lợi ích khác theo quyết định của Đại hội đồng cổ đông. Đại hội đồng cổ đông quyết định tổng mức tiền lương, thù lao, thưởng, lợi ích khác và ngân sách hoạt động hằng năm của Ban kiểm soát;",
                     "sub_clauses": []
@@ -7648,7 +7761,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Công ty đại chúng thực hiện công bố, công khai thông tin theo quy định của pháp luật về chứng khoán. Công ty cổ phần theo quy định tại điểm b khoản 1 Điều 88 công bố, công khai thông tin theo quy định tại các điểm a, c, đ và g khoản 1 Điều 109 và Điều 110 của Luật này.",
+                    "text": "Công ty đại chúng thực hiện công bố, công khai thông tin theo quy định của pháp luật về chứng khoán. Công ty cổ phần theo quy định tại điểm b khoản 1 Điều 88 công bố, công khai thông tin theo quy định tại các điểm a, c, đ và g khoản 1 Điều 109 và Điều 110 của Luật này. Chương VI CÔNG TY HỢP DANH",
                     "sub_clauses": []
                 }
             ]
@@ -7751,6 +7864,11 @@
             "id": "Điều 179",
             "title": "Tài sản của công ty hợp danh",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Tài sản của công ty hợp danh bao gồm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tài sản góp vốn của các thành viên đã được chuyển quyền sở hữu cho công ty;",
@@ -7959,7 +8077,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thông báo mời họp Hội đồng thành viên có thể gửi bằng giấy mời, điện thoại, fax, phương tiện điện tử hoặc phương thức khác do Điều lệ công ty quy định. Thông báo mời họp phải nêu rõ mục đích, yêu cầu và nội dung họp, chương trình và địa điểm họp, tên thành viên yêu cầu triệu tập họp.",
+                    "text": "Thông báo mời họp Hội đồng thành viên có thể gửi bằng giấy mời, điện thoại, fax, phương tiện điện tử hoặc phương thức khác do Điều lệ công ty quy định. Thông báo mời họp phải nêu rõ mục đích, yêu cầu và nội dung họp, chương trình và địa điểm họp, tên thành viên yêu cầu triệu tập họp. Các tài liệu thảo luận được sử dụng để quyết định các vấn đề quy định tại khoản 3 Điều 182 của Luật này phải được gửi trước đến tất cả thành viên; thời hạn gửi trước do Điều lệ công ty quy định.",
                     "sub_clauses": []
                 },
                 {
@@ -8009,7 +8127,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong điều hành hoạt động kinh doanh của công ty, thành viên hợp danh phân công nhau đảm nhiệm các chức danh quản lý và kiểm soát công ty.",
+                    "text": "Trong điều hành hoạt động kinh doanh của công ty, thành viên hợp danh phân công nhau đảm nhiệm các chức danh quản lý và kiểm soát công ty. Khi một số hoặc tất cả thành viên hợp danh cùng thực hiện một số công việc kinh doanh thì quyết định được thông qua theo nguyên tắc đa số chấp thuận. Hoạt động do thành viên hợp danh thực hiện ngoài phạm vi hoạt động kinh doanh của công ty đều không thuộc trách nhiệm của công ty, trừ trường hợp hoạt động đó đã được các thành viên còn lại chấp thuận.",
                     "sub_clauses": []
                 },
                 {
@@ -8188,7 +8306,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thành viên góp vốn có nghĩa vụ sau đây:",
+                    "text": "Thành viên góp vốn có nghĩa vụ sau đây: Chương VII DOANH NGHIỆP TƯ NHÂN",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -8281,7 +8399,13 @@
         {
             "id": "Điều 191",
             "title": "Cho thuê doanh nghiệp tư nhân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chủ doanh nghiệp tư nhân có quyền cho thuê toàn bộ doanh nghiệp tư nhân của mình nhưng phải thông báo bằng văn bản kèm theo bản sao hợp đồng cho thuê có công chứng đến Cơ quan đăng ký kinh doanh, cơ quan thuế trong thời hạn 03 ngày làm việc kể từ ngày hợp đồng cho thuê có hiệu lực. Trong thời hạn cho thuê, chủ doanh nghiệp tư nhân vẫn phải chịu trách nhiệm trước pháp luật với tư cách là chủ sở hữu doanh nghiệp tư nhân. Quyền, nghĩa vụ và trách nhiệm của chủ sở hữu và người thuê đối với hoạt động kinh doanh của doanh nghiệp tư nhân được quy định trong hợp đồng cho thuê.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 192",
@@ -8335,7 +8459,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Trường hợp chủ doanh nghiệp tư nhân bị Tòa án cấm hành nghề hoặc làm công việc nhất định thuộc phạm vi ngành, nghề kinh doanh của doanh nghiệp thì chủ doanh nghiệp tư nhân tạm ngừng, chấm dứt kinh doanh ngành, nghề có liên quan theo quyết định của Tòa án hoặc chuyển nhượng doanh nghiệp tư nhân cho cá nhân, tổ chức khác.",
+                    "text": "Trường hợp chủ doanh nghiệp tư nhân bị Tòa án cấm hành nghề hoặc làm công việc nhất định thuộc phạm vi ngành, nghề kinh doanh của doanh nghiệp thì chủ doanh nghiệp tư nhân tạm ngừng, chấm dứt kinh doanh ngành, nghề có liên quan theo quyết định của Tòa án hoặc chuyển nhượng doanh nghiệp tư nhân cho cá nhân, tổ chức khác. Chương VIII NHÓM CÔNG TY",
                     "sub_clauses": []
                 }
             ]
@@ -8475,7 +8599,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Ngoài báo cáo, tài liệu theo quy định của pháp luật, công ty con còn phải lập báo cáo tổng hợp về mua, bán và giao dịch khác với công ty mẹ.",
+                    "text": "Ngoài báo cáo, tài liệu theo quy định của pháp luật, công ty con còn phải lập báo cáo tổng hợp về mua, bán và giao dịch khác với công ty mẹ. Chương IX TỔ CHỨC LẠI, GIẢI THỂ VÀ PHÁ SẢN DOANH NGHIỆP",
                     "sub_clauses": []
                 }
             ]
@@ -8873,6 +8997,11 @@
             "title": "Trình tự, thủ tục giải thể doanh nghiệp",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Việc giải thể doanh nghiệp trong trường hợp quy định tại các điểm a, b và c khoản 1 Điều 207 của Luật này được thực hiện theo quy định sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Thông qua nghị quyết, quyết định giải thể doanh nghiệp. Nghị quyết, quyết định giải thể doanh nghiệp phải bao gồm các nội dung chủ yếu sau đây:",
                     "sub_clauses": [
@@ -8905,7 +9034,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn 07 ngày làm việc kể từ ngày thông qua, nghị quyết, quyết định giải thể và biên bản họp phải được gửi đến Cơ quan đăng ký kinh doanh, cơ quan thuế, người lao động trong doanh nghiệp. Nghị quyết, quyết định giải thể phải được đăng trên Cổng thông tin quốc gia về đăng ký doanh nghiệp và được niêm yết công khai tại trụ sở chính, chi nhánh, văn phòng đại diện của doanh nghiệp.",
+                    "text": "Trong thời hạn 07 ngày làm việc kể từ ngày thông qua, nghị quyết, quyết định giải thể và biên bản họp phải được gửi đến Cơ quan đăng ký kinh doanh, cơ quan thuế, người lao động trong doanh nghiệp. Nghị quyết, quyết định giải thể phải được đăng trên Cổng thông tin quốc gia về đăng ký doanh nghiệp và được niêm yết công khai tại trụ sở chính, chi nhánh, văn phòng đại diện của doanh nghiệp. Trường hợp doanh nghiệp còn nghĩa vụ tài chính chưa thanh toán thì phải gửi kèm theo nghị quyết, quyết định giải thể và phương án giải quyết nợ đến các chủ nợ, người có quyền, nghĩa vụ và lợi ích có liên quan. Phương án giải quyết nợ phải có tên, địa chỉ của chủ nợ; số nợ, thời hạn, địa điểm và phương thức thanh toán số nợ đó; cách thức và thời hạn giải quyết khiếu nại của chủ nợ;",
                     "sub_clauses": []
                 },
                 {
@@ -8958,13 +9087,18 @@
             "title": "Giải thể doanh nghiệp trong trường hợp bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc theo quyết định của Tòa án",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Việc giải thể doanh nghiệp trong trường hợp bị thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc theo quyết định của Tòa án được thực hiện theo trình tự, thủ tục sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Cơ quan đăng ký kinh doanh phải thông báo tình trạng doanh nghiệp đang làm thủ tục giải thể trên Cổng thông tin quốc gia về đăng ký doanh nghiệp đồng thời với việc ra quyết định thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc ngay sau khi nhận được quyết định giải thể của Tòa án đã có hiệu lực pháp luật. Kèm theo thông báo phải đăng tải quyết định thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc quyết định của Tòa án đã có hiệu lực pháp luật;",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời hạn 10 ngày kể từ ngày nhận được quyết định thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc quyết định của Tòa án có hiệu lực pháp luật, doanh nghiệp phải triệu tập họp để quyết định giải thể. Nghị quyết, quyết định giải thể và bản sao quyết định thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc quyết định của Tòa án có hiệu lực pháp luật phải được gửi đến Cơ quan đăng ký kinh doanh, cơ quan thuế, người lao động trong doanh nghiệp và phải được niêm yết công khai tại trụ sở chính, chi nhánh, văn phòng đại diện của doanh nghiệp. Đối với trường hợp pháp luật yêu cầu phải đăng báo thì nghị quyết, quyết định giải thể doanh nghiệp phải được đăng ít nhất trên 01 tờ báo in hoặc báo điện tử trong 03 số liên tiếp.",
+                    "text": "Trong thời hạn 10 ngày kể từ ngày nhận được quyết định thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc quyết định của Tòa án có hiệu lực pháp luật, doanh nghiệp phải triệu tập họp để quyết định giải thể. Nghị quyết, quyết định giải thể và bản sao quyết định thu hồi Giấy chứng nhận đăng ký doanh nghiệp hoặc quyết định của Tòa án có hiệu lực pháp luật phải được gửi đến Cơ quan đăng ký kinh doanh, cơ quan thuế, người lao động trong doanh nghiệp và phải được niêm yết công khai tại trụ sở chính, chi nhánh, văn phòng đại diện của doanh nghiệp. Đối với trường hợp pháp luật yêu cầu phải đăng báo thì nghị quyết, quyết định giải thể doanh nghiệp phải được đăng ít nhất trên 01 tờ báo in hoặc báo điện tử trong 03 số liên tiếp. Trường hợp doanh nghiệp còn nghĩa vụ tài chính chưa thanh toán thì phải đồng thời gửi kèm theo nghị quyết, quyết định giải thể của doanh nghiệp, phương án giải quyết nợ đến các chủ nợ, người có quyền lợi và nghĩa vụ có liên quan. Thông báo phải có tên, địa chỉ của chủ nợ; số nợ, thời hạn, địa điểm và phương thức thanh toán số nợ đó; cách thức và thời hạn giải quyết khiếu nại của chủ nợ;",
                     "sub_clauses": []
                 },
                 {
@@ -9130,7 +9264,13 @@
         {
             "id": "Điều 214",
             "title": "Phá sản doanh nghiệp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc phá sản doanh nghiệp được thực hiện theo quy định của pháp luật về phá sản. Chương X ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 215",
@@ -9263,11 +9403,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đối tượng là người quản lý doanh nghiệp, Kiểm soát viên và người đại diện theo ủy quyền mà không đáp ứng đủ tiêu chuẩn, điều kiện quy định tại điểm b khoản 5 Điều 14, khoản 3 Điều 64, khoản 3 Điều 93, khoản 3 Điều 101, các điểm a, b và c khoản 3 Điều 103, điểm d khoản 1 Điều 155, điểm b khoản 5 Điều 162 và khoản 2 Điều 169 của Luật này được tiếp tục thực hiện nhiệm vụ đến hết thời gian còn lại của nhiệm kỳ.",
+                    "text": "Đối tượng là người quản lý doanh nghiệp, Kiểm soát viên và người đại diện theo ủy quyền mà không đáp ứng đủ tiêu chuẩn, điều kiện quy định tại điểm b khoản 5 Điều 14, khoản 3 Điều 64, khoản 3 Điều 93, khoản 3 Điều 101, các điểm a, b và c khoản 3 Điều 103, điểm d khoản 1 Điều 155, điểm b khoản 5 Điều 162 và khoản 2 Điều 169 của Luật này được tiếp tục thực hiện nhiệm vụ đến hết thời gian còn lại của nhiệm kỳ. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 9 thông qua ngày 17 tháng 6 năm 2020. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 9 thông qua ngày 17 tháng 6 năm 2020.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Nguyễn Thị Kim Ngân"
+    ]
 }

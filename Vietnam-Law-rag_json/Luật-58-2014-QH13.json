@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định chế độ, chính sách bảo hiểm xã hội; quyền và trách nhiệm của người lao động, người sử dụng lao động; cơ quan, tổ chức, cá nhân có liên quan đến bảo hiểm xã hội, tổ chức đại diện tập thể lao động, tổ chức đại diện người sử dụng lao động; cơ quan bảo hiểm xã hội; quỹ bảo hiểm xã hội; thủ tục thực hiện bảo hiểm xã hội và quản lý nhà nước về bảo hiểm xã hội."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -96,6 +103,13 @@
         "clause": "5",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan, tổ chức, cá nhân có liên quan đến bảo hiểm xã hội. Các đối tượng quy định tại các khoản 1, 2 và 4 Điều này sau đây gọi chung là người lao động."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -1113,6 +1127,13 @@
         "text": "Thực hiện hợp tác quốc tế về bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế. CHƯƠNG III BẢO HIỂM XÃ HỘI BẮT BUỘC Mục 1 CHẾ ĐỘ ỐM ĐAU"
     },
     {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Đối tượng áp dụng chế độ ốm đau",
+        "text": "Đối tượng áp dụng chế độ ốm đau là người lao động quy định tại các điểm a, b, c, d, đ và h khoản 1 Điều 2 của Luật này."
+    },
+    {
         "id": "Điều 25.1",
         "article": "Điều 25",
         "clause": "1",
@@ -1279,6 +1300,13 @@
         "clause": "3",
         "title": "Dưỡng sức, phục hồi sức khoẻ sau khi ốm đau",
         "text": "Mức hưởng dưỡng sức, phục hồi sức khỏe sau khi ốm đau một ngày bằng 30% mức lương cơ sở. Mục 2 CHẾ ĐỘ THAI SẢN"
+    },
+    {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Đối tượng áp dụng chế độ thai sản",
+        "text": "Đối tượng áp dụng chế độ thai sản là người lao động quy định tại các điểm a, b, c, d, đ và h khoản 1 Điều 2 của Luật này."
     },
     {
         "id": "Điều 31.1",
@@ -1505,6 +1533,13 @@
         "text": "Chính phủ quy định chi tiết chế độ thai sản, thủ tục hưởng chế độ thai sản của lao động nữ mang thai hộ và người mẹ nhờ mang thai hộ."
     },
     {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Thời gian hưởng chế độ khi nhận nuôi con nuôi",
+        "text": "Người lao động nhận nuôi con nuôi dưới 06 tháng tuổi thì được nghỉ việc hưởng chế độ thai sản cho đến khi con đủ 06 tháng tuổi. Trường hợp cả cha và mẹ cùng tham gia bảo hiểm xã hội đủ điều kiện hưởng chế độ thai sản quy định tại khoản 2 Điều 31 của Luật này thì chỉ cha hoặc mẹ được nghỉ việc hưởng chế độ."
+    },
+    {
         "id": "Điều 37.1",
         "article": "Điều 37",
         "clause": "1",
@@ -1531,6 +1566,13 @@
         "clause": "2",
         "title": "Thời gian hưởng chế độ khi thực hiện các biện pháp tránh thai",
         "text": "Thời gian hưởng chế độ thai sản quy định tại khoản 1 Điều này tính cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần."
+    },
+    {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Trợ cấp một lần khi sinh con hoặc nhận nuôi con nuôi",
+        "text": "Lao động nữ sinh con hoặc người lao động nhận nuôi con nuôi dưới 06 tháng tuổi thì được trợ cấp một lần cho mỗi con bằng 02 lần mức lương cơ sở tại tháng lao động nữ sinh con hoặc tháng người lao động nhận nuôi con nuôi. Trường hợp sinh con nhưng chỉ có cha tham gia bảo hiểm xã hội thì cha được trợ cấp một lần bằng 02 lần mức lương cơ sở tại tháng sinh con cho mỗi con."
     },
     {
         "id": "Điều 39.1",
@@ -1645,6 +1687,20 @@
         "text": "Mức hưởng chế độ dưỡng sức, phục hồi sức khoẻ sau thai sản một ngày bằng 30% mức lương cơ sở. Mục 3 CHẾ ĐỘ TAI NẠN LAO ĐỘNG, BỆNH NGHỀ NGHIỆP"
     },
     {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Đối tượng áp dụng chế độ tai nạn lao động, bệnh nghề nghiệp",
+        "text": "Đối tượng áp dụng chế độ tai nạn lao động, bệnh nghề nghiệp là người lao động quy định tại các điểm a, b, c, d, đ, e và h khoản 1 Điều 2 của Luật này."
+    },
+    {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Điều kiện hưởng chế độ tai nạn lao động",
+        "text": "Người lao động được hưởng chế độ tai nạn lao động khi có đủ các điều kiện sau đây:"
+    },
+    {
         "id": "Điều 43.1",
         "article": "Điều 43",
         "clause": "1",
@@ -1678,6 +1734,13 @@
         "clause": "2",
         "title": "Điều kiện hưởng chế độ tai nạn lao động",
         "text": "Suy giảm khả năng lao động từ 5% trở lên do bị tai nạn quy định tại khoản 1 Điều này."
+    },
+    {
+        "id": "Điều 44.0",
+        "article": "Điều 44",
+        "clause": "0",
+        "title": "Điều kiện hưởng chế độ bệnh nghề nghiệp",
+        "text": "Người lao động được hưởng chế độ bệnh nghề nghiệp khi có đủ các điều kiện sau đây:"
     },
     {
         "id": "Điều 44.1",
@@ -1813,6 +1876,27 @@
         "text": "Trường hợp thương tật hoặc bệnh tật tái phát, người lao động được đi giám định lại mức suy giảm khả năng lao động thì thời điểm hưởng trợ cấp mới được tính từ tháng có kết luận của Hội đồng giám định y khoa."
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Phương tiện trợ giúp sinh hoạt, dụng cụ chỉnh hình",
+        "text": "Người lao động bị tai nạn lao động, bệnh nghề nghiệp mà bị tổn thương các chức năng hoạt động của cơ thể thì được cấp phương tiện trợ giúp sinh hoạt, dụng cụ chỉnh hình theo niên hạn căn cứ vào tình trạng thương tật, bệnh tật."
+    },
+    {
+        "id": "Điều 50.0",
+        "article": "Điều 50",
+        "clause": "0",
+        "title": "Trợ cấp phục vụ",
+        "text": "Người lao động bị suy giảm khả năng lao động từ 81% trở lên mà bị liệt cột sống hoặc mù hai mắt hoặc cụt, liệt hai chi hoặc bị bệnh tâm thần thì ngoài mức hưởng quy định tại Điều 47 của Luật này, hằng tháng còn được hưởng trợ cấp phục vụ bằng mức lương cơ sở."
+    },
+    {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Trợ cấp một lần khi chết do tai nạn lao động, bệnh nghề nghiệp",
+        "text": "Người lao động đang làm việc bị chết do tai nạn lao động, bệnh nghề nghiệp hoặc bị chết trong thời gian điều trị lần đầu do tai nạn lao động, bệnh nghề nghiệp thì thân nhân được hưởng trợ cấp một lần bằng 36 lần mức lương cơ sở."
+    },
+    {
         "id": "Điều 52.1",
         "article": "Điều 52",
         "clause": "1",
@@ -1825,6 +1909,13 @@
         "clause": "2",
         "title": "Dưỡng sức, phục hồi sức khoẻ sau khi điều trị thương tật, bệnh tật",
         "text": "Mức hưởng một ngày bằng 25% mức lương cơ sở nếu nghỉ dưỡng sức, phục hồi sức khoẻ tại gia đình; bằng 40% mức lương cơ sở nếu nghỉ dưỡng sức, phục hồi sức khoẻ tại cơ sở tập trung. Mục 4 CHẾ ĐỘ HƯU TRÍ"
+    },
+    {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Đối tượng áp dụng chế độ hưu trí",
+        "text": "Đối tượng áp dụng chế độ hưu trí là người lao động quy định tại khoản 1 Điều 2 của Luật này."
     },
     {
         "id": "Điều 54.1",
@@ -2009,6 +2100,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Điều chỉnh lương hưu",
+        "text": "Chính phủ quy định việc điều chỉnh lương hưu trên cơ sở mức tăng của chỉ số giá tiêu dùng và tăng trưởng kinh tế phù hợp với ngân sách nhà nước và quỹ bảo hiểm xã hội."
+    },
+    {
         "id": "Điều 58.1",
         "article": "Điều 58",
         "clause": "1",
@@ -2126,6 +2224,13 @@
         "clause": "4",
         "title": "Bảo hiểm xã hội một lần",
         "text": "Thời điểm tính hưởng bảo hiểm xã hội một lần là thời điểm ghi trong quyết định của cơ quan bảo hiểm xã hội."
+    },
+    {
+        "id": "Điều 61.0",
+        "article": "Điều 61",
+        "clause": "0",
+        "title": "Bảo lưu thời gian đóng bảo hiểm xã hội",
+        "text": "Người lao động khi nghỉ việc mà chưa đủ điều kiện để hưởng lương hưu theo quy định tại Điều 54 và Điều 55 của Luật này hoặc chưa hưởng bảo hiểm xã hội một lần theo quy định tại Điều 60 của Luật này thì được bảo lưu thời gian đóng bảo hiểm xã hội."
     },
     {
         "id": "Điều 62.1",
@@ -2443,6 +2548,13 @@
         "text": "Thời điểm hưởng trợ cấp tuất hằng tháng được thực hiện kể từ tháng liền kề sau tháng mà đối tượng quy định tại khoản 1 và khoản 3 Điều 66 của Luật này chết. Trường hợp khi bố chết mà người mẹ đang mang thai thì thời điểm hưởng trợ cấp tuất hằng tháng của con tính từ tháng con được sinh."
     },
     {
+        "id": "Điều 69.0",
+        "article": "Điều 69",
+        "clause": "0",
+        "title": "Các trường hợp hưởng trợ cấp tuất một lần",
+        "text": "Những người quy định tại khoản 1 và khoản 3 Điều 66 của Luật này thuộc một trong các trường hợp sau đây khi chết thì thân nhân được hưởng trợ cấp tuất một lần:"
+    },
+    {
         "id": "Điều 69.1",
         "article": "Điều 69",
         "clause": "1",
@@ -2525,6 +2637,13 @@
         "clause": "2",
         "title": "Chế độ hưu trí và chế độ tử tuất đối với người vừa có thời gian đóng bảo hiểm xã hội bắt buộc vừa có thời gian đóng bảo hiểm xã hội tự nguyện",
         "text": "Chính phủ quy định chi tiết Điều này. CHƯƠNG IV BẢO HIỂM XÃ HỘI TỰ NGUYỆN Mục 1 CHẾ ĐỘ HƯU TRÍ"
+    },
+    {
+        "id": "Điều 72.0",
+        "article": "Điều 72",
+        "clause": "0",
+        "title": "Đối tượng áp dụng chế độ hưu trí",
+        "text": "Đối tượng áp dụng chế độ hưu trí tham gia bảo hiểm xã hội tự nguyện là người lao động quy định tại khoản 4 Điều 2 của Luật này."
     },
     {
         "id": "Điều 73.1",
@@ -3183,6 +3302,13 @@
         "clause": "3",
         "title": "Chi phí quản lý bảo hiểm xã hội",
         "text": "Thủ tướng Chính phủ quy định chi tiết khoản 1 Điều này."
+    },
+    {
+        "id": "Điều 91.0",
+        "article": "Điều 91",
+        "clause": "0",
+        "title": "Nguyên tắc đầu tư",
+        "text": "Hoạt động đầu tư từ quỹ bảo hiểm xã hội phải bảo đảm an toàn, hiệu quả và thu hồi được vốn đầu tư."
     },
     {
         "id": "Điều 92.1",
@@ -4018,6 +4144,13 @@
         "text": "Trong thời hạn 15 ngày kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan bảo hiểm xã hội có trách nhiệm giải quyết; trường hợp không giải quyết thì phải trả lời bằng văn bản và nêu rõ lý do."
     },
     {
+        "id": "Điều 115.0",
+        "article": "Điều 115",
+        "clause": "0",
+        "title": "Chuyển nơi hưởng lương hưu, trợ cấp bảo hiểm xã hội",
+        "text": "Người đang hưởng lương hưu, trợ cấp bảo hiểm xã hội hằng tháng chuyển đến nơi ở khác trong nước có nguyện vọng được hưởng bảo hiểm xã hội ở nơi cư trú mới thì có đơn gửi cơ quan bảo hiểm xã hội nơi đang hưởng. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đơn, cơ quan bảo hiểm xã hội có trách nhiệm giải quyết; trường hợp không giải quyết thì phải trả lời bằng văn bản và nêu rõ lý do."
+    },
+    {
         "id": "Điều 116.1",
         "article": "Điều 116",
         "clause": "1",
@@ -4100,6 +4233,13 @@
         "clause": "4",
         "title": "Trình tự giải quyết khiếu nại về bảo hiểm xã hội",
         "text": "Thời hiệu khiếu nại, thời hạn giải quyết khiếu nại được áp dụng theo quy định của pháp luật về khiếu nại."
+    },
+    {
+        "id": "Điều 120.0",
+        "article": "Điều 120",
+        "clause": "0",
+        "title": "Tố cáo, giải quyết tố cáo về bảo hiểm xã hội",
+        "text": "Việc tố cáo và giải quyết tố cáo hành vi vi phạm pháp luật về bảo hiểm xã hội được thực hiện theo quy định của pháp luật về tố cáo."
     },
     {
         "id": "Điều 121.1",
@@ -4247,5 +4387,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Luật bảo hiểm xã hội số 71/2006/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+    },
+    {
+        "id": "Điều 125.0",
+        "article": "Điều 125",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. ------------------------------------------------------------------------------------------------------------------------------ Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 20 tháng 11 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

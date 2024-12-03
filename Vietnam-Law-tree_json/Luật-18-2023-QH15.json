@@ -16,12 +16,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định nguyên tắc, hoạt động phòng thủ dân sự; quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức, cá nhân trong hoạt động phòng thủ dân sự; quản lý nhà nước và nguồn lực bảo đảm thực hiện phòng thủ dân sự.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Phòng thủ dân sự là bộ phận của phòng thủ đất nước, bao gồm các biện pháp phòng, chống, khắc phục hậu quả chiến tranh; phòng, chống, khắc phục hậu quả sự cố, thảm họa, thiên tai, dịch bệnh; bảo vệ Nhân dân, cơ quan, tổ chức và nền kinh tế quốc dân.",
@@ -332,7 +343,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Lợi dụng hoạt động phòng thủ dân sự hoặc sự cố, thảm họa để xâm phạm lợi ích Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân.",
+                    "text": "Lợi dụng hoạt động phòng thủ dân sự hoặc sự cố, thảm họa để xâm phạm lợi ích Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân. Chương II HOẠT ĐỘNG PHÒNG THỦ DÂN SỰ Mục 1 HOẠT ĐỘNG PHÒNG NGỪA",
                     "sub_clauses": []
                 }
             ]
@@ -572,7 +583,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Diễn tập phòng thủ dân sự được quy định như sau:",
+                    "text": "Diễn tập phòng thủ dân sự được quy định như sau: Mục 2 HOẠT ĐỘNG PHÒNG THỦ DÂN SỰ KHI CÓ NGUY CƠ XẢY RA SỰ CỐ, THẢM HỌA",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -590,6 +601,11 @@
             "id": "Điều 18",
             "title": "Biện pháp được áp dụng khi có nguy cơ xảy ra sự cố, thảm họa",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Khi có nguy cơ xảy ra sự cố, thảm họa, Chủ tịch Ủy ban nhân dân các cấp được áp dụng biện pháp quy định tại các luật khác có liên quan và biện pháp sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Hướng dẫn và thực hiện sơ tán người, tài sản đến khu vực an toàn; bảo đảm phương tiện, trang bị bảo vệ cá nhân, lương thực, thực phẩm, thuốc chữa bệnh, nước uống và nhu yếu phẩm thiết yếu khác cho người tại địa điểm sơ tán;",
@@ -622,6 +638,11 @@
             "title": "Chuẩn bị lực lượng, trang thiết bị",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Công tác chuẩn bị lực lượng, trang thiết bị bao gồm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Rà soát, điều chỉnh kế hoạch, xây dựng phương án huy động lực lượng, phương tiện để ứng phó với sự cố, thảm hoạ;",
                     "sub_clauses": []
@@ -643,7 +664,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Tăng cường lực lượng trực, triển khai trước một bộ phận ở khu vực có nguy cơ cao xảy ra sự cố, thảm họa để sẵn sàng thực hiện nhiệm vụ.",
+                    "text": "Tăng cường lực lượng trực, triển khai trước một bộ phận ở khu vực có nguy cơ cao xảy ra sự cố, thảm họa để sẵn sàng thực hiện nhiệm vụ. Mục 3 HOẠT ĐỘNG PHÒNG THỦ DÂN SỰ KHI XẢY RA SỰ CỐ, THẢM HỌA",
                     "sub_clauses": []
                 }
             ]
@@ -908,7 +929,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Căn cứ tình hình thực tế, người có thẩm quyền quyết định áp dụng biện pháp quy định tại khoản 1 Điều 22, khoản 1 Điều 23, khoản 1 Điều 24 và khoản 1 Điều 25 của Luật này, biện pháp quy định tại khoản 1 Điều này và quy định của pháp luật về tình trạng chiến tranh.",
+                    "text": "Căn cứ tình hình thực tế, người có thẩm quyền quyết định áp dụng biện pháp quy định tại khoản 1 Điều 22, khoản 1 Điều 23, khoản 1 Điều 24 và khoản 1 Điều 25 của Luật này, biện pháp quy định tại khoản 1 Điều này và quy định của pháp luật về tình trạng chiến tranh. Mục 4 HOẠT ĐỘNG KHẮC PHỤC HẬU QUẢ SỰ CỐ, THẢM HỌA",
                     "sub_clauses": []
                 }
             ]
@@ -979,6 +1000,11 @@
             "id": "Điều 29",
             "title": "Cứu trợ, hỗ trợ khắc phục thiệt hại",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban nhân dân các cấp, căn cứ vào thống kê, đánh giá thiệt hại do sự cố, thảm họa gây ra tại địa phương, xác định đối tượng cụ thể cần cứu trợ, hỗ trợ và nguồn lực để thực hiện hoạt động sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Xây dựng kế hoạch cứu trợ, hỗ trợ khắc phục thiệt hại do sự cố, thảm họa gây ra;",
@@ -1056,7 +1082,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết khoản 2 Điều này.",
+                    "text": "Chính phủ quy định chi tiết khoản 2 Điều này. Chương III CHỈ ĐẠO, CHỈ HUY LỰC LƯỢNG PHÒNG THỦ DÂN SỰ",
                     "sub_clauses": []
                 }
             ]
@@ -1232,7 +1258,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương IV QUYỀN, NGHĨA VỤ CỦA CƠ QUAN, TỔ CHỨC VÀ CÁ NHÂN TRONG HOẠT ĐỘNG PHÒNG THỦ DÂN SỰ",
                     "sub_clauses": []
                 }
             ]
@@ -1395,7 +1421,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tổ chức, cá nhân nước ngoài, tổ chức quốc tế đang hoạt động tại Việt Nam tham gia hoạt động ứng phó, khắc phục hậu quả sự cố, thảm họa có các quyền và nghĩa vụ quy định tại Điều 36, Điều 37, khoản 1 và khoản 2 Điều này.",
+                    "text": "Tổ chức, cá nhân nước ngoài, tổ chức quốc tế đang hoạt động tại Việt Nam tham gia hoạt động ứng phó, khắc phục hậu quả sự cố, thảm họa có các quyền và nghĩa vụ quy định tại Điều 36, Điều 37, khoản 1 và khoản 2 Điều này. Chương V NGUỒN LỰC CHO PHÒNG THỦ DÂN SỰ, CHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI LỰC LƯỢNG PHÒNG THỦ DÂN SỰ",
                     "sub_clauses": []
                 }
             ]
@@ -1534,7 +1560,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương VI TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC VỀ PHÒNG THỦ DÂN SỰ",
                     "sub_clauses": []
                 }
             ]
@@ -1593,6 +1619,11 @@
             "id": "Điều 43",
             "title": "Trách nhiệm của Bộ Quốc phòng",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ Quốc phòng là đầu mối chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về phòng thủ dân sự; chủ trì, phối hợp với Bộ, ngành trung ương, cơ quan ngang Bộ, địa phương thực hiện các nhiệm vụ sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Ban hành, trình cấp có thẩm quyền ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về phòng thủ dân sự thuộc lĩnh vực quản lý;",
@@ -1862,6 +1893,11 @@
             "title": "Trách nhiệm của Bộ, ngành trung ương, cơ quan ngang Bộ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, Bộ, ngành trung ương, cơ quan ngang Bộ có trách nhiệm chủ trì, phối hợp với Bộ Quốc phòng thực hiện quản lý nhà nước về phòng thủ dân sự và có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Ban hành, trình cấp có thẩm quyền ban hành và tổ chức thực hiện văn bản pháp luật về phòng thủ dân sự thuộc lĩnh vực quản lý;",
                     "sub_clauses": []
@@ -1918,7 +1954,13 @@
         {
             "id": "Điều 53",
             "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với cơ quan, tổ chức tuyên truyền, vận động Nhân dân thực hiện pháp luật về phòng thủ dân sự; giám sát việc thực hiện pháp luật về phòng thủ dân sự. Chương VII ĐIỀU KHOẢN THI HÀNH",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 54",
@@ -1950,7 +1992,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Sửa đổi, bổ sung, bãi bỏ một số điều của Luật Phòng, chống thiên tai số 33/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 60/2020/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung, bãi bỏ một số điều của Luật Phòng, chống thiên tai số 33/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 60/2020/QH14 như sau: “4. Đối tượng dễ bị tổn thương là người, nhóm người có đặc điểm và hoàn cảnh khiến họ có khả năng phải chịu nhiều tác động bất lợi hơn từ thiên tai so với những nhóm người khác trong cộng đồng. Đối tượng dễ bị tổn thương bao gồm trẻ em, người cao tuổi, phụ nữ đang mang thai hoặc đang nuôi con dưới 36 tháng tuổi, người khuyết tật, người bị bệnh hiểm nghèo, người nghèo, người mất năng lực hành vi dân sự, người dân tộc thiểu số sinh sống tại vùng có điều kiện kinh tế - xã hội khó khăn, người sinh sống tại vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn và các đối tượng khác theo quy định của pháp luật.”; “a) Ban chỉ đạo Phòng thủ dân sự quốc gia hướng dẫn xây dựng phương án ứng phó tương ứng với các cấp độ rủi ro thiên tai;”; “Căn cứ vào bản tin dự báo, cảnh báo thiên tai, Thủ tướng Chính phủ, Ban chỉ đạo phòng thủ dân sự quốc gia; ban chỉ huy phòng thủ dân sự Bộ, cơ quan ngang Bộ; ban chỉ huy phòng thủ dân sự cấp tỉnh ban hành văn bản chỉ đạo, chỉ huy triển khai thực hiện biện pháp ứng phó thiên tai theo quy định của Chính phủ.”; “Căn cứ vào loại thiên tai, cấp độ rủi ro thiên tai xảy ra, Ban chỉ đạo phòng thủ dân sự quốc gia; ban chỉ huy phòng thủ dân sự Bộ, cơ quan ngang Bộ; ban chỉ huy phòng thủ dân sự địa phương quyết định lựa chọn một hoặc một số biện pháp phù hợp sau đây:”; “4. Căn cứ vào dự báo, cảnh báo, cấp độ rủi ro thiên tai, diễn biến thiên tai, sự chỉ đạo, chỉ huy của Ban chỉ đạo Phòng thủ dân sự quốc gia, trong phạm vi nhiệm vụ và quyền hạn của mình, Ủy ban nhân dân, Ban chỉ huy phòng thủ dân sự địa phương có trách nhiệm sau đây:”; “b) Ủy ban nhân dân, Ban chỉ huy phòng thủ dân sự địa phương các cấp có trách nhiệm chủ động triển khai hoạt động tìm kiếm cứu nạn trên địa bàn; trường hợp vượt quá khả năng phải báo cáo, đề nghị Ủy ban nhân dân cấp tỉnh, Ban chỉ huy phòng thủ dân sự cấp tỉnh, Ban chỉ đạo Phòng thủ dân sự quốc gia hỗ trợ;”; “2. Ban chỉ huy phòng thủ dân sự các cấp có trách nhiệm tổng hợp thiệt hại do thiên tai gây ra, báo cáo Ủy ban nhân dân cùng cấp, Ban chỉ huy phòng thủ dân sự cấp trên và Ban chỉ đạo Phòng thủ dân sự quốc gia để phục vụ công tác chỉ đạo.”; “4. Ban chỉ huy phòng thủ dân sự Bộ, cơ quan ngang Bộ có trách nhiệm tổng hợp thiệt hại do thiên tai báo cáo Ban chỉ đạo Phòng thủ dân sự quốc gia để phục vụ công tác chỉ đạo.”;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2021,7 +2063,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Sửa đổi, bổ sung, bãi bỏ một số điều của Luật Quốc phòng số 22/2018/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung, bãi bỏ một số điều của Luật Quốc phòng số 22/2018/QH14 như sau: “Điều 13. Phòng thủ dân sự Hoạt động phòng thủ dân sự thực hiện theo quy định của Luật Phòng thủ dân sự.”.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2057,8 +2099,18 @@
         {
             "id": "Điều 55",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2024. ____________________________________________________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 5 thông qua ngày 20 tháng 6 năm 2023. CHỦ TỊCH QUỐC HỘI Vương Đình Huệ",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 5 thông qua ngày 20 tháng 6 năm 2023.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Vương Đình Huệ"
+    ]
 }

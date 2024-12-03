@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quản lý, bảo vệ, phát triển, sử dụng rừng; chế biến và thương mại lâm sản."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -1043,6 +1057,13 @@
         "text": "Ban quản lý rừng đặc dụng, ban quản lý rừng phòng hộ đối với diện tích rừng sản xuất xen kẽ trong diện tích rừng đặc dụng, rừng phòng hộ được giao cho ban quản lý rừng đó."
     },
     {
+        "id": "Điều 17.0",
+        "article": "Điều 17",
+        "clause": "0",
+        "title": "Cho thuê rừng sản xuất",
+        "text": "Nhà nước cho tổ chức kinh tế, hộ gia đình, cá nhân thuê rừng sản xuất là rừng tự nhiên, rừng sản xuất là rừng trồng trả tiền thuê rừng một lần hoặc hằng năm để sản xuất lâm nghiệp; sản xuất lâm, nông, ngư nghiệp kết hợp; kinh doanh du lịch sinh thái, nghỉ dưỡng, giải trí."
+    },
+    {
         "id": "Điều 18.1",
         "article": "Điều 18",
         "clause": "1",
@@ -1888,6 +1909,13 @@
         "clause": "3",
         "title": "Cơ sở dữ liệu rừng",
         "text": "Bộ Nông nghiệp và Phát triển nông thôn tổ chức lập, quản lý cơ sở dữ liệu rừng thống nhất trong phạm vi cả nước. Chương IV BẢO VỆ RỪNG"
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Bảo vệ hệ sinh thái rừng",
+        "text": "Cơ quan nhà nước, tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư có hoạt động ảnh hưởng trực tiếp đến hệ sinh thái rừng, sinh trưởng và phát triển của các loài sinh vật rừng phải tuân thủ quy định của Luật này, pháp luật về bảo vệ môi trường, đa dạng sinh học, bảo vệ và kiểm dịch thực vật, thú y và quy định khác của pháp luật có liên quan."
     },
     {
         "id": "Điều 38.1",
@@ -5313,6 +5341,13 @@
         "text": "Chủ tịch Ủy ban nhân dân các cấp chịu trách nhiệm về cháy rừng, phá rừng hoặc mất rừng do hành vi vi phạm pháp luật trong lĩnh vực quản lý, bảo vệ rừng gây ra thuộc phạm vi lĩnh vực, địa bàn quản lý. Mục 2. KIỂM LÂM"
     },
     {
+        "id": "Điều 103.0",
+        "article": "Điều 103",
+        "clause": "0",
+        "title": "Chức năng của Kiểm lâm",
+        "text": "Kiểm lâm là tổ chức có chức năng quản lý, bảo vệ rừng, bảo đảm chấp hành pháp luật về lâm nghiệp; là lực lượng chuyên ngành về phòng cháy và chữa cháy rừng."
+    },
+    {
         "id": "Điều 104.1",
         "article": "Điều 104",
         "clause": "1",
@@ -5520,6 +5555,6 @@
         "article": "Điều 108",
         "clause": "4",
         "title": "Quy định chuyển tiếp",
-        "text": "Ủy ban nhân dân cấp tỉnh có trách nhiệm rà soát diện tích rừng tự nhiên hiện có để đưa vào quy hoạch rừng đặc dụng, rừng phòng hộ, rừng sản xuất trong thời hạn 12 tháng kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 4 thông qua ngày 15 tháng 11 năm 2017."
+        "text": "Ủy ban nhân dân cấp tỉnh có trách nhiệm rà soát diện tích rừng tự nhiên hiện có để đưa vào quy hoạch rừng đặc dụng, rừng phòng hộ, rừng sản xuất trong thời hạn 12 tháng kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 4 thông qua ngày 15 tháng 11 năm 2017. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

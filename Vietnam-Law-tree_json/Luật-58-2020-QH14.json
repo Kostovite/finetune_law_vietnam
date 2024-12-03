@@ -38,6 +38,11 @@
             "title": "Giải thích từ ngữ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Hòa giải viên tại Tòa án (sau đây gọi là Hòa giải viên) là người có đủ điều kiện, được Chánh án Tòa án nhân dân cấp tỉnh bổ nhiệm để tiến hành hòa giải tranh chấp dân sự, hôn nhân và gia đình, kinh doanh, thương mại, lao động, yêu cầu công nhận thuận tình ly hôn (sau đây gọi chung là vụ việc dân sự) và đối thoại khiếu kiện hành chính theo quy định của Luật này.",
                     "sub_clauses": []
@@ -120,7 +125,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Tiếng nói và chữ viết dùng trong hòa giải, đối thoại là tiếng Việt. Người tham gia hòa giải, đối thoại có quyền dùng tiếng nói, chữ viết của dân tộc mình; trường hợp này họ có thể tự bố trí hoặc đề nghị Hòa giải viên bố trí phiên dịch cho mình.",
+                    "text": "Tiếng nói và chữ viết dùng trong hòa giải, đối thoại là tiếng Việt. Người tham gia hòa giải, đối thoại có quyền dùng tiếng nói, chữ viết của dân tộc mình; trường hợp này họ có thể tự bố trí hoặc đề nghị Hòa giải viên bố trí phiên dịch cho mình. Người tham gia hòa giải, đối thoại là người khuyết tật nghe, nói hoặc khuyết tật nhìn có quyền dùng ngôn ngữ, ký hiệu, chữ dành riêng cho người khuyết tật; trường hợp này phải có người biết ngôn ngữ, ký hiệu, chữ dành riêng cho người khuyết tật để dịch lại và họ cũng được coi là người phiên dịch.",
                     "sub_clauses": []
                 },
                 {
@@ -168,7 +173,13 @@
         {
             "id": "Điều 5",
             "title": "Chính sách của Nhà nước về hòa giải, đối thoại tại Tòa án",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước khuyến khích các bên giải quyết vụ việc dân sự, khiếu kiện hành chính bằng hình thức hòa giải, đối thoại tại Tòa án; khuyến khích những người đủ điều kiện theo quy định của Luật này làm Hòa giải viên và tạo điều kiện, hỗ trợ cho hoạt động hòa giải, đối thoại tại Tòa án.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 6",
@@ -419,7 +430,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết mức thu, trình tự, thủ tục thu, nộp và việc quản lý, sử dụng chi phí quy định tại khoản 2 Điều này.",
+                    "text": "Chính phủ quy định chi tiết mức thu, trình tự, thủ tục thu, nộp và việc quản lý, sử dụng chi phí quy định tại khoản 2 Điều này. Chương II HÒA GIẢI VIÊN",
                     "sub_clauses": []
                 }
             ]
@@ -744,12 +755,12 @@
                 },
                 {
                     "number": "5",
-                    "text": "Người bị buộc thôi làm Hòa giải viên có quyền khiếu nại đến Chánh án Tòa án nhân dân cấp tỉnh đã ra quyết định buộc thôi làm Hòa giải viên trong thời hạn 30 ngày kể từ ngày nhận được quyết định. Chánh án Tòa án nhân dân cấp tỉnh có trách nhiệm giải quyết trong thời hạn 30 ngày kể từ ngày nhận được khiếu nại.",
+                    "text": "Người bị buộc thôi làm Hòa giải viên có quyền khiếu nại đến Chánh án Tòa án nhân dân cấp tỉnh đã ra quyết định buộc thôi làm Hòa giải viên trong thời hạn 30 ngày kể từ ngày nhận được quyết định. Chánh án Tòa án nhân dân cấp tỉnh có trách nhiệm giải quyết trong thời hạn 30 ngày kể từ ngày nhận được khiếu nại. Trường hợp không đồng ý với quyết định giải quyết khiếu nại, người khiếu nại có quyền khiếu nại tiếp đến Chánh án Tòa án nhân dân tối cao trong thời hạn 15 ngày kể từ ngày nhận được quyết định giải quyết khiếu nại. Chánh án Tòa án nhân dân tối cao có trách nhiệm giải quyết trong thời hạn 30 ngày kể từ ngày nhận được khiếu nại. Quyết định giải quyết khiếu nại của Chánh án Tòa án nhân dân tối cao có hiệu lực thi hành.",
                     "sub_clauses": []
                 },
                 {
                     "number": "6",
-                    "text": "Chánh án Tòa án nhân dân tối cao quy định chi tiết Điều này.",
+                    "text": "Chánh án Tòa án nhân dân tối cao quy định chi tiết Điều này. Chương III TRÌNH TỰ, THỦ TỤC HÒA GIẢI, ĐỐI THOẠI VÀ CÔNG NHẬN KẾT QUẢ HÒA GIẢI, ĐỐI THOẠI TẠI TÒA ÁN",
                     "sub_clauses": []
                 }
             ]
@@ -803,7 +814,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Tòa án thông báo bằng văn bản về việc chuyển vụ việc sang hòa giải, đối thoại và văn bản chỉ định Hòa giải viên cho Hòa giải viên, người khởi kiện, người yêu cầu, người bị kiện, người có quyền lợi, nghĩa vụ liên quan.",
+                    "text": "Tòa án thông báo bằng văn bản về việc chuyển vụ việc sang hòa giải, đối thoại và văn bản chỉ định Hòa giải viên cho Hòa giải viên, người khởi kiện, người yêu cầu, người bị kiện, người có quyền lợi, nghĩa vụ liên quan. Trường hợp Hòa giải viên được lựa chọn thuộc danh sách Hòa giải viên của Tòa án nhân dân cấp huyện khác thì văn bản chỉ định Hòa giải viên phải được gửi cho Tòa án đó.",
                     "sub_clauses": []
                 },
                 {
@@ -852,7 +863,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trường hợp người khởi kiện, người yêu cầu lựa chọn Hòa giải viên trong danh sách Hòa giải viên của Tòa án nhân dân cấp huyện khác trên cùng phạm vi địa giới hành chính với Tòa án nhân dân cấp tỉnh thì phải thông báo họ, tên, địa chỉ của Hòa giải viên cho Tòa án có thẩm quyền giải quyết vụ việc, Tòa án nơi Hòa giải viên làm việc và Hòa giải viên được lựa chọn.",
+                    "text": "Trường hợp người khởi kiện, người yêu cầu lựa chọn Hòa giải viên trong danh sách Hòa giải viên của Tòa án nhân dân cấp huyện khác trên cùng phạm vi địa giới hành chính với Tòa án nhân dân cấp tỉnh thì phải thông báo họ, tên, địa chỉ của Hòa giải viên cho Tòa án có thẩm quyền giải quyết vụ việc, Tòa án nơi Hòa giải viên làm việc và Hòa giải viên được lựa chọn. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông báo lựa chọn Hòa giải viên, Hòa giải viên được lựa chọn phải có ý kiến bằng văn bản đồng ý hoặc không đồng ý gửi Thẩm phán phụ trách hòa giải, đối thoại nơi giải quyết vụ việc, Tòa án nơi mình làm việc và người khởi kiện, người yêu cầu. Trong thời hạn 02 ngày làm việc kể từ ngày nhận được văn bản thông báo ý kiến đồng ý của Hòa giải viên, Tòa án nơi Hòa giải viên làm việc phải có ý kiến đồng ý hoặc không đồng ý với sự lựa chọn của Hòa giải viên gửi Tòa án có thẩm quyền giải quyết vụ việc và Hòa giải viên; Hòa giải viên có trách nhiệm thông báo cho người khởi kiện, người yêu cầu biết. Trường hợp nhận được ý kiến không đồng ý của Hòa giải viên, của Tòa án nơi Hòa giải viên làm việc thì người khởi kiện, người yêu cầu có thể lựa chọn Hòa giải viên khác.",
                     "sub_clauses": []
                 },
                 {
@@ -934,12 +945,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hòa giải viên từ chối hòa giải, đối thoại quy định tại các điểm a, b và d khoản 1 Điều này phải thông báo lý do cho các bên, Tòa án có thẩm quyền giải quyết vụ việc và Tòa án nơi Hòa giải viên làm việc.",
+                    "text": "Hòa giải viên từ chối hòa giải, đối thoại quy định tại các điểm a, b và d khoản 1 Điều này phải thông báo lý do cho các bên, Tòa án có thẩm quyền giải quyết vụ việc và Tòa án nơi Hòa giải viên làm việc. Các bên đề nghị thay đổi Hòa giải viên phải thông báo lý do cho Hòa giải viên, Tòa án có thẩm quyền giải quyết vụ việc và Tòa án nơi Hòa giải viên làm việc.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn 03 ngày làm việc kể từ ngày Hòa giải viên từ chối hòa giải, đối thoại hoặc bị đề nghị thay đổi mà các bên không thỏa thuận lựa chọn Hòa giải viên thì Thẩm phán phụ trách hòa giải, đối thoại chỉ định Hòa giải viên khác để tiến hành hòa giải, đối thoại và thông báo cho Hòa giải viên, các bên biết.",
+                    "text": "Trong thời hạn 03 ngày làm việc kể từ ngày Hòa giải viên từ chối hòa giải, đối thoại hoặc bị đề nghị thay đổi mà các bên không thỏa thuận lựa chọn Hòa giải viên thì Thẩm phán phụ trách hòa giải, đối thoại chỉ định Hòa giải viên khác để tiến hành hòa giải, đối thoại và thông báo cho Hòa giải viên, các bên biết. Trường hợp các bên lựa chọn Hòa giải viên khác thì Thẩm phán phụ trách hòa giải, đối thoại chỉ định Hòa giải viên theo sự lựa chọn của các bên và thông báo cho Hòa giải viên, các bên biết. Trường hợp Thẩm phán chỉ định Hòa giải viên của Tòa án nhân dân cấp huyện khác thì phải thông báo cho Tòa án đó biết.",
                     "sub_clauses": []
                 }
             ]
@@ -1005,6 +1016,11 @@
             "id": "Điều 21",
             "title": "Chuẩn bị hòa giải, đối thoại tại Tòa án",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Công tác chuẩn bị hòa giải, đối thoại của Hòa giải viên bao gồm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tiếp nhận đơn và tài liệu kèm theo do Tòa án chuyển đến;",
@@ -1078,7 +1094,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Hòa giải viên có thể tiến hành hòa giải, đối thoại có mặt các bên hoặc gặp riêng từng bên; yêu cầu mỗi bên trình bày ý kiến của mình về các vấn đề của vụ việc dân sự, khiếu kiện hành chính; đề xuất phương án, giải pháp hòa giải, đối thoại.",
+                    "text": "Hòa giải viên có thể tiến hành hòa giải, đối thoại có mặt các bên hoặc gặp riêng từng bên; yêu cầu mỗi bên trình bày ý kiến của mình về các vấn đề của vụ việc dân sự, khiếu kiện hành chính; đề xuất phương án, giải pháp hòa giải, đối thoại. Trường hợp một trong các bên có người đại diện, người phiên dịch thì Hòa giải viên phải mời họ cùng tham gia hòa giải, đối thoại.",
                     "sub_clauses": []
                 }
             ]
@@ -1144,7 +1160,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Các bên có thể trực tiếp hoặc ủy quyền cho người đại diện tham gia hòa giải, đối thoại; đồng thời phải thông báo bằng văn bản về họ, tên, địa chỉ của người đại diện cho bên kia và Hòa giải viên biết. Đối với hòa giải việc ly hôn, các bên trong quan hệ vợ, chồng phải trực tiếp tham gia hòa giải.",
+                    "text": "Các bên có thể trực tiếp hoặc ủy quyền cho người đại diện tham gia hòa giải, đối thoại; đồng thời phải thông báo bằng văn bản về họ, tên, địa chỉ của người đại diện cho bên kia và Hòa giải viên biết. Đối với hòa giải việc ly hôn, các bên trong quan hệ vợ, chồng phải trực tiếp tham gia hòa giải. Quyền và nghĩa vụ của người đại diện của các bên được xác định theo quy định của Bộ luật Dân sự.",
                     "sub_clauses": []
                 },
                 {
@@ -1201,7 +1217,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Khi các bên đạt được sự thỏa thuận, thống nhất với nhau về việc giải quyết toàn bộ hoặc một phần vụ việc dân sự, khiếu kiện hành chính, Hòa giải viên ấn định thời gian, địa điểm mở phiên họp ghi nhận kết quả hòa giải, đối thoại.",
+                    "text": "Khi các bên đạt được sự thỏa thuận, thống nhất với nhau về việc giải quyết toàn bộ hoặc một phần vụ việc dân sự, khiếu kiện hành chính, Hòa giải viên ấn định thời gian, địa điểm mở phiên họp ghi nhận kết quả hòa giải, đối thoại. Phiên họp ghi nhận kết quả hòa giải, đối thoại có thể được tổ chức ngay sau phiên hòa giải, đối thoại hoặc vào thời gian phù hợp khác. Hòa giải viên phải thông báo cho những người quy định tại khoản 1 Điều 28 của Luật này.",
                     "sub_clauses": []
                 },
                 {
@@ -1316,7 +1332,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Biên bản ghi nhận kết quả hòa giải, biên bản ghi nhận kết quả đối thoại phải có các nội dung sau đây:",
+                    "text": "Biên bản ghi nhận kết quả hòa giải, biên bản ghi nhận kết quả đối thoại phải có các nội dung sau đây: Trường hợp có những nội dung mà các bên không thỏa thuận, thống nhất thì cũng được ghi trong biên bản;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1358,7 +1374,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Biên bản ghi nhận kết quả hòa giải, biên bản ghi nhận kết quả đối thoại được lưu vào hồ sơ hòa giải, đối thoại và giao cho các bên có mặt.",
+                    "text": "Biên bản ghi nhận kết quả hòa giải, biên bản ghi nhận kết quả đối thoại được lưu vào hồ sơ hòa giải, đối thoại và giao cho các bên có mặt. Trường hợp những người quy định tại điểm đ khoản 1 Điều này vắng mặt thì Hòa giải viên phải gửi biên bản cho họ để họ có ý kiến.",
                     "sub_clauses": []
                 },
                 {
@@ -1417,6 +1433,11 @@
             "title": "Điều kiện công nhận kết quả hòa giải thành, đối thoại thành tại Tòa án",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Kết quả hòa giải thành, đối thoại thành được công nhận khi có đủ các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Các bên có năng lực hành vi dân sự đầy đủ;",
                     "sub_clauses": []
@@ -1452,6 +1473,11 @@
             "id": "Điều 34",
             "title": "Quyết định công nhận kết quả hòa giải thành, đối thoại thành tại Tòa án",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Quyết định công nhận kết quả hòa giải thành, đối thoại thành phải có các nội dung sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Ngày, tháng, năm ra quyết định;",
@@ -1529,7 +1555,13 @@
         {
             "id": "Điều 37",
             "title": "Thủ tục đề nghị, kiến nghị xem xét lại quyết định công nhận kết quả hòa giải thành, đối thoại thành tại Tòa án",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người đề nghị, Viện kiểm sát kiến nghị xem xét lại quyết định công nhận kết quả hòa giải thành, đối thoại thành phải gửi đơn đề nghị, văn bản kiến nghị đến Tòa án cấp trên trực tiếp của Tòa án đã ra quyết định công nhận kết quả hòa giải thành, đối thoại thành.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 38",
@@ -1542,7 +1574,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời hạn 30 ngày kể từ ngày được phân công, Thẩm phán thực hiện việc xác minh, thu thập chứng cứ, nghiên cứu hồ sơ, tài liệu.",
+                    "text": "Trong thời hạn 30 ngày kể từ ngày được phân công, Thẩm phán thực hiện việc xác minh, thu thập chứng cứ, nghiên cứu hồ sơ, tài liệu. Trường hợp có đủ căn cứ kết luận quyết định công nhận kết quả hòa giải thành, đối thoại thành vi phạm một trong các điều kiện quy định tại Điều 33 của Luật này thì Thẩm phán ra quyết định hủy quyết định đó và làm thủ tục chuyển vụ việc cho Tòa án có thẩm quyền giải quyết theo quy định của Bộ luật Tố tụng dân sự, Luật Tố tụng hành chính. Trường hợp không có căn cứ kết luận quyết định công nhận kết quả hòa giải thành, đối thoại thành vi phạm một trong các điều kiện quy định tại Điều 33 của Luật này thì Thẩm phán ra quyết định không chấp nhận đề nghị, kiến nghị và giữ nguyên quyết định công nhận kết quả hòa giải thành, đối thoại thành. Trường hợp người đề nghị rút đề nghị, Viện kiểm sát rút kiến nghị thì Thẩm phán ra quyết định đình chỉ việc xem xét đề nghị, kiến nghị.",
                     "sub_clauses": []
                 },
                 {
@@ -1610,6 +1642,11 @@
             "title": "Chấm dứt hòa giải, đối thoại tại Tòa án",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Việc hòa giải, đối thoại chấm dứt khi thuộc một trong các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Hòa giải thành, đối thoại thành;",
                     "sub_clauses": []
@@ -1652,12 +1689,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp người nộp đơn khởi kiện, đơn yêu cầu rút đơn khởi kiện, đơn yêu cầu theo quy định tại khoản 6 Điều 40 của Luật này thì Hòa giải viên chuyển đơn và tài liệu kèm theo cho Tòa án đã nhận đơn để tiến hành xem xét, giải quyết theo quy định chung và thông báo cho các bên biết.",
+                    "text": "Trường hợp người nộp đơn khởi kiện, đơn yêu cầu rút đơn khởi kiện, đơn yêu cầu theo quy định tại khoản 6 Điều 40 của Luật này thì Hòa giải viên chuyển đơn và tài liệu kèm theo cho Tòa án đã nhận đơn để tiến hành xem xét, giải quyết theo quy định chung và thông báo cho các bên biết. Thẩm phán đã tham gia phiên họp ghi nhận kết quả hòa giải, đối thoại không được tham gia giải quyết vụ việc đó theo trình tự tố tụng dân sự, tố tụng hành chính.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Hòa giải viên lập biên bản chấm dứt việc hòa giải, đối thoại đối với trường hợp quy định tại các khoản 2, 3,4 và 5 Điều 40 của Luật này. Trong thời hạn 03 ngày làm việc kể từ ngày lập biên bản, Hòa giải viên phải gửi biên bản kèm theo đơn khởi kiện, đơn yêu cầu và tài liệu kèm theo cho Tòa án đã nhận đơn và thông báo cho các bên biết.",
+                    "text": "Hòa giải viên lập biên bản chấm dứt việc hòa giải, đối thoại đối với trường hợp quy định tại các khoản 2, 3,4 và 5 Điều 40 của Luật này. Trong thời hạn 03 ngày làm việc kể từ ngày lập biên bản, Hòa giải viên phải gửi biên bản kèm theo đơn khởi kiện, đơn yêu cầu và tài liệu kèm theo cho Tòa án đã nhận đơn và thông báo cho các bên biết. Chương IV ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1665,8 +1702,18 @@
         {
             "id": "Điều 42",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021. __________________________________________________________________________________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 9 thông qua ngày 16 tháng 6 năm 2020. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 9 thông qua ngày 16 tháng 6 năm 2020.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Nguyễn Thị Kim Ngân"
+    ]
 }

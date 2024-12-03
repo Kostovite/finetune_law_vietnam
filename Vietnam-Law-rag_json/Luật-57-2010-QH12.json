@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về đối tượng chịu thuế, đối tượng không chịu thuế, người nộp thuế, căn cứ tính thuế, khai thuế, tính thuế, nộp thuế và hoàn thuế bảo vệ môi trường."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -266,6 +280,13 @@
         "text": "Mức thuế tuyệt đối để tính thuế được quy định tại Điều 8 của Luật này."
     },
     {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Phương pháp tính thuế",
+        "text": "Số thuế bảo vệ môi trường phải nộp bằng số lượng đơn vị hàng hóa chịu thuế nhân với mức thuế tuyệt đối quy định trên một đơn vị hàng hóa."
+    },
+    {
         "id": "Điều 8.1",
         "article": "Điều 8",
         "clause": "1",
@@ -420,6 +441,13 @@
         "text": "Thuế bảo vệ môi trường chỉ nộp một lần đối với hàng hóa sản xuất hoặc nhập khẩu."
     },
     {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Hoàn thuế",
+        "text": "Người nộp thuế bảo vệ môi trường được hoàn thuế đã nộp trong các trường hợp sau:"
+    },
+    {
         "id": "Điều 11.1",
         "article": "Điều 11",
         "clause": "1",
@@ -467,5 +495,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Các quy định về thu phí xăng, dầu tại Pháp lệnh về phí và lệ phí số 38/2001/PL-UBTVQH10 hết hiệu lực thi hành từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 13.0",
+        "article": "Điều 13",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 8 thông qua ngày 15 tháng 11 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

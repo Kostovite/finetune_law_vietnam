@@ -28,7 +28,7 @@ def parse_law_file(file_path):
     body_started = False
     footer_started = False
 
-    for i, line in enumerate(lines):
+    for line in lines:
         line = line.strip()
         line = line.replace('\u00A0', ' ')
 
@@ -47,11 +47,11 @@ def parse_law_file(file_path):
         # Process body content and clauses
         if re.match(r"^Điều\s+\d+", line):
             if current_dieu:
-                data["content"].append(current_dieu)
+                data["content"].append(current_dieu)  # Append the previous "Điều"
             parts = line.split(". ", 1)
             current_dieu = {
                 "id": parts[0],
-                "title": parts[1] if len(parts) > 1 else "Không có tiêu đề",  # If there's no title, assign a placeholder
+                "title": parts[1] if len(parts) > 1 else "Không có tiêu đề",
                 "content": []
             }
             current_clause = None
@@ -80,22 +80,24 @@ def parse_law_file(file_path):
             if current_clause and "sub_clauses" in current_clause:
                 current_clause["sub_clauses"].append(sub_clause)
 
-        elif current_dieu and line.startswith(current_dieu["id"]):
-            # This line is part of the content for the current "Điều"
-            if current_clause:
-                current_clause["text"] += f" {line}"
-            else:
-                # If no clause is created, we create a dummy clause with "number": "0" to capture the content
-                current_clause = {
+        elif current_clause:
+            # Append to the current clause text
+            current_clause["text"] += f" {line}"
+
+        elif current_dieu:
+            # Append to the current article text (no clause yet)
+            if not current_dieu["content"]:
+                current_dieu["content"].append({
                     "number": "0",
                     "text": line,
                     "sub_clauses": []
-                }
-                current_dieu["content"].append(current_clause)
+                })
+            else:
+                current_dieu["content"][-1]["text"] += f" {line}"
 
         # Footer starts after encountering specific phrases
         if not footer_started and (
-            "Bộ luật này" in line and 
+            "Bộ luật này" in line or 
             "Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam" in line
         ):
             footer_started = True
@@ -103,7 +105,7 @@ def parse_law_file(file_path):
         if footer_started:
             data["footer"].append(line)
 
-    # If there's any remaining 'Điều' at the end of the loop, add it to content
+    # Append the last "Điều" after processing all lines
     if current_dieu:
         data["content"].append(current_dieu)
 

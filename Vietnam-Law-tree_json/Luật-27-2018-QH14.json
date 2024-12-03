@@ -15,17 +15,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về hoạt động đo đạc và bản đồ cơ bản; hoạt động đo đạc và bản đồ chuyên ngành; chất lượng sản phẩm đo đạc và bản đồ; công trình hạ tầng đo đạc; thông tin, dữ liệu, sản phẩm đo đạc và bản đồ; hạ tầng dữ liệu không gian địa lý quốc gia; điều kiện kinh doanh dịch vụ đo đạc và bản đồ; quyền, nghĩa vụ của tổ chức, cá nhân hoạt động đo đạc và bản đồ; quản lý nhà nước về đo đạc và bản đồ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân hoạt động đo đạc và bản đồ; khai thác, sử dụng thông tin, dữ liệu, sản phẩm đo đạc và bản đồ hoặc hoạt động khác có liên quan đến đo đạc và bản đồ trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Đối tượng địa lý là sự vật, hiện tượng trong thế giới thực hoặc sự mô tả đối tượng, hiện tượng không tồn tại trong thế giới thực tại vị trí địa lý xác định ở mặt đất, lòng đất, mặt nước, lòng nước, đáy nước, khoảng không.",
@@ -354,7 +371,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tổ chức, cá nhân bảo đảm kinh phí cho hoạt động đo đạc và bản đồ phục vụ nhu cầu của mình.",
+                    "text": "Tổ chức, cá nhân bảo đảm kinh phí cho hoạt động đo đạc và bản đồ phục vụ nhu cầu của mình. Chương II HOẠT ĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ CƠ BẢN",
                     "sub_clauses": []
                 }
             ]
@@ -814,7 +831,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Đối với địa danh đã được chuẩn hóa, tổ chức, cá nhân phải sử dụng và thể hiện chính xác, thống nhất trong hoạt động đo đạc và bản đồ, bảo đảm phù hợp với từng giai đoạn lịch sử.",
+                    "text": "Đối với địa danh đã được chuẩn hóa, tổ chức, cá nhân phải sử dụng và thể hiện chính xác, thống nhất trong hoạt động đo đạc và bản đồ, bảo đảm phù hợp với từng giai đoạn lịch sử. Chương III HOẠT ĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ CHUYÊN NGÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1206,7 +1223,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Tổ chức, cá nhân được thành lập tập bản đồ của địa phương, khu vực, quốc gia và ngành; đo đạc, thành lập các loại bản đồ chuyên ngành quy định tại khoản 9 Điều 22 của Luật này.",
+                    "text": "Tổ chức, cá nhân được thành lập tập bản đồ của địa phương, khu vực, quốc gia và ngành; đo đạc, thành lập các loại bản đồ chuyên ngành quy định tại khoản 9 Điều 22 của Luật này. Chương IV CHẤT LƯỢNG SẢN PHẨM ĐO ĐẠC VÀ BẢN ĐỒ",
                     "sub_clauses": []
                 }
             ]
@@ -1214,7 +1231,13 @@
         {
             "id": "Điều 32",
             "title": "Tiêu chuẩn, quy chuẩn kỹ thuật về đo đạc và bản đồ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc xây dựng, công bố, ban hành và áp dụng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia, quy chuẩn kỹ thuật địa phương về đo đạc và bản đồ được thực hiện theo quy định của pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật, bảo đảm đồng bộ, thống nhất, phù hợp với xu hướng phát triển công nghệ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 33",
@@ -1281,7 +1304,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Bộ trưởng Bộ Tài nguyên và Môi trường quy định về kiểm tra, thẩm định, nghiệm thu chất lượng sản phẩm đo đạc và bản đồ.",
+                    "text": "Bộ trưởng Bộ Tài nguyên và Môi trường quy định về kiểm tra, thẩm định, nghiệm thu chất lượng sản phẩm đo đạc và bản đồ. Chương V CÔNG TRÌNH HẠ TẦNG ĐO ĐẠC",
                     "sub_clauses": []
                 }
             ]
@@ -1410,7 +1433,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Công trình hạ tầng đo đạc được xác lập hành lang bảo vệ, quyền sử dụng đất trong hành lang bảo vệ công trình thực hiện theo quy định của pháp luật về đất đai.",
+                    "text": "Công trình hạ tầng đo đạc được xác lập hành lang bảo vệ, quyền sử dụng đất trong hành lang bảo vệ công trình thực hiện theo quy định của pháp luật về đất đai. Trong phạm vi hành lang bảo vệ công trình hạ tầng đo đạc, khi xây dựng mới, sửa chữa, cải tạo công trình kiến trúc làm ảnh hưởng đến công trình hạ tầng đo đạc, chủ sở hữu công trình kiến trúc, người sử dụng đất phải báo cáo với cơ quan nhà nước có thẩm quyền.",
                     "sub_clauses": []
                 },
                 {
@@ -1442,7 +1465,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương VI THÔNG TIN, DỮ LIỆU, SẢN PHẨM ĐO ĐẠC VÀ BẢN ĐỒ; HẠ TẦNG DỮ LIỆU KHÔNG GIAN ĐỊA LÝ QUỐC GIA Mục 1. THÔNG TIN, DỮ LIỆU, SẢN PHẨM ĐO ĐẠC VÀ BẢN ĐỒ",
                     "sub_clauses": []
                 }
             ]
@@ -1686,7 +1709,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Quyền tác giả đối với thông tin, dữ liệu, sản phẩm đo đạc và bản đồ được thực hiện theo quy định của pháp luật về sở hữu trí tuệ.",
+                    "text": "Quyền tác giả đối với thông tin, dữ liệu, sản phẩm đo đạc và bản đồ được thực hiện theo quy định của pháp luật về sở hữu trí tuệ. Mục 2. HẠ TẦNG DỮ LIỆU KHÔNG GIAN ĐỊA LÝ QUỐC GIA",
                     "sub_clauses": []
                 }
             ]
@@ -1951,7 +1974,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh phải kết nối dữ liệu không gian địa lý quốc gia quy định tại Điều 45 của Luật này với Cổng thông tin không gian địa lý Việt Nam.",
+                    "text": "Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh phải kết nối dữ liệu không gian địa lý quốc gia quy định tại Điều 45 của Luật này với Cổng thông tin không gian địa lý Việt Nam. Mục 3. XUẤT BẢN BẢN ĐỒ",
                     "sub_clauses": []
                 }
             ]
@@ -1988,7 +2011,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tổ chức, cá nhân xuất bản sản phẩm bản đồ không thuộc quy định tại khoản 1 và khoản 2 Điều này.",
+                    "text": "Tổ chức, cá nhân xuất bản sản phẩm bản đồ không thuộc quy định tại khoản 1 và khoản 2 Điều này. Chương VII ĐIỀU KIỆN KINH DOANH DỊCH VỤ ĐO ĐẠC VÀ BẢN ĐỒ; QUYỀN, NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN HOẠT ĐỘNG ĐO ĐẠC VÀ BẢN ĐỒ",
                     "sub_clauses": []
                 }
             ]
@@ -2004,7 +2027,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Mỗi tổ chức được cấp một giấy phép hoạt động đo đạc và bản đồ cho một hoặc một số nội dung kinh doanh dịch vụ đo đạc và bản đồ thuộc Danh mục hoạt động đo đạc và bản đồ phải có giấy phép. Giấy phép hoạt động đo đạc và bản đồ có giá trị trong cả nước, có thời hạn ít nhất là 05 năm và được gia hạn.",
+                    "text": "Mỗi tổ chức được cấp một giấy phép hoạt động đo đạc và bản đồ cho một hoặc một số nội dung kinh doanh dịch vụ đo đạc và bản đồ thuộc Danh mục hoạt động đo đạc và bản đồ phải có giấy phép. Giấy phép hoạt động đo đạc và bản đồ có giá trị trong cả nước, có thời hạn ít nhất là 05 năm và được gia hạn. Giấy phép cấp cho nhà thầu nước ngoài phải thể hiện địa bàn hoạt động và có thời hạn theo thời gian thực hiện nội dung về đo đạc và bản đồ trong gói thầu.",
                     "sub_clauses": []
                 },
                 {
@@ -2279,7 +2302,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cá nhân hành nghề độc lập về đo đạc và bản đồ có nghĩa vụ sau đây:",
+                    "text": "Cá nhân hành nghề độc lập về đo đạc và bản đồ có nghĩa vụ sau đây: Chương VIII QUẢN LÝ NHÀ NƯỚC VỀ ĐO ĐẠC VÀ BẢN ĐỒ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2534,7 +2557,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Xử lý vi phạm pháp luật về đo đạc và bản đồ được quy định như sau:",
+                    "text": "Xử lý vi phạm pháp luật về đo đạc và bản đồ được quy định như sau: Chương IX ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2551,7 +2574,13 @@
         {
             "id": "Điều 60",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2019.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 61",
@@ -2574,11 +2603,15 @@
                 },
                 {
                     "number": "4",
-                    "text": "Quy chuẩn kỹ thuật, định mức kinh tế - kỹ thuật về đo đạc và bản đồ được ban hành trước ngày Luật này có hiệu lực thi hành mà không trái với quy định của Luật này thì tiếp tục được áp dụng cho đến khi bị bãi bỏ hoặc thay thế.",
+                    "text": "Quy chuẩn kỹ thuật, định mức kinh tế - kỹ thuật về đo đạc và bản đồ được ban hành trước ngày Luật này có hiệu lực thi hành mà không trái với quy định của Luật này thì tiếp tục được áp dụng cho đến khi bị bãi bỏ hoặc thay thế. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 5 thông qua ngày 14 tháng 6 năm 2018. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 5 thông qua ngày 14 tháng 6 năm 2018.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

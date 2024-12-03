@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hành vi hạn chế cạnh tranh, tập trung kinh tế gây tác động hoặc có khả năng gây tác động hạn chế cạnh tranh đến thị trường Việt Nam; hành vi cạnh tranh không lành mạnh; tố tụng cạnh tranh; xử lý vi phạm pháp luật về cạnh tranh; quản lý nhà nước về cạnh tranh."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -19,6 +26,13 @@
         "clause": "3",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan, tổ chức, cá nhân trong nước và nước ngoài có liên quan."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -812,6 +826,13 @@
         "text": "Nhóm doanh nghiệp có vị trí thống lĩnh thị trường quy định tại khoản 2 Điều này không bao gồm doanh nghiệp có thị phần ít hơn 10% trên thị trường liên quan."
     },
     {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Doanh nghiệp có vị trí độc quyền",
+        "text": "Doanh nghiệp được coi là có vị trí độc quyền nếu không có doanh nghiệp nào cạnh tranh về hàng hóa, dịch vụ mà doanh nghiệp đó kinh doanh trên thị trường liên quan."
+    },
+    {
         "id": "Điều 26.1",
         "article": "Điều 26",
         "clause": "1",
@@ -1083,6 +1104,13 @@
         "clause": "5",
         "title": "Các hình thức tập trung kinh tế",
         "text": "Liên doanh giữa các doanh nghiệp là việc hai hoặc nhiều doanh nghiệp cùng nhau góp một phần tài sản, quyền, nghĩa vụ và lợi ích hợp pháp của mình để hình thành một doanh nghiệp mới."
+    },
+    {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Tập trung kinh tế bị cấm",
+        "text": "Doanh nghiệp thực hiện tập trung kinh tế gây tác động hoặc có khả năng gây tác động hạn chế cạnh tranh một cách đáng kể trên thị trường Việt Nam."
     },
     {
         "id": "Điều 31.1",
@@ -1519,6 +1547,13 @@
         "text": "Trường hợp Ủy ban Cạnh tranh Quốc gia ra quyết định không đúng thời hạn, nếu gây thiệt hại cho doanh nghiệp thì phải bồi thường thiệt hại theo quy định của pháp luật."
     },
     {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Tập trung kinh tế có điều kiện",
+        "text": "Tập trung kinh tế có điều kiện là tập trung kinh tế được thực hiện nhưng phải đáp ứng một hoặc một số điều kiện sau đây:"
+    },
+    {
         "id": "Điều 42.1",
         "article": "Điều 42",
         "clause": "1",
@@ -1715,6 +1750,13 @@
         "text": "Chính phủ quy định chi tiết nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ủy ban Cạnh tranh Quốc gia."
     },
     {
+        "id": "Điều 47.0",
+        "article": "Điều 47",
+        "clause": "0",
+        "title": "Chủ tịch Ủy ban Cạnh tranh Quốc gia",
+        "text": "Chủ tịch Ủy ban Cạnh tranh Quốc gia là người đứng đầu, chịu trách nhiệm trước pháp luật về tổ chức, hoạt động của Ủy ban Cạnh tranh Quốc gia."
+    },
+    {
         "id": "Điều 48.1",
         "article": "Điều 48",
         "clause": "1",
@@ -1895,6 +1937,13 @@
         "clause": "3",
         "title": "Nguyên tắc tố tụng cạnh tranh",
         "text": "Tôn trọng quyền và lợi ích hợp pháp của doanh nghiệp, tổ chức và cá nhân liên quan trong quá trình tố tụng cạnh tranh."
+    },
+    {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Tiếng nói và chữ viết dùng trong tố tụng cạnh tranh",
+        "text": "Tiếng nói và chữ viết dùng trong tố tụng cạnh tranh là tiếng Việt. Người tham gia tố tụng cạnh tranh có quyền dùng tiếng nói và chữ viết của dân tộc mình, trong trường hợp này phải có người phiên dịch."
     },
     {
         "id": "Điều 56.1",
@@ -2996,6 +3045,13 @@
         "text": "Người có quyền lợi, nghĩa vụ liên quan nếu tham gia tố tụng cạnh tranh với bên bị điều tra hoặc chỉ có nghĩa vụ thì có các quyền và nghĩa vụ theo quy định tại khoản 3 và khoản 4 Điều 67 của Luật này."
     },
     {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Từ chối giám định, phiên dịch hoặc đề nghị thay đổi người giám định, người phiên dịch",
+        "text": "Việc từ chối giám định, phiên dịch hoặc đề nghị thay đổi người giám định, người phiên dịch phải được lập thành văn bản trong đó nêu rõ lý do."
+    },
+    {
         "id": "Điều 74.1",
         "article": "Điều 74",
         "clause": "1",
@@ -3115,6 +3171,13 @@
         "text": "Trong thời hạn quy định tại khoản 1 và khoản 2 Điều này, bên khiếu nại có quyền rút hồ sơ khiếu nại và Ủy ban Cạnh tranh Quốc gia dừng việc xem xét hồ sơ khiếu nại."
     },
     {
+        "id": "Điều 79.0",
+        "article": "Điều 79",
+        "clause": "0",
+        "title": "Trả hồ sơ khiếu nại",
+        "text": "Ủy ban Cạnh tranh Quốc gia trả lại hồ sơ khiếu nại vụ việc cạnh tranh trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 79.1",
         "article": "Điều 79",
         "clause": "1",
@@ -3141,6 +3204,13 @@
         "clause": "4",
         "title": "Trả hồ sơ khiếu nại",
         "text": "Bên khiếu nại xin rút hồ sơ khiếu nại."
+    },
+    {
+        "id": "Điều 80.0",
+        "article": "Điều 80",
+        "clause": "0",
+        "title": "Quyết định điều tra vụ việc cạnh tranh",
+        "text": "Thủ trưởng Cơ quan điều tra vụ việc cạnh tranh ra quyết định điều tra vụ việc cạnh tranh trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 80.1",
@@ -3274,6 +3344,13 @@
         "clause": "2",
         "title": "Chuyển hồ sơ trong trường hợp phát hiện hành vi có dấu hiệu của tội phạm",
         "text": "Trường hợp xác định không có căn cứ hoặc không khởi tố vụ án hình sự về tội vi phạm quy định về cạnh tranh, cơ quan nhà nước có thẩm quyền trả lại hồ sơ cho Ủy ban Cạnh tranh Quốc gia để tiếp tục điều tra theo quy định của Luật này. Thời hạn điều tra được tính từ ngày Ủy ban Cạnh tranh Quốc gia nhận lại hồ sơ."
+    },
+    {
+        "id": "Điều 86.0",
+        "article": "Điều 86",
+        "clause": "0",
+        "title": "Đình chỉ điều tra",
+        "text": "Thủ trưởng Cơ quan điều tra vụ việc cạnh tranh ra quyết định đình chỉ điều tra vụ việc cạnh tranh trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 86.1.Trong quá trình điều tra không thể thu thập chứng cứ để chứng minh được hành vi vi phạm theo quy định của Luật này;",
@@ -3633,6 +3710,20 @@
         "text": "Trường hợp không tống đạt được theo một trong các phương thức quy định tại khoản 3 Điều này thì quyết định xử lý vụ việc cạnh tranh phải được niêm yết công khai hoặc thông báo trên các phương tiện thông tin đại chúng."
     },
     {
+        "id": "Điều 95.0",
+        "article": "Điều 95",
+        "clause": "0",
+        "title": "Hiệu lực của quyết định xử lý vụ việc cạnh tranh",
+        "text": "Quyết định xử lý vụ việc cạnh tranh có hiệu lực pháp luật kể từ ngày kết thúc thời hạn khiếu nại quy định tại Điều 96 của Luật này, trừ trường hợp quy định tại khoản 2 Điều 99 của Luật  này. Mục 5 GIẢI QUYẾT KHIẾU NẠI QUYẾT ĐỊNH XỬ LÝ VỤ VIỆC CẠNH TRANH"
+    },
+    {
+        "id": "Điều 96.0",
+        "article": "Điều 96",
+        "clause": "0",
+        "title": "Khiếu nại quyết định xử lý vụ việc cạnh tranh",
+        "text": "Trong thời hạn 30 ngày kể từ ngày nhận được quyết định xử lý vụ việc cạnh tranh, tổ chức, cá nhân không nhất trí với một phần hoặc toàn bộ nội dung quyết định xử lý vụ việc cạnh tranh thì có quyền khiếu nại đến Chủ tịch Ủy ban Cạnh tranh Quốc gia."
+    },
+    {
         "id": "Điều 97.1.Đơn khiếu nại quyết định xử lý vụ việc cạnh tranh phải có các nội dung chủ yếu sau đây:",
         "article": "Điều 97",
         "clause": "1.Đơn khiếu nại quyết định xử lý vụ việc cạnh tranh phải có các nội dung chủ yếu sau đây:",
@@ -3645,6 +3736,13 @@
         "clause": "2",
         "title": "Đơn khiếu nại quyết định xử lý vụ việc cạnh tranh",
         "text": "Đơn khiếu nại quyết định xử lý vụ việc cạnh tranh kèm theo thông tin, chứng cứ bổ sung (nếu có) chứng minh cho khiếu nại của mình là có căn cứ và hợp pháp."
+    },
+    {
+        "id": "Điều 98.0",
+        "article": "Điều 98",
+        "clause": "0",
+        "title": "Thụ lý đơn khiếu nại quyết định xử lý vụ việc cạnh tranh",
+        "text": "Trong thời hạn 10 ngày kể từ ngày nhận được khiếu nại, Chủ tịch Ủy ban Cạnh tranh Quốc gia có trách nhiệm thụ lý giải quyết, thông báo bằng văn bản cho bên khiếu nại và các bên liên quan đến nội dung đơn khiếu nại; trường hợp không thụ lý giải quyết thì phải trả lời bằng văn bản và nêu rõ lý do."
     },
     {
         "id": "Điều 99.1.Quyết định xử lý vụ việc cạnh tranh bị khiếu nại vẫn tiếp tục được thi hành, trừ trường hợp quy định tại khoản 2 Điều này.",
@@ -3841,6 +3939,27 @@
         "clause": "2",
         "title": "Các quyết định phải được công bố công khai",
         "text": "Ủy ban Cạnh tranh Quốc gia công bố công khai các quyết định quy định tại khoản 1 Điều này sau khi quyết định đã có hiệu lực pháp luật."
+    },
+    {
+        "id": "Điều 105.0",
+        "article": "Điều 105",
+        "clause": "0",
+        "title": "Nội dung không công bố",
+        "text": "Chủ tịch Ủy ban Cạnh tranh Quốc gia quyết định không công bố nội dung liên quan tới bí mật nhà nước, bí mật kinh doanh của doanh nghiệp trong các quyết định quy định tại khoản 1 Điều 104 của Luật này."
+    },
+    {
+        "id": "Điều 106.0",
+        "article": "Điều 106",
+        "clause": "0",
+        "title": "Đăng tải nội dung quyết định phải được công bố",
+        "text": "Nội dung được phép công bố trong quyết định quy định tại khoản 1 Điều 104 của Luật này phải được đăng tải trên trang thông tin điện tử của Ủy ban Cạnh tranh Quốc gia trong thời gian 90 ngày liên tục kể từ ngày quyết định này có hiệu lực pháp luật."
+    },
+    {
+        "id": "Điều 107.0",
+        "article": "Điều 107",
+        "clause": "0",
+        "title": "Công bố và đăng tải báo cáo kết quả hoạt động hằng năm của Ủy ban Cạnh tranh Quốc gia",
+        "text": "Ủy ban Cạnh tranh Quốc gia công bố và đăng tải báo cáo kết quả hoạt động hằng năm trên trang thông tin điện tử của Ủy ban Cạnh tranh Quốc gia. Mục 7 HỢP TÁC QUỐC TẾ TRONG QUÁ TRÌNH TỐ TỤNG CẠNH TRANH"
     },
     {
         "id": "Điều 108.1",
@@ -4375,6 +4494,13 @@
         "text": "Luật Cạnh tranh số 27/2004/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
     },
     {
+        "id": "Điều 118.0",
+        "article": "Điều 118",
+        "clause": "0",
+        "title": "Điều khoản chuyển tiếp",
+        "text": "Kể từ ngày Luật này có hiệu lực thi hành, hành vi vi phạm pháp luật về cạnh tranh theo quy định của Luật Cạnh tranh số 27/2004/QH11 được tiếp tục xem xét, giải quyết như sau:"
+    },
+    {
         "id": "Điều 118.1",
         "article": "Điều 118",
         "clause": "1",
@@ -4386,6 +4512,6 @@
         "article": "Điều 118",
         "clause": "2",
         "title": "Điều khoản chuyển tiếp",
-        "text": "Hành vi vi phạm đang bị điều tra, xử lý, giải quyết khiếu nại quyết định xử lý vụ việc cạnh tranh mà vẫn bị xác định vi phạm quy định của Luật này thì tiếp tục bị điều tra, xử lý, giải quyết khiếu nại theo quy định của Luật này. Trường hợp hình thức xử lý hoặc mức phạt tiền đối với hành vi vi phạm theo quy định của Luật này cao hơn quy định của Luật Cạnh tranh số 27/2004/QH11 thì áp dụng quy định của Luật Cạnh tranh số 27/2004/QH11. ----------------------------------------------------------------------------------------- Luật này được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 5 thông qua ngày 12 tháng 6 năm 2018."
+        "text": "Hành vi vi phạm đang bị điều tra, xử lý, giải quyết khiếu nại quyết định xử lý vụ việc cạnh tranh mà vẫn bị xác định vi phạm quy định của Luật này thì tiếp tục bị điều tra, xử lý, giải quyết khiếu nại theo quy định của Luật này. Trường hợp hình thức xử lý hoặc mức phạt tiền đối với hành vi vi phạm theo quy định của Luật này cao hơn quy định của Luật Cạnh tranh số 27/2004/QH11 thì áp dụng quy định của Luật Cạnh tranh số 27/2004/QH11. ----------------------------------------------------------------------------------------- Luật này được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 5 thông qua ngày 12 tháng 6 năm 2018. CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Thị Kim Ngân"
     }
 ]

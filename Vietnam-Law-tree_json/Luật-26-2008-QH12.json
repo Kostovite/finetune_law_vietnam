@@ -13,12 +13,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định nguyên tắc, trình tự, thủ tục thi hành bản án, quyết định dân sự, hình phạt tiền, tịch thu tài sản, truy thu tiền, tài sản thu lợi bất chính, xử lý vật chứng, tài sản, án phí và quyết định dân sự trong bản án, quyết định hình sự, phần tài sản trong bản án, quyết định hành chính của Toà án, quyết định xử lý vụ việc cạnh tranh có liên quan đến tài sản của bên phải thi hành án của Hội đồng xử lý vụ việc cạnh tranh và quyết định của Trọng tài thương mại (sau đây gọi chung là bản án, quyết định); hệ thống tổ chức thi hành án dân sự và Chấp hành viên; quyền, nghĩa vụ của người được thi hành án, người phải thi hành án, người có quyền lợi, nghĩa vụ liên quan; nhiệm vụ, quyền hạn của cơ quan, tổ chức, cá nhân trong hoạt động thi hành án dân sự.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Bản án, quyết định được thi hành",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Những bản án, quyết định được thi hành theo Luật này bao gồm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Bản án, quyết định quy định tại Điều 1 của Luật này đã có hiệu lực pháp luật:",
@@ -70,6 +81,11 @@
             "title": "Giải thích từ ngữ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Đương sự bao gồm người được thi hành án, người phải thi hành án.",
                     "sub_clauses": []
@@ -114,12 +130,24 @@
         {
             "id": "Điều 4",
             "title": "Bảo đảm hiệu lực của bản án, quyết định",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bản án, quyết định quy định tại Điều 2 của Luật này phải được cơ quan, tổ chức và mọi công dân tôn trọng. Cá nhân, cơ quan, tổ chức có liên quan trong phạm vi trách nhiệm của mình chấp hành nghiêm chỉnh bản án, quyết định và phải chịu trách nhiệm trước pháp luật về việc thi hành án.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 5",
             "title": "Bảo đảm quyền, lợi ích hợp pháp của đương sự, người có quyền lợi, nghĩa vụ liên quan",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong quá trình thi hành án, quyền, lợi ích hợp pháp của đương sự, người có quyền lợi, nghĩa vụ liên quan được tôn trọng và được pháp luật bảo vệ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 6",
@@ -127,7 +155,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đương sự có quyền thoả thuận về việc thi hành án, nếu thoả thuận đó không vi phạm điều cấm của pháp luật và không trái đạo đức xã hội. Kết quả thi hành án theo thoả thuận được công nhận.",
+                    "text": "Đương sự có quyền thoả thuận về việc thi hành án, nếu thoả thuận đó không vi phạm điều cấm của pháp luật và không trái đạo đức xã hội. Kết quả thi hành án theo thoả thuận được công nhận. Theo yêu cầu của đương sự, Chấp hành viên có trách nhiệm chứng kiến việc thoả thuận về thi hành án.",
                     "sub_clauses": []
                 },
                 {
@@ -140,7 +168,13 @@
         {
             "id": "Điều 7",
             "title": "Quyền yêu cầu thi hành án",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người được thi hành án, người phải thi hành án căn cứ vào bản án, quyết định có quyền yêu cầu cơ quan thi hành án dân sự tổ chức thi hành án.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 8",
@@ -148,7 +182,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tiếng nói và chữ viết dùng trong thi hành án dân sự là tiếng Việt.",
+                    "text": "Tiếng nói và chữ viết dùng trong thi hành án dân sự là tiếng Việt. Đương sự có quyền dùng tiếng nói và chữ viết của dân tộc mình nhưng phải có người phiên dịch. Đương sự là người dân tộc thiểu số mà không biết tiếng Việt thì cơ quan thi hành án dân sự phải bố trí phiên dịch.",
                     "sub_clauses": []
                 },
                 {
@@ -177,7 +211,13 @@
         {
             "id": "Điều 10",
             "title": "Trách nhiệm bồi thường thiệt hại",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan, tổ chức và cá nhân vi phạm quy định của Luật này mà gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 11",
@@ -190,7 +230,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm thực hiện yêu cầu của cơ quan thi hành án dân sự, Chấp hành viên theo quy định của Luật này.",
+                    "text": "Cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm thực hiện yêu cầu của cơ quan thi hành án dân sự, Chấp hành viên theo quy định của Luật này. Mọi hành vi cản trở, can thiệp trái pháp luật đối với hoạt động của cơ quan thi hành án dân sự, Chấp hành viên đều bị xử lý theo quy định của pháp luật.",
                     "sub_clauses": []
                 }
             ]
@@ -206,7 +246,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Viện kiểm sát các cấp trong phạm vi nhiệm vụ, quyền hạn của mình kiểm sát việc tuân theo pháp luật về thi hành án của cơ quan thi hành án dân sự, Chấp hành viên, cơ quan, tổ chức và cá nhân có liên quan đến việc thi hành án nhằm bảo đảm việc thi hành án kịp thời, đầy đủ, đúng pháp luật.",
+                    "text": "Viện kiểm sát các cấp trong phạm vi nhiệm vụ, quyền hạn của mình kiểm sát việc tuân theo pháp luật về thi hành án của cơ quan thi hành án dân sự, Chấp hành viên, cơ quan, tổ chức và cá nhân có liên quan đến việc thi hành án nhằm bảo đảm việc thi hành án kịp thời, đầy đủ, đúng pháp luật. CHƯƠNG II HỆ THỐNG TỔ CHỨC THI HÀNH ÁN DÂN SỰ VÀ CHẤP HÀNH VIÊN",
                     "sub_clauses": []
                 }
             ]
@@ -215,6 +255,11 @@
             "id": "Điều 13",
             "title": "Hệ thống tổ chức thi hành án dân sự",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Hệ thống tổ chức thi hành án dân sự bao gồm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Cơ quan quản lý thi hành án dân sự:",
@@ -231,7 +276,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan thi hành án dân sự:",
+                    "text": "Cơ quan thi hành án dân sự: Chính phủ quy định nhiệm vụ, quyền hạn của cơ quan quản lý thi hành án dân sự; tên gọi, cơ cấu, tổ chức cụ thể của cơ quan thi hành án dân sự.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -462,7 +507,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Người có đủ tiêu chuẩn quy định tại khoản 2 Điều này, là sỹ quan quân đội tại ngũ thì được bổ nhiệm làm Chấp hành viên trong quân đội.",
+                    "text": "Người có đủ tiêu chuẩn quy định tại khoản 2 Điều này, là sỹ quan quân đội tại ngũ thì được bổ nhiệm làm Chấp hành viên trong quân đội. Tiêu chuẩn để được bổ nhiệm Chấp hành viên sơ cấp, Chấp hành viên trung cấp và Chấp hành viên cao cấp trong quân đội được thực hiện theo quy định tại các khoản 2, 3 và 4 Điều này.",
                     "sub_clauses": []
                 },
                 {
@@ -558,7 +603,7 @@
                 },
                 {
                     "number": "10",
-                    "text": "Thực hiện nhiệm vụ khác theo sự phân công của Thủ trưởng cơ quan thi hành án dân sự.",
+                    "text": "Thực hiện nhiệm vụ khác theo sự phân công của Thủ trưởng cơ quan thi hành án dân sự. Khi thực hiện nhiệm vụ, quyền hạn của mình, Chấp hành viên phải tuân theo pháp luật, chịu trách nhiệm trước pháp luật về việc thi hành án và được pháp luật bảo vệ tính mạng, sức khỏe, danh dự, nhân phẩm và uy tín.",
                     "sub_clauses": []
                 }
             ]
@@ -694,22 +739,46 @@
         {
             "id": "Điều 24",
             "title": "Biên chế, kinh phí, cơ sở vật chất của cơ quan thi hành án dân sự",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước bảo đảm biên chế, kinh phí, trụ sở làm việc, công cụ hỗ trợ thi hành án, ứng dụng công nghệ thông tin và phương tiện, trang thiết bị cần thiết khác cho cơ quan thi hành án dân sự.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 25",
             "title": "Trang phục, phù hiệu, chế độ đối với công chức làm công tác thi hành án dân sự",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chấp hành viên, Thẩm tra viên và công chức khác làm công tác thi hành án dân sự được cấp trang phục, phù hiệu để sử dụng trong khi thi hành công vụ, được hưởng tiền lương, chế độ phụ cấp phù hợp với nghề nghiệp và chế độ ưu đãi khác theo quy định của Chính phủ. CHƯƠNG III THỦ TỤC THI HÀNH ÁN DÂN SỰ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 26",
             "title": "Hướng dẫn quyền yêu cầu thi hành án dân sự",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khi ra bản án, quyết định, Toà án, Hội đồng xử lý vụ việc cạnh tranh, Trọng tài thương mại phải giải thích cho đương sự, đồng thời ghi rõ trong bản án, quyết định về quyền yêu cầu thi hành án, nghĩa vụ thi hành án, thời hiệu yêu cầu thi hành án.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 27",
             "title": "Cấp bản án, quyết định",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Toà án, Hội đồng xử lý vụ việc cạnh tranh, Trọng tài thương mại đã ra bản án, quyết định được quy định tại Điều 2 của Luật này phải cấp cho đương sự bản án, quyết định có ghi “Để thi hành\".",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 28",
@@ -740,7 +809,13 @@
         {
             "id": "Điều 29",
             "title": "Thủ tục nhận bản án, quyết định",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khi nhận bản án, quyết định do Toà án chuyển giao, cơ quan thi hành án dân sự phải kiểm tra, vào sổ nhận bản án, quyết định. Sổ nhận bản án, quyết định phải ghi rõ số thứ tự; ngày, tháng, năm nhận bản án, quyết định; số, ngày, tháng, năm của bản án, quyết định và tên Toà án đã ra bản án, quyết định; họ, tên, địa chỉ của đương sự và tài liệu khác có liên quan. Việc giao, nhận trực tiếp bản án, quyết định phải có chữ ký của hai bên. Trong trường hợp nhận được bản án, quyết định và tài liệu có liên quan bằng đường bưu điện thì cơ quan thi hành án dân sự phải thông báo bằng văn bản cho Toà án đã chuyển giao biết.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 30",
@@ -748,7 +823,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trong thời hạn 05 năm, kể từ ngày bản án, quyết định có hiệu lực pháp luật, người được thi hành án, người phải thi hành án có quyền yêu cầu cơ quan thi hành án dân sự có thẩm quyền ra quyết định thi hành án.",
+                    "text": "Trong thời hạn 05 năm, kể từ ngày bản án, quyết định có hiệu lực pháp luật, người được thi hành án, người phải thi hành án có quyền yêu cầu cơ quan thi hành án dân sự có thẩm quyền ra quyết định thi hành án. Trường hợp thời hạn thực hiện nghĩa vụ được ấn định trong bản án, quyết định thì thời hạn 05 năm được tính từ ngày nghĩa vụ đến hạn. Đối với bản án, quyết định thi hành theo định kỳ thì thời hạn 05 năm được áp dụng cho từng định kỳ, kể từ ngày nghĩa vụ đến hạn.",
                     "sub_clauses": []
                 },
                 {
@@ -795,7 +870,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người làm đơn yêu cầu thi hành án phải ghi rõ ngày, tháng, năm và ký tên hoặc điểm chỉ; trường hợp là pháp nhân thì phải có chữ ký của người đại diện hợp pháp và đóng dấu của pháp nhân.",
+                    "text": "Người làm đơn yêu cầu thi hành án phải ghi rõ ngày, tháng, năm và ký tên hoặc điểm chỉ; trường hợp là pháp nhân thì phải có chữ ký của người đại diện hợp pháp và đóng dấu của pháp nhân. Trường hợp người yêu cầu thi hành án trực tiếp trình bày bằng lời nói tại cơ quan thi hành án dân sự thì phải lập biên bản ghi rõ các nội dung quy định tại khoản 1 Điều này, có chữ ký hoặc điểm chỉ của người yêu cầu và chữ ký của người lập biên bản. Biên bản có giá trị như đơn yêu cầu thi hành án. Kèm theo đơn yêu cầu thi hành án, phải có bản án, quyết định được yêu cầu thi hành và tài liệu khác có liên quan, nếu có.",
                     "sub_clauses": []
                 },
                 {
@@ -998,7 +1073,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thủ trưởng cơ quan thi hành án dân sự chủ động ra quyết định thi hành đối với phần bản án, quyết định sau đây:",
+                    "text": "Thủ trưởng cơ quan thi hành án dân sự chủ động ra quyết định thi hành đối với phần bản án, quyết định sau đây: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được bản án, quyết định, Thủ trưởng cơ quan thi hành án dân sự phải ra quyết định thi hành án. Trong thời hạn 24 giờ, kể từ khi nhận được quyết định áp dụng biện pháp khẩn cấp tạm thời do Toà án chuyển giao hoặc do đương sự giao trực tiếp, Thủ trưởng cơ quan thi hành án dân sự phải ra quyết định thi hành án và phân công Chấp hành viên tổ chức thi hành.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1024,7 +1099,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ngoài các trường hợp quy định tại khoản 1 Điều này, Thủ trưởng cơ quan thi hành án dân sự chỉ ra quyết định thi hành án khi có đơn yêu cầu thi hành án.",
+                    "text": "Ngoài các trường hợp quy định tại khoản 1 Điều này, Thủ trưởng cơ quan thi hành án dân sự chỉ ra quyết định thi hành án khi có đơn yêu cầu thi hành án. Thời hạn ra quyết định thi hành án theo đơn yêu cầu là 05 ngày làm việc, kể từ ngày nhận được đơn yêu cầu thi hành án.",
                     "sub_clauses": []
                 },
                 {
@@ -1089,7 +1164,13 @@
         {
             "id": "Điều 38",
             "title": "Gửi quyết định về thi hành án",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Quyết định về thi hành án phải được gửi cho Viện kiểm sát cùng cấp. Quyết định cưỡng chế thi hành án phải được gửi cho Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là Uỷ ban nhân dân cấp xã) nơi tổ chức cưỡng chế thi hành án hoặc cơ quan, tổ chức có liên quan đến việc thực hiện quyết định cưỡng chế thi hành án.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 39",
@@ -1141,7 +1222,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp người được thông báo vắng mặt thì văn bản thông báo được giao cho một trong số những người thân thích có đủ năng lực hành vi dân sự cùng cư trú với người đó, bao gồm vợ, chồng, con, ông, bà, cha, mẹ, bác, chú, cô, cậu, dì, anh, chị, em của đương sự, của vợ hoặc chồng của đương sự.",
+                    "text": "Trường hợp người được thông báo vắng mặt thì văn bản thông báo được giao cho một trong số những người thân thích có đủ năng lực hành vi dân sự cùng cư trú với người đó, bao gồm vợ, chồng, con, ông, bà, cha, mẹ, bác, chú, cô, cậu, dì, anh, chị, em của đương sự, của vợ hoặc chồng của đương sự. Việc giao thông báo phải lập thành biên bản. Ngày lập biên bản là ngày được thông báo hợp lệ. Trường hợp người được thông báo không có người thân thích có đủ năng lực hành vi dân sự cùng cư trú hoặc có nhưng người đó từ chối nhận văn bản thông báo hoặc người được thông báo vắng mặt mà không rõ thời điểm trở về thì người thực hiện thông báo phải lập biên bản về việc không thực hiện được thông báo, có chữ ký của người chứng kiến và thực hiện việc niêm yết công khai theo quy định tại Điều 42 của Luật này.",
                     "sub_clauses": []
                 },
                 {
@@ -1154,7 +1235,13 @@
         {
             "id": "Điều 41",
             "title": "Thủ tục thông báo trực tiếp cho cơ quan, tổ chức",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp người được thông báo là cơ quan, tổ chức thì văn bản thông báo phải được giao trực tiếp cho người đại diện theo pháp luật hoặc người chịu trách nhiệm nhận văn bản của cơ quan, tổ chức đó và phải được những người này ký nhận. Trường hợp cơ quan, tổ chức được thông báo có người đại diện tham gia việc thi hành án hoặc cử người đại diện nhận văn bản thông báo thì những người này ký nhận văn bản thông báo. Ngày ký nhận là ngày được thông báo hợp lệ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 42",
@@ -1162,7 +1249,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Việc niêm yết công khai văn bản thông báo chỉ được thực hiện khi không rõ địa chỉ của người được thông báo hoặc không thể thực hiện được việc thông báo trực tiếp, trừ trường hợp pháp luật có quy định khác.",
+                    "text": "Việc niêm yết công khai văn bản thông báo chỉ được thực hiện khi không rõ địa chỉ của người được thông báo hoặc không thể thực hiện được việc thông báo trực tiếp, trừ trường hợp pháp luật có quy định khác. Cơ quan thi hành án dân sự trực tiếp hoặc ủy quyền cho Uỷ ban nhân dân cấp xã nơi cư trú hoặc nơi cư trú cuối cùng của người được thông báo hoặc cá nhân, tổ chức có đủ điều kiện theo quy định của pháp luật thực hiện việc niêm yết.",
                     "sub_clauses": []
                 },
                 {
@@ -1197,7 +1284,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp xác định đương sự đang có mặt tại địa phương nơi đương sự cư trú thì việc thông báo được thực hiện trên báo ngày trong hai số liên tiếp hoặc trên đài phát thanh, đài truyền hình của tỉnh, thành phố trực thuộc trung ương của địa phương đó hai lần trong 02 ngày liên tiếp.",
+                    "text": "Trường hợp xác định đương sự đang có mặt tại địa phương nơi đương sự cư trú thì việc thông báo được thực hiện trên báo ngày trong hai số liên tiếp hoặc trên đài phát thanh, đài truyền hình của tỉnh, thành phố trực thuộc trung ương của địa phương đó hai lần trong 02 ngày liên tiếp. Trường hợp xác định đương sự không có mặt tại địa phương nơi đương sự cư trú thì việc thông báo được thực hiện trên báo ngày trong hai số liên tiếp hoặc trên đài phát thanh, đài truyền hình của trung ương hai lần trong 02 ngày liên tiếp.",
                     "sub_clauses": []
                 },
                 {
@@ -1213,12 +1300,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trường hợp chủ động ra quyết định thi hành án, Chấp hành viên phải tiến hành xác minh điều kiện thi hành án của người phải thi hành án.",
+                    "text": "Trường hợp chủ động ra quyết định thi hành án, Chấp hành viên phải tiến hành xác minh điều kiện thi hành án của người phải thi hành án. Trường hợp thi hành án theo đơn yêu cầu, nếu người được thi hành án đã áp dụng các biện pháp cần thiết mà không thể tự xác minh được điều kiện thi hành án của người phải thi hành án thì có thể yêu cầu Chấp hành viên tiến hành xác minh. Việc yêu cầu này phải được lập thành văn bản và phải ghi rõ các biện pháp đã được áp dụng nhưng không có kết quả, kèm theo tài liệu chứng minh.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời hạn 10 ngày, kể từ ngày chủ động ra quyết định thi hành án hoặc kể từ ngày nhận được yêu cầu xác minh của người được thi hành án, Chấp hành viên phải tiến hành việc xác minh; trường hợp thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời thì phải xác minh ngay.",
+                    "text": "Trong thời hạn 10 ngày, kể từ ngày chủ động ra quyết định thi hành án hoặc kể từ ngày nhận được yêu cầu xác minh của người được thi hành án, Chấp hành viên phải tiến hành việc xác minh; trường hợp thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời thì phải xác minh ngay. Việc xác minh phải được lập thành biên bản, có xác nhận của tổ trưởng tổ dân phố, Uỷ ban nhân dân, công an cấp xã hoặc cơ quan, tổ chức nơi tiến hành xác minh. Biên bản xác minh phải thể hiện đầy đủ kết quả xác minh.",
                     "sub_clauses": []
                 }
             ]
@@ -1279,7 +1366,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp có nhiều người được thi hành án thì việc thanh toán tiền thi hành án được thực hiện như sau:",
+                    "text": "Trường hợp có nhiều người được thi hành án thì việc thanh toán tiền thi hành án được thực hiện như sau: Số tiền còn lại được trả cho người phải thi hành án.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1340,7 +1427,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thủ trưởng cơ quan thi hành án dân sự ra quyết định hoãn thi hành án khi nhận được yêu cầu hoãn thi hành án của người có thẩm quyền kháng nghị ít nhất 24 giờ trước thời điểm cưỡng chế thi hành án đã được ấn định trong quyết định cưỡng chế. Trường hợp cơ quan thi hành án nhận được yêu cầu hoãn thi hành án của người có thẩm quyền kháng nghị ít hơn 24 giờ trước thời điểm cưỡng chế đã được ấn định trong quyết định cưỡng chế thi hành án thì Thủ trưởng cơ quan thi hành án dân sự có quyền quyết định hoãn thi hành án khi xét thấy cần thiết.",
+                    "text": "Thủ trưởng cơ quan thi hành án dân sự ra quyết định hoãn thi hành án khi nhận được yêu cầu hoãn thi hành án của người có thẩm quyền kháng nghị ít nhất 24 giờ trước thời điểm cưỡng chế thi hành án đã được ấn định trong quyết định cưỡng chế. Trường hợp cơ quan thi hành án nhận được yêu cầu hoãn thi hành án của người có thẩm quyền kháng nghị ít hơn 24 giờ trước thời điểm cưỡng chế đã được ấn định trong quyết định cưỡng chế thi hành án thì Thủ trưởng cơ quan thi hành án dân sự có quyền quyết định hoãn thi hành án khi xét thấy cần thiết. Trường hợp vụ việc đã được thi hành một phần hoặc đã được thi hành xong thì cơ quan thi hành án dân sự phải có văn bản thông báo ngay cho người yêu cầu hoãn thi hành án. Người có thẩm quyền kháng nghị theo thủ tục giám đốc thẩm hoặc tái thẩm đối với bản án, quyết định của Toà án chỉ được yêu cầu hoãn thi hành án một lần để xem xét kháng nghị nhằm tránh hậu quả không thể khắc phục được. Thời hạn hoãn thi hành án theo yêu cầu của người có thẩm quyền kháng nghị bản án, quyết định không quá 03 tháng, kể từ ngày ra văn bản yêu cầu hoãn thi hành án; trong thời gian hoãn thi hành án thì người phải thi hành án không phải chịu lãi suất chậm thi hành án.",
                     "sub_clauses": []
                 },
                 {
@@ -1361,12 +1448,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thủ trưởng cơ quan thi hành án dân sự thông báo về việc tạm đình chỉ thi hành án khi nhận được quyết định tạm đình chỉ thi hành án của người có thẩm quyền kháng nghị bản án, quyết định theo thủ tục giám đốc thẩm, tái thẩm.",
+                    "text": "Thủ trưởng cơ quan thi hành án dân sự thông báo về việc tạm đình chỉ thi hành án khi nhận được quyết định tạm đình chỉ thi hành án của người có thẩm quyền kháng nghị bản án, quyết định theo thủ tục giám đốc thẩm, tái thẩm. Trường hợp bản án, quyết định đã được thi hành một phần hoặc toàn bộ thì Thủ trưởng cơ quan thi hành án dân sự phải thông báo ngay bằng văn bản cho người đã kháng nghị. Trong thời gian tạm đình chỉ thi hành án do có kháng nghị thì người phải thi hành án không phải chịu lãi suất chậm thi hành án.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Thủ trưởng cơ quan thi hành án dân sự ra quyết định tạm đình chỉ thi hành án khi nhận được thông báo của Toà án về việc đã thụ lý đơn yêu cầu mở thủ tục phá sản đối với người phải thi hành án.",
+                    "text": "Thủ trưởng cơ quan thi hành án dân sự ra quyết định tạm đình chỉ thi hành án khi nhận được thông báo của Toà án về việc đã thụ lý đơn yêu cầu mở thủ tục phá sản đối với người phải thi hành án. Thời hạn ra quyết định tạm đình chỉ thi hành án là 05 ngày làm việc, kể từ ngày nhận được thông báo của Toà án.",
                     "sub_clauses": []
                 },
                 {
@@ -1476,6 +1563,11 @@
             "title": "Kết thúc thi hành án",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Việc thi hành án đương nhiên kết thúc trong các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Đương sự đã thực hiện xong quyền, nghĩa vụ của mình;",
                     "sub_clauses": []
@@ -1495,7 +1587,13 @@
         {
             "id": "Điều 53",
             "title": "Xác nhận kết quả thi hành án",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Đương sự có quyền yêu cầu cơ quan thi hành án dân sự xác nhận kết quả thi hành án. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được yêu cầu của đương sự, Thủ trưởng cơ quan thi hành án dân sự cấp giấy xác nhận kết quả thi hành án.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 54",
@@ -1503,7 +1601,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Việc chuyển giao quyền và nghĩa vụ thi hành án đối với tổ chức được thực hiện như sau:",
+                    "text": "Việc chuyển giao quyền và nghĩa vụ thi hành án đối với tổ chức được thực hiện như sau: Nếu quyết định chia, tách không quy định nghĩa vụ của các tổ chức mới thì sau khi chia, tách các tổ chức mới có trách nhiệm liên đới thực hiện nghĩa vụ thi hành án của tổ chức bị chia, tách; Cơ quan thi hành án dân sự, người được thi hành án, người có quyền, nghĩa vụ liên quan có quyền đề nghị cơ quan có thẩm quyền xem xét lại quyết định giải thể theo quy định của pháp luật. Trường hợp tài sản để thi hành án không còn do thực hiện quyết định giải thể trái pháp luật thì cơ quan ra quyết định giải thể phải chịu trách nhiệm thi hành phần nghĩa vụ của tổ chức bị giải thể tương ứng với tài sản đó;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1538,7 +1636,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trường hợp quy định tại khoản 1 và khoản 2 Điều này thì tổ chức, cá nhân được chuyển giao quyền và nghĩa vụ thi hành án có quyền làm đơn yêu cầu thi hành án hoặc phải tiếp tục thực hiện nghĩa vụ thi hành án theo quy định của Luật này.",
+                    "text": "Trường hợp quy định tại khoản 1 và khoản 2 Điều này thì tổ chức, cá nhân được chuyển giao quyền và nghĩa vụ thi hành án có quyền làm đơn yêu cầu thi hành án hoặc phải tiếp tục thực hiện nghĩa vụ thi hành án theo quy định của Luật này. Thủ trưởng cơ quan thi hành án dân sự ra quyết định thi hành án đối với cá nhân, tổ chức mới tương ứng với quyền, nghĩa vụ thi hành án được chuyển giao và ra quyết định thu hồi quyết định thi hành án trước đây. Đối với các quyết định, thông báo khác về thi hành án thì tùy từng trường hợp cụ thể mà cơ quan thi hành án dân sự giữ nguyên, thu hồi hoặc ra các quyết định, thông báo khác phù hợp theo quy định của Luật này.",
                     "sub_clauses": []
                 },
                 {
@@ -1559,7 +1657,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp người phải thi hành án có tài sản, làm việc, cư trú hoặc có trụ sở ở nhiều địa phương thì Thủ trưởng cơ quan thi hành án dân sự uỷ thác thi hành án từng phần cho cơ quan thi hành án dân sự nơi người phải thi hành án có điều kiện thi hành án để thi hành phần nghĩa vụ của họ.",
+                    "text": "Trường hợp người phải thi hành án có tài sản, làm việc, cư trú hoặc có trụ sở ở nhiều địa phương thì Thủ trưởng cơ quan thi hành án dân sự uỷ thác thi hành án từng phần cho cơ quan thi hành án dân sự nơi người phải thi hành án có điều kiện thi hành án để thi hành phần nghĩa vụ của họ. Trường hợp ủy thác thi hành nghĩa vụ liên quan đến tài sản thì Thủ trưởng cơ quan thi hành án dân sự ủy thác đến cơ quan thi hành án dân sự nơi người phải thi hành án có tài sản; nếu không xác định được nơi có tài sản hoặc nơi có tài sản trùng với nơi làm việc, cư trú, có trụ sở của người phải thi hành án thì ủy thác đến nơi làm việc, cư trú hoặc nơi có trụ sở của người đó. Trường hợp thi hành nghĩa vụ liên đới mà người phải thi hành án cư trú hoặc có tài sản ở các địa phương khác nhau thì Thủ trưởng cơ quan thi hành án dân sự uỷ thác toàn bộ nghĩa vụ thi hành án đến cơ quan thi hành án dân sự thuộc một trong các địa phương nơi người phải thi hành án có điều kiện thi hành án.",
                     "sub_clauses": []
                 },
                 {
@@ -1614,7 +1712,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan thi hành án dân sự nhận ủy thác không được trả lại quyết định ủy thác cho cơ quan thi hành án dân sự đã ủy thác mà phải tiếp tục thực hiện việc thi hành án theo quy định của Luật này, trừ trường hợp quyết định ủy thác có sự nhầm lẫn, sai sót rõ ràng về thẩm quyền của cơ quan nhận ủy thác thi hành án, nội dung thi hành án.",
+                    "text": "Cơ quan thi hành án dân sự nhận ủy thác không được trả lại quyết định ủy thác cho cơ quan thi hành án dân sự đã ủy thác mà phải tiếp tục thực hiện việc thi hành án theo quy định của Luật này, trừ trường hợp quyết định ủy thác có sự nhầm lẫn, sai sót rõ ràng về thẩm quyền của cơ quan nhận ủy thác thi hành án, nội dung thi hành án. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được quyết định ủy thác, Thủ trưởng cơ quan thi hành án dân sự ra quyết định thi hành án và thông báo bằng văn bản cho cơ quan thi hành án dân sự đã ủy thác về việc nhận được quyết định ủy thác.",
                     "sub_clauses": []
                 }
             ]
@@ -1648,7 +1746,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc giao bảo quản tài sản phải được lập biên bản ghi rõ loại tài sản, tình trạng tài sản, giờ, ngày, tháng, năm giao; họ, tên Chấp hành viên, đương sự, người được giao bảo quản, người làm chứng, nếu có; quyền, nghĩa vụ của người được giao bảo quản tài sản và có chữ ký của các bên. Trường hợp có người từ chối ký thì phải ghi vào biên bản và nêu rõ lý do.",
+                    "text": "Việc giao bảo quản tài sản phải được lập biên bản ghi rõ loại tài sản, tình trạng tài sản, giờ, ngày, tháng, năm giao; họ, tên Chấp hành viên, đương sự, người được giao bảo quản, người làm chứng, nếu có; quyền, nghĩa vụ của người được giao bảo quản tài sản và có chữ ký của các bên. Trường hợp có người từ chối ký thì phải ghi vào biên bản và nêu rõ lý do. Người được giao bảo quản tài sản quy định tại điểm b khoản 1 Điều này được trả thù lao và được thanh toán chi phí bảo quản tài sản. Thù lao và chi phí bảo quản tài sản do người phải thi hành án chịu, trừ trường hợp pháp luật có quy định khác.",
                     "sub_clauses": []
                 },
                 {
@@ -1666,12 +1764,24 @@
         {
             "id": "Điều 59",
             "title": "Việc thi hành án khi có thay đổi giá tài sản tại thời điểm thi hành án",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp theo bản án, quyết định mà một bên được nhận tài sản và phải thanh toán cho người khác giá trị tài sản họ được nhận, nhưng tại thời điểm thi hành án, giá tài sản thay đổi và một trong các bên đương sự có yêu cầu định giá tài sản đó thì tài sản được định giá theo quy định tại Điều 98 của Luật này để thi hành án.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 60",
             "title": "Phí thi hành án dân sự",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người được thi hành án phải nộp phí thi hành án dân sự. Chính phủ quy định mức phí thi hành án dân sự, thủ tục thu nộp, quản lý, sử dụng phí thi hành án dân sự.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 61",
@@ -1731,6 +1841,11 @@
             "title": "Hồ sơ đề nghị xét miễn, giảm nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Cơ quan thi hành án dân sự lập hồ sơ đề nghị Tòa án có thẩm quyền xem xét miễn, giảm nghĩa vụ thi hành án. Hồ sơ bao gồm các tài liệu sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Văn bản đề nghị xét miễn, giảm nghĩa vụ thi hành án của Thủ trưởng cơ quan thi hành án dân sự hoặc của Viện trưởng Viện kiểm sát trong trường hợp đề nghị xét miễn, giảm khoản tiền phạt;",
                     "sub_clauses": []
@@ -1768,12 +1883,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được hồ sơ đề nghị xét miễn, giảm nghĩa vụ thi hành án, Toà án phải thụ lý hồ sơ đề nghị xét miễn, giảm nghĩa vụ thi hành án.",
+                    "text": "Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được hồ sơ đề nghị xét miễn, giảm nghĩa vụ thi hành án, Toà án phải thụ lý hồ sơ đề nghị xét miễn, giảm nghĩa vụ thi hành án. Trong thời hạn 20 ngày, kể từ ngày thụ lý hồ sơ, Thẩm phán được phân công giải quyết vụ việc phải mở phiên họp xét miễn, giảm nghĩa vụ thi hành án.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Phiên họp xét miễn, giảm nghĩa vụ thi hành án do một Thẩm phán chủ trì, có sự tham dự của đại diện Viện kiểm sát cùng cấp, cơ quan thi hành án dân sự đã đề nghị xét miễn, giảm.",
+                    "text": "Phiên họp xét miễn, giảm nghĩa vụ thi hành án do một Thẩm phán chủ trì, có sự tham dự của đại diện Viện kiểm sát cùng cấp, cơ quan thi hành án dân sự đã đề nghị xét miễn, giảm. Khi tiến hành xét miễn, giảm nghĩa vụ thi hành án, đại diện cơ quan thi hành án dân sự trình bày tóm tắt hồ sơ đề nghị xét miễn, giảm; đại diện Viện kiểm sát phát biểu ý kiến về hồ sơ đề nghị xét miễn, giảm. Trên cơ sở xem xét hồ sơ và ý kiến của đại diện của Viện kiểm sát, cơ quan thi hành án dân sự, Thẩm phán ra quyết định chấp nhận, chấp nhận một phần hoặc không chấp nhận đề nghị xét miễn, giảm nghĩa vụ thi hành án.",
                     "sub_clauses": []
                 },
                 {
@@ -1789,7 +1904,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Quyết định miễn, giảm nghĩa vụ thi hành án của Tòa án có thể bị Viện kiểm sát kháng nghị theo thủ tục phúc thẩm. Thời hạn kháng nghị của Viện kiểm sát cùng cấp là 07 ngày, của Viện kiểm sát cấp trên trực tiếp là 15 ngày, kể từ ngày nhận được quyết định.",
+                    "text": "Quyết định miễn, giảm nghĩa vụ thi hành án của Tòa án có thể bị Viện kiểm sát kháng nghị theo thủ tục phúc thẩm. Thời hạn kháng nghị của Viện kiểm sát cùng cấp là 07 ngày, của Viện kiểm sát cấp trên trực tiếp là 15 ngày, kể từ ngày nhận được quyết định. Hết thời hạn kháng nghị, Viện kiểm sát không kháng nghị thì quyết định của Toà án có hiệu lực thi hành.",
                     "sub_clauses": []
                 },
                 {
@@ -1799,7 +1914,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn 15 ngày, kể từ ngày nhận được hồ sơ kháng nghị, Toà án cấp trên trực tiếp phải mở phiên họp để xét kháng nghị.",
+                    "text": "Trong thời hạn 15 ngày, kể từ ngày nhận được hồ sơ kháng nghị, Toà án cấp trên trực tiếp phải mở phiên họp để xét kháng nghị. Phiên họp xét kháng nghị do một Thẩm phán chủ trì, có sự tham gia của đại diện Viện kiểm sát cùng cấp. Trong trường hợp cần thiết, Toà án yêu cầu đại diện cơ quan thi hành án dân sự đã lập hồ sơ đề nghị xét miễn, giảm tham dự. Thẩm phán chủ trì phiên họp ra quyết định giải quyết kháng nghị. Quyết định của Tòa án về giải quyết kháng nghị việc miễn, giảm nghĩa vụ thi hành án có hiệu lực thi hành.",
                     "sub_clauses": []
                 },
                 {
@@ -1817,7 +1932,13 @@
         {
             "id": "Điều 65",
             "title": "Bảo đảm tài chính từ ngân sách nhà nước để thi hành án",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp cơ quan, tổ chức hoạt động hoàn toàn bằng kinh phí do ngân sách nhà nước cấp phải thi hành án đã áp dụng mọi biện pháp tài chính cần thiết mà vẫn không có khả năng thi hành án thì ngân sách nhà nước bảo đảm nghĩa vụ thi hành án. Việc xử lý trách nhiệm vật chất đối với người gây ra thiệt hại được thực hiện theo quy định của pháp luật. Chính phủ quy định thẩm quyền, điều kiện, đối tượng, thủ tục bảo đảm tài chính để thi hành án. CHƯƠNG IV BIỆN PHÁP BẢO ĐẢM VÀ CƯỠNG CHẾ THI HÀNH ÁN Mục 1 BIỆN PHÁP BẢO ĐẢM THI HÀNH ÁN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 66",
@@ -1864,7 +1985,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Khi tiến hành phong toả tài khoản, Chấp hành viên phải giao quyết định phong toả tài khoản cho cơ quan, tổ chức đang quản lý tài khoản của người phải thi hành án.",
+                    "text": "Khi tiến hành phong toả tài khoản, Chấp hành viên phải giao quyết định phong toả tài khoản cho cơ quan, tổ chức đang quản lý tài khoản của người phải thi hành án. Cơ quan, tổ chức đang quản lý tài khoản phải thực hiện ngay quyết định của Chấp hành viên về phong toả tài khoản.",
                     "sub_clauses": []
                 },
                 {
@@ -1907,12 +2028,23 @@
         {
             "id": "Điều 69",
             "title": "Tạm dừng việc đăng ký, chuyển quyền sở hữu, sử dụng, thay đổi hiện trạng tài sản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp cần ngăn chặn hoặc phát hiện đương sự có hành vi chuyển quyền sở hữu, sử dụng, tẩu tán, huỷ hoại, thay đổi hiện trạng tài sản, Chấp hành viên ra quyết định tạm dừng việc đăng ký, chuyển quyền sở hữu, sử dụng, thay đổi hiện trạng tài sản của người phải thi hành án và gửi cho cơ quan, tổ chức, cá nhân có liên quan để tạm dừng việc đăng ký, chuyển quyền sở hữu, sử dụng, thay đổi hiện trạng tài sản đó. Trong thời hạn 15 ngày, kể từ ngày ra quyết định, Chấp hành viên thực hiện việc kê biên tài sản hoặc chấm dứt việc tạm dừng việc đăng ký, chuyển quyền sở hữu, sử dụng, thay đổi hiện trạng tài sản. Mục 2 QUY ĐỊNH CHUNG VỀ CƯỠNG CHẾ THI HÀNH ÁN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 70",
             "title": "Căn cứ cưỡng chế thi hành án",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Căn cứ để cưỡng chế thi hành án bao gồm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Bản án, quyết định;",
@@ -2090,7 +2222,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Các khoản chi phí cưỡng chế thi hành án được thanh toán theo mức chi thực tế, hợp lý do Thủ trưởng cơ quan thi hành án dân sự duyệt theo đề xuất của Chấp hành viên.",
+                    "text": "Các khoản chi phí cưỡng chế thi hành án được thanh toán theo mức chi thực tế, hợp lý do Thủ trưởng cơ quan thi hành án dân sự duyệt theo đề xuất của Chấp hành viên. Thủ trưởng cơ quan thi hành án dân sự nơi tổ chức việc thi hành án thực hiện xét miễn, giảm các khoản chi phí cưỡng chế thi hành án.",
                     "sub_clauses": []
                 },
                 {
@@ -2111,7 +2243,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trước khi cưỡng chế đối với tài sản thuộc sở hữu chung của người phải thi hành án với người khác, kể cả quyền sử dụng đất, Chấp hành viên phải thông báo cho chủ sở hữu chung biết việc cưỡng chế.",
+                    "text": "Trước khi cưỡng chế đối với tài sản thuộc sở hữu chung của người phải thi hành án với người khác, kể cả quyền sử dụng đất, Chấp hành viên phải thông báo cho chủ sở hữu chung biết việc cưỡng chế. Chủ sở hữu chung có quyền khởi kiện yêu cầu Toà án xác định phần sở hữu của họ đối với tài sản chung. Trong thời hạn 30 ngày, kể từ ngày nhận được thông báo, nếu chủ sở hữu chung không khởi kiện thì người được thi hành án hoặc Chấp hành viên có quyền yêu cầu Toà án xác định phần sở hữu của người phải thi hành án trong khối tài sản chung để bảo đảm thi hành án. Đối với tài sản thuộc quyền sở hữu chung của vợ, chồng thì Chấp hành viên xác định phần sở hữu của vợ, chồng theo quy định của pháp luật về hôn nhân và gia đình và thông báo cho vợ, chồng biết. Trường hợp vợ hoặc chồng không đồng ý thì có quyền khởi kiện yêu cầu Toà án phân chia tài sản chung trong thời hạn 30 ngày, kể từ ngày phần sở hữu được Chấp hành viên xác định. Hết thời hạn trên, đương sự không khởi kiện thì Chấp hành viên tiến hành xử lý tài sản và thanh toán lại cho vợ hoặc chồng của người phải thi hành án giá trị phần tài sản thuộc quyền sở hữu của họ.",
                     "sub_clauses": []
                 },
                 {
@@ -2138,7 +2270,13 @@
         {
             "id": "Điều 75",
             "title": "Xử lý đối với tài sản khi cưỡng chế có tranh chấp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp cưỡng chế đối với tài sản của người phải thi hành án mà có tranh chấp với người khác thì Chấp hành viên tiến hành cưỡng chế và yêu cầu đương sự, người có tranh chấp khởi kiện tại Toà án hoặc đề nghị cơ quan có thẩm quyền giải quyết. Chấp hành viên xử lý tài sản đã kê biên theo quyết định của Toà án, cơ quan có thẩm quyền. Trong thời hạn 30 ngày, kể từ ngày Chấp hành viên yêu cầu mà đương sự, người có tranh chấp không khởi kiện tại Toà án hoặc đề nghị cơ quan có thẩm quyền giải quyết thì tài sản được xử lý để thi hành án theo quy định của Luật này. Mục 3 CƯỠNG CHẾ THI HÀNH ĐỐI VỚI TÀI SẢN LÀ TIỀN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 76",
@@ -2230,7 +2368,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trường hợp người phải thi hành án có thu nhập từ hoạt động kinh doanh thì Chấp hành viên ra quyết định thu tiền từ hoạt động kinh doanh của người đó để thi hành án.",
+                    "text": "Trường hợp người phải thi hành án có thu nhập từ hoạt động kinh doanh thì Chấp hành viên ra quyết định thu tiền từ hoạt động kinh doanh của người đó để thi hành án. Khi thu tiền, Chấp hành viên phải để lại số tiền tối thiểu cho hoạt động kinh doanh và sinh hoạt của người phải thi hành án và gia đình.",
                     "sub_clauses": []
                 },
                 {
@@ -2243,12 +2381,24 @@
         {
             "id": "Điều 80",
             "title": "Thu tiền của người phải thi hành án đang giữ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp phát hiện người phải thi hành án đang giữ tiền mà có căn cứ xác định khoản tiền đó là của người phải thi hành án thì Chấp hành viên ra quyết định thu tiền để thi hành án. Chấp hành viên lập biên bản thu tiền và cấp biên lai cho người phải thi hành án. Trường hợp người phải thi hành án không ký vào biên bản thì phải có chữ ký của người làm chứng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 81",
             "title": "Thu tiền của người phải thi hành án đang do người thứ ba giữ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp phát hiện người thứ ba đang giữ tiền của người phải thi hành án thì Chấp hành viên ra quyết định thu khoản tiền đó để thi hành án. Người thứ ba đang giữ tiền của người phải thi hành án có nghĩa vụ giao nộp tiền cho Chấp hành viên để thi hành án. Chấp hành viên lập biên bản thu tiền, cấp biên lai cho người thứ ba đang giữ tiền và thông báo cho người phải thi hành án. Trường hợp người thứ ba đang giữ tiền không ký vào biên bản thì phải có chữ ký của người làm chứng. Mục 4 CƯỠNG CHẾ ĐỐI VỚI TÀI SẢN LÀ GIẤY TỜ CÓ GIÁ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 82",
@@ -2261,7 +2411,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người phải thi hành án hoặc cơ quan, tổ chức, cá nhân giữ giấy tờ có giá của người phải thi hành án phải chuyển giao giấy tờ đó cho cơ quan thi hành án dân sự theo quy định của pháp luật.",
+                    "text": "Người phải thi hành án hoặc cơ quan, tổ chức, cá nhân giữ giấy tờ có giá của người phải thi hành án phải chuyển giao giấy tờ đó cho cơ quan thi hành án dân sự theo quy định của pháp luật. Trường hợp người phải thi hành án hoặc cơ quan, tổ chức, cá nhân giữ giấy tờ có giá không giao giấy tờ cho cơ quan thi hành án dân sự thì Chấp hành viên yêu cầu cơ quan, tổ chức có thẩm quyền chuyển giao giá trị của giấy tờ đó để thi hành án.",
                     "sub_clauses": []
                 }
             ]
@@ -2269,7 +2419,13 @@
         {
             "id": "Điều 83",
             "title": "Bán giấy tờ có giá",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc bán giấy tờ có giá được thực hiện theo quy định của pháp luật. Mục 5 CƯỠNG CHẾ ĐỐI VỚI TÀI SẢN LÀ QUYỀN SỞ HỮU TRÍ TUỆ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 84",
@@ -2277,7 +2433,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chấp hành viên ra quyết định kê biên quyền sở hữu trí tuệ thuộc quyền sở hữu của người phải thi hành án.",
+                    "text": "Chấp hành viên ra quyết định kê biên quyền sở hữu trí tuệ thuộc quyền sở hữu của người phải thi hành án. Trường hợp người phải thi hành án là chủ sở hữu quyền sở hữu trí tuệ chuyển quyền sử dụng quyền sở hữu trí tuệ cho cơ quan, tổ chức, cá nhân khác thì quyền sở hữu trí tuệ vẫn bị kê biên.",
                     "sub_clauses": []
                 },
                 {
@@ -2292,7 +2448,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chấp hành viên quyết định giao cho cơ quan, tổ chức, cá nhân sử dụng, khai thác quyền sở hữu trí tuệ. Cơ quan, tổ chức, cá nhân được giao sử dụng, khai thác quyền sở hữu trí tuệ phải nộp số tiền thu được sau khi trừ các chi phí cần thiết cho cơ quan thi hành án dân sự để thi hành án.",
+                    "text": "Chấp hành viên quyết định giao cho cơ quan, tổ chức, cá nhân sử dụng, khai thác quyền sở hữu trí tuệ. Cơ quan, tổ chức, cá nhân được giao sử dụng, khai thác quyền sở hữu trí tuệ phải nộp số tiền thu được sau khi trừ các chi phí cần thiết cho cơ quan thi hành án dân sự để thi hành án. Trường hợp cần thiết, Chấp hành viên yêu cầu tổ chức chuyên môn, nghề nghiệp về sở hữu trí tuệ thu và quản lý thu nhập, lợi nhuận từ việc sử dụng, khai thác quyền sở hữu trí tuệ của người phải thi hành án.",
                     "sub_clauses": []
                 },
                 {
@@ -2329,7 +2485,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định trình tự, thủ tục bán đấu giá và thẩm quyền bán đấu giá quyền sở hữu trí tuệ.",
+                    "text": "Chính phủ quy định trình tự, thủ tục bán đấu giá và thẩm quyền bán đấu giá quyền sở hữu trí tuệ. Mục 6 CƯỠNG CHẾ ĐỐI VỚI TÀI SẢN LÀ VẬT",
                     "sub_clauses": []
                 }
             ]
@@ -2399,12 +2555,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trước khi kê biên tài sản là bất động sản ít nhất là 03 ngày làm việc, Chấp hành viên thông báo cho đại diện chính quyền cấp xã hoặc đại diện tổ dân phố nơi tổ chức cưỡng chế, đương sự, người có quyền lợi, nghĩa vụ liên quan về thời gian, địa điểm, tài sản kê biên, trừ trường hợp cần ngăn chặn đương sự tẩu tán, huỷ hoại tài sản, trốn tránh việc thi hành án.",
+                    "text": "Trước khi kê biên tài sản là bất động sản ít nhất là 03 ngày làm việc, Chấp hành viên thông báo cho đại diện chính quyền cấp xã hoặc đại diện tổ dân phố nơi tổ chức cưỡng chế, đương sự, người có quyền lợi, nghĩa vụ liên quan về thời gian, địa điểm, tài sản kê biên, trừ trường hợp cần ngăn chặn đương sự tẩu tán, huỷ hoại tài sản, trốn tránh việc thi hành án. Trường hợp đương sự vắng mặt thì có thể uỷ quyền cho người khác thực hiện các quyền, nghĩa vụ của mình. Trường hợp đã được thông báo hợp lệ mà đương sự hoặc người được uỷ quyền vắng mặt thì Chấp hành viên vẫn tiến hành việc kê biên, nhưng phải mời người làm chứng và ghi rõ vào nội dung biên bản kê biên. Trường hợp không mời được người làm chứng thì Chấp hành viên vẫn tiến hành việc kê biên nhưng phải ghi rõ vào nội dung biên bản kê biên. Khi kê biên đồ vật, nhà ở, công trình kiến trúc nếu vắng mặt người phải thi hành án hoặc người đang quản lý, sử dụng tài sản đó mà phải mở khoá, phá khoá, mở gói thì Chấp hành viên thực hiện theo quy định tại Điều 93 của Luật này.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Việc kê biên tài sản phải lập biên bản. Biên bản phải ghi rõ giờ, ngày, tháng, năm kê biên, họ, tên Chấp hành viên, đương sự hoặc người được ủy quyền, người lập biên bản, người làm chứng và người có liên quan đến tài sản; diễn biến của việc kê biên; mô tả tình trạng từng tài sản, yêu cầu của đương sự và ý kiến của người làm chứng.",
+                    "text": "Việc kê biên tài sản phải lập biên bản. Biên bản phải ghi rõ giờ, ngày, tháng, năm kê biên, họ, tên Chấp hành viên, đương sự hoặc người được ủy quyền, người lập biên bản, người làm chứng và người có liên quan đến tài sản; diễn biến của việc kê biên; mô tả tình trạng từng tài sản, yêu cầu của đương sự và ý kiến của người làm chứng. Biên bản kê biên có chữ ký của đương sự hoặc người được uỷ quyền, người làm chứng, đại diện chính quyền cấp xã hoặc đại diện tổ dân phố nơi tổ chức cưỡng chế, Chấp hành viên và người lập biên bản.",
                     "sub_clauses": []
                 }
             ]
@@ -2444,7 +2600,13 @@
         {
             "id": "Điều 91",
             "title": "Kê biên tài sản của người phải thi hành án đang do người thứ ba giữ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp xác định người thứ ba đang giữ tài sản của người phải thi hành án, kể cả trường hợp tài sản được xác định bằng bản án, quyết định khác thì Chấp hành viên ra quyết định kê biên tài sản đó để thi hành án; trường hợp người thứ ba không tự nguyện giao tài sản thì Chấp hành viên cưỡng chế buộc họ phải giao tài sản để thi hành án. Trường hợp tài sản kê biên đang cho thuê thì người thuê được tiếp tục thuê theo hợp đồng đã giao kết.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 92",
@@ -2465,12 +2627,24 @@
         {
             "id": "Điều 93",
             "title": "Kê biên đồ vật bị khóa, đóng gói",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khi kê biên đồ vật đang bị khoá hoặc đóng gói thì Chấp hành viên yêu cầu người phải thi hành án, người đang sử dụng, quản lý đồ vật mở khoá, mở gói; nếu họ không mở hoặc cố tình vắng mặt thì Chấp hành viên tự mình hoặc có thể thuê cá nhân, tổ chức khác mở khoá, phá khoá hoặc mở gói, trong trường hợp này phải có người làm chứng. Người phải thi hành án phải chịu thiệt hại do việc mở khoá, phá khóa, mở gói. Trường hợp cần thiết, sau khi mở khoá, phá khoá, mở gói, Chấp hành viên niêm phong đồ vật và giao bảo quản theo quy định tại Điều 58 của Luật này. Việc mở khoá, phá khoá, mở gói hoặc niêm phong phải lập biên bản, có chữ ký của những người tham gia và người làm chứng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 94",
             "title": "Kê biên tài sản gắn liền với đất",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khi kê biên tài sản là công trình xây dựng gắn liền với đất phải kê biên cả quyền sử dụng đất, trừ trường hợp quyền sử dụng đất không được kê biên theo quy định của pháp luật hoặc việc tách rời tài sản kê biên và đất không làm giảm đáng kể giá trị tài sản đó.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 95",
@@ -2488,7 +2662,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Khi kê biên nhà ở của người phải thi hành án đang cho thuê, cho ở nhờ thì Chấp hành viên phải thông báo ngay cho người đang thuê, đang ở nhờ biết.",
+                    "text": "Khi kê biên nhà ở của người phải thi hành án đang cho thuê, cho ở nhờ thì Chấp hành viên phải thông báo ngay cho người đang thuê, đang ở nhờ biết. Trường hợp tài sản kê biên là nhà ở, cửa hàng đang cho thuê được bán đấu giá mà thời hạn thuê hoặc thời hạn lưu cư vẫn còn thì người thuê có quyền tiếp tục được thuê hoặc lưu cư theo quy định của Bộ luật dân sự.",
                     "sub_clauses": []
                 },
                 {
@@ -2509,7 +2683,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đối với phương tiện giao thông đang được khai thác sử dụng thì sau khi kê biên Chấp hành viên có thể thu giữ hoặc giao cho người phải thi hành án, người đang quản lý, sử dụng tiếp tục khai thác sử dụng, bảo quản nhưng không được chuyển nhượng, cầm cố, thế chấp.",
+                    "text": "Đối với phương tiện giao thông đang được khai thác sử dụng thì sau khi kê biên Chấp hành viên có thể thu giữ hoặc giao cho người phải thi hành án, người đang quản lý, sử dụng tiếp tục khai thác sử dụng, bảo quản nhưng không được chuyển nhượng, cầm cố, thế chấp. Trường hợp giao cho người phải thi hành án, người đang quản lý, sử dụng tiếp tục khai thác sử dụng phương tiện giao thông thì Chấp hành viên cấp cho người đó biên bản thu giữ giấy đăng ký để phương tiện được phép tham gia giao thông.",
                     "sub_clauses": []
                 },
                 {
@@ -2527,7 +2701,13 @@
         {
             "id": "Điều 97",
             "title": "Kê biên hoa lợi",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp người phải thi hành án có tài sản mang lại hoa lợi, Chấp hành viên kê biên hoa lợi đó để bảo đảm thi hành án. Đối với hoa lợi là lương thực, thực phẩm thì khi kê biên, Chấp hành viên phải để lại một phần để người phải thi hành án và gia đình họ sinh sống theo quy định tại điểm a khoản 2 Điều 87 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 98",
@@ -2603,7 +2783,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trường hợp đương sự thoả thuận để người được thi hành án nhận tài sản đã kê biên để trừ vào số tiền được thi hành án thì Chấp hành viên lập biên bản về việc thoả thuận.",
+                    "text": "Trường hợp đương sự thoả thuận để người được thi hành án nhận tài sản đã kê biên để trừ vào số tiền được thi hành án thì Chấp hành viên lập biên bản về việc thoả thuận. Trường hợp có nhiều người được thi hành án thì người nhận tài sản phải được sự đồng ý của những người được thi hành án khác và phải thanh toán lại cho những người được thi hành án khác số tiền tương ứng tỷ lệ giá trị mà họ được hưởng.",
                     "sub_clauses": []
                 },
                 {
@@ -2633,12 +2813,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc bán đấu giá đối với tài sản kê biên là động sản có giá trị từ trên 10.000.000 đồng và bất động sản do tổ chức bán đấu giá thực hiện.",
+                    "text": "Việc bán đấu giá đối với tài sản kê biên là động sản có giá trị từ trên 10.000.000 đồng và bất động sản do tổ chức bán đấu giá thực hiện. Đương sự có quyền thoả thuận về tổ chức bán đấu giá trong thời hạn không quá 05 ngày làm việc, kể từ ngày định giá. Chấp hành viên ký hợp đồng dịch vụ bán đấu giá tài sản với tổ chức bán đấu giá do đương sự thoả thuận. Trường hợp đương sự không thoả thuận được thì Chấp hành viên lựa chọn tổ chức bán đấu giá để ký hợp đồng dịch vụ bán đấu giá tài sản. Việc ký hợp đồng dịch vụ bán đấu giá tài sản được tiến hành trong thời hạn 10 ngày, kể từ ngày định giá. Việc bán đấu giá đối với động sản phải được thực hiện trong thời hạn là 30 ngày, đối với bất động sản là 45 ngày, kể từ ngày ký hợp đồng.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Chấp hành viên bán đấu giá tài sản kê biên trong các trường hợp sau đây:",
+                    "text": "Chấp hành viên bán đấu giá tài sản kê biên trong các trường hợp sau đây: Việc bán đấu giá đối với động sản phải được thực hiện trong thời hạn là 30 ngày, đối với bất động sản là 45 ngày, kể từ ngày định giá hoặc từ ngày nhận được văn bản của tổ chức bán đấu giá từ chối bán đấu giá.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2652,12 +2832,12 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chấp hành viên bán không qua thủ tục bán đấu giá đối với tài sản có giá trị dưới 2.000.000 đồng hoặc tài sản tươi sống, mau hỏng.",
+                    "text": "Chấp hành viên bán không qua thủ tục bán đấu giá đối với tài sản có giá trị dưới 2.000.000 đồng hoặc tài sản tươi sống, mau hỏng. Việc bán tài sản phải được thực hiện trong thời hạn không quá 05 ngày làm việc, kể từ ngày kê biên.",
                     "sub_clauses": []
                 },
                 {
                     "number": "5",
-                    "text": "Trước khi mở cuộc bán đấu giá 01 ngày làm việc, người phải thi hành án có quyền nhận lại tài sản nếu nộp đủ tiền thi hành án và thanh toán các chi phí thực tế, hợp lý đã phát sinh từ việc cưỡng chế thi hành án, tổ chức bán đấu giá.",
+                    "text": "Trước khi mở cuộc bán đấu giá 01 ngày làm việc, người phải thi hành án có quyền nhận lại tài sản nếu nộp đủ tiền thi hành án và thanh toán các chi phí thực tế, hợp lý đã phát sinh từ việc cưỡng chế thi hành án, tổ chức bán đấu giá. Người phải thi hành án có trách nhiệm hoàn trả phí tổn thực tế, hợp lý cho người đăng ký mua tài sản. Mức phí tổn do các bên thoả thuận; nếu không thoả thuận được thì yêu cầu Toà án giải quyết.",
                     "sub_clauses": []
                 },
                 {
@@ -2691,12 +2871,24 @@
         {
             "id": "Điều 103",
             "title": "Giao tài sản bán đấu giá",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người phải thi hành án, người đang quản lý, sử dụng tài sản không giao tài sản bán đấu giá cho người mua được tài sản thì thủ tục cưỡng chế giao tài sản được thực hiện theo quy định tại các điều 114, 115, 116 và 117 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 104",
             "title": "Xử lý tài sản bán đấu giá không thành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong thời hạn 10 ngày, kể từ ngày bán đấu giá không thành mà đương sự không yêu cầu định giá lại thì Chấp hành viên ra quyết định giảm giá tài sản để tiếp tục bán đấu giá. Mỗi lần giảm giá không quá mười phần trăm giá đã định. Trường hợp giá tài sản đã giảm thấp hơn chi phí cưỡng chế mà người được thi hành án không nhận tài sản để trừ vào số tiền được thi hành án thì tài sản được trả lại cho người phải thi hành án.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 105",
@@ -2773,7 +2965,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trường hợp tài sản là quyền sử dụng đất mà không có giấy chứng nhận hoặc không thu hồi được giấy chứng nhận thì cơ quan có thẩm quyền có trách nhiệm cấp giấy chứng nhận quyền sử dụng đất theo quy định của pháp luật về đất đai.",
+                    "text": "Trường hợp tài sản là quyền sử dụng đất mà không có giấy chứng nhận hoặc không thu hồi được giấy chứng nhận thì cơ quan có thẩm quyền có trách nhiệm cấp giấy chứng nhận quyền sử dụng đất theo quy định của pháp luật về đất đai. Đối với tài sản phải đăng ký quyền sở hữu mà không có giấy tờ đăng ký hoặc không thu hồi được giấy tờ đăng ký thì cơ quan có thẩm quyền đăng ký có trách nhiệm cấp giấy chứng nhận đăng ký quyền sở hữu. Giấy tờ được cấp mới có giá trị thay thế cho giấy tờ không thu hồi được. Mục 7 CƯỠNG CHẾ KHAI THÁC ĐỐI VỚI TÀI SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -2798,7 +2990,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chấp hành viên phải ra quyết định cưỡng chế khai thác tài sản. Quyết định ghi rõ hình thức khai thác; số tiền, thời hạn, thời điểm, địa điểm, phương thức nộp tiền cho cơ quan thi hành án dân sự để thi hành án.",
+                    "text": "Chấp hành viên phải ra quyết định cưỡng chế khai thác tài sản. Quyết định ghi rõ hình thức khai thác; số tiền, thời hạn, thời điểm, địa điểm, phương thức nộp tiền cho cơ quan thi hành án dân sự để thi hành án. Quyết định cưỡng chế khai thác tài sản phải được gửi ngay cho cơ quan có thẩm quyền quản lý, đăng ký đối với tài sản đó và Uỷ ban nhân dân cấp xã nơi có tài sản. Việc thực hiện giao dịch, chuyển giao quyền sở hữu tài sản đối với tài sản đang khai thác phải được sự đồng ý của Chấp hành viên.",
                     "sub_clauses": []
                 }
             ]
@@ -2808,8 +3000,13 @@
             "title": "Hình thức cưỡng chế khai thác tài sản để thi hành án",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Tài sản của người phải thi hành án bị cưỡng chế khai thác để thi hành án theo các hình thức sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
-                    "text": "Tài sản mà người phải thi hành án đang trực tiếp khai thác hoặc cho người khác khai thác thì người đang khai thác được tiếp tục khai thác.",
+                    "text": "Tài sản mà người phải thi hành án đang trực tiếp khai thác hoặc cho người khác khai thác thì người đang khai thác được tiếp tục khai thác. Trường hợp tài sản, bao gồm cả quyền sử dụng đất mà chưa khai thác thì Chấp hành viên yêu cầu người phải thi hành án ký hợp đồng khai thác tài sản với tổ chức, cá nhân có nhu cầu khai thác tài sản.",
                     "sub_clauses": []
                 },
                 {
@@ -2852,7 +3049,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp việc cưỡng chế khai thác tài sản chấm dứt theo quy định tại điểm a và điểm b khoản 1 Điều này thì Chấp hành viên tiếp tục kê biên và xử lý tài sản đó để thi hành án.",
+                    "text": "Trường hợp việc cưỡng chế khai thác tài sản chấm dứt theo quy định tại điểm a và điểm b khoản 1 Điều này thì Chấp hành viên tiếp tục kê biên và xử lý tài sản đó để thi hành án. Trường hợp việc cưỡng chế khai thác tài sản chấm dứt theo quy định tại điểm c và điểm d khoản 1 Điều này thì trong thời hạn 05 ngày làm việc, kể từ ngày có quyết định, Chấp hành viên ra quyết định giải toả việc cưỡng chế khai thác tài sản và trả lại tài sản cho người phải thi hành án. Mục 8 CƯỠNG CHẾ ĐỐI VỚI TÀI SẢN LÀ QUYỀN SỬ DỤNG ĐẤT",
                     "sub_clauses": []
                 }
             ]
@@ -2884,7 +3081,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Khi kê biên quyền sử dụng đất có tài sản gắn liền với đất thuộc quyền sở hữu của người phải thi hành án thì kê biên cả quyền sử dụng đất và tài sản gắn liền với đất.",
+                    "text": "Khi kê biên quyền sử dụng đất có tài sản gắn liền với đất thuộc quyền sở hữu của người phải thi hành án thì kê biên cả quyền sử dụng đất và tài sản gắn liền với đất. Trường hợp đất của người phải thi hành án có tài sản gắn liền với đất mà tài sản đó thuộc quyền sở hữu của người khác thì Chấp hành viên chỉ kê biên quyền sử dụng đất và thông báo cho người có tài sản gắn liền với đất.",
                     "sub_clauses": []
                 },
                 {
@@ -2900,7 +3097,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trường hợp diện tích đất đã kê biên đang do người phải thi hành án quản lý, khai thác, sử dụng thì Chấp hành viên tạm giao diện tích đất đã kê biên cho người đó.",
+                    "text": "Trường hợp diện tích đất đã kê biên đang do người phải thi hành án quản lý, khai thác, sử dụng thì Chấp hành viên tạm giao diện tích đất đã kê biên cho người đó. Trường hợp diện tích đất đã kê biên đang do tổ chức hoặc cá nhân khác quản lý, khai thác, sử dụng thì tạm giao cho tổ chức, cá nhân đó.",
                     "sub_clauses": []
                 },
                 {
@@ -2943,7 +3140,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trường hợp tài sản gắn liền với đất đã kê biên thuộc sở hữu của người khác thì xử lý như sau:",
+                    "text": "Trường hợp tài sản gắn liền với đất đã kê biên thuộc sở hữu của người khác thì xử lý như sau: Trường hợp người có tài sản là người thuê đất hoặc nhận góp vốn bằng quyền sử dụng đất của người phải thi hành án mà không hình thành pháp nhân mới thì người có tài sản được quyền tiếp tục ký hợp đồng thuê đất, hợp đồng góp vốn bằng quyền sử dụng đất với người trúng đấu giá, người nhận quyền sử dụng đất trong thời hạn còn lại của hợp đồng mà họ đã ký kết với người phải thi hành án. Trường hợp này, trước khi xử lý quyền sử dụng đất, Chấp hành viên có trách nhiệm thông báo cho người tham gia đấu giá, người được đề nghị nhận quyền sử dụng đất về quyền được tiếp tục ký hợp đồng của người có tài sản gắn liền với đất; Đối với tài sản có sau khi kê biên, nếu người có tài sản không di chuyển tài sản hoặc tài sản không thể di chuyển được thì tài sản phải bị tháo dỡ. Chấp hành viên tổ chức việc tháo dỡ tài sản, trừ trường hợp người nhận quyền sử dụng đất hoặc người trúng đấu giá quyền sử dụng đất đồng ý mua tài sản;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2966,7 +3163,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Đối với tài sản là cây trồng, vật nuôi ngắn ngày chưa đến mùa thu hoạch hoặc tài sản đang trong quy trình sản xuất khép kín chưa kết thúc thì sau khi kê biên, Chấp hành viên chỉ tiến hành xử lý khi đến mùa thu hoạch hoặc khi kết thúc quy trình sản xuất khép kín.",
+                    "text": "Đối với tài sản là cây trồng, vật nuôi ngắn ngày chưa đến mùa thu hoạch hoặc tài sản đang trong quy trình sản xuất khép kín chưa kết thúc thì sau khi kê biên, Chấp hành viên chỉ tiến hành xử lý khi đến mùa thu hoạch hoặc khi kết thúc quy trình sản xuất khép kín. Mục 9 CƯỠNG CHẾ TRẢ VẬT, GIẤY TỜ, CHUYỂN QUYỀN SỬ DỤNG ĐẤT",
                     "sub_clauses": []
                 }
             ]
@@ -2977,7 +3174,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đối với vật đặc định, việc cưỡng chế được thực hiện như sau:",
+                    "text": "Đối với vật đặc định, việc cưỡng chế được thực hiện như sau: Trường hợp đương sự không thoả thuận được thì Chấp hành viên cưỡng chế trả vật cho người được thi hành án. Đương sự có quyền khởi kiện yêu cầu Toà án giải quyết về thiệt hại do vật phải trả bị giảm giá trị; Trường hợp đương sự không thoả thuận được thì Thủ trưởng cơ quan thi hành án dân sự ra quyết định trả đơn yêu cầu thi hành án. Đương sự có quyền khởi kiện yêu cầu Toà án giải quyết về thiệt hại do vật phải trả không còn hoặc hư hỏng đến mức không sử dụng được.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2995,7 +3192,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đối với vật cùng loại thì Chấp hành viên thực hiện việc cưỡng chế theo nội dung bản án, quyết định.",
+                    "text": "Đối với vật cùng loại thì Chấp hành viên thực hiện việc cưỡng chế theo nội dung bản án, quyết định. Trường hợp vật phải trả không còn hoặc hư hỏng, giảm giá trị thì Chấp hành viên yêu cầu người phải thi hành án trả vật cùng loại hoặc thanh toán giá trị của vật cùng loại, trừ trường hợp đương sự có thoả thuận khác.",
                     "sub_clauses": []
                 },
                 {
@@ -3011,7 +3208,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trường hợp người phải thi hành án có nghĩa vụ trả nhà thì Chấp hành viên buộc người phải thi hành án và những người khác có mặt trong nhà ra khỏi nhà, đồng thời yêu cầu họ tự chuyển tài sản ra khỏi nhà; nếu họ không tự nguyện thực hiện thì Chấp hành viên yêu cầu lực lượng cưỡng chế đưa họ cùng tài sản ra khỏi nhà.",
+                    "text": "Trường hợp người phải thi hành án có nghĩa vụ trả nhà thì Chấp hành viên buộc người phải thi hành án và những người khác có mặt trong nhà ra khỏi nhà, đồng thời yêu cầu họ tự chuyển tài sản ra khỏi nhà; nếu họ không tự nguyện thực hiện thì Chấp hành viên yêu cầu lực lượng cưỡng chế đưa họ cùng tài sản ra khỏi nhà. Trường hợp họ từ chối nhận tài sản, Chấp hành viên phải lập biên bản ghi rõ số lượng, chủng loại, tình trạng từng loại tài sản và giao tài sản cho tổ chức, cá nhân có điều kiện bảo quản hoặc bảo quản tại kho của cơ quan thi hành án dân sự và thông báo địa điểm, thời gian để người có tài sản nhận lại tài sản.",
                     "sub_clauses": []
                 },
                 {
@@ -3042,12 +3239,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chấp hành viên ra quyết định cưỡng chế buộc người phải thi hành án trả giấy tờ cho người được thi hành án. Trường hợp người phải thi hành án không thực hiện thì Chấp hành viên cưỡng chế buộc người đó trả giấy tờ để thi hành án.",
+                    "text": "Chấp hành viên ra quyết định cưỡng chế buộc người phải thi hành án trả giấy tờ cho người được thi hành án. Trường hợp người phải thi hành án không thực hiện thì Chấp hành viên cưỡng chế buộc người đó trả giấy tờ để thi hành án. Trường hợp xác định người thứ ba đang giữ giấy tờ phải trả thì Chấp hành viên yêu cầu người đó giao giấy tờ đang giữ, nếu người thứ ba không tự nguyện giao thì Chấp hành viên cưỡng chế buộc người đó giao giấy tờ để thi hành án.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp giấy tờ không thể thu hồi được nhưng có thể cấp lại thì Chấp hành viên yêu cầu cơ quan, tổ chức có thẩm quyền ra quyết định hủy giấy tờ đó và cấp giấy tờ mới cho người được thi hành án.",
+                    "text": "Trường hợp giấy tờ không thể thu hồi được nhưng có thể cấp lại thì Chấp hành viên yêu cầu cơ quan, tổ chức có thẩm quyền ra quyết định hủy giấy tờ đó và cấp giấy tờ mới cho người được thi hành án. Đối với giấy tờ không thể thu hồi và cũng không thể cấp lại được thì Thủ trưởng cơ quan thi hành án dân sự ra quyết định trả đơn yêu cầu thi hành án và hướng dẫn đương sự khởi kiện yêu cầu Toà án giải quyết.",
                     "sub_clauses": []
                 }
             ]
@@ -3058,12 +3255,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trường hợp bản án, quyết định tuyên nghĩa vụ chuyển giao quyền sử dụng đất thì Chấp hành viên tổ chức giao diện tích đất cho người được thi hành án.",
+                    "text": "Trường hợp bản án, quyết định tuyên nghĩa vụ chuyển giao quyền sử dụng đất thì Chấp hành viên tổ chức giao diện tích đất cho người được thi hành án. Khi tiến hành giao đất phải có sự tham gia của đại diện cơ quan quản lý nhà nước về đất đai cùng cấp và Uỷ ban nhân dân cấp xã nơi có đất được chuyển giao.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Việc xử lý tài sản gắn liền với đất được chuyển giao thực hiện theo quy định sau đây:",
+                    "text": "Việc xử lý tài sản gắn liền với đất được chuyển giao thực hiện theo quy định sau đây: Trường hợp người có tài sản gắn liền với đất từ chối nhận tài sản thì Chấp hành viên lập biên bản ghi rõ số lượng, chủng loại, tình trạng từng loại tài sản, giao tài sản cho tổ chức, cá nhân có điều kiện bảo quản hoặc bảo quản tại kho của cơ quan thi hành án dân sự và thông báo địa điểm, thời gian để người có tài sản nhận lại tài sản. Hết thời hạn thông báo mà người có tài sản không đến nhận thì tài sản được xử lý theo quy định tại Điều 126 của Luật này;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3077,7 +3274,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc cưỡng chế giao quyền sử dụng đất cho người trúng đấu giá hoặc cho người nhận quyền sử dụng đất để trừ vào số tiền được thi hành án được thực hiện theo quy định tại khoản 2 Điều này.",
+                    "text": "Việc cưỡng chế giao quyền sử dụng đất cho người trúng đấu giá hoặc cho người nhận quyền sử dụng đất để trừ vào số tiền được thi hành án được thực hiện theo quy định tại khoản 2 Điều này. Mục 10 CƯỠNG CHẾ THI HÀNH NGHĨA VỤ BUỘC THỰC HIỆN HOẶC KHÔNG ĐƯỢC THỰC HIỆN CÔNG VIỆC NHẤT ĐỊNH",
                     "sub_clauses": []
                 }
             ]
@@ -3110,7 +3307,13 @@
         {
             "id": "Điều 119",
             "title": "Cưỡng chế thi hành nghĩa vụ không được thực hiện công việc nhất định",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Người phải thi hành án không tự nguyện chấm dứt việc thực hiện công việc mà theo bản án, quyết định không được thực hiện thì Chấp hành viên ra quyết định phạt tiền đối với người đó, trong trường hợp cần thiết có thể yêu cầu họ khôi phục hiện trạng ban đầu. Trường hợp người đó vẫn không chấm dứt công việc không được làm, không khôi phục lại hiện trạng ban đầu thì Chấp hành viên đề nghị cơ quan có thẩm quyền truy cứu trách nhiệm hình sự về tội không chấp hành án.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 120",
@@ -3139,12 +3342,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp không thể bố trí người lao động trở lại làm công việc theo nội dung bản án, quyết định thì người sử dụng lao động phải bố trí công việc khác với mức tiền lương tương đương theo quy định của pháp luật lao động.",
+                    "text": "Trường hợp không thể bố trí người lao động trở lại làm công việc theo nội dung bản án, quyết định thì người sử dụng lao động phải bố trí công việc khác với mức tiền lương tương đương theo quy định của pháp luật lao động. Trường hợp người lao động không chấp nhận công việc được bố trí và yêu cầu người sử dụng lao động thanh toán các chế độ theo quy định của pháp luật lao động thì người sử dụng lao động phải thực hiện việc thanh toán để chấm dứt nghĩa vụ thi hành án.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Người sử dụng lao động phải thanh toán cho người lao động khoản tiền lương trong thời gian chưa bố trí được công việc theo bản án, quyết định, kể từ ngày có đơn yêu cầu thi hành án cho đến khi người lao động được nhận trở lại làm việc hoặc được giải quyết theo quy định tại khoản 2 Điều này.",
+                    "text": "Người sử dụng lao động phải thanh toán cho người lao động khoản tiền lương trong thời gian chưa bố trí được công việc theo bản án, quyết định, kể từ ngày có đơn yêu cầu thi hành án cho đến khi người lao động được nhận trở lại làm việc hoặc được giải quyết theo quy định tại khoản 2 Điều này. CHƯƠNG V THI HÀNH ÁN TRONG MỘT SỐ TRƯỜNG HỢP CỤ THỂ Mục 1 THI HÀNH KHOẢN TỊCH THU SUNG QUỸ NHÀ NƯỚC; TIÊU HUỶ TÀI SẢN; HOÀN TRẢ TIỀN, TÀI SẢN KÊ BIÊN, TẠM GIỮ TRONG BẢN ÁN, QUYẾT ĐỊNH HÌNH SỰ",
                     "sub_clauses": []
                 }
             ]
@@ -3160,7 +3363,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc giao, nhận vật chứng, tài sản tạm giữ được tiến hành tại kho của cơ quan thi hành án dân sự. Bên giao có trách nhiệm vận chuyển vật chứng, tài sản tạm giữ đến kho của cơ quan thi hành án dân sự.",
+                    "text": "Việc giao, nhận vật chứng, tài sản tạm giữ được tiến hành tại kho của cơ quan thi hành án dân sự. Bên giao có trách nhiệm vận chuyển vật chứng, tài sản tạm giữ đến kho của cơ quan thi hành án dân sự. Đối với vật chứng, tài sản tạm giữ không thể vận chuyển, di dời về bảo quản tại kho của cơ quan thi hành án dân sự thì địa điểm giao nhận vật chứng, tài sản tạm giữ là nơi đang gửi, giữ hoặc nơi đang có tài sản.",
                     "sub_clauses": []
                 },
                 {
@@ -3175,13 +3378,18 @@
             "title": "Thủ tục tiếp nhận vật chứng, tài sản tạm giữ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Việc tiếp nhận vật chứng, tài sản tạm giữ được tiến hành theo thủ tục sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
-                    "text": "Thủ kho có trách nhiệm trực tiếp nhận, kiểm tra hiện trạng vật chứng, tài sản tạm giữ và nhập kho thi hành án. Việc giao nhận vật chứng, tài sản tạm giữ phải được lập biên bản ghi rõ giờ, ngày, tháng, năm giao nhận; số lượng, chủng loại, hiện trạng của từng loại vật chứng, tài sản tạm giữ, có so sánh với biên bản thu giữ ban đầu của cơ quan Công an hoặc Toà án. Cơ quan thi hành án dân sự chỉ tiếp nhận tài sản đủ và đúng với hiện trạng ghi trong biên bản thu giữ ban đầu. Trong trường hợp vật chứng, tài sản tạm giữ giao, nhận đã bị thay đổi so với biên bản thu giữ ban đầu thì Thủ trưởng cơ quan bên giao, bên nhận có trách nhiệm kiểm tra, kết luận và cơ quan thi hành án dân sự chỉ nhận khi đã được các cơ quan có thẩm quyền làm rõ về những thay đổi đó.",
+                    "text": "Thủ kho có trách nhiệm trực tiếp nhận, kiểm tra hiện trạng vật chứng, tài sản tạm giữ và nhập kho thi hành án. Việc giao nhận vật chứng, tài sản tạm giữ phải được lập biên bản ghi rõ giờ, ngày, tháng, năm giao nhận; số lượng, chủng loại, hiện trạng của từng loại vật chứng, tài sản tạm giữ, có so sánh với biên bản thu giữ ban đầu của cơ quan Công an hoặc Toà án. Cơ quan thi hành án dân sự chỉ tiếp nhận tài sản đủ và đúng với hiện trạng ghi trong biên bản thu giữ ban đầu. Trong trường hợp vật chứng, tài sản tạm giữ giao, nhận đã bị thay đổi so với biên bản thu giữ ban đầu thì Thủ trưởng cơ quan bên giao, bên nhận có trách nhiệm kiểm tra, kết luận và cơ quan thi hành án dân sự chỉ nhận khi đã được các cơ quan có thẩm quyền làm rõ về những thay đổi đó. Biên bản giao, nhận vật chứng, tài sản tạm giữ phải có chữ ký của người đại diện và dấu của cơ quan bên nhận, chữ ký của người đại diện và dấu của cơ quan bên giao, nếu có.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp vật chứng, tài sản tạm giữ được bàn giao dưới hình thức gói niêm phong, cơ quan thi hành án dân sự chỉ nhận khi có kết quả giám định rõ số lượng, chủng loại, chất lượng của từng loại vật chứng, tài sản tạm giữ trong gói niêm phong đó của cơ quan có thẩm quyền. Đối với vật chứng, tài sản tạm giữ là các chất ma tuý, cơ quan thi hành án dân sự chỉ nhận dưới hình thức gói niêm phong kèm theo kết luận giám định của cơ quan có thẩm quyền.",
+                    "text": "Trường hợp vật chứng, tài sản tạm giữ được bàn giao dưới hình thức gói niêm phong, cơ quan thi hành án dân sự chỉ nhận khi có kết quả giám định rõ số lượng, chủng loại, chất lượng của từng loại vật chứng, tài sản tạm giữ trong gói niêm phong đó của cơ quan có thẩm quyền. Đối với vật chứng, tài sản tạm giữ là các chất ma tuý, cơ quan thi hành án dân sự chỉ nhận dưới hình thức gói niêm phong kèm theo kết luận giám định của cơ quan có thẩm quyền. Khi giao, nhận phải lập biên bản ghi rõ hiện trạng của vật chứng, tài sản được niêm phong, có chữ ký của bên giao, bên nhận. Trường hợp niêm phong bị rách hoặc có dấu hiệu khả nghi trên đó thì cơ quan thi hành án dân sự chỉ tiếp nhận khi có kết luận giám định của cơ quan có thẩm quyền.",
                     "sub_clauses": []
                 }
             ]
@@ -3192,7 +3400,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đối với vật chứng, tài sản tạm giữ mà bản án, quyết định tuyên tịch thu, sung quỹ nhà nước thì trong thời hạn 10 ngày, kể từ ngày ra quyết định thi hành án, cơ quan thi hành án dân sự phải thông báo bằng văn bản và tiến hành giao vật chứng, tài sản tạm giữ đó cho cơ quan tài chính cùng cấp. Đối với tài sản tịch thu, sung quỹ nhà nước do cơ quan thi hành án cấp quân khu thi hành thì chuyển cho cơ quan tài chính cấp tỉnh nơi cơ quan thi hành án cấp quân khu có trụ sở.",
+                    "text": "Đối với vật chứng, tài sản tạm giữ mà bản án, quyết định tuyên tịch thu, sung quỹ nhà nước thì trong thời hạn 10 ngày, kể từ ngày ra quyết định thi hành án, cơ quan thi hành án dân sự phải thông báo bằng văn bản và tiến hành giao vật chứng, tài sản tạm giữ đó cho cơ quan tài chính cùng cấp. Đối với tài sản tịch thu, sung quỹ nhà nước do cơ quan thi hành án cấp quân khu thi hành thì chuyển cho cơ quan tài chính cấp tỉnh nơi cơ quan thi hành án cấp quân khu có trụ sở. Chi phí xử lý vật chứng, tài sản tạm giữ bị tuyên tịch thu, sung quỹ nhà nước do cơ quan tài chính nơi nhận vật chứng, tài sản tạm giữ chi trả theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -3239,22 +3447,22 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thủ trưởng cơ quan thi hành án dân sự ra quyết định trả lại tiền, tài sản tạm giữ trong trường hợp bản án, quyết định tuyên trả lại tài sản cho đương sự.",
+                    "text": "Thủ trưởng cơ quan thi hành án dân sự ra quyết định trả lại tiền, tài sản tạm giữ trong trường hợp bản án, quyết định tuyên trả lại tài sản cho đương sự. Trường hợp người được trả lại tiền, tài sản tạm giữ đồng thời là người phải thi hành nghĩa vụ trả tiền không tự nguyện thi hành án thì Chấp hành viên xử lý tiền, tài sản đó để thi hành án.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Sau khi có quyết định trả lại tiền, tài sản tạm giữ, Chấp hành viên thông báo cho đương sự thời gian, địa điểm nhận lại tiền, tài sản.",
+                    "text": "Sau khi có quyết định trả lại tiền, tài sản tạm giữ, Chấp hành viên thông báo cho đương sự thời gian, địa điểm nhận lại tiền, tài sản. Hết thời hạn 15 ngày, kể từ ngày được thông báo mà đương sự không đến nhận tiền thì Chấp hành viên gửi số tiền đó theo hình thức tiết kiệm không kỳ hạn và thông báo cho đương sự. Hết thời hạn 03 tháng, kể từ ngày được thông báo nhưng đương sự không đến nhận tài sản mà không có lý do chính đáng thì Chấp hành viên xử lý tài sản theo quy định tại các điều 98, 99 và 101 của Luật này và gửi số tiền thu được theo hình thức tiết kiệm không kỳ hạn, đồng thời thông báo cho đương sự. Hết thời hạn 05 năm, kể từ ngày bản án, quyết định có hiệu lực pháp luật mà đương sự vẫn không đến nhận số tiền đã được gửi tiết kiệm mà không có lý do chính đáng thì cơ quan thi hành án dân sự làm thủ tục sung quỹ nhà nước.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Đối với tài sản không bán được hoặc bị hư hỏng không còn giá trị sử dụng thì Thủ trưởng cơ quan thi hành án dân sự phải ra quyết định tiêu huỷ và tổ chức tiêu huỷ tài sản theo quy định tại Điều 125 của Luật này.",
+                    "text": "Đối với tài sản không bán được hoặc bị hư hỏng không còn giá trị sử dụng thì Thủ trưởng cơ quan thi hành án dân sự phải ra quyết định tiêu huỷ và tổ chức tiêu huỷ tài sản theo quy định tại Điều 125 của Luật này. Đối với giấy tờ liên quan đến tài sản, nhân thân của đương sự thì hết thời hạn 01 năm, kể từ ngày thông báo nếu đương sự không đến nhận, Chấp hành viên làm thủ tục chuyển giao cho cơ quan đã ban hành giấy tờ đó xử lý theo quy định.",
                     "sub_clauses": []
                 },
                 {
                     "number": "4",
-                    "text": "Trường hợp tài sản trả lại là tiền Việt Nam, ngoại tệ bị hư hỏng không còn sử dụng được do lỗi của các cơ quan tiến hành tố tụng, cơ quan thi hành án dân sự trong quá trình bảo quản và đương sự từ chối nhận thì cơ quan thi hành án dân sự đề nghị Ngân hàng nhà nước đổi tiền mới có giá trị tương đương để trả cho đương sự.",
+                    "text": "Trường hợp tài sản trả lại là tiền Việt Nam, ngoại tệ bị hư hỏng không còn sử dụng được do lỗi của các cơ quan tiến hành tố tụng, cơ quan thi hành án dân sự trong quá trình bảo quản và đương sự từ chối nhận thì cơ quan thi hành án dân sự đề nghị Ngân hàng nhà nước đổi tiền mới có giá trị tương đương để trả cho đương sự. Đối với tài sản là tiền Việt Nam, ngoại tệ bị hư hỏng không còn sử dụng được không do lỗi của các cơ quan tiến hành tố tụng, cơ quan thi hành án dân sự mà đương sự từ chối nhận thì cơ quan thi hành án dân sự giao cho Ngân hàng nhà nước xử lý theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -3267,7 +3475,13 @@
         {
             "id": "Điều 127",
             "title": "Xử lý tài sản mà bản án, quyết định tuyên kê biên để bảo đảm thi hành án",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chấp hành viên xử lý theo quy định tại các điều 98, 99, 100 và 101 của Luật này đối với tài sản mà bản án, quyết định tuyên kê biên để bảo đảm thi hành án trong trường hợp người phải thi hành án không tự nguyện thi hành án.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 128",
@@ -3291,7 +3505,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chấp hành viên gửi thông báo, quyết định về việc nhận lại tiền, tài sản cho người được thi hành án đang chấp hành hình phạt tù thông qua Giám thị trại giam, trại tạm giam.",
+                    "text": "Chấp hành viên gửi thông báo, quyết định về việc nhận lại tiền, tài sản cho người được thi hành án đang chấp hành hình phạt tù thông qua Giám thị trại giam, trại tạm giam. Trường hợp người được thi hành án uỷ quyền cho người khác nhận tiền, tài sản thì văn bản uỷ quyền phải có xác nhận của Giám thị trại giam, trại tạm giam. Chấp hành viên trả tiền, tài sản cho người được uỷ quyền.",
                     "sub_clauses": []
                 },
                 {
@@ -3301,7 +3515,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trường hợp người được thi hành án đang chấp hành hình phạt tù từ chối nhận lại tiền, tài sản bằng văn bản có xác nhận của Giám thị trại giam, trại tạm giam thì Chấp hành viên xử lý tiền, tài sản để sung quỹ nhà nước hoặc tiêu huỷ theo quy định của Luật này.",
+                    "text": "Trường hợp người được thi hành án đang chấp hành hình phạt tù từ chối nhận lại tiền, tài sản bằng văn bản có xác nhận của Giám thị trại giam, trại tạm giam thì Chấp hành viên xử lý tiền, tài sản để sung quỹ nhà nước hoặc tiêu huỷ theo quy định của Luật này. Mục 2 THI HÀNH QUYẾT ĐỊNH ÁP DỤNG BIỆN PHÁP KHẨN CẤP TẠM THỜI",
                     "sub_clauses": []
                 }
             ]
@@ -3365,7 +3579,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trường hợp Toà án hủy bỏ quyết định áp dụng biện pháp khẩn cấp tạm thời thì ngay sau khi nhận được quyết định của Toà án, Thủ trưởng cơ quan thi hành án dân sự ra quyết định đình chỉ thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời.",
+                    "text": "Trường hợp Toà án hủy bỏ quyết định áp dụng biện pháp khẩn cấp tạm thời thì ngay sau khi nhận được quyết định của Toà án, Thủ trưởng cơ quan thi hành án dân sự ra quyết định đình chỉ thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời. Trong thời hạn 24 giờ, kể từ khi có quyết định đình chỉ thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời, Chấp hành viên làm thủ tục giải toả kê biên, trả lại tài sản, giải toả việc phong toả tài sản hoặc tài khoản của người có nghĩa vụ.",
                     "sub_clauses": []
                 },
                 {
@@ -3381,12 +3595,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chí phí thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời của Toà án được tạm ứng từ ngân sách nhà nước và thực hiện theo quy định tại Điều 73 của Luật này.",
+                    "text": "Chí phí thi hành quyết định áp dụng biện pháp khẩn cấp tạm thời của Toà án được tạm ứng từ ngân sách nhà nước và thực hiện theo quy định tại Điều 73 của Luật này. Trường hợp người yêu cầu Toà án ra quyết định áp dụng biện pháp khẩn cấp tạm thời không đúng thì người đó phải thanh toán các chi phí thực tế do việc thi hành quyết định đó. Khoản tiền đặt trước được đối trừ, tài sản bảo đảm bị xử lý để thanh toán nghĩa vụ.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp Toà án tự mình áp dụng biện pháp khẩn cấp tạm thời thì chi phí thi hành án được thanh toán từ ngân sách nhà nước.",
+                    "text": "Trường hợp Toà án tự mình áp dụng biện pháp khẩn cấp tạm thời thì chi phí thi hành án được thanh toán từ ngân sách nhà nước. Mục 3 THI HÀNH QUYẾT ĐỊNH GIÁM ĐỐC THẨM, TÁI THẨM",
                     "sub_clauses": []
                 }
             ]
@@ -3394,7 +3608,13 @@
         {
             "id": "Điều 134",
             "title": "Thi hành quyết định giám đốc thẩm, tái thẩm tuyên giữ nguyên bản án, quyết định đã có hiệu lực pháp luật",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp quyết định giám đốc thẩm, tái thẩm tuyên giữ nguyên bản án, quyết định đã có hiệu lực pháp luật mà bản án, quyết định đó chưa thi hành hoặc đã thi hành được một phần thì Thủ trưởng cơ quan thi hành án dân sự ra quyết định tiếp tục thi hành án. Trường hợp bản án, quyết định đó đã thi hành xong thì Thủ trưởng cơ quan thi hành án dân sự thông báo cho Toà án đã ra quyết định giám đốc thẩm, tái thẩm, Viện kiểm sát cùng cấp và đương sự.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 135",
@@ -3412,7 +3632,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Đối với phần bản án, quyết định của Tòa án hủy, sửa bản án, quyết định của Tòa án cấp dưới mà đã thi hành được một phần hoặc đã thi hành xong thì đương sự có thể thỏa thuận với nhau về việc hoàn trả tài sản, phục hồi lại quyền tài sản.",
+                    "text": "Đối với phần bản án, quyết định của Tòa án hủy, sửa bản án, quyết định của Tòa án cấp dưới mà đã thi hành được một phần hoặc đã thi hành xong thì đương sự có thể thỏa thuận với nhau về việc hoàn trả tài sản, phục hồi lại quyền tài sản. Trường hợp tài sản thi hành án là động sản phải đăng ký quyền sở hữu và bất động sản còn nguyên trạng thì cưỡng chế trả lại tài sản đó cho chủ sở hữu. Trường hợp tài sản đã được chuyển dịch hợp pháp cho người thứ ba chiếm hữu ngay tình thông qua bán đấu giá hoặc giao dịch với người mà theo bản án, quyết định của cơ quan nhà nước có thẩm quyền là chủ sở hữu tài sản nhưng sau đó người này không phải là chủ sở hữu tài sản do bản án, quyết định bị huỷ, sửa hoặc tài sản thi hành án đã bị thay đổi hiện trạng thì chủ sở hữu tài sản ban đầu không được lấy lại tài sản nhưng được bồi hoàn giá trị của tài sản. Trường hợp có yêu cầu về bồi thường thiệt hại thì cơ quan ra bản án, quyết định bị huỷ, sửa giải quyết theo quy định của pháp luật.",
                     "sub_clauses": []
                 }
             ]
@@ -3428,7 +3648,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp quyết định giám đốc thẩm, tái thẩm tuyên hủy bản án, quyết định đã có hiệu lực pháp luật của Tòa án đã xét xử vụ án và đình chỉ giải quyết vụ án mà phần tài sản trong bản án, quyết định bị hủy đã thi hành được một phần hoặc đã thi hành xong thì thực hiện theo quy định tại khoản 3 Điều 135 của Luật này.",
+                    "text": "Trường hợp quyết định giám đốc thẩm, tái thẩm tuyên hủy bản án, quyết định đã có hiệu lực pháp luật của Tòa án đã xét xử vụ án và đình chỉ giải quyết vụ án mà phần tài sản trong bản án, quyết định bị hủy đã thi hành được một phần hoặc đã thi hành xong thì thực hiện theo quy định tại khoản 3 Điều 135 của Luật này. Mục 4 THI HÀNH QUYẾT ĐỊNH VỀ PHÁ SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -3439,17 +3659,17 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Sau khi nhận được văn bản của Toà án thông báo về việc thụ lý đơn yêu cầu mở thủ tục phá sản, Thủ trưởng cơ quan thi hành án dân sự ra quyết định tạm đình chỉ đối với các trường hợp thi hành về tài sản mà doanh nghiệp, hợp tác xã là người phải thi hành án theo quy định tại khoản 2 Điều 49 của Luật này.",
+                    "text": "Sau khi nhận được văn bản của Toà án thông báo về việc thụ lý đơn yêu cầu mở thủ tục phá sản, Thủ trưởng cơ quan thi hành án dân sự ra quyết định tạm đình chỉ đối với các trường hợp thi hành về tài sản mà doanh nghiệp, hợp tác xã là người phải thi hành án theo quy định tại khoản 2 Điều 49 của Luật này. Sau khi ra quyết định tạm đình chỉ thi hành án, Thủ trưởng cơ quan thi hành án dân sự thông báo cho Toà án đang giải quyết yêu cầu tuyên bố phá sản về kết quả thi hành án đối với doanh nghiệp, hợp tác xã bị lâm vào tình trạng phá sản.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Thủ trưởng cơ quan thi hành án dân sự ra quyết định đình chỉ việc thi hành án về tài sản mà doanh nghiệp, hợp tác xã là người phải thi hành án lâm vào tình trạng phá sản ngay sau khi nhận được quyết định của Tòa án về việc mở thủ tục phá sản.",
+                    "text": "Thủ trưởng cơ quan thi hành án dân sự ra quyết định đình chỉ việc thi hành án về tài sản mà doanh nghiệp, hợp tác xã là người phải thi hành án lâm vào tình trạng phá sản ngay sau khi nhận được quyết định của Tòa án về việc mở thủ tục phá sản. Việc tiếp tục thi hành nghĩa vụ về tài sản đối với doanh nghiệp, hợp tác xã là người phải thi hành án trong trường hợp này thực hiện theo quy định của Luật phá sản. Thủ trưởng cơ quan thi hành án dân sự có trách nhiệm chỉ đạo Chấp hành viên bàn giao cho Tổ quản lý, thanh lý tài sản các tài liệu thi hành án có liên quan đến việc tiếp tục thi hành nghĩa vụ về tài sản của doanh nghiệp, hợp tác xã bị lâm vào tình trạng phá sản.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn 05 ngày làm việc, kể từ ngày ra quyết định đình chỉ tiến hành thủ tục phá sản hoặc đình chỉ thủ tục phục hồi kinh doanh, Thẩm phán tiến hành thủ tục phá sản phải gửi quyết định đó kèm theo toàn bộ hồ sơ liên quan đến việc thi hành án cho cơ quan thi hành án dân sự đã ra quyết định đình chỉ việc thi hành án về tài sản mà doanh nghiệp, hợp tác xã là người phải thi hành án lâm vào tình trạng phá sản.",
+                    "text": "Trong thời hạn 05 ngày làm việc, kể từ ngày ra quyết định đình chỉ tiến hành thủ tục phá sản hoặc đình chỉ thủ tục phục hồi kinh doanh, Thẩm phán tiến hành thủ tục phá sản phải gửi quyết định đó kèm theo toàn bộ hồ sơ liên quan đến việc thi hành án cho cơ quan thi hành án dân sự đã ra quyết định đình chỉ việc thi hành án về tài sản mà doanh nghiệp, hợp tác xã là người phải thi hành án lâm vào tình trạng phá sản. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được quyết định đình chỉ tiến hành thủ tục phá sản hoặc đình chỉ thủ tục phục hồi kinh doanh, Thủ trưởng cơ quan thi hành án dân sự ra quyết định thu hồi quyết định đình chỉ thi hành án và tiếp tục thi hành án đối với phần nghĩa vụ về tài sản còn phải thi hành đã đình chỉ đối với doanh nghiệp, hợp tác xã và phân công Chấp hành viên tổ chức thi hành vụ việc theo quy định của Luật này.",
                     "sub_clauses": []
                 }
             ]
@@ -3460,7 +3680,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thủ trưởng cơ quan thi hành án dân sự không ra quyết định thi hành án đối với các quyết định của Thẩm phán tiến hành thủ tục phá sản, kể cả quyết định áp dụng biện pháp khẩn cấp tạm thời, trừ trường hợp quy định tại Điều 139 của Luật này.",
+                    "text": "Thủ trưởng cơ quan thi hành án dân sự không ra quyết định thi hành án đối với các quyết định của Thẩm phán tiến hành thủ tục phá sản, kể cả quyết định áp dụng biện pháp khẩn cấp tạm thời, trừ trường hợp quy định tại Điều 139 của Luật này. Chấp hành viên và Tổ quản lý, thanh lý tài sản căn cứ các quyết định của Thẩm phán tiến hành thủ tục phá sản để tổ chức thi hành.",
                     "sub_clauses": []
                 },
                 {
@@ -3473,7 +3693,13 @@
         {
             "id": "Điều 139",
             "title": "Thi hành nghĩa vụ về tài sản của doanh nghiệp, hợp tác xã phát sinh sau khi có quyết định tuyên bố phá sản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp doanh nghiệp, hợp tác xã chưa thanh toán nợ phát sinh sau khi có quyết định tuyên bố phá sản thì chủ nợ chưa được thanh toán nợ có quyền gửi đơn yêu cầu Toà án giải quyết. Khi có quyết định giải quyết của Toà án, đương sự có quyền gửi đơn yêu cầu cơ quan thi hành án dân sự ra quyết định thi hành án và tổ chức thi hành theo quy định của Luật này. CHƯƠNG VI KHIẾU NẠI, TỐ CÁO VÀ KHÁNG NGHỊ VỀ THI HÀNH ÁN DÂN SỰ Mục 1 KHIẾU NẠI VÀ GIẢI QUYẾT KHIẾU NẠI VỀ THI HÀNH ÁN DÂN SỰ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 140",
@@ -3486,7 +3712,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thời hiệu khiếu nại đối với quyết định, hành vi của Thủ trưởng cơ quan thi hành án dân sự, Chấp hành viên như sau:",
+                    "text": "Thời hiệu khiếu nại đối với quyết định, hành vi của Thủ trưởng cơ quan thi hành án dân sự, Chấp hành viên như sau: Đối với quyết định, hành vi về áp dụng biện pháp bảo đảm khác là 10 ngày, kể từ ngày nhận được quyết định hoặc biết được hành vi đó; Trường hợp do trở ngại khách quan hoặc do sự kiện bất khả kháng mà người khiếu nại không thực hiện được quyền khiếu nại theo đúng thời hạn thì thời gian có trở ngại khách quan hoặc sự kiện bất khả kháng không tính vào thời hạn khiếu nại. Lần khiếu nại tiếp theo, thời hiệu là 15 ngày, kể từ ngày nhận được quyết định giải quyết khiếu nại của người có thẩm quyền.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3779,7 +4005,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Đối với quyết định, hành vi quy định tại điểm c khoản 2 Điều 140 của Luật này thì thời hạn giải quyết khiếu nại lần đầu là 30 ngày, lần hai là 45 ngày, kể từ ngày thụ lý đơn khiếu nại.",
+                    "text": "Đối với quyết định, hành vi quy định tại điểm c khoản 2 Điều 140 của Luật này thì thời hạn giải quyết khiếu nại lần đầu là 30 ngày, lần hai là 45 ngày, kể từ ngày thụ lý đơn khiếu nại. Trường hợp cần thiết, đối với những vụ việc có tính chất phức tạp thì thời hạn giải quyết khiếu nại có thể kéo dài nhưng không quá 30 ngày, kể từ ngày hết thời hạn giải quyết khiếu nại.",
                     "sub_clauses": []
                 },
                 {
@@ -3793,6 +4019,11 @@
             "id": "Điều 147",
             "title": "Hình thức khiếu nại",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Người khiếu nại thực hiện việc khiếu nại bằng một trong các hình thức sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Gửi đơn khiếu nại đến cơ quan có thẩm quyền giải quyết khiếu nại. Đơn của người khiếu nại phải ghi rõ ngày, tháng, năm khiếu nại; họ, tên, địa chỉ của người khiếu nại; họ, tên, địa chỉ của người bị khiếu nại; nội dung khiếu nại, lý do khiếu nại và yêu cầu giải quyết. Đơn khiếu nại phải do người khiếu nại ký tên hoặc điểm chỉ.",
@@ -3813,7 +4044,13 @@
         {
             "id": "Điều 148",
             "title": "Thụ lý đơn khiếu nại",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được đơn khiếu nại thuộc thẩm quyền giải quyết và không thuộc trường hợp quy định tại Điều 141 của Luật này, người có thẩm quyền giải quyết khiếu nại lần đầu phải thụ lý để giải quyết và thông báo bằng văn bản cho người khiếu nại biết. Trường hợp người có thẩm quyền không thụ lý đơn khiếu nại để giải quyết thì phải thông báo và nêu rõ lý do.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 149",
@@ -3855,7 +4092,13 @@
         {
             "id": "Điều 150",
             "title": "Trình tự giải quyết khiếu nại lần đầu",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Sau khi thụ lý đơn khiếu nại, người có thẩm quyền giải quyết khiếu nại tiến hành xác minh, yêu cầu người bị khiếu nại giải trình, trong trường hợp cần thiết, có thể trưng cầu giám định hoặc tổ chức đối thoại để làm rõ nội dung khiếu nại, yêu cầu của người khiếu nại và hướng giải quyết khiếu nại. Người có thẩm quyền giải quyết khiếu nại phải ra quyết định giải quyết khiếu nại đối với khiếu nại thuộc thẩm quyền.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 151",
@@ -3919,7 +4162,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong quá trình giải quyết khiếu nại lần hai, người có thẩm quyền giải quyết khiếu nại có các quyền được quy định tại Điều 145 của Luật này và có quyền yêu cầu người giải quyết khiếu nại lần đầu, cơ quan, tổ chức, cá nhân có liên quan cung cấp thông tin, tài liệu và những bằng chứng liên quan đến nội dung khiếu nại; triệu tập người bị khiếu nại, người khiếu nại để tổ chức đối thoại khi cần thiết; xác minh; trưng cầu giám định, tiến hành các biện pháp khác theo quy định của pháp luật để giải quyết khiếu nại. Cơ quan, tổ chức, cá nhân khi nhận được yêu cầu phải thực hiện đúng các yêu cầu đó.",
+                    "text": "Trong quá trình giải quyết khiếu nại lần hai, người có thẩm quyền giải quyết khiếu nại có các quyền được quy định tại Điều 145 của Luật này và có quyền yêu cầu người giải quyết khiếu nại lần đầu, cơ quan, tổ chức, cá nhân có liên quan cung cấp thông tin, tài liệu và những bằng chứng liên quan đến nội dung khiếu nại; triệu tập người bị khiếu nại, người khiếu nại để tổ chức đối thoại khi cần thiết; xác minh; trưng cầu giám định, tiến hành các biện pháp khác theo quy định của pháp luật để giải quyết khiếu nại. Cơ quan, tổ chức, cá nhân khi nhận được yêu cầu phải thực hiện đúng các yêu cầu đó. Người có thẩm quyền giải quyết khiếu nại lần hai phải ra quyết định giải quyết khiếu nại.",
                     "sub_clauses": []
                 }
             ]
@@ -3965,7 +4208,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Việc bồi thường thiệt hại, khắc phục hậu quả do quyết định, hành vi trái pháp luật gây ra.",
+                    "text": "Việc bồi thường thiệt hại, khắc phục hậu quả do quyết định, hành vi trái pháp luật gây ra. Mục 2 TỐ CÁO VÀ GIẢI QUYẾT TỐ CÁO TRONG THI HÀNH ÁN DÂN SỰ",
                     "sub_clauses": []
                 }
             ]
@@ -3973,7 +4216,13 @@
         {
             "id": "Điều 154",
             "title": "Người có quyền tố cáo",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Công dân có quyền tố cáo với cơ quan, tổ chức, cá nhân có thẩm quyền về hành vi vi phạm pháp luật của Thủ trưởng cơ quan thi hành án dân sự, Chấp hành viên và công chức khác làm công tác thi hành án dân sự gây thiệt hại hoặc đe dọa gây thiệt hại đến lợi ích của Nhà nước, quyền, lợi ích hợp pháp của công dân, cơ quan, tổ chức.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 155",
@@ -4078,7 +4327,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp người bị tố cáo là Thủ trưởng cơ quan thi hành án dân sự thì Thủ trưởng cơ quan thi hành án dân sự cấp trên trực tiếp hoặc Thủ trưởng cơ quan quản lý thi hành án dân sự thuộc Bộ Tư pháp có trách nhiệm giải quyết.",
+                    "text": "Trường hợp người bị tố cáo là Thủ trưởng cơ quan thi hành án dân sự thì Thủ trưởng cơ quan thi hành án dân sự cấp trên trực tiếp hoặc Thủ trưởng cơ quan quản lý thi hành án dân sự thuộc Bộ Tư pháp có trách nhiệm giải quyết. Trường hợp người bị tố cáo là Thủ trưởng cơ quan thi hành án cấp quân khu thì Thủ trưởng cơ quan quản lý thi hành án thuộc Bộ Quốc phòng có trách nhiệm giải quyết. Thời hạn giải quyết tố cáo là 60 ngày, kể từ ngày thụ lý; đối với vụ việc phức tạp thì thời hạn giải quyết tố cáo có thể dài hơn, nhưng không quá 90 ngày.",
                     "sub_clauses": []
                 },
                 {
@@ -4112,7 +4361,13 @@
         {
             "id": "Điều 159",
             "title": "Kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo về thi hành án dân sự",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Viện kiểm sát kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo về thi hành án dân sự theo quy định của pháp luật. Viện kiểm sát có quyền yêu cầu, kiến nghị đối với cơ quan thi hành án dân sự cùng cấp và cấp dưới, cơ quan, tổ chức và cá nhân có trách nhiệm để bảo đảm việc giải quyết khiếu nại, tố cáo có căn cứ, đúng pháp luật. Mục 3 KHÁNG NGHỊ VÀ GIẢI QUYẾT KHÁNG NGHỊ VỀ THI HÀNH ÁN DÂN SỰ",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 160",
@@ -4136,7 +4391,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thủ trưởng cơ quan thi hành án dân sự có trách nhiệm trả lời kháng nghị của Viện kiểm sát đối với quyết định về thi hành án của mình hoặc của Chấp hành viên thuộc quyền quản lý trong thời hạn 15 ngày, kể từ ngày nhận được kháng nghị.",
+                    "text": "Thủ trưởng cơ quan thi hành án dân sự có trách nhiệm trả lời kháng nghị của Viện kiểm sát đối với quyết định về thi hành án của mình hoặc của Chấp hành viên thuộc quyền quản lý trong thời hạn 15 ngày, kể từ ngày nhận được kháng nghị. Trường hợp chấp nhận kháng nghị của Viện kiểm sát thì trong thời hạn 05 ngày làm việc, kể từ ngày có văn bản trả lời kháng nghị, Thủ trưởng cơ quan thi hành án dân sự phải thực hiện kháng nghị của Viện kiểm sát.",
                     "sub_clauses": []
                 },
                 {
@@ -4159,7 +4414,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trường hợp xét thấy văn bản trả lời kháng nghị được quy định tại khoản 2 Điều này không có căn cứ thì Viện trưởng Viện kiểm sát nhân dân tối cao yêu cầu Bộ trưởng Bộ Tư pháp xem xét lại văn bản trả lời đã có hiệu lực thi hành của Thủ trưởng cơ quan thi hành án dân sự cấp tỉnh, Thủ trưởng cơ quan quản lý thi hành án dân sự thuộc Bộ Tư pháp; Bộ trưởng Bộ Quốc phòng xem xét lại văn bản trả lời đã có hiệu lực thi hành của Thủ trưởng cơ quan thi hành án cấp quân khu, Thủ trưởng cơ quan quản lý thi hành án thuộc Bộ Quốc phòng.",
+                    "text": "Trường hợp xét thấy văn bản trả lời kháng nghị được quy định tại khoản 2 Điều này không có căn cứ thì Viện trưởng Viện kiểm sát nhân dân tối cao yêu cầu Bộ trưởng Bộ Tư pháp xem xét lại văn bản trả lời đã có hiệu lực thi hành của Thủ trưởng cơ quan thi hành án dân sự cấp tỉnh, Thủ trưởng cơ quan quản lý thi hành án dân sự thuộc Bộ Tư pháp; Bộ trưởng Bộ Quốc phòng xem xét lại văn bản trả lời đã có hiệu lực thi hành của Thủ trưởng cơ quan thi hành án cấp quân khu, Thủ trưởng cơ quan quản lý thi hành án thuộc Bộ Quốc phòng. CHƯƠNG VII XỬ LÝ VI PHẠM",
                     "sub_clauses": []
                 }
             ]
@@ -4290,7 +4545,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Thủ trưởng cơ quan thi hành án dân sự cố ý không ra quyết định thi hành án hoặc ra quyết định về thi hành án trái pháp luật; Chấp hành viên không thi hành đúng bản án, quyết định, trì hoãn việc thi hành án, áp dụng biện pháp cưỡng chế thi hành án trái pháp luật; vi phạm quy chế đạo đức của Chấp hành viên thì bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+                    "text": "Thủ trưởng cơ quan thi hành án dân sự cố ý không ra quyết định thi hành án hoặc ra quyết định về thi hành án trái pháp luật; Chấp hành viên không thi hành đúng bản án, quyết định, trì hoãn việc thi hành án, áp dụng biện pháp cưỡng chế thi hành án trái pháp luật; vi phạm quy chế đạo đức của Chấp hành viên thì bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. CHƯƠNG VIII NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN, TỔ CHỨC TRONG THI HÀNH ÁN DÂN SỰ",
                     "sub_clauses": []
                 }
             ]
@@ -4607,7 +4862,13 @@
         {
             "id": "Điều 175",
             "title": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp xã trong thi hành án dân sự",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chủ tịch Uỷ ban nhân dân cấp xã trong phạm vi nhiệm vụ, quyền hạn của mình phối hợp với Chấp hành viên và cơ quan thi hành án dân sự trong việc thông báo thi hành án, xác minh điều kiện thi hành án, áp dụng biện pháp bảo đảm, biện pháp cưỡng chế thi hành án và các nhiệm vụ khác về thi hành án dân sự trên địa bàn.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 176",
@@ -4683,7 +4944,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Có văn bản giải thích những nội dung mà bản án, quyết định tuyên chưa rõ trong thời hạn 15 ngày, kể từ ngày nhận được yêu cầu của đương sự hoặc của cơ quan thi hành án dân sự.",
+                    "text": "Có văn bản giải thích những nội dung mà bản án, quyết định tuyên chưa rõ trong thời hạn 15 ngày, kể từ ngày nhận được yêu cầu của đương sự hoặc của cơ quan thi hành án dân sự. Trường hợp vụ việc phức tạp thì thời hạn trả lời không quá 30 ngày, kể từ ngày nhận được yêu cầu.",
                     "sub_clauses": []
                 },
                 {
@@ -4703,6 +4964,11 @@
             "title": "Nhiệm vụ, quyền hạn của cơ quan, tổ chức được giao theo dõi, quản lý người đang chấp hành án hình sự",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Cơ quan, tổ chức được giao theo dõi, quản lý người đang chấp hành án hình sự theo quy định của Bộ luật tố tụng hình sự trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với cơ quan thi hành án dân sự về các việc sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Giáo dục người đang chấp hành án hình sự thực hiện nghiêm túc nghĩa vụ dân sự theo bản án, quyết định của Toà án;",
                     "sub_clauses": []
@@ -4719,7 +4985,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Kịp thời thông báo cho cơ quan thi hành án dân sự về nơi cư trú của người bị kết án đã chấp hành xong hình phạt tù, được đặc xá, được miễn chấp hành hình phạt tù.",
+                    "text": "Kịp thời thông báo cho cơ quan thi hành án dân sự về nơi cư trú của người bị kết án đã chấp hành xong hình phạt tù, được đặc xá, được miễn chấp hành hình phạt tù. CHƯƠNG IX ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -4743,12 +5009,24 @@
         {
             "id": "Điều 182",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2009. Pháp lệnh Thi hành án dân sự năm 2004 hết hiệu lực kể từ ngày Luật này có hiệu lực.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 183",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong phạm vi nhiệm vụ, quyền hạn của mình quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam Khoá XII, kỳ họp thứ 4 thông qua ngày 14 tháng 11 năm 2008. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": []

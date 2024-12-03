@@ -15,17 +15,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về hoạt động đầu tư theo phương thức đối tác công tư; quản lý nhà nước, quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đến hoạt động đầu tư theo phương thức đối tác công tư.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với các bên trong hợp đồng đầu tư theo phương thức đối tác công tư, cơ quan quản lý nhà nước và cơ quan, tổ chức, cá nhân có liên quan đến hoạt động đầu tư theo phương thức đối tác công tư.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Báo cáo nghiên cứu tiền khả thi là tài liệu trình bày các nội dung nghiên cứu sơ bộ về sự cần thiết, tính khả thi và hiệu quả của dự án đầu tư theo phương thức đối tác công tư (sau đây gọi là dự án PPP), làm cơ sở để cấp có thẩm quyền quyết định chủ trương đầu tư.",
@@ -641,7 +658,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết các nội dung trong quy trình dự án PPP.",
+                    "text": "Chính phủ quy định chi tiết các nội dung trong quy trình dự án PPP. Chương II CHUẨN BỊ DỰ ÁN PPP Mục 1 DỰ ÁN PPP DO CƠ QUAN CÓ THẨM QUYỀN LẬP",
                     "sub_clauses": []
                 }
             ]
@@ -1297,6 +1314,11 @@
             "title": "Nội dung quyết định phê duyệt dự án PPP",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Quyết định phê duyệt dự án PPP bao gồm các nội dung chủ yếu sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tên dự án;",
                     "sub_clauses": []
@@ -1399,7 +1421,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thông tin dự án được công bố bao gồm:",
+                    "text": "Thông tin dự án được công bố bao gồm: Mục 2 DỰ ÁN PPP DO NHÀ ĐẦU TƯ ĐỀ XUẤT",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1529,7 +1551,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương III LỰA CHỌN NHÀ ĐẦU TƯ Mục 1 QUY ĐỊNH CHUNG VỀ LỰA CHỌN NHÀ ĐẦU TƯ",
                     "sub_clauses": []
                 }
             ]
@@ -1600,6 +1622,11 @@
             "title": "Tư cách hợp lệ của nhà đầu tư",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Nhà đầu tư có tư cách hợp lệ khi đáp ứng các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Có đăng ký thành lập, hoạt động được cấp bởi cơ quan có thẩm quyền của quốc gia hoặc vùng lãnh thổ mà nhà đầu tư đang hoạt động;",
                     "sub_clauses": []
@@ -1635,6 +1662,11 @@
             "id": "Điều 30",
             "title": "Bảo đảm cạnh tranh trong lựa chọn nhà đầu tư",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà đầu tư tham dự thầu phải độc lập về pháp lý và độc lập về tài chính với các bên sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tư vấn lập báo cáo nghiên cứu tiền khả thi, báo cáo nghiên cứu khả thi, trừ trường hợp dự án do nhà đầu tư đề xuất;",
@@ -1690,7 +1722,13 @@
         {
             "id": "Điều 32",
             "title": "Ngôn ngữ sử dụng trong lựa chọn nhà đầu tư",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngôn ngữ sử dụng trong lựa chọn nhà đầu tư là tiếng Việt đối với lựa chọn nhà đầu tư trong nước; là tiếng Anh hoặc tiếng Việt và tiếng Anh đối với lựa chọn nhà đầu tư quốc tế.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 33",
@@ -1718,7 +1756,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Bên mời thầu phải hoàn trả hoặc giải tỏa bảo đảm dự thầu cho nhà đầu tư không được lựa chọn theo thời hạn quy định trong hồ sơ mời thầu nhưng không quá 14 ngày kể từ ngày kết quả lựa chọn nhà đầu tư được phê duyệt. Đối với nhà đầu tư được lựa chọn, bảo đảm dự thầu được hoàn trả hoặc giải tỏa sau khi doanh nghiệp dự án PPP do nhà đầu tư thành lập thực hiện bảo đảm thực hiện hợp đồng theo quy định tại Điều 48 của Luật này.",
+                    "text": "Bên mời thầu phải hoàn trả hoặc giải tỏa bảo đảm dự thầu cho nhà đầu tư không được lựa chọn theo thời hạn quy định trong hồ sơ mời thầu nhưng không quá 14 ngày kể từ ngày kết quả lựa chọn nhà đầu tư được phê duyệt. Đối với nhà đầu tư được lựa chọn, bảo đảm dự thầu được hoàn trả hoặc giải tỏa sau khi doanh nghiệp dự án PPP do nhà đầu tư thành lập thực hiện bảo đảm thực hiện hợp đồng theo quy định tại Điều 48 của Luật này. Trường hợp nhà đầu tư từ chối gia hạn theo quy định tại khoản 3 Điều này, bên mời thầu phải hoàn trả hoặc giải tỏa bảo đảm dự thầu cho nhà đầu tư trong thời hạn 14 ngày kể từ ngày bên mời thầu nhận được văn bản từ chối gia hạn.",
                     "sub_clauses": []
                 },
                 {
@@ -1838,7 +1876,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Mục 2 HÌNH THỨC LỰA CHỌN NHÀ ĐẦU TƯ",
                     "sub_clauses": []
                 }
             ]
@@ -1863,6 +1901,11 @@
             "id": "Điều 38",
             "title": "Đàm phán cạnh tranh",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Đàm phán cạnh tranh được áp dụng trong các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Có không quá 03 nhà đầu tư đáp ứng yêu cầu thực hiện dự án được mời tham dự;",
@@ -1916,7 +1959,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hồ sơ trình Thủ tướng Chính phủ bao gồm các nội dung sau đây:",
+                    "text": "Hồ sơ trình Thủ tướng Chính phủ bao gồm các nội dung sau đây: Mục 3 PHƯƠNG PHÁP VÀ TIÊU CHUẨN ĐÁNH GIÁ HỒ SƠ DỰ SƠ TUYỂN, HỒ SƠ DỰ THẦU",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1945,7 +1988,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tiêu chuẩn đánh giá hồ sơ dự sơ tuyển bao gồm các nội dung cơ bản sau đây:",
+                    "text": "Tiêu chuẩn đánh giá hồ sơ dự sơ tuyển bao gồm các nội dung cơ bản sau đây: Trường hợp liên danh, năng lực, kinh nghiệm của nhà đầu tư được xác định bằng tổng năng lực, kinh nghiệm của các thành viên liên danh; nhà đầu tư đứng đầu liên danh phải có tỷ lệ góp vốn chủ sở hữu tối thiểu là 30%, từng thành viên trong liên danh có tỷ lệ góp vốn chủ sở hữu tối thiểu là 15%;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1974,7 +2017,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc đánh giá về mặt kỹ thuật căn cứ theo thang điểm 100 hoặc 1.000 hoặc phương pháp đánh giá đạt hoặc không đạt quy định trong hồ sơ mời thầu.",
+                    "text": "Việc đánh giá về mặt kỹ thuật căn cứ theo thang điểm 100 hoặc 1.000 hoặc phương pháp đánh giá đạt hoặc không đạt quy định trong hồ sơ mời thầu. Tiêu chuẩn đánh giá về mặt kỹ thuật bao gồm: tiêu chuẩn về chất lượng, công suất, hiệu suất; tiêu chuẩn vận hành, quản lý, kinh doanh, bảo trì, bảo dưỡng; tiêu chuẩn về môi trường và an toàn; tiêu chuẩn kỹ thuật khác.",
                     "sub_clauses": []
                 },
                 {
@@ -2007,6 +2050,11 @@
             "title": "Xét duyệt kết quả lựa chọn nhà đầu tư",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Nhà đầu tư được đề nghị lựa chọn khi đáp ứng các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Hồ sơ dự thầu hợp lệ;",
                     "sub_clauses": []
@@ -2028,7 +2076,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Có hồ sơ dự thầu được xếp thứ nhất.",
+                    "text": "Có hồ sơ dự thầu được xếp thứ nhất. Chương IV THÀNH LẬP, HOẠT ĐỘNG CỦA DOANH NGHIỆP DỰ ÁN PPP; HỢP ĐỒNG DỰ ÁN PPP",
                     "sub_clauses": []
                 }
             ]
@@ -2536,12 +2584,24 @@
         {
             "id": "Điều 55",
             "title": "Pháp luật điều chỉnh hợp đồng dự án PPP",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hợp đồng dự án PPP và các phụ lục hợp đồng, các văn bản có liên quan khác được ký kết giữa cơ quan nhà nước Việt Nam với nhà đầu tư, doanh nghiệp dự án PPP được điều chỉnh bởi pháp luật Việt Nam. Đối với những vấn đề pháp luật Việt Nam không có quy định, các bên có thể thỏa thuận cụ thể trong hợp đồng dự án PPP trên cơ sở không được trái với các nguyên tắc cơ bản của pháp luật Việt Nam. Chương V TRIỂN KHAI THỰC HIỆN HỢP ĐỒNG DỰ ÁN PPP Mục 1 XÂY DỰNG CÔNG TRÌNH, HỆ THỐNG CƠ SỞ HẠ TẦNG",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 56",
             "title": "Chuẩn bị mặt bằng xây dựng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban nhân dân cấp tỉnh chủ trì, phối hợp với cơ quan có thẩm quyền, cơ quan ký kết hợp đồng tổ chức bồi thường, hỗ trợ, tái định cư và hoàn thành các thủ tục giao đất, cho thuê đất, bàn giao mặt bằng để thực hiện dự án theo quy định của pháp luật về đất đai, hợp đồng dự án PPP và các hợp đồng liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 57",
@@ -2581,6 +2641,11 @@
             "id": "Điều 58",
             "title": "Lựa chọn nhà thầu thực hiện dự án PPP",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Doanh nghiệp dự án PPP phải ban hành quy định về lựa chọn nhà thầu để áp dụng thống nhất trong doanh nghiệp trên cơ sở các nguyên tắc sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Bảo đảm công bằng, minh bạch và hiệu quả kinh tế;",
@@ -2711,7 +2776,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định hồ sơ, thời hạn xác nhận hoàn thành công trình, hệ thống cơ sở hạ tầng.",
+                    "text": "Chính phủ quy định hồ sơ, thời hạn xác nhận hoàn thành công trình, hệ thống cơ sở hạ tầng. Mục 2 QUẢN LÝ, VẬN HÀNH, KINH DOANH CÔNG TRÌNH, HỆ THỐNG CƠ SỞ HẠ TẦNG",
                     "sub_clauses": []
                 }
             ]
@@ -2719,7 +2784,13 @@
         {
             "id": "Điều 62",
             "title": "Quản lý dự án PPP",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc quản lý công trình, hệ thống cơ sở hạ tầng và các tài sản khác trong quá trình thực hiện dự án PPP được thực hiện theo quy định của Luật này, quy định khác của pháp luật có liên quan và hợp đồng dự án PPP.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 63",
@@ -2830,7 +2901,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Cơ quan ký kết hợp đồng được thuê tư vấn hỗ trợ thực hiện trách nhiệm quy định tại khoản 2 Điều này. Chi phí thuê tư vấn được thanh toán theo quy định tại khoản 4 Điều 59 của Luật này.",
+                    "text": "Cơ quan ký kết hợp đồng được thuê tư vấn hỗ trợ thực hiện trách nhiệm quy định tại khoản 2 Điều này. Chi phí thuê tư vấn được thanh toán theo quy định tại khoản 4 Điều 59 của Luật này. Mục 3 CHUYỂN GIAO CÔNG TRÌNH, HỆ THỐNG CƠ SỞ HẠ TẦNG, THANH LÝ HỢP ĐỒNG DỰ ÁN PPP",
                     "sub_clauses": []
                 }
             ]
@@ -2881,7 +2952,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trường hợp phát sinh chi phí khi thanh lý hợp đồng quy định tại khoản 1 Điều này thì nội dung thanh lý hợp đồng phải xác định nghĩa vụ của cơ quan ký kết hợp đồng và doanh nghiệp dự án PPP đối với chi phí phát sinh.",
+                    "text": "Trường hợp phát sinh chi phí khi thanh lý hợp đồng quy định tại khoản 1 Điều này thì nội dung thanh lý hợp đồng phải xác định nghĩa vụ của cơ quan ký kết hợp đồng và doanh nghiệp dự án PPP đối với chi phí phát sinh. Chương VI NGUỒN VỐN THỰC HIỆN DỰ ÁN PPP Mục 1 VỐN NHÀ NƯỚC TRONG DỰ ÁN PPP",
                     "sub_clauses": []
                 }
             ]
@@ -2984,7 +3055,13 @@
         {
             "id": "Điều 71",
             "title": "Vốn nhà nước thanh toán cho doanh nghiệp dự án PPP cung cấp sản phẩm, dịch vụ công",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Vốn nhà nước thanh toán cho doanh nghiệp dự án PPP được sử dụng trong hợp đồng BTL, hợp đồng BLT trên cơ sở chất lượng sản phẩm, dịch vụ công được bố trí từ nguồn vốn nhà nước trong dự án PPP và nguồn vốn hợp pháp khác theo quy định của pháp luật",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 72",
@@ -3028,6 +3105,11 @@
             "title": "Lập kế hoạch vốn đầu tư công sử dụng trong dự án PPP",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Việc lập kế hoạch vốn đầu tư công sử dụng trong dự án PPP được quy định như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Căn cứ chủ trương đầu tư được cấp có thẩm quyền quyết định, vốn đầu tư công sử dụng trong dự án PPP được tổng hợp trong kế hoạch đầu tư công trung hạn;",
                     "sub_clauses": []
@@ -3060,7 +3142,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đối với khoản chi thường xuyên quy định tại khoản 3 Điều 73 của Luật này, cơ quan có thẩm quyền, cơ quan ký kết hợp đồng lập dự toán ngân sách hằng năm, trình cấp có thẩm quyền phê duyệt theo quy định của pháp luật về ngân sách nhà nước.",
+                    "text": "Đối với khoản chi thường xuyên quy định tại khoản 3 Điều 73 của Luật này, cơ quan có thẩm quyền, cơ quan ký kết hợp đồng lập dự toán ngân sách hằng năm, trình cấp có thẩm quyền phê duyệt theo quy định của pháp luật về ngân sách nhà nước. Mục 2 VỐN THỰC HIỆN DỰ ÁN PPP CỦA NHÀ ĐẦU TƯ, DOANH NGHIỆP DỰ ÁN PPP",
                     "sub_clauses": []
                 }
             ]
@@ -3136,7 +3218,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương VII ƯU ĐÃI VÀ BẢO ĐẢM ĐẦU TƯ",
                     "sub_clauses": []
                 }
             ]
@@ -3144,7 +3226,13 @@
         {
             "id": "Điều 79",
             "title": "Ưu đãi đầu tư",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà đầu tư, doanh nghiệp dự án PPP được hưởng các ưu đãi về thuế, tiền sử dụng đất, tiền thuê đất và các ưu đãi khác theo quy định của pháp luật về thuế, đất đai, đầu tư và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 80",
@@ -3271,7 +3359,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương VIII KIỂM TRA, THANH TRA, KIỂM TOÁN NHÀ NƯỚC VÀ GIÁM SÁT HOẠT ĐỘNG ĐẦU TƯ THEO PHƯƠNG THỨC PPP Mục 1 KIỂM TRA, THANH TRA, KIỂM TOÁN NHÀ NƯỚC TRONG HOẠT ĐỘNG ĐẦU TƯ THEO PHƯƠNG THỨC PPP",
                     "sub_clauses": []
                 }
             ]
@@ -3337,7 +3425,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Kiểm toán toàn bộ giá trị tài sản của dự án PPP khi được chuyển giao cho Nhà nước.",
+                    "text": "Kiểm toán toàn bộ giá trị tài sản của dự án PPP khi được chuyển giao cho Nhà nước. Mục 2 GIÁM SÁT HOẠT ĐỘNG ĐẦU TƯ THEO PHƯƠNG THỨC PPP",
                     "sub_clauses": []
                 }
             ]
@@ -3397,7 +3485,13 @@
         {
             "id": "Điều 88",
             "title": "Giám sát của Mặt trận Tổ quốc Việt Nam và cộng đồng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Mặt trận Tổ quốc Việt Nam các cấp chủ trì tổ chức giám sát và hướng dẫn giám sát đầu tư của cộng đồng nơi thực hiện dự án PPP theo quy định của pháp luật về Mặt trận Tổ quốc Việt Nam và pháp luật về giám sát đầu tư của cộng đồng. Chương IX NHIỆM VỤ, QUYỀN HẠN, TRÁCH NHIỆM CỦA CÁC CƠ QUAN QUẢN LÝ NHÀ NƯỚC TRONG ĐẦU TƯ THEO PHƯƠNG THỨC PPP",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 89",
@@ -3587,7 +3681,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Thực hiện trách nhiệm khác theo quy định của Luật này.",
+                    "text": "Thực hiện trách nhiệm khác theo quy định của Luật này. Chương X GIẢI QUYẾT KIẾN NGHỊ, TRANH CHẤP VÀ XỬ LÝ VI PHẠM",
                     "sub_clauses": []
                 }
             ]
@@ -3645,7 +3739,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Quy trình giải quyết kiến nghị về kết quả lựa chọn nhà đầu tư được thực hiện như sau:",
+                    "text": "Quy trình giải quyết kiến nghị về kết quả lựa chọn nhà đầu tư được thực hiện như sau: Hội đồng tư vấn giải quyết kiến nghị cấp trung ương do Bộ trưởng Bộ Kế hoạch và Đầu tư thành lập; cấp Bộ, cơ quan trung ương, cơ quan khác do Bộ trưởng, người đứng đầu cơ quan trung ương, cơ quan khác thành lập; cấp địa phương do Chủ tịch Ủy ban nhân dân cấp tỉnh thành lập;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3758,7 +3852,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương XI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -3769,7 +3863,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Sửa đổi, bổ sung một số điều của Luật Đấu thầu số 43/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 03/2016/QH14, Luật số 04/2017/QH14 và Luật số 40/2019/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật Đấu thầu số 43/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 03/2016/QH14, Luật số 04/2017/QH14 và Luật số 40/2019/QH14 như sau: “3. Lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất;”; “2. Trường hợp lựa chọn nhà thầu cung cấp nguyên liệu, nhiên liệu, vật liệu, vật tư, dịch vụ tư vấn, dịch vụ phi tư vấn để bảo đảm tính liên tục cho hoạt động sản xuất, kinh doanh và mua sắm nhằm duy trì hoạt động thường xuyên của doanh nghiệp nhà nước thì doanh nghiệp phải ban hành quy định về lựa chọn nhà thầu để áp dụng thống nhất trong doanh nghiệp trên cơ sở bảo đảm mục tiêu công bằng, minh bạch và hiệu quả kinh tế.”; “10. Doanh nghiệp dự án là doanh nghiệp do nhà đầu tư thành lập để thực hiện dự án đầu tư có sử dụng đất.”; “12. Đấu thầu là quá trình lựa chọn nhà thầu để ký kết và thực hiện hợp đồng cung cấp dịch vụ tư vấn, dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp; lựa chọn nhà đầu tư để ký kết và thực hiện hợp đồng dự án đầu tư có sử dụng đất trên cơ sở bảo đảm cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế.”; “4. Nhà đầu tư tham dự thầu phải độc lập về pháp lý và độc lập về tài chính với các bên sau đây: “i) Danh mục dự án đầu tư có sử dụng đất;”; “2. Dự án đầu tư có sử dụng đất, trừ trường hợp hạn chế đầu tư theo quy định của pháp luật về đầu tư.”;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3815,17 +3909,17 @@
                 },
                 {
                     "number": "2",
-                    "text": "Sửa đổi, bổ sung khoản 4 Điều 40 của Luật Đầu tư công số 39/2019/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 4 Điều 40 của Luật Đầu tư công số 39/2019/QH14 như sau: “4. Nguyên tắc, thẩm quyền, nội dung, trình tự, thủ tục lập, thẩm định, quyết định báo cáo nghiên cứu khả thi dự án đầu tư theo phương thức đối tác công tư thực hiện theo quy định của pháp luật về đầu tư theo phương thức đối tác công tư.”.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Sửa đổi, bổ sung khoản 2 Điều 20 của Luật Giá số 11/2012/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 61/2014/QH13 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 2 Điều 20 của Luật Giá số 11/2012/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 61/2014/QH13 như sau: “2. Kịp thời điều chỉnh giá khi các yếu tố hình thành giá thay đổi, riêng giá sản phẩm, dịch vụ công trong dự án đầu tư theo phương thức đối tác công tư được điều chỉnh theo từng thời kỳ quy định tại hợp đồng dự án.”.",
                     "sub_clauses": []
                 },
                 {
                     "number": "4",
-                    "text": "Sửa đổi, bổ sung một số điều của Luật Hỗ trợ doanh nghiệp nhỏ và vừa số 04/2017/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật Hỗ trợ doanh nghiệp nhỏ và vừa số 04/2017/QH14 như sau: “2. Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh thành lập cơ sở ươm tạo, cơ sở kỹ thuật, khu làm việc chung. Doanh nghiệp và tổ chức đầu tư, kinh doanh khác được thành lập cơ sở ươm tạo, cơ sở kỹ thuật, khu làm việc chung.”; “1. Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh thành lập chuỗi phân phối sản phẩm. Doanh nghiệp và tổ chức đầu tư, kinh doanh khác được thành lập chuỗi phân phối sản phẩm.”.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3839,12 +3933,12 @@
                 },
                 {
                     "number": "5",
-                    "text": "Sửa đổi, bổ sung khoản 2 Điều 39 của Luật Khí tượng thủy văn số 90/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 2 Điều 39 của Luật Khí tượng thủy văn số 90/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 như sau: “2. Tổ chức sự nghiệp công lập về khí tượng thủy văn cung cấp dịch vụ khí tượng thủy văn theo chức năng, nhiệm vụ do cơ quan nhà nước có thẩm quyền quy định phù hợp với quy định của Luật này và pháp luật có liên quan; được khai thác các sản phẩm, dịch vụ khí tượng thủy văn của tổ chức, cá nhân khác trên cơ sở đặt hàng hoặc thỏa thuận theo quy định của pháp luật. Tổ chức, cá nhân khác cung cấp dịch vụ khí tượng thủy văn theo quy định của Luật này và pháp luật có liên quan.”.",
                     "sub_clauses": []
                 },
                 {
                     "number": "6",
-                    "text": "Sửa đổi, bổ sung một số điều của Luật Nhà ở số 65/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 40/2019/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật Nhà ở số 65/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 40/2019/QH14 như sau: “3. Nhà nước trực tiếp đầu tư xây dựng nhà ở bằng vốn ngân sách nhà nước, công trái quốc gia, trái phiếu, vốn hỗ trợ phát triển chính thức, vốn vay ưu đãi của các nhà tài trợ, vốn tín dụng đầu tư phát triển của Nhà nước trên diện tích đất được xác định để xây dựng nhà ở phục vụ tái định cư theo quy hoạch được phê duyệt để cho thuê, cho thuê mua, bán cho người được tái định cư.”; “1. Nhà nước đầu tư xây dựng nhà ở xã hội bằng vốn ngân sách nhà nước, công trái quốc gia, trái phiếu, vốn hỗ trợ phát triển chính thức, vốn vay ưu đãi của các nhà tài trợ, vốn tín dụng đầu tư phát triển của Nhà nước trên diện tích đất được xác định để xây dựng nhà ở xã hội theo quy định để cho thuê, cho thuê mua.”;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3962,11 +4056,15 @@
                 },
                 {
                     "number": "7",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. _____________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 9 thông qua ngày 18 tháng 6 năm 2020. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 9 thông qua ngày 18 tháng 6 năm 2020.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Nguyễn Thị Kim Ngân"
+    ]
 }

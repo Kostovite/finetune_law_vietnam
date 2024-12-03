@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về các hoạt động trong lĩnh vực năng lượng nguyên tử và bảo đảm an toàn, an ninh trong các hoạt động đó."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài, tổ chức quốc tế tiến hành các hoạt động trong lĩnh vực năng lượng nguyên tử tại Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -264,6 +285,13 @@
         "clause": "4",
         "title": "Trách nhiệm quản lý nhà nước trong lĩnh vực năng lượng nguyên tử",
         "text": "Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là cấp tỉnh) thực hiện quản lý nhà nước trong lĩnh vực năng lượng nguyên tử theo phân cấp của Chính phủ."
+    },
+    {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của cơ quan an toàn bức xạ và hạt nhân",
+        "text": "Cơ quan an toàn bức xạ và hạt nhân thuộc Bộ Khoa học và Công nghệ có trách nhiệm giúp Bộ trưởng thực hiện các nhiệm vụ, quyền hạn sau đây:"
     },
     {
         "id": "Điều 8.1",
@@ -560,6 +588,13 @@
         "text": "Cơ quan lập quy hoạch quy định tại khoản 1 Điều này có trách nhiệm tổ chức, hướng dẫn, theo dõi, kiểm tra việc thực hiện quy hoạch đã được phê duyệt."
     },
     {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Điều chỉnh quy hoạch phát triển, ứng dụng năng lượng nguyên tử",
+        "text": "Quy hoạch phát triển, ứng dụng năng lượng nguyên tử được điều chỉnh khi căn cứ xây dựng quy hoạch quy định tại Điều 13 của Luật này thay đổi và phải được Thủ tướng Chính phủ phê duyệt."
+    },
+    {
         "id": "Điều 16.1",
         "article": "Điều 16",
         "clause": "1",
@@ -593,6 +628,13 @@
         "clause": "2",
         "title": "Nghiên cứu, phát triển, ứng dụng năng lượng nguyên tử",
         "text": "Nhà nước khuyến khích tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài và tổ chức quốc tế tham gia thực hiện chương trình nghiên cứu khoa học và phát triển công nghệ quy định tại khoản 1 Điều này. Chương 3. AN TOÀN BỨC XẠ, AN TOÀN HẠT NHÂN VÀ AN NINH NGUỒN PHÓNG XẠ, VẬT LIỆU HẠT NHÂN, THIẾT BỊ HẠT NHÂN"
+    },
+    {
+        "id": "Điều 18.0",
+        "article": "Điều 18",
+        "clause": "0",
+        "title": "Công việc bức xạ",
+        "text": "Công việc bức xạ bao gồm các hoạt động sau đây:"
     },
     {
         "id": "Điều 18.1",
@@ -2632,6 +2674,13 @@
         "text": "Cơ quan an toàn bức xạ và hạt nhân có trách nhiệm báo cáo Hội đồng an toàn hạt nhân quốc gia kết quả kiểm tra an toàn quy định tại khoản 1 Điều này."
     },
     {
+        "id": "Điều 52.0",
+        "article": "Điều 52",
+        "clause": "0",
+        "title": "Bảo vệ, quan trắc phóng xạ môi trường đối với nhà máy điện hạt nhân",
+        "text": "Việc bảo vệ, quan trắc phóng xạ môi trường đối với nhà máy điện hạt nhân được thực hiện theo quy định tại Điều 44 của Luật này."
+    },
+    {
         "id": "Điều 53.1",
         "article": "Điều 53",
         "clause": "1",
@@ -2707,6 +2756,13 @@
         "clause": "3",
         "title": "Trách nhiệm bảo đảm nguồn nhân lực của tổ chức có nhà máy điện hạt nhân",
         "text": "Bổ nhiệm người có đủ điều kiện vào các chức danh kỹ sư trưởng, trưởng ca vận hành, người quản lý nhiên liệu hạt nhân, người phụ trách an toàn."
+    },
+    {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Công tác thông tin đại chúng",
+        "text": "Bộ Công thương chủ trì, phối hợp với Bộ Khoa học và Công nghệ, Bộ Thông tin và Truyền thông, Ủy ban nhân dân cấp tỉnh nơi có nhà máy điện hạt nhân và tổ chức có nhà máy điện hạt nhân tổ chức thực hiện các quy định sau đây:"
     },
     {
         "id": "Điều 57.1",
@@ -3050,6 +3106,13 @@
         "clause": "5",
         "title": "Trách nhiệm của các tổ chức, cá nhân trong vận chuyển",
         "text": "Tổ chức, cá nhân liên quan đến việc vận chuyển phải thực hiện kế hoạch bảo đảm an toàn, an ninh và ứng phó sự cố quy định tại Điều 62 của Luật này."
+    },
+    {
+        "id": "Điều 64.0",
+        "article": "Điều 64",
+        "clause": "0",
+        "title": "Kiểm soát an toàn đối với vận chuyển quá cảnh vật liệu phóng xạ và hoạt động của tàu biển, phương tiện khác có động cơ chạy bằng năng lượng hạt nhân",
+        "text": "Việc vận chuyển vật liệu phóng xạ quá cảnh lãnh thổ Việt Nam, hoạt động của tàu biển, phương tiện khác có động cơ chạy bằng năng lượng hạt nhân trên lãnh thổ Việt Nam phải được Thủ tướng Chính phủ cho phép và phải chịu sự giám sát của cơ quan quản lý nhà nước có thẩm quyền. Mục 2. NHẬP KHẨU VÀ XUẤT KHẨU"
     },
     {
         "id": "Điều 65.1",
@@ -4445,6 +4508,13 @@
         "text": "Cơ quan thông tin đại chúng đưa tin về sự cố bức xạ, sự cố hạt nhân phải bảo đảm tính trung thực, khách quan và chịu trách nhiệm theo quy định của pháp luật về báo chí."
     },
     {
+        "id": "Điều 86.0",
+        "article": "Điều 86",
+        "clause": "0",
+        "title": "Ứng phó sự cố bức xạ, sự cố hạt nhân khi có tình trạng khẩn cấp",
+        "text": "Trong trường hợp xảy ra tình huống đặc biệt nghiêm trọng, gây thảm họa lớn, việc ban bố tình trạng khẩn cấp và chỉ đạo ứng phó sự cố được thực hiện theo pháp luật về tình trạng khẩn cấp. Mục 2. BỒI THƯỜNG THIỆT HẠI"
+    },
+    {
         "id": "Điều 87.1",
         "article": "Điều 87",
         "clause": "1",
@@ -4597,5 +4667,19 @@
         "clause": "3",
         "title": "Quỹ hỗ trợ khắc phục thiệt hại hạt nhân",
         "text": "Thủ tướng Chính phủ quy định cụ thể về quỹ hỗ trợ khắc phục thiệt hại hạt nhân. Chương 11. ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 92.0",
+        "article": "Điều 92",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2009. Bãi bỏ Pháp lệnh an toàn và kiểm soát bức xạ ngày 25 tháng 6 năm 1996."
+    },
+    {
+        "id": "Điều 93.0",
+        "article": "Điều 93",
+        "clause": "0",
+        "title": "Hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết các điều 65, 80, 82, 90 và những nội dung cần thiết khác của Luật này theo yêu cầu quản lý. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 3 thông qua ngày 03 tháng 6 năm 2008. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về đối tượng cảnh vệ, nguyên tắc, công tác cảnh vệ; biện pháp, chế độ cảnh vệ; nhiệm vụ, quyền hạn, trách nhiệm của lực lượng Cảnh vệ; trách nhiệm của cơ quan, tổ chức, cá nhân đối với công tác cảnh vệ; chế độ, chính sách đối với lực lượng Cảnh vệ và cơ quan, tổ chức, cá nhân liên quan đến công tác cảnh vệ."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với đối tượng cảnh vệ, lực lượng Cảnh vệ, cơ quan, tổ chức, công dân Việt Nam và tổ chức, cá nhân nước ngoài cư trú, hoạt động trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam liên quan đến hoạt động cảnh vệ."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -40,6 +61,13 @@
         "clause": "6",
         "title": "Giải thích từ ngữ",
         "text": "Cán bộ, chiến sĩ cảnh vệ bao gồm: sĩ quan, hạ sĩ quan, chiến sĩ cảnh vệ thuộc Bộ Công an; sĩ quan, quân nhân chuyên nghiệp, hạ sĩ quan, binh sĩ cảnh vệ thuộc Bộ Quốc phòng."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Vị trí, chức năng của lực lượng Cảnh vệ",
+        "text": "Lực lượng Cảnh vệ là lực lượng chuyên trách bảo vệ an ninh quốc gia thuộc Bộ Công an và Bộ Quốc phòng có chức năng thực hiện công tác cảnh vệ để bảo đảm an toàn tuyệt đối cho đối tượng cảnh vệ."
     },
     {
         "id": "Điều 5.1",
@@ -700,6 +728,13 @@
         "text": "Biện pháp nghiệp vụ khác theo quy định của Luật An ninh quốc gia và Luật Công an nhân dân."
     },
     {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Quyền và trách nhiệm của người là đối tượng cảnh vệ",
+        "text": "Người là đối tượng cảnh vệ quy định tại khoản 1 và khoản 2 Điều 10 của Luật này có quyền và trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 15.1",
         "article": "Điều 15",
         "clause": "1",
@@ -1008,6 +1043,13 @@
         "text": "Việc quyết định áp dụng, sử dụng biện pháp quy định tại khoản 1, khoản 2 và điểm e khoản 3 Điều này phải bằng văn bản; trường hợp do yêu cầu cấp bách thì người thực hiện nhiệm vụ có thể quyết định bằng lời nói trực tiếp, nhưng ngay sau đó phải ra quyết định hoặc báo cáo cấp có thẩm quyền bằng văn bản. Người ra quyết định phải chịu trách nhiệm trước pháp luật về quyết định của mình."
     },
     {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Quy định nổ súng khi thi hành nhiệm vụ",
+        "text": "Cán bộ, chiến sĩ cảnh vệ trong khi thi hành nhiệm vụ chỉ được nổ súng trong các trường hợp sau đây nhưng phải tuân thủ các nguyên tắc sử dụng vũ khí quân dụng quy định tại Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ:"
+    },
+    {
         "id": "Điều 21.1",
         "article": "Điều 21",
         "clause": "1",
@@ -1048,6 +1090,13 @@
         "clause": "2",
         "title": "Huy động người, phương tiện để thực hiện công tác cảnh vệ",
         "text": "Cán bộ, chiến sĩ cảnh vệ huy động người, phương tiện có trách nhiệm hoàn trả phương tiện ngay sau khi trường hợp cấp bách chấm dứt. Nếu người được huy động làm nhiệm vụ mà bị thiệt hại thì được hưởng chế độ, chính sách quy định tại khoản 2 Điều 7 của Luật này; trường hợp phương tiện được huy động bị mất mát, hư hỏng thì cơ quan có cán bộ, chiến sĩ huy động phải đền bù theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Chế độ, chính sách đối với cán bộ, chiến sĩ cảnh vệ",
+        "text": "Cán bộ, chiến sĩ cảnh vệ được hưởng chế độ, chính sách theo quy định của pháp luật và được hưởng phụ cấp đặc thù, trợ cấp, hỗ trợ theo quy định của Chính phủ. Chương IV TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN ĐỐI VỚI CÔNG TÁC CẢNH VỆ"
     },
     {
         "id": "Điều 24.1",
@@ -1293,5 +1342,12 @@
         "clause": "2",
         "title": "Xử lý vi phạm",
         "text": "Cơ quan, tổ chức, cá nhân có hành vi chống đối, cản trở hoạt động của lực lượng Cảnh vệ và cơ quan, tổ chức, cá nhân khi tham gia, phối hợp thực hiện công tác cảnh vệ hoặc hành vi vi phạm khác thì tùy tính chất, mức độ vi phạm bị xử lý theo quy định của pháp luật. Chương VI ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2018. Pháp lệnh Cảnh vệ số 25/2005/PL-UBTVQH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 20 tháng 6 năm 2017. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

@@ -36,6 +36,11 @@
             "title": "Giải thích từ ngữ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong Luật này các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tài nguyên nước bao gồm nguồn nước mặt, nước dưới đất, nước mưa và nước biển thuộc lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
                     "sub_clauses": []
@@ -72,7 +77,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Lưu vực sông là vùng đất mà trong phạm vi đó nước mặt, nước dưới đất chảy tự nhiên vào sông và thoát ra một cửa chung hoặc thoát ra biển.",
+                    "text": "Lưu vực sông là vùng đất mà trong phạm vi đó nước mặt, nước dưới đất chảy tự nhiên vào sông và thoát ra một cửa chung hoặc thoát ra biển. Lưu vực sông gồm có lưu vực sông liên tỉnh và lưu vực sông nội tỉnh.",
                     "sub_clauses": []
                 },
                 {
@@ -427,7 +432,7 @@
                 },
                 {
                     "number": "10",
-                    "text": "Xây dựng hồ chứa, đập, công trình khai thác nước trái quy hoạch tài nguyên nước.",
+                    "text": "Xây dựng hồ chứa, đập, công trình khai thác nước trái quy hoạch tài nguyên nước. CHƯƠNG II ĐIỀU TRA CƠ BẢN, CHIẾN LƯỢC, QUY HOẠCH TÀI NGUYÊN NƯỚC Mục 1 ĐIỀU TRA CƠ BẢN TÀI NGUYÊN NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -438,7 +443,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Điều tra cơ bản tài nguyên nước phải được thực hiện theo quy hoạch, kế hoạch đã được cấp có thẩm quyền phê duyệt.",
+                    "text": "Điều tra cơ bản tài nguyên nước phải được thực hiện theo quy hoạch, kế hoạch đã được cấp có thẩm quyền phê duyệt. Kinh phí cho điều tra cơ bản tài nguyên nước được bố trí trong dự toán ngân sách nhà nước hằng năm.",
                     "sub_clauses": []
                 },
                 {
@@ -639,7 +644,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định cụ thể việc điều tra cơ bản tài nguyên nước.",
+                    "text": "Chính phủ quy định cụ thể việc điều tra cơ bản tài nguyên nước. Mục 2 CHIẾN LƯỢC, QUY HOẠCH TÀI NGUYÊN NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -853,6 +858,11 @@
             "id": "Điều 19",
             "title": "Nội dung của quy hoạch tài nguyên nước lưu vực sông liên tỉnh, nguồn nước liên tỉnh và quy hoạch tài nguyên nước của tỉnh, thành phố trực thuộc trung ương",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Quy hoạch tài nguyên nước bao gồm một hoặc các nội dung sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Phân bổ nguồn nước:",
@@ -1134,7 +1144,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Bộ Tài nguyên và Môi trường có trách nhiệm hướng dẫn, kiểm tra và tổ chức thực hiện quy hoạch tài nguyên nước.",
+                    "text": "Bộ Tài nguyên và Môi trường có trách nhiệm hướng dẫn, kiểm tra và tổ chức thực hiện quy hoạch tài nguyên nước. CHƯƠNG III BẢO VỆ TÀI NGUYÊN NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -1176,7 +1186,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Không xây dựng mới các bệnh viện, cơ sở y tế điều trị bệnh truyền nhiễm, nghĩa trang, bãi chôn lấp chất thải, cơ sở sản xuất hóa chất độc hại, cơ sở sản xuất, chế biến có nước thải nguy hại trong hành lang bảo vệ nguồn nước.",
+                    "text": "Không xây dựng mới các bệnh viện, cơ sở y tế điều trị bệnh truyền nhiễm, nghĩa trang, bãi chôn lấp chất thải, cơ sở sản xuất hóa chất độc hại, cơ sở sản xuất, chế biến có nước thải nguy hại trong hành lang bảo vệ nguồn nước. Đối với cơ sở đang hoạt động thì phải có biện pháp xử lý, kiểm soát, giám sát chặt chẽ chất lượng nước thải, chất thải trước khi thải ra đất, nguồn nước; cơ sở đang hoạt động gây ô nhiễm nguồn nước phải có giải pháp để khắc phục trong thời hạn do cơ quan thực hiện nhiệm vụ quản lý nhà nước về tài nguyên nước có thẩm quyền quy định; trường hợp không khắc phục được thì bị đình chỉ hoạt động hoặc di dời theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -1325,7 +1335,13 @@
         {
             "id": "Điều 30",
             "title": "Bảo đảm sự lưu thông của dòng chảy",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc khai thác khoáng sản, xây dựng cầu, bến tàu hoặc công trình khác ngăn, vượt sông, suối, kênh, rạch; đặt đường ống hoặc dây cáp bắc qua sông, suối, kênh, rạch, đặt lồng bè trên sông không được cản trở dòng chảy và phù hợp với tiêu chuẩn phòng, chống lũ, các yêu cầu kỹ thuật liên quan khác theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 31",
@@ -1446,7 +1462,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tổ chức, cá nhân hoạt động trên biển phải có phương án, trang thiết bị, nhân lực bảo đảm phòng ngừa, hạn chế ô nhiễm nước biển.",
+                    "text": "Tổ chức, cá nhân hoạt động trên biển phải có phương án, trang thiết bị, nhân lực bảo đảm phòng ngừa, hạn chế ô nhiễm nước biển. Trường hợp để xảy ra sự cố gây ô nhiễm nước biển phải kịp thời xử lý, khắc phục sự cố và phải thông báo ngay tới cơ quan nhà nước có thẩm quyền; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -1573,7 +1589,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức, cá nhân được cấp giấy phép xả nước thải vào nguồn nước có các nghĩa vụ sau đây:",
+                    "text": "Tổ chức, cá nhân được cấp giấy phép xả nước thải vào nguồn nước có các nghĩa vụ sau đây: CHƯƠNG IV KHAI THÁC, SỬ DỤNG TÀI NGUYÊN NƯỚC Mục 1 SỬ DỤNG NƯỚC TIẾT KIỆM, HIỆU QUẢ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1719,7 +1735,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Hoạt động nghiên cứu khoa học, ứng dụng và phát triển công nghệ nhằm sử dụng nước tiết kiệm và hiệu quả được ưu tiên bao gồm:",
+                    "text": "Hoạt động nghiên cứu khoa học, ứng dụng và phát triển công nghệ nhằm sử dụng nước tiết kiệm và hiệu quả được ưu tiên bao gồm: Mục 2 KHAI THÁC, SỬ DỤNG TÀI NGUYÊN NƯỚC",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2014,7 +2030,13 @@
         {
             "id": "Điều 51",
             "title": "Khai thác, sử dụng tài nguyên nước cho các mục đích khác",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân khai thác, sử dụng tài nguyên nước cho các hoạt động nghiên cứu khoa học, y tế, thể thao, giải trí, du lịch và các mục đích khác phải sử dụng nước hợp lý, tiết kiệm, hiệu quả, không được gây ô nhiễm, suy thoái, cạn kiệt nguồn nước, cản trở dòng chảy và các ảnh hưởng xấu khác đến nguồn nước.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 52",
@@ -2144,7 +2166,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tổ chức, cá nhân quản lý, vận hành hồ chứa có trách nhiệm:",
+                    "text": "Tổ chức, cá nhân quản lý, vận hành hồ chứa có trách nhiệm: Mục 3 ĐIỀU HÒA, PHÂN PHỐI TÀI NGUYÊN NƯỚC",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2268,7 +2290,13 @@
         {
             "id": "Điều 57",
             "title": "Gây mưa nhân tạo",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc gây mưa nhân tạo phải căn cứ vào nhu cầu về nước của vùng thiếu nước và điều kiện cho phép để quyết định biện pháp, quy mô hợp lý và phải được phép của cơ quan nhà nước có thẩm quyền. CHƯƠNG V PHÒNG, CHỐNG VÀ KHẮC PHỤC HẬU QUẢ TÁC HẠI DO NƯỚC GÂY RA",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 58",
@@ -2294,7 +2322,13 @@
         {
             "id": "Điều 59",
             "title": "Phòng, chống và khắc phục hậu quả tác hại của nước do thiên tai gây ra",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc phòng, chống và khắc phục hậu quả tác hại của lũ, lụt, nước biển dâng, mưa đá, mưa axít và các tác hại khác của nước do thiên tai gây ra được thực hiện theo quy định của pháp luật về đê điều, phòng, chống lụt, bão và các quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 60",
@@ -2341,7 +2375,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Hồ, ao, đầm, phá không được san lấp để phòng, chống ngập, úng và bảo vệ nguồn nước.",
+                    "text": "Hồ, ao, đầm, phá không được san lấp để phòng, chống ngập, úng và bảo vệ nguồn nước. Ủy ban nhân dân cấp tỉnh công bố danh mục hồ, ao, đầm, phá không được san lấp trong phạm vi địa phương. Bộ Tài nguyên và Môi trường công bố danh mục hồ, ao, đầm, phá không được san lấp nằm trên địa bàn từ hai tỉnh, thành phố trực thuộc trung ương trở lên.",
                     "sub_clauses": []
                 }
             ]
@@ -2383,7 +2417,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức, cá nhân thăm dò, khai thác nước dưới đất phải thực hiện các biện pháp quy định trong giấy phép, tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật về an toàn kỹ thuật bảo đảm không gây sụt, lún đất.",
+                    "text": "Tổ chức, cá nhân thăm dò, khai thác nước dưới đất phải thực hiện các biện pháp quy định trong giấy phép, tuân thủ tiêu chuẩn, quy chuẩn kỹ thuật về an toàn kỹ thuật bảo đảm không gây sụt, lún đất. Trường hợp xảy ra sụt, lún đất thì phải dừng việc thăm dò, khai thác, đồng thời thực hiện các biện pháp khắc phục và báo ngay cho chính quyền địa phương nơi gần nhất.",
                     "sub_clauses": []
                 },
                 {
@@ -2409,7 +2443,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Đối với những dòng sông, đoạn sông bị sạt, lở hoặc có nguy cơ bị sạt, lở bờ, bãi sông, cơ quan thực hiện nhiệm vụ quản lý nhà nước về tài nguyên nước cấp tỉnh có trách nhiệm xác định nguyên nhân gây sạt, lở, đề xuất các giải pháp để ngăn ngừa, khắc phục và báo cáo Ủy ban nhân dân cấp tỉnh xem xét, khoanh định khu vực cấm, khu vực tạm thời cấm khai thác cát, sỏi và các khoáng sản khác.",
+                    "text": "Đối với những dòng sông, đoạn sông bị sạt, lở hoặc có nguy cơ bị sạt, lở bờ, bãi sông, cơ quan thực hiện nhiệm vụ quản lý nhà nước về tài nguyên nước cấp tỉnh có trách nhiệm xác định nguyên nhân gây sạt, lở, đề xuất các giải pháp để ngăn ngừa, khắc phục và báo cáo Ủy ban nhân dân cấp tỉnh xem xét, khoanh định khu vực cấm, khu vực tạm thời cấm khai thác cát, sỏi và các khoáng sản khác. Trường hợp khu vực bị sạt, lở hoặc có nguy cơ bị sạt, lở bờ, bãi sông nằm giữa hai tỉnh, thành phố trực thuộc trung ương thì Ủy ban nhân dân cấp tỉnh có liên quan kiến nghị cơ quan nhà nước có thẩm quyền phê duyệt khu vực cấm, khu vực tạm thời cấm khai thác cát, sỏi và các khoáng sản khác.",
                     "sub_clauses": []
                 },
                 {
@@ -2424,7 +2458,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Ủy ban nhân dân các cấp có trách nhiệm thực hiện các biện pháp bảo vệ lòng, bờ, bãi sông trên địa bàn.",
+                    "text": "Ủy ban nhân dân các cấp có trách nhiệm thực hiện các biện pháp bảo vệ lòng, bờ, bãi sông trên địa bàn. CHƯƠNG VI TÀI CHÍNH VỀ TÀI NGUYÊN NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -2484,7 +2518,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định cụ thể các trường hợp khai thác tài nguyên nước phải nộp tiền cấp quyền khai thác tài nguyên nước, phương pháp tính, mức thu tiền cấp quyền khai thác tài nguyên nước.",
+                    "text": "Chính phủ quy định cụ thể các trường hợp khai thác tài nguyên nước phải nộp tiền cấp quyền khai thác tài nguyên nước, phương pháp tính, mức thu tiền cấp quyền khai thác tài nguyên nước. CHƯƠNG VII QUAN HỆ QUỐC TẾ VỀ TÀI NGUYÊN NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -2493,6 +2527,11 @@
             "id": "Điều 66",
             "title": "Nguyên tắc áp dụng trong quan hệ quốc tế về tài nguyên nước",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước Việt Nam áp dụng những nguyên tắc sau đây trong việc điều tra cơ bản, bảo vệ, khai thác, sử dụng nguồn nước liên quốc gia, phòng, chống và khắc phục hậu quả tác hại do nước gây ra, hợp tác quốc tế và giải quyết tranh chấp về nguồn nước liên quốc gia:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ và lợi ích của các nước có chung nguồn nước;",
@@ -2562,13 +2601,18 @@
             "title": "Giải quyết tranh chấp, bất đồng về nguồn nước liên quốc gia",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Khi giải quyết tranh chấp, bất đồng về nguồn nước liên quốc gia có liên quan đến các nước trong lưu vực sông, các vùng biển thuộc chủ quyền ngoài việc áp dụng những nguyên tắc quy định tại Điều 66 của Luật này, còn phải tuân theo những quy định sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Mọi tranh chấp, bất đồng về chủ quyền trong việc điều tra cơ bản, bảo vệ, khai thác, sử dụng nguồn nước liên quốc gia; phòng, chống và khắc phục hậu quả tác hại do nước gây ra giữa các nước có chung nguồn nước trong đó có Việt Nam được giải quyết trên cơ sở thương lượng, phù hợp với điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên và thông lệ quốc tế.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Mọi tranh chấp, bất đồng về nguồn nước liên quốc gia xảy ra trong lưu vực sông có tổ chức lưu vực sông quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam tham gia được giải quyết trong khuôn khổ tổ chức lưu vực sông quốc tế theo quy định của điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên.",
+                    "text": "Mọi tranh chấp, bất đồng về nguồn nước liên quốc gia xảy ra trong lưu vực sông có tổ chức lưu vực sông quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam tham gia được giải quyết trong khuôn khổ tổ chức lưu vực sông quốc tế theo quy định của điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên. CHƯƠNG VIII TRÁCH NHIỆM QUẢN LÝ TÀI NGUYÊN NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -2803,7 +2847,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thủ tướng Chính phủ quy định nhiệm vụ, quyền hạn của Hội đồng quốc gia về tài nguyên nước.",
+                    "text": "Thủ tướng Chính phủ quy định nhiệm vụ, quyền hạn của Hội đồng quốc gia về tài nguyên nước. CHƯƠNG IX THANH TRA CHUYÊN NGÀNH TÀI NGUYÊN NƯỚC, GIẢI QUYẾT TRANH CHẤP VỀ TÀI NGUYÊN NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -2885,7 +2929,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Yêu cầu về bồi thường thiệt hại liên quan đến giải quyết tranh chấp về tài nguyên nước được thực hiện theo quy định của pháp luật về dân sự và pháp luật về trách nhiệm bồi thường của nhà nước.",
+                    "text": "Yêu cầu về bồi thường thiệt hại liên quan đến giải quyết tranh chấp về tài nguyên nước được thực hiện theo quy định của pháp luật về dân sự và pháp luật về trách nhiệm bồi thường của nhà nước. CHƯƠNG X ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2894,6 +2938,11 @@
             "id": "Điều 77",
             "title": "Điều khoản chuyển tiếp",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Kể từ ngày Luật này có hiệu lực, việc hành nghề khoan nước dưới đất, thăm dò, khai thác, sử dụng tài nguyên nước, xả nước thải vào nguồn nước được thực hiện như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tổ chức, cá nhân được cấp giấy phép theo quy định của Luật tài nguyên nước số 08/1998/QH10 thì được tiếp tục thực hiện đến hết thời hạn ghi trong giấy phép.",
@@ -2909,12 +2958,24 @@
         {
             "id": "Điều 78",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2013. Luật tài nguyên nước số 08/1998/QH10 hết hiệu lực kể từ ngày Luật này có hiệu lực.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 79",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 3 thông qua ngày 21 tháng 6 năm 2012. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": []

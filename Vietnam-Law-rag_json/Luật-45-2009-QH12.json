@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về đối tượng chịu thuế, người nộp thuế, căn cứ tính thuế, kê khai thuế, nộp thuế, miễn thuế, giảm thuế tài nguyên."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -96,6 +103,13 @@
         "clause": "2c",
         "title": "Người nộp thuế",
         "text": "Tổ chức, cá nhân khai thác tài nguyên nhỏ, lẻ bán cho tổ chức, cá nhân làm đầu mối thu mua và tổ chức, cá nhân làm đầu mối thu mua cam kết chấp thuận bằng văn bản về việc kê khai, nộp thuế thay cho tổ chức, cá nhân khai thác thì tổ chức, cá nhân làm đầu mối thu mua là người nộp thuế."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Căn cứ tính thuế",
+        "text": "Căn cứ tính thuế tài nguyên là sản lượng tài nguyên tính thuế, giá tính thuế và thuế suất."
     },
     {
         "id": "Điều 5.1",
@@ -266,6 +280,13 @@
         "text": "Góp phần bảo đảm nguồn thu ngân sách nhà nước và bình ổn thị trường."
     },
     {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Kê khai, nộp thuế",
+        "text": "Người nộp thuế tài nguyên thực hiện đăng ký, kê khai, tính và nộp thuế theo quy định của pháp luật về quản lý thuế."
+    },
+    {
         "id": "Điều 9.1",
         "article": "Điều 9",
         "clause": "1",
@@ -348,5 +369,12 @@
         "clause": "3",
         "title": "Hiệu lực thi hành",
         "text": "Đối với dự án đầu tư hoặc hợp đồng dầu khí đã được ký kết trước ngày 01 tháng 7 năm 2010 mà trong Giấy phép đầu tư, Giấy chứng nhận đầu tư hoặc hợp đồng dầu khí có quy định về thuế tài nguyên thì thực hiện theo quy định tại Giấy phép đầu tư, Giấy chứng nhận đầu tư hoặc hợp đồng dầu khí đã ký kết. Trường hợp ưu đãi về thuế tài nguyên quy định tại Giấy phép đầu tư, Giấy chứng nhận đầu tư hoặc hợp đồng dầu khí thấp hơn ưu đãi về thuế tài nguyên quy định tại Luật này thì áp dụng ưu đãi về thuế theo quy định của Luật này cho thời gian còn lại."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 6 thông qua ngày 25 tháng 11 năm 2009. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

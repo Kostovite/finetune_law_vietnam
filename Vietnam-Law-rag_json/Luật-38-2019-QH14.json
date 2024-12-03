@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định việc quản lý các loại thuế, các khoản thu khác thuộc ngân sách nhà nước."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -61,6 +68,13 @@
         "clause": "4",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan nhà nước, tổ chức, cá nhân khác có liên quan."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -768,6 +782,13 @@
         "clause": "3",
         "title": "Hiện đại hóa công tác quản lý thuế",
         "text": "Cơ quan quản lý thuế xây dựng hệ thống công nghệ thông tin đáp ứng yêu cầu hiện đại hóa công tác quản lý thuế, tiêu chuẩn kỹ thuật, định dạng dữ liệu về hóa đơn, chứng từ điện tử, hồ sơ thuế để thực hiện giao dịch điện tử giữa người nộp thuế với cơ quan quản lý thuế và giữa cơ quan quản lý thuế với cơ quan, tổ chức, cá nhân có liên quan."
+    },
+    {
+        "id": "Điều 12.0",
+        "article": "Điều 12",
+        "clause": "0",
+        "title": "Hợp tác quốc tế về thuế của cơ quan quản lý thuế",
+        "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, cơ quan quản lý thuế có trách nhiệm sau đây:"
     },
     {
         "id": "Điều 12.1",
@@ -1524,6 +1545,13 @@
         "clause": "2b",
         "title": "Nhiệm vụ, quyền hạn của Thanh tra nhà nước",
         "text": "Trường hợp Thanh tra nhà nước không trực tiếp thanh tra đối với người nộp thuế mà thực hiện thanh tra tại cơ quan quản lý thuế có nội dung kiến nghị nêu trong kết luận thanh tra liên quan đến nghĩa vụ thuế của người nộp thuế thì Thanh tra nhà nước gửi bản trích sao có kết luận liên quan đến nghĩa vụ thuế cho người nộp thuế để thực hiện. Cơ quan quản lý thuế có trách nhiệm tổ chức thực hiện kết luận của Thanh tra nhà nước. Trường hợp người nộp thuế không đồng ý với nghĩa vụ thuế phải nộp thì người nộp thuế có văn bản đề nghị cơ quan quản lý thuế, Thanh tra nhà nước xem xét lại nghĩa vụ thuế phải nộp. Căn cứ đề nghị của người nộp thuế, Thanh tra nhà nước chủ trì, phối hợp với cơ quan quản lý thuế thực hiện việc xác định chính xác nghĩa vụ thuế của người nộp thuế và chịu trách nhiệm theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của cơ quan điều tra, Viện kiểm sát, Tòa án",
+        "text": "Cơ quan điều tra, Viện kiểm sát, Tòa án, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm tiếp nhận, xử lý, giải quyết tin báo, tố giác tội phạm và kiến nghị khởi tố, khởi tố, điều tra, truy tố, xét xử kịp thời, nghiêm minh tội phạm trong lĩnh vực thuế theo quy định của pháp luật và thông báo kết quả xử lý cho cơ quan quản lý thuế."
     },
     {
         "id": "Điều 24.1",
@@ -3255,6 +3283,13 @@
         "text": "Trường hợp số tiền thuế ấn định của cơ quan quản lý thuế nhỏ hơn số tiền thuế phải nộp theo quyết định giải quyết khiếu nại của cơ quan có thẩm quyền hoặc bản án, quyết định của Tòa án thì người nộp thuế có trách nhiệm nộp bổ sung. Cơ quan quản lý thuế chịu trách nhiệm về việc ấn định thuế."
     },
     {
+        "id": "Điều 54.0",
+        "article": "Điều 54",
+        "clause": "0",
+        "title": "Trách nhiệm của người nộp thuế trong việc nộp số tiền thuế ấn định",
+        "text": "Người nộp thuế phải nộp số tiền thuế ấn định theo quyết định xử lý về thuế của cơ quan quản lý thuế; trường hợp không đồng ý với số tiền thuế do cơ quan quản lý thuế ấn định thì người nộp thuế vẫn phải nộp số tiền thuế đó, đồng thời có quyền đề nghị cơ quan quản lý thuế giải thích hoặc khiếu nại, khởi kiện về việc ấn định thuế. Người nộp thuế có trách nhiệm cung cấp các hồ sơ, tài liệu để chứng minh cho việc khiếu nại, khởi kiện. Chương VI NỘP THUẾ"
+    },
+    {
         "id": "Điều 55.1",
         "article": "Điều 55",
         "clause": "1",
@@ -3680,6 +3715,13 @@
         "clause": "5",
         "title": "Gia hạn nộp thuế",
         "text": "Thủ trưởng cơ quan quản lý thuế quản lý trực tiếp căn cứ hồ sơ gia hạn nộp thuế để quyết định số tiền thuế được gia hạn, thời gian gia hạn nộp thuế."
+    },
+    {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": "Gia hạn nộp thuế trong trường hợp đặc biệt",
+        "text": "Chính phủ quyết định việc gia hạn nộp thuế cho các đối tượng, ngành, nghề kinh doanh gặp khó khăn đặc biệt trong từng thời kỳ nhất định. Việc gia hạn nộp thuế không dẫn đến điều chỉnh dự toán thu ngân sách nhà nước đã được Quốc hội quyết định."
     },
     {
         "id": "Điều 64.1",
@@ -5115,6 +5157,13 @@
         "clause": "5",
         "title": "Chứng chỉ hành nghề dịch vụ làm thủ tục về thuế",
         "text": "Bộ trưởng Bộ Tài chính quy định về việc tổ chức thi, điều kiện miễn môn thi; thủ tục cấp, thu hồi chứng chỉ hành nghề dịch vụ làm thủ tục về thuế; việc cập nhật kiến thức của nhân viên đại lý thuế."
+    },
+    {
+        "id": "Điều 106.0",
+        "article": "Điều 106",
+        "clause": "0",
+        "title": "Tổ chức kinh doanh dịch vụ làm thủ tục hải quan",
+        "text": "Tổ chức kinh doanh dịch vụ làm thủ tục hải quan (sau đây gọi là đại lý làm thủ tục hải quan) thực hiện theo quy định của pháp luật về hải quan. Chương XIII KIỂM TRA THUẾ, THANH TRA THUẾ Mục 1 QUY ĐỊNH CHUNG VỀ KIỂM TRA THUẾ, THANH TRA THUẾ"
     },
     {
         "id": "Điều 107.1",
@@ -7210,6 +7259,13 @@
         "text": "Tổ chức, cá nhân khác có liên quan đến việc thực hiện pháp luật về thuế quy định tại khoản 4 Điều 2 của Luật này không thực hiện trách nhiệm của mình theo quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự theo quy định của pháp luật."
     },
     {
+        "id": "Điều 146.0",
+        "article": "Điều 146",
+        "clause": "0",
+        "title": "Xử phạt vi phạm hành chính về phí, lệ phí, hóa đơn trong lĩnh vực quản lý thuế",
+        "text": "Việc xử phạt vi phạm hành chính về phí, lệ phí, hóa đơn trong lĩnh vực quản lý thuế thực hiện theo quy định của Chính phủ. Chương XVI KHIẾU NẠI, TỐ CÁO, KHỞI KIỆN"
+    },
+    {
         "id": "Điều 147.1",
         "article": "Điều 147",
         "clause": "1",
@@ -7231,6 +7287,13 @@
         "text": "Thẩm quyền, trình tự, thủ tục giải quyết khiếu nại, tố cáo được thực hiện theo quy định của pháp luật về khiếu nại, tố cáo."
     },
     {
+        "id": "Điều 148.0",
+        "article": "Điều 148",
+        "clause": "0",
+        "title": "Khởi kiện",
+        "text": "Việc khởi kiện quyết định hành chính, hành vi hành chính của cơ quan quản lý thuế, công chức quản lý thuế được thực hiện theo quy định của pháp luật về tố tụng hành chính."
+    },
+    {
         "id": "Điều 149.1",
         "article": "Điều 149",
         "clause": "1",
@@ -7250,6 +7313,13 @@
         "clause": "3",
         "title": "Trách nhiệm và quyền hạn của cơ quan quản lý thuế trong việc giải quyết khiếu nại về thuế",
         "text": "Đối với vụ việc khiếu nại phức tạp, thủ trưởng cơ quan quản lý thuế là người giải quyết khiếu nại thực hiện tham vấn các cơ quan, tổ chức có liên quan, bao gồm cả khiếu nại lần đầu. Khi thực hiện việc tham vấn, thủ trưởng cơ quan quản lý thuế phải ban hành quyết định thành lập Hội đồng tham vấn. Hội đồng tham vấn hoạt động theo nguyên tắc biểu quyết theo đa số. Kết quả biểu quyết là cơ sở để thủ trưởng cơ quan quản lý thuế tham khảo khi ra quyết định xử lý khiếu nại. Thủ trưởng cơ quan quản lý thuế là người ra quyết định và chịu trách nhiệm về quyết định xử lý khiếu nại. Chương XVII ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 150.0",
+        "article": "Điều 150",
+        "clause": "0",
+        "title": "Bổ sung một điều vào Luật Kế toán số 88/2015/QH13",
+        "text": "Bổ sung Điều 70a vào sau Điều 70 trong Chương IV như sau: “Điều 70a. Cung cấp dịch vụ kế toán của tổ chức kinh doanh dịch vụ làm thủ tục về thuế Tổ chức kinh doanh dịch vụ làm thủ tục về thuế được cung cấp dịch vụ kế toán cho doanh nghiệp siêu nhỏ khi có ít nhất một người có chứng chỉ kế toán viên.”."
     },
     {
         "id": "Điều 151.1",
@@ -7291,6 +7361,6 @@
         "article": "Điều 152",
         "clause": "2",
         "title": "Quy định chuyển tiếp",
-        "text": "Đối với các khoản tiền thuế nợ đến hết ngày 30 tháng 6 năm 2020 thì được xử lý theo quy định của Luật này, trừ trường hợp quy định tại khoản 1 Điều này. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 13 tháng 6 năm 2019."
+        "text": "Đối với các khoản tiền thuế nợ đến hết ngày 30 tháng 6 năm 2020 thì được xử lý theo quy định của Luật này, trừ trường hợp quy định tại khoản 1 Điều này. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 13 tháng 6 năm 2019. CHỦ TỊCH QUỐC HỘI (đã ký) Nguyễn Thị Kim Ngân"
     }
 ]

@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về nguyên tắc tổ chức điều tra hình sự; tổ chức bộ máy, nhiệm vụ, quyền hạn của Cơ quan điều tra; nhiệm vụ, quyền hạn của cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra; Điều tra viên và các chức danh khác trong điều tra hình sự; quan hệ phân công, phối hợp và kiểm soát trong hoạt động điều tra hình sự; bảo đảm điều kiện cho hoạt động điều tra hình sự và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -189,6 +196,13 @@
         "text": "Các cơ quan khác trong Quân đội nhân dân được giao nhiệm vụ tiến hành một số hoạt động điều tra gồm có Trại giam, đơn vị độc lập cấp trung đoàn và tương đương."
     },
     {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra",
+        "text": "Cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra khi thực hiện nhiệm vụ trong lĩnh vực quản lý của mình mà tiếp nhận tố giác, tin báo về tội phạm hoặc phát hiện hành vi phạm tội đến mức phải truy cứu trách nhiệm hình sự thì tiến hành các hoạt động kiểm tra, xác minh và điều tra theo quy định của Bộ luật tố tụng hình sự và Luật này."
+    },
+    {
         "id": "Điều 11.1",
         "article": "Điều 11",
         "clause": "1",
@@ -222,6 +236,13 @@
         "clause": "3",
         "title": "Trách nhiệm của cơ quan, tổ chức và cá nhân trong hoạt động điều tra hình sự",
         "text": "Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra có trách nhiệm tiếp nhận, xem xét, giải quyết tố giác, tin báo về tội phạm, kiến nghị khởi tố; thông báo kết quả giải quyết cho cơ quan, tổ chức, cá nhân đã kiến nghị, tố giác, báo tin về tội phạm và phải áp dụng các biện pháp cần thiết để bảo vệ người đã tố giác tội phạm."
+    },
+    {
+        "id": "Điều 13.0",
+        "article": "Điều 13",
+        "clause": "0",
+        "title": "Giám sát của cơ quan, tổ chức, đại biểu dân cử đối với hoạt động điều tra hình sự",
+        "text": "Quốc hội, các cơ quan của Quốc hội, Đoàn đại biểu Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, đại biểu Hội đồng nhân dân, Uỷ ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận giám sát hoạt động điều tra của Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra, người có thẩm quyền điều tra hình sự theo quy định của pháp luật. Trong phạm vi trách nhiệm của mình, Cơ quan điều tra, cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra phải xem xét, giải quyết và thông báo kết quả giải quyết cho cơ quan, tổ chức, cá nhân đã yêu cầu, kiến nghị theo quy định của pháp luật."
     },
     {
         "id": "Điều 14.1",
@@ -1288,6 +1309,13 @@
         "text": "Các đơn vị Cảnh sát nhân dân, An ninh nhân dân, Kiểm soát quân sự có trách nhiệm hỗ trợ và thực hiện yêu cầu của Thủ trưởng, Phó Thủ trưởng Cơ quan điều tra, Điều tra viên và của Thủ trưởng, Phó Thủ trưởng cơ quan được giao nhiệm vụ tiến hành một số hoạt động điều tra trong hoạt động điều tra."
     },
     {
+        "id": "Điều 41.0",
+        "article": "Điều 41",
+        "clause": "0",
+        "title": "Uỷ thác điều tra",
+        "text": "Khi cần thiết, Cơ quan điều tra có thể uỷ thác cho Cơ quan điều tra khác tiến hành một số hoạt động điều tra. Quyết định uỷ thác phải ghi rõ yêu cầu cụ thể. Cơ quan điều tra được uỷ thác có trách nhiệm thực hiện đầy đủ những việc được uỷ thác theo thời hạn mà Cơ quan điều tra uỷ thác yêu cầu. Trong trường hợp Cơ quan điều tra được uỷ thác không thể thực hiện được từng phần hoặc toàn bộ những việc uỷ thác thì phải thông báo ngay bằng văn bản và nêu rõ lý do cho Cơ quan điều tra đã uỷ thác biết. Điều 42. Quan hệ giữa đơn vị điều tra và đơn vị trinh sát"
+    },
+    {
         "id": "Điều 41.1",
         "article": "Điều 41",
         "clause": "1",
@@ -1370,6 +1398,13 @@
         "clause": "4",
         "title": "Uỷ thác điều tra",
         "text": "Thủ trưởng Cơ quan điều tra quyết định việc áp dụng các biện pháp cần thiết trong phối hợp hoạt động giữa đơn vị điều tra và đơn vị trinh sát trong điều tra vụ án hình sự. Các biện pháp quy định tại khoản 2 và khoản 3 Điều này phải được giữ bí mật theo quy định của pháp luật về bảo vệ bí mật nhà nước."
+    },
+    {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Trách nhiệm của Thủ trưởng cơ quan Công an, Quân đội các cấp đối với hoạt động điều tra hình sự",
+        "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, Thủ trưởng cơ quan Công an, Quân đội các cấp có liên quan đến tổ chức, hoạt động điều tra hình sự có trách nhiệm sau đây:"
     },
     {
         "id": "Điều 43.1",
@@ -1505,6 +1540,13 @@
         "text": "Có sức khỏe bảo đảm hoàn thành nhiệm vụ được giao."
     },
     {
+        "id": "Điều 47.0",
+        "article": "Điều 47",
+        "clause": "0",
+        "title": "Tiêu chuẩn bổ nhiệm Điều tra viên sơ cấp",
+        "text": "Người có đủ tiêu chuẩn quy định tại Điều 46 của Luật này, là sĩ quan Công an nhân dân tại ngũ, sĩ quan Quân đội nhân dân tại ngũ, cán bộ Viện kiểm sát nhân dân và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Điều tra viên sơ cấp:"
+    },
+    {
         "id": "Điều 47.1",
         "article": "Điều 47",
         "clause": "1",
@@ -1615,6 +1657,20 @@
         "clause": "2",
         "title": "Tiêu chuẩn bổ nhiệm Điều tra viên cao cấp",
         "text": "Trong trường hợp do nhu cầu cán bộ của Cơ quan điều tra, người có đủ tiêu chuẩn quy định tại Điều 46 của Luật này, các điểm b, c, d và đ khoản 1 Điều này, đã có thời gian làm công tác pháp luật từ 14 năm trở lên thì có thể được bổ nhiệm làm Điều tra viên cao cấp."
+    },
+    {
+        "id": "Điều 50.0",
+        "article": "Điều 50",
+        "clause": "0",
+        "title": "Bổ nhiệm Điều tra viên trong trường hợp đặc biệt",
+        "text": "Trong trường hợp đặc biệt, người được cơ quan, tổ chức có thẩm quyền điều động đến công tác tại Cơ quan điều tra, tuy chưa được đào tạo về nghiệp vụ điều tra, chưa đủ thời gian quy định tại điểm a khoản 1 các điều 48 và 49 của Luật này, nhưng có đủ các tiêu chuẩn khác được quy định tại các khoản 1, 2 và 5 Điều 46, điểm b và điểm c khoản 1 Điều 48, các điểm b, c và d khoản 1 Điều 49 của Luật này thì có thể được bổ nhiệm làm Điều tra viên trung cấp, Điều tra viên cao cấp."
+    },
+    {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Nhiệm kỳ của Điều tra viên",
+        "text": "Điều tra viên được bổ nhiệm lần đầu có thời hạn là 05 năm; trường hợp được bổ nhiệm lại hoặc nâng ngạch thì thời hạn là 10 năm."
     },
     {
         "id": "Điều 52.1",
@@ -2037,6 +2093,13 @@
         "text": "Trong trường hợp cấp thiết, để ngăn chặn hành động phạm tội, đuổi bắt người phạm tội, cấp cứu người bị nạn, Điều tra viên được huy động, sử dụng phương tiện giao thông, thông tin liên lạc của cơ quan, tổ chức và cá nhân, kể cả những người điều khiển phương tiện ấy, trừ phương tiện của cơ quan đại diện ngoại giao, cơ quan lãnh sự nước ngoài, cơ quan đại diện của tổ chức quốc tế và của những người được hưởng quyền ưu đãi, miễn trừ ngoại giao hoặc lãnh sự và phải hoàn trả ngay khi tình huống cấp thiết không còn; trường hợp xảy ra thiệt hại thì Cơ quan điều tra có trách nhiệm bồi thường theo quy định của pháp luật."
     },
     {
+        "id": "Điều 63.0",
+        "article": "Điều 63",
+        "clause": "0",
+        "title": "Bảo đảm kinh phí cho hoạt động điều tra hình sự",
+        "text": "Nhà nước bảo đảm kinh phí cho hoạt động điều tra hình sự. Việc lập dự toán, sử dụng và quyết toán kinh phí cho hoạt động điều tra hình sự được thực hiện theo Luật ngân sách nhà nước. Chương IX TRÁCH NHIỆM CỦA CHÍNH PHỦ, CÁC BỘ, NGÀNH VÀ ỦY BAN NHÂN DÂN TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG TRONG CÔNG TÁC ĐIỀU TRA HÌNH SỰ"
+    },
+    {
         "id": "Điều 64.1",
         "article": "Điều 64",
         "clause": "1",
@@ -2364,5 +2427,12 @@
         "clause": "3",
         "title": "Quy định chuyển tiếp",
         "text": "Kể từ ngày Luật này có hiệu lực, Điều tra viên sơ cấp, Điều tra viên trung cấp, Điều tra viên cao cấp đã được bổ nhiệm theo quy định của Pháp lệnh tổ chức điều tra hình sự số 23/2004/PL-UBTVQH11 đã được sửa đổi, bổ sung mốt số điều theo Pháp lệnh số 30/2006/PL-UBTVQH11 và Pháp lệnh số 09/2009/PL-UBTVQH12 thì tiếp tục giữ chức danh đó cho đến hết nhiệm kỳ."
+    },
+    {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ, Viện kiểm sát nhân dân tối cao quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 10 thông qua ngày 26 tháng 11 năm 2015. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

@@ -15,17 +15,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về hoạt động công nghệ cao, chính sách, biện pháp khuyến khích, thúc đẩy hoạt động công nghệ cao.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với tổ chức, cá nhân Việt Nam, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài tham gia hoạt động công nghệ cao tại Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Công nghệ cao là công nghệ có hàm lượng cao về nghiên cứu khoa học và phát triển công nghệ; được tích hợp từ thành tựu khoa học và công nghệ hiện đại; tạo ra sản phẩm có chất lượng, tính năng vượt trội, giá trị gia tăng cao, thân thiện với môi trường; có vai trò quan trọng đối với việc hình thành ngành sản xuất, dịch vụ mới hoặc hiện đại hóa ngành sản xuất, dịch vụ hiện có.",
@@ -255,7 +272,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Cản trở trái pháp luật hoạt động công nghệ cao.",
+                    "text": "Cản trở trái pháp luật hoạt động công nghệ cao. CHƯƠNG II. ỨNG DỤNG, NGHIÊN CỨU VÀ PHÁT TRIỂN CÔNG NGHỆ CAO",
                     "sub_clauses": []
                 }
             ]
@@ -427,7 +444,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ, cơ quan ngang bộ, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương có biện pháp hỗ trợ, tạo điều kiện thuận lợi cho tổ chức, cá nhân trong nước, tổ chức, cá nhân nước ngoài tổ chức, tham gia chợ, hội chợ, triển lãm công nghệ cao.",
+                    "text": "Bộ, cơ quan ngang bộ, Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương có biện pháp hỗ trợ, tạo điều kiện thuận lợi cho tổ chức, cá nhân trong nước, tổ chức, cá nhân nước ngoài tổ chức, tham gia chợ, hội chợ, triển lãm công nghệ cao. CHƯƠNG III. PHÁT TRIỂN CÔNG NGHỆ CAO TRONG CÁC NGÀNH KINH TẾ - KỸ THUẬT",
                     "sub_clauses": []
                 }
             ]
@@ -902,7 +919,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bộ Khoa học và Công nghệ chủ trì phối hợp với Bộ Tài chính trình Thủ tướng Chính phủ quyết định thành lập, ban hành quy chế tổ chức và hoạt động của Quỹ đầu tư mạo hiểm công nghệ cao quốc gia.",
+                    "text": "Bộ Khoa học và Công nghệ chủ trì phối hợp với Bộ Tài chính trình Thủ tướng Chính phủ quyết định thành lập, ban hành quy chế tổ chức và hoạt động của Quỹ đầu tư mạo hiểm công nghệ cao quốc gia. CHƯƠNG IV. NHÂN LỰC CÔNG NGHỆ CAO",
                     "sub_clauses": []
                 }
             ]
@@ -1039,7 +1056,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ Khoa học và Công nghệ chủ trì phối hợp với Bộ Tài chính và bộ, cơ quan ngang bộ có liên quan trình Thủ tướng Chính phủ ban hành cơ chế, chính sách cụ thể quy định tại khoản 1 Điều này.",
+                    "text": "Bộ Khoa học và Công nghệ chủ trì phối hợp với Bộ Tài chính và bộ, cơ quan ngang bộ có liên quan trình Thủ tướng Chính phủ ban hành cơ chế, chính sách cụ thể quy định tại khoản 1 Điều này. CHƯƠNG V. CƠ SỞ HẠ TẦNG KỸ THUẬT PHỤC VỤ HOẠT ĐỘNG CÔNG NGHỆ CAO",
                     "sub_clauses": []
                 }
             ]
@@ -1214,7 +1231,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương trong phạm vi quyền hạn, nhiệm vụ của mình có trách nhiệm giải phóng mặt bằng, tạo điều kiện thuận lợi cho tổ chức, cá nhân đầu tư vào khu công nghệ cao, khu nông nghiệp ứng dụng công nghệ cao.",
+                    "text": "Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương trong phạm vi quyền hạn, nhiệm vụ của mình có trách nhiệm giải phóng mặt bằng, tạo điều kiện thuận lợi cho tổ chức, cá nhân đầu tư vào khu công nghệ cao, khu nông nghiệp ứng dụng công nghệ cao. CHƯƠNG VI. ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1222,12 +1239,24 @@
         {
             "id": "Điều 34",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2009.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 35",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 4 thông qua ngày 13 tháng 11 năm 2008. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": []

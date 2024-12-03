@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định quyền và nghĩa vụ của tổ chức, cá nhân sản xuất, kinh doanh sản phẩm, hàng hoá và tổ chức, cá nhân có hoạt động liên quan đến chất lượng sản phẩm, hàng hoá; quản lý chất lượng sản phẩm, hàng hóa."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, cá nhân sản xuất, kinh doanh sản phẩm, hàng hoá và tổ chức, cá nhân có hoạt động liên quan đến chất lượng sản phẩm, hàng hoá tại Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -1498,6 +1519,13 @@
         "text": "Trong quá trình kiểm tra chất lượng sản phẩm trong sản xuất, mà kết quả thử nghiệm khẳng định sản phẩm không phù hợp với tiêu chuẩn công bố áp dụng, quy chuẩn kỹ thuật tương ứng đe dọa đến sự an toàn của người, động vật, thực vật, tài sản, môi trường thì cơ quan kiểm tra chất lượng sản phẩm, hàng hoá thông báo công khai trên phương tiện thông tin đại chúng, tạm đình chỉ sản xuất sản phẩm không phù hợp và kiến nghị cơ quan nhà nước có thẩm quyền xử lý theo quy định của pháp luật."
     },
     {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Chi phí thử nghiệm, chứng nhận hợp chuẩn, chứng nhận hợp quy",
+        "text": "Người sản xuất phải trả chi phí thử nghiệm, chứng nhận hợp chuẩn, chứng nhận hợp quy theo thỏa thuận với tổ chức thử nghiệm, tổ chức chứng nhận hợp chuẩn, hợp quy. Mục 3 QUẢN LÝ CHẤT LƯỢNG HÀNG HOÁ XUẤT KHẨU"
+    },
+    {
         "id": "Điều 32.1",
         "article": "Điều 32",
         "clause": "1",
@@ -1510,6 +1538,13 @@
         "clause": "2",
         "title": "Điều kiện bảo đảm chất lượng hàng hoá xuất khẩu",
         "text": "Áp dụng các quy chuẩn kỹ thuật tương ứng trong quá trình sản xuất hoặc tự xây dựng và áp dụng các hệ thống quản lý nhằm bảo đảm chất lượng sản phẩm do mình sản xuất."
+    },
+    {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Biện pháp xử lý hàng hoá xuất khẩu không bảo đảm điều kiện xuất khẩu",
+        "text": "Hàng hoá không bảo đảm điều kiện xuất khẩu quy định tại khoản 1 Điều 32 của Luật này mà không xuất khẩu được hoặc bị trả lại thì tuỳ theo tính chất, mức độ vi phạm, cơ quan kiểm tra chất lượng sản phẩm, hàng hoá áp dụng một hoặc các biện pháp xử lý sau đây:"
     },
     {
         "id": "Điều 33.1",
@@ -1664,6 +1699,13 @@
         "clause": "3",
         "title": "Chi phí, lệ phí phục vụ kiểm tra chất lượng hàng hoá nhập khẩu",
         "text": "Bộ Tài chính quy định mức, việc thu và quản lý lệ phí kiểm tra chất lượng hàng hoá nhập khẩu. Mục 5 QUẢN LÝ CHẤT LƯỢNG HÀNG HOÁ LƯU THÔNG TRÊN THỊ TRƯỜNG"
+    },
+    {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Điều kiện bảo đảm chất lượng hàng hoá lưu thông trên thị trường",
+        "text": "Hàng hoá lưu thông trên thị trường phải được người bán hàng thực hiện các yêu cầu về quản lý chất lượng sau đây:"
     },
     {
         "id": "Điều 38.1",
@@ -1932,6 +1974,13 @@
         "text": "Cơ quan kiểm tra chất lượng sản phẩm, hàng hoá quy định tại khoản 1 và khoản 2 của Điều này có trách nhiệm phối hợp với cơ quan kiểm tra chất lượng sản phẩm, hàng hoá thuộc Uỷ ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan khác có liên quan trong việc kiểm tra chất lượng sản phẩm, hàng hoá."
     },
     {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Quyền hạn của cơ quan kiểm tra chất lượng sản phẩm, hàng hoá",
+        "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, cơ quan kiểm tra chất lượng sản phẩm, hàng hoá có các quyền sau đây:"
+    },
+    {
         "id": "Điều 46.1",
         "article": "Điều 46",
         "clause": "1",
@@ -1958,6 +2007,13 @@
         "clause": "4",
         "title": "Quyền hạn của cơ quan kiểm tra chất lượng sản phẩm, hàng hoá",
         "text": "Giải quyết khiếu nại, tố cáo về quyết định của đoàn kiểm tra, kiểm soát viên chất lượng, hành vi của thành viên đoàn kiểm tra, kiểm soát viên chất lượng theo quy định của pháp luật về khiếu nại, tố cáo."
+    },
+    {
+        "id": "Điều 47.0",
+        "article": "Điều 47",
+        "clause": "0",
+        "title": "Nhiệm vụ của cơ quan kiểm tra chất lượng sản phẩm, hàng hoá",
+        "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, cơ quan kiểm tra chất lượng sản phẩm, hàng hoá có nhiệm vụ sau đây:"
     },
     {
         "id": "Điều 47.1",
@@ -2037,6 +2093,13 @@
         "text": "Đoàn kiểm tra phải có ít nhất năm mươi phần trăm số thành viên là kiểm soát viên chất lượng."
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của đoàn kiểm tra",
+        "text": "Trong quá trình kiểm tra chất lượng sản phẩm, hàng hoá, đoàn kiểm tra có những nhiệm vụ, quyền hạn sau đây:"
+    },
+    {
         "id": "Điều 49.1",
         "article": "Điều 49",
         "clause": "1",
@@ -2112,6 +2175,13 @@
         "clause": "2",
         "title": "Kiểm soát viên chất lượng",
         "text": "Tiêu chuẩn, chế độ và việc bổ nhiệm kiểm soát viên chất lượng do Chính phủ quy định."
+    },
+    {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của kiểm soát viên chất lượng",
+        "text": "Trong quá trình kiểm tra chất lượng sản phẩm, hàng hoá, kiểm soát viên chất lượng có những nhiệm vụ, quyền hạn sau đây:"
     },
     {
         "id": "Điều 51.1",
@@ -2203,6 +2273,13 @@
         "clause": "2",
         "title": "Nhiệm vụ và đối tượng thanh tra chuyên ngành về chất lượng sản phẩm, hàng hoá",
         "text": "Đối tượng của thanh tra chuyên ngành về chất lượng sản phẩm, hàng hoá là tổ chức, cá nhân sản xuất, kinh doanh, người tiêu dùng, tổ chức đánh giá sự phù hợp, tổ chức nghề nghiệp, tổ chức bảo vệ quyền lợi người tiêu dùng và cơ quan kiểm tra chất lượng sản phẩm, hàng hoá. Chương V GIẢI QUYẾT TRANH CHẤP, BỒI THƯỜNG THIỆT HẠI, GIẢI QUYẾT KHIẾU NẠI, TỐ CÁO VÀ XỬ LÝ VI PHẠM PHÁP LUẬT VỀ CHẤT LƯỢNG SẢN PHẨM, HÀNG HOÁ Mục 1 GIẢI QUYẾT TRANH CHẤP VỀ CHẤT LƯỢNG SẢN PHẨM, HÀNG HOÁ"
+    },
+    {
+        "id": "Điều 54.0",
+        "article": "Điều 54",
+        "clause": "0",
+        "title": "Tranh chấp về chất lượng sản phẩm, hàng hoá",
+        "text": "Tranh chấp về chất lượng sản phẩm, hàng hoá bao gồm:"
     },
     {
         "id": "Điều 54.1",
@@ -2499,6 +2576,13 @@
         "text": "Tổ chức, cá nhân chịu trách nhiệm về khiếu nại, tố cáo của mình."
     },
     {
+        "id": "Điều 65.0",
+        "article": "Điều 65",
+        "clause": "0",
+        "title": "Giải quyết khiếu nại, tố cáo hành vi vi phạm pháp luật về chất lượng sản phẩm, hàng hoá",
+        "text": "Cơ quan nhà nước, người có thẩm quyền giải quyết khiếu nại, tố cáo có trách nhiệm xem xét, giải quyết khiếu nại, tố cáo hành vi vi phạm pháp luật về chất lượng sản phẩm, hàng hóa theo quy định của pháp luật về khiếu nại, tố cáo. Mục 4 XỬ LÝ VI PHẠM PHÁP LUẬT VỀ CHẤT LƯỢNG SẢN PHẨM, HÀNG HOÁ"
+    },
+    {
         "id": "Điều 66.1",
         "article": "Điều 66",
         "clause": "1",
@@ -2518,6 +2602,13 @@
         "clause": "3",
         "title": "Xử lý vi phạm pháp luật về chất lượng sản phẩm, hàng hoá",
         "text": "Mức phạt tiền trong xử phạt vi phạm hành chính quy định tại khoản 1 và khoản 2 Điều này được ấn định ít nhất bằng giá trị sản phẩm, hàng hoá vi phạm đã tiêu thụ và nhiều nhất không quá năm lần giá trị hàng hoá vi phạm đã tiêu thụ; tiền do vi phạm mà có sẽ bị tịch thu theo quy định của pháp luật. Chính phủ quy định cụ thể về hành vi, hình thức và mức xử phạt các hành vi vi phạm hành chính trong lĩnh vực chất lượng sản phẩm, hàng hoá và cách xác định giá trị sản phẩm, hàng hoá vi phạm."
+    },
+    {
+        "id": "Điều 67.0",
+        "article": "Điều 67",
+        "clause": "0",
+        "title": "Khởi kiện hành chính",
+        "text": "Tổ chức, cá nhân có quyền khởi kiện cơ quan nhà nước, người có thẩm quyền tại toà án về quyết định hành chính, hành vi hành chính liên quan đến chất lượng sản phẩm, hàng hoá theo quy định của pháp luật về thủ tục giải quyết các vụ án hành chính. Chương VI TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ CHẤT LƯỢNG SẢN PHẨM, HÀNG HOÁ"
     },
     {
         "id": "Điều 68.1",
@@ -2721,5 +2812,19 @@
         "clause": "2g",
         "title": "Trách nhiệm quản lý nhà nước của bộ quản lý ngành, lĩnh vực",
         "text": "Bộ Công an chịu trách nhiệm đối với trang thiết bị phòng cháy, chữa cháy; trang thiết bị kỹ thuật, vũ khí đạn dược, khí tài, công cụ hỗ trợ, trừ trường hợp quy định tại điểm e khoản này."
+    },
+    {
+        "id": "Điều 71.0",
+        "article": "Điều 71",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2008. Pháp lệnh chất lượng hàng hóa ngày 24 tháng 12 năm 1999 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 72.0",
+        "article": "Điều 72",
+        "clause": "0",
+        "title": "Hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành Luật này. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 2 thông qua ngày 21 tháng 11 năm 2007. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

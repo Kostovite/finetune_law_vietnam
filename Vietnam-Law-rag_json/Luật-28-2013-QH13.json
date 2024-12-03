@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về nguyên tắc, chính sách, biện pháp, lực lượng phòng, chống khủng bố; hợp tác quốc tế và trách nhiệm của cơ quan, tổ chức, cá nhân trong phòng, chống khủng bố."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với công dân, cơ quan, tổ chức Việt Nam; tổ chức quốc tế, tổ chức nước ngoài, người nước ngoài cư trú, hoạt động trên lãnh thổ Việt Nam, trừ trường hợp điều ước quốc tế mà nước Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên có quy định khác."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -187,6 +208,20 @@
         "clause": "3",
         "title": "Trách nhiệm phòng, chống khủng bố",
         "text": "Tổ chức quốc tế, tổ chức nước ngoài, người nước ngoài cư trú, hoạt động trên lãnh thổ Việt Nam có trách nhiệm tham gia phòng, chống khủng bố theo quy định của Luật này và các quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên",
+        "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tuyên truyền, vận động nhân dân nghiêm chỉnh chấp hành pháp luật về phòng, chống khủng bố; giám sát việc thực hiện pháp luật về phòng, chống khủng bố."
+    },
+    {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Điều tra, truy tố, xét xử tội phạm khủng bố, tội phạm tài trợ khủng bố",
+        "text": "Việc điều tra, truy tố, xét xử tội phạm khủng bố, tội phạm tài trợ khủng bố được thực hiện theo quy định của Bộ luật hình sự, Bộ luật tố tụng hình sự và các quy định khác của pháp luật có liên quan."
     },
     {
         "id": "Điều 10.1",
@@ -455,6 +490,13 @@
         "text": "Khi xảy ra khủng bố, việc trưng mua, trưng dụng tài sản chống khủng bố thực hiện theo quy định của pháp luật về trưng mua, trưng dụng tài sản. Chương III PHÒNG NGỪA KHỦNG BỐ"
     },
     {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Biện pháp phòng ngừa khủng bố",
+        "text": "Phòng ngừa khủng bố và tài trợ khủng bố được thực hiện bằng các biện pháp quy định tại các điều từ Điều 20 đến Điều 27 của Luật này và các biện pháp khác theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 20.1",
         "article": "Điều 20",
         "clause": "1",
@@ -551,6 +593,41 @@
         "clause": "2e",
         "title": "Quản lý hành chính về an ninh, trật tự",
         "text": "Các biện pháp quản lý hành chính về an ninh, trật tự khác theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 22.0",
+        "article": "Điều 22",
+        "clause": "0",
+        "title": "Kiểm soát hoạt động giao thông vận tải",
+        "text": "Cơ quan và người có thẩm quyền kiểm soát giao thông vận tải đường bộ, đường sắt, đường thủy, đường biển, hàng không có trách nhiệm chủ động phát hiện, ngăn chặn, xử lý kịp thời hành vi lợi dụng hoạt động này để khủng bố."
+    },
+    {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Kiểm soát giao dịch tiền, tài sản",
+        "text": "Cơ quan và người có thẩm quyền kiểm soát giao dịch tiền, tài sản có trách nhiệm theo dõi, giám sát, ngăn chặn các giao dịch tiền, tài sản có dấu hiệu liên quan đến khủng bố; giám sát các giao dịch tiền, tài sản có mức giá trị phải báo cáo theo quy định của pháp luật nhằm kịp thời phát hiện giao dịch có dấu hiệu liên quan đến khủng bố."
+    },
+    {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Kiểm soát phương tiện, hàng hóa nhập khẩu, xuất khẩu, quá cảnh",
+        "text": "Cơ quan và người có thẩm quyền kiểm soát phương tiện, hàng hóa nhập khẩu, xuất khẩu, quá cảnh có trách nhiệm kiểm soát chặt chẽ phương tiện, hàng hóa nhập khẩu, xuất khẩu, quá cảnh nhằm phát hiện, ngăn chặn, xử lý kịp thời hành vi lợi dụng hoạt động này để khủng bố."
+    },
+    {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Kiểm soát hoạt động xuất bản, báo chí, bưu chính, viễn thông và các hình thức thông tin khác",
+        "text": "Cơ quan và người có thẩm quyền trong hoạt động xuất bản, báo chí, bưu chính, viễn thông và các hình thức thông tin khác có trách nhiệm kiểm soát, phát hiện, ngăn chặn, xử lý kịp thời hành vi lợi dụng hoạt động này để khủng bố."
+    },
+    {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Kiểm soát các hoạt động bảo đảm vệ sinh an toàn thực phẩm, thuốc phòng bệnh, chữa bệnh",
+        "text": "Cơ quan và người có thẩm quyền kiểm soát vệ sinh an toàn lương thực, thực phẩm, thức ăn chăn nuôi, phân bón, thuốc chữa bệnh, thuốc phòng bệnh, thuốc thú y, thuốc bảo vệ thực vật, bệnh phẩm có trách nhiệm phát hiện, ngăn chặn, xử lý kịp thời hành vi lợi dụng hoạt động này để khủng bố."
     },
     {
         "id": "Điều 27.1",
@@ -728,6 +805,13 @@
         "text": "Khi chống khủng bố trong trụ sở cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự nước ngoài, cơ quan đại diện tổ chức quốc tế và chỗ ở của thành viên các cơ quan này, cơ quan, tổ chức, cá nhân Việt Nam phải tuân theo quy định của Luật này và các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
     },
     {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Chống khủng bố đối với cơ quan, tổ chức, công dân Việt Nam ở nước ngoài",
+        "text": "Khi có căn cứ cho rằng khủng bố đã, đang hoặc sẽ xảy ra đối với cơ quan, tổ chức, công dân Việt Nam ở nước ngoài thì người đứng đầu cơ quan đại diện nước Cộng hoà xã hội chủ nghĩa Việt Nam ở nước ngoài phải áp dụng ngay các biện pháp cần thiết theo thẩm quyền, phù hợp với pháp luật quốc tế, pháp luật nước sở tại và kịp thời báo cáo Bộ Ngoại giao, Ban chỉ đạo phòng, chống khủng bố quốc gia. Chương V CHỐNG TÀI TRỢ KHỦNG BỐ"
+    },
+    {
         "id": "Điều 33.1",
         "article": "Điều 33",
         "clause": "1",
@@ -740,6 +824,27 @@
         "clause": "2",
         "title": "Phát hiện tài trợ khủng bố, tiếp nhận, xử lý tin báo, tố giác về tài trợ khủng bố",
         "text": "Lực lượng chống khủng bố quy định tại điểm a khoản 1 Điều 14 của Luật này có trách nhiệm tiếp nhận đầy đủ tin báo, tố giác về tài trợ khủng bố, nhanh chóng xử lý thông tin, báo cáo cấp có thẩm quyền và Ban chỉ đạo phòng, chống khủng bố có thẩm quyền; trong trường hợp phát hiện tài trợ khủng bố đã, đang hoặc có căn cứ để cho rằng sẽ xảy ra thì được áp dụng ngay biện pháp khẩn cấp chống khủng bố quy định tại các điểm e, i, k, l và m khoản 2 Điều 30 của Luật này."
+    },
+    {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Nhận biết, cập nhật thông tin khách hàng và áp dụng biện pháp tạm thời",
+        "text": "Tổ chức tài chính, tổ chức, cá nhân kinh doanh ngành nghề phi tài chính có nghĩa vụ áp dụng các biện pháp nhận biết, cập nhật thông tin khách hàng; khi có nghi ngờ khách hàng hoặc giao dịch của khách hàng liên quan đến tài trợ khủng bố hoặc khách hàng nằm trong Danh sách đen thì báo cáo cho lực lượng chống khủng bố của Bộ Công an, đơn vị chức năng thuộc Ngân hàng Nhà nước Việt Nam và phải áp dụng các biện pháp tạm thời theo quy định của pháp luật về phòng, chống rửa tiền."
+    },
+    {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Kiểm soát vận chuyển tiền mặt, kim khí quý, đá quý và công cụ chuyển nhượng qua biên giới",
+        "text": "Tổ chức, cá nhân có thẩm quyền thực hiện việc kiểm soát vận chuyển tiền mặt, kim khí quý, đá quý và công cụ chuyển nhượng qua biên giới Việt Nam theo quy định tại Điều 24 của Luật này và Điều 24 của Luật phòng,chống rửa tiền có trách nhiệm phát hiện, ngăn chặn, xử lý kịp thời hành vi lợi dụng các hoạt động này để tài trợ khủng bố. Chương VI HỢP TÁC QUỐC TẾ VỀ PHÒNG, CHỐNG KHỦNG BỐ"
+    },
+    {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Nguyên tắc hợp tác quốc tế",
+        "text": "Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam thực hiện hợp tác quốc tế trong lĩnh vực phòng, chống khủng bố trên cơ sở tuân thủ pháp luật Việt Nam và các điều ước quốc tế về phòng, chống khủng bố mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; tôn trọng các nguyên tắc cơ bản của pháp luật quốc tế; bảo đảm độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Tổ quốc; bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân."
     },
     {
         "id": "Điều 37.1",
@@ -796,6 +901,13 @@
         "clause": "2",
         "title": "Nội dung, trách nhiệm hợp tác quốc tế",
         "text": "Bộ Công an chủ trì, phối hợp với các bộ, ngành liên quan giúp Chính phủ đàm phán, đề xuất ký kết hoặc gia nhập điều ước quốc tế có liên quan đến phòng, chống khủng bố; chủ trì, phối hợp với các bộ, ngành liên quan trong hợp tác quốc tế về phòng, chống khủng bố."
+    },
+    {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Hợp tác quốc tế giải quyết vụ khủng bố",
+        "text": "Hợp tác quốc tế giải quyết vụ khủng bố được thực hiện trên nguyên tắc quy định tại Điều 4 và Điều 36 của Luật này và các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên. Trường hợp nước Cộng hòa xã hội chủ nghĩa Việt Nam và nước có liên quan không cùng tham gia điều ước quốc tế đa phương hoặc chưa ký kết điều ước quốc tế song phương thì các cơ quan có thẩm quyền của Việt Nam thực hiện hợp tác quốc tế để giải quyết vụ khủng bố trên nguyên tắc quy định tại Điều 4 và Điều 36 của Luật này, phù hợp với nhu cầu và khả năng thực tế của mình. Chương VII TRÁCH NHIỆM CỦA CƠ QUAN NHÀ NƯỚC TRONG PHÒNG, CHỐNG KHỦNG BỐ"
     },
     {
         "id": "Điều 39.1",
@@ -1148,6 +1260,13 @@
         "text": "Chỉ đạo cơ quan, đơn vị thuộc quyền sẵn sàng tham gia phòng, chống khủng bố theo quyết định huy động của người có thẩm quyền."
     },
     {
+        "id": "Điều 48.0",
+        "article": "Điều 48",
+        "clause": "0",
+        "title": "Trách nhiệm của Viện kiểm sát nhân dân, Tòa án nhân dân",
+        "text": "Viện kiểm sát nhân dân, Tòa án nhân dân trong phạm vi nhiệm vụ, quyền hạn của mình kịp thời xử lý hành vi phạm tội khủng bố, tài trợ khủng bố; phối hợp với các cơ quan, tổ chức liên quan trong phòng, chống khủng bố theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 49.1",
         "article": "Điều 49",
         "clause": "1",
@@ -1174,5 +1293,19 @@
         "clause": "4",
         "title": "Trách nhiệm của Ủy ban nhân dân các cấp",
         "text": "Trình cấp có thẩm quyền quyết định ngân sách phục vụ công tác phòng, chống khủng bố; tổ chức quản lý, sử dụng ngân sách phục vụ công tác phòng, chống khủng bố theo quy định của Luật ngân sách nhà nước. Chương VIII ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 50.0",
+        "article": "Điều 50",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 10 năm 2013."
+    },
+    {
+        "id": "Điều 51.0",
+        "article": "Điều 51",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 5 thông qua ngày 12 tháng 6 năm 2013. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

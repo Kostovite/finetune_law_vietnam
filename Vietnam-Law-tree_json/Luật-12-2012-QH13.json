@@ -17,22 +17,45 @@
         {
             "id": "Điều 1",
             "title": "Công đoàn",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Công đoàn là tổ chức chính trị - xã hội rộng lớn của giai cấp công nhân và của người lao động, được thành lập trên cơ sở tự nguyện, là thành viên trong hệ thống chính trị của xã hội Việt Nam, dưới sự lãnh đạo của Đảng Cộng sản Việt Nam; đại diện cho cán bộ, công chức, viên chức, công nhân và những người lao động khác (sau đây gọi chung là người lao động), cùng với cơ quan nhà nước, tổ chức kinh tế, tổ chức xã hội chăm lo và bảo vệ quyền, lợi ích hợp pháp, chính đáng của người lao động; tham gia quản lý nhà nước, quản lý kinh tế - xã hội, tham gia thanh tra, kiểm tra, giám sát hoạt động của cơ quan nhà nước, tổ chức, đơn vị, doanh nghiệp; tuyên truyền, vận động người lao động học tập nâng cao trình độ, kỹ năng nghề nghiệp, chấp hành pháp luật, xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về quyền thành lập, gia nhập và hoạt động công đoàn của người lao động; chức năng, quyền, trách nhiệm của Công đoàn; quyền, trách nhiệm của đoàn viên công đoàn; trách nhiệm của Nhà nước, cơ quan nhà nước, tổ chức, đơn vị, doanh nghiệp sử dụng lao động đối với Công đoàn; bảo đảm hoạt động của Công đoàn; giải quyết tranh chấp và xử lý vi phạm pháp luật về công đoàn.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với công đoàn các cấp, cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, đơn vị, doanh nghiệp, tổ chức khác có sử dụng lao động theo quy định của pháp luật về lao động, cơ quan, tổ chức nước ngoài, tổ chức quốc tế hoạt động trên lãnh thổ Việt Nam có liên quan đến tổ chức và hoạt động công đoàn (sau đây gọi chung là cơ quan, tổ chức, doanh nghiệp), đoàn viên công đoàn và người lao động.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 4",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Quyền công đoàn là quyền thành lập, gia nhập và hoạt động công đoàn của người lao động, đoàn viên công đoàn và quyền của tổ chức công đoàn theo quy định của pháp luật và quy định của cơ quan có thẩm quyền.",
@@ -110,12 +133,24 @@
         {
             "id": "Điều 7",
             "title": "Hệ thống tổ chức công đoàn",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hệ thống tổ chức công đoàn gồm có Tổng Liên đoàn Lao động Việt Nam và công đoàn các cấp theo quy định của Điều lệ Công đoàn Việt Nam. Công đoàn cơ sở được tổ chức trong cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, đơn vị, doanh nghiệp, tổ chức khác có sử dụng lao động theo quy định của pháp luật về lao động, cơ quan, tổ chức nước ngoài, tổ chức quốc tế hoạt động trên lãnh thổ Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 8",
             "title": "Hợp tác quốc tế về công đoàn",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hợp tác quốc tế về công đoàn được thực hiện trên cơ sở bảo đảm nguyên tắc bình đẳng, tôn trọng độc lập, chủ quyền quốc gia, phù hợp với pháp luật Việt Nam và thông lệ quốc tế. Việc gia nhập tổ chức công đoàn quốc tế của công đoàn các cấp phải phù hợp với quy định của pháp luật và Điều lệ Công đoàn Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 9",
@@ -138,7 +173,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Lợi dụng quyền công đoàn để vi phạm pháp luật, xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của cơ quan, tổ chức, doanh nghiệp, cá nhân.",
+                    "text": "Lợi dụng quyền công đoàn để vi phạm pháp luật, xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của cơ quan, tổ chức, doanh nghiệp, cá nhân. CHƯƠNG II QUYỀN, TRÁCH NHIỆM CỦA CÔNG ĐOÀN VÀ ĐOÀN VIÊN CÔNG ĐOÀN Mục 1 QUYỀN, TRÁCH NHIỆM CỦA CÔNG ĐOÀN",
                     "sub_clauses": []
                 }
             ]
@@ -194,7 +229,7 @@
                 },
                 {
                     "number": "10",
-                    "text": "Tổ chức và lãnh đạo đình công theo quy định của pháp luật.",
+                    "text": "Tổ chức và lãnh đạo đình công theo quy định của pháp luật. Chính phủ quy định chi tiết Điều này sau khi thống nhất với Tổng Liên đoàn Lao động Việt Nam.",
                     "sub_clauses": []
                 }
             ]
@@ -230,7 +265,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Phối hợp tổ chức phong trào thi đua trong phạm vi ngành, địa phương, cơ quan, tổ chức, doanh nghiệp.",
+                    "text": "Phối hợp tổ chức phong trào thi đua trong phạm vi ngành, địa phương, cơ quan, tổ chức, doanh nghiệp. Chính phủ quy định chi tiết Điều này sau khi thống nhất với Tổng Liên đoàn Lao động Việt Nam.",
                     "sub_clauses": []
                 }
             ]
@@ -254,7 +289,13 @@
         {
             "id": "Điều 13",
             "title": "Tham dự các phiên họp, cuộc họp, kỳ họp và hội nghị",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chủ tịch Tổng Liên đoàn Lao động Việt Nam, chủ tịch công đoàn các cấp có quyền, trách nhiệm tham dự các phiên họp, cuộc họp, kỳ họp và hội nghị của các cơ quan, tổ chức hữu quan cùng cấp khi bàn và quyết định những vấn đề liên quan đến quyền, nghĩa vụ của người lao động.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 14",
@@ -325,7 +366,13 @@
         {
             "id": "Điều 17",
             "title": "Quyền, trách nhiệm của công đoàn cấp trên trực tiếp cơ sở đối với người lao động ở cơ quan, tổ chức, doanh nghiệp chưa thành lập công đoàn cơ sở",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ở cơ quan, tổ chức, doanh nghiệp chưa thành lập công đoàn cơ sở, công đoàn cấp trên trực tiếp cơ sở có quyền, trách nhiệm đại diện, bảo vệ quyền, lợi ích hợp pháp, chính đáng của người lao động khi được người lao động ở đó yêu cầu. Mục 2 QUYỀN VÀ TRÁCH NHIỆM CỦA ĐOÀN VIÊN CÔNG ĐOÀN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 18",
@@ -384,7 +431,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Đoàn kết, giúp đỡ đồng nghiệp nâng cao trình độ, kỹ năng nghề nghiệp, lao động có hiệu quả và bảo vệ quyền, lợi ích hợp pháp, chính đáng của người lao động và tổ chức công đoàn.",
+                    "text": "Đoàn kết, giúp đỡ đồng nghiệp nâng cao trình độ, kỹ năng nghề nghiệp, lao động có hiệu quả và bảo vệ quyền, lợi ích hợp pháp, chính đáng của người lao động và tổ chức công đoàn. CHƯƠNG III TRÁCH NHIỆM CỦA NHÀ NƯỚC, CƠ QUAN, TỔ CHỨC, DOANH NGHIỆP ĐỐI VỚI CÔNG ĐOÀN",
                     "sub_clauses": []
                 }
             ]
@@ -392,7 +439,13 @@
         {
             "id": "Điều 20",
             "title": "Quan hệ giữa Công đoàn với Nhà nước, cơ quan, tổ chức, doanh nghiệp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Quan hệ giữa Công đoàn với Nhà nước, cơ quan, tổ chức, doanh nghiệp là quan hệ hợp tác, phối hợp để thực hiện chức năng, quyền, trách nhiệm của các bên theo quy định của pháp luật, góp phần xây dựng quan hệ lao động hài hoà, ổn định và tiến bộ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 21",
@@ -466,7 +519,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Bảo đảm điều kiện hoạt động công đoàn, cán bộ công đoàn và đóng kinh phí công đoàn theo quy định tại các điều 24, 25 và 26 của Luật này.",
+                    "text": "Bảo đảm điều kiện hoạt động công đoàn, cán bộ công đoàn và đóng kinh phí công đoàn theo quy định tại các điều 24, 25 và 26 của Luật này. CHƯƠNG IV NHỮNG BẢO ĐẢM HOẠT ĐỘNG CỦA CÔNG ĐOÀN",
                     "sub_clauses": []
                 }
             ]
@@ -548,6 +601,11 @@
             "id": "Điều 26",
             "title": "Tài chính công đoàn",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Tài chính công đoàn gồm các nguồn thu sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Đoàn phí công đoàn do đoàn viên công đoàn đóng theo quy định của Điều lệ Công đoàn Việt Nam;",
@@ -638,7 +696,13 @@
         {
             "id": "Điều 28",
             "title": "Tài sản công đoàn",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tài sản được hình thành từ nguồn đóng góp của đoàn viên công đoàn, từ nguồn vốn của Công đoàn; tài sản do Nhà nước chuyển giao quyền sở hữu cho Công đoàn và các nguồn khác phù hợp với quy định của pháp luật là tài sản thuộc sở hữu của Công đoàn. Tổng Liên đoàn Lao động Việt Nam thực hiện quyền, trách nhiệm sở hữu tài sản của Công đoàn theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 29",
@@ -656,7 +720,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ quan nhà nước có thẩm quyền giám sát, kiểm tra, thanh tra, kiểm toán việc quản lý, sử dụng tài chính của Công đoàn theo quy định của pháp luật.",
+                    "text": "Cơ quan nhà nước có thẩm quyền giám sát, kiểm tra, thanh tra, kiểm toán việc quản lý, sử dụng tài chính của Công đoàn theo quy định của pháp luật. CHƯƠNG V GIẢI QUYẾT TRANH CHẤP, XỬ LÝ VI PHẠM PHÁP LUẬT VỀ CÔNG ĐOÀN",
                     "sub_clauses": []
                 }
             ]
@@ -665,6 +729,11 @@
             "id": "Điều 30",
             "title": "Giải quyết tranh chấp về quyền công đoàn",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Khi phát sinh tranh chấp về quyền công đoàn giữa đoàn viên công đoàn, người lao động, tổ chức công đoàn với cơ quan, tổ chức, doanh nghiệp thì thẩm quyền, trình tự, thủ tục giải quyết tranh chấp được thực hiện theo quy định sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tranh chấp thuộc phạm vi quyền, trách nhiệm của Công đoàn trong quan hệ lao động thì thẩm quyền, trình tự, thủ tục giải quyết theo pháp luật về giải quyết tranh chấp lao động;",
@@ -693,7 +762,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết việc xử phạt vi phạm hành chính đối với hành vi vi phạm pháp luật về công đoàn.",
+                    "text": "Chính phủ quy định chi tiết việc xử phạt vi phạm hành chính đối với hành vi vi phạm pháp luật về công đoàn. CHƯƠNG VI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -701,13 +770,29 @@
         {
             "id": "Điều 32",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2013. Luật Công đoàn năm 1990 hết hiệu lực kể từ ngày Luật này có hiệu lực.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 33",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 3 thông qua ngày 20 tháng 6 năm 2012. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 3 thông qua ngày 20 tháng 6 năm 2012.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

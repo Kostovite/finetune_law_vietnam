@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về lập, chấp hành, kiểm toán, quyết toán, giám sát ngân sách nhà nước; nhiệm vụ, quyền hạn của các cơ quan, tổ chức, đơn vị, cá nhân có liên quan trong lĩnh vực ngân sách nhà nước."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -40,6 +47,13 @@
         "clause": "2",
         "title": "Áp dụng pháp luật",
         "text": "Trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Luật này thì áp dụng quy định của điều ước quốc tế đó."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 4.1",
@@ -789,6 +803,13 @@
         "clause": "4",
         "title": "Kế toán, quyết toán thu, chi ngân sách nhà nước",
         "text": "Chứng từ thu, chi ngân sách nhà nước được phát hành, sử dụng và quản lý theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 14.0",
+        "article": "Điều 14",
+        "clause": "0",
+        "title": "Năm ngân sách",
+        "text": "Năm ngân sách bắt đầu từ ngày 01 tháng 01 và kết thúc vào ngày 31 tháng 12 năm dương lịch."
     },
     {
         "id": "Điều 15.1",
@@ -4403,6 +4424,13 @@
         "text": "Kết dư ngân sách cấp huyện, cấp xã được hạch toán vào thu ngân sách năm sau."
     },
     {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Xử lý các khoản thu, chi ngân sách nhà nước không đúng quy định sau khi quyết toán ngân sách nhà nước được phê chuẩn",
+        "text": "Sau khi quyết toán ngân sách nhà nước và ngân sách các cấp chính quyền địa phương đã được cấp có thẩm quyền phê chuẩn, trường hợp phát hiện thu, chi ngân sách không đúng quy định thì thực hiện xử lý theo quy định tại khoản 8 Điều 65 của Luật này và được quyết toán vào ngân sách năm xử lý. CHƯƠNG VII ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
         "id": "Điều 74.1",
         "article": "Điều 74",
         "clause": "1",
@@ -4457,5 +4485,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Luật ngân sách nhà nước số 01/2002/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành."
+    },
+    {
+        "id": "Điều 77.0",
+        "article": "Điều 77",
+        "clause": "0",
+        "title": "Quy định chi tiết",
+        "text": "Chính phủ quy định chi tiết các điều, khoản được giao trong Luật. --------------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 9 thông qua ngày 25 tháng 6 năm 2015. CHỦ TỊCH QUỐC HỘI (Đã ký) Nguyễn Sinh Hùng"
     }
 ]

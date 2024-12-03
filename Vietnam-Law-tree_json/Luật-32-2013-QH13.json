@@ -17,8 +17,13 @@
             "title": "Không có tiêu đề",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật thuế thu nhập doanh nghiệp:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
-                    "text": "Khoản 3 Điều 2 được sửa đổi, bổ sung như sau:",
+                    "text": "Khoản 3 Điều 2 được sửa đổi, bổ sung như sau: “3. Cơ sở thường trú của doanh nghiệp nước ngoài là cơ sở sản xuất, kinh doanh mà thông qua cơ sở này, doanh nghiệp nước ngoài tiến hành một phần hoặc toàn bộ hoạt động sản xuất, kinh doanh tại Việt Nam, bao gồm:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -44,12 +49,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Khoản 2 Điều 3 được sửa đổi, bổ sung như sau:",
+                    "text": "Khoản 2 Điều 3 được sửa đổi, bổ sung như sau: “2. Thu nhập khác bao gồm thu nhập từ chuyển nhượng vốn, chuyển nhượng quyền góp vốn; thu nhập từ chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia dự án đầu tư, chuyển nhượng quyền thăm dò, khai thác, chế biến khoáng sản; thu nhập từ quyền sử dụng tài sản, quyền sở hữu tài sản, kể cả thu nhập từ quyền sở hữu trí tuệ theo quy định của pháp luật; thu nhập từ chuyển nhượng, cho thuê, thanh lý tài sản, trong đó có các loại giấy tờ có giá; thu nhập từ lãi tiền gửi, cho vay vốn, bán ngoại tệ; khoản thu từ nợ khó đòi đã xoá nay đòi được; khoản thu từ nợ phải trả không xác định được chủ; khoản thu nhập từ kinh doanh của những năm trước bị bỏ sót và các khoản thu nhập khác, kể cả thu nhập từ hoạt động sản xuất, kinh doanh ở ngoài Việt Nam.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Sửa đổi, bổ sung khoản 1 và khoản 4 Điều 4; bổ sung các khoản 8, 9, 10 và 11 vào Điều 4 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 1 và khoản 4 Điều 4; bổ sung các khoản 8, 9, 10 và 11 vào Điều 4 như sau: “1. Thu nhập từ trồng trọt, chăn nuôi, nuôi trồng thủy sản, sản xuất muối của hợp tác xã; thu nhập của hợp tác xã hoạt động trong lĩnh vực nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp ở địa bàn có điều kiện kinh tế - xã hội khó khăn hoặc ở địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn; thu nhập của doanh nghiệp từ trồng trọt, chăn nuôi, nuôi trồng thủy sản ở địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn; thu nhập từ hoạt động đánh bắt hải sản.” “4. Thu nhập từ hoạt động sản xuất, kinh doanh hàng hoá, dịch vụ của doanh nghiệp có từ 30% số lao động bình quân trong năm trở lên là người khuyết tật, người sau cai nghiện, người nhiễm vi rút gây ra hội chứng suy giảm miễn dịch mắc phải ở người (HIV/AIDS) và có số lao động bình quân trong năm từ hai mươi người trở lên, không bao gồm doanh nghiệp hoạt động trong lĩnh vực tài chính, kinh doanh bất động sản.” “8. Thu nhập từ chuyển nhượng chứng chỉ giảm phát thải (CERs) của doanh nghiệp được cấp chứng chỉ giảm phát thải.",
                     "sub_clauses": []
                 },
                 {
@@ -69,12 +74,12 @@
                 },
                 {
                     "number": "4",
-                    "text": "Khoản 3 Điều 7 được sửa đổi, bổ sung như sau:",
+                    "text": "Khoản 3 Điều 7 được sửa đổi, bổ sung như sau: “3. Thu nhập từ hoạt động chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia dự án đầu tư, chuyển nhượng quyền thăm dò, khai thác, chế biến khoáng sản phải xác định riêng để kê khai nộp thuế. Thu nhập từ chuyển nhượng dự án đầu tư (trừ dự án thăm dò, khai thác khoáng sản), thu nhập từ chuyển nhượng quyền tham gia dự án đầu tư (trừ chuyển nhượng quyền tham gia dự án thăm dò, khai thác khoáng sản), thu nhập từ chuyển nhượng bất động sản nếu lỗ thì số lỗ này được bù trừ với lãi của hoạt động sản xuất, kinh doanh trong kỳ tính thuế.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "5",
-                    "text": "Điều 9 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 9 được sửa đổi, bổ sung như sau: “Điều 9. Các khoản chi được trừ và không được trừ khi xác định thu nhập chịu thuế",
                     "sub_clauses": []
                 },
                 {
@@ -159,37 +164,37 @@
                 },
                 {
                     "number": "3",
-                    "text": "Khoản chi bằng ngoại tệ được trừ khi xác định thu nhập chịu thuế phải quy đổi ra đồng Việt Nam theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm phát sinh khoản chi bằng ngoại tệ.",
+                    "text": "Khoản chi bằng ngoại tệ được trừ khi xác định thu nhập chịu thuế phải quy đổi ra đồng Việt Nam theo tỷ giá giao dịch bình quân trên thị trường ngoại tệ liên ngân hàng do Ngân hàng Nhà nước Việt Nam công bố tại thời điểm phát sinh khoản chi bằng ngoại tệ. Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "6",
-                    "text": "Điều 10 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 10 được sửa đổi, bổ sung như sau: “Điều 10. Thuế suất",
                     "sub_clauses": []
                 },
                 {
                     "number": "1",
-                    "text": "Thuế suất thuế thu nhập doanh nghiệp là 22%, trừ trường hợp quy định tại khoản 2, khoản 3 Điều này và đối tượng được ưu đãi về thuế suất quy định tại Điều 13 của Luật này.",
+                    "text": "Thuế suất thuế thu nhập doanh nghiệp là 22%, trừ trường hợp quy định tại khoản 2, khoản 3 Điều này và đối tượng được ưu đãi về thuế suất quy định tại Điều 13 của Luật này. Những trường hợp thuộc diện áp dụng thuế suất 22% quy định tại khoản này chuyển sang áp dụng thuế suất 20% kể từ ngày 01 tháng 01 năm 2016.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Doanh nghiệp có tổng doanh thu năm không quá hai mươi tỷ đồng áp dụng thuế suất 20%.",
+                    "text": "Doanh nghiệp có tổng doanh thu năm không quá hai mươi tỷ đồng áp dụng thuế suất 20%. Doanh thu làm căn cứ xác định doanh nghiệp thuộc đối tượng được áp dụng thuế suất 20% tại khoản này là doanh thu của năm trước liền kề.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Thuế suất thuế thu nhập doanh nghiệp đối với hoạt động tìm kiếm, thăm dò, khai thác dầu, khí và tài nguyên quý hiếm khác tại Việt Nam từ 32% đến 50% phù hợp với từng dự án, từng cơ sở kinh doanh.",
+                    "text": "Thuế suất thuế thu nhập doanh nghiệp đối với hoạt động tìm kiếm, thăm dò, khai thác dầu, khí và tài nguyên quý hiếm khác tại Việt Nam từ 32% đến 50% phù hợp với từng dự án, từng cơ sở kinh doanh. Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "7",
-                    "text": "Điều 13 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 13 được sửa đổi, bổ sung như sau: “Điều 13. Ưu đãi về thuế suất",
                     "sub_clauses": []
                 },
                 {
                     "number": "1",
-                    "text": "Áp dụng thuế suất 10% trong thời gian mười lăm năm đối với:",
+                    "text": "Áp dụng thuế suất 10% trong thời gian mười lăm năm đối với: - Dự án có quy mô vốn đầu tư tối thiểu sáu nghìn tỷ đồng, thực hiện giải ngân không quá ba năm kể từ ngày được cấp Giấy chứng nhận đầu tư và có tổng doanh thu tối thiểu đạt mười nghìn tỷ đồng/năm, chậm nhất sau ba năm kể từ năm có doanh thu; - Dự án có quy mô vốn đầu tư tối thiểu sáu nghìn tỷ đồng, thực hiện giải ngân không quá ba năm kể từ ngày được cấp Giấy chứng nhận đầu tư và sử dụng trên ba nghìn lao động.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -237,7 +242,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Áp dụng thuế suất 20% trong thời gian mười năm đối với:",
+                    "text": "Áp dụng thuế suất 20% trong thời gian mười năm đối với: Từ ngày 01 tháng 01 năm 2016, thu nhập của doanh nghiệp quy định tại khoản này được áp dụng thuế suất 17%.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -251,7 +256,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Áp dụng thuế suất 20% đối với thu nhập của Quỹ tín dụng nhân dân và tổ chức tài chính vi mô.",
+                    "text": "Áp dụng thuế suất 20% đối với thu nhập của Quỹ tín dụng nhân dân và tổ chức tài chính vi mô. Từ ngày 01 tháng 01 năm 2016, thu nhập của Quỹ tín dụng nhân dân và tổ chức tài chính vi mô được áp dụng thuế suất 17%.",
                     "sub_clauses": []
                 },
                 {
@@ -261,12 +266,12 @@
                 },
                 {
                     "number": "6",
-                    "text": "Thời gian áp dụng thuế suất ưu đãi quy định tại Điều này được tính từ năm đầu tiên dự án đầu tư mới của doanh nghiệp có doanh thu; đối với doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao được tính từ ngày được cấp giấy chứng nhận là doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao; đối với dự án ứng dụng công nghệ cao được tính từ ngày được cấp giấy chứng nhận dự án ứng dụng công nghệ cao.",
+                    "text": "Thời gian áp dụng thuế suất ưu đãi quy định tại Điều này được tính từ năm đầu tiên dự án đầu tư mới của doanh nghiệp có doanh thu; đối với doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao được tính từ ngày được cấp giấy chứng nhận là doanh nghiệp công nghệ cao, doanh nghiệp nông nghiệp ứng dụng công nghệ cao; đối với dự án ứng dụng công nghệ cao được tính từ ngày được cấp giấy chứng nhận dự án ứng dụng công nghệ cao. Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "8",
-                    "text": "Điều 14 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 14 được sửa đổi, bổ sung như sau: “Điều 14. Ưu đãi về thời gian miễn thuế, giảm thuế",
                     "sub_clauses": []
                 },
                 {
@@ -286,7 +291,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Doanh nghiệp có dự án đầu tư phát triển dự án đầu tư đang hoạt động thuộc lĩnh vực, địa bàn ưu đãi thuế thu nhập doanh nghiệp theo quy định của Luật này mở rộng quy mô sản xuất, nâng cao công suất, đổi mới công nghệ sản xuất (đầu tư mở rộng) nếu đáp ứng một trong ba tiêu chí quy định tại khoản này thì được lựa chọn hưởng ưu đãi thuế theo dự án đang hoạt động cho thời gian còn lại (nếu có) hoặc được miễn thuế, giảm thuế đối với phần thu nhập tăng thêm do đầu tư mở rộng. Thời gian miễn thuế, giảm thuế đối với thu nhập tăng thêm do đầu tư mở rộng quy định tại khoản này bằng với thời gian miễn thuế, giảm thuế áp dụng đối với dự án đầu tư mới trên cùng địa bàn, lĩnh vực ưu đãi thuế thu nhập doanh nghiệp.",
+                    "text": "Doanh nghiệp có dự án đầu tư phát triển dự án đầu tư đang hoạt động thuộc lĩnh vực, địa bàn ưu đãi thuế thu nhập doanh nghiệp theo quy định của Luật này mở rộng quy mô sản xuất, nâng cao công suất, đổi mới công nghệ sản xuất (đầu tư mở rộng) nếu đáp ứng một trong ba tiêu chí quy định tại khoản này thì được lựa chọn hưởng ưu đãi thuế theo dự án đang hoạt động cho thời gian còn lại (nếu có) hoặc được miễn thuế, giảm thuế đối với phần thu nhập tăng thêm do đầu tư mở rộng. Thời gian miễn thuế, giảm thuế đối với thu nhập tăng thêm do đầu tư mở rộng quy định tại khoản này bằng với thời gian miễn thuế, giảm thuế áp dụng đối với dự án đầu tư mới trên cùng địa bàn, lĩnh vực ưu đãi thuế thu nhập doanh nghiệp. Dự án đầu tư mở rộng được hưởng ưu đãi quy định tại khoản này phải đáp ứng một trong các tiêu chí sau: có điều kiện kinh tế - xã hội khó khăn hoặc địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật; Trường hợp doanh nghiệp đang hoạt động có đầu tư mở rộng thuộc lĩnh vực, địa bàn ưu đãi thuế theo quy định của Luật này mà không đáp ứng một trong ba tiêu chí quy định tại khoản này thì áp dụng ưu đãi thuế theo dự án đang hoạt động cho thời gian còn lại (nếu có). Trường hợp doanh nghiệp được hưởng ưu đãi thuế theo diện đầu tư mở rộng thì phần thu nhập tăng thêm do đầu tư mở rộng được hạch toán riêng; trường hợp không hạch toán riêng được thì thu nhập từ hoạt động đầu tư mở rộng xác định theo tỷ lệ giữa nguyên giá tài sản cố định đầu tư mới đưa vào sử dụng cho sản xuất, kinh doanh trên tổng nguyên giá tài sản cố định của doanh nghiệp. Thời gian miễn thuế, giảm thuế quy định tại khoản này được tính từ năm dự án đầu tư hoàn thành đưa vào sản xuất, kinh doanh. Ưu đãi thuế quy định tại khoản này không áp dụng đối với các trường hợp đầu tư mở rộng do sáp nhập, mua lại doanh nghiệp hoặc dự án đầu tư đang hoạt động. Chính phủ quy định chi tiết và hướng dẫn thi hành Điều này.”",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -304,12 +309,12 @@
                 },
                 {
                     "number": "9",
-                    "text": "Bổ sung khoản 3 vào Điều 15 như sau:",
+                    "text": "Bổ sung khoản 3 vào Điều 15 như sau: “3. Doanh nghiệp thực hiện chuyển giao công nghệ thuộc lĩnh vực ưu tiên chuyển giao cho tổ chức, cá nhân ở địa bàn có điều kiện kinh tế - xã hội khó khăn được giảm 50% số thuế thu nhập doanh nghiệp tính trên phần thu nhập từ chuyển giao công nghệ.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "10",
-                    "text": "Điều 16 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 16 được sửa đổi, bổ sung như sau: “Điều 16. Chuyển lỗ",
                     "sub_clauses": []
                 },
                 {
@@ -324,17 +329,17 @@
                 },
                 {
                     "number": "11",
-                    "text": "Khoản 1 Điều 17 được sửa đổi, bổ sung như sau:",
+                    "text": "Khoản 1 Điều 17 được sửa đổi, bổ sung như sau: “1. Doanh nghiệp thành lập và hoạt động theo quy định của pháp luật Việt Nam được trích tối đa 10% thu nhập tính thuế hàng năm để lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp. Riêng doanh nghiệp nhà nước, ngoài việc thực hiện trích Quỹ phát triển khoa học và công nghệ theo quy định của Luật này còn phải bảo đảm tỷ lệ trích Quỹ phát triển khoa học và công nghệ tối thiểu theo quy định của pháp luật về khoa học và công nghệ.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "12",
-                    "text": "Điều 18 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 18 được sửa đổi, bổ sung như sau: “Điều 18. Điều kiện áp dụng ưu đãi thuế",
                     "sub_clauses": []
                 },
                 {
                     "number": "1",
-                    "text": "Ưu đãi thuế thu nhập doanh nghiệp quy định tại các điều 13, 14, 15, 16 và 17 của Luật này áp dụng đối với doanh nghiệp thực hiện chế độ kế toán, hoá đơn, chứng từ và nộp thuế theo kê khai.",
+                    "text": "Ưu đãi thuế thu nhập doanh nghiệp quy định tại các điều 13, 14, 15, 16 và 17 của Luật này áp dụng đối với doanh nghiệp thực hiện chế độ kế toán, hoá đơn, chứng từ và nộp thuế theo kê khai. Ưu đãi thuế thu nhập doanh nghiệp theo diện dự án đầu tư mới quy định tại Điều 13 và Điều 14 của Luật này không áp dụng đối với các trường hợp chia, tách, sáp nhập, hợp nhất, chuyển đổi hình thức doanh nghiệp, chuyển đổi sở hữu và trường hợp khác theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -387,7 +392,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Doanh nghiệp có dự án đầu tư mà tính đến hết kỳ tính thuế năm 2013 còn đang trong thời gian hưởng ưu đãi thuế thu nhập doanh nghiệp (thuế suất, thời gian miễn, giảm thuế) theo quy định của các văn bản quy phạm pháp luật về thuế thu nhập doanh nghiệp trước thời điểm Luật này có hiệu lực thi hành thì tiếp tục được hưởng cho thời gian còn lại theo quy định của các văn bản đó. Trường hợp đáp ứng điều kiện ưu đãi thuế theo quy định của Luật này thì được lựa chọn ưu đãi đang hưởng hoặc ưu đãi theo quy định của Luật này theo diện ưu đãi đối với đầu tư mới cho thời gian còn lại nếu đang hưởng theo diện doanh nghiệp thành lập mới từ dự án đầu tư hoặc theo diện ưu đãi đối với đầu tư mở rộng cho thời gian còn lại nếu đang hưởng theo diện đầu tư mở rộng.",
+                    "text": "Doanh nghiệp có dự án đầu tư mà tính đến hết kỳ tính thuế năm 2013 còn đang trong thời gian hưởng ưu đãi thuế thu nhập doanh nghiệp (thuế suất, thời gian miễn, giảm thuế) theo quy định của các văn bản quy phạm pháp luật về thuế thu nhập doanh nghiệp trước thời điểm Luật này có hiệu lực thi hành thì tiếp tục được hưởng cho thời gian còn lại theo quy định của các văn bản đó. Trường hợp đáp ứng điều kiện ưu đãi thuế theo quy định của Luật này thì được lựa chọn ưu đãi đang hưởng hoặc ưu đãi theo quy định của Luật này theo diện ưu đãi đối với đầu tư mới cho thời gian còn lại nếu đang hưởng theo diện doanh nghiệp thành lập mới từ dự án đầu tư hoặc theo diện ưu đãi đối với đầu tư mở rộng cho thời gian còn lại nếu đang hưởng theo diện đầu tư mở rộng. Tính đến hết kỳ tính thuế năm 2015, trường hợp doanh nghiệp có dự án đầu tư đang được áp dụng thuế suất ưu đãi 20% quy định tại khoản 3 Điều 13 Luật thuế thu nhập doanh nghiệp số 14/2008/QH12 được sửa đổi, bổ sung tại khoản 7 Điều 1 của Luật này thì kể từ ngày 01 tháng 01 năm 2016 được chuyển sang áp dụng mức thuế suất 17% cho thời gian còn lại.",
                     "sub_clauses": []
                 },
                 {
@@ -446,11 +451,15 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật.",
+                    "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 5 thông qua ngày 19 tháng 6 năm 2013. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khoá XIII, kỳ họp thứ 5 thông qua ngày 19 tháng 6 năm 2013.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

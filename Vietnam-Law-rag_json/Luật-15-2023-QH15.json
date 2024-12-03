@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quyền, nghĩa vụ của người bệnh; người hành nghề khám bệnh, chữa bệnh; cơ sở khám bệnh, chữa bệnh; chuyên môn kỹ thuật trong khám bệnh, chữa bệnh; khám bệnh, chữa bệnh bằng y học cổ truyền và kết hợp y học cổ truyền với y học hiện đại; khám bệnh, chữa bệnh nhân đạo, không vì mục đích lợi nhuận; chuyển giao kỹ thuật chuyên môn về khám bệnh, chữa bệnh; áp dụng kỹ thuật mới, phương pháp mới và thử nghiệm lâm sàng; sai sót chuyên môn kỹ thuật; điều kiện bảo đảm hoạt động khám bệnh, chữa bệnh; huy động, điều động nguồn lực phục vụ công tác khám bệnh, chữa bệnh trong trường hợp xảy ra thiên tai, thảm họa, dịch bệnh truyền nhiễm thuộc nhóm A hoặc tình trạng khẩn cấp."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -497,6 +511,13 @@
         "text": "Ủy ban nhân dân các cấp thực hiện quản lý nhà nước về khám bệnh, chữa bệnh trên địa bàn thuộc thẩm quyền quản lý."
     },
     {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Tổ chức xã hội - nghề nghiệp về khám bệnh, chữa bệnh",
+        "text": "Tổ chức xã hội - nghề nghiệp về khám bệnh, chữa bệnh được thành lập và hoạt động theo quy định của pháp luật về hội có trách nhiệm sau đây:"
+    },
+    {
         "id": "Điều 6.1",
         "article": "Điều 6",
         "clause": "1",
@@ -978,6 +999,13 @@
         "clause": "3b",
         "title": "Việc thực hiện quyền của người bệnh bị mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi, hạn chế năng lực hành vi dân sự, người bệnh là người chưa thành niên và người bệnh không có thân nhân",
         "text": "Nếu không có người đại diện quy định tại điểm c và điểm d khoản 2 Điều 8 của Luật này thì thực hiện theo quyết định của người chịu trách nhiệm chuyên môn hoặc người trực lãnh đạo của cơ sở khám bệnh, chữa bệnh."
+    },
+    {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Nghĩa vụ tôn trọng người hành nghề và người khác làm việc tại cơ sở khám bệnh, chữa bệnh",
+        "text": "Tôn trọng người hành nghề; không được đe dọa, xâm phạm tính mạng, sức khỏe, xúc phạm danh dự, nhân phẩm của người hành nghề và người khác làm việc tại cơ sở khám bệnh, chữa bệnh."
     },
     {
         "id": "Điều 17.1",
@@ -2546,6 +2574,13 @@
         "clause": "4",
         "title": "Quyền hành nghề",
         "text": "Được tham gia các tổ chức xã hội - nghề nghiệp về khám bệnh, chữa bệnh."
+    },
+    {
+        "id": "Điều 40.0",
+        "article": "Điều 40",
+        "clause": "0",
+        "title": "Quyền từ chối khám bệnh, chữa bệnh",
+        "text": "Người hành nghề được từ chối khám bệnh, chữa bệnh trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 40.1",
@@ -4669,6 +4704,20 @@
         "text": "Tổ chức hệ thống kiểm soát nhiễm khuẩn tại cơ sở khám bệnh, chữa bệnh."
     },
     {
+        "id": "Điều 75.0",
+        "article": "Điều 75",
+        "clause": "0",
+        "title": "Quản lý chất thải y tế và bảo vệ môi trường trong cơ sở khám bệnh, chữa bệnh",
+        "text": "Cơ sở khám bệnh, chữa bệnh có trách nhiệm thực hiện quản lý chất thải y tế, bảo vệ môi trường trong cơ sở khám bệnh, chữa bệnh theo quy định của pháp luật về bảo vệ môi trường."
+    },
+    {
+        "id": "Điều 76.0",
+        "article": "Điều 76",
+        "clause": "0",
+        "title": "Điều trị ngoại trú",
+        "text": "Điều trị ngoại trú được áp dụng đối với các trường hợp không phải điều trị nội trú tại cơ sở khám bệnh, chữa bệnh."
+    },
+    {
         "id": "Điều 77.1",
         "article": "Điều 77",
         "clause": "1",
@@ -5320,6 +5369,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 91.0",
+        "article": "Điều 91",
+        "clause": "0",
+        "title": "Ưu đãi đối với hoạt động chuyển giao kỹ thuật chuyên môn về khám bệnh, chữa bệnh",
+        "text": "Hoạt động chuyển giao kỹ thuật chuyên môn về khám bệnh, chữa bệnh được hưởng chế độ ưu đãi theo quy định của pháp luật về chuyển giao công nghệ, sở hữu trí tuệ, khoa học và công nghệ. Chương VIII ÁP DỤNG KỸ THUẬT MỚI, PHƯƠNG PHÁP MỚI TRONG KHÁM BỆNH, CHỮA BỆNH VÀ THỬ NGHIỆM LÂM SÀNG TRONG KHÁM BỆNH, CHỮA BỆNH Mục 1 ÁP DỤNG KỸ THUẬT MỚI, PHƯƠNG PHÁP MỚI TRONG KHÁM BỆNH, CHỮA BỆNH"
+    },
+    {
         "id": "Điều 92.1",
         "article": "Điều 92",
         "clause": "1",
@@ -5857,6 +5913,13 @@
         "clause": "6",
         "title": "Hội đồng chuyên môn",
         "text": "Bộ trưởng Bộ Y tế quy định về quy chế tổ chức, hoạt động của Hội đồng chuyên môn và trình tự, thủ tục giải quyết tranh chấp khi xảy ra tai biến y khoa."
+    },
+    {
+        "id": "Điều 102.0",
+        "article": "Điều 102",
+        "clause": "0",
+        "title": "Bồi thường khi xảy ra tai biến y khoa",
+        "text": "Trường hợp xảy ra tai biến y khoa đối với người bệnh, cơ sở khám bệnh, chữa bệnh có trách nhiệm bồi thường cho người bệnh theo quy định của pháp luật, trừ trường hợp quy định tại khoản 2 Điều 100 của Luật này."
     },
     {
         "id": "Điều 103.1",
@@ -7039,6 +7102,6 @@
         "article": "Điều 121",
         "clause": "15",
         "title": "Quy định chuyển tiếp",
-        "text": "Chính phủ quy định chi tiết Điều này; quy định điều kiện cấp giấy phép hành nghề quy định tại các khoản 6, 7 và 8 Điều này. _______________"
+        "text": "Chính phủ quy định chi tiết Điều này; quy định điều kiện cấp giấy phép hành nghề quy định tại các khoản 6, 7 và 8 Điều này. _______________ Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp bất thường lần thứ 2 thông qua ngày 09 tháng 01 năm 2023. CHỦ TỊCH QUỐC HỘI Đã ký: Vương Đình Huệ"
     }
 ]

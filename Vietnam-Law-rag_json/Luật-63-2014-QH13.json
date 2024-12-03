@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Viện kiểm sát nhân dân; về Kiểm sát viên và các chức danh khác trong Viện kiểm sát nhân dân; về bảo đảm hoạt động của Viện kiểm sát nhân dân."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -385,6 +392,13 @@
         "text": "Tại Viện kiểm sát nhân dân tối cao, Viện kiểm sát nhân dân cấp cao, Viện kiểm sát nhân dân tỉnh, thành phố trực thuộc trung ương, Viện kiểm sát quân sự trung ương, Viện kiểm sát quân sự quân khu và tương đương thành lập Ủy ban kiểm sát để thảo luận và quyết định theo đa số những vấn đề quan trọng, cho ý kiến về các vụ án, vụ việc trước khi Viện trưởng quyết định theo quy định tại các điều 43, 45, 47, 53 và 55 của Luật này."
     },
     {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Trách nhiệm phối hợp của Viện kiểm sát nhân dân",
+        "text": "Trong phạm vi chức năng, nhiệm vụ của mình, Viện kiểm sát nhân dân có trách nhiệm phối hợp với cơ quan Công an, Toà án, Thi hành án, Thanh tra, Kiểm toán, các cơ quan nhà nước khác, Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận để phòng, chống tội phạm có hiệu quả; xử lý kịp thời, nghiêm minh các loại tội phạm và vi phạm pháp luật trong hoạt động tư pháp; phổ biến, giáo dục pháp luật; xây dựng pháp luật; đào tạo, bồi dưỡng; nghiên cứu tội phạm và vi phạm pháp luật."
+    },
+    {
         "id": "Điều 9.1",
         "article": "Điều 9",
         "clause": "1",
@@ -404,6 +418,13 @@
         "clause": "3",
         "title": "Quyền và trách nhiệm của cơ quan, tổ chức, cá nhân đối với hoạt động của Viện kiểm sát nhân dân",
         "text": "Nghiêm cấm cơ quan, tổ chức, cá nhân cản trở, can thiệp vào hoạt động thực hành quyền công tố, kiểm sát hoạt động tư pháp của Viện kiểm sát nhân dân; lợi dụng quyền khiếu nại, tố cáo để vu khống cán bộ, công chức, viên chức và người lao động khác của Viện kiểm sát nhân dân."
+    },
+    {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Giám sát hoạt động của Viện kiểm sát nhân dân",
+        "text": "Quốc hội, các cơ quan của Quốc hội, đại biểu Quốc hội, Đoàn đại biểu Quốc hội, Hội đồng nhân dân, đại biểu Hội đồng nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận giám sát hoạt động của Viện kiểm sát nhân dân theo quy định của pháp luật."
     },
     {
         "id": "Điều 11.1",
@@ -810,6 +831,20 @@
         "clause": "6",
         "title": "Nhiệm vụ, quyền hạn của Viện kiểm sát nhân dân khi kiểm sát xét xử vụ án hình sự",
         "text": "Thực hiện quyền yêu cầu, kiến nghị và nhiệm vụ, quyền hạn khác trong kiểm sát xét xử vụ án hình sự theo quy định của Bộ luật tố tụng hình sự. Mục 5 CÔNG TÁC ĐIỀU TRA CỦA CƠ QUAN ĐIỀU TRA VIỆN KIỂM SÁT NHÂN DÂN"
+    },
+    {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Thẩm quyền điều tra của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương",
+        "text": "Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương điều tra tội phạm xâm phạm hoạt động tư pháp, tội phạm về tham nhũng, chức vụ xảy ra trong hoạt động tư pháp theo quy định của luật mà người phạm tội là cán bộ, công chức thuộc Cơ quan điều tra, Tòa án, Viện kiểm sát nhân dân, cơ quan thi hành án, người có thẩm quyền tiến hành hoạt động tư pháp."
+    },
+    {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Thực hành quyền công tố và kiểm sát việc tuân theo pháp luật của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương",
+        "text": "Viện kiểm sát nhân dân tối cao, Viện kiểm sát quân sự trung ương thực hành quyền công tố và kiểm sát việc tuân theo pháp luật trong việc tiếp nhận, giải quyết tố giác, tin báo về tội phạm và kiến nghị khởi tố; việc khởi tố, điều tra của Cơ quan điều tra Viện kiểm sát nhân dân tối cao, Cơ quan điều tra Viện kiểm sát quân sự trung ương theo quy định tại các điều 12, 13, 14 và 15 của Luật này và quy định của Bộ luật tố tụng hình sự. Mục 6 KIỂM SÁT VIỆC TẠM GIỮ, TẠM GIAM, THI HÀNH ÁN HÌNH SỰ"
     },
     {
         "id": "Điều 22.1",
@@ -1414,6 +1449,20 @@
         "text": "Trong phạm vi chức năng, nhiệm vụ của mình, các cơ quan tiến hành tố tụng và các cơ quan có liên quan có trách nhiệm phối hợp với Viện kiểm sát nhân dân trong việc thống kê tội phạm."
     },
     {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Công tác nghiên cứu khoa học",
+        "text": "Trong phạm vi chức năng, nhiệm vụ của mình, Viện kiểm sát nhân dân có trách nhiệm nghiên cứu tội phạm học, khoa học kiểm sát góp phần thực hiện chức năng, nhiệm vụ và đấu tranh phòng, chống tội phạm, vi phạm pháp luật."
+    },
+    {
+        "id": "Điều 36.0",
+        "article": "Điều 36",
+        "clause": "0",
+        "title": "Công tác xây dựng pháp luật",
+        "text": "Viện kiểm sát nhân dân tối cao có quyền đề nghị, trình dự án luật, pháp lệnh; chủ trì, phối hợp với các cơ quan, tổ chức hữu quan trong xây dựng pháp luật; ban hành văn bản pháp luật thuộc thẩm quyền theo quy định của luật về ban hành văn bản pháp luật."
+    },
+    {
         "id": "Điều 37.1",
         "article": "Điều 37",
         "clause": "1",
@@ -1426,6 +1475,20 @@
         "clause": "2",
         "title": "Công tác đào tạo, bồi dưỡng",
         "text": "Các cơ sở đào tạo, bồi dưỡng của Viện kiểm sát nhân dân được tổ chức các loại hình đào tạo, bồi dưỡng theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Hợp tác quốc tế",
+        "text": "Viện kiểm sát nhân dân hợp tác quốc tế trong việc đào tạo, bồi dưỡng, nghiên cứu khoa học, đàm phán, ký kết, gia nhập các hiệp định tương trợ tư pháp và các thỏa thuận quốc tế khác theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Công tác phổ biến, giáo dục pháp luật",
+        "text": "Thông qua việc thực hiện chức năng thực hành quyền công tố, kiểm sát hoạt động tư pháp, Viện kiểm sát nhân dân có trách nhiệm phổ biến, giáo dục pháp luật góp phần phòng, chống tội phạm và vi phạm pháp luật. CHƯƠNG III TỔ CHỨC CỦA VIỆN KIỂM SÁT NHÂN DÂN"
     },
     {
         "id": "Điều 40.1",
@@ -1883,6 +1946,13 @@
         "text": "Viện kiểm sát nhân dân cấp huyện có Viện trưởng, các Phó Viện trưởng, Kiểm sát viên, Kiểm tra viên, công chức khác và người lao động khác."
     },
     {
+        "id": "Điều 49.0",
+        "article": "Điều 49",
+        "clause": "0",
+        "title": "Thành lập, giải thể Viện kiểm sát nhân dân",
+        "text": "Việc thành lập, giải thể Viện kiểm sát nhân dân cấp cao, Viện kiểm sát nhân dân cấp tỉnh, Viện kiểm sát nhân dân cấp huyện do Ủy ban thường vụ Quốc hội quyết định theo đề nghị của Viện trưởng Viện kiểm sát nhân dân tối cao."
+    },
+    {
         "id": "Điều 50.1",
         "article": "Điều 50",
         "clause": "1",
@@ -2189,6 +2259,13 @@
         "clause": "2",
         "title": "Cơ cấu tổ chức của Viện kiểm sát quân sự khu vực",
         "text": "Viện kiểm sát quân sự khu vực có Viện trưởng, các Phó Viện trưởng, Kiểm sát viên, Kiểm tra viên, quân nhân khác, công chức, viên chức và người lao động khác."
+    },
+    {
+        "id": "Điều 57.0",
+        "article": "Điều 57",
+        "clause": "0",
+        "title": "Thành lập, giải thể Viện kiểm sát quân sự",
+        "text": "Việc thành lập, giải thể Viện kiểm sát quân sự quân khu và tương đương, Viện kiểm sát quân sự khu vực do Viện trưởng Viện kiểm sát nhân dân tối cao thống nhất với Bộ trưởng Bộ Quốc phòng trình Ủy ban thường vụ Quốc hội quyết định. CHƯƠNG IV CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC VÀ NGƯỜI LAO ĐỘNG KHÁC CỦA VIỆN KIỂM SÁT NHÂN DÂN Mục 1 NHỮNG QUY ĐỊNH CHUNG"
     },
     {
         "id": "Điều 58.1",
@@ -2772,6 +2849,20 @@
         "text": "Nhiệm kỳ của Phó Viện trưởng Viện kiểm sát quân sự trung ương, Phó Viện trưởng Viện kiểm sát quân sự quân khu và tương đương, Phó Viện trưởng Viện kiểm sát quân sự khu vực là 05 năm, kể từ ngày được bổ nhiệm."
     },
     {
+        "id": "Điều 73.0",
+        "article": "Điều 73",
+        "clause": "0",
+        "title": "Trách nhiệm của Viện trưởng, Phó Viện trưởng Viện kiểm sát nhân dân các cấp trong thực hành quyền công tố, kiểm sát hoạt động tư pháp",
+        "text": "Khi thực hành quyền công tố, kiểm sát hoạt động tư pháp, Viện trưởng, Phó Viện trưởng Viện kiểm sát nhân dân phải nghiêm chỉnh chấp hành Hiến pháp, pháp luật và phải chịu trách nhiệm trước pháp luật về những hành vi, quyết định của mình trong việc khởi tố, bắt, giam, giữ, truy tố, tranh tụng, kháng nghị và các hành vi, quyết định khác thuộc thẩm quyền; nếu làm trái pháp luật thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường, bồi hoàn theo quy định của pháp luật. Mục 3 KIỂM SÁT VIÊN, KIỂM TRA VIÊN CỦA VIỆN KIỂM SÁT NHÂN DÂN"
+    },
+    {
+        "id": "Điều 74.0",
+        "article": "Điều 74",
+        "clause": "0",
+        "title": "Kiểm sát viên",
+        "text": "Kiểm sát viên là người được bổ nhiệm theo quy định của pháp luật để thực hiện chức năng thực hành quyền công tố, kiểm sát hoạt động tư pháp."
+    },
+    {
         "id": "Điều 75.1",
         "article": "Điều 75",
         "clause": "1",
@@ -2847,6 +2938,13 @@
         "clause": "2",
         "title": "Ngạch Kiểm sát viên",
         "text": "Ở Viện kiểm sát nhân dân tối cao có thể được bố trí bốn ngạch Kiểm sát viên; ở Viện kiểm sát quân sự trung ương có Viện trưởng là Kiểm sát viên Viện kiểm sát nhân dân tối cao và có thể được bố trí các ngạch Kiểm sát viên cao cấp, trung cấp, sơ cấp; các Viện kiểm sát khác có thể được bố trí các ngạch Kiểm sát viên cao cấp, trung cấp, sơ cấp."
+    },
+    {
+        "id": "Điều 77.0",
+        "article": "Điều 77",
+        "clause": "0",
+        "title": "Tiêu chuẩn bổ nhiệm Kiểm sát viên sơ cấp",
+        "text": "Người có đủ tiêu chuẩn quy định tại Điều 75 của Luật này và có đủ các điều kiện sau đây thì có thể được bổ nhiệm làm Kiểm sát viên sơ cấp của Viện kiểm sát nhân dân; nếu là sĩ quan quân đội tại ngũ thì có thể được bổ nhiệm làm Kiểm sát viên sơ cấp của Viện kiểm sát quân sự:"
     },
     {
         "id": "Điều 77.1",
@@ -2989,6 +3087,20 @@
         "text": "Trong trường hợp do nhu cầu cán bộ của Viện kiểm sát nhân dân, người đã có thời gian làm công tác pháp luật từ 20 năm trở lên, có đủ tiêu chuẩn quy định tại Điều 75 của Luật này, điểm b và điểm c khoản 1 Điều này thì có thể được tuyển chọn, bổ nhiệm làm Kiểm sát viên Viện kiểm sát nhân dân tối cao."
     },
     {
+        "id": "Điều 81.0",
+        "article": "Điều 81",
+        "clause": "0",
+        "title": "Bổ nhiệm Kiểm sát viên trong trường hợp đặc biệt",
+        "text": "Trong trường hợp đặc biệt, người được cơ quan, tổ chức có thẩm quyền điều động đến để làm lãnh đạo Viện kiểm sát nhân dân các cấp, tuy chưa đủ thời gian làm Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp hoặc chưa đủ thời gian làm công tác pháp luật, nhưng có đủ các tiêu chuẩn quy định tại Điều 75 và điều kiện quy định tại khoản 2 Điều 77, điểm b và điểm c khoản 1 của các điều 78, 79 và 80 của Luật này thì cũng có thể được tuyển chọn và bổ nhiệm làm Kiểm sát viên sơ cấp, Kiểm sát viên trung cấp, Kiểm sát viên cao cấp, Kiểm sát viên Viện kiểm sát nhân dân tối cao."
+    },
+    {
+        "id": "Điều 82.0",
+        "article": "Điều 82",
+        "clause": "0",
+        "title": "Nhiệm kỳ Kiểm sát viên",
+        "text": "Kiểm sát viên được bổ nhiệm lần đầu có thời hạn là 05 năm; trường hợp được bổ nhiệm lại hoặc nâng ngạch thì thời hạn là 10 năm."
+    },
+    {
         "id": "Điều 83.1",
         "article": "Điều 83",
         "clause": "1",
@@ -3050,6 +3162,13 @@
         "clause": "5",
         "title": "Những việc Kiểm sát viên không được làm",
         "text": "Tiếp bị can, bị cáo, đương sự hoặc người tham gia tố tụng khác trong vụ án, vụ việc mà mình có thẩm quyền giải quyết ngoài nơi quy định."
+    },
+    {
+        "id": "Điều 85.0",
+        "article": "Điều 85",
+        "clause": "0",
+        "title": "Tuyên thệ của Kiểm sát viên",
+        "text": "Người được bổ nhiệm vào các ngạch Kiểm sát viên phải tuyên thệ:"
     },
     {
         "id": "Điều 85.1",
@@ -3526,5 +3645,12 @@
         "clause": "3",
         "title": "Hiệu lực thi hành",
         "text": "Luật tổ chức Viện kiểm sát nhân dân số 34/2002/QH10, Pháp lệnh Kiểm sát viên Viện kiểm sát nhân dân số 03/2002/PL-UBTVQH11 đã được sửa đổi, bổ sung một số điều theo Pháp lệnh số 15/2011/PL-UBTVQH12, Pháp lệnh tổ chức Viện kiểm sát quân sự số 05/2002/PL-UBTVQH11 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 101.0",
+        "article": "Điều 101",
+        "clause": "0",
+        "title": "Hướng dẫn thi hành",
+        "text": "Chính phủ, Viện kiểm sát nhân dân tối cao và các cơ quan hữu quan trong phạm vi nhiệm vụ, quyền hạn của mình quy định chi tiết và hướng dẫn thi hành khoản 2 Điều 31, các điều 86, 87, 90, 94, 95, 96, 97, 98 và 99 của Luật này. ----------------------------------------------------------------------------------------------------------------------------- Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 24 tháng 11 năm 2014 CHỦ TỊCH QUỐC HỘI Nguyễn Sinh HùngTên văn bản : Luật Xử lý vi phạm hành chính Loại văn bản : Luật Số hiệu : 15/2012/QH13 Ngày ban hành : 02/07/2012 Cơ quan ban hành : Quốc hội, Người ký : Nguyễn Sinh Hùng, Ngày hiệu lực : 01/07/2013 Văn bản liên quan : 0"
     }
 ]

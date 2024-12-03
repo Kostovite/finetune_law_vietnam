@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động điện ảnh; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, cá nhân tham gia hoạt động điện ảnh; quản lý nhà nước về điện ảnh."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -19,6 +26,13 @@
         "clause": "3",
         "title": "Đối tượng áp dụng",
         "text": "Cơ quan quản lý nhà nước về điện ảnh; cơ quan, tổ chức, cá nhân có liên quan đến hoạt động điện ảnh."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 3.1",
@@ -313,6 +327,13 @@
         "clause": "3",
         "title": "Phát triển nguồn nhân lực điện ảnh",
         "text": "Nhà nước khuyến khích đào tạo, bồi dưỡng, chuyển giao công nghệ nhằm phát triển nguồn nhân lực điện ảnh phục vụ sản xuất, phát hành, phổ biến phim thông qua triển khai các chương trình, dự án của Nhà nước và hợp tác với nước ngoài; kết hợp đào tạo nguồn nhân lực điện ảnh với nghiên cứu, ứng dụng khoa học và công nghệ."
+    },
+    {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp về điện ảnh",
+        "text": "Tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp về điện ảnh được thành lập và hoạt động theo quy định của pháp luật về hội có trách nhiệm sau đây:"
     },
     {
         "id": "Điều 7.1",
@@ -896,6 +917,13 @@
         "text": "Chịu trách nhiệm trước pháp luật về nội dung phim phát hành."
     },
     {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Trao đổi, mua, bán, cho thuê phim",
+        "text": "Tổ chức, cá nhân trao đổi, mua, bán, cho thuê phim theo quy định của Luật này và quy định khác của pháp luật có liên quan."
+    },
+    {
         "id": "Điều 17.1",
         "article": "Điều 17",
         "clause": "1",
@@ -1302,6 +1330,13 @@
         "text": "Khuyến khích cơ sở điện ảnh tăng cường ứng dụng công nghệ thông tin cung cấp phim để phổ biến phim ở vùng cao, miền núi, biên giới, hải đảo, vùng đồng bào dân tộc thiểu số và nông thôn."
     },
     {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Phổ biến phim tại trụ sở cơ quan ngoại giao, cơ sở văn hóa nước ngoài được thành lập tại Việt Nam",
+        "text": "Việc phổ biến phim tại trụ sở cơ quan ngoại giao, cơ sở văn hóa nước ngoài được thành lập tại Việt Nam cho đối tượng không phải là cán bộ, nhân viên của tổ chức đó phải bảo đảm các quy định sau đây:"
+    },
+    {
         "id": "Điều 24.1",
         "article": "Điều 24",
         "clause": "1",
@@ -1328,6 +1363,13 @@
         "clause": "2",
         "title": "Quảng cáo phim",
         "text": "Tổ chức, cá nhân không được chiếu toàn bộ nội dung phim để quảng cáo khi chưa có Giấy phép phân loại phim hoặc Quyết định phát sóng."
+    },
+    {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Quảng cáo sản phẩm, hàng hóa, dịch vụ trong phim",
+        "text": "Việc quảng cáo sản phẩm, hàng hóa, dịch vụ trong phim được thực hiện theo quy định của pháp luật về quảng cáo và quy định khác của pháp luật có liên quan."
     },
     {
         "id": "Điều 27.1",
@@ -1932,6 +1974,13 @@
         "text": "Trường hợp thể lệ liên hoan phim, giải thưởng điện ảnh quốc tế quy định phim tham gia là phim đại diện quốc gia thì việc tuyển chọn phim do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định và tổ chức thực hiện."
     },
     {
+        "id": "Điều 41.0",
+        "article": "Điều 41",
+        "clause": "0",
+        "title": "Chế độ ưu đãi đối với tổ chức nước ngoài sử dụng dịch vụ sản xuất phim tại Việt Nam",
+        "text": "Tổ chức nước ngoài sản xuất phim sử dụng bối cảnh quay tại Việt Nam, các dịch vụ sản xuất phim do tổ chức của Việt Nam cung cấp được ưu đãi về thuế theo quy định của pháp luật về thuế. Mục 2 QUỸ HỖ TRỢ PHÁT TRIỂN ĐIỆN ẢNH"
+    },
+    {
         "id": "Điều 42.1",
         "article": "Điều 42",
         "clause": "1",
@@ -2079,6 +2128,13 @@
         "text": "Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật trong hoạt động điện ảnh theo thẩm quyền."
     },
     {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Trách nhiệm quản lý nhà nước về điện ảnh của Bộ, Cơ quan ngang Bộ",
+        "text": "Bộ, Cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Văn hóa, Thể thao và Du lịch thực hiện quản lý nhà nước về điện ảnh."
+    },
+    {
         "id": "Điều 47.1",
         "article": "Điều 47",
         "clause": "1",
@@ -2135,6 +2191,13 @@
         "text": "Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật trong hoạt động điện ảnh theo thẩm quyền."
     },
     {
+        "id": "Điều 48.0",
+        "article": "Điều 48",
+        "clause": "0",
+        "title": "Sửa đổi, bổ sung Luật Đầu tư số 61/2020/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 72/2020/QH14 và Luật số 03/2022/QH15",
+        "text": "Sửa đổi, bổ sung mục 192 thuộc Phụ lục IV - Danh mục ngành, nghề đầu tư kinh doanh có điều kiện ban hành kèm theo Luật Đầu tư số 61/2020/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 72/2020/QH14 và Luật số 03/2022/QH15 như sau: 192 Kinh doanh dịch vụ phổ biến phim"
+    },
+    {
         "id": "Điều 49.1",
         "article": "Điều 49",
         "clause": "1",
@@ -2160,6 +2223,6 @@
         "article": "Điều 50",
         "clause": "2",
         "title": "Quy định chuyển tiếp",
-        "text": "Phim đã được cấp Giấy phép phổ biến phim hoặc Quyết định phát sóng nhưng chưa thực hiện cảnh báo và hiển thị mức phân loại phim đến người xem theo quy định của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch thì trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành phải bổ sung cảnh báo và hiển thị mức phân loại phim đến người xem trong trường hợp tiếp tục phổ biến. ____________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 3 thông qua ngày 15 tháng 6 năm 2022./."
+        "text": "Phim đã được cấp Giấy phép phổ biến phim hoặc Quyết định phát sóng nhưng chưa thực hiện cảnh báo và hiển thị mức phân loại phim đến người xem theo quy định của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch thì trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành phải bổ sung cảnh báo và hiển thị mức phân loại phim đến người xem trong trường hợp tiếp tục phổ biến. ____________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 3 thông qua ngày 15 tháng 6 năm 2022./. CHỦ TỊCH QUỐC HỘI Vương Đình Huệ"
     }
 ]

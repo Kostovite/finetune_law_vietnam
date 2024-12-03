@@ -27,7 +27,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Nhà nước bảo đảm, tạo điều kiện cho công dân thực hiện quyền được thông tin về pháp luật.",
+                    "text": "Nhà nước bảo đảm, tạo điều kiện cho công dân thực hiện quyền được thông tin về pháp luật. Điều 3. Chính sách của Nhà nước về phổ biến, giáo dục pháp luật",
                     "sub_clauses": []
                 },
                 {
@@ -56,6 +56,11 @@
             "id": "Điều 4",
             "title": "Xã hội hóa công tác phổ biến, giáo dục pháp luật",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước khuyến khích và có chính sách hỗ trợ, tạo điều kiện đối với cơ quan, tổ chức, doanh nghiệp, cá nhân tham gia thực hiện phổ biến, giáo dục pháp luật; huy động các nguồn lực xã hội đóng góp cho công tác phổ biến, giáo dục pháp luật. Căn cứ tình hình kinh tế - xã hội của từng thời kỳ, Chính phủ quy định cụ thể chính sách hỗ trợ đối với cơ quan, tổ chức, doanh nghiệp, cá nhân tham gia thực hiện phổ biến, giáo dục pháp luật. Điều 5. Các nguyên tắc phổ biến, giáo dục pháp luật",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Chính xác, đầy đủ, rõ ràng, dễ hiểu, thiết thực.",
@@ -161,7 +166,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Thủ tướng Chính phủ quy định chi tiết về thành phần và nhiệm vụ, quyền hạn của Hội đồng phối hợp phổ biến, giáo dục pháp luật.",
+                    "text": "Thủ tướng Chính phủ quy định chi tiết về thành phần và nhiệm vụ, quyền hạn của Hội đồng phối hợp phổ biến, giáo dục pháp luật. Điều 8. Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam Ngày 09 tháng 11 hằng năm là Ngày Pháp luật nước Cộng hòa xã hội chủ nghĩa Việt Nam. Ngày Pháp luật được tổ chức nhằm tôn vinh Hiến pháp, pháp luật, giáo dục ý thức thượng tôn pháp luật cho mọi người trong xã hội. Chính phủ quy định chi tiết Điều này. Điều 9. Các hành vi bị cấm",
                     "sub_clauses": []
                 },
                 {
@@ -181,7 +186,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Lợi dụng việc thực hiện quyền được thông tin, tìm hiểu, học tập pháp luật để gây cản trở đến hoạt động bình thường của cơ quan, tổ chức, cá nhân, gây mất trật tự, an toàn xã hội.",
+                    "text": "Lợi dụng việc thực hiện quyền được thông tin, tìm hiểu, học tập pháp luật để gây cản trở đến hoạt động bình thường của cơ quan, tổ chức, cá nhân, gây mất trật tự, an toàn xã hội. CHƯƠNG II NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT Mục 1 NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CHUNG CHO CÔNG DÂN Điều 10. Nội dung phổ biến, giáo dục pháp luật",
                     "sub_clauses": []
                 },
                 {
@@ -196,7 +201,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ý thức tôn trọng và chấp hành pháp luật; ý thức bảo vệ pháp luật; lợi ích của việc chấp hành pháp luật; gương người tốt, việc tốt trong thực hiện pháp luật.",
+                    "text": "Ý thức tôn trọng và chấp hành pháp luật; ý thức bảo vệ pháp luật; lợi ích của việc chấp hành pháp luật; gương người tốt, việc tốt trong thực hiện pháp luật. Điều 11. Hình thức phổ biến, giáo dục pháp luật",
                     "sub_clauses": []
                 },
                 {
@@ -298,7 +303,13 @@
         {
             "id": "Điều 14",
             "title": "Phổ biến, giáo dục pháp luật trên các phương tiện thông tin đại chúng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Đài Truyền hình Việt Nam, Đài Tiếng nói Việt Nam, Thông tấn xã Việt Nam, Báo Nhân dân, báo của các cơ quan bảo vệ pháp luật, báo và đài phát thanh, đài truyền hình cấp tỉnh xây dựng chương trình, chuyên trang, chuyên mục về pháp luật; đa dạng hóa các hình thức phổ biến, giáo dục pháp luật để phổ biến các quy định của pháp luật, tình hình thi hành pháp luật và các thông tin khác về pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 15",
@@ -327,7 +338,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan nhà nước có thẩm quyền thông qua việc xử lý vi phạm hành chính, hoạt động tiếp công dân, giải quyết khiếu nại, tố cáo, tổ chức đối thoại với người dân để kết hợp phổ biến, giáo dục pháp luật.",
+                    "text": "Cơ quan nhà nước có thẩm quyền thông qua việc xử lý vi phạm hành chính, hoạt động tiếp công dân, giải quyết khiếu nại, tố cáo, tổ chức đối thoại với người dân để kết hợp phổ biến, giáo dục pháp luật. Mục 2 NỘI DUNG, HÌNH THỨC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CHO MỘT SỐ ĐỐI TƯỢNG ĐẶC THÙ",
                     "sub_clauses": []
                 }
             ]
@@ -473,7 +484,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ủy ban nhân dân cấp xã có trách nhiệm phối hợp với các cơ quan, tổ chức hữu quan, cộng đồng dân cư và gia đình người đang bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn, người bị phạt tù được hưởng án treo tổ chức phổ biến, giáo dục pháp luật cho các đối tượng này.",
+                    "text": "Ủy ban nhân dân cấp xã có trách nhiệm phối hợp với các cơ quan, tổ chức hữu quan, cộng đồng dân cư và gia đình người đang bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn, người bị phạt tù được hưởng án treo tổ chức phổ biến, giáo dục pháp luật cho các đối tượng này. Mục 3 GIÁO DỤC PHÁP LUẬT TRONG CÁC CƠ SỞ GIÁO DỤC CỦA HỆ THỐNG GIÁO DỤC QUỐC DÂN",
                     "sub_clauses": []
                 }
             ]
@@ -518,7 +529,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Giáo dục ngoại khóa và các hoạt động giáo dục ngoài giờ lên lớp.",
+                    "text": "Giáo dục ngoại khóa và các hoạt động giáo dục ngoài giờ lên lớp. CHƯƠNG III TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN Mục 1 TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CƠ QUAN, TỔ CHỨC",
                     "sub_clauses": []
                 }
             ]
@@ -715,12 +726,24 @@
         {
             "id": "Điều 32",
             "title": "Trách nhiệm của gia đình",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Các thành viên trong gia đình có trách nhiệm gương mẫu chấp hành pháp luật; ông, bà, cha, mẹ có trách nhiệm giáo dục và tạo điều kiện cho con, cháu tìm hiểu, học tập pháp luật, rèn luyện ý thức tôn trọng, chấp hành pháp luật. Mục 2 TRÁCH NHIỆM PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT CỦA CÁ NHÂN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 33",
             "title": "Trách nhiệm của đại biểu Quốc hội, đại biểu Hội đồng nhân dân các cấp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong phạm vi nhiệm vụ, quyền hạn của mình, đại biểu Quốc hội, đại biểu Hội đồng nhân dân các cấp thực hiện phổ biến, giáo dục pháp luật cho nhân dân thông qua hoạt động tiếp xúc cử tri; giám sát việc thực hiện pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 34",
@@ -858,7 +881,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tuyên truyền viên pháp luật và những người được mời tham gia phổ biến, giáo dục pháp luật được cung cấp văn bản pháp luật; được tập huấn, bồi dưỡng kiến thức pháp luật, nghiệp vụ phổ biến, giáo dục pháp luật; hưởng thù lao, chế độ theo quy định của pháp luật.",
+                    "text": "Tuyên truyền viên pháp luật và những người được mời tham gia phổ biến, giáo dục pháp luật được cung cấp văn bản pháp luật; được tập huấn, bồi dưỡng kiến thức pháp luật, nghiệp vụ phổ biến, giáo dục pháp luật; hưởng thù lao, chế độ theo quy định của pháp luật. CHƯƠNG IV CÁC ĐIỀU KIỆN BẢO ĐẢM CHO CÔNG TÁC PHỔ BIẾN, GIÁO DỤC PHÁP LUẬT",
                     "sub_clauses": []
                 }
             ]
@@ -866,7 +889,13 @@
         {
             "id": "Điều 38",
             "title": "Bảo đảm về tổ chức, cán bộ, cơ sở vật chất và phương tiện cho công tác phổ biến, giáo dục pháp luật",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các cấp, Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam và người đứng đầu tổ chức thành viên của Mặt trận có trách nhiệm bố trí đủ cán bộ, công chức, viên chức, báo cáo viên pháp luật, tuyên truyền viên pháp luật làm công tác phổ biến, giáo dục pháp luật phù hợp với nhu cầu phổ biến, giáo dục pháp luật trong lĩnh vực, địa bàn quản lý; bảo đảm cơ sở vật chất, phương tiện cần thiết cho công tác phổ biến, giáo dục pháp luật theo quy định của Chính phủ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 39",
@@ -884,7 +913,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Nhà nước khuyến khích, tạo điều kiện cho tổ chức, cá nhân trong nước và nước ngoài tài trợ, hỗ trợ kinh phí cho hoạt động phổ biến, giáo dục pháp luật theo quy định của pháp luật.",
+                    "text": "Nhà nước khuyến khích, tạo điều kiện cho tổ chức, cá nhân trong nước và nước ngoài tài trợ, hỗ trợ kinh phí cho hoạt động phổ biến, giáo dục pháp luật theo quy định của pháp luật. CHƯƠNG V ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -892,13 +921,30 @@
         {
             "id": "Điều 40",
             "title": " Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2013.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 41",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 3 thông qua ngày 20  tháng 6  năm 2012. CHỦ TỊCH QUỐC HỘI (đã ký) Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 3 thông qua ngày 20  tháng 6  năm 2012.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "(đã ký)",
+        "Nguyễn Sinh Hùng"
+    ]
 }

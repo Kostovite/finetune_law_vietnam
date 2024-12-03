@@ -15,12 +15,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về điều tra cơ bản, chiến lược, quy hoạch thủy lợi; đầu tư xây dựng công trình thủy lợi; quản lý, khai thác công trình thủy lợi và vận hành hồ chứa thủy điện phục vụ thủy lợi; dịch vụ thủy lợi; bảo vệ và bảo đảm an toàn công trình thủy lợi; thủy lợi nhỏ, thủy lợi nội đồng; quyền, trách nhiệm của tổ chức, cá nhân trong hoạt động thủy lợi; trách nhiệm quản lý nhà nước về thủy lợi.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Thủy lợi là tổng hợp các giải pháp nhằm tích trữ, điều hòa, chuyển, phân phối, cấp, tưới, tiêu và thoát nước phục vụ sản xuất nông nghiệp, nuôi trồng thủy sản, sản xuất muối; kết hợp cấp, tiêu, thoát nước cho sinh hoạt và các ngành kinh tế khác; góp phần phòng, chống thiên tai, bảo vệ môi trường, thích ứng với biến đổi khí hậu và bảo đảm an ninh nguồn nước.",
@@ -321,7 +332,7 @@
                 },
                 {
                     "number": "11",
-                    "text": "Thực hiện các hoạt động trong phạm vi bảo vệ công trình thủy lợi khi chưa có giấy phép hoặc thực hiện không đúng nội dung của giấy phép được cấp cho các hoạt động quy định tại Điều 44 của Luật này.",
+                    "text": "Thực hiện các hoạt động trong phạm vi bảo vệ công trình thủy lợi khi chưa có giấy phép hoặc thực hiện không đúng nội dung của giấy phép được cấp cho các hoạt động quy định tại Điều 44 của Luật này. Chương II ĐIỀU TRA CƠ BẢN, CHIẾN LƯỢC, QUY HOẠCH THỦY LỢI",
                     "sub_clauses": []
                 }
             ]
@@ -570,7 +581,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Công bố, quản lý và tổ chức thực hiện quy hoạch thủy lợi được quy định như sau:",
+                    "text": "Công bố, quản lý và tổ chức thực hiện quy hoạch thủy lợi được quy định như sau: Chương III ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH THỦY LỢI",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -733,7 +744,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương IV QUẢN LÝ, KHAI THÁC CÔNG TRÌNH THỦY LỢI VÀ VẬN HÀNH HỒ CHỨA THỦY ĐIỆN PHỤC VỤ THỦY LỢI Mục 1. QUẢN LÝ, KHAI THÁC CÔNG TRÌNH THUỶ LỢI",
                     "sub_clauses": []
                 }
             ]
@@ -959,7 +970,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Đối với công trình thủy lợi do tổ chức, cá nhân tự đầu tư xây dựng thì tổ chức, cá nhân đó quyết định phương thức khai thác.",
+                    "text": "Đối với công trình thủy lợi do tổ chức, cá nhân tự đầu tư xây dựng thì tổ chức, cá nhân đó quyết định phương thức khai thác. Mục 2. VẬN HÀNH CÔNG TRÌNH THỦY LỢI, HỒ CHỨA THỦY ĐIỆN PHỤC VỤ THỦY LỢI",
                     "sub_clauses": []
                 }
             ]
@@ -1178,7 +1189,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Tổ chức, cá nhân trước khi vận hành xả lũ có trách nhiệm thông báo cho chính quyền địa phương và các cơ quan có liên quan theo quy trình vận hành được cơ quan nhà nước có thẩm quyền phê duyệt.",
+                    "text": "Tổ chức, cá nhân trước khi vận hành xả lũ có trách nhiệm thông báo cho chính quyền địa phương và các cơ quan có liên quan theo quy trình vận hành được cơ quan nhà nước có thẩm quyền phê duyệt. Chương V DỊCH VỤ THỦY LỢI",
                     "sub_clauses": []
                 }
             ]
@@ -1434,7 +1445,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thẩm quyền quyết định giá sản phẩm, dịch vụ thủy lợi đối với công trình thủy lợi sử dụng vốn nhà nước được quy định như sau:",
+                    "text": "Thẩm quyền quyết định giá sản phẩm, dịch vụ thủy lợi đối với công trình thủy lợi sử dụng vốn nhà nước được quy định như sau: Bộ trưởng Bộ Tài chính quy định giá tối đa sản phẩm, dịch vụ công ích thủy lợi; Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quyết định cụ thể giá sản phẩm, dịch vụ công ích thủy lợi thuộc phạm vi thẩm quyền quản lý trên cơ sở giá tối đa sản phẩm, dịch vụ công ích thủy lợi do Bộ trưởng Bộ Tài chính quy định; Ủy ban nhân dân cấp tỉnh quyết định cụ thể giá sản phẩm, dịch vụ công ích thủy lợi thuộc phạm vi thẩm quyền quản lý sau khi được Hội đồng nhân dân cùng cấp thông qua trên cơ sở giá tối đa sản phẩm, dịch vụ công ích thủy lợi do Bộ trưởng Bộ Tài chính quy định. Bộ trưởng Bộ Tài chính quy định khung giá sản phẩm, dịch vụ thủy lợi khác; Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quyết định cụ thể giá sản phẩm, dịch vụ thủy lợi khác thuộc phạm vi thẩm quyền quản lý trên cơ sở khung giá do Bộ trưởng Bộ Tài chính quy định; Ủy ban nhân dân cấp tỉnh quyết định cụ thể giá sản phẩm, dịch vụ thủy lợi khác thuộc phạm vi thẩm quyền quản lý sau khi được Hội đồng nhân dân cùng cấp thông qua trên cơ sở khung giá do Bộ trưởng Bộ Tài chính quy định.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1562,7 +1573,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tổ chức, cá nhân tham gia góp vốn đầu tư xây dựng công trình thủy lợi khi sử dụng sản phẩm, dịch vụ thủy lợi từ công trình đó phải trả tiền sử dụng sản phẩm, dịch vụ thủy lợi.",
+                    "text": "Tổ chức, cá nhân tham gia góp vốn đầu tư xây dựng công trình thủy lợi khi sử dụng sản phẩm, dịch vụ thủy lợi từ công trình đó phải trả tiền sử dụng sản phẩm, dịch vụ thủy lợi. Chương VI BẢO VỆ VÀ BẢO ĐẢM AN TOÀN CÔNG TRÌNH THUỶ LỢI",
                     "sub_clauses": []
                 }
             ]
@@ -1999,7 +2010,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ủy ban nhân dân cấp tỉnh chỉ đạo Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã và tổ chức, cá nhân khai thác công trình thủy lợi xây dựng kế hoạch và thực hiện dỡ bỏ hoặc di dời công trình quy định tại khoản 2 Điều này.",
+                    "text": "Ủy ban nhân dân cấp tỉnh chỉ đạo Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã và tổ chức, cá nhân khai thác công trình thủy lợi xây dựng kế hoạch và thực hiện dỡ bỏ hoặc di dời công trình quy định tại khoản 2 Điều này. Chương VII THỦY LỢI NHỎ, THỦY LỢI NỘI ĐỒNG",
                     "sub_clauses": []
                 }
             ]
@@ -2130,7 +2141,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ưu tiên chuyển giao quyền quản lý, khai thác công trình thủy lợi nhỏ, thủy lợi nội đồng được đầu tư xây dựng sử dụng vốn nhà nước cho tổ chức thủy lợi cơ sở.",
+                    "text": "Ưu tiên chuyển giao quyền quản lý, khai thác công trình thủy lợi nhỏ, thủy lợi nội đồng được đầu tư xây dựng sử dụng vốn nhà nước cho tổ chức thủy lợi cơ sở. Chương VIII QUYỀN, TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN TRONG HOẠT ĐỘNG THỦY LỢI",
                     "sub_clauses": []
                 }
             ]
@@ -2308,7 +2319,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Khiếu nại, khởi kiện và bồi thường thiệt hại theo quy định của pháp luật.",
+                    "text": "Khiếu nại, khởi kiện và bồi thường thiệt hại theo quy định của pháp luật. Chương IX TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ THUỶ LỢI",
                     "sub_clauses": []
                 }
             ]
@@ -2489,7 +2500,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ủy ban nhân dân cấp xã trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm sau đây:",
+                    "text": "Ủy ban nhân dân cấp xã trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm sau đây: Chương X ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2530,7 +2541,13 @@
         {
             "id": "Điều 58",
             "title": "Sửa đổi, bổ sung khoản 1 Điều 73 của Luật Tài nguyên nước số 17/2012/QH13",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Sửa đổi, bổ sung khoản 1 Điều 73 của Luật Tài nguyên nước số 17/2012/QH13 như sau: “1. Bộ Tài nguyên và Môi trường, Ủy ban nhân dân cấp tỉnh thực hiện việc cấp, cấp lại, gia hạn, điều chỉnh, đình chỉ, thu hồi giấy phép về tài nguyên nước, trừ trường hợp xả nước thải vào công trình thủy lợi được thực hiện theo quy định của Luật Thủy lợi.”.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 59",
@@ -2551,8 +2568,18 @@
         {
             "id": "Điều 60",
             "title": "Quy định chuyển tiếp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Các loại giấy phép trong lĩnh vực thủy lợi đã được cấp trước ngày Luật này có hiệu lực thi hành mà chưa hết thời hạn của giấy phép thì được tiếp tục sử dụng cho đến khi hết thời hạn. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 19 tháng 6 năm 2017. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 19 tháng 6 năm 2017.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

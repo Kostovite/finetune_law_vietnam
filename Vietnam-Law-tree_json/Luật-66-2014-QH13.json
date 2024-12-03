@@ -17,7 +17,13 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về kinh doanh bất động sản, quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh bất động sản và quản lý nhà nước về kinh doanh bất động sản.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
@@ -39,6 +45,11 @@
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Kinh doanh bất động sản là việc đầu tư vốn để thực hiện hoạt động xây dựng, mua, nhận chuyển nhượng để bán, chuyển nhượng; cho thuê, cho thuê lại, cho thuê mua bất động sản; thực hiện dịch vụ môi giới bất động sản; dịch vụ sàn giao dịch bất động sản; dịch vụ tư vấn bất động sản hoặc quản lý bất động sản nhằm mục đích sinh lợi.",
@@ -111,6 +122,11 @@
             "id": "Điều 5",
             "title": "Các loại bất động sản đưa vào kinh doanh",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Các loại bất động sản đưa vào kinh doanh theo quy định của Luật này (sau đây gọi là bất động sản) bao gồm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Nhà, công trình xây dựng có sẵn của các tổ chức, cá nhân;",
@@ -271,7 +287,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Thu phí, lệ phí và các khoản tiền liên quan đến kinh doanh bất động sản trái quy định của pháp luật.",
+                    "text": "Thu phí, lệ phí và các khoản tiền liên quan đến kinh doanh bất động sản trái quy định của pháp luật. CHƯƠNG II KINH DOANH BẤT ĐỘNG SẢN CÓ SẴN Mục 1 QUY ĐỊNH CHUNG",
                     "sub_clauses": []
                 }
             ]
@@ -486,7 +502,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài được thuê các loại bất động sản để sử dụng; được mua, thuê, thuê mua nhà ở theo quy định của pháp luật về nhà ở.",
+                    "text": "Người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài được thuê các loại bất động sản để sử dụng; được mua, thuê, thuê mua nhà ở theo quy định của pháp luật về nhà ở. Người Việt Nam định cư ở nước ngoài, doanh nghiệp có vốn đầu tư nước ngoài được mua, thuê mua nhà, công trình xây dựng để sử dụng làm văn phòng làm việc, cơ sở sản xuất, kinh doanh, dịch vụ theo đúng công năng sử dụng của nhà, công trình xây dựng đó.",
                     "sub_clauses": []
                 },
                 {
@@ -499,7 +515,13 @@
         {
             "id": "Điều 15",
             "title": "Giá mua bán, chuyển nhượng, cho thuê, cho thuê mua bất động sản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Giá mua bán, chuyển nhượng, cho thuê, cho thuê mua bất động sản do các bên thỏa thuận và được ghi rõ trong hợp đồng. Trường hợp Nhà nước có quy định về giá thì các bên phải thực hiện theo quy định đó.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 16",
@@ -569,6 +591,11 @@
             "title": "Nội dung hợp đồng mua bán, cho thuê, cho thuê mua nhà, công trình xây dựng",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Hợp đồng mua bán, cho thuê, cho thuê mua nhà, công trình xây dựng phải có các nội dung chính sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tên, địa chỉ của các bên;",
                     "sub_clauses": []
@@ -625,7 +652,7 @@
                 },
                 {
                     "number": "12",
-                    "text": "Thời điểm có hiệu lực của hợp đồng.",
+                    "text": "Thời điểm có hiệu lực của hợp đồng. Mục 2 MUA BÁN NHÀ, CÔNG TRÌNH XÂY DỰNG",
                     "sub_clauses": []
                 }
             ]
@@ -830,7 +857,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Các nghĩa vụ khác trong hợp đồng.",
+                    "text": "Các nghĩa vụ khác trong hợp đồng. Mục 3 CHO THUÊ NHÀ, CÔNG TRÌNH XÂY DỰNG",
                     "sub_clauses": []
                 }
             ]
@@ -838,7 +865,13 @@
         {
             "id": "Điều 25",
             "title": "Nguyên tắc cho thuê nhà, công trình xây dựng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà, công trình xây dựng cho thuê phải bảo đảm chất lượng, an toàn, vệ sinh môi trường và các dịch vụ cần thiết khác để vận hành, sử dụng bình thường theo công năng, thiết kế và các thỏa thuận trong hợp đồng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 26",
@@ -1065,7 +1098,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bên đơn phương chấm dứt thực hiện hợp đồng thuê nhà, công trình xây dựng phải báo cho bên kia biết trước 01 tháng nếu không có thoả thuận khác.",
+                    "text": "Bên đơn phương chấm dứt thực hiện hợp đồng thuê nhà, công trình xây dựng phải báo cho bên kia biết trước 01 tháng nếu không có thoả thuận khác. Mục 4 CHO THUÊ MUA NHÀ, CÔNG TRÌNH XÂY DỰNG",
                     "sub_clauses": []
                 }
             ]
@@ -1301,7 +1334,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Mục 5 CHUYỂN NHƯỢNG, CHO THUÊ, CHO THUÊ LẠI QUYỀN SỬ DỤNG ĐẤT",
                     "sub_clauses": []
                 }
             ]
@@ -1618,12 +1651,23 @@
         {
             "id": "Điều 46",
             "title": "Quyền và nghĩa vụ của các bên trong việc cho thuê lại quyền sử dụng đất",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Quyền và nghĩa vụ của bên cho thuê lại, bên thuê lại quyền sử dụng đất được thực hiện theo quy định tại các điều 42, 43, 44 và 45 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 47",
             "title": "Nội dung hợp đồng chuyển nhượng, cho thuê, cho thuê lại quyền sử dụng đất",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Hợp đồng chuyển nhượng, cho thuê, cho thuê lại quyền sử dụng đất phải có các nội dung chính sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tên, địa chỉ của các bên;",
@@ -1686,7 +1730,7 @@
                 },
                 {
                     "number": "13",
-                    "text": "Các trường hợp chấm dứt, hủy bỏ hợp đồng và biện pháp xử lý.",
+                    "text": "Các trường hợp chấm dứt, hủy bỏ hợp đồng và biện pháp xử lý. Mục 6 CHUYỂN NHƯỢNG TOÀN BỘ HOẶC MỘT PHẦN DỰ ÁN BẤT ĐỘNG SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -1795,12 +1839,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh có trách nhiệm ban hành quyết định cho phép chuyển nhượng, trường hợp không đủ điều kiện cho phép chuyển nhượng thì phải thông báo bằng văn bản cho chủ đầu tư biết.",
+                    "text": "Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh có trách nhiệm ban hành quyết định cho phép chuyển nhượng, trường hợp không đủ điều kiện cho phép chuyển nhượng thì phải thông báo bằng văn bản cho chủ đầu tư biết. Trường hợp dự án do Thủ tướng Chính phủ quyết định việc đầu tư thì trong thời hạn 45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh có trách nhiệm lấy ý kiến của bộ quản lý chuyên ngành và Bộ Xây dựng để báo cáo Thủ tướng Chính phủ quyết định.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời hạn 30 ngày kể từ ngày có quyết định cho phép chuyển nhượng dự án của cơ quan nhà nước có thẩm quyền, các bên phải hoàn thành việc ký kết hợp đồng chuyển nhượng và hoàn thành việc bàn giao dự án.",
+                    "text": "Trong thời hạn 30 ngày kể từ ngày có quyết định cho phép chuyển nhượng dự án của cơ quan nhà nước có thẩm quyền, các bên phải hoàn thành việc ký kết hợp đồng chuyển nhượng và hoàn thành việc bàn giao dự án. Trường hợp chủ đầu tư nhận chuyển nhượng dự án bất động sản là doanh nghiệp có vốn đầu tư nước ngoài thì sau khi có quyết định cho phép chuyển nhượng dự án của cơ quan nhà nước có thẩm quyền, chủ đầu tư chuyển nhượng làm thủ tục trả lại đất cho Nhà nước; cơ quan nhà nước có thẩm quyền quyết định giao đất, cho thuê đất đối với chủ đầu tư nhận chuyển nhượng trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.",
                     "sub_clauses": []
                 },
                 {
@@ -1877,6 +1921,11 @@
             "title": "Nội dung hợp đồng chuyển nhượng toàn bộ hoặc một phần dự án bất động sản",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Hợp đồng chuyển nhượng toàn bộ hoặc một phần dự án bất động sản phải có các nội dung chính sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tên, địa chỉ của các bên;",
                     "sub_clauses": []
@@ -1938,7 +1987,7 @@
                 },
                 {
                     "number": "13",
-                    "text": "Thời điểm có hiệu lực của hợp đồng.",
+                    "text": "Thời điểm có hiệu lực của hợp đồng. CHƯƠNG III KINH DOANH BẤT ĐỘNG SẢN HÌNH THÀNH TRONG TƯƠNG LAI",
                     "sub_clauses": []
                 }
             ]
@@ -1970,7 +2019,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trước khi bán, cho thuê mua nhà ở hình thành trong tương lai, chủ đầu tư phải có văn bản thông báo cho cơ quan quản lý nhà ở cấp tỉnh về việc nhà ở đủ điều kiện được bán, cho thuê mua.",
+                    "text": "Trước khi bán, cho thuê mua nhà ở hình thành trong tương lai, chủ đầu tư phải có văn bản thông báo cho cơ quan quản lý nhà ở cấp tỉnh về việc nhà ở đủ điều kiện được bán, cho thuê mua. Trong thời hạn 15 ngày kể từ ngày nhận được thông báo, cơ quan quản lý nhà ở cấp tỉnh có trách nhiệm trả lời bằng văn bản cho chủ đầu tư về nhà ở đủ điều kiện được bán, cho thuê mua; trường hợp không đủ điều kiện phải nêu rõ lý do.",
                     "sub_clauses": []
                 }
             ]
@@ -1981,12 +2030,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chủ đầu tư dự án bất động sản trước khi bán, cho thuê mua nhà ở hình thành trong tương lai phải được ngân hàng thương mại có đủ năng lực thực hiện bảo lãnh nghĩa vụ tài chính của chủ đầu tư đối với khách hàng khi chủ đầu tư không bàn giao nhà ở theo đúng tiến độ đã cam kết với khách hàng.",
+                    "text": "Chủ đầu tư dự án bất động sản trước khi bán, cho thuê mua nhà ở hình thành trong tương lai phải được ngân hàng thương mại có đủ năng lực thực hiện bảo lãnh nghĩa vụ tài chính của chủ đầu tư đối với khách hàng khi chủ đầu tư không bàn giao nhà ở theo đúng tiến độ đã cam kết với khách hàng. Ngân hàng Nhà nước Việt Nam công bố danh sách ngân hàng thương mại có đủ năng lực thực hiện bảo lãnh trong kinh doanh bất động sản hình thành trong tương lai.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Phạm vi, điều kiện, nội dung và phí bảo lãnh do các bên thỏa thuận nhưng phải bảo đảm thực hiện trách nhiệm của bên bảo lãnh quy định tại khoản 3 Điều này và phải được lập thành hợp đồng. Chủ đầu tư có trách nhiệm gửi bản sao hợp đồng bảo lãnh cho bên mua, bên thuê mua khi ký kết hợp đồng mua, thuê mua.",
+                    "text": "Phạm vi, điều kiện, nội dung và phí bảo lãnh do các bên thỏa thuận nhưng phải bảo đảm thực hiện trách nhiệm của bên bảo lãnh quy định tại khoản 3 Điều này và phải được lập thành hợp đồng. Chủ đầu tư có trách nhiệm gửi bản sao hợp đồng bảo lãnh cho bên mua, bên thuê mua khi ký kết hợp đồng mua, thuê mua. Hợp đồng bảo lãnh có thời hạn cho đến khi nhà ở được bàn giao cho bên mua, bên thuê mua.",
                     "sub_clauses": []
                 },
                 {
@@ -2007,7 +2056,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Việc thanh toán trong mua bán, thuê mua bất động sản hình thành trong tương lai được thực hiện nhiều lần, lần đầu không quá 30% giá trị hợp đồng, những lần tiếp theo phải phù hợp với tiến độ xây dựng bất động sản nhưng tổng số không quá 70% giá trị hợp đồng khi chưa bàn giao nhà, công trình xây dựng cho khách hàng; trường hợp bên bán, bên cho thuê mua là doanh nghiệp có vốn đầu tư nước ngoài thì tổng số không quá 50% giá trị hợp đồng.",
+                    "text": "Việc thanh toán trong mua bán, thuê mua bất động sản hình thành trong tương lai được thực hiện nhiều lần, lần đầu không quá 30% giá trị hợp đồng, những lần tiếp theo phải phù hợp với tiến độ xây dựng bất động sản nhưng tổng số không quá 70% giá trị hợp đồng khi chưa bàn giao nhà, công trình xây dựng cho khách hàng; trường hợp bên bán, bên cho thuê mua là doanh nghiệp có vốn đầu tư nước ngoài thì tổng số không quá 50% giá trị hợp đồng. Trường hợp bên mua, bên thuê mua chưa được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất thì bên bán, bên cho thuê mua không được thu quá 95% giá trị hợp đồng; giá trị còn lại của hợp đồng được thanh toán khi cơ quan nhà nước có thẩm quyền đã cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất cho bên mua, bên thuê mua.",
                     "sub_clauses": []
                 },
                 {
@@ -2021,6 +2070,11 @@
             "id": "Điều 58",
             "title": "Quyền và nghĩa vụ của các bên trong mua bán, thuê mua bất động sản hình thành trong tương lai",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Ngoài các quyền và nghĩa vụ của các bên trong mua bán, thuê mua bất động sản quy định tại Chương II của Luật này, các bên còn có các quyền và nghĩa vụ sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Bên mua, bên thuê mua có quyền yêu cầu bên bán, bên cho thuê mua cung cấp thông tin về tiến độ đầu tư xây dựng, việc sử dụng tiền ứng trước và kiểm tra thực tế tại công trình;",
@@ -2059,7 +2113,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. CHƯƠNG IV KINH DOANH DỊCH VỤ BẤT ĐỘNG SẢN Mục 1 QUY ĐỊNH CHUNG",
                     "sub_clauses": []
                 }
             ]
@@ -2067,7 +2121,13 @@
         {
             "id": "Điều 60",
             "title": "Phạm vi kinh doanh dịch vụ bất động sản của tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân trong nước, người Việt Nam định cư ở nước ngoài, tổ chức, cá nhân nước ngoài có quyền kinh doanh các dịch vụ môi giới bất động sản, sàn giao dịch bất động sản, tư vấn bất động sản, quản lý bất động sản theo quy định của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 61",
@@ -2103,7 +2163,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Hợp đồng kinh doanh dịch vụ bất động sản do các bên thỏa thuận và phải có các nội dung chính sau đây:",
+                    "text": "Hợp đồng kinh doanh dịch vụ bất động sản do các bên thỏa thuận và phải có các nội dung chính sau đây: Mục 2 DỊCH VỤ MÔI GIỚI BẤT ĐỘNG SẢN",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2320,7 +2380,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ trưởng Bộ Xây dựng quy định cụ thể việc cấp chứng chỉ hành nghề môi giới bất động sản.",
+                    "text": "Bộ trưởng Bộ Xây dựng quy định cụ thể việc cấp chứng chỉ hành nghề môi giới bất động sản. Mục 3 DỊCH VỤ SÀN GIAO DỊCH BẤT ĐỘNG SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -2462,7 +2522,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức, cá nhân tham gia sàn giao dịch bất động sản có các nghĩa vụ sau đây:",
+                    "text": "Tổ chức, cá nhân tham gia sàn giao dịch bất động sản có các nghĩa vụ sau đây: Mục 4 DỊCH VỤ TƯ VẤN, QUẢN LÝ BẤT ĐỘNG SẢN",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2573,7 +2633,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Doanh nghiệp kinh doanh dịch vụ quản lý bất động sản chịu trách nhiệm thực hiện cam kết trong hợp đồng và bồi thường thiệt hại do lỗi của mình gây ra.",
+                    "text": "Doanh nghiệp kinh doanh dịch vụ quản lý bất động sản chịu trách nhiệm thực hiện cam kết trong hợp đồng và bồi thường thiệt hại do lỗi của mình gây ra. CHƯƠNG V QUẢN LÝ NHÀ NƯỚC VỀ KINH DOANH BẤT ĐỘNG SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -2771,7 +2831,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Xử lý thu hồi dự án bất động sản:",
+                    "text": "Xử lý thu hồi dự án bất động sản: CHƯƠNG VI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2822,13 +2882,29 @@
         {
             "id": "Điều 81",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2015. Luật kinh doanh bất động sản số 63/2006/QH11 hết hiệu lực thi hành kể từ ngày Luật này có hiệu lực thi hành.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 82",
             "title": "Quy định chi tiết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 25 tháng 11 năm 2014. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 8 thông qua ngày 25 tháng 11 năm 2014.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

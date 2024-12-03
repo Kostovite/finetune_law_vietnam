@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định nguyên tắc, trình tự, thủ tục thi hành bản án, quyết định dân sự, hình phạt tiền, tịch thu tài sản, truy thu tiền, tài sản thu lợi bất chính, xử lý vật chứng, tài sản, án phí và quyết định dân sự trong bản án, quyết định hình sự, phần tài sản trong bản án, quyết định hành chính của Toà án, quyết định xử lý vụ việc cạnh tranh có liên quan đến tài sản của bên phải thi hành án của Hội đồng xử lý vụ việc cạnh tranh và quyết định của Trọng tài thương mại (sau đây gọi chung là bản án, quyết định); hệ thống tổ chức thi hành án dân sự và Chấp hành viên; quyền, nghĩa vụ của người được thi hành án, người phải thi hành án, người có quyền lợi, nghĩa vụ liên quan; nhiệm vụ, quyền hạn của cơ quan, tổ chức, cá nhân trong hoạt động thi hành án dân sự."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Bản án, quyết định được thi hành",
+        "text": "Những bản án, quyết định được thi hành theo Luật này bao gồm:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -70,6 +84,13 @@
         "text": "Quyết định áp dụng biện pháp khẩn cấp tạm thời."
     },
     {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -126,6 +147,20 @@
         "text": "Chi phí cưỡng chế thi hành án là các khoản chi phí do người phải thi hành án chịu để tổ chức cưỡng chế thi hành án, trừ trường hợp pháp luật quy định chi phí cưỡng chế thi hành án do người được thi hành án hoặc do ngân sách nhà nước chi trả."
     },
     {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Bảo đảm hiệu lực của bản án, quyết định",
+        "text": "Bản án, quyết định quy định tại Điều 2 của Luật này phải được cơ quan, tổ chức và mọi công dân tôn trọng. Cá nhân, cơ quan, tổ chức có liên quan trong phạm vi trách nhiệm của mình chấp hành nghiêm chỉnh bản án, quyết định và phải chịu trách nhiệm trước pháp luật về việc thi hành án."
+    },
+    {
+        "id": "Điều 5.0",
+        "article": "Điều 5",
+        "clause": "0",
+        "title": "Bảo đảm quyền, lợi ích hợp pháp của đương sự, người có quyền lợi, nghĩa vụ liên quan",
+        "text": "Trong quá trình thi hành án, quyền, lợi ích hợp pháp của đương sự, người có quyền lợi, nghĩa vụ liên quan được tôn trọng và được pháp luật bảo vệ."
+    },
+    {
         "id": "Điều 6.1",
         "article": "Điều 6",
         "clause": "1",
@@ -138,6 +173,13 @@
         "clause": "2",
         "title": "Thoả thuận thi hành án",
         "text": "Trường hợp đương sự không thực hiện đúng thoả thuận thì có quyền yêu cầu cơ quan thi hành án dân sự thi hành phần nghĩa vụ chưa được thi hành theo nội dung bản án, quyết định."
+    },
+    {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Quyền yêu cầu thi hành án",
+        "text": "Người được thi hành án, người phải thi hành án căn cứ vào bản án, quyết định có quyền yêu cầu cơ quan thi hành án dân sự tổ chức thi hành án."
     },
     {
         "id": "Điều 8.1",
@@ -168,6 +210,13 @@
         "text": "Người phải thi hành án có điều kiện thi hành án mà không tự nguyện thi hành thì bị cưỡng chế thi hành án theo quy định của Luật này."
     },
     {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Trách nhiệm bồi thường thiệt hại",
+        "text": "Cơ quan, tổ chức và cá nhân vi phạm quy định của Luật này mà gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 11.1",
         "article": "Điều 11",
         "clause": "1",
@@ -194,6 +243,13 @@
         "clause": "2",
         "title": "Giám sát và kiểm sát việc thi hành án",
         "text": "Viện kiểm sát các cấp trong phạm vi nhiệm vụ, quyền hạn của mình kiểm sát việc tuân theo pháp luật về thi hành án của cơ quan thi hành án dân sự, Chấp hành viên, cơ quan, tổ chức và cá nhân có liên quan đến việc thi hành án nhằm bảo đảm việc thi hành án kịp thời, đầy đủ, đúng pháp luật. CHƯƠNG II HỆ THỐNG TỔ CHỨC THI HÀNH ÁN DÂN SỰ VÀ CHẤP HÀNH VIÊN"
+    },
+    {
+        "id": "Điều 13.0",
+        "article": "Điều 13",
+        "clause": "0",
+        "title": "Hệ thống tổ chức thi hành án dân sự",
+        "text": "Hệ thống tổ chức thi hành án dân sự bao gồm:"
     },
     {
         "id": "Điều 13.1",
@@ -805,6 +861,34 @@
         "text": "Phó thủ trưởng cơ quan thi hành án dân sự thực hiện nhiệm vụ, quyền hạn theo sự phân công hoặc ủy quyền của Thủ trưởng cơ quan thi hành án dân sự và chịu trách nhiệm trong phạm vi công việc được giao."
     },
     {
+        "id": "Điều 24.0",
+        "article": "Điều 24",
+        "clause": "0",
+        "title": "Biên chế, kinh phí, cơ sở vật chất của cơ quan thi hành án dân sự",
+        "text": "Nhà nước bảo đảm biên chế, kinh phí, trụ sở làm việc, công cụ hỗ trợ thi hành án, ứng dụng công nghệ thông tin và phương tiện, trang thiết bị cần thiết khác cho cơ quan thi hành án dân sự."
+    },
+    {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Trang phục, phù hiệu, chế độ đối với công chức làm công tác thi hành án dân sự",
+        "text": "Chấp hành viên, Thẩm tra viên và công chức khác làm công tác thi hành án dân sự được cấp trang phục, phù hiệu để sử dụng trong khi thi hành công vụ, được hưởng tiền lương, chế độ phụ cấp phù hợp với nghề nghiệp và chế độ ưu đãi khác theo quy định của Chính phủ. CHƯƠNG III THỦ TỤC THI HÀNH ÁN DÂN SỰ"
+    },
+    {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Hướng dẫn quyền yêu cầu thi hành án dân sự",
+        "text": "Khi ra bản án, quyết định, Toà án, Hội đồng xử lý vụ việc cạnh tranh, Trọng tài thương mại phải giải thích cho đương sự, đồng thời ghi rõ trong bản án, quyết định về quyền yêu cầu thi hành án, nghĩa vụ thi hành án, thời hiệu yêu cầu thi hành án."
+    },
+    {
+        "id": "Điều 27.0",
+        "article": "Điều 27",
+        "clause": "0",
+        "title": "Cấp bản án, quyết định",
+        "text": "Toà án, Hội đồng xử lý vụ việc cạnh tranh, Trọng tài thương mại đã ra bản án, quyết định được quy định tại Điều 2 của Luật này phải cấp cho đương sự bản án, quyết định có ghi “Để thi hành\"."
+    },
+    {
         "id": "Điều 28.1",
         "article": "Điều 28",
         "clause": "1",
@@ -831,6 +915,13 @@
         "clause": "4",
         "title": "Chuyển giao bản án, quyết định",
         "text": "Trường hợp cơ quan có thẩm quyền đã kê biên tài sản, tạm giữ tài sản, thu giữ vật chứng hoặc thu giữ các tài liệu khác có liên quan đến việc thi hành án thì khi chuyển giao bản án, quyết định cho cơ quan thi hành án dân sự, Toà án phải gửi kèm theo bản sao biên bản về việc kê biên, tạm giữ tài sản, thu giữ vật chứng hoặc tài liệu khác có liên quan."
+    },
+    {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Thủ tục nhận bản án, quyết định",
+        "text": "Khi nhận bản án, quyết định do Toà án chuyển giao, cơ quan thi hành án dân sự phải kiểm tra, vào sổ nhận bản án, quyết định. Sổ nhận bản án, quyết định phải ghi rõ số thứ tự; ngày, tháng, năm nhận bản án, quyết định; số, ngày, tháng, năm của bản án, quyết định và tên Toà án đã ra bản án, quyết định; họ, tên, địa chỉ của đương sự và tài liệu khác có liên quan. Việc giao, nhận trực tiếp bản án, quyết định phải có chữ ký của hai bên. Trong trường hợp nhận được bản án, quyết định và tài liệu có liên quan bằng đường bưu điện thì cơ quan thi hành án dân sự phải thông báo bằng văn bản cho Toà án đã chuyển giao biết."
     },
     {
         "id": "Điều 30.1",
@@ -1295,6 +1386,13 @@
         "text": "Quyết định thu hồi, sửa đổi, bổ sung, huỷ bỏ quyết định về thi hành án phải ghi rõ căn cứ, nội dung và hậu quả pháp lý của việc thu hồi, sửa đổi, bổ sung, huỷ bỏ."
     },
     {
+        "id": "Điều 38.0",
+        "article": "Điều 38",
+        "clause": "0",
+        "title": "Gửi quyết định về thi hành án",
+        "text": "Quyết định về thi hành án phải được gửi cho Viện kiểm sát cùng cấp. Quyết định cưỡng chế thi hành án phải được gửi cho Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là Uỷ ban nhân dân cấp xã) nơi tổ chức cưỡng chế thi hành án hoặc cơ quan, tổ chức có liên quan đến việc thực hiện quyết định cưỡng chế thi hành án."
+    },
+    {
         "id": "Điều 39.1",
         "article": "Điều 39",
         "clause": "1",
@@ -1363,6 +1461,13 @@
         "clause": "3",
         "title": "Thủ tục thông báo trực tiếp cho cá nhân",
         "text": "Trường hợp người được thông báo đã chuyển đến địa chỉ mới thì phải thông báo theo địa chỉ mới của người được thông báo."
+    },
+    {
+        "id": "Điều 41.0",
+        "article": "Điều 41",
+        "clause": "0",
+        "title": "Thủ tục thông báo trực tiếp cho cơ quan, tổ chức",
+        "text": "Trường hợp người được thông báo là cơ quan, tổ chức thì văn bản thông báo phải được giao trực tiếp cho người đại diện theo pháp luật hoặc người chịu trách nhiệm nhận văn bản của cơ quan, tổ chức đó và phải được những người này ký nhận. Trường hợp cơ quan, tổ chức được thông báo có người đại diện tham gia việc thi hành án hoặc cử người đại diện nhận văn bản thông báo thì những người này ký nhận văn bản thông báo. Ngày ký nhận là ngày được thông báo hợp lệ."
     },
     {
         "id": "Điều 42.1",
@@ -1750,6 +1855,13 @@
         "text": "Khi người phải thi hành án có điều kiện thi hành thì người được thi hành án có quyền yêu cầu thi hành bản án, quyết định trong thời hạn quy định tại khoản 1 Điều 30 của Luật này, kể từ ngày phát hiện người phải thi hành án có điều kiện thi hành."
     },
     {
+        "id": "Điều 52.0",
+        "article": "Điều 52",
+        "clause": "0",
+        "title": "Kết thúc thi hành án",
+        "text": "Việc thi hành án đương nhiên kết thúc trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 52.1",
         "article": "Điều 52",
         "clause": "1",
@@ -1769,6 +1881,13 @@
         "clause": "3",
         "title": "Kết thúc thi hành án",
         "text": "Có quyết định trả đơn yêu cầu thi hành án."
+    },
+    {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Xác nhận kết quả thi hành án",
+        "text": "Đương sự có quyền yêu cầu cơ quan thi hành án dân sự xác nhận kết quả thi hành án. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được yêu cầu của đương sự, Thủ trưởng cơ quan thi hành án dân sự cấp giấy xác nhận kết quả thi hành án."
     },
     {
         "id": "Điều 54.1",
@@ -1974,6 +2093,20 @@
         "text": "Người được giao bảo quản tài sản vi phạm quy định của pháp luật trong việc bảo quản tài sản thì tuỳ theo tính chất, mức độ vi phạm mà bị xử phạt hành chính, xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
     },
     {
+        "id": "Điều 59.0",
+        "article": "Điều 59",
+        "clause": "0",
+        "title": "Việc thi hành án khi có thay đổi giá tài sản tại thời điểm thi hành án",
+        "text": "Trường hợp theo bản án, quyết định mà một bên được nhận tài sản và phải thanh toán cho người khác giá trị tài sản họ được nhận, nhưng tại thời điểm thi hành án, giá tài sản thay đổi và một trong các bên đương sự có yêu cầu định giá tài sản đó thì tài sản được định giá theo quy định tại Điều 98 của Luật này để thi hành án."
+    },
+    {
+        "id": "Điều 60.0",
+        "article": "Điều 60",
+        "clause": "0",
+        "title": "Phí thi hành án dân sự",
+        "text": "Người được thi hành án phải nộp phí thi hành án dân sự. Chính phủ quy định mức phí thi hành án dân sự, thủ tục thu nộp, quản lý, sử dụng phí thi hành án dân sự."
+    },
+    {
         "id": "Điều 61.1",
         "article": "Điều 61",
         "clause": "1",
@@ -2042,6 +2175,13 @@
         "clause": "4",
         "title": "Điều kiện miễn, giảm nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước",
         "text": "Việc xét miễn, giảm nghĩa vụ thi hành án được tiến hành thường xuyên nhưng mỗi người phải thi hành án chỉ được xét miễn hoặc giảm một lần trong 01 năm. Trường hợp một người phải thi hành nhiều khoản nộp ngân sách nhà nước trong nhiều bản án, quyết định khác nhau thì đối với mỗi bản án, quyết định, người phải thi hành án chỉ được xét miễn hoặc giảm thi hành án một lần trong 01 năm."
+    },
+    {
+        "id": "Điều 62.0",
+        "article": "Điều 62",
+        "clause": "0",
+        "title": "Hồ sơ đề nghị xét miễn, giảm nghĩa vụ thi hành án đối với khoản thu nộp ngân sách nhà nước",
+        "text": "Cơ quan thi hành án dân sự lập hồ sơ đề nghị Tòa án có thẩm quyền xem xét miễn, giảm nghĩa vụ thi hành án. Hồ sơ bao gồm các tài liệu sau đây:"
     },
     {
         "id": "Điều 62.1",
@@ -2142,6 +2282,13 @@
         "text": "Trường hợp sau khi quyết định cho miễn, giảm thi hành án có hiệu lực mà phát hiện người phải thi hành án có hành vi cất giấu, tẩu tán tài sản để xin miễn, giảm, trốn tránh việc thi hành án thì cơ quan thi hành án dân sự, Viện kiểm sát đã đề nghị xét miễn, giảm có trách nhiệm đề nghị Chánh án Toà án, Viện trưởng Viện kiểm sát có thẩm quyền theo quy định của pháp luật tố tụng hình sự và tố tụng dân sự xem xét việc kháng nghị quyết định miễn, giảm thi hành án theo thủ tục tái thẩm."
     },
     {
+        "id": "Điều 65.0",
+        "article": "Điều 65",
+        "clause": "0",
+        "title": "Bảo đảm tài chính từ ngân sách nhà nước để thi hành án",
+        "text": "Trường hợp cơ quan, tổ chức hoạt động hoàn toàn bằng kinh phí do ngân sách nhà nước cấp phải thi hành án đã áp dụng mọi biện pháp tài chính cần thiết mà vẫn không có khả năng thi hành án thì ngân sách nhà nước bảo đảm nghĩa vụ thi hành án. Việc xử lý trách nhiệm vật chất đối với người gây ra thiệt hại được thực hiện theo quy định của pháp luật. Chính phủ quy định thẩm quyền, điều kiện, đối tượng, thủ tục bảo đảm tài chính để thi hành án. CHƯƠNG IV BIỆN PHÁP BẢO ĐẢM VÀ CƯỠNG CHẾ THI HÀNH ÁN Mục 1 BIỆN PHÁP BẢO ĐẢM THI HÀNH ÁN"
+    },
+    {
         "id": "Điều 66.1",
         "article": "Điều 66",
         "clause": "1",
@@ -2238,6 +2385,20 @@
         "clause": "3b",
         "title": "Tạm giữ tài sản, giấy tờ của đương sự",
         "text": "Trả lại tài sản, giấy tờ tạm giữ cho đương sự trong trường hợp đương sự chứng minh tài sản, giấy tờ tạm giữ không thuộc quyền sở hữu của người phải thi hành án. Việc trả lại tài sản, giấy tờ tạm giữ phải lập biên bản, có chữ ký của các bên."
+    },
+    {
+        "id": "Điều 69.0",
+        "article": "Điều 69",
+        "clause": "0",
+        "title": "Tạm dừng việc đăng ký, chuyển quyền sở hữu, sử dụng, thay đổi hiện trạng tài sản",
+        "text": "Trường hợp cần ngăn chặn hoặc phát hiện đương sự có hành vi chuyển quyền sở hữu, sử dụng, tẩu tán, huỷ hoại, thay đổi hiện trạng tài sản, Chấp hành viên ra quyết định tạm dừng việc đăng ký, chuyển quyền sở hữu, sử dụng, thay đổi hiện trạng tài sản của người phải thi hành án và gửi cho cơ quan, tổ chức, cá nhân có liên quan để tạm dừng việc đăng ký, chuyển quyền sở hữu, sử dụng, thay đổi hiện trạng tài sản đó. Trong thời hạn 15 ngày, kể từ ngày ra quyết định, Chấp hành viên thực hiện việc kê biên tài sản hoặc chấm dứt việc tạm dừng việc đăng ký, chuyển quyền sở hữu, sử dụng, thay đổi hiện trạng tài sản. Mục 2 QUY ĐỊNH CHUNG VỀ CƯỠNG CHẾ THI HÀNH ÁN"
+    },
+    {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Căn cứ cưỡng chế thi hành án",
+        "text": "Căn cứ để cưỡng chế thi hành án bao gồm:"
     },
     {
         "id": "Điều 70.1",
@@ -2534,6 +2695,13 @@
         "text": "Khi bán tài sản chung, chủ sở hữu chung được quyền ưu tiên mua tài sản."
     },
     {
+        "id": "Điều 75.0",
+        "article": "Điều 75",
+        "clause": "0",
+        "title": "Xử lý đối với tài sản khi cưỡng chế có tranh chấp",
+        "text": "Trường hợp cưỡng chế đối với tài sản của người phải thi hành án mà có tranh chấp với người khác thì Chấp hành viên tiến hành cưỡng chế và yêu cầu đương sự, người có tranh chấp khởi kiện tại Toà án hoặc đề nghị cơ quan có thẩm quyền giải quyết. Chấp hành viên xử lý tài sản đã kê biên theo quyết định của Toà án, cơ quan có thẩm quyền. Trong thời hạn 30 ngày, kể từ ngày Chấp hành viên yêu cầu mà đương sự, người có tranh chấp không khởi kiện tại Toà án hoặc đề nghị cơ quan có thẩm quyền giải quyết thì tài sản được xử lý để thi hành án theo quy định của Luật này. Mục 3 CƯỠNG CHẾ THI HÀNH ĐỐI VỚI TÀI SẢN LÀ TIỀN"
+    },
+    {
         "id": "Điều 76.1",
         "article": "Điều 76",
         "clause": "1",
@@ -2646,6 +2814,20 @@
         "text": "Chấp hành viên cấp biên lai thu tiền cho người phải thi hành án."
     },
     {
+        "id": "Điều 80.0",
+        "article": "Điều 80",
+        "clause": "0",
+        "title": "Thu tiền của người phải thi hành án đang giữ",
+        "text": "Trường hợp phát hiện người phải thi hành án đang giữ tiền mà có căn cứ xác định khoản tiền đó là của người phải thi hành án thì Chấp hành viên ra quyết định thu tiền để thi hành án. Chấp hành viên lập biên bản thu tiền và cấp biên lai cho người phải thi hành án. Trường hợp người phải thi hành án không ký vào biên bản thì phải có chữ ký của người làm chứng."
+    },
+    {
+        "id": "Điều 81.0",
+        "article": "Điều 81",
+        "clause": "0",
+        "title": "Thu tiền của người phải thi hành án đang do người thứ ba giữ",
+        "text": "Trường hợp phát hiện người thứ ba đang giữ tiền của người phải thi hành án thì Chấp hành viên ra quyết định thu khoản tiền đó để thi hành án. Người thứ ba đang giữ tiền của người phải thi hành án có nghĩa vụ giao nộp tiền cho Chấp hành viên để thi hành án. Chấp hành viên lập biên bản thu tiền, cấp biên lai cho người thứ ba đang giữ tiền và thông báo cho người phải thi hành án. Trường hợp người thứ ba đang giữ tiền không ký vào biên bản thì phải có chữ ký của người làm chứng. Mục 4 CƯỠNG CHẾ ĐỐI VỚI TÀI SẢN LÀ GIẤY TỜ CÓ GIÁ"
+    },
+    {
         "id": "Điều 82.1",
         "article": "Điều 82",
         "clause": "1",
@@ -2658,6 +2840,13 @@
         "clause": "2",
         "title": "Thu giữ giấy tờ có giá",
         "text": "Người phải thi hành án hoặc cơ quan, tổ chức, cá nhân giữ giấy tờ có giá của người phải thi hành án phải chuyển giao giấy tờ đó cho cơ quan thi hành án dân sự theo quy định của pháp luật. Trường hợp người phải thi hành án hoặc cơ quan, tổ chức, cá nhân giữ giấy tờ có giá không giao giấy tờ cho cơ quan thi hành án dân sự thì Chấp hành viên yêu cầu cơ quan, tổ chức có thẩm quyền chuyển giao giá trị của giấy tờ đó để thi hành án."
+    },
+    {
+        "id": "Điều 83.0",
+        "article": "Điều 83",
+        "clause": "0",
+        "title": "Bán giấy tờ có giá",
+        "text": "Việc bán giấy tờ có giá được thực hiện theo quy định của pháp luật. Mục 5 CƯỠNG CHẾ ĐỐI VỚI TÀI SẢN LÀ QUYỀN SỞ HỮU TRÍ TUỆ"
     },
     {
         "id": "Điều 84.1",
@@ -2849,6 +3038,13 @@
         "text": "Khi kê biên tài sản đang cầm cố, thế chấp, Chấp hành viên phải thông báo ngay cho người nhận cầm cố, nhận thế chấp; khi xử lý tài sản kê biên, người nhận cầm cố, nhận thế chấp được ưu tiên thanh toán theo quy định tại khoản 3 Điều 47 của Luật này."
     },
     {
+        "id": "Điều 91.0",
+        "article": "Điều 91",
+        "clause": "0",
+        "title": "Kê biên tài sản của người phải thi hành án đang do người thứ ba giữ",
+        "text": "Trường hợp xác định người thứ ba đang giữ tài sản của người phải thi hành án, kể cả trường hợp tài sản được xác định bằng bản án, quyết định khác thì Chấp hành viên ra quyết định kê biên tài sản đó để thi hành án; trường hợp người thứ ba không tự nguyện giao tài sản thì Chấp hành viên cưỡng chế buộc họ phải giao tài sản để thi hành án. Trường hợp tài sản kê biên đang cho thuê thì người thuê được tiếp tục thuê theo hợp đồng đã giao kết."
+    },
+    {
         "id": "Điều 92.1",
         "article": "Điều 92",
         "clause": "1",
@@ -2861,6 +3057,20 @@
         "clause": "2",
         "title": "Kê biên vốn góp",
         "text": "Đương sự có quyền yêu cầu Toà án xác định phần vốn góp của người phải thi hành án."
+    },
+    {
+        "id": "Điều 93.0",
+        "article": "Điều 93",
+        "clause": "0",
+        "title": "Kê biên đồ vật bị khóa, đóng gói",
+        "text": "Khi kê biên đồ vật đang bị khoá hoặc đóng gói thì Chấp hành viên yêu cầu người phải thi hành án, người đang sử dụng, quản lý đồ vật mở khoá, mở gói; nếu họ không mở hoặc cố tình vắng mặt thì Chấp hành viên tự mình hoặc có thể thuê cá nhân, tổ chức khác mở khoá, phá khoá hoặc mở gói, trong trường hợp này phải có người làm chứng. Người phải thi hành án phải chịu thiệt hại do việc mở khoá, phá khóa, mở gói. Trường hợp cần thiết, sau khi mở khoá, phá khoá, mở gói, Chấp hành viên niêm phong đồ vật và giao bảo quản theo quy định tại Điều 58 của Luật này. Việc mở khoá, phá khoá, mở gói hoặc niêm phong phải lập biên bản, có chữ ký của những người tham gia và người làm chứng."
+    },
+    {
+        "id": "Điều 94.0",
+        "article": "Điều 94",
+        "clause": "0",
+        "title": "Kê biên tài sản gắn liền với đất",
+        "text": "Khi kê biên tài sản là công trình xây dựng gắn liền với đất phải kê biên cả quyền sử dụng đất, trừ trường hợp quyền sử dụng đất không được kê biên theo quy định của pháp luật hoặc việc tách rời tài sản kê biên và đất không làm giảm đáng kể giá trị tài sản đó."
     },
     {
         "id": "Điều 95.1",
@@ -2917,6 +3127,13 @@
         "clause": "4",
         "title": "Kê biên phương tiện giao thông",
         "text": "Việc kê biên đối với tàu bay, tàu biển để thi hành án được thực hiện theo quy định của pháp luật về bắt giữ tàu bay, tàu biển."
+    },
+    {
+        "id": "Điều 97.0",
+        "article": "Điều 97",
+        "clause": "0",
+        "title": "Kê biên hoa lợi",
+        "text": "Trường hợp người phải thi hành án có tài sản mang lại hoa lợi, Chấp hành viên kê biên hoa lợi đó để bảo đảm thi hành án. Đối với hoa lợi là lương thực, thực phẩm thì khi kê biên, Chấp hành viên phải để lại một phần để người phải thi hành án và gia đình họ sinh sống theo quy định tại điểm a khoản 2 Điều 87 của Luật này."
     },
     {
         "id": "Điều 98.1",
@@ -3108,6 +3325,20 @@
         "text": "Việc xử lý hậu quả và bồi thường thiệt hại do kết quả bán đấu giá tài sản bị huỷ được giải quyết theo quy định của pháp luật."
     },
     {
+        "id": "Điều 103.0",
+        "article": "Điều 103",
+        "clause": "0",
+        "title": "Giao tài sản bán đấu giá",
+        "text": "Người phải thi hành án, người đang quản lý, sử dụng tài sản không giao tài sản bán đấu giá cho người mua được tài sản thì thủ tục cưỡng chế giao tài sản được thực hiện theo quy định tại các điều 114, 115, 116 và 117 của Luật này."
+    },
+    {
+        "id": "Điều 104.0",
+        "article": "Điều 104",
+        "clause": "0",
+        "title": "Xử lý tài sản bán đấu giá không thành",
+        "text": "Trong thời hạn 10 ngày, kể từ ngày bán đấu giá không thành mà đương sự không yêu cầu định giá lại thì Chấp hành viên ra quyết định giảm giá tài sản để tiếp tục bán đấu giá. Mỗi lần giảm giá không quá mười phần trăm giá đã định. Trường hợp giá tài sản đã giảm thấp hơn chi phí cưỡng chế mà người được thi hành án không nhận tài sản để trừ vào số tiền được thi hành án thì tài sản được trả lại cho người phải thi hành án."
+    },
+    {
         "id": "Điều 105.1",
         "article": "Điều 105",
         "clause": "1",
@@ -3239,6 +3470,13 @@
         "clause": "2",
         "title": "Cưỡng chế khai thác đối với tài sản để thi hành án",
         "text": "Chấp hành viên phải ra quyết định cưỡng chế khai thác tài sản. Quyết định ghi rõ hình thức khai thác; số tiền, thời hạn, thời điểm, địa điểm, phương thức nộp tiền cho cơ quan thi hành án dân sự để thi hành án. Quyết định cưỡng chế khai thác tài sản phải được gửi ngay cho cơ quan có thẩm quyền quản lý, đăng ký đối với tài sản đó và Uỷ ban nhân dân cấp xã nơi có tài sản. Việc thực hiện giao dịch, chuyển giao quyền sở hữu tài sản đối với tài sản đang khai thác phải được sự đồng ý của Chấp hành viên."
+    },
+    {
+        "id": "Điều 108.0",
+        "article": "Điều 108",
+        "clause": "0",
+        "title": "Hình thức cưỡng chế khai thác tài sản để thi hành án",
+        "text": "Tài sản của người phải thi hành án bị cưỡng chế khai thác để thi hành án theo các hình thức sau đây:"
     },
     {
         "id": "Điều 108.1",
@@ -3591,6 +3829,13 @@
         "text": "Trường hợp công việc đó phải do chính người phải thi hành án thực hiện thì Chấp hành viên đề nghị cơ quan có thẩm quyền truy cứu trách nhiệm hình sự về tội không chấp hành án."
     },
     {
+        "id": "Điều 119.0",
+        "article": "Điều 119",
+        "clause": "0",
+        "title": "Cưỡng chế thi hành nghĩa vụ không được thực hiện công việc nhất định",
+        "text": "Người phải thi hành án không tự nguyện chấm dứt việc thực hiện công việc mà theo bản án, quyết định không được thực hiện thì Chấp hành viên ra quyết định phạt tiền đối với người đó, trong trường hợp cần thiết có thể yêu cầu họ khôi phục hiện trạng ban đầu. Trường hợp người đó vẫn không chấm dứt công việc không được làm, không khôi phục lại hiện trạng ban đầu thì Chấp hành viên đề nghị cơ quan có thẩm quyền truy cứu trách nhiệm hình sự về tội không chấp hành án."
+    },
+    {
         "id": "Điều 120.1",
         "article": "Điều 120",
         "clause": "1",
@@ -3645,6 +3890,13 @@
         "clause": "3",
         "title": "Chuyển giao vật chứng, tài sản tạm giữ kèm theo bản án, quyết định",
         "text": "Việc tiếp nhận tài sản phải có sự tham gia đầy đủ của Thủ trưởng cơ quan thi hành án dân sự hoặc người được Thủ trưởng cơ quan thi hành án dân sự uỷ quyền, thủ kho, kế toán."
+    },
+    {
+        "id": "Điều 123.0",
+        "article": "Điều 123",
+        "clause": "0",
+        "title": "Thủ tục tiếp nhận vật chứng, tài sản tạm giữ",
+        "text": "Việc tiếp nhận vật chứng, tài sản tạm giữ được tiến hành theo thủ tục sau đây:"
     },
     {
         "id": "Điều 123.1",
@@ -3743,6 +3995,13 @@
         "clause": "5",
         "title": "Trả lại tiền, tài sản tạm giữ cho đương sự",
         "text": "Việc trả lại tiền tạm ứng án phí theo bản án, quyết định được thực hiện theo quy định tại các khoản 1, 2, 3 và 4 Điều này."
+    },
+    {
+        "id": "Điều 127.0",
+        "article": "Điều 127",
+        "clause": "0",
+        "title": "Xử lý tài sản mà bản án, quyết định tuyên kê biên để bảo đảm thi hành án",
+        "text": "Chấp hành viên xử lý theo quy định tại các điều 98, 99, 100 và 101 của Luật này đối với tài sản mà bản án, quyết định tuyên kê biên để bảo đảm thi hành án trong trường hợp người phải thi hành án không tự nguyện thi hành án."
     },
     {
         "id": "Điều 128.1",
@@ -3871,6 +4130,13 @@
         "text": "Trường hợp Toà án tự mình áp dụng biện pháp khẩn cấp tạm thời thì chi phí thi hành án được thanh toán từ ngân sách nhà nước. Mục 3 THI HÀNH QUYẾT ĐỊNH GIÁM ĐỐC THẨM, TÁI THẨM"
     },
     {
+        "id": "Điều 134.0",
+        "article": "Điều 134",
+        "clause": "0",
+        "title": "Thi hành quyết định giám đốc thẩm, tái thẩm tuyên giữ nguyên bản án, quyết định đã có hiệu lực pháp luật",
+        "text": "Trường hợp quyết định giám đốc thẩm, tái thẩm tuyên giữ nguyên bản án, quyết định đã có hiệu lực pháp luật mà bản án, quyết định đó chưa thi hành hoặc đã thi hành được một phần thì Thủ trưởng cơ quan thi hành án dân sự ra quyết định tiếp tục thi hành án. Trường hợp bản án, quyết định đó đã thi hành xong thì Thủ trưởng cơ quan thi hành án dân sự thông báo cho Toà án đã ra quyết định giám đốc thẩm, tái thẩm, Viện kiểm sát cùng cấp và đương sự."
+    },
+    {
         "id": "Điều 135.1",
         "article": "Điều 135",
         "clause": "1",
@@ -3939,6 +4205,13 @@
         "clause": "2",
         "title": "Thi hành các quyết định của Toà án trong quá trình mở thủ tục phá sản",
         "text": "Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được quyết định mở thủ tục phá sản, Tổ trưởng Tổ quản lý, thanh lý tài sản phải lập hồ sơ thi hành án phá sản."
+    },
+    {
+        "id": "Điều 139.0",
+        "article": "Điều 139",
+        "clause": "0",
+        "title": "Thi hành nghĩa vụ về tài sản của doanh nghiệp, hợp tác xã phát sinh sau khi có quyết định tuyên bố phá sản",
+        "text": "Trường hợp doanh nghiệp, hợp tác xã chưa thanh toán nợ phát sinh sau khi có quyết định tuyên bố phá sản thì chủ nợ chưa được thanh toán nợ có quyền gửi đơn yêu cầu Toà án giải quyết. Khi có quyết định giải quyết của Toà án, đương sự có quyền gửi đơn yêu cầu cơ quan thi hành án dân sự ra quyết định thi hành án và tổ chức thi hành theo quy định của Luật này. CHƯƠNG VI KHIẾU NẠI, TỐ CÁO VÀ KHÁNG NGHỊ VỀ THI HÀNH ÁN DÂN SỰ Mục 1 KHIẾU NẠI VÀ GIẢI QUYẾT KHIẾU NẠI VỀ THI HÀNH ÁN DÂN SỰ"
     },
     {
         "id": "Điều 140.1",
@@ -4354,6 +4627,13 @@
         "text": "Đối với quyết định, hành vi quy định tại điểm d khoản 2 Điều 140 của Luật này thì thời hạn giải quyết khiếu nại lần đầu là 15 ngày, lần hai là 30 ngày, kể từ ngày thụ lý đơn khiếu nại."
     },
     {
+        "id": "Điều 147.0",
+        "article": "Điều 147",
+        "clause": "0",
+        "title": "Hình thức khiếu nại",
+        "text": "Người khiếu nại thực hiện việc khiếu nại bằng một trong các hình thức sau đây:"
+    },
+    {
         "id": "Điều 147.1",
         "article": "Điều 147",
         "clause": "1",
@@ -4373,6 +4653,13 @@
         "clause": "3",
         "title": "Hình thức khiếu nại",
         "text": "Khiếu nại thông qua người đại diện. Người đại diện phải có giấy tờ chứng minh tính hợp pháp của việc đại diện và việc khiếu nại phải thực hiện theo đúng thủ tục quy định tại khoản 1 và khoản 2 Điều này."
+    },
+    {
+        "id": "Điều 148.0",
+        "article": "Điều 148",
+        "clause": "0",
+        "title": "Thụ lý đơn khiếu nại",
+        "text": "Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được đơn khiếu nại thuộc thẩm quyền giải quyết và không thuộc trường hợp quy định tại Điều 141 của Luật này, người có thẩm quyền giải quyết khiếu nại lần đầu phải thụ lý để giải quyết và thông báo bằng văn bản cho người khiếu nại biết. Trường hợp người có thẩm quyền không thụ lý đơn khiếu nại để giải quyết thì phải thông báo và nêu rõ lý do."
     },
     {
         "id": "Điều 149.1",
@@ -4422,6 +4709,13 @@
         "clause": "2",
         "title": "Hồ sơ giải quyết khiếu nại",
         "text": "Hồ sơ giải quyết khiếu nại phải được đánh số bút lục và được lưu giữ theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 150.0",
+        "article": "Điều 150",
+        "clause": "0",
+        "title": "Trình tự giải quyết khiếu nại lần đầu",
+        "text": "Sau khi thụ lý đơn khiếu nại, người có thẩm quyền giải quyết khiếu nại tiến hành xác minh, yêu cầu người bị khiếu nại giải trình, trong trường hợp cần thiết, có thể trưng cầu giám định hoặc tổ chức đối thoại để làm rõ nội dung khiếu nại, yêu cầu của người khiếu nại và hướng giải quyết khiếu nại. Người có thẩm quyền giải quyết khiếu nại phải ra quyết định giải quyết khiếu nại đối với khiếu nại thuộc thẩm quyền."
     },
     {
         "id": "Điều 151.1",
@@ -4555,6 +4849,13 @@
         "clause": "8",
         "title": "Nội dung quyết định giải quyết khiếu nại lần hai",
         "text": "Việc bồi thường thiệt hại, khắc phục hậu quả do quyết định, hành vi trái pháp luật gây ra. Mục 2 TỐ CÁO VÀ GIẢI QUYẾT TỐ CÁO TRONG THI HÀNH ÁN DÂN SỰ"
+    },
+    {
+        "id": "Điều 154.0",
+        "article": "Điều 154",
+        "clause": "0",
+        "title": "Người có quyền tố cáo",
+        "text": "Công dân có quyền tố cáo với cơ quan, tổ chức, cá nhân có thẩm quyền về hành vi vi phạm pháp luật của Thủ trưởng cơ quan thi hành án dân sự, Chấp hành viên và công chức khác làm công tác thi hành án dân sự gây thiệt hại hoặc đe dọa gây thiệt hại đến lợi ích của Nhà nước, quyền, lợi ích hợp pháp của công dân, cơ quan, tổ chức."
     },
     {
         "id": "Điều 155.1",
@@ -4723,6 +5024,13 @@
         "clause": "2",
         "title": "Trách nhiệm của người có thẩm quyền giải quyết tố cáo",
         "text": "Người có thẩm quyền giải quyết tố cáo mà không giải quyết, thiếu trách nhiệm trong việc giải quyết, giải quyết trái pháp luật thì tuỳ theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 159.0",
+        "article": "Điều 159",
+        "clause": "0",
+        "title": "Kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo về thi hành án dân sự",
+        "text": "Viện kiểm sát kiểm sát việc tuân theo pháp luật trong việc giải quyết khiếu nại, tố cáo về thi hành án dân sự theo quy định của pháp luật. Viện kiểm sát có quyền yêu cầu, kiến nghị đối với cơ quan thi hành án dân sự cùng cấp và cấp dưới, cơ quan, tổ chức và cá nhân có trách nhiệm để bảo đảm việc giải quyết khiếu nại, tố cáo có căn cứ, đúng pháp luật. Mục 3 KHÁNG NGHỊ VÀ GIẢI QUYẾT KHÁNG NGHỊ VỀ THI HÀNH ÁN DÂN SỰ"
     },
     {
         "id": "Điều 160.1",
@@ -5313,6 +5621,13 @@
         "text": "Yêu cầu cơ quan thi hành án dân sự báo cáo công tác thi hành án dân sự ở địa phương."
     },
     {
+        "id": "Điều 175.0",
+        "article": "Điều 175",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp xã trong thi hành án dân sự",
+        "text": "Chủ tịch Uỷ ban nhân dân cấp xã trong phạm vi nhiệm vụ, quyền hạn của mình phối hợp với Chấp hành viên và cơ quan thi hành án dân sự trong việc thông báo thi hành án, xác minh điều kiện thi hành án, áp dụng biện pháp bảo đảm, biện pháp cưỡng chế thi hành án và các nhiệm vụ khác về thi hành án dân sự trên địa bàn."
+    },
+    {
         "id": "Điều 176.1",
         "article": "Điều 176",
         "clause": "1",
@@ -5404,6 +5719,13 @@
         "text": "Thụ lý và kịp thời giải quyết yêu cầu của cơ quan thi hành án dân sự, đương sự về việc xác định quyền sở hữu, phân chia tài sản hoặc giải quyết tranh chấp về quyền sở hữu, quyền sử dụng tài sản thuộc thẩm quyền của Toà án phát sinh trong quá trình thi hành án."
     },
     {
+        "id": "Điều 180.0",
+        "article": "Điều 180",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của cơ quan, tổ chức được giao theo dõi, quản lý người đang chấp hành án hình sự",
+        "text": "Cơ quan, tổ chức được giao theo dõi, quản lý người đang chấp hành án hình sự theo quy định của Bộ luật tố tụng hình sự trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với cơ quan thi hành án dân sự về các việc sau đây:"
+    },
+    {
         "id": "Điều 180.1",
         "article": "Điều 180",
         "clause": "1",
@@ -5444,5 +5766,19 @@
         "clause": "2",
         "title": "Tương trợ tư pháp về dân sự trong thi hành án",
         "text": "Cơ quan thi hành án dân sự có yêu cầu nước ngoài tương trợ tư pháp về dân sự trong thi hành án phải lập hồ sơ uỷ thác tư pháp theo quy định của pháp luật về tương trợ tư pháp."
+    },
+    {
+        "id": "Điều 182.0",
+        "article": "Điều 182",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2009. Pháp lệnh Thi hành án dân sự năm 2004 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 183.0",
+        "article": "Điều 183",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ, Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao trong phạm vi nhiệm vụ, quyền hạn của mình quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam Khoá XII, kỳ họp thứ 4 thông qua ngày 14 tháng 11 năm 2008. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

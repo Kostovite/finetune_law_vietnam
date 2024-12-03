@@ -15,17 +15,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về viên chức; quyền nghĩa vụ của viên chức; tuyển dụng, sử dụng và quản lý viên chức trong đơn vị sự nghiệp công lập.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Viên chức",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Viên chức là công dân Việt Nam được tuyển dụng theo vị trí việc làm, làm việc tại đơn vị sự nghiệp công lập theo chế độ hợp đồng làm việc, hưởng lương từ quỹ lương của đơn vị sự nghiệp công lập theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Viên chức quản lý là người được bổ nhiệm giữ chức vụ quản lý có thời hạn, chịu trách nhiệm điều hành, tổ chức thực hiện một hoặc một số công việc trong đơn vị sự nghiệp công lập nhưng không phải là công chức và được hưởng phụ cấp chức vụ quản lý.",
@@ -56,7 +73,13 @@
         {
             "id": "Điều 4",
             "title": "Hoạt động nghề nghiệp của viên chức",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Hoạt động nghề nghiệp của viên chức là việc thực hiện công việc hoặc nhiệm vụ có yêu cầu về trình độ, năng lực, kỹ năng chuyên môn, nghiệp vụ trong đơn vị sự nghiệp công lập theo quy định của Luật này và các quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 5",
@@ -198,7 +221,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Nhà nước có chính sách xây dựng, phát triển đội ngũ viên chức có đạo đức nghề nghiệp, có trình độ và năng lực chuyên môn đáp ứng yêu cầu ngày càng cao của khu vực cung ứng dịch vụ công; phát hiện, thu hút, bồi dưỡng, trọng dụng và đãi ngộ xứng đáng đối với người có tài năng để nâng cao chất lượng phục vụ nhân dân.",
+                    "text": "Nhà nước có chính sách xây dựng, phát triển đội ngũ viên chức có đạo đức nghề nghiệp, có trình độ và năng lực chuyên môn đáp ứng yêu cầu ngày càng cao của khu vực cung ứng dịch vụ công; phát hiện, thu hút, bồi dưỡng, trọng dụng và đãi ngộ xứng đáng đối với người có tài năng để nâng cao chất lượng phục vụ nhân dân. Chương II QUYỀN, NGHĨA VỤ CỦA VIÊN CHỨC Mục 1. QUYỀN CỦA VIÊN CHỨC",
                     "sub_clauses": []
                 }
             ]
@@ -315,7 +338,13 @@
         {
             "id": "Điều 15",
             "title": "Các quyền khác của viên chức",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Viên chức được khen thưởng, tôn vinh, được tham gia hoạt động kinh tế xã hội; được hưởng chính sách ưu đãi về nhà ở; được tạo điều kiện học tập hoạt động nghề nghiệp ở trong nước và nước ngoài theo quy định của pháp luật. Trường hợp bị thương hoặc chết do thực hiện công việc hoặc nhiệm vụ được giao thì được xét hưởng chính sách như thương binh hoặc được xét để công nhận là liệt sĩ theo quy định của pháp luật. Mục 2. NGHĨA VỤ CỦA VIÊN CHỨC",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 16",
@@ -411,6 +440,11 @@
             "title": "Nghĩa vụ của viên chức quản lý",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Viên chức quản lý thực hiện các nghĩa vụ quy định tại Điều 16, Điều 17 của Luật này và các nghĩa vụ sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Chỉ đạo và tổ chức thực hiện các nhiệm vụ của đơn vị theo đúng chức trách, thẩm quyền được giao;",
                     "sub_clauses": []
@@ -468,7 +502,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Những việc khác viên chức không được làm theo quy định của Luật phòng, chống tham nhũng, Luật thực hành tiết kiệm, chống lãng phí và các quy định khác của pháp luật có liên quan.",
+                    "text": "Những việc khác viên chức không được làm theo quy định của Luật phòng, chống tham nhũng, Luật thực hành tiết kiệm, chống lãng phí và các quy định khác của pháp luật có liên quan. Chương III TUYỂN DỤNG, SỬ DỤNG VIÊN CHỨC Mục 1. TUYỂN DỤNG",
                     "sub_clauses": []
                 }
             ]
@@ -476,7 +510,13 @@
         {
             "id": "Điều 20",
             "title": "Căn cứ tuyển dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc tuyển dụng viên chức phải căn cứ vào nhu cầu công việc, vị trí việc làm, tiêu chuẩn chức danh nghề nghiệp và quỹ tiền lương của đơn vị sự nghiệp công lập.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 21",
@@ -566,7 +606,13 @@
         {
             "id": "Điều 23",
             "title": "Phương thức tuyển dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc tuyển dụng viên chức được thực hiện thông qua thi tuyển hoặc xét tuyển.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 24",
@@ -574,7 +620,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đối với đơn vị sự nghiệp công lập được giao quyền tự chủ, người đứng đầu đơn vị sự nghiệp công lập thực hiện việc tuyển dụng viên chức và chịu trách nhiệm về quyết định của mình.",
+                    "text": "Đối với đơn vị sự nghiệp công lập được giao quyền tự chủ, người đứng đầu đơn vị sự nghiệp công lập thực hiện việc tuyển dụng viên chức và chịu trách nhiệm về quyết định của mình. Đối với đơn vị sự nghiệp công lập chưa được giao quyền tự chủ, cơ quan có thẩm quyền quản lý đơn vị sự nghiệp công lập thực hiện việc tuyển dụng viên chức hoặc phân cấp cho người đứng đầu đơn vị sự nghiệp công lập thực hiện việc tuyển dụng.",
                     "sub_clauses": []
                 },
                 {
@@ -584,7 +630,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết các nội dung liên quan đến tuyển dụng viên chức quy định tại Luật này.",
+                    "text": "Chính phủ quy định chi tiết các nội dung liên quan đến tuyển dụng viên chức quy định tại Luật này. Mục 2. HỢP ĐỒNG LÀM VIỆC",
                     "sub_clauses": []
                 }
             ]
@@ -611,7 +657,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Hợp đồng làm việc có những nội dung chủ yếu sau:",
+                    "text": "Hợp đồng làm việc có những nội dung chủ yếu sau: Trường hợp người được tuyển dụng là người dưới 18 tuổi thì phải có họ tên, địa chỉ, ngày, tháng, năm sinh của người đại diện theo pháp luật của người được tuyển dụng;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -825,7 +871,13 @@
         {
             "id": "Điều 30",
             "title": "Giải quyết tranh chấp về hợp đồng làm việc",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tranh chấp liên quan đến việc ký kết, thực hiện hoặc chấm dứt hợp đồng làm việc được giải quyết theo quy định của pháp luật về lao động. Mục 3. BỔ NHIỆM, THAY ĐỔI CHỨC DANH NGHỀ NGHIỆP, THAY ĐỔI VỊ TRÍ VIỆC LÀM CỦA VIÊN CHỨC",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 31",
@@ -857,7 +909,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định cụ thể quy trình, thủ tục thi hoặc xét, bổ nhiệm chức danh nghề nghiệp của viên chức, phân công, phân cấp việc tổ chức thi hoặc xét, bổ nhiệm chức danh nghề nghiệp của viên chức.",
+                    "text": "Chính phủ quy định cụ thể quy trình, thủ tục thi hoặc xét, bổ nhiệm chức danh nghề nghiệp của viên chức, phân công, phân cấp việc tổ chức thi hoặc xét, bổ nhiệm chức danh nghề nghiệp của viên chức. Các bộ, cơ quan ngang bộ được giao quản lý nhà nước về các lĩnh vực hoạt động của viên chức chủ trì, phối hợp với Bộ Nội Vụ quy định cụ thể tiêu chuẩn Chức danh nghề nghiệp; điều kiện thi hoặc xét thay đổi chức danh nghề nghiệp của viên chức.",
                     "sub_clauses": []
                 }
             ]
@@ -878,7 +930,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Khi chuyển sang vị trí việc làm mới, việc sửa đổi, bổ sung nội dung hợp đồng làm việc hoặc có thay đổi chức danh nghề nghiệp được thực hiện theo quy định tại khoản 1 Điều 28 và Điều 31 của Luật này.",
+                    "text": "Khi chuyển sang vị trí việc làm mới, việc sửa đổi, bổ sung nội dung hợp đồng làm việc hoặc có thay đổi chức danh nghề nghiệp được thực hiện theo quy định tại khoản 1 Điều 28 và Điều 31 của Luật này. Mục 4. ĐÀO TẠO, BỒI DƯỠNG",
                     "sub_clauses": []
                 }
             ]
@@ -959,7 +1011,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Viên chức được đơn vị sự nghiệp công lập cử đi đào tạo nếu đơn phương chấm dứt hợp đồng làm việc hoặc tự ý bỏ việc phải đền bù chi phí đào tạo theo quy định của Chính phủ.",
+                    "text": "Viên chức được đơn vị sự nghiệp công lập cử đi đào tạo nếu đơn phương chấm dứt hợp đồng làm việc hoặc tự ý bỏ việc phải đền bù chi phí đào tạo theo quy định của Chính phủ. Mục 5. BIỆT PHÁI, BỔ NHIỆM, MIỄN NHIỆM",
                     "sub_clauses": []
                 }
             ]
@@ -1079,7 +1131,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Thẩm quyền, trình tự, thủ tục xem xét, quyết định việc xin thôi giữ chức vụ quản lý, miễn nhiệm viên chức quản lý được thực hiện theo quy định của pháp luật.",
+                    "text": "Thẩm quyền, trình tự, thủ tục xem xét, quyết định việc xin thôi giữ chức vụ quản lý, miễn nhiệm viên chức quản lý được thực hiện theo quy định của pháp luật. Mục 6. ĐÁNH GIÁ VIÊN CHỨC",
                     "sub_clauses": []
                 }
             ]
@@ -1087,12 +1139,23 @@
         {
             "id": "Điều 39",
             "title": "Mục đích của đánh giá viên chức",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Mục đích của đánh giá viên chức để làm căn cứ tiếp tục bố trí, sử dụng, bổ nhiệm, miễn nhiệm, đào tạo, bồi dưỡng, khen thưởng, kỷ luật và thực hiện chế độ, chính sách đối với viên chức.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 40",
             "title": "Căn cứ đánh giá viên chức",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Việc đánh giá viên chức được thực hiện dựa trên các căn cứ sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Các cam kết trong hợp đồng làm việc đã ký kết;",
@@ -1225,7 +1288,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Nếu không nhất trí với kết quả đánh giá và phân loại thì viên chức được quyền khiếu nại lên cấp có thẩm quyền.",
+                    "text": "Nếu không nhất trí với kết quả đánh giá và phân loại thì viên chức được quyền khiếu nại lên cấp có thẩm quyền. Mục 7. CHẾ ĐỘ THÔI VIỆC, HƯU TRÍ",
                     "sub_clauses": []
                 }
             ]
@@ -1275,7 +1338,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Đơn vị sự nghiệp công lập có thể ký hợp đồng vụ, việc với người hưởng chế độ hưu trí nếu đơn vị có nhu cầu và người hưởng chế độ hưu trí có nguyện vọng; trong thời gian hợp đồng, ngoài khoản thù lao theo hợp đồng, người đó được hưởng một số chế độ, chính sách cụ thể về cơ chế quản lý bảo đảm điều kiện cho hoạt động chuyên môn do Chính phủ quy định.",
+                    "text": "Đơn vị sự nghiệp công lập có thể ký hợp đồng vụ, việc với người hưởng chế độ hưu trí nếu đơn vị có nhu cầu và người hưởng chế độ hưu trí có nguyện vọng; trong thời gian hợp đồng, ngoài khoản thù lao theo hợp đồng, người đó được hưởng một số chế độ, chính sách cụ thể về cơ chế quản lý bảo đảm điều kiện cho hoạt động chuyên môn do Chính phủ quy định. Chương IV. QUẢN LÝ VIÊN CHỨC",
                     "sub_clauses": []
                 }
             ]
@@ -1397,7 +1460,13 @@
         {
             "id": "Điều 49",
             "title": "Khiếu nại và giải quyết khiếu nại đối với quyết định liên quan đến quản lý viên chức",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc khiếu nại và giải quyết khiếu nại của viên chức đối với các quyết định của người đứng đầu đơn vị sự nghiệp công lập hoặc cấp có thẩm quyền liên quan đến quản lý viên chức được thực hiện theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 50",
@@ -1415,7 +1484,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Các bộ, cơ quan ngang bộ thanh tra việc thực hiện hoạt động nghề nghiệp của viên chức thuộc ngành, lĩnh vực được giao quản lý.",
+                    "text": "Các bộ, cơ quan ngang bộ thanh tra việc thực hiện hoạt động nghề nghiệp của viên chức thuộc ngành, lĩnh vực được giao quản lý. Chương V KHEN THƯỞNG VÀ XỬ LÝ VI PHẠM",
                     "sub_clauses": []
                 }
             ]
@@ -1495,7 +1564,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thời hạn xử lý kỷ luật đối với viên chức là khoảng thời gian từ khi phát hiện hành vi vi phạm của viên chức đến khi có quyết định xử lý kỷ luật của cấp có thẩm quyền.",
+                    "text": "Thời hạn xử lý kỷ luật đối với viên chức là khoảng thời gian từ khi phát hiện hành vi vi phạm của viên chức đến khi có quyết định xử lý kỷ luật của cấp có thẩm quyền. Thời hạn xử lý kỷ luật không quá 02 tháng; trường hợp vụ việc có những tình tiết phức tạp cần có thời gian thanh tra, kiểm tra để xác minh làm rõ thêm thì thời hạn xử lý kỷ luật có thể kéo dài nhưng không quá 04 tháng.",
                     "sub_clauses": []
                 },
                 {
@@ -1532,7 +1601,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Viên chức khi thực hiện công việc hoặc nhiệm vụ được phân công có lỗi gây thiệt hại cho người khác mà đơn vị sự nghiệp công lập phải bồi thường thì có nghĩa vụ hoàn trả cho đơn vị sự nghiệp công lập.",
+                    "text": "Viên chức khi thực hiện công việc hoặc nhiệm vụ được phân công có lỗi gây thiệt hại cho người khác mà đơn vị sự nghiệp công lập phải bồi thường thì có nghĩa vụ hoàn trả cho đơn vị sự nghiệp công lập. Chính phủ quy định chi tiết việc xác định mức hoàn trả của viên chức.",
                     "sub_clauses": []
                 }
             ]
@@ -1584,7 +1653,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Viên chức quản lý bị Tòa án tuyên phạm tội thì đương nhiên thôi giữ chức vụ quản lý, kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật.",
+                    "text": "Viên chức quản lý bị Tòa án tuyên phạm tội thì đương nhiên thôi giữ chức vụ quản lý, kể từ ngày bản án, quyết định của Tòa án có hiệu lực pháp luật. Chương VI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1654,17 +1723,35 @@
         {
             "id": "Điều 60",
             "title": "Áp dụng quy định của Luật viên chức đối với các đối tượng khác",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định việc áp dụng Luật viên chức đối với những người làm việc trong các đơn vị sự nghiệp thuộc tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, đơn vị sự nghiệp công lập công ty trách nhiệm hữu hạn một thành viên do Nhà nước làm chủ sở hữu.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 61",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2012.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 62",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật này; hướng dẫn thi hành những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 8 thông qua ngày 15 tháng 11 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": []

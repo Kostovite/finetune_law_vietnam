@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về phòng, chống ma túy; quản lý người sử dụng trái phép chất ma túy; cai nghiện ma túy; trách nhiệm của cá nhân, gia đình, cơ quan, tổ chức trong phòng, chống ma túy; quản lý nhà nước và hợp tác quốc tế về phòng, chống ma túy."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -343,6 +357,13 @@
         "text": "Phối hợp với cơ quan, tổ chức, cá nhân có thẩm quyền tổ chức xét nghiệm chất ma túy trong cơ thể khi cần thiết để phát hiện học sinh, sinh viên, học viên sử dụng trái phép chất ma túy."
     },
     {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Trách nhiệm của cơ quan báo chí",
+        "text": "Cơ quan báo chí có trách nhiệm phối hợp với cơ quan, tổ chức có liên quan tuyên truyền chủ trương, chính sách, pháp luật về phòng, chống ma túy."
+    },
+    {
         "id": "Điều 10.1",
         "article": "Điều 10",
         "clause": "1",
@@ -476,6 +497,20 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Kiểm soát hoạt động liên quan đến thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc",
+        "text": "Việc kiểm soát hoạt động liên quan đến thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc thực hiện theo quy định của pháp luật về dược, trừ hoạt động quy định tại điểm b khoản 1 và khoản 2 Điều 17 của Luật này."
+    },
+    {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Kiểm soát hoạt động liên quan đến thuốc thú y có chứa chất ma túy, tiền chất",
+        "text": "Việc kiểm soát hoạt động liên quan đến thuốc thú y có chứa chất ma túy, tiền chất thực hiện theo quy định của Chính phủ."
+    },
+    {
         "id": "Điều 17.1",
         "article": "Điều 17",
         "clause": "1",
@@ -511,6 +546,20 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 18.0",
+        "article": "Điều 18",
+        "clause": "0",
+        "title": "Lập hồ sơ các hoạt động hợp pháp liên quan đến ma túy",
+        "text": "Cơ quan, tổ chức, cá nhân khi tiến hành hoạt động quy định tại khoản 1 Điều 12 của Luật này có trách nhiệm lập hồ sơ và báo cáo theo quy định của Chính phủ."
+    },
+    {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Kiểm soát hoạt động hợp pháp liên quan đến ma túy vì mục đích quốc phòng, an ninh",
+        "text": "Hoạt động nghiên cứu, giám định, sản xuất, vận chuyển, tồn trữ, bảo quản, sử dụng, nhập khẩu, xuất khẩu, tạm nhập, tái xuất, tạm xuất, tái nhập, quá cảnh chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất vì mục đích quốc phòng, an ninh thực hiện theo quy định của Chính phủ."
+    },
+    {
         "id": "Điều 20.1",
         "article": "Điều 20",
         "clause": "1",
@@ -523,6 +572,13 @@
         "clause": "2",
         "title": "Kiểm soát thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất vì mục đích sơ cứu, cấp cứu trong cuộc hành trình, du lịch quốc tế, điều trị bệnh cho bản thân người nhập cảnh, xuất cảnh, quá cảnh",
         "text": "Việc mang theo thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất để điều trị bệnh cho bản thân người nhập cảnh, xuất cảnh hoặc quá cảnh lãnh thổ Việt Nam thực hiện theo quy định của Chính phủ và chịu sự kiểm soát của cơ quan có thẩm quyền của Việt Nam."
+    },
+    {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Xử lý chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất thu giữ trong vụ việc vi phạm pháp luật",
+        "text": "Chất ma túy, tiền chất, thuốc gây nghiện, thuốc hướng thần, thuốc tiền chất, nguyên liệu làm thuốc là dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc, thuốc thú y có chứa chất ma túy, tiền chất bị thu giữ trong các vụ án hình sự, vụ việc vi phạm hành chính được xử lý theo quy định của pháp luật về tố tụng hình sự, pháp luật về xử lý vi phạm hành chính. Chương IV QUẢN LÝ NGƯỜI SỬ DỤNG TRÁI PHÉP CHẤT MA TÚY"
     },
     {
         "id": "Điều 22.1",
@@ -1183,6 +1239,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Đối tượng bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc",
+        "text": "Người nghiện ma túy từ đủ 18 tuổi trở lên bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc theo quy định của Luật Xử lý vi phạm hành chính khi thuộc một trong các trường hợp sau đây:"
+    },
+    {
         "id": "Điều 32.1",
         "article": "Điều 32",
         "clause": "1",
@@ -1652,6 +1715,13 @@
         "text": "Giám thị trại giam, giám thị trại tạm giam, trưởng nhà tạm giữ, giám đốc cơ sở giáo dục bắt buộc, hiệu trưởng trường giáo dưỡng phối hợp chặt chẽ với cơ sở y tế tại địa phương để thực hiện quy định tại khoản 1 Điều này."
     },
     {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Miễn chấp hành thời gian còn lại trong quyết định đưa vào cơ sở cai nghiện bắt buộc đối với người từ đủ 14 tuổi đến dưới 18 tuổi đang cai nghiện ma túy bắt buộc",
+        "text": "Người từ đủ 14 tuổi đến dưới 18 tuổi đang cai nghiện ma túy bắt buộc mà bị phát hiện thực hiện hành vi phạm tội trước hoặc trong thời gian chấp hành quyết định cai nghiện ma túy bắt buộc và bị Tòa án xử phạt tù nhưng không được hưởng án treo thì được miễn chấp hành thời gian còn lại trong quyết định đưa vào cơ sở cai nghiện bắt buộc."
+    },
+    {
         "id": "Điều 40.1",
         "article": "Điều 40",
         "clause": "1",
@@ -2107,6 +2177,13 @@
         "text": "Thống kê người đang tham gia điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế."
     },
     {
+        "id": "Điều 50.0",
+        "article": "Điều 50",
+        "clause": "0",
+        "title": "Trách nhiệm của Bộ Tài chính",
+        "text": "Chỉ đạo cơ quan Hải quan thực hiện hoạt động phòng, chống ma túy theo quy định của Luật này và quy định khác của pháp luật có liên quan. Chương VII HỢP TÁC QUỐC TẾ VỀ PHÒNG, CHỐNG MA TÚY"
+    },
+    {
         "id": "Điều 51.1",
         "article": "Điều 51",
         "clause": "1",
@@ -2119,6 +2196,20 @@
         "clause": "2",
         "title": "Nguyên tắc trong hợp tác quốc tế về phòng, chống ma túy",
         "text": "Trên cơ sở điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên, quy định của Luật này và quy định khác của pháp luật có liên quan, thỏa thuận quốc tế đã ký kết, cơ quan có thẩm quyền của Việt Nam thực hiện chương trình hợp tác về phòng, chống ma túy với cơ quan có liên quan của các nước, tổ chức quốc tế, tổ chức, cá nhân nước ngoài."
+    },
+    {
+        "id": "Điều 52.0",
+        "article": "Điều 52",
+        "clause": "0",
+        "title": "Chính sách hợp tác quốc tế về phòng, chống ma túy",
+        "text": "Nhà nước Việt Nam thực hiện chính sách hợp tác quốc tế đa phương và song phương trong lĩnh vực phòng, chống ma túy trên nguyên tắc tôn trọng độc lập, chủ quyền quốc gia với các nước; khuyến khích tổ chức quốc tế, tổ chức, cá nhân nước ngoài hợp tác với cơ quan, tổ chức của Việt Nam hỗ trợ lẫn nhau về cơ sở vật chất, tăng cường năng lực pháp luật, thông tin, công nghệ đào tạo và y tế cho hoạt động phòng, chống ma túy."
+    },
+    {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Chuyển giao hàng hóa có kiểm soát",
+        "text": "Nhà nước Việt Nam thực hiện yêu cầu chuyển giao hàng hóa có kiểm soát trên cơ sở điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên để phát hiện và truy cứu trách nhiệm hình sự đối với người phạm tội về ma túy. Việc quyết định áp dụng và tiến hành biện pháp này thực hiện theo thỏa thuận giữa cơ quan có thẩm quyền của Việt Nam và của nước có liên quan. Chương VIII ĐIỀU KHOẢN THI HÀNH"
     },
     {
         "id": "Điều 54.1",
@@ -2181,6 +2272,6 @@
         "article": "Điều 55",
         "clause": "2",
         "title": "Quy định chuyển tiếp",
-        "text": "Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành, cơ sở cai nghiện ma túy bắt buộc được thành lập theo quy định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12 phải đáp ứng đủ điều kiện của cơ sở cai nghiện ma túy công lập theo quy định của Luật này. Các cơ sở khác về cai nghiện ma túy theo quy định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12 đã được cấp giấy phép hoạt động trước ngày Luật này có hiệu lực thi hành được tiếp tục hoạt động cho đến khi hết thời hạn của giấy phép. ____________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 11 thông qua ngày 30 tháng 3 năm 2021."
+        "text": "Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành, cơ sở cai nghiện ma túy bắt buộc được thành lập theo quy định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12 phải đáp ứng đủ điều kiện của cơ sở cai nghiện ma túy công lập theo quy định của Luật này. Các cơ sở khác về cai nghiện ma túy theo quy định của Luật Phòng, chống ma túy số 23/2000/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 16/2008/QH12 đã được cấp giấy phép hoạt động trước ngày Luật này có hiệu lực thi hành được tiếp tục hoạt động cho đến khi hết thời hạn của giấy phép. ____________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 11 thông qua ngày 30 tháng 3 năm 2021. CHỦ TỊCH QUỐC HỘI Đã ký: Nguyễn Thị Kim Ngân"
     }
 ]

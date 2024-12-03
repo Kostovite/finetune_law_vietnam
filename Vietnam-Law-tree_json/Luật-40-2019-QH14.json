@@ -15,17 +15,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về quản lý kiến trúc, hành nghề kiến trúc; quyền, nghĩa vụ và trách nhiệm của cơ quan, tổ chức, cá nhân trong hoạt động kiến trúc.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân trong hoạt động kiến trúc và cơ quan, tổ chức, cá nhân khác có liên quan đến hoạt động kiến trúc trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Kiến trúc là nghệ thuật và khoa học, kỹ thuật về tổ chức không gian, tạo lập môi trường sống bền vững đáp ứng nhu cầu của con người và xã hội.",
@@ -185,7 +202,13 @@
         {
             "id": "Điều 7",
             "title": "Ngày Kiến trúc Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngày 27 tháng 4 hằng năm là ngày Kiến trúc Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 8",
@@ -266,7 +289,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Lợi dụng, lạm dụng chức vụ, quyền hạn hoặc thiếu trách nhiệm trong quản lý kiến trúc.",
+                    "text": "Lợi dụng, lạm dụng chức vụ, quyền hạn hoặc thiếu trách nhiệm trong quản lý kiến trúc. Chương II QUẢN LÝ KIẾN TRÚC",
                     "sub_clauses": []
                 }
             ]
@@ -661,7 +684,13 @@
         {
             "id": "Điều 18",
             "title": "Quản lý lưu trữ tài liệu",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan quản lý nhà nước về kiến trúc, chủ đầu tư có trách nhiệm lưu trữ tài liệu, hồ sơ thiết kế về kiến trúc. Tổ chức, cá nhân tư vấn, nhà thầu xây dựng, ban quản lý xây dựng có trách nhiệm lưu trữ hồ sơ công việc do mình thực hiện theo quy định của pháp luật lưu trữ và quy định khác của pháp luật có liên quan. Chương III HÀNH NGHỀ KIẾN TRÚC Mục 1. QUY ĐỊNH CHUNG VỀ HÀNH NGHỀ KIẾN TRÚC",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 19",
@@ -711,7 +740,13 @@
         {
             "id": "Điều 20",
             "title": "Tổ chức xã hội - nghề nghiệp về hành nghề kiến trúc",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức xã hội - nghề nghiệp về hành nghề kiến trúc được thành lập và tổ chức, hoạt động theo quy định của Luật này và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 21",
@@ -808,7 +843,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trong thời hạn 05 ngày làm việc kể từ ngày nhận được thông tin của cơ quan chuyên môn về kiến trúc thuộc Ủy ban nhân dân cấp tỉnh, Bộ Xây dựng phải đăng tải công khai thông tin về tổ chức, cá nhân hành nghề kiến trúc trên Cổng thông tin điện tử của Bộ.",
+                    "text": "Trong thời hạn 05 ngày làm việc kể từ ngày nhận được thông tin của cơ quan chuyên môn về kiến trúc thuộc Ủy ban nhân dân cấp tỉnh, Bộ Xây dựng phải đăng tải công khai thông tin về tổ chức, cá nhân hành nghề kiến trúc trên Cổng thông tin điện tử của Bộ. Mục 2. HÀNH NGHỀ KIẾN TRÚC CỦA CÁ NHÂN",
                     "sub_clauses": []
                 }
             ]
@@ -1124,7 +1159,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Kiến trúc sư có chứng chỉ hành nghề kiến trúc có nghĩa vụ sau đây:",
+                    "text": "Kiến trúc sư có chứng chỉ hành nghề kiến trúc có nghĩa vụ sau đây: Mục 3. HÀNH NGHỀ KIẾN TRÚC CỦA TỔ CHỨC",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1275,7 +1310,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chủ thể thực hiện giám sát tác giả có nghĩa vụ sau đây:",
+                    "text": "Chủ thể thực hiện giám sát tác giả có nghĩa vụ sau đây: Chương IV QUẢN LÝ NHÀ NƯỚC VỀ KIẾN TRÚC",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1447,7 +1482,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây:",
+                    "text": "Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm sau đây: Chương V ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1467,7 +1502,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Sửa đổi, bổ sung một số điều của Luật Xây dựng số 50/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 03/2016/QH14 và Luật số 35/2018/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật Xây dựng số 50/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 03/2016/QH14 và Luật số 35/2018/QH14 như sau: “1. Phù hợp với quy hoạch chi tiết xây dựng đã được cơ quan nhà nước có thẩm quyền phê duyệt. Đối với công trình xây dựng ở khu vực, tuyến phố trong đô thị đã ổn định nhưng chưa có quy hoạch chi tiết xây dựng, thiết kế đô thị thì phải phù hợp với quy chế quản lý kiến trúc được cơ quan nhà nước có thẩm quyền ban hành.”; “a) Phù hợp với mục đích sử dụng đất theo quy hoạch sử dụng đất được phê duyệt và quy chế quản lý kiến trúc được cơ quan nhà nước có thẩm quyền ban hành;”; “4a. Tổ chức, cá nhân hành nghề kiến trúc thực hiện theo quy định của pháp luật về kiến trúc.”; “4. Chứng chỉ hành nghề kiến trúc thực hiện theo quy định của pháp luật về kiến trúc.”;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1493,7 +1528,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Sửa đổi, bổ sung một số điều của Luật Quy hoạch đô thị số 30/2009/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 77/2015/QH13 và Luật số 35/2018/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật Quy hoạch đô thị số 30/2009/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 77/2015/QH13 và Luật số 35/2018/QH14 như sau: “1. Tổ chức, cá nhân thực hiện đầu tư xây dựng mới, cải tạo, sửa chữa công trình kiến trúc, công trình hạ tầng kỹ thuật, công trình hạ tầng xã hội và nhà ở phải phù hợp với quy hoạch chi tiết đô thị đã được phê duyệt, quy chế quản lý kiến trúc và theo quy định của pháp luật về xây dựng.”; “6. Chủ đầu tư dự án được xác định trong quyết định đầu tư có trách nhiệm quản lý hệ thống hạ tầng kỹ thuật, không gian, kiến trúc theo quy hoạch đô thị đã được phê duyệt, quy chế quản lý kiến trúc trong phạm vi ranh giới thực hiện dự án, trừ trường hợp việc quản lý được bàn giao cho Ủy ban nhân dân.”;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1537,7 +1572,13 @@
         {
             "id": "Điều 40",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2020.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 41",
@@ -1560,11 +1601,15 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chứng chỉ hành nghề hoạt động xây dựng được cấp cho cá nhân thực hiện thiết kế kiến trúc công trình, thẩm tra thiết kế kiến trúc công trình hết thời hạn sử dụng trong khoảng thời gian từ ngày 01 tháng 7 năm 2020 đến hết ngày 31 tháng 12 năm 2020 thì được tiếp tục sử dụng đến hết ngày 31 tháng 12 năm 2020; trường hợp bị mất hoặc hư hỏng thì được cấp lại theo quy định của pháp luật về xây dựng.",
+                    "text": "Chứng chỉ hành nghề hoạt động xây dựng được cấp cho cá nhân thực hiện thiết kế kiến trúc công trình, thẩm tra thiết kế kiến trúc công trình hết thời hạn sử dụng trong khoảng thời gian từ ngày 01 tháng 7 năm 2020 đến hết ngày 31 tháng 12 năm 2020 thì được tiếp tục sử dụng đến hết ngày 31 tháng 12 năm 2020; trường hợp bị mất hoặc hư hỏng thì được cấp lại theo quy định của pháp luật về xây dựng. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 13 tháng 6 năm 2019. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 13 tháng 6 năm 2019.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

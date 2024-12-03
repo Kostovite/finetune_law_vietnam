@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động chăn nuôi; quyền và nghĩa vụ của tổ chức, cá nhân trong hoạt động chăn nuôi; quản lý nhà nước về chăn nuôi."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -1370,6 +1384,13 @@
         "clause": "4",
         "title": "Khảo nghiệm dòng, giống vật nuôi",
         "text": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quy chuẩn kỹ thuật quốc gia về khảo nghiệm dòng, giống vật nuôi."
+    },
+    {
+        "id": "Điều 27.0",
+        "article": "Điều 27",
+        "clause": "0",
+        "title": "Điều kiện cơ sở khảo nghiệm dòng, giống vật nuôi",
+        "text": "Cơ sở khảo nghiệm dòng, giống vật nuôi phải đáp ứng các điều kiện sau đây:"
     },
     {
         "id": "Điều 27.1",
@@ -2989,6 +3010,13 @@
         "text": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định khoảng cách an toàn trong chăn nuôi trang trại bảo đảm an toàn sinh học, an toàn dịch bệnh và bảo vệ môi trường."
     },
     {
+        "id": "Điều 56.0",
+        "article": "Điều 56",
+        "clause": "0",
+        "title": "Chăn nuôi nông hộ",
+        "text": "Chăn nuôi nông hộ phải đáp ứng các yêu cầu sau đây:"
+    },
+    {
         "id": "Điều 56.1",
         "article": "Điều 56",
         "clause": "1",
@@ -3227,6 +3255,13 @@
         "text": "Việc xử lý chất thải khác phải tuân thủ quy định của pháp luật về thú y, bảo vệ môi trường."
     },
     {
+        "id": "Điều 60.0",
+        "article": "Điều 60",
+        "clause": "0",
+        "title": "Xử lý chất thải trong chăn nuôi nông hộ",
+        "text": "Chủ chăn nuôi nông hộ phải thực hiện các yêu cầu sau đây:"
+    },
+    {
         "id": "Điều 60.1",
         "article": "Điều 60",
         "clause": "1",
@@ -3402,6 +3437,13 @@
         "text": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định về khoảng cách giữa các điểm đặt ong mật, phương thức di chuyển đàn ong mật, cây trồng, vùng hoa nuôi ong mật, sử dụng ong mật thụ phấn cho cây trồng."
     },
     {
+        "id": "Điều 66.0",
+        "article": "Điều 66",
+        "clause": "0",
+        "title": "Quản lý nuôi chó, mèo",
+        "text": "Chủ nuôi chó, mèo phải thực hiện các yêu cầu sau đây:"
+    },
+    {
         "id": "Điều 66.1",
         "article": "Điều 66",
         "clause": "1",
@@ -3465,6 +3507,13 @@
         "text": "Chính phủ ban hành Danh mục động vật khác được phép chăn nuôi. Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định việc chăn nuôi động vật khác thuộc Danh mục động vật khác được phép chăn nuôi. Mục 2. ĐỐI XỬ NHÂN ĐẠO VỚI VẬT NUÔI"
     },
     {
+        "id": "Điều 69.0",
+        "article": "Điều 69",
+        "clause": "0",
+        "title": "Đối xử nhân đạo với vật nuôi trong chăn nuôi",
+        "text": "Tổ chức, cá nhân có hoạt động chăn nuôi phải thực hiện các yêu cầu sau đây:"
+    },
+    {
         "id": "Điều 69.1",
         "article": "Điều 69",
         "clause": "1",
@@ -3493,6 +3542,13 @@
         "text": "Không đánh đập, hành hạ vật nuôi."
     },
     {
+        "id": "Điều 70.0",
+        "article": "Điều 70",
+        "clause": "0",
+        "title": "Đối xử nhân đạo với vật nuôi trong vận chuyển",
+        "text": "Tổ chức, cá nhân vận chuyển vật nuôi phải thực hiện các yêu cầu sau đây:"
+    },
+    {
         "id": "Điều 70.1",
         "article": "Điều 70",
         "clause": "1",
@@ -3512,6 +3568,13 @@
         "clause": "3",
         "title": "Đối xử nhân đạo với vật nuôi trong vận chuyển",
         "text": "Không đánh đập, hành hạ vật nuôi."
+    },
+    {
+        "id": "Điều 71.0",
+        "article": "Điều 71",
+        "clause": "0",
+        "title": "Đối xử nhân đạo với vật nuôi trong giết mổ",
+        "text": "Cơ sở giết mổ vật nuôi phải thực hiện các yêu cầu sau đây:"
     },
     {
         "id": "Điều 71.1",
@@ -3959,6 +4022,6 @@
         "article": "Điều 83",
         "clause": "3",
         "title": "Quy định chuyển tiếp",
-        "text": "Cơ sở chăn nuôi xây dựng và hoạt động trước ngày Luật này có hiệu lực thi hành mà không đáp ứng điều kiện chăn nuôi thì trong thời hạn là 05 năm kể từ ngày Luật này có hiệu lực thi hành phải hoàn thiện điều kiện chăn nuôi đáp ứng quy định của Luật này. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua ngày 19 tháng 11 năm 2018."
+        "text": "Cơ sở chăn nuôi xây dựng và hoạt động trước ngày Luật này có hiệu lực thi hành mà không đáp ứng điều kiện chăn nuôi thì trong thời hạn là 05 năm kể từ ngày Luật này có hiệu lực thi hành phải hoàn thiện điều kiện chăn nuôi đáp ứng quy định của Luật này. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 6 thông qua ngày 19 tháng 11 năm 2018. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

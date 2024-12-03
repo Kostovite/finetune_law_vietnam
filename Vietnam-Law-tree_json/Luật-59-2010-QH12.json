@@ -17,17 +17,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về quyền và nghĩa vụ của người tiêu dùng; trách nhiệm của tổ chức, cá nhân kinh doanh hàng hoá, dịch vụ đối với người tiêu dùng; trách nhiệm của tổ chức xã hội trong việc tham gia bảo vệ quyền lợi người tiêu dùng; giải quyết tranh chấp giữa người tiêu dùng và tổ chức, cá nhân kinh doanh hàng hoá, dịch vụ; trách nhiệm quản lý nhà nước về bảo vệ quyền lợi người tiêu dùng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với người tiêu dùng; tổ chức, cá nhân kinh doanh hàng hóa, dịch vụ; cơ quan, tổ chức, cá nhân có liên quan đến hoạt động bảo vệ quyền lợi người tiêu dùng trên lãnh thổ Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Người tiêu dùng là người mua, sử dụng hàng hoá, dịch vụ cho mục đích tiêu dùng, sinh hoạt của cá nhân, gia đình, tổ chức.",
@@ -348,7 +365,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết việc xử phạt vi phạm hành chính trong bảo vệ quyền lợi người tiêu dùng.",
+                    "text": "Chính phủ quy định chi tiết việc xử phạt vi phạm hành chính trong bảo vệ quyền lợi người tiêu dùng. CHƯƠNG II TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN KINH DOANH HÀNG HOÁ, DỊCH VỤ ĐỐI VỚI NGƯỜI TIÊU DÙNG",
                     "sub_clauses": []
                 }
             ]
@@ -450,7 +467,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp giao kết hợp đồng với người tiêu dùng bằng văn bản thì ngôn ngữ của hợp đồng phải được thể hiện rõ ràng, dễ hiểu.",
+                    "text": "Trường hợp giao kết hợp đồng với người tiêu dùng bằng văn bản thì ngôn ngữ của hợp đồng phải được thể hiện rõ ràng, dễ hiểu. Ngôn ngữ sử dụng trong hợp đồng giao kết với người tiêu dùng là tiếng Việt, trừ trường hợp các bên có thoả thuận khác hoặc pháp luật có quy định khác.",
                     "sub_clauses": []
                 },
                 {
@@ -468,7 +485,13 @@
         {
             "id": "Điều 15",
             "title": "Giải thích hợp đồng giao kết với người tiêu dùng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong trường hợp hiểu khác nhau về nội dung hợp đồng thì tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp giải thích theo hướng có lợi cho người tiêu dùng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 16",
@@ -597,6 +620,11 @@
             "title": "Trách nhiệm bảo hành hàng hóa, linh kiện, phụ kiện",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Hàng hoá, linh kiện, phụ kiện được bảo hành theo thoả thuận của các bên hoặc bắt buộc bảo hành theo quy định của pháp luật. Trường hợp hàng hoá, linh kiện, phụ kiện được bảo hành, tổ chức, cá nhân kinh doanh hàng hoá có trách nhiệm:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Thực hiện đầy đủ nghĩa vụ bảo hành hàng hóa, linh kiện, phụ kiện do mình cung cấp;",
                     "sub_clauses": []
@@ -637,6 +665,11 @@
             "id": "Điều 22",
             "title": "Trách nhiệm thu hồi hàng hóa có khuyết tật",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Khi phát hiện hàng hóa có khuyết tật, tổ chức, cá nhân sản xuất, nhập khẩu hàng hoá có trách nhiệm:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Kịp thời tiến hành mọi biện pháp cần thiết để ngừng việc cung cấp hàng hóa có khuyết tật trên thị trường;",
@@ -721,7 +754,13 @@
         {
             "id": "Điều 24",
             "title": "Miễn trách nhiệm bồi thường thiệt hại do hàng hóa có khuyết tật gây ra",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân kinh doanh hàng hoá quy định tại Điều 23 của Luật này được miễn trách nhiệm bồi thường thiệt hại khi chứng minh được khuyết tật của hàng hoá không thể phát hiện được với trình độ khoa học, kỹ thuật tại thời điểm tổ chức, cá nhân kinh doanh hàng hoá cung cấp cho người tiêu dùng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 25",
@@ -795,7 +834,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. CHƯƠNG III TRÁCH NHIỆM CỦA TỔ CHỨC XÃ HỘI TRONG VIỆC THAM GIA BẢO VỆ QUYỀN LỢI NGƯỜI TIÊU DÙNG",
                     "sub_clauses": []
                 }
             ]
@@ -872,7 +911,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định cụ thể nhiệm vụ cơ quan nhà nước giao cho tổ chức xã hội tham gia bảo vệ quyền lợi người tiêu dùng thực hiện.",
+                    "text": "Chính phủ quy định cụ thể nhiệm vụ cơ quan nhà nước giao cho tổ chức xã hội tham gia bảo vệ quyền lợi người tiêu dùng thực hiện. CHƯƠNG IV GIẢI QUYẾT TRANH CHẤP GIỮA NGƯỜI TIÊU DÙNG VÀ TỔ CHỨC, CÁ NHÂN KINH DOANH HÀNG HÓA, DỊCH VỤ",
                     "sub_clauses": []
                 }
             ]
@@ -905,7 +944,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Không được thương lượng, hoà giải trong trường hợp tranh chấp gây thiệt hại đến lợi ích của Nhà nước, lợi ích của nhiều người tiêu dùng, lợi ích công cộng.",
+                    "text": "Không được thương lượng, hoà giải trong trường hợp tranh chấp gây thiệt hại đến lợi ích của Nhà nước, lợi ích của nhiều người tiêu dùng, lợi ích công cộng. Mục 1 THƯƠNG LƯỢNG",
                     "sub_clauses": []
                 }
             ]
@@ -929,12 +968,24 @@
         {
             "id": "Điều 32",
             "title": "Kết quả thương lượng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Kết quả thương lượng thành của tổ chức, cá nhân kinh doanh hàng hóa, dịch vụ với người tiêu dùng được lập thành văn bản, trừ trường hợp các bên có thoả thuận khác. Mục 2 HÒA GIẢI",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 33",
             "title": "Hòa giải",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân kinh doanh hàng hoá, dịch vụ và người tiêu dùng có quyền thoả thuận lựa chọn bên thứ ba là cá nhân hoặc tổ chức hòa giải để thực hiện việc hòa giải.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 34",
@@ -955,7 +1006,13 @@
         {
             "id": "Điều 35",
             "title": "Tổ chức hòa giải",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân có đủ điều kiện theo quy định của Chính phủ được thành lập tổ chức hòa giải để giải quyết tranh chấp giữa người tiêu dùng và tổ chức, cá nhân kinh doanh hàng hoá, dịch vụ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 36",
@@ -1005,22 +1062,46 @@
         {
             "id": "Điều 37",
             "title": "Thực hiện kết quả hòa giải thành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Các bên có trách nhiệm thực hiện kết quả hòa giải thành trong thời hạn đã thỏa thuận trong biên bản hòa giải; trường hợp một bên không tự nguyện thực hiện thì bên kia có quyền khởi kiện ra Toà án để yêu cầu giải quyết theo quy định của pháp luật. Mục 3 TRỌNG TÀI",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 38",
             "title": "Hiệu lực của điều khoản trọng tài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân kinh doanh hàng hoá, dịch vụ phải thông báo về điều khoản trọng tài trước khi giao kết hợp đồng và được người tiêu dùng chấp thuận. Trường hợp điều khoản trọng tài do tổ chức, cá nhân kinh doanh hàng hoá, dịch vụ đưa vào hợp đồng theo mẫu hoặc điều kiện giao dịch chung thì khi xảy ra tranh chấp, người tiêu dùng là cá nhân có quyền lựa chọn phương thức giải quyết tranh chấp khác.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 39",
             "title": "Trình tự, thủ tục giải quyết tranh chấp tại trọng tài",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trình tự, thủ tục giải quyết tranh chấp tại trọng tài được thực hiện theo quy định của pháp luật về trọng tài thương mại.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 40",
             "title": "Nghĩa vụ chứng minh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nghĩa vụ chứng minh trong giải quyết tranh chấp tại trọng tài được thực hiện theo quy định tại Điều 42 của Luật này. Mục 4 GIẢI QUYẾT TRANH CHẤP TẠI TÒA ÁN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 41",
@@ -1129,12 +1210,24 @@
         {
             "id": "Điều 45",
             "title": "Thông báo bản án, quyết định của Tòa án giải quyết vụ án dân sự về bảo vệ quyền lợi người tiêu dùng do tổ chức xã hội khởi kiện",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Bản án, quyết định của Toà án giải quyết vụ án dân sự về bảo vệ quyền lợi người tiêu dùng do tổ chức xã hội khởi kiện phải được niêm yết công khai tại trụ sở Toà án và công bố công khai trên phương tiện thông tin đại chúng bằng hình thức thích hợp.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 46",
             "title": "Tiền bồi thường thiệt hại trong vụ án dân sự về bảo vệ quyền lợi người tiêu dùng do tổ chức xã hội khởi kiện vì lợi ích công cộng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tiền bồi thường thiệt hại trong vụ án dân sự về bảo vệ quyền lợi người tiêu dùng do tổ chức xã hội tham gia bảo vệ quyền lợi người tiêu dùng khởi kiện vì lợi ích công cộng được thực hiện theo bản án, quyết định của Tòa án. CHƯƠNG V TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC VỀ BẢO VỆ QUYỀN LỢI NGƯỜI TIÊU DÙNG",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 47",
@@ -1219,7 +1312,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về bảo vệ quyền lợi người tiêu dùng theo thẩm quyền.",
+                    "text": "Thanh tra, kiểm tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về bảo vệ quyền lợi người tiêu dùng theo thẩm quyền. CHƯƠNG VI ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1227,12 +1320,24 @@
         {
             "id": "Điều 50",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2011. Pháp lệnh bảo vệ quyền lợi người tiêu dùng số 13/1999/PL-UBTVQH10 hết hiệu lực kể từ ngày Luật này có hiệu lực.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 51",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 8 thông qua ngày 17 tháng 11 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
     "footer": []

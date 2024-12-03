@@ -15,12 +15,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về quản lý, bảo vệ, phát triển, sử dụng rừng; chế biến và thương mại lâm sản.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Lâm nghiệp là ngành kinh tế - kỹ thuật bao gồm quản lý, bảo vệ, phát triển, sử dụng rừng; chế biến và thương mại lâm sản.",
@@ -465,7 +476,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Sử dụng nguyên liệu trong chế biến lâm sản trái quy định của pháp luật.",
+                    "text": "Sử dụng nguyên liệu trong chế biến lâm sản trái quy định của pháp luật. Chương II QUY HOẠCH LÂM NGHIỆP",
                     "sub_clauses": []
                 }
             ]
@@ -668,7 +679,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức tư vấn lập quy hoạch lâm nghiệp phải có tư cách pháp nhân và đáp ứng yêu cầu về năng lực chuyên môn phù hợp với công việc đảm nhận theo quy định của Chính phủ.",
+                    "text": "Tổ chức tư vấn lập quy hoạch lâm nghiệp phải có tư cách pháp nhân và đáp ứng yêu cầu về năng lực chuyên môn phù hợp với công việc đảm nhận theo quy định của Chính phủ. Chương III QUẢN LÝ RỪNG Mục 1. GIAO RỪNG, CHO THUÊ RỪNG, CHUYỂN LOẠI RỪNG, CHUYỂN MỤC ĐÍCH SỬ DỤNG RỪNG SANG MỤC ĐÍCH KHÁC, THU HỒI RỪNG",
                     "sub_clauses": []
                 }
             ]
@@ -816,7 +827,13 @@
         {
             "id": "Điều 17",
             "title": "Cho thuê rừng sản xuất",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước cho tổ chức kinh tế, hộ gia đình, cá nhân thuê rừng sản xuất là rừng tự nhiên, rừng sản xuất là rừng trồng trả tiền thuê rừng một lần hoặc hằng năm để sản xuất lâm nghiệp; sản xuất lâm, nông, ngư nghiệp kết hợp; kinh doanh du lịch sinh thái, nghỉ dưỡng, giải trí.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 18",
@@ -1018,7 +1035,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết việc giao rừng, cho thuê rừng, chuyển loại rừng, chuyển mục đích sử dụng rừng sang mục đích khác, thu hồi rừng.",
+                    "text": "Chính phủ quy định chi tiết việc giao rừng, cho thuê rừng, chuyển loại rừng, chuyển mục đích sử dụng rừng sang mục đích khác, thu hồi rừng. Mục 2. TỔ CHỨC QUẢN LÝ RỪNG",
                     "sub_clauses": []
                 }
             ]
@@ -1066,7 +1083,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tổ chức quản lý rừng đặc dụng được quy định như sau:",
+                    "text": "Tổ chức quản lý rừng đặc dụng được quy định như sau: Trường hợp trên địa bàn cấp tỉnh có một hoặc nhiều khu dự trữ thiên nhiên, khu bảo tồn loài - sinh cảnh, khu bảo vệ cảnh quan có diện tích mỗi khu dưới 3.000 ha thì thành lập một ban quản lý rừng đặc dụng trên địa bàn;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1094,7 +1111,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc tổ chức quản lý rừng đặc dụng, rừng phòng hộ thực hiện theo Quy chế quản lý rừng.",
+                    "text": "Việc tổ chức quản lý rừng đặc dụng, rừng phòng hộ thực hiện theo Quy chế quản lý rừng. Mục 3. QUẢN LÝ RỪNG BỀN VỮNG",
                     "sub_clauses": []
                 }
             ]
@@ -1219,7 +1236,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định về tiêu chí quản lý rừng bền vững.",
+                    "text": "Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định về tiêu chí quản lý rừng bền vững. Mục 4. ĐÓNG, MỞ CỬA RỪNG TỰ NHIÊN",
                     "sub_clauses": []
                 }
             ]
@@ -1317,7 +1334,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp xem xét, quyết định hỗ trợ cho chủ rừng khi thực hiện quyết định đóng cửa rừng tự nhiên của Chủ tịch Ủy ban nhân dân cấp tỉnh.",
+                    "text": "Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cùng cấp xem xét, quyết định hỗ trợ cho chủ rừng khi thực hiện quyết định đóng cửa rừng tự nhiên của Chủ tịch Ủy ban nhân dân cấp tỉnh. Mục 5. ĐIỀU TRA, KIỂM KÊ, THEO DÕI DIỄN BIẾN, CƠ SỞ DỮ LIỆU RỪNG",
                     "sub_clauses": []
                 }
             ]
@@ -1492,7 +1509,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ Nông nghiệp và Phát triển nông thôn tổ chức lập, quản lý cơ sở dữ liệu rừng thống nhất trong phạm vi cả nước.",
+                    "text": "Bộ Nông nghiệp và Phát triển nông thôn tổ chức lập, quản lý cơ sở dữ liệu rừng thống nhất trong phạm vi cả nước. Chương IV BẢO VỆ RỪNG",
                     "sub_clauses": []
                 }
             ]
@@ -1500,7 +1517,13 @@
         {
             "id": "Điều 37",
             "title": "Bảo vệ hệ sinh thái rừng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan nhà nước, tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư có hoạt động ảnh hưởng trực tiếp đến hệ sinh thái rừng, sinh trưởng và phát triển của các loài sinh vật rừng phải tuân thủ quy định của Luật này, pháp luật về bảo vệ môi trường, đa dạng sinh học, bảo vệ và kiểm dịch thực vật, thú y và quy định khác của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 38",
@@ -1671,7 +1694,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư có trách nhiệm thông báo kịp thời cho cơ quan nhà nước có thẩm quyền hoặc chủ rừng về cháy rừng, sinh vật gây hại rừng và hành vi vi phạm quy định về quản lý, bảo vệ rừng; chấp hành sự huy động nhân lực, phương tiện của cơ quan nhà nước có thẩm quyền khi xảy ra cháy rừng.",
+                    "text": "Tổ chức, hộ gia đình, cá nhân, cộng đồng dân cư có trách nhiệm thông báo kịp thời cho cơ quan nhà nước có thẩm quyền hoặc chủ rừng về cháy rừng, sinh vật gây hại rừng và hành vi vi phạm quy định về quản lý, bảo vệ rừng; chấp hành sự huy động nhân lực, phương tiện của cơ quan nhà nước có thẩm quyền khi xảy ra cháy rừng. Chương V PHÁT TRIỂN RỪNG",
                     "sub_clauses": []
                 }
             ]
@@ -1916,7 +1939,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Công trình kết cấu hạ tầng cần thiết khác phục vụ bảo vệ và phát triển rừng.",
+                    "text": "Công trình kết cấu hạ tầng cần thiết khác phục vụ bảo vệ và phát triển rừng. Chương VI SỬ DỤNG RỪNG Mục 1. SỬ DỤNG RỪNG ĐẶC DỤNG",
                     "sub_clauses": []
                 }
             ]
@@ -2071,7 +2094,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Việc thực hiện ổn định đời sống dân cư sống trong rừng đặc dụng và vùng đệm của rừng đặc dụng theo Quy chế quản lý rừng.",
+                    "text": "Việc thực hiện ổn định đời sống dân cư sống trong rừng đặc dụng và vùng đệm của rừng đặc dụng theo Quy chế quản lý rừng. Mục 2. SỬ DỤNG RỪNG PHÒNG HỘ",
                     "sub_clauses": []
                 }
             ]
@@ -2171,7 +2194,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc sản xuất lâm, nông, ngư nghiệp kết hợp trong rừng phòng hộ thực hiện theo Quy chế quản lý rừng và quy định khác của pháp luật có liên quan.",
+                    "text": "Việc sản xuất lâm, nông, ngư nghiệp kết hợp trong rừng phòng hộ thực hiện theo Quy chế quản lý rừng và quy định khác của pháp luật có liên quan. Mục 3. SỬ DỤNG RỪNG SẢN XUẤT",
                     "sub_clauses": []
                 }
             ]
@@ -2253,7 +2276,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Các hoạt động quy định tại Điều này thực hiện theo Quy chế quản lý rừng và quy định khác của pháp luật có liên quan.",
+                    "text": "Các hoạt động quy định tại Điều này thực hiện theo Quy chế quản lý rừng và quy định khác của pháp luật có liên quan. Mục 4. DỊCH VỤ MÔI TRƯỜNG RỪNG",
                     "sub_clauses": []
                 }
             ]
@@ -2505,7 +2528,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bên cung ứng dịch vụ môi trường rừng có nghĩa vụ sau đây:",
+                    "text": "Bên cung ứng dịch vụ môi trường rừng có nghĩa vụ sau đây: Chương VII CHẾ BIẾN VÀ THƯƠNG MẠI LÂM SẢN Mục 1. CHẾ BIẾN LÂM SẢN",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2635,7 +2658,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Mục 2. THƯƠNG MẠI LÂM SẢN",
                     "sub_clauses": []
                 }
             ]
@@ -2735,7 +2758,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Kinh doanh mẫu vật các loài thực vật rừng, động vật rừng được quy định như sau:",
+                    "text": "Kinh doanh mẫu vật các loài thực vật rừng, động vật rừng được quy định như sau: Chương VIII QUYỀN VÀ NGHĨA VỤ CỦA CHỦ RỪNG Mục 1. QUYỀN VÀ NGHĨA VỤ CHUNG CỦA CHỦ RỪNG",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2840,7 +2863,7 @@
                 },
                 {
                     "number": "7",
-                    "text": "Thực hiện nghĩa vụ tài chính và các nghĩa vụ khác theo quy định của pháp luật",
+                    "text": "Thực hiện nghĩa vụ tài chính và các nghĩa vụ khác theo quy định của pháp luật Mục 2. QUYỀN VÀ NGHĨA VỤ CỦA CHỦ RỪNG LÀ BAN QUẢN LÝ RỪNG ĐẶC DỤNG, BAN QUẢN LÝ RỪNG PHÒNG HỘ",
                     "sub_clauses": []
                 }
             ]
@@ -2927,7 +2950,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ban quản lý rừng phòng hộ có nghĩa vụ sau đây:",
+                    "text": "Ban quản lý rừng phòng hộ có nghĩa vụ sau đây: Mục 3. QUYỀN VÀ NGHĨA VỤ CỦA CHỦ RỪNG LÀ TỔ CHỨC KINH TẾ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3117,7 +3140,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tổ chức kinh tế được Nhà nước cho thuê đất để trồng rừng sản xuất bằng vốn tự đầu tư có quyền và nghĩa vụ sau đây:",
+                    "text": "Tổ chức kinh tế được Nhà nước cho thuê đất để trồng rừng sản xuất bằng vốn tự đầu tư có quyền và nghĩa vụ sau đây: Mục 4. QUYỀN VÀ NGHĨA VỤ CỦA CHỦ RỪNG LÀ HỘ GIA ĐÌNH, CÁ NHÂN, CỘNG ĐỒNG DÂN CƯ",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3340,7 +3363,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cộng đồng dân cư được giao rừng tín ngưỡng, rừng phòng hộ và rừng sản xuất có nghĩa vụ sau đây:",
+                    "text": "Cộng đồng dân cư được giao rừng tín ngưỡng, rừng phòng hộ và rừng sản xuất có nghĩa vụ sau đây: Mục 5. QUYỀN VÀ NGHĨA VỤ CỦA CHỦ RỪNG LÀ ĐƠN VỊ VŨ TRANG; TỔ CHỨC KHOA HỌC VÀ CÔNG NGHỆ, ĐÀO TẠO, GIÁO DỤC NGHỀ NGHIỆP; DOANH NGHIỆP CÓ VỐN ĐẦU TƯ NƯỚC NGOÀI",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3478,7 +3501,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Doanh nghiệp có vốn đầu tư nước ngoài được Nhà nước cho thuê đất để trồng rừng sản xuất có nghĩa vụ quy định tại Điều 74 của Luật này.",
+                    "text": "Doanh nghiệp có vốn đầu tư nước ngoài được Nhà nước cho thuê đất để trồng rừng sản xuất có nghĩa vụ quy định tại Điều 74 của Luật này. Chương IX ĐỊNH GIÁ RỪNG, ĐẦU TƯ, TÀI CHÍNH TRONG LÂM NGHIỆP Mục 1. ĐỊNH GIÁ RỪNG TRONG LÂM NGHIỆP",
                     "sub_clauses": []
                 }
             ]
@@ -3548,7 +3571,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Trường hợp khác theo yêu cầu của cơ quan nhà nước có thẩm quyền.",
+                    "text": "Trường hợp khác theo yêu cầu của cơ quan nhà nước có thẩm quyền. Mục 2. ĐẦU TƯ VÀ TÀI CHÍNH TRONG LÂM NGHIỆP",
                     "sub_clauses": []
                 }
             ]
@@ -3769,7 +3792,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chính phủ quy định chi tiết về nhiệm vụ, cơ cấu tổ chức, nguồn tài chính, cơ chế quản lý, sử dụng tài chính của quỹ bảo vệ và phát triển rừng.",
+                    "text": "Chính phủ quy định chi tiết về nhiệm vụ, cơ cấu tổ chức, nguồn tài chính, cơ chế quản lý, sử dụng tài chính của quỹ bảo vệ và phát triển rừng. Chương X KHOA HỌC VÀ CÔNG NGHỆ, HỢP TÁC QUỐC TẾ VỀ LÂM NGHIỆP",
                     "sub_clauses": []
                 }
             ]
@@ -3902,7 +3925,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Chính phủ ban hành chính sách hợp tác quốc tế về lâm nghiệp phù hợp với điều kiện cụ thể trong từng thời kỳ.",
+                    "text": "Chính phủ ban hành chính sách hợp tác quốc tế về lâm nghiệp phù hợp với điều kiện cụ thể trong từng thời kỳ. Chương XI QUẢN LÝ NHÀ NƯỚC VỀ LÂM NGHIỆP VÀ KIỂM LÂM Mục 1. QUẢN LÝ NHÀ NƯỚC VỀ LÂM NGHIỆP",
                     "sub_clauses": []
                 }
             ]
@@ -3939,7 +3962,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ Nông nghiệp và Phát triển nông thôn là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về lâm nghiệp, có trách nhiệm sau đây:",
+                    "text": "Bộ Nông nghiệp và Phát triển nông thôn là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về lâm nghiệp, có trách nhiệm sau đây: р) Đầu mối hợp tác quốc tế về lâm nghiệp;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4016,7 +4039,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Ủy ban nhân dân cấp tỉnh có trách nhiệm sau đây:",
+                    "text": "Ủy ban nhân dân cấp tỉnh có trách nhiệm sau đây: с) Tổ chức thực hiện việc phân loại rừng, phân định ranh giới các loại rừng theo thẩm quyền;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -4138,7 +4161,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chủ tịch Ủy ban nhân dân các cấp chịu trách nhiệm về cháy rừng, phá rừng hoặc mất rừng do hành vi vi phạm pháp luật trong lĩnh vực quản lý, bảo vệ rừng gây ra thuộc phạm vi lĩnh vực, địa bàn quản lý.",
+                    "text": "Chủ tịch Ủy ban nhân dân các cấp chịu trách nhiệm về cháy rừng, phá rừng hoặc mất rừng do hành vi vi phạm pháp luật trong lĩnh vực quản lý, bảo vệ rừng gây ra thuộc phạm vi lĩnh vực, địa bàn quản lý. Mục 2. KIỂM LÂM",
                     "sub_clauses": []
                 }
             ]
@@ -4146,7 +4169,13 @@
         {
             "id": "Điều 103",
             "title": "Chức năng của Kiểm lâm",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Kiểm lâm là tổ chức có chức năng quản lý, bảo vệ rừng, bảo đảm chấp hành pháp luật về lâm nghiệp; là lực lượng chuyên ngành về phòng cháy và chữa cháy rừng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 104",
@@ -4271,7 +4300,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Chương XII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -4313,11 +4342,15 @@
                 },
                 {
                     "number": "4",
-                    "text": "Ủy ban nhân dân cấp tỉnh có trách nhiệm rà soát diện tích rừng tự nhiên hiện có để đưa vào quy hoạch rừng đặc dụng, rừng phòng hộ, rừng sản xuất trong thời hạn 12 tháng kể từ ngày Luật này có hiệu lực thi hành.",
+                    "text": "Ủy ban nhân dân cấp tỉnh có trách nhiệm rà soát diện tích rừng tự nhiên hiện có để đưa vào quy hoạch rừng đặc dụng, rừng phòng hộ, rừng sản xuất trong thời hạn 12 tháng kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 4 thông qua ngày 15 tháng 11 năm 2017. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 4 thông qua ngày 15 tháng 11 năm 2017.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

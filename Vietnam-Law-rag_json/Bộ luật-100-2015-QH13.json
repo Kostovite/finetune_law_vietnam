@@ -1,5 +1,12 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Nhiệm vụ của Bộ luật hình sự",
+        "text": "Bộ luật hình sự có nhiệm vụ bảo vệ chủ quyền quốc gia, an ninh của đất nước, bảo vệ chế độ xã hội chủ nghĩa, quyền con người, quyền công dân, bảo vệ quyền bình đẳng giữa đồng bào các dân tộc, bảo vệ lợi ích của Nhà nước, tổ chức, bảo vệ trật tự pháp luật, chống mọi hành vi phạm tội; giáo dục mọi người ý thức tuân theo pháp luật, phòng ngừa và đấu tranh chống tội phạm. Bộ luật này quy định về tội phạm và hình phạt."
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -196,6 +203,13 @@
         "text": "Những hành vi tuy có dấu hiệu của tội phạm nhưng tính chất nguy hiểm cho xã hội không đáng kể thì không phải là tội phạm và được xử lý bằng các biện pháp khác."
     },
     {
+        "id": "Điều 9.0",
+        "article": "Điều 9",
+        "clause": "0",
+        "title": "Phân loại tội phạm",
+        "text": "Căn cứ vào tính chất và mức độ nguy hiểm cho xã hội của hành vi phạm tội được quy định trong Bộ luật này, tội phạm được phân thành bốn loại sau đây:"
+    },
+    {
         "id": "Điều 9.1",
         "article": "Điều 9",
         "clause": "1",
@@ -224,6 +238,13 @@
         "text": "Tội phạm đặc biệt nghiêm trọng là tội phạm có tính chất và mức độ nguy hiểm cho xã hội đặc biệt lớn mà mức cao nhất của khung hình phạt do Bộ luật này quy định đối với tội ấy là từ trên 15 năm đến 20 năm tù, tù chung thân hoặc tử hình."
     },
     {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Cố ý phạm tội",
+        "text": "Cố ý phạm tội là phạm tội trong những trường hợp sau đây:"
+    },
+    {
         "id": "Điều 10.1",
         "article": "Điều 10",
         "clause": "1",
@@ -236,6 +257,13 @@
         "clause": "2",
         "title": "Cố ý phạm tội",
         "text": "Người phạm tội nhận thức rõ hành vi của mình là nguy hiểm cho xã hội, thấy trước hậu quả của hành vi đó có thể xảy ra, tuy không mong muốn nhưng vẫn có ý thức để mặc cho hậu quả xảy ra."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Vô ý phạm tội",
+        "text": "Vô ý phạm tội là phạm tội trong những trường hợp sau đây:"
     },
     {
         "id": "Điều 11.1",
@@ -308,6 +336,13 @@
         "text": "Điều 299 (tội khủng bố); Điều 303 (tội phá hủy công trình, cơ sở, phương tiện quan trọng về an ninh quốc gia); Điều 304 (tội chế tạo, tàng trữ, vận chuyển, sử dụng, mua bán trái phép hoặc chiếm đoạt vũ khí quân dụng, phương tiện kỹ thuật quân sự)."
     },
     {
+        "id": "Điều 13.0",
+        "article": "Điều 13",
+        "clause": "0",
+        "title": "Phạm tội do dùng rượu, bia hoặc chất kích thích mạnh khác",
+        "text": "Người phạm tội trong tình trạng mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình do dùng rượu, bia hoặc chất kích thích mạnh khác, thì vẫn phải chịu trách nhiệm hình sự."
+    },
+    {
         "id": "Điều 14.1",
         "article": "Điều 14",
         "clause": "1",
@@ -355,6 +390,20 @@
         "clause": "3",
         "title": "Chuẩn bị phạm tội",
         "text": "Người từ đủ 14 đến dưới 16 tuổi chuẩn bị phạm tội quy định tại điểm b và điểm c khoản 2 Điều này thì phải chịu trách nhiệm hình sự."
+    },
+    {
+        "id": "Điều 15.0",
+        "article": "Điều 15",
+        "clause": "0",
+        "title": "Phạm tội chưa đạt",
+        "text": "Phạm tội chưa đạt là cố ý thực hiện tội phạm nhưng không thực hiện được đến cùng vì những nguyên nhân ngoài ý muốn của người phạm tội. Người phạm tội chưa đạt phải chịu trách nhiệm hình sự về tội phạm chưa đạt."
+    },
+    {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Tự ý nửa chừng chấm dứt việc phạm tội",
+        "text": "Tự ý nửa chừng chấm dứt việc phạm tội là tự mình không thực hiện tội phạm đến cùng, tuy không có gì ngăn cản. Người tự ý nửa chừng chấm dứt việc phạm tội được miễn trách nhiệm hình sự về tội định phạm; nếu hành vi thực tế đã thực hiện có đủ yếu tố cấu thành của một tội khác, thì người đó phải chịu trách nhiệm hình sự về tội này."
     },
     {
         "id": "Điều 17.1",
@@ -420,6 +469,20 @@
         "text": "Người bào chữa không phải chịu trách nhiệm hình sự theo quy ðịnh tại khoản 1 Ðiều này trong trường hợp không tố giác tội phạm do chính người mà mình bào chữa đã thực hiện hoặc đã tham gia thực hiện mà người bào chữa biết được khi thực hiện nhiệm vụ bào chữa, trừ trường hợp không tố giác các tội xâm phạm an ninh quốc gia hoặc tội phạm đặc biệt nghiêm trọng khác quy định tại Điều 389 của Bộ luật này. Chương IV NHỮNG TRƯỜNG HỢP LOẠI TRỪ TRÁCH NHIỆM HÌNH SỰ"
     },
     {
+        "id": "Điều 20.0",
+        "article": "Điều 20",
+        "clause": "0",
+        "title": "Sự kiện bất ngờ",
+        "text": "Người thực hiện hành vi gây hậu quả nguy hại cho xã hội trong trường hợp không thể thấy trước hoặc không buộc phải thấy trước hậu quả của hành vi đó, thì không phải chịu trách nhiệm hình sự."
+    },
+    {
+        "id": "Điều 21.0",
+        "article": "Điều 21",
+        "clause": "0",
+        "title": "Tình trạng không có năng lực trách nhiệm hình sự",
+        "text": "Người thực hiện hành vi nguy hiểm cho xã hội trong khi đang mắc bệnh tâm thần, một bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình, thì không phải chịu trách nhiệm hình sự."
+    },
+    {
         "id": "Điều 22.1",
         "article": "Điều 22",
         "clause": "1",
@@ -460,6 +523,20 @@
         "clause": "2",
         "title": "Gây thiệt hại trong khi bắt giữ người phạm tội",
         "text": "Trường hợp gây thiệt hại do sử dụng vũ lực rõ ràng vượt quá mức cần thiết, thì người gây thiệt hại phải chịu trách nhiệm hình sự."
+    },
+    {
+        "id": "Điều 25.0",
+        "article": "Điều 25",
+        "clause": "0",
+        "title": "Rủi ro trong nghiên cứu, thử nghiệm, áp dụng tiến bộ khoa học, kỹ thuật và công nghệ",
+        "text": "Hành vi gây ra thiệt hại trong khi thực hiện việc nghiên cứu, thử nghiệm, áp dụng tiến bộ khoa học, kỹ thuật và công nghệ mới mặc dù đã tuân thủ đúng quy trình, quy phạm, áp dụng đầy đủ biện pháp phòng ngừa thì không phải là tội phạm. Người nào không áp dụng đúng quy trình, quy phạm, không áp dụng đầy đủ biện pháp phòng ngừa mà gây thiệt hại thì vẫn phải chịu trách nhiệm hình sự."
+    },
+    {
+        "id": "Điều 26.0",
+        "article": "Điều 26",
+        "clause": "0",
+        "title": "Thi hành mệnh lệnh của người chỉ huy hoặc của cấp trên",
+        "text": "Người thực hiện hành vi gây thiệt hại trong khi thi hành mệnh lệnh của người chỉ huy hoặc của cấp trên trong lực lượng vũ trang nhân dân để thực hiện nhiệm vụ quốc phòng, an ninh nếu đã thực hiện đầy đủ quy trình báo cáo người ra mệnh lệnh nhưng người ra mệnh lệnh vẫn yêu cầu chấp hành mệnh lệnh đó, thì không phải chịu trách nhiệm hình sự. Trong trường hợp này người ra mệnh lệnh phải chịu trách nhiệm hình sự. Quy định này không áp dụng đối với các trường hợp quy định tại khoản 2 Điều 421, khoản 2 Điều 422 và khoản 2 Điều 423 của Bộ luật này. Chương V THỜI HIỆU TRUY CỨU TRÁCH NHIỆM HÌNH SỰ, MIỄN TRÁCH NHIỆM HÌNH SỰ"
     },
     {
         "id": "Điều 27.1",
@@ -509,6 +586,13 @@
         "clause": "3",
         "title": "Thời hiệu truy cứu trách nhiệm hình sự",
         "text": "Thời hiệu truy cứu trách nhiệm hình sự được tính từ ngày tội phạm được thực hiện. Nếu trong thời hạn quy định tại khoản 2 Điều này, người phạm tội lại thực hiện hành vi phạm tội mới mà Bộ luật này quy định mức cao nhất của khung hình phạt đối với tội ấy trên 01 năm tù, thì thời hiệu đối với tội cũ được tính lại kể từ ngày thực hiện hành vi phạm tội mới. Nếu trong thời hạn quy định tại khoản 2 Điều này, người phạm tội cố tình trốn tránh và đã có quyết định truy nã, thì thời hiệu tính lại kể từ khi người đó ra đầu thú hoặc bị bắt giữ."
+    },
+    {
+        "id": "Điều 28.0",
+        "article": "Điều 28",
+        "clause": "0",
+        "title": "Không áp dụng thời hiệu truy cứu trách nhiệm hình sự",
+        "text": "Không áp dụng thời hiệu truy cứu trách nhiệm hình sự quy định tại Điều 27 của Bộ luật này đối với các tội phạm sau đây:"
     },
     {
         "id": "Điều 28.1",
@@ -586,6 +670,20 @@
         "clause": "3",
         "title": "Căn cứ miễn trách nhiệm hình sự",
         "text": "Người thực hiện tội phạm ít nghiêm trọng hoặc tội phạm nghiêm trọng do vô ý gây thiệt hại về tính mạng, sức khỏe, danh dự, nhân phẩm hoặc tài sản của người khác và được người bị hại hoặc người đại diện của người bị hại tự nguyện hòa giải và đề nghị miễn trách nhiệm hình sự, thì có thể được miễn trách nhiệm hình sự. Chương VI HÌNH PHẠT"
+    },
+    {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Khái niệm hình phạt",
+        "text": "Hình phạt là biện pháp cưỡng chế nghiêm khắc nhất của Nhà nước được quy định trong Bộ luật này, do Tòa án quyết định áp dụng đối với người hoặc pháp nhân thương mại phạm tội nhằm tước bỏ hoặc hạn chế quyền, lợi ích của người, pháp nhân thương mại đó."
+    },
+    {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Mục đích của hình phạt",
+        "text": "Hình phạt không chỉ nhằm trừng trị người, pháp nhân thương mại phạm tội mà còn giáo dục họ ý thức tuân theo pháp luật và các quy tắc của cuộc sống, ngăn ngừa họ phạm tội mới; giáo dục người, pháp nhân thương mại khác tôn trọng pháp luật, phòng ngừa và đấu tranh chống tội phạm."
     },
     {
         "id": "Điều 32.1",
@@ -770,6 +868,13 @@
         "text": "Đối với mỗi tội phạm, pháp nhân thương mại phạm tội chỉ bị áp dụng một hình phạt chính và có thể bị áp dụng một hoặc một số hình phạt bổ sung."
     },
     {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Cảnh cáo",
+        "text": "Cảnh cáo được áp dụng đối với người phạm tội ít nghiêm trọng và có nhiều tình tiết giảm nhẹ, nhưng chưa đến mức miễn hình phạt."
+    },
+    {
         "id": "Điều 35.1",
         "article": "Điều 35",
         "clause": "1",
@@ -840,6 +945,13 @@
         "text": "Trường hợp người bị phạt cải tạo không giam giữ không có việc làm hoặc bị mất việc làm trong thời gian chấp hành hình phạt này thì phải thực hiện một số công việc lao động phục vụ cộng đồng trong thời gian cải tạo không giam giữ. Thời gian lao động phục vụ cộng đồng không quá 04 giờ trong một ngày và không quá 05 ngày trong 01 tuần. Không áp dụng biện pháp lao động phục vụ cộng đồng đối với phụ nữ có thai hoặc đang nuôi con dưới 06 tháng tuổi, người già yếu, người bị bệnh hiểm nghèo, người khuyết tật nặng hoặc khuyết tật đặc biệt nặng. Người bị kết án cải tạo không giam giữ phải thực hiện những nghĩa vụ quy định tại Luật thi hành án hình sự."
     },
     {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Trục xuất",
+        "text": "Trục xuất là buộc người nước ngoài bị kết án phải rời khỏi lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam. Trục xuất được Tòa án áp dụng là hình phạt chính hoặc hình phạt bổ sung trong từng trường hợp cụ thể."
+    },
+    {
         "id": "Điều 38.1",
         "article": "Điều 38",
         "clause": "1",
@@ -852,6 +964,13 @@
         "clause": "2",
         "title": "Tù có thời hạn",
         "text": "Không áp dụng hình phạt tù có thời hạn đối với người lần đầu phạm tội ít nghiêm trọng do vô ý và có nơi cư trú rõ ràng."
+    },
+    {
+        "id": "Điều 39.0",
+        "article": "Điều 39",
+        "clause": "0",
+        "title": "Tù chung thân",
+        "text": "Tù chung thân là hình phạt tù không thời hạn được áp dụng đối với người phạm tội đặc biệt nghiêm trọng, nhưng chưa đến mức bị xử phạt tử hình. Không áp dụng hình phạt tù chung thân đối với người dưới 18 tuổi phạm tội."
     },
     {
         "id": "Điều 40.1",
@@ -903,6 +1022,27 @@
         "text": "Trong trường hợp quy định tại khoản 3 Điều này hoặc trường hợp người bị kết án tử hình được ân giảm, thì hình phạt tử hình được chuyển thành tù chung thân."
     },
     {
+        "id": "Điều 41.0",
+        "article": "Điều 41",
+        "clause": "0",
+        "title": "Cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định",
+        "text": "Cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định được áp dụng khi xét thấy nếu để người bị kết án đảm nhiệm chức vụ, hành nghề hoặc làm công việc đó thì có thể gây nguy hại cho xã hội. Thời hạn cấm là từ 01 năm đến 05 năm, kể từ ngày chấp hành xong hình phạt tù hoặc từ ngày bản án có hiệu lực pháp luật nếu hình phạt chính là cảnh cáo, phạt tiền, cải tạo không giam giữ hoặc trong trường hợp người bị kết án được hưởng án treo."
+    },
+    {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Cấm cư trú",
+        "text": "Cấm cư trú là buộc người bị kết án phạt tù không được tạm trú hoặc thường trú ở một số địa phương nhất định. Thời hạn cấm cư trú là từ 01 năm đến 05 năm, kể từ ngày chấp hành xong hình phạt tù."
+    },
+    {
+        "id": "Điều 43.0",
+        "article": "Điều 43",
+        "clause": "0",
+        "title": "Quản chế",
+        "text": "Quản chế là buộc người bị kết án phạt tù phải cư trú, làm ăn sinh sống và cải tạo ở một địa phương nhất định dưới sự kiểm soát, giáo dục của chính quyền và nhân dân địa phương. Trong thời gian quản chế, người bị kết án không được tự ý ra khỏi nơi cư trú, bị tước một số quyền công dân theo quy định tại Điều 44 của Bộ luật này và bị cấm hành nghề hoặc làm công việc nhất định. Quản chế được áp dụng đối với người phạm tội xâm phạm an ninh quốc gia, người tái phạm nguy hiểm hoặc trong những trường hợp khác do Bộ luật này quy định. Thời hạn quản chế là từ 01 năm đến 05 năm, kể từ ngày chấp hành xong hình phạt tù."
+    },
+    {
         "id": "Điều 44.1",
         "article": "Điều 44",
         "clause": "1",
@@ -929,6 +1069,13 @@
         "clause": "2",
         "title": "Tước một số quyền công dân",
         "text": "Thời hạn tước một số quyền công dân là từ 01 năm đến 05 năm, kể từ ngày chấp hành xong hình phạt tù hoặc kể từ ngày bản án có hiệu lực pháp luật trong trường hợp người bị kết án được hưởng án treo."
+    },
+    {
+        "id": "Điều 45.0",
+        "article": "Điều 45",
+        "clause": "0",
+        "title": "Tịch thu tài sản",
+        "text": "Tịch thu tài sản là tước một phần hoặc toàn bộ tài sản thuộc sở hữu của người bị kết án để nộp vào ngân sách nhà nước. Tịch thu tài sản chỉ được áp dụng đối với người bị kết án về tội phạm nghiêm trọng, tội phạm rất nghiêm trọng hoặc tội phạm đặc biệt nghiêm trọng xâm phạm an ninh quốc gia, tội phạm về ma tuý, tham nhũng hoặc tội phạm khác do Bộ luật này quy định. Khi tịch thu toàn bộ tài sản vẫn để cho người bị kết án và gia đình họ có điều kiện sinh sống. Chương VII CÁC BIỆN PHÁP TƯ PHÁP"
     },
     {
         "id": "Điều 46.1",
@@ -1428,6 +1575,13 @@
         "text": "Trong trường hợp có đủ các điều kiện quy định tại khoản 1 hoặc khoản 2 Điều này nhưng điều luật chỉ có một khung hình phạt hoặc khung hình phạt đó là khung hình phạt nhẹ nhất, thì Tòa án có thể quyết định chuyển sang một hình phạt khác thuộc loại nhẹ hơn. Lý do của việc giảm nhẹ phải được ghi rõ trong bản án."
     },
     {
+        "id": "Điều 55.0",
+        "article": "Điều 55",
+        "clause": "0",
+        "title": "Quyết định hình phạt trong trường hợp phạm nhiều tội",
+        "text": "Khi xét xử cùng 01 lần một người phạm nhiều tội, Tòa án quyết định hình phạt đối với từng tội và tổng hợp hình phạt theo quy định sau đây:"
+    },
+    {
         "id": "Điều 55.1",
         "article": "Điều 55",
         "clause": "1",
@@ -1540,6 +1694,20 @@
         "text": "Đối với trường hợp phạm tội chưa đạt, nếu điều luật được áp dụng có quy định hình phạt cao nhất là tù chung thân hoặc tử hình thì áp dụng hình phạt tù không quá 20 năm; nếu là tù có thời hạn thì mức hình phạt không quá ba phần tư mức phạt tù mà điều luật quy định."
     },
     {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Quyết định hình phạt trong trường hợp đồng phạm",
+        "text": "Khi quyết định hình phạt đối với những người đồng phạm, Tòa án phải xét đến tính chất của đồng phạm, tính chất và mức độ tham gia phạm tội của từng người đồng phạm. Các tình tiết giảm nhẹ, tăng nặng hoặc loại trừ trách nhiệm hình sự thuộc người đồng phạm nào, thì chỉ áp dụng đối với người đó."
+    },
+    {
+        "id": "Điều 59.0",
+        "article": "Điều 59",
+        "clause": "0",
+        "title": "Miễn hình phạt",
+        "text": "Người phạm tội có thể được miễn hình phạt nếu thuộc trường hợp quy định tại khoản 1 và khoản 2 Điều 54 của Bộ luật này mà đáng được khoan hồng đặc biệt nhưng chưa đến mức được miễn trách nhiệm hình sự. Chương IX THỜI HIỆU THI HÀNH BẢN ÁN, MIỄN CHẤP HÀNH HÌNH PHẠT, GIẢM THỜI HẠN CHẤP HÀNH HÌNH PHẠT"
+    },
+    {
         "id": "Điều 60.1",
         "article": "Điều 60",
         "clause": "1",
@@ -1601,6 +1769,13 @@
         "clause": "5",
         "title": "Thời hiệu thi hành bản án",
         "text": "Trong thời hạn quy định tại khoản 2 Điều này, người bị kết án cố tình trốn tránh và đã có quyết định truy nã, thì thời hiệu tính lại kể từ ngày người đó ra trình diện hoặc bị bắt giữ."
+    },
+    {
+        "id": "Điều 61.0",
+        "article": "Điều 61",
+        "clause": "0",
+        "title": "Không áp dụng thời hiệu thi hành bản án",
+        "text": "Không áp dụng thời hiệu thi hành bản án đối với các tội quy định tại Chương XIII và Chương XXVI của Bộ luật này."
     },
     {
         "id": "Điều 62.1",
@@ -1713,6 +1888,13 @@
         "clause": "6",
         "title": "Giảm mức hình phạt đã tuyên",
         "text": "Đối với người bị kết án tử hình được ân giảm hoặc người bị kết án tử hình thuộc trường hợp quy định tại điểm b hoặc điểm c khoản 3 Điều 40 của Bộ luật này thì thời gian ðã chấp hành hình phạt để được xét giảm lần đầu là 25 năm và dù được giảm nhiều lần nhưng vẫn phải bảo đảm thời hạn thực tế chấp hành hình phạt là 30 năm."
+    },
+    {
+        "id": "Điều 64.0",
+        "article": "Điều 64",
+        "clause": "0",
+        "title": "Giảm thời hạn chấp hành hình phạt trong trường hợp đặc biệt",
+        "text": "Người bị kết án có lý do đáng được khoan hồng thêm như đã lập công, đã quá già yếu hoặc mắc bệnh hiểm nghèo, thì Tòa án có thể xét giảm vào thời gian sớm hơn hoặc với mức cao hơn so với thời gian và mức quy định tại Điều 63 của Bộ luật này."
     },
     {
         "id": "Điều 65.1",
@@ -2023,6 +2205,13 @@
         "text": "Người bị Tòa án bác đơn xin xóa án tích lần đầu, thì sau 01 năm mới được xin xóa án tích; nếu bị bác đơn lần thứ hai trở đi, thì sau 02 năm mới được xin xóa án tích."
     },
     {
+        "id": "Điều 72.0",
+        "article": "Điều 72",
+        "clause": "0",
+        "title": "Xóa án tích trong trường hợp đặc biệt",
+        "text": "Trong trường hợp người bị kết án có những biểu hiện tiến bộ rõ rệt và đã lập công, được cơ quan, tổ chức nơi người đó công tác hoặc chính quyền địa phương nơi người đó cư trú đề nghị, thì Tòa án quyết định việc xóa án tích nếu người đó đã bảo đảm được ít nhất một phần ba thời hạn quy định tại khoản 2 Điều 70 và khoản 2 Điều 71 của Bộ luật này."
+    },
+    {
         "id": "Điều 73.1",
         "article": "Điều 73",
         "clause": "1",
@@ -2049,6 +2238,13 @@
         "clause": "4",
         "title": "Cách tính thời hạn để xóa án tích",
         "text": "Người được miễn chấp hành phần hình phạt còn lại cũng được coi như đã chấp hành xong hình phạt. Chương XI NHỮNG QUY ĐỊNH ĐỐI VỚI PHÁP NHÂN THƯƠNG MẠI PHẠM TỘI"
+    },
+    {
+        "id": "Điều 74.0",
+        "article": "Điều 74",
+        "clause": "0",
+        "title": "Áp dụng quy định của Bộ luật hình sự đối với pháp nhân thương mại phạm tội",
+        "text": "Pháp nhân thương mại phạm tội phải chịu trách nhiệm hình sự theo những quy định của Chương này; theo quy định khác của Phần thứ nhất của Bộ luật này không trái với quy định của Chương này."
     },
     {
         "id": "Điều 75.1",
@@ -2091,6 +2287,13 @@
         "clause": "2",
         "title": "Điều kiện chịu trách nhiệm hình sự của pháp nhân thương mại",
         "text": "Việc pháp nhân thương mại chịu trách nhiệm hình sự không loại trừ trách nhiệm hình sự của cá nhân."
+    },
+    {
+        "id": "Điều 76.0",
+        "article": "Điều 76",
+        "clause": "0",
+        "title": "Phạm vi chịu trách nhiệm hình sự của pháp nhân thương mại",
+        "text": "Pháp nhân thương mại chỉ phải chịu trách nhiệm hình sự về các tội phạm sau đây:"
     },
     {
         "id": "Điều 76.1",
@@ -2317,6 +2520,13 @@
         "text": "Buộc thu hồi sản phẩm, hàng hóa vi phạm đang lưu thông trên thị trường."
     },
     {
+        "id": "Điều 83.0",
+        "article": "Điều 83",
+        "clause": "0",
+        "title": "Căn cứ quyết định hình phạt đối với pháp nhân thương mại phạm tội",
+        "text": "Khi quyết định hình phạt, Tòa án căn cứ vào quy định của Bộ luật này, cân nhắc tính chất và mức độ nguy hiểm cho xã hội của hành vi phạm tội, việc chấp hành pháp luật của pháp nhân thương mại và các tình tiết giảm nhẹ và tăng nặng trách nhiệm hình sự áp dụng đối với pháp nhân thương mại."
+    },
+    {
         "id": "Điều 84.1",
         "article": "Điều 84",
         "clause": "1",
@@ -2429,6 +2639,13 @@
         "text": "Các tình tiết đã được Bộ luật này quy định là dấu hiệu định tội hoặc định khung hình phạt thì không được coi là tình tiết tăng nặng."
     },
     {
+        "id": "Điều 86.0",
+        "article": "Điều 86",
+        "clause": "0",
+        "title": "Quyết định hình phạt trong trường hợp pháp nhân thương mại phạm nhiều tội",
+        "text": "Khi xét xử cùng 01 lần pháp nhân thương mại phạm nhiều tội, Tòa án quyết định hình phạt đối với từng tội và tổng hợp hình phạt theo quy định sau đây:"
+    },
+    {
         "id": "Điều 86.1",
         "article": "Điều 86",
         "clause": "1",
@@ -2499,6 +2716,27 @@
         "text": "Trong trường hợp một pháp nhân thương mại phải chấp hành nhiều bản án đã có hiệu lực pháp luật mà các hình phạt của các bản án chưa được tổng hợp, thì Chánh án Tòa án có thẩm quyền ra quyết định tổng hợp hình phạt của các bản án theo quy định tại khoản 1 và khoản 2 Điều này."
     },
     {
+        "id": "Điều 88.0",
+        "article": "Điều 88",
+        "clause": "0",
+        "title": "Miễn hình phạt",
+        "text": "Pháp nhân thương mại phạm tội có thể được miễn hình phạt khi đã khắc phục toàn bộ hậu quả và đã bồi thường toàn bộ thiệt hại do hành vi phạm tội gây ra."
+    },
+    {
+        "id": "Điều 89.0",
+        "article": "Điều 89",
+        "clause": "0",
+        "title": "Xóa án tích",
+        "text": "Pháp nhân thương mại bị kết án đương nhiên được xóa án tích nếu trong thời hạn 02 năm kể từ khi chấp hành xong hình phạt chính, hình phạt bổ sung, các quyết định khác của bản án hoặc từ khi hết thời hiệu thi hành bản án mà pháp nhân thương mại không thực hiện hành vi phạm tội mới. Chương XII NHỮNG QUY ĐỊNH ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI Mục 1. QUY ĐỊNH CHUNG VỀ XỬ LÝ HÌNH SỰ ĐỐI VỚI NGƯỜI DƯỚI 18 TUỔI PHẠM TỘI"
+    },
+    {
+        "id": "Điều 90.0",
+        "article": "Điều 90",
+        "clause": "0",
+        "title": "Áp dụng Bộ luật hình sự đối với người dưới 18 tuổi phạm tội",
+        "text": "Người từ đủ 14 tuổi đến dưới 18 tuổi phạm tội phải chịu trách nhiệm hình sự theo những quy định của Chương này; theo quy định khác của Phần thứ nhất của Bộ luật này không trái với quy định của Chương này."
+    },
+    {
         "id": "Điều 91.1",
         "article": "Điều 91",
         "clause": "1",
@@ -2567,6 +2805,13 @@
         "clause": "7",
         "title": "Nguyên tắc xử lý đối với người dưới 18 tuổi phạm tội",
         "text": "Án đã tuyên đối với người chưa đủ 16 tuổi phạm tội, thì không tính để xác định tái phạm hoặc tái phạm nguy hiểm. Mục 2. CÁC BIỆN PHÁP GIÁM SÁT, GIÁO DỤC ÁP DỤNG TRONG TRƯỜNG HỢP ĐƯỢC MIỄN TRÁCH NHIỆM HÌNH SỰ"
+    },
+    {
+        "id": "Điều 92.0",
+        "article": "Điều 92",
+        "clause": "0",
+        "title": "Điều kiện áp dụng",
+        "text": "Cơ quan điều tra, Viện kiểm sát hoặc Tòa án chỉ quyết định miễn trách nhiệm hình sự và áp dụng biện pháp khiển trách, hòa giải tại cộng đồng hoặc biện pháp giáo dục tại xã, phường, thị trấn, nếu người dưới 18 tuổi phạm tội hoặc người đại diện hợp pháp của họ đồng ý với việc áp dụng một trong các biện pháp này. Điều 93. Khiển trách"
     },
     {
         "id": "Điều 92.1",
@@ -2758,6 +3003,13 @@
         "text": "Người được giáo dục tại trường giáo dưỡng phải chấp hành đầy đủ những nghĩa vụ về học tập, học nghề, lao động, sinh hoạt dưới sự quản lý, giáo dục của nhà trường. Điều 97. Chấm dứt trước thời hạn biện pháp giáo dục tại trường giáo dưỡng Nếu người được giáo dục tại trường giáo dưỡng đã chấp hành một phần hai thời hạn, có nhiều tiến bộ, thì theo đề nghị của trường giáo dưỡng được giao trách nhiệm quản lý, giáo dục, Tòa án có thể quyết định chấm dứt thời hạn giáo dục tại trường giáo dưỡng. Mục 4. HÌNH PHẠT"
     },
     {
+        "id": "Điều 98.0",
+        "article": "Điều 98",
+        "clause": "0",
+        "title": "Các hình phạt được áp dụng đối với người dưới 18 tuổi phạm tội",
+        "text": "Người dưới 18 tuổi phạm tội chỉ bị áp dụng một trong các hình phạt sau đây đối với mỗi tội phạm:"
+    },
+    {
         "id": "Điều 98.1",
         "article": "Điều 98",
         "clause": "1",
@@ -2784,6 +3036,13 @@
         "clause": "4",
         "title": "Các hình phạt được áp dụng đối với người dưới 18 tuổi phạm tội",
         "text": "Tù có thời hạn."
+    },
+    {
+        "id": "Điều 99.0",
+        "article": "Điều 99",
+        "clause": "0",
+        "title": "Phạt tiền",
+        "text": "Phạt tiền được áp dụng là hình phạt chính đối với người từ đủ 16 tuổi đến dưới 18 tuổi, nếu người đó có thu nhập hoặc có tài sản riêng. Mức tiền phạt đối với người từ đủ 16 tuổi đến dưới 18 tuổi phạm tội không quá một phần hai mức tiền phạt mà điều luật quy định."
     },
     {
         "id": "Điều 100.1",
@@ -2882,6 +3141,13 @@
         "clause": "3b",
         "title": "Tổng hợp hình phạt trong trường hợp phạm nhiều tội",
         "text": "Nếu mức hình phạt Toà án tuyên đối với tội được thực hiện khi người đó đã đủ 18 tuổi nặng hơn mức hình phạt áp dụng đối với tội thực hiện khi người đó chưa đủ 18 tuổi thì hình phạt chung áp dụng như đối với người đủ 18 tuổi trở lên phạm tội."
+    },
+    {
+        "id": "Điều 104.0",
+        "article": "Điều 104",
+        "clause": "0",
+        "title": "Tổng hợp hình phạt của nhiều bản án",
+        "text": "Việc tổng hợp hình phạt trong trường hợp một người đang phải chấp hành một bản án mà lại bị xét xử về tội đã phạm trước hoặc sau khi có bản án này, được thực hiện theo quy định tại Điều 55 và Điều 56 của Bộ luật này. Hình phạt chung không được vượt quá mức hình phạt cao nhất quy định tại Điều 103 của Bộ luật này. Điều 105. Giảm mức hình phạt đã tuyên"
     },
     {
         "id": "Điều 104.1",
@@ -3003,6 +3269,13 @@
         "text": "Người chuẩn bị phạm tội này, thì bị phạt tù từ 01 năm đến 05 năm."
     },
     {
+        "id": "Điều 109.0",
+        "article": "Điều 109",
+        "clause": "0",
+        "title": "Tội hoạt động nhằm lật đổ chính quyền nhân dân",
+        "text": "Người nào hoạt động thành lập hoặc tham gia tổ chức nhằm lật đổ chính quyền nhân dân, thì bị phạt như sau:"
+    },
+    {
         "id": "Điều 109.1",
         "article": "Điều 109",
         "clause": "1",
@@ -3073,6 +3346,13 @@
         "text": "Người đã nhận làm gián điệp, nhưng không thực hiện nhiệm vụ được giao và tự thú, thành khẩn khai báo với cơ quan nhà nước có thẩm quyền, thì được miễn trách nhiệm hình sự về tội này."
     },
     {
+        "id": "Điều 111.0",
+        "article": "Điều 111",
+        "clause": "0",
+        "title": "Tội xâm phạm an ninh lãnh thổ",
+        "text": "Người nào xâm nhập lãnh thổ, có hành động làm sai lệch đường biên giới quốc gia hoặc có hành động khác nhằm gây phương hại cho an ninh lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam, thì bị phạt như sau:"
+    },
+    {
         "id": "Điều 111.1",
         "article": "Điều 111",
         "clause": "1",
@@ -3092,6 +3372,13 @@
         "clause": "3",
         "title": "Tội xâm phạm an ninh lãnh thổ",
         "text": "Người chuẩn bị phạm tội này, thì bị phạt tù từ 01 năm đến 05 năm."
+    },
+    {
+        "id": "Điều 112.0",
+        "article": "Điều 112",
+        "clause": "0",
+        "title": "Tội bạo loạn",
+        "text": "Người nào hoạt động vũ trang hoặc dùng bạo lực có tổ chức nhằm chống chống chính quyền nhân dân, thì bị phạt như sau:"
     },
     {
         "id": "Điều 112.1",
@@ -3386,6 +3673,13 @@
         "clause": "3",
         "title": "Tội trốn đi nước ngoài hoặc trốn ở lại nước ngoài nhằm chống chính quyền nhân dân",
         "text": "Người chuẩn bị phạm tội này, thì bị phạt tù từ 01 năm đến 05 năm."
+    },
+    {
+        "id": "Điều 122.0",
+        "article": "Điều 122",
+        "clause": "0",
+        "title": "Hình phạt bổ sung",
+        "text": "Người phạm tội quy định tại Chương này còn có thể bị tước một số quyền công dân, phạt quản chế, cấm cư trú từ 01 năm đến 05 năm hoặc tịch thu một phần hoặc toàn bộ tài sản. Chương XIV CÁC TỘI XÂM PHẠM TÍNH MẠNG, SỨC KHỎE, NHÂN PHẨM, DANH DỰ CỦA CON NGƯỜI"
     },
     {
         "id": "Điều 123.1",
@@ -7959,6 +8253,13 @@
         "text": "Phạm tội gây thiệt hại cho tài sản của người khác trị giá 500.000.000 đồng trở lên, thì bị phạt tù từ 03 tháng đến 02 năm. Chương XVII CÁC TỘI XÂM PHẠM CHẾ ĐỘ HÔN NHÂN VÀ GIA ĐÌNH"
     },
     {
+        "id": "Điều 181.0",
+        "article": "Điều 181",
+        "clause": "0",
+        "title": "Tội cưỡng ép kết hôn, ly hôn hoặc cản trở hôn nhân tự nguyện, tiến bộ, cản trở ly hôn tự nguyện",
+        "text": "Người nào cưỡng ép người khác kết hôn trái với sự tự nguyện của họ, cản trở người khác kết hôn hoặc duy trì quan hệ hôn nhân tự nguyện, tiến bộ hoặc cưỡng ép hoặc cản trở người khác ly hôn bằng cách hành hạ, ngược đãi, uy hiếp tinh thần, yêu sách của cải hoặc bằng thủ đoạn khác, đã bị xử phạt vi phạm hành chính về hành vi này mà còn vi phạm, thì bị phạt cảnh cáo, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 03 tháng đến 03 năm."
+    },
+    {
         "id": "Điều 182.1",
         "article": "Điều 182",
         "clause": "1",
@@ -8001,6 +8302,20 @@
         "text": "Đã có quyết định của Tòa án hủy việc kết hôn hoặc buộc phải chấm dứt việc chung sống như vợ chồng trái với chế độ một vợ, một chồng mà vẫn duy trì quan hệ đó."
     },
     {
+        "id": "Điều 183.0",
+        "article": "Điều 183",
+        "clause": "0",
+        "title": "Tội tổ chức tảo hôn",
+        "text": "Người nào tổ chức việc lấy vợ, lấy chồng cho những người chưa đến tuổi kết hôn, đã bị xử phạt vi phạm hành chính về hành vi này mà còn vi phạm, thì bị phạt tiền từ 10.000.000 đồng đến 30.000.000 đồng hoặc phạt cải tạo không giam giữ đến 02 năm."
+    },
+    {
+        "id": "Điều 184.0",
+        "article": "Điều 184",
+        "clause": "0",
+        "title": "Tội loạn luân",
+        "text": "Người nào giao cấu với người mà biết rõ người đó cùng dòng máu về trực hệ, là anh chị em cùng cha mẹ, anh chị em cùng cha khác mẹ hoặc cùng mẹ khác cha, thì bị phạt tù từ 01 năm đến 05 năm."
+    },
+    {
         "id": "Điều 185.1",
         "article": "Điều 185",
         "clause": "1",
@@ -8041,6 +8356,13 @@
         "clause": "2b",
         "title": "Tội ngược đãi hoặc hành hạ ông bà, cha mẹ, vợ chồng, con, cháu hoặc người có công nuôi dưỡng mình",
         "text": "Đối với người khuyết tật nặng, khuyết tật đặc biệt nặng hoặc người mắc bệnh hiểm nghèo."
+    },
+    {
+        "id": "Điều 186.0",
+        "article": "Điều 186",
+        "clause": "0",
+        "title": "Tội từ chối hoặc trốn tránh nghĩa vụ cấp dưỡng",
+        "text": "Người nào có nghĩa vụ cấp dưỡng và có khả năng thực tế để thực hiện việc cấp dưỡng đối với người mà mình có nghĩa vụ cấp dưỡng theo quyết định của Tòa án mà từ chối hoặc trốn tránh nghĩa vụ cấp dưỡng, làm cho người được cấp dưỡng lâm tình trạng nguy hiểm đến tính mạng, sức khỏe hoặc đã bị xử phạt vi phạm hành chính về hành vi này mà còn vi phạm, thì bị phạt cảnh cáo, phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng đến 02 năm."
     },
     {
         "id": "Điều 187.1",
@@ -25375,6 +25697,13 @@
         "text": "Người phạm tội còn có thể bị cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định từ 01 năm đến 05 năm."
     },
     {
+        "id": "Điều 339.0",
+        "article": "Điều 339",
+        "clause": "0",
+        "title": "Tội giả mạo chức vụ, cấp bậc, vị trí công tác",
+        "text": "Người nào giả mạo chức vụ, cấp bậc, vị trí công tác thực hiện hành vi trái pháp luật nhưng không nhằm mục đích chiếm đoạt tài sản, thì bị phạt cải tạo không giam giữ đến 02 năm hoặc phạt tù từ 03 tháng đến 02 năm."
+    },
+    {
         "id": "Điều 340.1",
         "article": "Điều 340",
         "clause": "1",
@@ -25683,6 +26012,13 @@
         "text": "Người phạm tội còn có thể bị phạt tiền từ 5.000.000 đồng đến 50.000.000 đồng, cấm cư trú từ một 01 năm đến 05 năm."
     },
     {
+        "id": "Điều 347.0",
+        "article": "Điều 347",
+        "clause": "0",
+        "title": "Tội vi phạm quy định về xuất cảnh, nhập cảnh; tội ở lại Việt Nam trái phép",
+        "text": "Người nào xuất cảnh, nhập cảnh trái phép hoặc ở lại Việt Nam trái phép, đã bị xử phạt vi phạm hành chính về hành vi này mà còn vi phạm, thì bị phạt tiền từ 5.000.000 đồng đến 50.000.000 đồng hoặc phạt tù từ 06 tháng đến 03 năm."
+    },
+    {
         "id": "Điều 348.1",
         "article": "Điều 348",
         "clause": "1",
@@ -25933,6 +26269,13 @@
         "clause": "3b",
         "title": "Tội cưỡng ép người khác trốn đi nước ngoài hoặc ở lại nước ngoài trái phép",
         "text": "Làm chết người."
+    },
+    {
+        "id": "Điều 351.0",
+        "article": "Điều 351",
+        "clause": "0",
+        "title": "Tội xúc phạm Quốc kỳ, Quốc huy, Quốc ca",
+        "text": "Người nào cố ý xúc phạm Quốc kỳ, Quốc huy, Quốc ca, thì bị phạt cảnh cáo, cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm. Chương XXIII CÁC TỘI PHẠM VỀ CHỨC VỤ"
     },
     {
         "id": "Điều 352.1",
@@ -27263,6 +27606,13 @@
         "clause": "4",
         "title": "Tội lợi dụng ảnh hưởng đối với người có chức vụ quyền hạn để trục lợi",
         "text": "Người phạm tội còn có thể bị phạt tiền từ 10.000.000 đồng đến 50.000.000 đồng. Chương XXIV CÁC TỘI XÂM PHẠM HOẠT ĐỘNG TƯ PHÁP"
+    },
+    {
+        "id": "Điều 367.0",
+        "article": "Điều 367",
+        "clause": "0",
+        "title": "Khái niệm tội xâm phạm hoạt động tư pháp",
+        "text": "Các tội xâm phạm hoạt động tư pháp là những hành vi xâm phạm sự đúng đắn của hoạt động tố tụng và thi hành án."
     },
     {
         "id": "Điều 368.1",
@@ -30366,6 +30716,13 @@
         "text": "Gây hậu quả đặc biệt nghiêm trọng."
     },
     {
+        "id": "Điều 420.0",
+        "article": "Điều 420",
+        "clause": "0",
+        "title": "Tội ngược đãi tù binh, hàng binh",
+        "text": "Người nào ngược đãi tù binh, hàng binh, thì bị phạt cải tạo không giam giữ đến 01 năm hoặc phạt tù từ 03 tháng đến 02 năm. Chương XXVI CÁC TỘI PHÁ HOẠI HÒA BÌNH, CHỐNG LOÀI NGƯỜI VÀ TỘI PHẠM CHIẾN TRANH"
+    },
+    {
         "id": "Điều 421.1",
         "article": "Điều 421",
         "clause": "1",
@@ -30406,5 +30763,26 @@
         "clause": "2",
         "title": "Tội phạm chiến tranh",
         "text": "Phạm tội trong trường hợp do bị ép buộc hoặc do thi hành mệnh lệnh của cấp trên, thì bị phạt tù từ 10 năm đến 20 năm."
+    },
+    {
+        "id": "Điều 424.0",
+        "article": "Điều 424",
+        "clause": "0",
+        "title": "Tội tuyển mộ, huấn luyện hoặc sử dụng lính đánh thuê",
+        "text": "Người nào tuyển mộ, huấn luyện hoặc sử dụng lính đánh thuê nhằm chống lại một quốc gia hoặc một vùng lãnh thổ độc lập, có chủ quyền, thì bị phạt tù từ 10 năm đến 20 năm hoặc tù chung thân."
+    },
+    {
+        "id": "Điều 425.0",
+        "article": "Điều 425",
+        "clause": "0",
+        "title": "Tội làm lính đánh thuê",
+        "text": "Người nào làm lính đánh thuê nhằm chống một quốc gia hoặc một vùng lãnh thổ độc lập, có chủ quyền, thì bị phạt tù từ 05 năm đến 15 năm. PHẦN THỨ BA ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 426.0",
+        "article": "Điều 426",
+        "clause": "0",
+        "title": "Hiệu lực thi hành",
+        "text": "Bộ luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016. Bộ luật hình sự số 15/1999/QH10 và Luật số 37/2009/QH12 sửa đổi, bổ sung một số điều của Bộ luật hình sự hết hiệu lực thi hành kể từ ngày Bộ luật này có hiệu lực thi hành. Bộ luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 10 thông qua ngày 27 tháng 11 năm 2015. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng"
     }
 ]

@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quyền và nghĩa vụ của người khuyết tật; trách nhiệm của Nhà nước, gia đình và xã hội đối với người khuyết tật."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 2.1",
         "article": "Điều 2",
         "clause": "1",
@@ -390,6 +404,13 @@
         "clause": "3",
         "title": "Quỹ trợ giúp người khuyết tật",
         "text": "Quỹ trợ giúp người khuyết tật được thành lập và hoạt động theo quy định của pháp luật."
+    },
+    {
+        "id": "Điều 11.0",
+        "article": "Điều 11",
+        "clause": "0",
+        "title": "Ngày người khuyết tật Việt Nam",
+        "text": "Ngày 18 tháng 4 hàng năm là Ngày người khuyết tật Việt Nam."
     },
     {
         "id": "Điều 12.1",
@@ -1246,6 +1267,13 @@
         "text": "Người khuyết tật tự tạo việc làm hoặc hộ gia đình tạo việc làm cho người khuyết tật được vay vốn với lãi suất ưu đãi để sản xuất kinh doanh, được hướng dẫn về sản xuất, chuyển giao công nghệ, hỗ trợ tiêu thụ sản phẩm theo quy định của Chính phủ."
     },
     {
+        "id": "Điều 34.0",
+        "article": "Điều 34",
+        "clause": "0",
+        "title": "Cơ sở sản xuất, kinh doanh sử dụng nhiều lao động là người khuyết tật",
+        "text": "Cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật được hỗ trợ cải tạo điều kiện, môi trường làm việc phù hợp cho người khuyết tật; được miễn thuế thu nhập doanh nghiệp; được vay vốn với lãi suất ưu đãi theo dự án phát triển sản xuất kinh doanh; được ưu tiên cho thuê đất, mặt bằng, mặt nước và miễn, giảm tiền thuê đất, mặt bằng, mặt nước phục vụ sản xuất, kinh doanh theo tỷ lệ lao động là người khuyết tật, mức độ khuyết tật của người lao động và quy mô doanh nghiệp."
+    },
+    {
         "id": "Điều 35.1",
         "article": "Điều 35",
         "clause": "1",
@@ -1603,6 +1631,13 @@
         "text": "Chính phủ quy định mức trợ cấp nuôi dưỡng hàng tháng và kinh phí quy định tại khoản 2 Điều này."
     },
     {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Chế độ mai táng phí",
+        "text": "Người khuyết tật đang hưởng trợ cấp xã hội hàng tháng được hỗ trợ chi phí mai táng khi chết. Chính phủ quy định mức hỗ trợ chi phí mai táng."
+    },
+    {
         "id": "Điều 47.1",
         "article": "Điều 47",
         "clause": "1",
@@ -1944,5 +1979,12 @@
         "clause": "2",
         "title": "Hiệu lực thi hành",
         "text": "Pháp lệnh về người tàn tật năm 1998 hết hiệu lực kể từ ngày Luật này có hiệu lực."
+    },
+    {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động viễn thông; quyền và nghĩa vụ của tổ chức, cá nhân tham gia hoạt động viễn thông; quản lý nhà nước về viễn thông."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, cá nhân Việt Nam, tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc có liên quan đến hoạt động viễn thông tại Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -2268,6 +2289,13 @@
         "text": "Giấy phép viễn thông quy định tại điểm b khoản 2 Điều 35 của Luật này được cấp cho doanh nghiệp khi có đủ các điều kiện quy định tại các điểm a, c và d khoản 1 Điều này."
     },
     {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Điều kiện về viễn thông khi tham gia đấu giá, thi tuyển quyền sử dụng tần số vô tuyến điện",
+        "text": "Doanh nghiệp được xác định đủ điều kiện về viễn thông để tham gia đấu giá, thi tuyển quyền sử dụng tần số vô tuyến điện khi đáp ứng các điều kiện quy định tại các điểm a, b, c, d và đ khoản 1 Điều 36 của Luật này và đã hoàn thành các nghĩa vụ tài chính về viễn thông theo quy định của pháp luật."
+    },
+    {
         "id": "Điều 38.1",
         "article": "Điều 38",
         "clause": "1",
@@ -2574,6 +2602,13 @@
         "clause": "3",
         "title": "Đăng ký, thông báo cung cấp dịch vụ viễn thông",
         "text": "Chính phủ quy định chi tiết danh mục dịch vụ viễn thông áp dụng hình thức đăng ký, thông báo cung cấp dịch vụ viễn thông; điều kiện cung cấp dịch vụ viễn thông đối với hình thức đăng ký; thủ tục đăng ký, thông báo cung cấp dịch vụ viễn thông."
+    },
+    {
+        "id": "Điều 42.0",
+        "article": "Điều 42",
+        "clause": "0",
+        "title": "Miễn giấy phép viễn thông, đăng ký, thông báo cung cấp dịch vụ viễn thông",
+        "text": "Tổ chức, cá nhân hoạt động viễn thông được miễn giấy phép viễn thông, đăng ký, thông báo cung cấp dịch vụ viễn thông trong các trường hợp sau đây:"
     },
     {
         "id": "Điều 42.1",
@@ -3542,6 +3577,13 @@
         "text": "Không lấy lợi nhuận từ việc kinh doanh dịch vụ viễn thông này để hỗ trợ cho việc kinh doanh dịch vụ viễn thông khác của chính doanh nghiệp đó."
     },
     {
+        "id": "Điều 58.0",
+        "article": "Điều 58",
+        "clause": "0",
+        "title": "Căn cứ định giá dịch vụ viễn thông",
+        "text": "Giá dịch vụ viễn thông được xác định trên cơ sở các căn cứ sau đây:"
+    },
+    {
         "id": "Điều 58.1",
         "article": "Điều 58",
         "clause": "1",
@@ -4246,6 +4288,6 @@
         "article": "Điều 73",
         "clause": "4",
         "title": "Quy định chuyển tiếp",
-        "text": "Trường hợp tổ chức, doanh nghiệp nộp hồ sơ đề nghị cấp giấy phép viễn thông trước thời điểm Luật này có hiệu lực mà đến ngày 01 tháng 7 năm 2024 chưa được cấp giấy phép thì được xem xét cấp giấy phép theo quy định của Luật Viễn thông số 41/2009/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14 và Luật số 23/2018/QH14. __________________________________________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 6 thông qua ngày 24 tháng 11 năm 2023."
+        "text": "Trường hợp tổ chức, doanh nghiệp nộp hồ sơ đề nghị cấp giấy phép viễn thông trước thời điểm Luật này có hiệu lực mà đến ngày 01 tháng 7 năm 2024 chưa được cấp giấy phép thì được xem xét cấp giấy phép theo quy định của Luật Viễn thông số 41/2009/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 21/2017/QH14 và Luật số 23/2018/QH14. __________________________________________________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 6 thông qua ngày 24 tháng 11 năm 2023. CHỦ TỊCH QUỐC HỘI (Đã ký) Vương Đình Huệ"
     }
 ]

@@ -18,7 +18,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Sửa đổi, bổ sung một số khoản của Điều 3 như sau:",
+                    "text": "Sửa đổi, bổ sung một số khoản của Điều 3 như sau: “2. Vũ khí quân dụng bao gồm: Súng cầm tay: súng ngắn, súng trường, súng tiểu liên, súng trung liên, súng chống tăng, súng phóng lựu; Vũ khí hạng nhẹ: súng đại liên, súng cối, súng ĐKZ, súng máy phòng không, tên lửa chống tăng cá nhân; Vũ khí hạng nặng: máy bay chiến đấu, trực thăng vũ trang, xe tăng, xe thiết giáp, tàu chiến, tàu ngầm, pháo mặt đất, pháo phòng không, tên lửa; Bom, mìn, lựu đạn, ngư lôi, thủy lôi; đạn sử dụng cho các loại vũ khí quy định tại điểm này; “6. Vũ khí có tính năng tác dụng tương tự súng săn, vũ khí thô sơ, vũ khí thể thao là vũ khí được chế tạo, sản xuất thủ công hoặc công nghiệp, không theo tiêu chuẩn kỹ thuật, thiết kế của nhà sản xuất hợp pháp, có khả năng gây sát thương, nguy hại cho tính mạng, sức khỏe của con người, phá hủy kết cấu vật chất tương tự như súng săn, vũ khí thô sơ, vũ khí thể thao.”.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -40,7 +40,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Sửa đổi, bổ sung khoản 2 Điều 73 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 2 Điều 73 như sau: “2. Bộ Quốc phòng thực hiện chức năng quản lý nhà nước về vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ theo quy định của Luật này và quy định khác của pháp luật có liên quan. Bộ trưởng Bộ Quốc phòng ban hành danh mục vũ khí quân dụng quy định tại điểm a khoản 2 Điều 3 của Luật này.”.",
                     "sub_clauses": []
                 }
             ]
@@ -48,8 +48,18 @@
         {
             "id": "Điều 2",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 10 tháng 01 năm 2020. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 25 tháng 11 năm 2019. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 8 thông qua ngày 25 tháng 11 năm 2019.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

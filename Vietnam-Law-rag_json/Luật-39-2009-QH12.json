@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về quyền và nghĩa vụ của người cao tuổi; trách nhiệm của gia đình, Nhà nước và xã hội trong việc phụng dưỡng, chăm sóc và phát huy vai trò người cao tuổi; Hội người cao tuổi Việt Nam."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Người cao tuổi",
+        "text": "Người cao tuổi được quy định trong Luật này là công dân Việt Nam từ đủ 60 tuổi trở lên."
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -180,6 +194,13 @@
         "clause": "4",
         "title": " Trách nhiệm của cơ quan, tổ chức, gia đình và cá nhân",
         "text": "Cá nhân có trách nhiệm kính trọng và giúp đỡ người cao tuổi."
+    },
+    {
+        "id": "Điều 6.0",
+        "article": "Điều 6",
+        "clause": "0",
+        "title": "Ngày người cao tuổi Việt Nam",
+        "text": "Ngày 06 tháng 6 hằng năm là Ngày người cao tuổi Việt Nam."
     },
     {
         "id": "Điều 7.1",
@@ -553,6 +574,13 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 16.0",
+        "article": "Điều 16",
+        "clause": "0",
+        "title": "Giảm giá vé, giá dịch vụ",
+        "text": "Người cao tuổi được giảm giá vé, giá dịch vụ khi sử dụng một số dịch vụ theo quy định của Chính phủ. Mục 4 BẢO TRỢ XÃ HỘI ĐỐI VỚI NGƯỜI CAO TUỔI"
+    },
+    {
         "id": "Điều 17.1",
         "article": "Điều 17",
         "clause": "1",
@@ -628,6 +656,13 @@
         "clause": "3",
         "title": "Chính sách bảo trợ xã hội",
         "text": "Chính phủ quy định chi tiết Điều này."
+    },
+    {
+        "id": "Điều 19.0",
+        "article": "Điều 19",
+        "clause": "0",
+        "title": "Chăm sóc người cao tuổi tại cộng đồng",
+        "text": "Người cao tuổi thuộc diện quy định tại khoản 2 Điều 18 mà có người nhận chăm sóc tại cộng đồng thì được hưởng trợ cấp xã hội hằng tháng bằng mức nuôi dưỡng tại cơ sở bảo trợ xã hội, được hưởng bảo hiểm y tế và hỗ trợ chi phí mai táng khi chết."
     },
     {
         "id": "Điều 20.1",
@@ -747,6 +782,13 @@
         "clause": "2",
         "title": "Tổ chức tang lễ và mai táng khi người cao tuổi chết",
         "text": "Khi người cao tuổi chết, cơ quan, tổ chức nơi người cao tuổi đang làm việc hoặc cơ quan, tổ chức nơi làm việc cuối cùng của người cao tuổi, Hội người cao tuổi, Uỷ ban nhân dân xã, phường, thị trấn và các tổ chức đoàn thể tại địa phương có trách nhiệm phối hợp với gia đình người cao tuổi tổ chức tang lễ và mai táng. CHƯƠNG III PHÁT HUY VAI TRÒ NGƯỜI CAO TUỔI"
+    },
+    {
+        "id": "Điều 23.0",
+        "article": "Điều 23",
+        "clause": "0",
+        "title": "Hoạt động phát huy vai trò người cao tuổi",
+        "text": "Nhà nước, xã hội và gia đình tạo điều kiện để người cao tuổi phát huy trí tuệ, kinh nghiệm quý và phẩm chất tốt đẹp trong các hoạt động sau đây:"
     },
     {
         "id": "Điều 23.1",
@@ -1118,5 +1160,12 @@
         "clause": "3",
         "title": "Hiệu lực thi hành",
         "text": "Pháp lệnh Người cao tuổi số 23/2000/PL-UBTVQH10 hết hiệu lực kể từ ngày Luật này có hiệu lực. Chính sách bảo trợ xã hội hiện hành đối với người từ 85 tuổi trở lên không có lương hưu hoặc trợ cấp bảo hiểm xã hội được tiếp tục thực hiện cho đến hết ngày 31 tháng 12 năm 2010."
+    },
+    {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hoà xã hội chủ nghĩa Việt Nam khoá XII, kỳ họp thứ 6 thông qua ngày 23  tháng 11 năm 2009. CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

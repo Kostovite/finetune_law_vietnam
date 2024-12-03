@@ -15,17 +15,34 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về việc trưng cầu ý dân; nguyên tắc trưng cầu ý dân; nhiệm vụ, quyền hạn của cơ quan, tổ chức trong trưng cầu ý dân; trình tự, thủ tục quyết định việc trưng cầu ý dân và tổ chức trưng cầu ý dân; kết quả và hiệu lực của kết quả trưng cầu ý dân.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam và cơ quan, tổ chức, đơn vị có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Trưng cầu ý dân là việc Nhà nước tổ chức để cử tri cả nước trực tiếp biểu quyết bằng hình thức bỏ phiếu quyết định những vấn đề quan trọng của đất nước theo quy định của Luật này.",
@@ -72,12 +89,23 @@
         {
             "id": "Điều 5",
             "title": "Người có quyền bỏ phiếu trưng cầu ý dân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam đủ mười tám tuổi trở lên tính đến ngày trưng cầu ý dân có quyền bỏ phiếu để biểu quyết khi Nhà nước tổ chức trưng cầu ý dân, trừ trường hợp quy định tại khoản 1 và khoản 2 Điều 25 của Luật này.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 6",
             "title": "Các vấn đề trưng cầu ý dân",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Quốc hội xem xét, quyết định trưng cầu ý dân về các vấn đề sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Toàn văn Hiến pháp hoặc một số nội dung quan trọng của Hiến pháp;",
@@ -103,12 +131,24 @@
         {
             "id": "Điều 7",
             "title": "Phạm vi tổ chức trưng cầu ý dân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trưng cầu ý dân được thực hiện trong phạm vi cả nước.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 8",
             "title": "Ngày bỏ phiếu trưng cầu ý dân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngày bỏ phiếu trưng cầu ý dân là ngày chủ nhật, do Ủy ban thường vụ Quốc hội quyết định và được công bố chậm nhất là 60 ngày trước ngày bỏ phiếu trưng cầu ý dân.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 9",
@@ -166,7 +206,13 @@
         {
             "id": "Điều 12",
             "title": "Kinh phí tổ chức trưng cầu ý dân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Kinh phí tổ chức trưng cầu ý dân do ngân sách nhà nước bảo đảm.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 13",
@@ -194,7 +240,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Vi phạm quy định về bỏ phiếu, kiểm phiếu trưng cầu ý dân, quy định khác của Luật này.",
+                    "text": "Vi phạm quy định về bỏ phiếu, kiểm phiếu trưng cầu ý dân, quy định khác của Luật này. Chương II ĐỀ NGHỊ TRƯNG CẦU Ý DÂN VÀ QUYẾT ĐỊNH VIỆC TRƯNG CẦU Ý DÂN",
                     "sub_clauses": []
                 }
             ]
@@ -210,7 +256,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Trường hợp có từ một phần ba tổng số đại biểu Quốc hội trở lên kiến nghị Quốc hội quyết định việc trưng cầu ý dân về cùng một vấn đề thì Ủy ban thường vụ Quốc hội có trách nhiệm tổng hợp các kiến nghị của đại biểu Quốc hội, chuẩn bị hồ sơ theo quy định tại khoản 3 Điều này trình Quốc hội xem xét, quyết định.",
+                    "text": "Trường hợp có từ một phần ba tổng số đại biểu Quốc hội trở lên kiến nghị Quốc hội quyết định việc trưng cầu ý dân về cùng một vấn đề thì Ủy ban thường vụ Quốc hội có trách nhiệm tổng hợp các kiến nghị của đại biểu Quốc hội, chuẩn bị hồ sơ theo quy định tại khoản 3 Điều này trình Quốc hội xem xét, quyết định. Việc kiến nghị và tổng hợp kiến nghị của đại biểu Quốc hội được thực hiện theo quy định tại Điều 33 của Luật tổ chức Quốc hội.",
                     "sub_clauses": []
                 },
                 {
@@ -270,7 +316,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Việc thẩm tra đề nghị trưng cầu ý dân phải được thực hiện tại phiên họp toàn thể của Hội đồng dân tộc, Ủy ban của Quốc hội. Cơ quan chủ trì thẩm tra có trách nhiệm mời đại diện Thường trực Hội đồng dân tộc, Thường trực Ủy ban khác của Quốc hội, cơ quan, tổ chức có liên quan tham dự phiên họp thẩm tra để phát biểu ý kiến về những nội dung của đề nghị trưng cầu ý dân.",
+                    "text": "Việc thẩm tra đề nghị trưng cầu ý dân phải được thực hiện tại phiên họp toàn thể của Hội đồng dân tộc, Ủy ban của Quốc hội. Cơ quan chủ trì thẩm tra có trách nhiệm mời đại diện Thường trực Hội đồng dân tộc, Thường trực Ủy ban khác của Quốc hội, cơ quan, tổ chức có liên quan tham dự phiên họp thẩm tra để phát biểu ý kiến về những nội dung của đề nghị trưng cầu ý dân. Cơ quan thẩm tra có quyền yêu cầu cơ quan, người đã đề nghị trưng cầu ý dân báo cáo, cung cấp thông tin, tài liệu về những vấn đề liên quan đến nội dung đề nghị trưng cầu ý dân. Cơ quan, người được yêu cầu có trách nhiệm đáp ứng các yêu cầu của cơ quan thẩm tra.",
                     "sub_clauses": []
                 },
                 {
@@ -283,7 +329,13 @@
         {
             "id": "Điều 16",
             "title": "Ủy ban thường vụ Quốc hội xem xét, cho ý kiến về đề nghị trưng cầu ý dân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban thường vụ Quốc hội xem xét, cho ý kiến về đề nghị trưng cầu ý dân quy định tại Điều 14 của Luật này. Khi xét thấy đề nghị của cơ quan, người có thẩm quyền đề nghị trưng cầu ý dân đáp ứng đủ các điều kiện theo quy định của Luật này, Ủy ban thường vụ Quốc hội đưa nội dung quyết định việc trưng cầu ý dân vào dự kiến chương trình làm việc của Quốc hội tại kỳ họp gần nhất để trình Quốc hội xem xét, quyết định.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 17",
@@ -326,7 +378,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Nghị quyết của Quốc hội về trưng cầu ý dân được công bố theo quy định của pháp luật.",
+                    "text": "Nghị quyết của Quốc hội về trưng cầu ý dân được công bố theo quy định của pháp luật. Chương III NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN, TỔ CHỨC TRONG TỔ CHỨC TRƯNG CẦU Ý DÂN",
                     "sub_clauses": []
                 }
             ]
@@ -524,7 +576,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tổ trưng cầu ý dân được thành lập ở mỗi khu vực bỏ phiếu chậm nhất là 40 ngày trước ngày bỏ phiếu trưng cầu ý dân. Tổ trưng cầu ý dân có từ chín đến mười một thành viên gồm Tổ trưởng, Thư ký và các thành viên là đại diện cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, đại diện cử tri ở địa phương.",
+                    "text": "Tổ trưng cầu ý dân được thành lập ở mỗi khu vực bỏ phiếu chậm nhất là 40 ngày trước ngày bỏ phiếu trưng cầu ý dân. Tổ trưng cầu ý dân có từ chín đến mười một thành viên gồm Tổ trưởng, Thư ký và các thành viên là đại diện cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, đại diện cử tri ở địa phương. Đơn vị vũ trang nhân dân được xác định là khu vực bỏ phiếu riêng được thành lập một Tổ trưng cầu ý dân có từ bảy đến chín thành viên gồm Tổ trưởng, Thư ký và các thành viên là đại diện chỉ huy đơn vị và đại diện quân nhân của đơn vị vũ trang nhân dân đó. Trong trường hợp đơn vị vũ trang nhân dân và địa phương có chung một khu vực bỏ phiếu thì Ủy ban nhân dân cấp xã sau khi thống nhất với chỉ huy đơn vị vũ trang nhân dân quyết định thành lập Tổ trưng cầu ý dân có từ chín đến mười một thành viên gồm Tổ trưởng, Thư ký và các thành viên là đại diện cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, đại diện cử tri ở địa phương, đại diện chỉ huy đơn vị và đại diện quân nhân của đơn vị vũ trang nhân dân đó.",
                     "sub_clauses": []
                 },
                 {
@@ -583,12 +635,24 @@
         {
             "id": "Điều 22",
             "title": "Cơ quan giúp việc và việc trưng tập cán bộ, công chức, viên chức trong trưng cầu ý dân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban thường vụ Quốc hội, Ủy ban nhân dân các cấp có quyền thành lập hoặc phân công cơ quan chuyên môn trực thuộc để giúp việc trong tổ chức trưng cầu ý dân; trưng tập cán bộ, công chức, viên chức của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, đơn vị sự nghiệp công lập để giúp thực hiện các công việc liên quan đến tổ chức trưng cầu ý dân.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 23",
             "title": "Trách nhiệm của cơ quan nhà nước, tổ chức, đơn vị vũ trang nhân dân và công dân trong việc tổ chức trưng cầu ý dân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan nhà nước, tổ chức, đơn vị vũ trang nhân dân và công dân có trách nhiệm thực hiện nghiêm chỉnh quy định của pháp luật về trưng cầu ý dân, tạo điều kiện để cơ quan, tổ chức phụ trách trưng cầu ý dân thực hiện nhiệm vụ và quyền hạn của mình theo quy định của pháp luật. Chương IV DANH SÁCH CỬ TRI VÀ KHU VỰC BỎ PHIẾU TRƯNG CẦU Ý DÂN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 24",
@@ -648,7 +712,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Danh sách cử tri do Ủy ban nhân dân cấp xã lập theo từng khu vực bỏ phiếu.",
+                    "text": "Danh sách cử tri do Ủy ban nhân dân cấp xã lập theo từng khu vực bỏ phiếu. Đối với huyện không có đơn vị hành chính xã, thị trấn thì Ủy ban nhân dân huyện có trách nhiệm lập danh sách cử tri theo từng khu vực bỏ phiếu.",
                     "sub_clauses": []
                 },
                 {
@@ -661,17 +725,35 @@
         {
             "id": "Điều 27",
             "title": "Niêm yết danh sách cử tri",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chậm nhất là 30 ngày trước ngày bỏ phiếu trưng cầu ý dân, cơ quan lập danh sách cử tri niêm yết danh sách cử tri tại trụ sở Ủy ban nhân dân cấp xã và tại những địa điểm công cộng của khu vực bỏ phiếu, đồng thời thông báo rộng rãi danh sách cử tri và việc niêm yết để Nhân dân kiểm tra.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 28",
             "title": "Khiếu nại và giải quyết khiếu nại về danh sách cử tri",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khi kiểm tra danh sách cử tri, nếu phát hiện có sai sót thì trong thời hạn 10 ngày kể từ ngày niêm yết, công dân có quyền khiếu nại với cơ quan lập danh sách cử tri. Cơ quan lập danh sách cử tri phải ghi vào sổ những khiếu nại đó. Trong thời hạn 03 ngày kể từ ngày nhận được khiếu nại, cơ quan lập danh sách cử tri phải giải quyết và thông báo cho người khiếu nại biết kết quả giải quyết. Trường hợp người khiếu nại không đồng ý về kết quả giải quyết khiếu nại hoặc hết thời hạn giải quyết mà khiếu nại không được giải quyết thì có quyền khởi kiện tại Tòa án nhân dân theo quy định của pháp luật về tố tụng hành chính.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 29",
             "title": "Bỏ phiếu ở nơi khác",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Từ khi niêm yết danh sách cử tri cho đến ngày bỏ phiếu trưng cầu ý dân, nếu cử tri nào vì đi nơi khác, không thể tham gia bỏ phiếu trưng cầu ý dân ở nơi đã được ghi tên vào danh sách cử tri thì có quyền đề nghị Ủy ban nhân dân cấp xã nơi mình đã có tên trong danh sách cử tri cấp giấy chứng nhận để được bổ sung tên vào danh sách cử tri và tham gia bỏ phiếu trưng cầu ý dân ở nơi mình có thể tham gia bỏ phiếu. Khi cấp giấy chứng nhận, Ủy ban nhân dân cấp xã phải ghi ngay vào danh sách cử tri tại khu vực bỏ phiếu trưng cầu ý dân thuộc địa phương mình bên cạnh tên người đó cụm từ “Bỏ phiếu ở nơi khác”.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 30",
@@ -689,7 +771,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Các trường hợp có thể thành lập khu vực bỏ phiếu trưng cầu ý dân riêng gồm:",
+                    "text": "Các trường hợp có thể thành lập khu vực bỏ phiếu trưng cầu ý dân riêng gồm: Chương V THÔNG TIN, TUYÊN TRUYỀN  VỀ TRƯNG CẦU Ý DÂN",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -796,7 +878,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội, đơn vị vũ trang nhân dân và chính quyền địa phương trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tham gia và tạo điều kiện cho công tác thông tin, tuyên truyền về trưng cầu ý dân ở cơ quan, tổ chức, đơn vị và địa phương mình.",
+                    "text": "Cơ quan nhà nước, tổ chức chính trị - xã hội, tổ chức xã hội, đơn vị vũ trang nhân dân và chính quyền địa phương trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tham gia và tạo điều kiện cho công tác thông tin, tuyên truyền về trưng cầu ý dân ở cơ quan, tổ chức, đơn vị và địa phương mình. Chương VI TRÌNH TỰ, THỦ TỤC BỎ PHIẾU TRƯNG CẦU Ý DÂN; QUYỀN, NGHĨA VỤ CỦA CỬ TRI TRONG TRƯNG CẦU Ý DÂN",
                     "sub_clauses": []
                 }
             ]
@@ -825,7 +907,13 @@
         {
             "id": "Điều 36",
             "title": "Thông báo về thời gian và địa điểm bỏ phiếu trưng cầu ý dân",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trong thời hạn 10 ngày trước ngày bỏ phiếu trưng cầu ý dân, Tổ trưng cầu ý dân phải thường xuyên thông báo cho cử tri ở địa phương biết về ngày bỏ phiếu, địa điểm bỏ phiếu, thời gian bỏ phiếu trưng cầu ý dân bằng hình thức niêm yết, phát thanh và các phương tiện thông tin đại chúng khác của địa phương.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 37",
@@ -833,7 +921,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Việc bỏ phiếu trưng cầu ý dân bắt đầu từ bảy giờ sáng đến bảy giờ tối cùng ngày. Tùy tình hình địa phương, Tổ trưng cầu ý dân có thể quyết định cho bắt đầu việc bỏ phiếu sớm hơn nhưng không được trước năm giờ sáng hoặc kết thúc muộn hơn nhưng không được quá chín giờ tối cùng ngày.",
+                    "text": "Việc bỏ phiếu trưng cầu ý dân bắt đầu từ bảy giờ sáng đến bảy giờ tối cùng ngày. Tùy tình hình địa phương, Tổ trưng cầu ý dân có thể quyết định cho bắt đầu việc bỏ phiếu sớm hơn nhưng không được trước năm giờ sáng hoặc kết thúc muộn hơn nhưng không được quá chín giờ tối cùng ngày. Trường hợp ở khu vực bỏ phiếu trưng cầu ý dân đã có một trăm phần trăm cử tri trong danh sách thực hiện việc bỏ phiếu thì việc bỏ phiếu ở khu vực bỏ phiếu đó có thể kết thúc sớm nhưng không được trước ba giờ chiều cùng ngày.",
                     "sub_clauses": []
                 },
                 {
@@ -851,7 +939,13 @@
         {
             "id": "Điều 38",
             "title": "Bỏ phiếu sớm, hoãn ngày bỏ phiếu",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trường hợp đặc biệt cần bỏ phiếu trưng cầu ý dân sớm hơn ngày quy định hoặc hoãn ngày bỏ phiếu tại một hoặc một số khu vực bỏ phiếu, một hoặc một số đơn vị hành chính cấp xã, cấp huyện thì Ủy ban nhân dân tại nơi cần bỏ phiếu sớm hoặc hoãn ngày bỏ phiếu phải kịp thời báo cáo Ủy ban nhân dân cấp tỉnh để trình Ủy ban thường vụ Quốc hội xem xét, quyết định.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 39",
@@ -899,7 +993,7 @@
                 },
                 {
                     "number": "9",
-                    "text": "Mọi người phải tuân theo nội quy phòng bỏ phiếu trưng cầu ý dân.",
+                    "text": "Mọi người phải tuân theo nội quy phòng bỏ phiếu trưng cầu ý dân. Chương VII KẾT QUẢ TRƯNG CẦU Ý DÂN Mục 1. KIỂM PHIẾU",
                     "sub_clauses": []
                 }
             ]
@@ -907,7 +1001,13 @@
         {
             "id": "Điều 40",
             "title": "Kiểm phiếu",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc kiểm phiếu phải được tiến hành tại phòng bỏ phiếu ngay sau khi cuộc bỏ phiếu kết thúc. Trước khi mở hòm phiếu, Tổ trưng cầu ý dân phải thống kê, lập biên bản, niêm phong số phiếu trưng cầu ý dân không sử dụng đến và phải mời hai cử tri chứng kiến việc kiểm phiếu.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 41",
@@ -949,7 +1049,13 @@
         {
             "id": "Điều 42",
             "title": "Khiếu nại, tố cáo về kiểm phiếu",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Những khiếu nại, tố cáo tại chỗ về những hành vi có dấu hiệu vi phạm pháp luật trong việc kiểm phiếu do Tổ trưng cầu ý dân tiếp nhận, giải quyết. Việc giải quyết phải được lập thành biên bản. Trong trường hợp Tổ trưng cầu ý dân không giải quyết được thì phải ghi rõ ý kiến của Tổ trưng cầu ý dân vào biên bản giải quyết khiếu nại, tố cáo và chuyển đến Ủy ban nhân dân cấp xã sau khi kết thúc việc kiểm phiếu.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 43",
@@ -999,7 +1105,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Biên bản kết quả kiểm phiếu trưng cầu ý dân được lập thành hai bản, có chữ ký của Tổ trưởng, Thư ký Tổ trưng cầu ý dân và hai cử tri được mời chứng kiến việc kiểm phiếu. Toàn bộ biên bản và phiếu trưng cầu ý dân được niêm phong và gửi đến Ủy ban nhân dân cấp xã chậm nhất là 03 ngày sau ngày bỏ phiếu để tổng hợp và lưu trữ.",
+                    "text": "Biên bản kết quả kiểm phiếu trưng cầu ý dân được lập thành hai bản, có chữ ký của Tổ trưởng, Thư ký Tổ trưng cầu ý dân và hai cử tri được mời chứng kiến việc kiểm phiếu. Toàn bộ biên bản và phiếu trưng cầu ý dân được niêm phong và gửi đến Ủy ban nhân dân cấp xã chậm nhất là 03 ngày sau ngày bỏ phiếu để tổng hợp và lưu trữ. Mục 2. KẾT QUẢ TRƯNG CẦU Ý DÂN",
                     "sub_clauses": []
                 }
             ]
@@ -1129,7 +1235,13 @@
         {
             "id": "Điều 47",
             "title": "Bỏ phiếu trưng cầu ý dân lại",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban thường vụ Quốc hội hủy bỏ kết quả bỏ phiếu trưng cầu ý dân ở khu vực bỏ phiếu có vi phạm pháp luật nghiêm trọng và quyết định ngày bỏ phiếu lại ở khu vực bỏ phiếu đó. Trong trường hợp bỏ phiếu trưng cầu ý dân lại thì ngày bỏ phiếu được tiến hành chậm nhất là 15 ngày sau ngày bỏ phiếu đầu tiên.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 48",
@@ -1196,7 +1308,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Căn cứ vào kết quả trưng cầu ý dân, Quốc hội quyết định các biện pháp cần thiết để bảo đảm thực hiện kết quả trưng cầu ý dân.",
+                    "text": "Căn cứ vào kết quả trưng cầu ý dân, Quốc hội quyết định các biện pháp cần thiết để bảo đảm thực hiện kết quả trưng cầu ý dân. Chương VIII XỬ LÝ VI PHẠM PHÁP LUẬT VỀ TRƯNG CẦU Ý DÂN VÀ ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1220,13 +1332,29 @@
         {
             "id": "Điều 51",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 52",
             "title": "Quy định chi tiết và hướng dẫn thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban thường vụ Quốc hội, Chính phủ quy định chi tiết các điều, khoản được giao trong Luật và hướng dẫn việc thi hành Luật này. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 10 thông qua ngày 25 tháng 11 năm 2015. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 10 thông qua ngày 25 tháng 11 năm 2015.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

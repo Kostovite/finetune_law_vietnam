@@ -15,12 +15,24 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về quyền và nghĩa vụ của cơ quan, tổ chức, cá nhân, người tiêu dùng trong lĩnh vực giá, thẩm định giá; hoạt động quản lý, điều tiết giá của Nhà nước; tổng hợp, phân tích, dự báo giá thị trường; cơ sở dữ liệu về giá; thẩm định giá; thanh tra chuyên ngành về giá, kiểm tra việc chấp hành pháp luật về giá, thẩm định giá.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này áp dụng đối với tổ chức, cá nhân kinh doanh hàng hóa, dịch vụ; người tiêu dùng; cơ quan nhà nước; tổ chức, cá nhân khác có liên quan đến hoạt động trong lĩnh vực giá, thẩm định giá trên lãnh thổ Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
@@ -77,6 +89,11 @@
             "id": "Điều 4",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Hàng hóa là sản phẩm có thể trao đổi, mua, bán trên thị trường.",
@@ -283,7 +300,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Cơ quan, đơn vị, tổ chức, cá nhân có trách nhiệm công khai thông tin quy định tại Điều này phải bảo đảm tính chính xác, trung thực, kịp thời và chịu trách nhiệm về nội dung công khai. Việc công khai không áp dụng đối với các thông tin thuộc danh mục bí mật nhà nước và các trường hợp không được phép công khai theo quy định của pháp luật.",
+                    "text": "Cơ quan, đơn vị, tổ chức, cá nhân có trách nhiệm công khai thông tin quy định tại Điều này phải bảo đảm tính chính xác, trung thực, kịp thời và chịu trách nhiệm về nội dung công khai. Việc công khai không áp dụng đối với các thông tin thuộc danh mục bí mật nhà nước và các trường hợp không được phép công khai theo quy định của pháp luật. Việc thông tin, truyền thông về các chính sách pháp luật về giá, cơ chế quản lý, điều hành giá phải bảo đảm tính khách quan, trung thực theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -461,7 +478,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Cơ quan, tổ chức, cá nhân ban hành văn bản có các hình thức, điều kiện nhằm hạn chế hoạt động của doanh nghiệp thẩm định giá và thẩm định viên về giá trái quy định của Luật này.",
+                    "text": "Cơ quan, tổ chức, cá nhân ban hành văn bản có các hình thức, điều kiện nhằm hạn chế hoạt động của doanh nghiệp thẩm định giá và thẩm định viên về giá trái quy định của Luật này. Chương II QUYỀN, NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN KINH DOANH HÀNG HÓA, DỊCH VỤ VÀ NGƯỜI TIÊU DÙNG TRONG LĨNH VỰC GIÁ",
                     "sub_clauses": []
                 }
             ]
@@ -615,7 +632,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thông tin cho cơ quan quản lý nhà nước về giá, tổ chức, cá nhân có liên quan khi phát hiện hành vi có dấu hiệu vi phạm pháp luật về giá.",
+                    "text": "Thông tin cho cơ quan quản lý nhà nước về giá, tổ chức, cá nhân có liên quan khi phát hiện hành vi có dấu hiệu vi phạm pháp luật về giá. Chương III NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN QUẢN LÝ NHÀ NƯỚC VỀ GIÁ, THẨM ĐỊNH GIÁ",
                     "sub_clauses": []
                 }
             ]
@@ -945,7 +962,7 @@
                 },
                 {
                     "number": "13",
-                    "text": "Nhiệm vụ, quyền hạn khác về quản lý nhà nước về giá theo quy định của Luật này, quy định khác của pháp luật có liên quan và phân công của Chính phủ.",
+                    "text": "Nhiệm vụ, quyền hạn khác về quản lý nhà nước về giá theo quy định của Luật này, quy định khác của pháp luật có liên quan và phân công của Chính phủ. Chương IV HOẠT ĐỘNG QUẢN LÝ, ĐIỀU TIẾT GIÁ CỦA NHÀ NƯỚC Mục 1 BÌNH ỔN GIÁ",
                     "sub_clauses": []
                 }
             ]
@@ -1033,7 +1050,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Các biện pháp bình ổn giá bao gồm:",
+                    "text": "Các biện pháp bình ổn giá bao gồm: Quỹ bình ổn giá là quỹ tài chính không nằm trong cân đối ngân sách nhà nước, được trích lập từ giá hàng hóa, dịch vụ và các nguồn tài chính hợp pháp khác và chỉ được sử dụng cho mục đích bình ổn giá. Chính phủ quyết định việc lập quỹ bình ổn giá đối với hàng hóa, dịch vụ thuộc Danh mục hàng hóa, dịch vụ bình ổn giá; quy định về quản lý, trích lập, chi sử dụng quỹ bình ổn giá và chịu trách nhiệm bảo đảm tính công khai, minh bạch trong quản lý, sử dụng quỹ.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1114,7 +1131,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Mục 2 ĐỊNH GIÁ",
                     "sub_clauses": []
                 }
             ]
@@ -1307,7 +1324,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết khoản 1 Điều này.",
+                    "text": "Chính phủ quy định chi tiết khoản 1 Điều này. Mục 3 HIỆP THƯƠNG GIÁ",
                     "sub_clauses": []
                 }
             ]
@@ -1352,7 +1369,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Thẩm quyền và trách nhiệm hiệp thương giá được quy định như sau:",
+                    "text": "Thẩm quyền và trách nhiệm hiệp thương giá được quy định như sau: Trường hợp bên mua, bên bán có trụ sở chính đóng tại địa bàn 02 tỉnh, thành phố trực thuộc trung ương khác nhau, bên mua và bên bán có trách nhiệm thống nhất đề nghị 01 trong 02 địa phương tổ chức hiệp thương giá. Trường hợp bên mua, bên bán không thống nhất được địa phương tổ chức hiệp thương giá thì Sở quản lý ngành, lĩnh vực nơi bên bán đăng ký kinh doanh tổ chức hiệp thương giá; trường hợp bên bán là chi nhánh của doanh nghiệp thì Sở quản lý ngành, lĩnh vực nơi chi nhánh được đăng ký hoạt động tổ chức hiệp thương giá.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1397,7 +1414,7 @@
                 },
                 {
                     "number": "6",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Mục 4 KÊ KHAI GIÁ, NIÊM YẾT GIÁ, GIÁ THAM CHIẾU",
                     "sub_clauses": []
                 }
             ]
@@ -1413,7 +1430,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hàng hóa, dịch vụ thực hiện kê khai giá bao gồm:",
+                    "text": "Hàng hóa, dịch vụ thực hiện kê khai giá bao gồm: Bộ, cơ quan ngang Bộ quản lý ngành, lĩnh vực, Ủy ban nhân dân cấp tỉnh quy định đặc điểm kinh tế - kỹ thuật của hàng hóa, dịch vụ thực hiện kê khai giá.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1506,7 +1523,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quyết định hàng hóa, dịch vụ áp dụng giá tham chiếu và quy định việc công bố, sử dụng giá tham chiếu.",
+                    "text": "Chính phủ quyết định hàng hóa, dịch vụ áp dụng giá tham chiếu và quy định việc công bố, sử dụng giá tham chiếu. Mục 5 KIỂM TRA YẾU TỐ HÌNH THÀNH GIÁ",
                     "sub_clauses": []
                 }
             ]
@@ -1585,7 +1602,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong quá trình kiểm tra, trường hợp phát hiện hành vi vi phạm, cơ quan kiểm tra có trách nhiệm xử lý hoặc chuyển cơ quan có thẩm quyền xử lý theo quy định của pháp luật.",
+                    "text": "Trong quá trình kiểm tra, trường hợp phát hiện hành vi vi phạm, cơ quan kiểm tra có trách nhiệm xử lý hoặc chuyển cơ quan có thẩm quyền xử lý theo quy định của pháp luật. Chương V TỔNG HỢP, PHÂN TÍCH, DỰ BÁO GIÁ THỊ TRƯỜNG, CƠ SỞ DỮ LIỆU VỀ GIÁ",
                     "sub_clauses": []
                 }
             ]
@@ -1740,12 +1757,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Kinh phí đầu tư xây dựng, duy trì, nâng cấp, quản lý, vận hành cơ sở dữ liệu về giá được bảo đảm bằng ngân sách nhà nước theo phân cấp và các nguồn kinh phí hợp pháp khác theo quy định của pháp luật.",
+                    "text": "Kinh phí đầu tư xây dựng, duy trì, nâng cấp, quản lý, vận hành cơ sở dữ liệu về giá được bảo đảm bằng ngân sách nhà nước theo phân cấp và các nguồn kinh phí hợp pháp khác theo quy định của pháp luật. Cơ quan được giao quản lý cơ sở dữ liệu về giá có trách nhiệm lập dự toán ngân sách phục vụ cho việc xây dựng, duy trì, nâng cấp, quản lý, vận hành để trình cấp có thẩm quyền phê duyệt theo quy định của pháp luật về ngân sách nhà nước.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Bộ trưởng Bộ Tài chính quy định chi tiết Điều này.",
+                    "text": "Bộ trưởng Bộ Tài chính quy định chi tiết Điều này. Chương VI THẨM ĐỊNH GIÁ Mục 1 QUY ĐỊNH CHUNG",
                     "sub_clauses": []
                 }
             ]
@@ -1814,7 +1831,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hội nghề nghiệp về thẩm định giá được tổ chức đào tạo nghiệp vụ về thẩm định giá, bồi dưỡng cập nhật kiến thức chuyên môn về thẩm định giá, cấp chứng chỉ hoàn thành khóa học và thực hiện các hoạt động liên quan đến thẩm định giá theo quy định của Bộ trưởng Bộ Tài chính.",
+                    "text": "Hội nghề nghiệp về thẩm định giá được tổ chức đào tạo nghiệp vụ về thẩm định giá, bồi dưỡng cập nhật kiến thức chuyên môn về thẩm định giá, cấp chứng chỉ hoàn thành khóa học và thực hiện các hoạt động liên quan đến thẩm định giá theo quy định của Bộ trưởng Bộ Tài chính. Mục 2 DỊCH VỤ THẨM ĐỊNH GIÁ",
                     "sub_clauses": []
                 }
             ]
@@ -2035,7 +2052,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Khi đề nghị cấp giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá, doanh nghiệp phải có ít nhất 05 người có thẻ thẩm định viên về giá đủ các điều kiện đăng ký hành nghề thẩm định giá theo quy định tại khoản 1 Điều 45 của Luật này đăng ký hành nghề thẩm định giá tại doanh nghiệp và đáp ứng điều kiện sau đây:",
+                    "text": "Khi đề nghị cấp giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá, doanh nghiệp phải có ít nhất 05 người có thẻ thẩm định viên về giá đủ các điều kiện đăng ký hành nghề thẩm định giá theo quy định tại khoản 1 Điều 45 của Luật này đăng ký hành nghề thẩm định giá tại doanh nghiệp và đáp ứng điều kiện sau đây: Trường hợp thành viên góp vốn hoặc cổ đông là tổ chức thì người đại diện theo ủy quyền của của tổ chức góp vốn phải là người có thẻ thẩm định viên về giá đăng ký hành nghề thẩm định giá tại doanh nghiệp; tổng phần vốn góp của các thành viên là tổ chức không quá 35% vốn điều lệ. Tổng số vốn góp của các thành viên hoặc cổ đông là người có thẻ thẩm định viên về giá đăng ký hành nghề thẩm định giá tại doanh nghiệp phải chiếm trên 50% vốn điều lệ của doanh nghiệp.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2294,7 +2311,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong thời gian bị đình chỉ kinh doanh dịch vụ thẩm định giá, doanh nghiệp thẩm định giá không được ký hợp đồng dịch vụ thẩm định giá và không được phát hành chứng thư thẩm định giá. Doanh nghiệp thẩm định giá bị thu hồi giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá phải chấm dứt việc kinh doanh dịch vụ thẩm định giá kể từ ngày quyết định thu hồi có hiệu lực thi hành.",
+                    "text": "Trong thời gian bị đình chỉ kinh doanh dịch vụ thẩm định giá, doanh nghiệp thẩm định giá không được ký hợp đồng dịch vụ thẩm định giá và không được phát hành chứng thư thẩm định giá. Doanh nghiệp thẩm định giá bị thu hồi giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá phải chấm dứt việc kinh doanh dịch vụ thẩm định giá kể từ ngày quyết định thu hồi có hiệu lực thi hành. Người đại diện theo pháp luật của doanh nghiệp thẩm định giá tại thời điểm bị thu hồi giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá phải tiếp tục thực hiện nghĩa vụ lưu trữ hồ sơ, tài liệu về thẩm định giá của doanh nghiệp thẩm định giá quy định tại điểm i khoản 2 Điều 53 của Luật này.",
                     "sub_clauses": []
                 },
                 {
@@ -2409,7 +2426,13 @@
         {
             "id": "Điều 57",
             "title": "Xác định giá dịch vụ thẩm định giá",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Giá dịch vụ thẩm định giá được ghi trong hợp đồng thẩm định giá, thực hiện theo giao dịch dân sự giữa doanh nghiệp thẩm định giá với khách hàng thẩm định giá và phải bảo đảm nguyên tắc bù đắp chi phí thực tế hợp lý để thực hiện đầy đủ các hoạt động theo phạm vi công việc được quy định tại Chuẩn mực thẩm định giá Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 58",
@@ -2427,7 +2450,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Khởi kiện tại Tòa án theo quy định của pháp luật về tố tụng dân sự.",
+                    "text": "Khởi kiện tại Tòa án theo quy định của pháp luật về tố tụng dân sự. Mục 3 THẨM ĐỊNH GIÁ CỦA NHÀ NƯỚC",
                     "sub_clauses": []
                 }
             ]
@@ -2738,7 +2761,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Hội đồng thẩm định giá có trách nhiệm bàn giao hồ sơ, tài liệu liên quan đến hoạt động thẩm định giá của hội đồng thẩm định giá cho cơ quan, tổ chức, người có thẩm quyền thành lập hội đồng thẩm định giá để phục vụ lưu trữ.",
+                    "text": "Hội đồng thẩm định giá có trách nhiệm bàn giao hồ sơ, tài liệu liên quan đến hoạt động thẩm định giá của hội đồng thẩm định giá cho cơ quan, tổ chức, người có thẩm quyền thành lập hội đồng thẩm định giá để phục vụ lưu trữ. Chương VII THANH TRA CHUYÊN NGÀNH VỀ GIÁ, KIỂM TRA VIỆC CHẤP HÀNH PHÁP LUẬT VỀ GIÁ, THẨM ĐỊNH GIÁ",
                     "sub_clauses": []
                 }
             ]
@@ -2819,7 +2842,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ Tài chính, các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh có trách nhiệm kiểm tra việc chấp hành pháp luật về giá, thẩm định giá, giao nhiệm vụ kiểm tra cho các cơ quan chuyên môn, đơn vị trực thuộc.",
+                    "text": "Bộ Tài chính, các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh có trách nhiệm kiểm tra việc chấp hành pháp luật về giá, thẩm định giá, giao nhiệm vụ kiểm tra cho các cơ quan chuyên môn, đơn vị trực thuộc. Bộ Tài chính quy định về trình tự, thủ tục kiểm tra việc chấp hành pháp luật về giá, thẩm định giá.",
                     "sub_clauses": []
                 }
             ]
@@ -2856,7 +2879,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết về xử lý vi phạm hành chính trong lĩnh vực giá, việc đăng tải thông tin vi phạm pháp luật về giá, thẩm định giá trên phương tiện thông tin đại chúng.",
+                    "text": "Chính phủ quy định chi tiết về xử lý vi phạm hành chính trong lĩnh vực giá, việc đăng tải thông tin vi phạm pháp luật về giá, thẩm định giá trên phương tiện thông tin đại chúng. Chương VIII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2867,7 +2890,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Sửa đổi, bổ sung, bãi bỏ một số khoản, điều của Luật Hàng không dân dụng Việt Nam số 66/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 45/2013/QH13 và Luật số 61/2014/QH13 như sau:",
+                    "text": "Sửa đổi, bổ sung, bãi bỏ một số khoản, điều của Luật Hàng không dân dụng Việt Nam số 66/2006/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 45/2013/QH13 và Luật số 61/2014/QH13 như sau: “3. Giá dịch vụ hàng không bao gồm:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2893,7 +2916,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Giá dịch vụ phi hàng không bao gồm:",
+                    "text": "Giá dịch vụ phi hàng không bao gồm: “6. Việc định giá của Nhà nước đối với các hàng hóa, dịch vụ quy định tại các điểm a, b và c khoản 3 và tại điểm a khoản 4 Điều này thực hiện theo quy định của pháp luật về giá. Doanh nghiệp thực hiện kê khai, niêm yết giá các hàng hóa, dịch vụ quy định tại khoản 3 và khoản 4 Điều này theo quy định của pháp luật về giá.”. “2. Giá dịch vụ vận chuyển hành khách hàng không nội địa thực hiện theo quy định của pháp luật về giá.”.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2919,7 +2942,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 90 của Bộ luật Hàng hải Việt Nam số 95/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 90 của Bộ luật Hàng hải Việt Nam số 95/2015/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 như sau: “2. Giá dịch vụ tại cảng biển bao gồm:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2938,7 +2961,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Sửa đổi, bổ sung một số điều của Luật Đường sắt số 06/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật Đường sắt số 06/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 như sau: “1. Giá vận tải hành khách, hành lý, hàng hoá trên đường sắt quốc gia do doanh nghiệp kinh doanh vận tải đường sắt quyết định; giá vận tải hành khách, hành lý trên đường sắt đô thị do Ủy ban nhân dân cấp tỉnh định giá theo quy định của pháp luật về giá; giá vận tải trên đường sắt chuyên dùng do doanh nghiệp kinh doanh đường sắt chuyên dùng quyết định.”; “a) Bộ Giao thông vận tải định giá dịch vụ điều hành giao thông vận tải đường sắt trên kết cấu hạ tầng đường sắt do Nhà nước đầu tư theo quy định của pháp luật về giá;”.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2952,7 +2975,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Sửa đổi, bổ sung khoản 3 và khoản 4 Điều 90 của Luật Lâm nghiệp số 16/2017/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 3 và khoản 4 Điều 90 của Luật Lâm nghiệp số 16/2017/QH14 như sau: “3. Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quy định phương pháp định giá rừng; hướng dẫn định khung giá rừng sản xuất, rừng phòng hộ và rừng đặc dụng thuộc sở hữu toàn dân.",
                     "sub_clauses": []
                 },
                 {
@@ -2962,7 +2985,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 35 của Luật Thủy lợi số 08/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14, Luật số 59/2020/QH14 và Luật số 72/2020/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 2 và khoản 3 Điều 35 của Luật Thủy lợi số 08/2017/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14, Luật số 59/2020/QH14 và Luật số 72/2020/QH14 như sau: “2. Thẩm quyền định giá sản phẩm, dịch vụ thủy lợi đối với các công trình thủy lợi sử dụng vốn nhà nước được quy định như sau: Bộ Tài chính định giá tối đa sản phẩm, dịch vụ công ích thủy lợi thuộc phạm vi thẩm quyền quản lý của Bộ Nông nghiệp và Phát triển nông thôn; Bộ Nông nghiệp và Phát triển nông thôn định giá cụ thể sản phẩm, dịch vụ công ích thủy lợi thuộc phạm vi thẩm quyền quản lý trên cơ sở giá tối đa do Bộ Tài chính ban hành; Ủy ban nhân dân cấp tỉnh định giá cụ thể sản phẩm, dịch vụ công ích thủy lợi thuộc phạm vi thẩm quyền quản lý. Bộ Tài chính định khung giá sản phẩm, dịch vụ thủy lợi khác thuộc phạm vi thẩm quyền quản lý của Bộ Nông nghiệp và Phát triển nông thôn; Bộ Nông nghiệp và Phát triển nông thôn định giá cụ thể sản phẩm, dịch vụ thủy lợi khác thuộc phạm vi thẩm quyền quản lý trên cơ sở khung giá do Bộ Tài chính ban hành; Ủy ban nhân dân cấp tỉnh định giá cụ thể sản phẩm, dịch vụ thủy lợi khác thuộc phạm vi thẩm quyền quản lý.",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -2981,22 +3004,22 @@
                 },
                 {
                     "number": "6",
-                    "text": "Sửa đổi, bổ sung khoản 6 Điều 83 của Luật Giao thông đường bộ số 23/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 và Luật số 44/2019/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 6 Điều 83 của Luật Giao thông đường bộ số 23/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 và Luật số 44/2019/QH14 như sau: “6. Ủy ban nhân dân cấp tỉnh căn cứ vào loại bến xe ô tô để định giá dịch vụ xe ra, vào bến xe ô tô theo quy định của pháp luật về giá.”.",
                     "sub_clauses": []
                 },
                 {
                     "number": "7",
-                    "text": "Sửa đổi, bổ sung khoản 6 Điều 79 của Luật Bảo vệ môi trường số 72/2020/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 11/2022/QH15 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 6 Điều 79 của Luật Bảo vệ môi trường số 72/2020/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 11/2022/QH15 như sau: “6. Ủy ban nhân dân cấp tỉnh quy định chi tiết về quản lý chất thải rắn sinh hoạt của hộ gia đình, cá nhân trên địa bàn; quy định cụ thể hình thức và mức kinh phí hộ gia đình, cá nhân phải chi trả cho công tác thu gom, vận chuyển và xử lý chất thải rắn sinh hoạt dựa trên khối lượng hoặc thể tích chất thải đã được phân loại; định giá dịch vụ thu gom, vận chuyển, xử lý chất thải rắn sinh hoạt theo quy định của pháp luật về giá.”.",
                     "sub_clauses": []
                 },
                 {
                     "number": "8",
-                    "text": "Sửa đổi, bổ sung khoản 2 Điều 31 của Luật Điện lực số 28/2004/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 24/2012/QH13, Luật số 28/2018/QH14 và Luật số 03/2022/QH15 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 2 Điều 31 của Luật Điện lực số 28/2004/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 24/2012/QH13, Luật số 28/2018/QH14 và Luật số 03/2022/QH15 như sau: “2. Khung giá phát điện, khung giá bán buôn điện, giá truyền tải điện, giá phân phối điện, giá dịch vụ phụ trợ hệ thống điện, giá điều độ vận hành hệ thống điện và giá điều hành giao dịch thị trường điện lực do đơn vị điện lực có liên quan xây dựng; cơ quan điều tiết điện lực thẩm định trình Bộ trưởng Bộ Công Thương, Bộ trưởng Bộ Tài chính phê duyệt theo sự phân công của Chính phủ, trừ trường hợp quy định tại khoản 2 Điều 62 của Luật này. Bộ trưởng Bộ Công Thương chủ trì, phối hợp với Bộ trưởng Bộ Tài chính hướng dẫn phương pháp lập khung giá phát điện, khung giá bán buôn điện, giá truyền tải điện, giá phân phối điện, giá dịch vụ phụ trợ hệ thống điện, giá điều độ vận hành hệ thống điện và giá điều hành giao dịch thị trường điện lực.”.",
                     "sub_clauses": []
                 },
                 {
                     "number": "9",
-                    "text": "Sửa đổi, bổ sung một số điều của Luật Công chứng số 53/2014/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật Công chứng số 53/2014/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 như sau: “Điều 67. Giá dịch vụ theo yêu cầu liên quan đến việc công chứng",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3026,7 +3049,7 @@
                 },
                 {
                     "number": "10",
-                    "text": "Sửa đổi, bổ sung, bãi bỏ một số khoản, điều của Luật Đấu giá tài sản số 01/2016/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung, bãi bỏ một số khoản, điều của Luật Đấu giá tài sản số 01/2016/QH14 như sau: “Điều 66. Giá dịch vụ đấu giá, chi phí đấu giá tài sản",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3050,7 +3073,7 @@
                 },
                 {
                     "number": "11",
-                    "text": "Sửa đổi, bổ sung, bãi bỏ một số điều của Luật Chuyển giao công nghệ số 07/2017/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung, bãi bỏ một số điều của Luật Chuyển giao công nghệ số 07/2017/QH14 như sau: “b) Hằng năm, gửi báo cáo kết quả hoạt động đánh giá, giám định công nghệ tới cơ quan quản lý nhà nước về khoa học và công nghệ.”;",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -3064,7 +3087,7 @@
                 },
                 {
                     "number": "12",
-                    "text": "Sửa đổi, bổ sung Điều 22 của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung Điều 22 của Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 như sau: “Điều 22. Hợp đồng môi giới và giá dịch vụ theo hợp đồng môi giới",
                     "sub_clauses": []
                 },
                 {
@@ -3148,7 +3171,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người được cấp thẻ thẩm định viên về giá theo quy định của Luật Giá số 11/2012/QH13 thì được tiếp tục đăng ký hành nghề thẩm định giá trong lĩnh vực thẩm định giá tài sản và thẩm định giá doanh nghiệp theo quy định của Luật này.",
+                    "text": "Người được cấp thẻ thẩm định viên về giá theo quy định của Luật Giá số 11/2012/QH13 thì được tiếp tục đăng ký hành nghề thẩm định giá trong lĩnh vực thẩm định giá tài sản và thẩm định giá doanh nghiệp theo quy định của Luật này. ________________ Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 5 thông qua ngày 19 tháng 6 năm 2023. CHỦ TỊCH QUỐC HỘI Đã ký: Vương Đình Huệ PHỤ LỤC SỐ 01 DANH MỤC HÀNG HÓA, DỊCH VỤ BÌNH ỔN GIÁ (Ban hành kèm theo Luật giá số 16/2023/QH15)",
                     "sub_clauses": []
                 },
                 {
@@ -3193,11 +3216,212 @@
                 },
                 {
                     "number": "9",
-                    "text": "Thuốc thuộc danh mục thuốc thiết yếu được sử dụng tại cơ sở khám bệnh, chữa bệnh.",
+                    "text": "Thuốc thuộc danh mục thuốc thiết yếu được sử dụng tại cơ sở khám bệnh, chữa bệnh. PHỤ LỤC SỐ 02 DANH MỤC HÀNG HÓA, DỊCH VỤ DO NHÀ NƯỚC ĐỊNH GIÁ (Ban hành kèm theo Luật Giá số 16/2023/QH15) STT Tên hàng hóa, dịch vụ Thẩm quyền, hình thức định giá 1 Điện (bán lẻ, bán buôn); các dịch vụ về điện theo quy định của Luật Điện lực bao gồm: dịch vụ phát điện, dịch vụ truyền tải điện, dịch vụ phụ trợ hệ thống điện, dịch vụ điều độ vận hành hệ thống điện, dịch vụ điều hành giao dịch thị trường điện lực, dịch vụ phân phối điện Thực hiện theo quy định của pháp luật về điện lực 2 Dịch vụ vận chuyển khí thiên nhiên bằng đường ống cho sản xuất điện Bộ Công Thương định giá cụ thể 3 Dịch vụ điều hành giao thông vận tải đường sắt trên kết cấu hạ tầng đường sắt do nhà nước đầu tư Bộ Giao thông vận tải định giá tối đa 4 Dịch vụ sử dụng đường bộ của các dự án đầu tư xây dựng đường bộ (trừ dịch vụ sử dụng đường bộ cao tốc) để kinh doanh, do trung ương quản lý Bộ Giao thông vận tải định giá tối đa Dịch vụ sử dụng đường bộ của các dự án đầu tư xây dựng đường bộ (trừ dịch vụ sử dụng đường bộ cao tốc) để kinh doanh, do địa phương quản lý Ủy ban nhân dân cấp tỉnh định giá tối đa 5 Dịch vụ sử dụng phà được đầu tư từ nguồn vốn ngân sách nhà nước, do trung ương quản lý Bộ Giao thông vận tải định khung giá Dịch vụ sử dụng phà được đầu tư từ nguồn vốn ngân sách nhà nước, do địa phương quản lý Ủy ban nhân dân cấp tỉnh định khung giá Dịch vụ sử dụng phà được đầu tư từ nguồn vốn ngoài ngân sách nhà nước, do trung ương quản lý Bộ Giao thông vận tải định giá tối đa Dịch vụ sử dụng phà được đầu tư từ nguồn vốn ngoài ngân sách nhà nước, do địa phương quản lý Ủy ban nhân dân cấp tỉnh định giá tối đa 6 Dịch vụ tại cảng biển (bao gồm dịch vụ sử dụng cầu, bến, phao neo, dịch vụ bốc dỡ container, dịch vụ lai dắt tàu biển) Bộ Giao thông vận tải định khung giá Dịch vụ sử dụng cảng, nhà ga (bao gồm cảng, bến thủy nội địa; cảng cá) được đầu tư từ nguồn vốn ngân sách nhà nước, do trung ương quản lý Bộ Giao thông vận tải định giá tối đa Dịch vụ sử dụng cảng, nhà ga (bao gồm cảng, bến thủy nội địa; cảng cá) được đầu tư từ nguồn vốn ngân sách nhà nước, do địa phương quản lý Ủy ban nhân dân cấp tỉnh định giá tối đa Dịch vụ hoa tiêu hàng hải Bộ Giao thông vận tải định giá tối đa 7 Dịch vụ vận chuyển hành khách hàng không nội địa Bộ Giao thông vận tải định giá tối đa Dịch vụ thuê chuyên cơ, chuyên khoang chính thức (có tính đến yếu tố tàu bay dự bị) sử dụng ngân sách nhà nước - Bộ Tài chính định giá tối đa - Bộ Giao thông vận tải định giá cụ thể Dịch vụ cho thuê sân đậu tàu bay; dịch vụ cho thuê quầy làm thủ tục hành khách; dịch vụ cho thuê băng chuyền hành lý; dịch vụ cho thuê cầu dẫn khách lên, xuống máy bay; dịch vụ phục vụ kỹ thuật thương mại mặt đất trọn gói tại các cảng hàng không, sân bay; dịch vụ phân loại tự động hành lý đi; dịch vụ tra nạp xăng dầu hàng không; dịch vụ sử dụng hạ tầng hệ thống tra nạp ngầm cung cấp nhiên liệu tại cảng hàng không, sân bay; nhượng quyền khai thác dịch vụ hàng không tại cảng hàng không sân bay, bao gồm các dịch vụ nhượng quyền: nhà ga hành khách; nhà ga, kho hàng hóa; phục vụ kỹ thuật thương mại mặt đất; sửa chữa, bảo dưỡng phương tiện, trang thiết bị hàng không; kỹ thuật hàng không; cung cấp suất ăn hàng không; cung cấp xăng dầu hàng không Bộ Giao thông vận tải định khung giá Dịch vụ cho thuê mặt bằng cảng hàng không, sân bay và dịch vụ cơ bản thiết yếu tại cảng hàng không, sân bay Bộ Giao thông vận tải định khung giá Dịch vụ cất cánh, hạ cánh tàu bay; dịch vụ điều hành bay đi, đến; dịch vụ bảo đảm an ninh hàng không và dịch vụ điều hành bay qua vùng thông báo bay do Việt Nam quản lý; dịch vụ phục vụ hành khách tại cảng hàng không, sân bay Bộ Giao thông vận tải định giá cụ thể 8 Dịch vụ kiểm định phương tiện vận tải bao gồm: dịch vụ đăng kiểm phương tiện giao thông, các tổng thành, hệ thống linh, kiện, phụ tùng của phương tiện giao thông; phương tiện, thiết bị thăm dò, khai thác, vận chuyển trên biển; phương tiện, thiết bị xếp dỡ, thi công chuyên dùng; máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động trong giao thông vận tải và trang bị, thiết bị kỹ thuật chuyên dùng. Bộ Giao thông vận tải định giá tối đa Dịch vụ kiểm định kỹ thuật máy móc, thiết bị, vật tư và các chất có yêu cầu nghiêm ngặt về an toàn lao động Bộ Lao động - Thương binh và Xã hội định khung giá Dịch vụ kiểm định kỹ thuật máy móc, thiết bị, vật tư và các chất có yêu cầu nghiêm ngặt về an toàn đặc thù chuyên ngành công nghiệp Bộ Công Thương định khung giá 9 Dịch vụ kết nối viễn thông Bộ Thông tin và Truyền thông định giá cụ thể 10 Dịch vụ bưu chính công ích, dịch vụ viễn thông công ích trừ các dịch vụ sử dụng ngân sách nhà nước thực hiện đặt hàng. Bộ Thông tin và Truyền thông định giá tối đa. 11 Tiền Bản quyền khi khai thác, sử dụng tác phẩm, bản ghi âm, ghi hình trong trường hợp giới hạn quyền tác giả, giới hạn quyền liên quan theo quy định của Luật Sở hữu trí tuệ Thực hiện theo quy định của pháp luật về sở hữu trí tuệ Tiền đền bù đối với quyền sử dụng sáng chế được chuyển giao theo quyết định bắt buộc của cơ quan có thẩm quyền trong trường hợp người được chuyển giao quyền sử dụng sáng chế và người nắm độc quyền sử dụng sáng chế không thỏa thuận được Tiền đền bù đối với quyền sử dụng giống cây trồng được chuyển giao theo quyết định bắt buộc của cơ quan có thẩm quyền 12 Sản phẩm, dịch vụ công ích thủy lợi đối với công trình thủy lợi sử dụng vốn nhà nước thuộc phạm vi, thẩm quyền quản lý, đặt hàng của Bộ Nông nghiệp và Phát triển nông thôn - Bộ Tài chính định giá tối đa - Bộ Nông nghiệp và Phát triển nông thôn định giá cụ thể Sản phẩm, dịch vụ công ích thủy lợi đối với công trình thủy lợi sử dụng vốn nhà nước thuộc phạm vi, thẩm quyền quản lý, đặt hàng của địa phương Ủy ban nhân dân cấp tỉnh định giá cụ thể 13 Sản phẩm, dịch vụ thủy lợi khác đối với công trình thủy lợi sử dụng vốn nhà nước thuộc phạm vi, thẩm quyền quản lý của Bộ Nông nghiệp và Phát triển nông thôn - Bộ Tài chính định khung giá - Bộ Nông nghiệp và Phát triển nông thôn định giá cụ thể thuộc phạm vi, thẩm quyền quản lý Sản phẩm, dịch vụ thủy lợi khác đối với công trình thủy lợi sử dụng vốn nhà nước thuộc phạm vi, thẩm quyền quản lý của địa phương Ủy ban nhân dân cấp tỉnh định giá cụ thể 14 Dịch vụ trong lĩnh vực chứng khoán của Sở giao dịch chứng khoán Việt Nam và các công ty con, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam Bộ Tài chính định khung giá, giá tối đa, giá cụ thể (tùy dịch vụ) 15 Nước sạch - Bộ Tài chính định khung giá - Ủy ban nhân dân cấp tỉnh định giá cụ thể 16 Hàng dự trữ quốc gia (trừ các trường hợp thực hiện mua theo hình thức đấu thầu rộng rãi, chào hàng cạnh tranh, mua sắm trực tiếp, bán theo hình thức đấu giá theo quy định của pháp luật về dự trữ quốc gia và hàng dự trữ quốc gia thuộc lĩnh vực quốc phòng, an ninh) - Bộ Tài chính định giá mua tối đa, giá bán tối thiểu đối với việc mua, bán hàng dự trữ quốc gia của các Bộ, ngành - Bộ, ngành quản lý hàng dự trữ quốc gia định giá cụ thể trên cơ sở giá mua tối đa, giá bán tối thiểu của Bộ Tài chính Hàng dự trữ quốc gia thuộc lĩnh vực quốc phòng, an ninh Bộ Quốc phòng, Bộ Công an định giá để thực hiện mua, bán hàng dự trữ quốc gia thuộc lĩnh vực quốc phòng, an ninh theo quy định của Luật Dự trữ quốc gia 17 Sản phẩm, dịch vụ công (dịch vụ sự nghiệp công và sản phẩm, dịch vụ công ích) trong danh mục được cấp có thẩm quyền ban hành, sử dụng ngân sách nhà nước và thuộc thẩm quyền đặt hàng của cơ quan, tổ chức ở trung ương - Bộ Tài chính định giá tối đa - Các cơ quan, tổ chức ở trung ương định giá cụ thể Sản phẩm, dịch vụ công (dịch vụ sự nghiệp công và sản phẩm, dịch vụ công ích) trong danh mục được cấp có thẩm quyền ban hành, sử dụng ngân sách nhà nước và thuộc thẩm quyền đặt hàng của cơ quan, tổ chức ở địa phương Ủy ban nhân dân cấp tỉnh định giá cụ thể 18 Dịch vụ khám bệnh, chữa bệnh thuộc phạm vi Nhà nước định giá theo quy định của pháp luật về khám bệnh, chữa bệnh. Thực hiện theo quy định của pháp luật về khám bệnh, chữa bệnh 19 Dịch vụ kiểm dịch y tế, y tế dự phòng tại cơ sở y tế công lập - Bộ Y tế định giá tối đa - Ủy ban nhân dân cấp tỉnh định giá cụ thể Dịch vụ điều trị nghiện chất dạng thuốc phiện tại các đơn vị sự nghiệp công lập - Bộ Y tế định giá tối đa - Ủy ban nhân dân cấp tỉnh định giá cụ thể 20 Máu toàn phần và chế phẩm máu đạt tiêu chuẩn Bộ Y tế định giá tối đa 21 Dịch vụ kiểm nghiệm mẫu thuốc, nguyên liệu làm thuốc tại: Đơn vị sự nghiệp công tự đảm bảo chi thường xuyên, đơn vị sự nghiệp công tự đảm bảo một phần chi thường xuyên, đơn vị sự nghiệp công do Nhà nước đảm bảo chi thường xuyên Bộ Y tế định giá cụ thể 22 Dịch vụ tiêm phòng, tiêu độc, khử trùng cho động vật, chẩn đoán thú y; dịch vụ kiểm nghiệm thuốc dùng cho động vật, thực vật Bộ Nông nghiệp và Phát triển nông thôn định khung giá 23 Sách giáo khoa Bộ Giáo dục và Đào tạo định giá tối đa 24 Học phí, dịch vụ trong lĩnh vực giáo dục, đào tạo tại cơ sở giáo dục mầm non, phổ thông công lập thuộc phạm vi Nhà nước định giá theo quy định của pháp luật về giáo dục Thực hiện theo quy định của pháp luật về giáo dục Học phí, dịch vụ trong lĩnh vực giáo dục, đào tạo tại cơ sở giáo dục đại học công lập thuộc phạm vi Nhà nước định giá theo quy định của pháp luật về giáo dục và pháp luật về giáo dục đại học Thực hiện theo quy định của pháp luật về giáo dục và pháp luật về giáo dục đại học Học phí, dịch vụ trong lĩnh vực giáo dục, đào tạo tại cơ sở giáo dục nghề nghiệp công lập thuộc phạm vi Nhà nước định giá theo quy định của pháp luật về giáo dục nghề nghiệp Thực hiện theo quy định của pháp luật về giáo dục nghề nghiệp 25 Dịch vụ môi giới theo hợp đồng môi giới đưa người lao động đi làm việc ở nước ngoài; dịch vụ đưa người lao động đi làm việc ở nước ngoài Bộ Lao động - Thương binh và Xã hội định giá tối đa 26 Nhà ở công vụ Thực hiện theo quy định của pháp luật về nhà ở Nhà ở xã hội theo quy định của Luật Nhà ở Dịch vụ quản lý vận hành nhà chung cư đối với nhà chung cư thuộc sở hữu nhà nước trên địa bàn Nhà ở, dịch vụ khác thuộc phạm vi Nhà nước định giá theo quy định của Luật Nhà ở 27 Hàng hóa, dịch vụ phục vụ nhiệm vụ quốc phòng an ninh thực hiện đặt hàng, giao nhiệm vụ cho các đơn vị, doanh nghiệp quốc phòng an ninh\t. Bộ Quốc phòng, Bộ Công an định giá cụ thể theo thẩm quyền 28 Dịch vụ đấu giá tài sản mà pháp luật quy định phải bán thông qua đấu giá Bộ Tư pháp định khung giá 29 Dịch vụ sự nghiệp công sử dụng ngân sách nhà nước tính giá theo lộ trình thu của người sử dụng dịch vụ Các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh theo lĩnh vực định giá khung giá, giá tối đa, giá cụ thể tùy dịch vụ 30 Sản phẩm, dịch vụ gia tăng sử dụng thông tin từ cơ sở dữ liệu, hệ thống thông tin do bộ, ngành quản lý theo yêu cầu của tổ chức, cá nhân (không bao gồm các dịch vụ được thu phí, lệ phí theo quy định của pháp luật về phí và lệ phí) Bộ, ngành được giao quản lý cơ sở dữ liệu, hệ thống thông tin quyết định giá cụ thể, giá tối đa, khung gia (tùy dịch vụ) 31 Đất thuộc phạm vi Nhà nước định giá theo quy định của pháp luật về đất đai Thực hiện theo quy định của pháp luật đất đai 32 Rừng đặc dụng, rừng phòng hộ, rừng sản xuất thuộc sở hữu toàn dân thuộc phạm vi quản lý của địa phương Ủy ban nhân dân cấp tỉnh định khung giá 33 Dịch vụ đo đạc, lập bản đồ địa chính trong trường hợp cơ quan nhà nước có thẩm quyền giao đất, cho thuê đất mới hoặc cho phép thực hiện việc chuyển mục đích sử dụng đất ở những nơi chưa có bản đồ địa chính có tọa độ Ủy ban nhân dân cấp tỉnh định giá cụ thể 34 Dịch vụ nghĩa trang, dịch vụ hỏa táng của cơ sở hỏa táng được đầu tư từ nguồn vốn ngân sách nhà nước Ủy ban nhân dân cấp tỉnh định giá cụ thể 35 Dịch vụ ra, vào bến xe ô tô Ủy ban nhân dân cấp tỉnh định giá tối đa 36 Dịch vụ vận tải hành khách, hành lý trên đường sắt đô thị Ủy ban nhân dân cấp tỉnh định giá cụ thể 37 Dịch vụ thu gom, vận chuyển, xử lý chất thải rắn sinh hoạt Ủy ban nhân dân cấp tỉnh định giá tối đa áp dụng đối với chủ đầu tư, cơ sở thu gom, vận chuyển và xử lý chất thải rắn sinh hoạt; định giá cụ thể đối với cơ quan, tổ chức, cơ sở sản xuất, kinh doanh, dịch vụ, khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp, hộ gia đình, cá nhân 38 Dịch vụ thoát nước và xử lý nước thải (trừ giá dịch vụ thoát nước và xử lý nước thải đối khu công nghiệp, cụm công nghiệp được đầu tư bằng nguồn vốn ngoài ngân sách nhà nước) Ủy ban nhân dân cấp tỉnh định giá cụ thể 39 Dịch vụ trông giữ xe được đầu tư bằng nguồn vốn ngân sách nhà nước Ủy ban nhân dân cấp tỉnh định giá cụ thể 40 Dịch vụ thuê công trình hạ tầng kỹ thuật dùng chung đầu tư từ nguồn ngân sách nhà nước Ủy ban nhân dân cấp tỉnh định giá cụ thể 41 Dịch vụ theo yêu cầu liên quan đến việc công chứng Ủy ban nhân dân cấp tỉnh định giá tối đa 42 Dịch vụ sử dụng diện tích bán hàng tại chợ được đầu tư từ nguồn vốn nhà nước Ủy ban nhân dân cấp tỉnh định giá cụ thể",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 5 thông qua ngày 19 tháng 6 năm 2023.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Đã ký: Vương Đình Huệ",
+        "PHỤ LỤC SỐ 01",
+        "DANH MỤC HÀNG HÓA, DỊCH VỤ BÌNH ỔN GIÁ",
+        "(Ban hành kèm theo Luật giá số 16/2023/QH15)",
+        "1. Xăng, dầu thành phẩm.",
+        "2. Khí dầu mỏ hóa lỏng (LPG).",
+        "3. Sữa dành cho trẻ em dưới 06 tuổi.",
+        "4. Thóc tẻ, gạo tẻ.",
+        "5. Phân đạm; phân DAP; phân NPK.",
+        "6. Thức ăn chăn nuôi, thức ăn thủy sản.",
+        "7. Vắc - xin phòng bệnh cho gia súc, gia cầm.",
+        "8. Thuốc bảo vệ thực vật.",
+        "9. Thuốc thuộc danh mục thuốc thiết yếu được sử dụng tại cơ sở khám bệnh, chữa bệnh.",
+        "PHỤ LỤC SỐ 02",
+        "DANH MỤC HÀNG HÓA, DỊCH VỤ DO NHÀ NƯỚC ĐỊNH GIÁ",
+        "(Ban hành kèm theo Luật Giá số 16/2023/QH15)",
+        "STT",
+        "Tên hàng hóa, dịch vụ",
+        "Thẩm quyền, hình thức định giá",
+        "1",
+        "Điện (bán lẻ, bán buôn); các dịch vụ về điện theo quy định của Luật Điện lực bao gồm: dịch vụ phát điện, dịch vụ truyền tải điện, dịch vụ phụ trợ hệ thống điện, dịch vụ điều độ vận hành hệ thống điện, dịch vụ điều hành giao dịch thị trường điện lực, dịch vụ phân phối điện",
+        "Thực hiện theo quy định của pháp luật về điện lực",
+        "2",
+        "Dịch vụ vận chuyển khí thiên nhiên bằng đường ống cho sản xuất điện",
+        "Bộ Công Thương định giá cụ thể",
+        "3",
+        "Dịch vụ điều hành giao thông vận tải đường sắt trên kết cấu hạ tầng đường sắt do nhà nước đầu tư",
+        "Bộ Giao thông vận tải định giá tối đa",
+        "4",
+        "Dịch vụ sử dụng đường bộ của các dự án đầu tư xây dựng đường bộ (trừ dịch vụ sử dụng đường bộ cao tốc) để kinh doanh, do trung ương quản lý",
+        "Bộ Giao thông vận tải định giá tối đa",
+        "Dịch vụ sử dụng đường bộ của các dự án đầu tư xây dựng đường bộ (trừ dịch vụ sử dụng đường bộ cao tốc) để kinh doanh, do địa phương quản lý",
+        "Ủy ban nhân dân cấp tỉnh định giá tối đa",
+        "5",
+        "Dịch vụ sử dụng phà được đầu tư từ nguồn vốn ngân sách nhà nước, do trung ương quản lý",
+        "Bộ Giao thông vận tải định khung giá",
+        "Dịch vụ sử dụng phà được đầu tư từ nguồn vốn ngân sách nhà nước, do địa phương quản lý",
+        "Ủy ban nhân dân cấp tỉnh định khung giá",
+        "Dịch vụ sử dụng phà được đầu tư từ nguồn vốn ngoài ngân sách nhà nước, do trung ương quản lý",
+        "Bộ Giao thông vận tải định giá tối đa",
+        "Dịch vụ sử dụng phà được đầu tư từ nguồn vốn ngoài ngân sách nhà nước, do địa phương quản lý",
+        "Ủy ban nhân dân cấp tỉnh định giá tối đa",
+        "6",
+        "Dịch vụ tại cảng biển (bao gồm dịch vụ sử dụng cầu, bến, phao neo, dịch vụ bốc dỡ container, dịch vụ lai dắt tàu biển)",
+        "Bộ Giao thông vận tải định khung giá",
+        "Dịch vụ sử dụng cảng, nhà ga (bao gồm cảng, bến thủy nội địa; cảng cá) được đầu tư từ nguồn vốn ngân sách nhà nước, do trung ương quản lý",
+        "Bộ Giao thông vận tải định giá tối đa",
+        "Dịch vụ sử dụng cảng, nhà ga (bao gồm cảng, bến thủy nội địa; cảng cá) được đầu tư từ nguồn vốn ngân sách nhà nước, do địa phương quản lý",
+        "Ủy ban nhân dân cấp tỉnh định giá tối đa",
+        "Dịch vụ hoa tiêu hàng hải",
+        "Bộ Giao thông vận tải định giá tối đa",
+        "7",
+        "Dịch vụ vận chuyển hành khách hàng không nội địa",
+        "Bộ Giao thông vận tải định giá tối đa",
+        "Dịch vụ thuê chuyên cơ, chuyên khoang chính thức (có tính đến yếu tố tàu bay dự bị) sử dụng ngân sách nhà nước",
+        "- Bộ Tài chính định giá tối đa",
+        "- Bộ Giao thông vận tải định giá cụ thể",
+        "Dịch vụ cho thuê sân đậu tàu bay; dịch vụ cho thuê quầy làm thủ tục hành khách; dịch vụ cho thuê băng chuyền hành lý; dịch vụ cho thuê cầu dẫn khách lên, xuống máy bay; dịch vụ phục vụ kỹ thuật thương mại mặt đất trọn gói tại các cảng hàng không, sân bay; dịch vụ phân loại tự động hành lý đi; dịch vụ tra nạp xăng dầu hàng không; dịch vụ sử dụng hạ tầng hệ thống tra nạp ngầm cung cấp nhiên liệu tại cảng hàng không, sân bay; nhượng quyền khai thác dịch vụ hàng không tại cảng hàng không sân bay, bao gồm các dịch vụ nhượng quyền: nhà ga hành khách; nhà ga, kho hàng hóa; phục vụ kỹ thuật thương mại mặt đất; sửa chữa, bảo dưỡng phương tiện, trang thiết bị hàng không; kỹ thuật hàng không; cung cấp suất ăn hàng không; cung cấp xăng dầu hàng không",
+        "Bộ Giao thông vận tải định khung giá",
+        "Dịch vụ cho thuê mặt bằng cảng hàng không, sân bay và dịch vụ cơ bản thiết yếu tại cảng hàng không, sân bay",
+        "Bộ Giao thông vận tải định khung giá",
+        "Dịch vụ cất cánh, hạ cánh tàu bay; dịch vụ điều hành bay đi, đến; dịch vụ bảo đảm an ninh hàng không và dịch vụ điều hành bay qua vùng thông báo bay do Việt Nam quản lý; dịch vụ phục vụ hành khách tại cảng hàng không, sân bay",
+        "Bộ Giao thông vận tải định giá cụ thể",
+        "8",
+        "Dịch vụ kiểm định phương tiện vận tải bao gồm: dịch vụ đăng kiểm phương tiện giao thông, các tổng thành, hệ thống linh, kiện, phụ tùng của phương tiện giao thông; phương tiện, thiết bị thăm dò, khai thác, vận chuyển trên biển; phương tiện, thiết bị xếp dỡ, thi công chuyên dùng; máy, thiết bị, vật tư có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động trong giao thông vận tải và trang bị, thiết bị kỹ thuật chuyên dùng.",
+        "Bộ Giao thông vận tải định giá tối đa",
+        "Dịch vụ kiểm định kỹ thuật máy móc, thiết bị, vật tư và các chất có yêu cầu nghiêm ngặt về an toàn lao động",
+        "Bộ Lao động - Thương binh và Xã hội định khung giá",
+        "Dịch vụ kiểm định kỹ thuật máy móc, thiết bị, vật tư và các chất có yêu cầu nghiêm ngặt về an toàn đặc thù chuyên ngành công nghiệp",
+        "Bộ Công Thương định khung giá",
+        "9",
+        "Dịch vụ kết nối viễn thông",
+        "Bộ Thông tin và Truyền thông định giá cụ thể",
+        "10",
+        "Dịch vụ bưu chính công ích, dịch vụ viễn thông công ích trừ các dịch vụ sử dụng ngân sách nhà nước thực hiện đặt hàng.",
+        "Bộ Thông tin và Truyền thông định giá tối đa.",
+        "11",
+        "Tiền Bản quyền khi khai thác, sử dụng tác phẩm, bản ghi âm, ghi hình trong trường hợp giới hạn quyền tác giả, giới hạn quyền liên quan theo quy định của Luật Sở hữu trí tuệ",
+        "Thực hiện theo quy định của pháp luật về sở hữu trí tuệ",
+        "Tiền đền bù đối với quyền sử dụng sáng chế được chuyển giao theo quyết định bắt buộc của cơ quan có thẩm quyền trong trường hợp người được chuyển giao quyền sử dụng sáng chế và người nắm độc quyền sử dụng sáng chế không thỏa thuận được",
+        "Tiền đền bù đối với quyền sử dụng giống cây trồng được chuyển giao theo quyết định bắt buộc của cơ quan có thẩm quyền",
+        "12",
+        "Sản phẩm, dịch vụ công ích thủy lợi đối với công trình thủy lợi sử dụng vốn nhà nước thuộc phạm vi, thẩm quyền quản lý, đặt hàng của Bộ Nông nghiệp và Phát triển nông thôn",
+        "- Bộ Tài chính định giá tối đa",
+        "- Bộ Nông nghiệp và Phát triển nông thôn định giá cụ thể",
+        "Sản phẩm, dịch vụ công ích thủy lợi đối với công trình thủy lợi sử dụng vốn nhà nước thuộc phạm vi, thẩm quyền quản lý, đặt hàng của địa phương",
+        "Ủy ban nhân dân cấp tỉnh định giá cụ thể",
+        "13",
+        "Sản phẩm, dịch vụ thủy lợi khác đối với công trình thủy lợi sử dụng vốn nhà nước thuộc phạm vi, thẩm quyền quản lý của Bộ Nông nghiệp và Phát triển nông thôn",
+        "- Bộ Tài chính định khung giá",
+        "- Bộ Nông nghiệp và Phát triển nông thôn định giá cụ thể thuộc phạm vi, thẩm quyền quản lý",
+        "Sản phẩm, dịch vụ thủy lợi khác đối với công trình thủy lợi sử dụng vốn nhà nước thuộc phạm vi, thẩm quyền quản lý của địa phương",
+        "Ủy ban nhân dân cấp tỉnh định giá cụ thể",
+        "14",
+        "Dịch vụ trong lĩnh vực chứng khoán của Sở giao dịch chứng khoán Việt Nam và các công ty con, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam",
+        "Bộ Tài chính định khung giá, giá tối đa, giá cụ thể (tùy dịch vụ)",
+        "15",
+        "Nước sạch",
+        "- Bộ Tài chính định khung giá",
+        "- Ủy ban nhân dân cấp tỉnh định giá cụ thể",
+        "16",
+        "Hàng dự trữ quốc gia (trừ các trường hợp thực hiện mua theo hình thức đấu thầu rộng rãi, chào hàng cạnh tranh, mua sắm trực tiếp, bán theo hình thức đấu giá theo quy định của pháp luật về dự trữ quốc gia và hàng dự trữ quốc gia thuộc lĩnh vực quốc phòng, an ninh)",
+        "- Bộ Tài chính định giá mua tối đa, giá bán tối thiểu đối với việc mua, bán hàng dự trữ quốc gia của các Bộ, ngành",
+        "- Bộ, ngành quản lý hàng dự trữ quốc gia định giá cụ thể trên cơ sở giá mua tối đa, giá bán tối thiểu của Bộ Tài chính",
+        "Hàng dự trữ quốc gia thuộc lĩnh vực quốc phòng, an ninh",
+        "Bộ Quốc phòng, Bộ Công an định giá để thực hiện mua, bán hàng dự trữ quốc gia thuộc lĩnh vực quốc phòng, an ninh theo quy định của Luật Dự trữ quốc gia",
+        "17",
+        "Sản phẩm, dịch vụ công (dịch vụ sự nghiệp công và sản phẩm, dịch vụ công ích) trong danh mục được cấp có thẩm quyền ban hành, sử dụng ngân sách nhà nước và thuộc thẩm quyền đặt hàng của cơ quan, tổ chức ở trung ương",
+        "- Bộ Tài chính định giá tối đa",
+        "- Các cơ quan, tổ chức ở trung ương định giá cụ thể",
+        "Sản phẩm, dịch vụ công (dịch vụ sự nghiệp công và sản phẩm, dịch vụ công ích) trong danh mục được cấp có thẩm quyền ban hành, sử dụng ngân sách nhà nước và thuộc thẩm quyền đặt hàng của cơ quan, tổ chức ở địa phương",
+        "Ủy ban nhân dân cấp tỉnh định giá cụ thể",
+        "18",
+        "Dịch vụ khám bệnh, chữa bệnh thuộc phạm vi Nhà nước định giá theo quy định của pháp luật về khám bệnh, chữa bệnh.",
+        "Thực hiện theo quy định của pháp luật về khám bệnh, chữa bệnh",
+        "19",
+        "Dịch vụ kiểm dịch y tế, y tế dự phòng tại cơ sở y tế công lập",
+        "- Bộ Y tế định giá tối đa",
+        "- Ủy ban nhân dân cấp tỉnh định giá cụ thể",
+        "Dịch vụ điều trị nghiện chất dạng thuốc phiện tại các đơn vị sự nghiệp công lập",
+        "- Bộ Y tế định giá tối đa",
+        "- Ủy ban nhân dân cấp tỉnh định giá cụ thể",
+        "20",
+        "Máu toàn phần và chế phẩm máu đạt tiêu chuẩn",
+        "Bộ Y tế định giá tối đa",
+        "21",
+        "Dịch vụ kiểm nghiệm mẫu thuốc, nguyên liệu làm thuốc tại: Đơn vị sự nghiệp công tự đảm bảo chi thường xuyên, đơn vị sự nghiệp công tự đảm bảo một phần chi thường xuyên, đơn vị sự nghiệp công do Nhà nước đảm bảo chi thường xuyên",
+        "Bộ Y tế định giá cụ thể",
+        "22",
+        "Dịch vụ tiêm phòng, tiêu độc, khử trùng cho động vật, chẩn đoán thú y; dịch vụ kiểm nghiệm thuốc dùng cho động vật, thực vật",
+        "Bộ Nông nghiệp và Phát triển nông thôn định khung giá",
+        "23",
+        "Sách giáo khoa",
+        "Bộ Giáo dục và Đào tạo định giá tối đa",
+        "24",
+        "Học phí, dịch vụ trong lĩnh vực giáo dục, đào tạo tại cơ sở giáo dục mầm non, phổ thông công lập thuộc phạm vi Nhà nước định giá theo quy định của pháp luật về giáo dục",
+        "Thực hiện theo quy định của pháp luật về giáo dục",
+        "Học phí, dịch vụ trong lĩnh vực giáo dục, đào tạo tại cơ sở giáo dục đại học công lập thuộc phạm vi Nhà nước định giá theo quy định của pháp luật về giáo dục và pháp luật về giáo dục đại học",
+        "Thực hiện theo quy định của pháp luật về giáo dục và pháp luật về giáo dục đại học",
+        "Học phí, dịch vụ trong lĩnh vực giáo dục, đào tạo tại cơ sở giáo dục nghề nghiệp công lập thuộc phạm vi Nhà nước định giá theo quy định của pháp luật về giáo dục nghề nghiệp",
+        "Thực hiện theo quy định của pháp luật về giáo dục nghề nghiệp",
+        "25",
+        "Dịch vụ môi giới theo hợp đồng môi giới đưa người lao động đi làm việc ở nước ngoài; dịch vụ đưa người lao động đi làm việc ở nước ngoài",
+        "Bộ Lao động - Thương binh và Xã hội định giá tối đa",
+        "26",
+        "Nhà ở công vụ",
+        "Thực hiện theo quy định của pháp luật về nhà ở",
+        "Nhà ở xã hội theo quy định của Luật Nhà ở",
+        "Dịch vụ quản lý vận hành nhà chung cư đối với nhà chung cư thuộc sở hữu nhà nước trên địa bàn",
+        "Nhà ở, dịch vụ khác thuộc phạm vi Nhà nước định giá theo quy định của Luật Nhà ở",
+        "27",
+        "Hàng hóa, dịch vụ phục vụ nhiệm vụ quốc phòng an ninh thực hiện đặt hàng, giao nhiệm vụ cho các đơn vị, doanh nghiệp quốc phòng an ninh\t.",
+        "Bộ Quốc phòng, Bộ Công an định giá cụ thể theo thẩm quyền",
+        "28",
+        "Dịch vụ đấu giá tài sản mà pháp luật quy định phải bán thông qua đấu giá",
+        "Bộ Tư pháp định khung giá",
+        "29",
+        "Dịch vụ sự nghiệp công sử dụng ngân sách nhà nước tính giá theo lộ trình thu của người sử dụng dịch vụ",
+        "Các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh theo lĩnh vực định giá khung giá, giá tối đa, giá cụ thể tùy dịch vụ",
+        "30",
+        "Sản phẩm, dịch vụ gia tăng sử dụng thông tin từ cơ sở dữ liệu, hệ thống thông tin do bộ, ngành quản lý theo yêu cầu của tổ chức, cá nhân (không bao gồm các dịch vụ được thu phí, lệ phí theo quy định của pháp luật về phí và lệ phí)",
+        "Bộ, ngành được giao quản lý cơ sở dữ liệu, hệ thống thông tin quyết định giá cụ thể, giá tối đa, khung gia (tùy dịch vụ)",
+        "31",
+        "Đất thuộc phạm vi Nhà nước định giá theo quy định của pháp luật về đất đai",
+        "Thực hiện theo quy định của pháp luật đất đai",
+        "32",
+        "Rừng đặc dụng, rừng phòng hộ, rừng sản xuất thuộc sở hữu toàn dân thuộc phạm vi quản lý của địa phương",
+        "Ủy ban nhân dân cấp tỉnh định khung giá",
+        "33",
+        "Dịch vụ đo đạc, lập bản đồ địa chính trong trường hợp cơ quan nhà nước có thẩm quyền giao đất, cho thuê đất mới hoặc cho phép thực hiện việc chuyển mục đích sử dụng đất ở những nơi chưa có bản đồ địa chính có tọa độ",
+        "Ủy ban nhân dân cấp tỉnh định giá cụ thể",
+        "34",
+        "Dịch vụ nghĩa trang, dịch vụ hỏa táng của cơ sở hỏa táng được đầu tư từ nguồn vốn ngân sách nhà nước",
+        "Ủy ban nhân dân cấp tỉnh định giá cụ thể",
+        "35",
+        "Dịch vụ ra, vào bến xe ô tô",
+        "Ủy ban nhân dân cấp tỉnh định giá tối đa",
+        "36",
+        "Dịch vụ vận tải hành khách, hành lý trên đường sắt đô thị",
+        "Ủy ban nhân dân cấp tỉnh định giá cụ thể",
+        "37",
+        "Dịch vụ thu gom, vận chuyển, xử lý chất thải rắn sinh hoạt",
+        "Ủy ban nhân dân cấp tỉnh định giá tối đa áp dụng đối với chủ đầu tư, cơ sở thu gom, vận chuyển và xử lý chất thải rắn sinh hoạt; định giá cụ thể đối với cơ quan, tổ chức, cơ sở sản xuất, kinh doanh, dịch vụ, khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp, hộ gia đình, cá nhân",
+        "38",
+        "Dịch vụ thoát nước và xử lý nước thải (trừ giá dịch vụ thoát nước và xử lý nước thải đối khu công nghiệp, cụm công nghiệp được đầu tư bằng nguồn vốn ngoài ngân sách nhà nước)",
+        "Ủy ban nhân dân cấp tỉnh định giá cụ thể",
+        "39",
+        "Dịch vụ trông giữ xe được đầu tư bằng nguồn vốn ngân sách nhà nước",
+        "Ủy ban nhân dân cấp tỉnh định giá cụ thể",
+        "40",
+        "Dịch vụ thuê công trình hạ tầng kỹ thuật dùng chung đầu tư từ nguồn ngân sách nhà nước",
+        "Ủy ban nhân dân cấp tỉnh định giá cụ thể",
+        "41",
+        "Dịch vụ theo yêu cầu liên quan đến việc công chứng",
+        "Ủy ban nhân dân cấp tỉnh định giá tối đa",
+        "42",
+        "Dịch vụ sử dụng diện tích bán hàng tại chợ được đầu tư từ nguồn vốn nhà nước",
+        "Ủy ban nhân dân cấp tỉnh định giá cụ thể"
+    ]
 }

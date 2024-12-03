@@ -15,22 +15,45 @@
         {
             "id": "Điều 1",
             "title": "Trẻ em",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em là người dưới 16 tuổi.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về quyền, bổn phận của trẻ em; nguyên tắc, biện pháp bảo đảm thực hiện quyền trẻ em; trách nhiệm của cơ quan, tổ chức, cơ sở giáo dục, gia đình, cá nhân trong việc thực hiện quyền và bổn phận của trẻ em.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 3",
             "title": "Đối tượng áp dụng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, tổ chức kinh tế, đơn vị sự nghiệp, đơn vị vũ trang nhân dân, cơ sở giáo dục, gia đình, công dân Việt Nam; cơ quan, tổ chức quốc tế, tổ chức nước ngoài hoạt động trên lãnh thổ Việt Nam, cá nhân là người nước ngoài cư trú tại Việt Nam (sau đây gọi chung là cơ quan, tổ chức, cơ sở giáo dục, gia đình, cá nhân).",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 4",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Bảo vệ trẻ em là việc thực hiện các biện pháp phù hợp để bảo đảm trẻ em được sống an toàn, lành mạnh; phòng ngừa, ngăn chặn và xử lý các hành vi xâm hại trẻ em; trợ giúp trẻ em có hoàn cảnh đặc biệt.",
@@ -372,7 +395,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bộ Lao động - Thương binh và Xã hội chủ trì, phối hợp với các cơ quan, tổ chức liên quan để chỉ đạo, tổ chức và hướng dẫn thực hiện Tháng hành động vì trẻ em.",
+                    "text": "Bộ Lao động - Thương binh và Xã hội chủ trì, phối hợp với các cơ quan, tổ chức liên quan để chỉ đạo, tổ chức và hướng dẫn thực hiện Tháng hành động vì trẻ em. Chương II QUYỀN VÀ BỔN PHẬN CỦA TRẺ EM Mục 1. QUYỀN CỦA TRẺ EM",
                     "sub_clauses": []
                 }
             ]
@@ -380,22 +403,46 @@
         {
             "id": "Điều 12",
             "title": "Quyền sống",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được bảo vệ tính mạng, được bảo đảm tốt nhất các điều kiện sống và phát triển.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 13",
             "title": "Quyền được khai sinh và có quốc tịch",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được khai sinh, khai tử, có họ, tên, có quốc tịch; được xác định cha, mẹ, dân tộc, giới tính theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 14",
             "title": "Quyền được chăm sóc sức khỏe",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được chăm sóc tốt nhất về sức khỏe, được ưu tiên tiếp cận, sử dụng dịch vụ phòng bệnh và khám bệnh, chữa bệnh.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 15",
             "title": "Quyền được chăm sóc, nuôi dưỡng",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được chăm sóc, nuôi dưỡng để phát triển toàn diện.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 16",
@@ -416,7 +463,13 @@
         {
             "id": "Điều 17",
             "title": "Quyền vui chơi, giải trí",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền vui chơi, giải trí; được bình đẳng về cơ hội tham gia các hoạt động văn hóa, nghệ thuật, thể dục, thể thao, du lịch phù hợp với độ tuổi.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 18",
@@ -437,12 +490,24 @@
         {
             "id": "Điều 19",
             "title": "Quyền tự do tín ngưỡng, tôn giáo",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền tự do tín ngưỡng, tôn giáo, theo hoặc không theo một tôn giáo nào và phải được bảo đảm an toàn, vì lợi ích tốt nhất của trẻ em.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 20",
             "title": "Quyền về tài sản",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền sở hữu, thừa kế và các quyền khác đối với tài sản theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 21",
@@ -463,12 +528,24 @@
         {
             "id": "Điều 22",
             "title": "Quyền được sống chung với cha, mẹ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được sống chung với cha, mẹ; được cả cha và mẹ bảo vệ, chăm sóc và giáo dục, trừ trường hợp cách ly cha, mẹ theo quy định của pháp luật hoặc vì lợi ích tốt nhất của trẻ em. Khi phải cách ly cha, mẹ, trẻ em được trợ giúp để duy trì mối liên hệ và tiếp xúc với cha, mẹ, gia đình, trừ trường hợp không vì lợi ích tốt nhất của trẻ em.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 23",
             "title": "Quyền được đoàn tụ, liên hệ và tiếp xúc với cha, mẹ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được biết cha đẻ, mẹ đẻ, trừ trường hợp ảnh hưởng đến lợi ích tốt nhất của trẻ em; được duy trì mối liên hệ hoặc tiếp xúc với cả cha và mẹ khi trẻ em, cha, mẹ cư trú ở các quốc gia khác nhau hoặc khi bị giam giữ, trục xuất; được tạo điều kiện thuận lợi cho việc xuất cảnh, nhập cảnh để đoàn tụ với cha, mẹ; được bảo vệ không bị đưa ra nước ngoài trái quy định của pháp luật; được cung cấp thông tin khi cha, mẹ bị mất tích.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 24",
@@ -489,62 +566,134 @@
         {
             "id": "Điều 25",
             "title": "Quyền được bảo vệ để không bị xâm hại tình dục",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được bảo vệ dưới mọi hình thức để không bị xâm hại tình dục.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 26",
             "title": "Quyền được bảo vệ để không bị bóc lột sức lao động",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được bảo vệ dưới mọi hình thức để không bị bóc lột sức lao động; không phải lao động trước tuổi, quá thời gian hoặc làm công việc nặng nhọc, độc hại, nguy hiểm theo quy định của pháp luật; không bị bố trí công việc hoặc nơi làm việc có ảnh hưởng xấu đến nhân cách và sự phát triển toàn diện của trẻ em.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 27",
             "title": "Quyền được bảo vệ để không bị bạo lực, bỏ rơi, bỏ mặc",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được bảo vệ dưới mọi hình thức để không bị bạo lực, bỏ rơi, bỏ mặc làm tổn hại đến sự phát triển toàn diện của trẻ em.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 28",
             "title": "Quyền được bảo vệ để không bị mua bán, bắt cóc, đánh tráo, chiếm đoạt",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được bảo vệ dưới mọi hình thức để không bị mua bán, bắt cóc, đánh tráo, chiếm đoạt.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 29",
             "title": "Quyền được bảo vệ khỏi chất ma túy",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được bảo vệ khỏi mọi hình thức sử dụng, sản xuất, vận chuyển, mua, bán, tàng trữ trái phép chất ma túy.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 30",
             "title": "Quyền được bảo vệ trong tố tụng và xử lý vi phạm hành chính",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được bảo vệ trong quá trình tố tụng và xử lý vi phạm hành chính; bảo đảm quyền được bào chữa và tự bào chữa, được bảo vệ quyền và lợi ích hợp pháp; được trợ giúp pháp lý, được trình bày ý kiến, không bị tước quyền tự do trái pháp luật; không bị tra tấn, truy bức, nhục hình, xúc phạm danh dự, nhân phẩm, xâm phạm thân thể, gây áp lực về tâm lý và các hình thức xâm hại khác.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 31",
             "title": "Quyền được bảo vệ khi gặp thiên tai, thảm họa, ô nhiễm môi trường, xung đột vũ trang",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được ưu tiên bảo vệ, trợ giúp dưới mọi hình thức để thoát khỏi tác động của thiên tai, thảm họa, ô nhiễm môi trường, xung đột vũ trang.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 32",
             "title": "Quyền được bảo đảm an sinh xã hội",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em là công dân Việt Nam được bảo đảm an sinh xã hội theo quy định của pháp luật phù hợp với điều kiện kinh tế - xã hội nơi trẻ em sinh sống và điều kiện của cha, mẹ hoặc người chăm sóc trẻ em.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 33",
             "title": "Quyền được tiếp cận thông tin và tham gia hoạt động xã hội",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được tiếp cận thông tin đầy đủ, kịp thời, phù hợp; có quyền tìm kiếm, thu nhận các thông tin dưới mọi hình thức theo quy định của pháp luật và được tham gia hoạt động xã hội phù hợp với độ tuổi, mức độ trưởng thành, nhu cầu, năng lực của trẻ em.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 34",
             "title": "Quyền được bày tỏ ý kiến và hội họp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em có quyền được bày tỏ ý kiến, nguyện vọng về các vấn đề liên quan đến trẻ em; được tự do hội họp theo quy định của pháp luật phù hợp với độ tuổi, mức độ trưởng thành và sự phát triển của trẻ em; được cơ quan, tổ chức, cơ sở giáo dục, gia đình, cá nhân lắng nghe, tiếp thu, phản hồi ý kiến, nguyện vọng chính đáng.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 35",
             "title": "Quyền của trẻ em khuyết tật",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em khuyết tật được hưởng đầy đủ các quyền của trẻ em và quyền của người khuyết tật theo quy định của pháp luật; được hỗ trợ, chăm sóc, giáo dục đặc biệt để phục hồi chức năng, phát triển khả năng tự lực và hòa nhập xã hội.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 36",
             "title": "Quyền của trẻ em không quốc tịch, trẻ em lánh nạn, tị nạn",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Trẻ em không quốc tịch cư trú tại Việt Nam, trẻ em lánh nạn, tị nạn được bảo vệ và hỗ trợ nhân đạo, được tìm kiếm cha, mẹ, gia đình theo quy định của pháp luật Việt Nam và điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên. Mục 2. BỔN PHẬN CỦA TRẺ EM",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 37",
@@ -651,7 +800,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Không sử dụng, trao đổi sản phẩm có nội dung kích động bạo lực, đồi trụy; không sử dụng đồ chơi hoặc chơi trò chơi có hại cho sự phát triển lành mạnh của bản thân.",
+                    "text": "Không sử dụng, trao đổi sản phẩm có nội dung kích động bạo lực, đồi trụy; không sử dụng đồ chơi hoặc chơi trò chơi có hại cho sự phát triển lành mạnh của bản thân. Chương III CHĂM SÓC VÀ GIÁO DỤC TRẺ EM",
                     "sub_clauses": []
                 }
             ]
@@ -786,7 +935,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Nhà nước khuyến khích phát triển thông tin, truyền thông phù hợp với sự phát triển toàn diện của trẻ em; sản xuất, đăng tải nội dung, thông tin với thời lượng thích hợp cho trẻ em dân tộc thiểu số.",
+                    "text": "Nhà nước khuyến khích phát triển thông tin, truyền thông phù hợp với sự phát triển toàn diện của trẻ em; sản xuất, đăng tải nội dung, thông tin với thời lượng thích hợp cho trẻ em dân tộc thiểu số. Chương IV BẢO VỆ TRẺ EM Mục 1. CẤP ĐỘ BẢO VỆ TRẺ EM VÀ TRÁCH NHIỆM THỰC HIỆN",
                     "sub_clauses": []
                 }
             ]
@@ -1058,7 +1207,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết Điều này.",
+                    "text": "Chính phủ quy định chi tiết Điều này. Mục 2. CƠ SỞ CUNG CẤP DỊCH VỤ BẢO VỆ TRẺ EM",
                     "sub_clauses": []
                 }
             ]
@@ -1097,6 +1246,11 @@
             "id": "Điều 56",
             "title": "Điều kiện thành lập, đăng ký hoạt động của cơ sở cung cấp dịch vụ bảo vệ trẻ em",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ sở cung cấp dịch vụ bảo vệ trẻ em được thành lập, đăng ký hoạt động khi đáp ứng các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Có tôn chỉ, mục đích hoạt động vì lợi ích tốt nhất của trẻ em;",
@@ -1206,7 +1360,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ quan nhà nước có thẩm quyền thành lập, cấp đăng ký hoạt động cho cơ sở cung cấp dịch vụ bảo vệ trẻ em có quyền đình chỉ, chấm dứt hoạt động đối với cơ sở cung cấp dịch vụ bảo vệ trẻ em đó.",
+                    "text": "Cơ quan nhà nước có thẩm quyền thành lập, cấp đăng ký hoạt động cho cơ sở cung cấp dịch vụ bảo vệ trẻ em có quyền đình chỉ, chấm dứt hoạt động đối với cơ sở cung cấp dịch vụ bảo vệ trẻ em đó. Mục 3. CHĂM SÓC THAY THẾ",
                     "sub_clauses": []
                 }
             ]
@@ -1258,7 +1412,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chăm sóc thay thế bằng hình thức nhận con nuôi.",
+                    "text": "Chăm sóc thay thế bằng hình thức nhận con nuôi. Việc nuôi con nuôi được thực hiện theo quy định của pháp luật về nuôi con nuôi.",
                     "sub_clauses": []
                 },
                 {
@@ -1412,7 +1566,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chủ tịch Ủy ban nhân dân cấp xã quyết định giao trẻ em cho cá nhân, gia đình nhận chăm sóc thay thế trên cơ sở xem xét các điều kiện quy định tại khoản 1 và khoản 2 Điều 63 của Luật này.",
+                    "text": "Chủ tịch Ủy ban nhân dân cấp xã quyết định giao trẻ em cho cá nhân, gia đình nhận chăm sóc thay thế trên cơ sở xem xét các điều kiện quy định tại khoản 1 và khoản 2 Điều 63 của Luật này. Trường hợp trẻ em được nhận chăm sóc thay thế không có người giám hộ đương nhiên theo quy định của pháp luật và người nhận chăm sóc thay thế đồng ý, Chủ tịch Ủy ban nhân dân cấp xã quyết định cử người nhận chăm sóc thay thế đồng thời là người giám hộ cho trẻ em.",
                     "sub_clauses": []
                 },
                 {
@@ -1537,7 +1691,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Người ra quyết định chăm sóc thay thế có thẩm quyền quyết định chấm dứt việc chăm sóc thay thế.",
+                    "text": "Người ra quyết định chăm sóc thay thế có thẩm quyền quyết định chấm dứt việc chăm sóc thay thế. Mục 4. CÁC BIỆN PHÁP BẢO VỆ TRẺ EM TRONG QUÁ TRÌNH TỐ TỤNG, XỬ LÝ VI PHẠM HÀNH CHÍNH, PHỤC HỒI  VÀ TÁI HÒA NHẬP CỘNG ĐỒNG",
                     "sub_clauses": []
                 }
             ]
@@ -1709,7 +1863,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Cơ quan lao động - thương binh và xã hội, tư pháp, công an, Đoàn thanh niên cộng sản Hồ Chí Minh, Hội liên hiệp phụ nữ Việt Nam cấp huyện có trách nhiệm phối hợp với các cơ quan, tổ chức liên quan để hướng dẫn, giúp đỡ Ủy ban nhân dân cấp xã trong việc thực hiện kế hoạch hỗ trợ, can thiệp và áp dụng các biện pháp bảo vệ phù hợp khác đối với trẻ em.",
+                    "text": "Cơ quan lao động - thương binh và xã hội, tư pháp, công an, Đoàn thanh niên cộng sản Hồ Chí Minh, Hội liên hiệp phụ nữ Việt Nam cấp huyện có trách nhiệm phối hợp với các cơ quan, tổ chức liên quan để hướng dẫn, giúp đỡ Ủy ban nhân dân cấp xã trong việc thực hiện kế hoạch hỗ trợ, can thiệp và áp dụng các biện pháp bảo vệ phù hợp khác đối với trẻ em. Chương V TRẺ EM THAM GIA VÀO CÁC VẤN ĐỀ VỀ TRẺ EM",
                     "sub_clauses": []
                 }
             ]
@@ -1773,6 +1927,11 @@
             "title": "Bảo đảm sự tham gia của trẻ em trong gia đình",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Cha mẹ và các thành viên trong gia đình có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tôn trọng, lắng nghe, xem xét, phản hồi, giải thích ý kiến, nguyện vọng của trẻ em phù hợp với độ tuổi, sự phát triển của trẻ em và điều kiện, hoàn cảnh của gia đình.",
                     "sub_clauses": []
@@ -1798,6 +1957,11 @@
             "id": "Điều 76",
             "title": "Bảo đảm sự tham gia của trẻ em trong nhà trường và cơ sở giáo dục khác",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà trường, cơ sở giáo dục khác có trách nhiệm sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tổ chức và tạo điều kiện để trẻ em được tham gia các hoạt động Đội thiếu niên tiền phong Hồ Chí Minh, Đoàn thanh niên cộng sản Hồ Chí Minh, câu lạc bộ, đội, nhóm của trẻ em trong nhà trường và cơ sở giáo dục khác; các hoạt động ngoại khóa, hoạt động xã hội;",
@@ -1898,7 +2062,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết trách nhiệm của cơ quan, tổ chức, cơ sở giáo dục, gia đình, cá nhân trong việc bảo đảm để trẻ em được tham gia vào các vấn đề về trẻ em.",
+                    "text": "Chính phủ quy định chi tiết trách nhiệm của cơ quan, tổ chức, cơ sở giáo dục, gia đình, cá nhân trong việc bảo đảm để trẻ em được tham gia vào các vấn đề về trẻ em. Chương VI TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CƠ SỞ GIÁO DỤC, GIA ĐÌNH, CÁ NHÂN TRONG VIỆC THỰC HIỆN QUYỀN VÀ BỔN PHẬN CỦA TRẺ EM Mục 1. TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC",
                     "sub_clauses": []
                 }
             ]
@@ -1935,7 +2099,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thống nhất quản lý nhà nước về trẻ em; ban hành theo thẩm quyền và tổ chức thực hiện chính sách, pháp luật, chương trình về trẻ em; bảo đảm",
+                    "text": "Thống nhất quản lý nhà nước về trẻ em; ban hành theo thẩm quyền và tổ chức thực hiện chính sách, pháp luật, chương trình về trẻ em; bảo đảm cơ chế và biện pháp phối hợp giữa các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, địa phương trong việc thực hiện quyền trẻ em, giải quyết các vấn đề về trẻ em.",
                     "sub_clauses": []
                 },
                 {
@@ -2378,7 +2542,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Việc vận động, quản lý và sử dụng Quỹ Bảo trợ trẻ em phải đúng mục đích, theo quy định của pháp luật.",
+                    "text": "Việc vận động, quản lý và sử dụng Quỹ Bảo trợ trẻ em phải đúng mục đích, theo quy định của pháp luật. Mục 2. TRÁCH NHIỆM CỦA GIA ĐÌNH, CÁ NHÂN VÀ CƠ SỞ GIÁO DỤC",
                     "sub_clauses": []
                 }
             ]
@@ -2402,7 +2566,13 @@
         {
             "id": "Điều 97",
             "title": "Khai sinh cho trẻ em",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cha, mẹ, người chăm sóc trẻ em có trách nhiệm khai sinh cho trẻ em đúng thời hạn theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 98",
@@ -2527,7 +2697,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cha, mẹ, giáo viên, người chăm sóc trẻ em và các thành viên trong gia đình phối hợp chặt chẽ trong việc quản lý, giáo dục và giúp đỡ để trẻ em hiểu, nhận thức đầy đủ và thực hiện được quyền và bổn phận của trẻ em theo quy định tại Chương II của Luật này.",
+                    "text": "Cha, mẹ, giáo viên, người chăm sóc trẻ em và các thành viên trong gia đình phối hợp chặt chẽ trong việc quản lý, giáo dục và giúp đỡ để trẻ em hiểu, nhận thức đầy đủ và thực hiện được quyền và bổn phận của trẻ em theo quy định tại Chương II của Luật này. Chương VII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2551,18 +2721,40 @@
         {
             "id": "Điều 104",
             "title": "Điều khoản chuyển tiếp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ sở cung cấp dịch vụ bảo vệ trẻ em đã được cơ quan nhà nước có thẩm quyền thành lập hoặc cấp đăng ký hoạt động trước ngày Luật này có hiệu lực thi hành không phải làm thủ tục thành lập hoặc đăng ký lại.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 105",
             "title": "Xử lý vi phạm",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan, tổ chức, cá nhân có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 106",
             "title": "Quy định chi tiết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 11 thông qua ngày 05 tháng 4 năm 2016. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 11 thông qua ngày 05 tháng 4 năm 2016.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

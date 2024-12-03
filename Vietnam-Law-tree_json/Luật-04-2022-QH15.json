@@ -15,12 +15,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định về vị trí, chức năng, nhiệm vụ, quyền hạn, tổ chức và hoạt động của Cảnh sát cơ động; bảo đảm điều kiện hoạt động, chế độ, chính sách đối với Cảnh sát cơ động; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Biện pháp vũ trang là cách thức, phương pháp sử dụng sức mạnh tinh thần, thể chất, vũ khí, vật liệu nổ, công cụ hỗ trợ, phương tiện, thiết bị kỹ thuật nghiệp vụ để Cảnh sát cơ động thực hiện chức năng, nhiệm vụ, quyền hạn.",
@@ -36,7 +47,13 @@
         {
             "id": "Điều 3",
             "title": "Vị trí, chức năng của Cảnh sát cơ động",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cảnh sát cơ động là lực lượng vũ trang nhân dân thuộc Công an nhân dân Việt Nam, là lực lượng nòng cốt thực hiện biện pháp vũ trang bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 4",
@@ -88,7 +105,13 @@
         {
             "id": "Điều 6",
             "title": "Ngày truyền thống của Cảnh sát cơ động",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ngày 15 tháng 4 hằng năm là ngày truyền thống của Cảnh sát cơ động.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 7",
@@ -149,7 +172,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Cán bộ, chiến sĩ Cảnh sát cơ động lạm dụng, lợi dụng chức vụ, quyền hạn, vị trí công tác để vi phạm pháp luật, xâm phạm quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân hoặc có hành vi sách nhiễu, gây khó khăn đối với cơ quan, tổ chức, cá nhân.",
+                    "text": "Cán bộ, chiến sĩ Cảnh sát cơ động lạm dụng, lợi dụng chức vụ, quyền hạn, vị trí công tác để vi phạm pháp luật, xâm phạm quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân hoặc có hành vi sách nhiễu, gây khó khăn đối với cơ quan, tổ chức, cá nhân. Chương II NHIỆM VỤ, QUYỀN HẠN, TỔ CHỨC VÀ HOẠT ĐỘNG CỦA CẢNH SÁT CƠ ĐỘNG",
                     "sub_clauses": []
                 }
             ]
@@ -431,7 +454,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Khi thực hiện nhiệm vụ theo quy định tại khoản 2 và khoản 3 Điều 9 của Luật này, trong trường hợp cấp bách để bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội hoặc để ngăn chặn hậu quả thiệt hại cho xã hội đang xảy ra hoặc có nguy cơ xảy ra, cán bộ, chiến sĩ Cảnh sát cơ động được huy động người, phương tiện, thiết bị dân sự và người đang sử dụng, điều khiển phương tiện, thiết bị đó. Trường hợp thực hiện nhiệm vụ chống khủng bố, việc huy động người, phương tiện, thiết bị thực hiện theo quy định của Luật Phòng, chống khủng bố.",
+                    "text": "Khi thực hiện nhiệm vụ theo quy định tại khoản 2 và khoản 3 Điều 9 của Luật này, trong trường hợp cấp bách để bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội hoặc để ngăn chặn hậu quả thiệt hại cho xã hội đang xảy ra hoặc có nguy cơ xảy ra, cán bộ, chiến sĩ Cảnh sát cơ động được huy động người, phương tiện, thiết bị dân sự và người đang sử dụng, điều khiển phương tiện, thiết bị đó. Trường hợp thực hiện nhiệm vụ chống khủng bố, việc huy động người, phương tiện, thiết bị thực hiện theo quy định của Luật Phòng, chống khủng bố. Trong trường hợp cấp bách theo quy định tại khoản này, cán bộ, chiến sĩ Cảnh sát cơ động đề nghị tổ chức, cá nhân nước ngoài hỗ trợ, giúp đỡ để thực hiện nhiệm vụ theo quy định của pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.",
                     "sub_clauses": []
                 },
                 {
@@ -656,7 +679,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định trách nhiệm của cơ quan, tổ chức, chính quyền địa phương trong phối hợp thực hiện nhiệm vụ của Cảnh sát cơ động.",
+                    "text": "Chính phủ quy định trách nhiệm của cơ quan, tổ chức, chính quyền địa phương trong phối hợp thực hiện nhiệm vụ của Cảnh sát cơ động. Chương III BẢO ĐẢM HOẠT ĐỘNG VÀ CHẾ ĐỘ, CHÍNH SÁCH ĐỐI VỚI CẢNH SÁT CƠ ĐỘNG",
                     "sub_clauses": []
                 }
             ]
@@ -664,7 +687,13 @@
         {
             "id": "Điều 22",
             "title": "Kinh phí và cơ sở vật chất bảo đảm cho Cảnh sát cơ động",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Nhà nước bảo đảm kinh phí và cơ sở vật chất, đất đai, trụ sở, công trình cho hoạt động của Cảnh sát cơ động theo quy định của pháp luật có liên quan.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 23",
@@ -771,7 +800,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ trưởng Bộ Công an quy định chi tiết khoản 2 Điều này.",
+                    "text": "Bộ trưởng Bộ Công an quy định chi tiết khoản 2 Điều này. Chương IV QUẢN LÝ NHÀ NƯỚC VÀ TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN ĐỐI VỚI CẢNH SÁT CƠ ĐỘNG",
                     "sub_clauses": []
                 }
             ]
@@ -867,7 +896,13 @@
         {
             "id": "Điều 31",
             "title": "Trách nhiệm của Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Mặt trận Tổ quốc Việt Nam và các tổ chức thành viên của Mặt trận, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với cơ quan, tổ chức có liên quan tuyên truyền, vận động Nhân dân thực hiện pháp luật về Cảnh sát cơ động; giám sát việc thực hiện pháp luật về Cảnh sát cơ động; hỗ trợ, giúp đỡ Cảnh sát cơ động thực hiện nhiệm vụ.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 32",
@@ -890,7 +925,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Cơ quan, tổ chức, cá nhân tham gia phối hợp, cộng tác, hỗ trợ, giúp đỡ Cảnh sát cơ động thực hiện nhiệm vụ, quyền hạn có thành tích thì được khen thưởng; bị thiệt hại về tài sản thì được đền bù, bị tổn hại về danh dự, nhân phẩm thì được khôi phục; người bị thương tích, tổn hại về sức khỏe, tính mạng thì bản thân, gia đình được hưởng chế độ, chính sách theo quy định của pháp luật.",
+                    "text": "Cơ quan, tổ chức, cá nhân tham gia phối hợp, cộng tác, hỗ trợ, giúp đỡ Cảnh sát cơ động thực hiện nhiệm vụ, quyền hạn có thành tích thì được khen thưởng; bị thiệt hại về tài sản thì được đền bù, bị tổn hại về danh dự, nhân phẩm thì được khôi phục; người bị thương tích, tổn hại về sức khỏe, tính mạng thì bản thân, gia đình được hưởng chế độ, chính sách theo quy định của pháp luật. Chương V ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -906,11 +941,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Pháp lệnh Cảnh sát cơ động số 08/2013/PL-UBTVQH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.",
+                    "text": "Pháp lệnh Cảnh sát cơ động số 08/2013/PL-UBTVQH13 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 3 thông qua ngày 14 tháng 6 năm 2022. CHỦ TỊCH QUỐC HỘI Vương Đình Huệ",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 3 thông qua ngày 14 tháng 6 năm 2022.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Vương Đình Huệ"
+    ]
 }

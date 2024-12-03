@@ -17,8 +17,13 @@
             "title": "Không có tiêu đề",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Sửa đổi, bổ sung một số điều của Luật điện lực như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
-                    "text": "Bổ sung khoản 17 và khoản 18 vào Điều 3 như sau:",
+                    "text": "Bổ sung khoản 17 và khoản 18 vào Điều 3 như sau: “17. Giá bán buôn điện là giá bán điện của đơn vị điện lực này bán cho đơn vị điện lực khác để bán lại.",
                     "sub_clauses": []
                 },
                 {
@@ -28,7 +33,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Bổ sung khoản 1a vào sau khoản 1; sửa đổi, bổ sung khoản 3 và khoản 4 Điều 4 như sau:",
+                    "text": "Bổ sung khoản 1a vào sau khoản 1; sửa đổi, bổ sung khoản 3 và khoản 4 Điều 4 như sau: “1a. Ưu tiên phát triển điện phục vụ nông thôn, miền núi, biên giới, hải đảo và vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn.",
                     "sub_clauses": []
                 },
                 {
@@ -43,7 +48,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Khoản 1 và khoản 3 Điều 8 được sửa đổi, bổ sung như sau:",
+                    "text": "Khoản 1 và khoản 3 Điều 8 được sửa đổi, bổ sung như sau: “1. Quy hoạch phát triển điện lực là quy hoạch chuyên ngành bao gồm quy hoạch phát triển điện lực quốc gia và quy hoạch phát triển điện lực tỉnh, thành phố trực thuộc trung ương. Quy hoạch phát triển điện lực được lập, phê duyệt để làm cơ sở cho các hoạt động đầu tư phát triển điện lực và được điều chỉnh phù hợp với điều kiện kinh tế - xã hội trong từng thời kỳ. Quy hoạch phát triển điện lực phải hợp với quy hoạch các nguồn năng lượng sơ cấp cho phát điện gồm cả nguồn năng lượng mới, năng lượng tái tạo và có tính đến quy hoạch khác có liên quan theo quy định của pháp luật.",
                     "sub_clauses": []
                 },
                 {
@@ -53,7 +58,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Bổ sung Điều 8a vào sau Điều 8 như sau:",
+                    "text": "Bổ sung Điều 8a vào sau Điều 8 như sau: “Điều 8a. Nội dung quy hoạch phát triển điện lực",
                     "sub_clauses": []
                 },
                 {
@@ -138,7 +143,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Sửa đổi, bổ sung tên Điều 9 và nội dung khoản 1, khoản 2 Điều 9 như sau:",
+                    "text": "Sửa đổi, bổ sung tên Điều 9 và nội dung khoản 1, khoản 2 Điều 9 như sau: “Điều 9. Lập, phê duyệt, công bố và điều chỉnh quy hoạch phát triển điện lực",
                     "sub_clauses": []
                 },
                 {
@@ -153,32 +158,32 @@
                 },
                 {
                     "number": "6",
-                    "text": "Khoản 1 Điều 11 được sửa đổi, bổ sung như sau:",
+                    "text": "Khoản 1 Điều 11 được sửa đổi, bổ sung như sau: “1. Đầu tư phát triển điện lực phải phù hợp với quy hoạch phát triển điện lực. Dự án đầu tư chưa có trong quy hoạch phát triển điện lực chỉ được thực hiện khi cơ quan lập quy hoạch phát triển điện lực trình cấp có thẩm quyền phê duyệt quy hoạch cho phép.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "7",
-                    "text": "Điểm đ khoản 1 Điều 16 được sửa đổi, bổ sung như sau:",
+                    "text": "Điểm đ khoản 1 Điều 16 được sửa đổi, bổ sung như sau: “đ) Tổ chức kiểm toán năng lượng điện theo định kỳ và thực hiện các giải pháp điều chỉnh sau khi có kết luận kiểm toán theo quy định của pháp luật về sử dụng năng lượng tiết kiệm hiệu quả.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "8",
-                    "text": "Khoản 2 Điều 18 được sửa đổi, bổ sung như sau:",
+                    "text": "Khoản 2 Điều 18 được sửa đổi, bổ sung như sau: “2. Thủ tướng Chính phủ quy định điều kiện, cơ cấu ngành điện để hình thành và phát triển các cấp độ thị trường điện lực; quy định lộ trình phát triển thị trường điện lực, rà soát và điều chỉnh đẩy nhanh lộ trình phù hợp với tình hình kinh tế - xã hội theo từng thời kỳ.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "9",
-                    "text": "Khoản 6 Điều 23 được sửa đổi, bổ sung như sau:",
+                    "text": "Khoản 6 Điều 23 được sửa đổi, bổ sung như sau: “6. Trong trường hợp bên mua điện không trả tiền điện và đã được bên bán điện thông báo hai lần thì sau mười lăm ngày, kể từ ngày thông báo lần đầu tiên, bên bán điện có quyền ngừng cấp điện. Bên bán điện phải thông báo thời điểm ngừng cấp điện cho bên mua điện trước 24 giờ và không chịu trách nhiệm về thiệt hại do việc ngừng cấp điện gây ra.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "10",
-                    "text": "Khoản 2 Điều 24 được sửa đổi, bổ sung như sau:",
+                    "text": "Khoản 2 Điều 24 được sửa đổi, bổ sung như sau: “2. Thiết bị đo đếm điện phải bảo đảm yêu cầu kỹ thuật đo lường và được kiểm định, hiệu chuẩn, thử nghiệm theo quy định của pháp luật về đo lường.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "11",
-                    "text": "Sửa đổi, bổ sung tên Điều 25 và nội dung khoản 1, khoản 2 Điều 25 như sau:",
+                    "text": "Sửa đổi, bổ sung tên Điều 25 và nội dung khoản 1, khoản 2 Điều 25 như sau: “Điều 25. Kiểm định, hiệu chuẩn, thử nghiệm thiết bị đo đếm điện",
                     "sub_clauses": []
                 },
                 {
@@ -193,12 +198,12 @@
                 },
                 {
                     "number": "12",
-                    "text": "Điểm c khoản 2 Điều 28 được sửa đổi, bổ sung như sau:",
+                    "text": "Điểm c khoản 2 Điều 28 được sửa đổi, bổ sung như sau: “c) Không làm tổn hại đến lợi ích của khách hàng sử dụng điện, lợi ích của Nhà nước và an ninh năng lượng quốc gia.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "13",
-                    "text": "Bổ sung khoản 1a vào sau khoản 1; sửa đổi, bổ sung khoản 3 và khoản 4 Điều 29 như sau:",
+                    "text": "Bổ sung khoản 1a vào sau khoản 1; sửa đổi, bổ sung khoản 3 và khoản 4 Điều 29 như sau: “1a. Giá bán điện thực hiện theo cơ chế thị trường có sự điều tiết của Nhà nước phù hợp với cấp độ phát triển của thị trường điện lực.",
                     "sub_clauses": []
                 },
                 {
@@ -213,17 +218,17 @@
                 },
                 {
                     "number": "14",
-                    "text": "Bổ sung khoản 6 vào Điều 30 như sau:",
+                    "text": "Bổ sung khoản 6 vào Điều 30 như sau: “6. Báo cáo tài chính đã được kiểm toán hàng năm của đơn vị điện lực.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "15",
-                    "text": "Các khoản 1, 2 và 3 Điều 31 được sửa đổi, bổ sung như sau:",
+                    "text": "Các khoản 1, 2 và 3 Điều 31 được sửa đổi, bổ sung như sau: “1. Giá bán lẻ điện do đơn vị bán lẻ điện xây dựng căn cứ khung giá của mức giá bán lẻ điện bình quân, cơ chế điều chỉnh giá và cơ cấu biểu giá bán lẻ điện do Thủ tướng Chính phủ quy định phù hợp với cấp độ phát triển của thị trường điện lực, trừ trường hợp quy định tại khoản 2 Điều 62 của Luật này. Bộ Công thương chủ trì, phối hợp với Bộ Tài chính xây dựng khung giá của mức giá bán lẻ điện bình quân, cơ chế điều chỉnh giá và cơ cấu biểu giá bán lẻ điện trình Thủ tướng Chính phủ quyết định. Việc điều chỉnh giá bán lẻ điện phải được thực hiện công khai, minh bạch về sự biến đổi của các yếu tố cấu thành liên quan đến việc điều chỉnh giá. Nhà nước sử dụng các biện pháp để bình ổn giá bán điện phù hợp với quy định của pháp luật về giá.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Khung giá phát điện, khung giá bán buôn điện, giá truyền tải điện, giá dịch vụ phụ trợ hệ thống điện, phí điều độ vận hành hệ thống điện và phí điều hành giao dịch thị trường điện lực do đơn vị điện lực có liên quan xây dựng; cơ quan điều tiết điện lực thẩm định trình Bộ trưởng Bộ Công thương, Bộ trưởng Bộ Tài chính phê duyệt theo sự phân công của Chính phủ, trừ trường hợp quy định tại khoản 2 Điều 62 của Luật này.",
+                    "text": "Khung giá phát điện, khung giá bán buôn điện, giá truyền tải điện, giá dịch vụ phụ trợ hệ thống điện, phí điều độ vận hành hệ thống điện và phí điều hành giao dịch thị trường điện lực do đơn vị điện lực có liên quan xây dựng; cơ quan điều tiết điện lực thẩm định trình Bộ trưởng Bộ Công thương, Bộ trưởng Bộ Tài chính phê duyệt theo sự phân công của Chính phủ, trừ trường hợp quy định tại khoản 2 Điều 62 của Luật này. Bộ Công thương chủ trì, phối hợp với Bộ Tài chính hướng dẫn phương pháp lập khung giá phát điện, khung giá bán buôn điện, giá truyền tải điện, giá dịch vụ phụ trợ hệ thống điện, phí điều độ vận hành hệ thống điện và phí điều hành giao dịch thị trường điện lực.",
                     "sub_clauses": []
                 },
                 {
@@ -233,7 +238,7 @@
                 },
                 {
                     "number": "16",
-                    "text": "Sửa đổi, bổ sung khoản 1 và khoản 4; bổ sung khoản 5 vào Điều 32 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 1 và khoản 4; bổ sung khoản 5 vào Điều 32 như sau: “1. Tổ chức, cá nhân được cấp giấy phép để thực hiện một hoặc nhiều lĩnh vực hoạt động điện lực.",
                     "sub_clauses": []
                 },
                 {
@@ -248,17 +253,17 @@
                 },
                 {
                     "number": "17",
-                    "text": "Điểm a khoản 2 Điều 39 được sửa đổi, bổ sung như sau:",
+                    "text": "Điểm a khoản 2 Điều 39 được sửa đổi, bổ sung như sau: “a) Tuân thủ quy trình, quy chuẩn kỹ thuật về vận hành nhà máy điện, lưới điện; đối với nhà máy thủy điện còn phải tuân thủ quy định về an toàn đập thủy điện và vận hành hồ chứa nước;”",
                     "sub_clauses": []
                 },
                 {
                     "number": "18",
-                    "text": "Điểm c khoản 1 Điều 44 được sửa đổi, bổ sung như sau:",
+                    "text": "Điểm c khoản 1 Điều 44 được sửa đổi, bổ sung như sau: “c) Định giá bán trên thị trường bán lẻ điện cạnh tranh theo quy định tại khoản 1 Điều 31 của Luật này, trừ trường hợp quy định tại khoản 2 Điều 62 của Luật này.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "19",
-                    "text": "Sửa đổi, bổ sung tên Điều 49; bổ sung khoản 4 vào Điều 49 như sau:",
+                    "text": "Sửa đổi, bổ sung tên Điều 49; bổ sung khoản 4 vào Điều 49 như sau: “Điều 49. Trách nhiệm phối hợp thực hiện khi xây dựng, cải tạo, kết thúc sử dụng công trình điện lực và các công trình khác",
                     "sub_clauses": []
                 },
                 {
@@ -268,12 +273,12 @@
                 },
                 {
                     "number": "20",
-                    "text": "Khoản 1 Điều 54 được sửa đổi, bổ sung như sau:",
+                    "text": "Khoản 1 Điều 54 được sửa đổi, bổ sung như sau: “1. Nhà máy điện, trạm phát điện phải được bảo vệ nghiêm ngặt, xung quanh phải có tường rào bảo vệ, biển báo an toàn về điện, về phòng cháy, chữa cháy; những người không có nhiệm vụ không được phép vào nhà máy điện, trạm phát điện. Hồ chứa nước, đập thủy điện và các công trình phụ trợ phục vụ nhà máy thủy điện phải được xây dựng, quản lý, bảo vệ bảo đảm an toàn vận hành nhà máy thủy điện và vùng hạ du. Nghiêm cấm các hành vi lấn chiếm đập thủy điện, lòng hồ, làm ô nhiễm nguồn nước và ảnh hưởng đến khả năng phát điện.”",
                     "sub_clauses": []
                 },
                 {
                     "number": "21",
-                    "text": "Bổ sung Điều 59a vào sau Điều 59 như sau:",
+                    "text": "Bổ sung Điều 59a vào sau Điều 59 như sau: “Điều 59a. Xử lý sự cố điện",
                     "sub_clauses": []
                 },
                 {
@@ -288,7 +293,7 @@
                 },
                 {
                     "number": "22",
-                    "text": "Điều 62 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 62 được sửa đổi, bổ sung như sau: “Điều 62. Giá bán điện ở nông thôn, miền núi, biên giới, hải đảo",
                     "sub_clauses": []
                 },
                 {
@@ -312,7 +317,7 @@
                 },
                 {
                     "number": "23",
-                    "text": "Sửa đổi, bổ sung các điểm đ, g và k khoản 1; bổ sung điểm m và điểm n khoản 1; sửa đổi, bổ sung khoản 2 Điều 66 như sau:",
+                    "text": "Sửa đổi, bổ sung các điểm đ, g và k khoản 1; bổ sung điểm m và điểm n khoản 1; sửa đổi, bổ sung khoản 2 Điều 66 như sau: “đ) Xây dựng khung giá của mức giá bán lẻ điện bình quân, cơ chế điều chỉnh giá và cơ cấu biểu giá bán lẻ điện; tổ chức thực hiện cơ chế, chính sách về giá điện;",
                     "sub_clauses": [
                         {
                             "letter": "g",
@@ -339,7 +344,7 @@
                 },
                 {
                     "number": "24",
-                    "text": "Điều 67 được sửa đổi, bổ sung như sau:",
+                    "text": "Điều 67 được sửa đổi, bổ sung như sau: “Điều 67. Thanh tra chuyên ngành điện lực Thanh tra chuyên ngành điện lực thực hiện theo quy định của pháp luật về thanh tra.”",
                     "sub_clauses": []
                 }
             ]
@@ -411,11 +416,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật.",
+                    "text": "Chính phủ, cơ quan có thẩm quyền quy định chi tiết, hướng dẫn thi hành các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 4 thông qua ngày 20 tháng 11 năm 2012. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 4 thông qua ngày 20 tháng 11 năm 2012.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

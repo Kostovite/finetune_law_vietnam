@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định về hoạt động bưu chính; quyền và nghĩa vụ của tổ chức, cá nhân trong hoạt động bưu chính và quản lý nhà nước về hoạt động bưu chính."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với tổ chức, cá nhân thực hiện, tham gia thực hiện hoạt động bưu chính tại Việt Nam."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -397,6 +418,13 @@
         "clause": "3",
         "title": "Hợp đồng cung ứng và sử dụng dịch vụ bưu chính bằng văn bản",
         "text": "Chứng từ xác nhận việc chấp nhận bưu gửi giữa doanh nghiệp cung ứng dịch vụ bưu chính và người gửi có giá trị pháp lý như hợp đồng giao kết bằng văn bản giữa các bên, trừ trường hợp các bên có thỏa thuận khác."
+    },
+    {
+        "id": "Điều 10.0",
+        "article": "Điều 10",
+        "clause": "0",
+        "title": "Hợp đồng cung ứng và sử dụng dịch vụ bưu chính xác lập bằng hành vi cụ thể",
+        "text": "Việc gửi vào thùng thư công cộng thư đủ điều kiện quy định tại khoản 1 Điều 11 của Luật này, có dán tem Bưu chính Việt Nam hoặc có dấu thanh toán trước giá cước của doanh nghiệp cung ứng dịch vụ bưu chính là hành vi xác lập hợp đồng giữa doanh nghiệp cung ứng dịch vụ bưu chính và người gửi."
     },
     {
         "id": "Điều 11.1",
@@ -1204,6 +1232,13 @@
         "text": "Niêm yết công khai giá cước dịch vụ bưu chính."
     },
     {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của doanh nghiệp cung ứng dịch vụ bưu chính",
+        "text": "Ngoài quyền và nghĩa vụ quy định tại Luật doanh nghiệp, doanh nghiệp cung ứng dịch vụ bưu chính còn có các quyền và nghĩa vụ sau đây:"
+    },
+    {
         "id": "Điều 29.1",
         "article": "Điều 29",
         "clause": "1",
@@ -1300,6 +1335,13 @@
         "clause": "14",
         "title": "Quyền và nghĩa vụ của doanh nghiệp cung ứng dịch vụ bưu chính",
         "text": "Giải quyết khiếu nại, tranh chấp, bồi thường thiệt hại theo quy định của Luật này và các quy định khác của pháp luật có liên quan."
+    },
+    {
+        "id": "Điều 30.0",
+        "article": "Điều 30",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của người sử dụng dịch vụ bưu chính",
+        "text": "Người sử dụng dịch vụ bưu chính có các quyền và nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 30.1",
@@ -1426,6 +1468,13 @@
         "clause": "4",
         "title": "Cung ứng dịch vụ bưu chính công ích",
         "text": "Phạm vi dịch vụ bưu chính dành riêng giảm dần căn cứ vào tình hình phát triển bưu chính trong từng thời kỳ theo quy định tại khoản 2 Điều 44 của Luật này."
+    },
+    {
+        "id": "Điều 33.0",
+        "article": "Điều 33",
+        "clause": "0",
+        "title": "Quyền và nghĩa vụ của doanh nghiệp cung ứng dịch vụ bưu chính công ích",
+        "text": "Ngoài quyền và nghĩa vụ quy định tại Điều 29 của Luật này, doanh nghiệp cung ứng dịch vụ bưu chính công ích còn có các quyền và nghĩa vụ sau đây:"
     },
     {
         "id": "Điều 33.1",
@@ -2035,5 +2084,12 @@
         "clause": "3",
         "title": "Hiệu lực thi hành",
         "text": "Giấy phép bưu chính được cấp trước ngày Luật này có hiệu lực được tiếp tục thực hiện cho đến khi kết thúc thời hạn ghi trong giấy phép đã cấp."
+    },
+    {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Quy định chi tiết và hướng dẫn thi hành",
+        "text": "Chính phủ quy định chi tiết và hướng dẫn thi hành các điều, khoản được giao trong Luật; hướng dẫn những nội dung cần thiết khác của Luật này để đáp ứng yêu cầu quản lý nhà nước. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 7 thông qua ngày 17 tháng 6 năm 2010 CHỦ TỊCH QUỐC HỘI Nguyễn Phú Trọng"
     }
 ]

@@ -35,8 +35,13 @@
             "title": "Giải thích từ ngữ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
-                    "text": "Tiếp công dân là việc cơ quan, tổ chức, đơn vị, cá nhân quy định tại Điều 4 của Luật này đón tiếp để lắng nghe, tiếp nhận khiếu nại, tố cáo, kiến nghị, phản ánh của công dân; giải thích, hướng dẫn cho công dân về việc thực hiện khiếu nại, tố cáo, kiến nghị, phản ánh theo đúng quy định của pháp luật.",
+                    "text": "Tiếp công dân là việc cơ quan, tổ chức, đơn vị, cá nhân quy định tại Điều 4 của Luật này đón tiếp để lắng nghe, tiếp nhận khiếu nại, tố cáo, kiến nghị, phản ánh của công dân; giải thích, hướng dẫn cho công dân về việc thực hiện khiếu nại, tố cáo, kiến nghị, phản ánh theo đúng quy định của pháp luật. Tiếp công dân bao gồm tiếp công dân thường xuyên, tiếp công dân định kỳ và tiếp công dân đột xuất.",
                     "sub_clauses": []
                 },
                 {
@@ -117,7 +122,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, tổ chức chính trị, Ủy ban Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, cơ quan thuộc Chính phủ, đơn vị sự nghiệp công lập tổ chức việc tiếp công dân phù hợp với yêu cầu, quy mô, tính chất hoạt động của cơ quan, tổ chức, đơn vị mình.",
+                    "text": "Trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình, tổ chức chính trị, Ủy ban Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, cơ quan thuộc Chính phủ, đơn vị sự nghiệp công lập tổ chức việc tiếp công dân phù hợp với yêu cầu, quy mô, tính chất hoạt động của cơ quan, tổ chức, đơn vị mình. Căn cứ vào quy định của Luật này, cơ quan trung ương của tổ chức chính trị, Ủy ban Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội quy định về việc tiếp công dân trong cơ quan, tổ chức thuộc hệ thống mình; Chính phủ quy định cụ thể việc tiếp công dân tại các cơ quan thuộc Chính phủ, đơn vị sự nghiệp công lập.",
                     "sub_clauses": []
                 }
             ]
@@ -128,12 +133,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Chính phủ thống nhất quản lý nhà nước về công tác tiếp công dân; trực tiếp quản lý công tác tiếp công dân của các cơ quan hành chính nhà nước ở trung ương và địa phương.",
+                    "text": "Chính phủ thống nhất quản lý nhà nước về công tác tiếp công dân; trực tiếp quản lý công tác tiếp công dân của các cơ quan hành chính nhà nước ở trung ương và địa phương. Thanh tra Chính phủ chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về công tác tiếp công dân. Các bộ, cơ quan ngang bộ, Ủy ban nhân dân các cấp thực hiện quản lý công tác tiếp công dân trong phạm vi nhiệm vụ, quyền hạn của mình.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban thường vụ Quốc hội có trách nhiệm chỉ đạo, điều hòa, phối hợp việc tổ chức hoạt động tiếp công dân của các cơ quan của Quốc hội, đại biểu Quốc hội.",
+                    "text": "Ủy ban thường vụ Quốc hội có trách nhiệm chỉ đạo, điều hòa, phối hợp việc tổ chức hoạt động tiếp công dân của các cơ quan của Quốc hội, đại biểu Quốc hội. Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm tổ chức và quản lý công tác tiếp công dân của Tòa án nhân dân các cấp, Viện kiểm sát nhân dân các cấp, các đơn vị thuộc Kiểm toán nhà nước. Các cơ quan quy định tại khoản này có trách nhiệm định kỳ tổng kết và thông báo kết quả tổ chức tiếp công dân thuộc phạm vi quản lý của cơ quan mình cho Chính phủ để tổng hợp chung báo cáo Quốc hội.",
                     "sub_clauses": []
                 }
             ]
@@ -179,7 +184,7 @@
                 },
                 {
                     "number": "8",
-                    "text": "Vi phạm các quy định khác trong nội quy, quy chế tiếp công dân.",
+                    "text": "Vi phạm các quy định khác trong nội quy, quy chế tiếp công dân. Chương 2. QUYỀN VÀ NGHĨA VỤ CỦA NGƯỜI ĐẾN KHIẾU NẠI, TỐ CÁO, KIẾN NGHỊ, PHẢN ÁNH; TRÁCH NHIỆM CỦA NGƯỜI TIẾP CÔNG DÂN",
                     "sub_clauses": []
                 }
             ]
@@ -291,6 +296,11 @@
             "title": "Những trường hợp được từ chối tiếp công dân",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Người tiếp công dân được từ chối tiếp người đến nơi tiếp công dân trong các trường hợp sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Người trong tình trạng say do dùng chất kích thích, người mắc bệnh tâm thần hoặc một bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình;",
                     "sub_clauses": []
@@ -307,7 +317,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Những trường hợp khác theo quy định của pháp luật.",
+                    "text": "Những trường hợp khác theo quy định của pháp luật. Chương 3. TIẾP CÔNG DÂN TẠI TRỤ SỞ TIẾP CÔNG DÂN Ở TRUNG ƯƠNG, TRỤ SỞ TIẾP CÔNG DÂN CẤP TỈNH, TRỤ SỞ TIẾP CÔNG DÂN CẤP HUYỆN; VIỆC TIẾP CÔNG DÂN Ở CẤP XÃ",
                     "sub_clauses": []
                 }
             ]
@@ -590,7 +600,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chủ tịch Ủy ban nhân dân cấp xã trực tiếp phụ trách công tác tiếp công dân ở cấp xã và thực hiện các nhiệm vụ sau đây:",
+                    "text": "Chủ tịch Ủy ban nhân dân cấp xã trực tiếp phụ trách công tác tiếp công dân ở cấp xã và thực hiện các nhiệm vụ sau đây: Chương 4. TIẾP CÔNG DÂN TẠI CƠ QUAN HÀNH CHÍNH NHÀ NƯỚC; TẠI TÒA ÁN NHÂN DÂN, VIỆN KIỂM SÁT NHÂN DÂN, KIỂM TOÁN NHÀ NƯỚC",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -626,12 +636,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Bộ, cơ quan ngang bộ thành lập bộ phận tiếp công dân hoặc bố trí công chức thuộc Thanh tra bộ làm công tác tiếp công dân.",
+                    "text": "Bộ, cơ quan ngang bộ thành lập bộ phận tiếp công dân hoặc bố trí công chức thuộc Thanh tra bộ làm công tác tiếp công dân. Việc tiếp công dân của tổ chức trực thuộc bộ, cơ quan ngang bộ do Bộ trưởng, Thủ trưởng cơ quan ngang bộ quy định phù hợp với yêu cầu, tính chất tổ chức và hoạt động của từng tổ chức.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh bố trí công chức thuộc Thanh tra cơ quan làm công tác tiếp công dân.",
+                    "text": "Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh bố trí công chức thuộc Thanh tra cơ quan làm công tác tiếp công dân. Việc tiếp công dân của cơ quan trực thuộc cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh và việc tiếp công dân của cơ quan chuyên môn thuộc Ủy ban nhân dân cấp huyện do Chủ tịch Ủy ban nhân dân cấp tỉnh quy định phù hợp với yêu cầu, tính chất tổ chức và hoạt động của từng cơ quan.",
                     "sub_clauses": []
                 },
                 {
@@ -727,12 +737,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Địa điểm tiếp công dân của cơ quan, tổ chức, đơn vị phải được bố trí tại vị trí thuận tiện, bảo đảm các điều kiện vật chất cần thiết để công dân đến trình bày khiếu nại, tố cáo, kiến nghị, phản ánh được dễ dàng, thuận lợi.",
+                    "text": "Địa điểm tiếp công dân của cơ quan, tổ chức, đơn vị phải được bố trí tại vị trí thuận tiện, bảo đảm các điều kiện vật chất cần thiết để công dân đến trình bày khiếu nại, tố cáo, kiến nghị, phản ánh được dễ dàng, thuận lợi. Tại địa điểm tiếp công dân, phải niêm yết rõ ràng nội quy tiếp công dân của cơ quan, đơn vị, hướng dẫn về quy trình tiếp công dân, quy trình giải quyết khiếu nại, tố cáo, kiến nghị, phản ánh theo quy định của pháp luật và các thông tin quy định tại khoản 2 Điều 24 của Luật này.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Chính phủ quy định chi tiết việc bố trí cơ sở vật chất của địa điểm tiếp công dân.",
+                    "text": "Chính phủ quy định chi tiết việc bố trí cơ sở vật chất của địa điểm tiếp công dân. Chương 5. TIẾP CÔNG DÂN CỦA CÁC CƠ QUAN CỦA QUỐC HỘI, ĐẠI BIỂU QUỐC HỘI, CỦA HỘI ĐỒNG NHÂN DÂN VÀ ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN CÁC CẤP",
                     "sub_clauses": []
                 }
             ]
@@ -748,7 +758,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Ủy ban thường vụ Quốc hội có trách nhiệm chỉ đạo, điều hòa, phối hợp và tổ chức việc tiếp công dân của các cơ quan của Quốc hội, đại biểu Quốc hội.",
+                    "text": "Ủy ban thường vụ Quốc hội có trách nhiệm chỉ đạo, điều hòa, phối hợp và tổ chức việc tiếp công dân của các cơ quan của Quốc hội, đại biểu Quốc hội. Ban dân nguyện thuộc Ủy ban thường vụ Quốc hội có trách nhiệm giúp Ủy ban thường vụ Quốc hội trong việc tổ chức công tác tiếp công dân của các cơ quan của Quốc hội, đại biểu Quốc hội; đại diện cho các cơ quan của Quốc hội thực hiện tiếp công dân thường xuyên tại Trụ sở tiếp công dân ở trung ương và địa điểm tiếp công dân của Quốc hội.",
                     "sub_clauses": []
                 },
                 {
@@ -764,7 +774,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đại biểu Quốc hội thực hiện việc tiếp công dân tại Trụ sở tiếp công dân cấp tỉnh hoặc nơi tiếp công dân do Đoàn đại biểu Quốc hội bố trí theo sự phân công của Trưởng đoàn đại biểu Quốc hội hoặc khi thấy cần thiết.",
+                    "text": "Đại biểu Quốc hội thực hiện việc tiếp công dân tại Trụ sở tiếp công dân cấp tỉnh hoặc nơi tiếp công dân do Đoàn đại biểu Quốc hội bố trí theo sự phân công của Trưởng đoàn đại biểu Quốc hội hoặc khi thấy cần thiết. Lịch tiếp công dân của đại biểu Quốc hội được thông báo cho đại biểu Quốc hội biết chậm nhất là 10 ngày làm việc, trước ngày có lịch tiếp. Trường hợp không thể tham gia tiếp công dân theo lịch đã được thông báo, đại biểu Quốc hội báo cáo với Trưởng Đoàn đại biểu Quốc hội chậm nhất là 05 ngày làm việc, trước ngày có lịch tiếp.",
                     "sub_clauses": []
                 },
                 {
@@ -785,7 +795,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Đại biểu Hội đồng nhân dân cấp tỉnh, cấp huyện thực hiện việc tiếp công dân tại Trụ sở tiếp công dân cùng cấp hoặc tại nơi tiếp công dân ở địa phương mà đại biểu ứng cử theo sự bố trí của Thường trực Hội đồng nhân dân cùng cấp.",
+                    "text": "Đại biểu Hội đồng nhân dân cấp tỉnh, cấp huyện thực hiện việc tiếp công dân tại Trụ sở tiếp công dân cùng cấp hoặc tại nơi tiếp công dân ở địa phương mà đại biểu ứng cử theo sự bố trí của Thường trực Hội đồng nhân dân cùng cấp. Đại biểu Hội đồng nhân dân cấp xã thực hiện việc tiếp công dân tại Trụ sở Ủy ban nhân dân cùng cấp.",
                     "sub_clauses": []
                 },
                 {
@@ -803,7 +813,13 @@
         {
             "id": "Điều 23",
             "title": "Quy định chi tiết việc tiếp công dân của các cơ quan của Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, đại biểu Hội đồng nhân dân các cấp",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban thường vụ Quốc hội quy định chi tiết việc tiếp công dân của các cơ quan của Quốc hội, đại biểu Quốc hội, Hội đồng nhân dân, đại biểu Hội đồng nhân dân các cấp. Chương 6. HOẠT ĐỘNG TIẾP CÔNG DÂN CỦA CƠ QUAN, TỔ CHỨC, ĐƠN VỊ, CÁ NHÂN",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 24",
@@ -816,7 +832,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan, tổ chức, đơn vị có trách nhiệm niêm yết công khai thông tin về việc tiếp công dân của cơ quan, tổ chức, đơn vị mình tại trụ sở cơ quan, tổ chức, đơn vị, tại địa điểm tiếp công dân và công bố trên trang thông tin điện tử của cơ quan, tổ chức, đơn vị (nếu có).",
+                    "text": "Cơ quan, tổ chức, đơn vị có trách nhiệm niêm yết công khai thông tin về việc tiếp công dân của cơ quan, tổ chức, đơn vị mình tại trụ sở cơ quan, tổ chức, đơn vị, tại địa điểm tiếp công dân và công bố trên trang thông tin điện tử của cơ quan, tổ chức, đơn vị (nếu có). Nội dung thông tin cần công bố bao gồm:",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -855,7 +871,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Nội dung trình bày phải được ghi vào sổ tiếp công dân gồm; số thứ tự, ngày tiếp, họ tên, địa chỉ, nội dung sự việc, quá trình xem xét, giải quyết của cơ quan, tổ chức, đơn vị có thẩm quyền (nếu có); yêu cầu, đề nghị của người đến khiếu nại, tố cáo, kiến nghị, phản ánh; việc tiếp nhận, xử lý vụ việc.",
+                    "text": "Nội dung trình bày phải được ghi vào sổ tiếp công dân gồm; số thứ tự, ngày tiếp, họ tên, địa chỉ, nội dung sự việc, quá trình xem xét, giải quyết của cơ quan, tổ chức, đơn vị có thẩm quyền (nếu có); yêu cầu, đề nghị của người đến khiếu nại, tố cáo, kiến nghị, phản ánh; việc tiếp nhận, xử lý vụ việc. Trường hợp người đến khiếu nại, tố cáo, kiến nghị, phản ánh chưa có đơn khiếu nại, tố cáo, kiến nghị, phản ánh thì người tiếp công dân hướng dẫn viết đơn hoặc ghi lại đầy đủ, chính xác nội dung khiếu nại, tố cáo, kiến nghị, phản ánh bằng văn bản và yêu cầu họ ký xác nhận hoặc điểm chỉ; trường hợp nội dung trình bày chưa rõ ràng, đầy đủ thì người tiếp công dân đề nghị người đến khiếu nại, tố cáo, kiến nghị, phản ánh trình bày bổ sung hoặc bổ sung tài liệu, chứng cứ.",
                     "sub_clauses": []
                 },
                 {
@@ -951,7 +967,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Các cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết khiếu nại, tố cáo có trách nhiệm thông báo kết quả giải quyết khiếu nại, tố cáo cho người khiếu nại, tố cáo theo quy định của pháp luật về khiếu nại, tố cáo.",
+                    "text": "Các cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết khiếu nại, tố cáo có trách nhiệm thông báo kết quả giải quyết khiếu nại, tố cáo cho người khiếu nại, tố cáo theo quy định của pháp luật về khiếu nại, tố cáo. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được thông báo quy định tại khoản 2 Điều 27 của Luật này, cơ quan của Quốc hội, đại biểu Quốc hội, đại biểu Hội đồng nhân dân, Ban tiếp công dân có trách nhiệm thông báo cho người khiếu nại, tố cáo về kết quả giải quyết khiếu nại, tố cáo trong trường hợp người đó đã có yêu cầu trước đó. Chương 7. TRÁCH NHIỆM TIẾP VÀ XỬ LÝ TRƯỜNG HỢP NHIỀU NGƯỜI CÙNG KHIẾU NẠI, TỐ CÁO, KIẾN NGHỊ, PHẢN ÁNH VỀ MỘT NỘI DUNG",
                     "sub_clauses": []
                 }
             ]
@@ -959,7 +975,13 @@
         {
             "id": "Điều 29",
             "title": "Cử người đại diện khiếu nại, tố cáo, kiến nghị, phản ánh về một nội dung",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Khi nhiều người cùng khiếu nại, tố cáo, kiến nghị, phản ánh về một nội dung tại nơi tiếp công dân thì người tiếp công dân yêu cầu những người này phải cử đại diện để trình bày nội dung khiếu nại, tố cáo, kiến nghị, phản ánh với người tiếp công dân (sau đây gọi chung là người đại diện). Người đại diện phải là người khiếu nại, người tố cáo, người kiến nghị, người phản ánh. Việc cử người đại diện phải thể hiện bằng văn bản có chữ ký của tất cả những người khiếu nại, tố cáo, kiến nghị, phản ánh. Trường hợp có từ năm đến mười người thì cử một hoặc hai người đại diện; trường hợp có trên mười người thì có thể cử thêm người đại diện, nhưng không quá năm người. Người đại diện phải chịu trách nhiệm trước pháp luật về tính hợp pháp của việc đại diện và văn bản cử người đại diện.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 30",
@@ -967,7 +989,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Người đứng đầu cơ quan, tổ chức, đơn vị, Trưởng Ban tiếp công dân nơi có nhiều người khiếu nại, tố cáo, kiến nghị, phản ánh tập trung có trách nhiệm trực tiếp tiếp hoặc cử người đại diện cho mình tiếp đại diện của những người khiếu nại, tố cáo, kiến nghị, phản ảnh để lắng nghe người đại diện trình bày về nội dung khiếu nại, tố cáo, kiến nghị, phản ánh, tiếp nhận đơn khiếu nại, tố cáo, kiến nghị, phản ánh và các thông tin, tài liệu do họ cung cấp.",
+                    "text": "Người đứng đầu cơ quan, tổ chức, đơn vị, Trưởng Ban tiếp công dân nơi có nhiều người khiếu nại, tố cáo, kiến nghị, phản ánh tập trung có trách nhiệm trực tiếp tiếp hoặc cử người đại diện cho mình tiếp đại diện của những người khiếu nại, tố cáo, kiến nghị, phản ảnh để lắng nghe người đại diện trình bày về nội dung khiếu nại, tố cáo, kiến nghị, phản ánh, tiếp nhận đơn khiếu nại, tố cáo, kiến nghị, phản ánh và các thông tin, tài liệu do họ cung cấp. Trường hợp những người khiếu nại, tố cáo, kiến nghị, phản ánh chưa có đơn khiếu nại, tố cáo, kiến nghị, phản ánh thì người tiếp công dân yêu cầu người đại diện viết thành văn bản hoặc ghi lại đầy đủ, chính xác nội dung vụ việc do người đại diện trình bày, đọc lại cho họ nghe và yêu cầu ký hoặc điểm chỉ để xác nhận. Trường hợp khiếu nại, tố cáo, kiến nghị, phản ánh thuộc thẩm quyền giải quyết của cơ quan, tổ chức, đơn vị mình thì người tiếp công dân tiếp nhận, xem xét thụ lý để giải quyết và thông báo cho đại diện của những người khiếu nại, tố cáo về kết quả xử lý theo quy định của pháp luật; nếu vụ việc không thuộc thẩm quyền giải quyết của cơ quan, tổ chức, đơn vị mình thì chuyển đơn hoặc hướng dẫn người khiếu nại, tố cáo, kiến nghị, phản ánh đến cơ quan có thẩm quyền giải quyết.",
                     "sub_clauses": []
                 },
                 {
@@ -1035,7 +1057,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chủ tịch Ủy ban nhân dân thành phố Hà Nội, thành phố Hồ Chí Minh có trách nhiệm hỗ trợ, phối hợp với Thanh tra Chính phủ, Bộ Công an trong việc xử lý trường hợp nhiều người cùng khiếu nại, tố cáo, kiến nghị, phản ánh về một nội dung tại Trụ sở tiếp công dân ở trung ương khi được yêu cầu.",
+                    "text": "Chủ tịch Ủy ban nhân dân thành phố Hà Nội, thành phố Hồ Chí Minh có trách nhiệm hỗ trợ, phối hợp với Thanh tra Chính phủ, Bộ Công an trong việc xử lý trường hợp nhiều người cùng khiếu nại, tố cáo, kiến nghị, phản ánh về một nội dung tại Trụ sở tiếp công dân ở trung ương khi được yêu cầu. Chương 8. ĐIỀU KIỆN BẢO ĐẢM CHO HOẠT ĐỘNG TIẾP CÔNG DÂN",
                     "sub_clauses": []
                 }
             ]
@@ -1067,7 +1089,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người làm công tác tiếp công dân được hưởng chế độ bồi dưỡng tiếp công dân và các chế độ khác theo quy định của Chính phủ.",
+                    "text": "Người làm công tác tiếp công dân được hưởng chế độ bồi dưỡng tiếp công dân và các chế độ khác theo quy định của Chính phủ. Chương 9. ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1075,13 +1097,29 @@
         {
             "id": "Điều 35",
             "title": "Hiệu lực thi hành",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2014. Những quy định về tiếp công dân tại Chương V của Luật khiếu nại, tố cáo số 09/1998/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2004/QH11 và Luật số 58/2005/QH11, Chương V của Luật khiếu nại số 02/2011/QH13 hết hiệu lực thi hành kể từ ngày Luật này có hiệu lực.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 36",
             "title": "Quy định chi tiết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Ủy ban thường vụ Quốc hội, Chính phủ, các cơ quan, tổ chức khác có thẩm quyền quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 6 thông qua ngày 25 tháng 11 năm 2013. CHỦ TỊCH QUỐC HỘI Nguyễn Sinh Hùng",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, kỳ họp thứ 6 thông qua ngày 25 tháng 11 năm 2013.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Sinh Hùng"
+    ]
 }

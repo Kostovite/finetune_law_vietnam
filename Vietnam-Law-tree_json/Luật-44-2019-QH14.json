@@ -15,12 +15,23 @@
         {
             "id": "Điều 1",
             "title": "Phạm vi điều chỉnh",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Luật này quy định biện pháp giảm mức tiêu thụ rượu, bia; biện pháp quản lý việc cung cấp rượu, bia; biện pháp giảm tác hại của rượu, bia; điều kiện bảo đảm cho hoạt động phòng, chống tác hại của rượu, bia; quản lý nhà nước và trách nhiệm của cơ quan, tổ chức, cá nhân trong phòng, chống tác hại của rượu, bia.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 2",
             "title": "Giải thích từ ngữ",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Rượu là đồ uống có cồn thực phẩm, được sản xuất từ quá trình lên men từ một hoặc hỗn hợp của các loại nguyên liệu chủ yếu gồm tinh bột của ngũ cốc, dịch đường của cây, hoa, củ, quả hoặc là đồ uống được pha chế từ cồn thực phẩm.",
@@ -186,7 +197,7 @@
                 },
                 {
                     "number": "13",
-                    "text": "Các hành vi bị nghiêm cấm khác liên quan đến rượu, bia do luật định.",
+                    "text": "Các hành vi bị nghiêm cấm khác liên quan đến rượu, bia do luật định. Chương II BIỆN PHÁP GIẢM MỨC TIÊU THỤ RƯỢU, BIA",
                     "sub_clauses": []
                 }
             ]
@@ -353,7 +364,13 @@
         {
             "id": "Điều 11",
             "title": "Quản lý việc khuyến mại rượu, bia có độ cồn dưới 15 độ",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân thực hiện khuyến mại rượu, bia có độ cồn dưới 15 độ phải tuân thủ các quy định của Luật này và quy định khác của pháp luật về khuyến mại.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 12",
@@ -422,6 +439,11 @@
             "title": "Quản lý việc quảng cáo rượu có độ cồn từ 5,5 độ đến dưới 15 độ và bia có độ cồn từ 5,5 độ trở lên",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân thực hiện quảng cáo rượu có độ cồn từ 5,5 độ đến dưới 15 độ và bia có độ cồn từ 5,5 độ trở lên phải tuân thủ quy định tại Điều 12 của Luật này và không quảng cáo trong trường hợp sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Trong các chương trình, hoạt động văn hóa, sân khấu, điện ảnh, thể thao;",
                     "sub_clauses": []
@@ -436,7 +458,13 @@
         {
             "id": "Điều 14",
             "title": "Quản lý việc tài trợ của tổ chức, cá nhân kinh doanh rượu, bia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức, cá nhân kinh doanh rượu, bia thực hiện tài trợ phải tuân thủ các quy định của pháp luật có liên quan đến việc tài trợ và không được tài trợ bằng sản phẩm rượu, bia. Chương III BIỆN PHÁP QUẢN LÝ VIỆC CUNG CẤP RƯỢU, BIA",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 15",
@@ -558,7 +586,13 @@
         {
             "id": "Điều 18",
             "title": "Bảo đảm chất lượng, an toàn thực phẩm đối với rượu, bia",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Rượu, bia được kinh doanh, lưu hành tại Việt Nam phải bảo đảm tiêu chuẩn, quy chuẩn kỹ thuật, chất lượng sản phẩm, hàng hóa và an toàn thực phẩm theo quy định của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 19",
@@ -612,7 +646,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ Công Thương, Bộ Y tế, trong phạm vi nhiệm vụ, quyền hạn của mình, hướng dẫn việc bổ sung chất chỉ thị màu vào các sản phẩm cồn không dùng trong thực phẩm để phân biệt với cồn thực phẩm và phòng ngừa pha chế rượu từ sản phẩm cồn không được phép dùng trong thực phẩm.",
+                    "text": "Bộ Công Thương, Bộ Y tế, trong phạm vi nhiệm vụ, quyền hạn của mình, hướng dẫn việc bổ sung chất chỉ thị màu vào các sản phẩm cồn không dùng trong thực phẩm để phân biệt với cồn thực phẩm và phòng ngừa pha chế rượu từ sản phẩm cồn không được phép dùng trong thực phẩm. Chương IV BIỆN PHÁP GIẢM TÁC HẠI CỦA RƯỢU, BIA",
                     "sub_clauses": []
                 }
             ]
@@ -797,7 +831,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ quan, tổ chức, gia đình, cá nhận thực hiện quy định tại khoản 1 và khoản 2 Điều này phù hợp với chức năng, nhiệm vụ được giao.",
+                    "text": "Cơ quan, tổ chức, gia đình, cá nhận thực hiện quy định tại khoản 1 và khoản 2 Điều này phù hợp với chức năng, nhiệm vụ được giao. Chương V ĐIỀU KIỆN BẢO ĐẢM CHO HOẠT ĐỘNG PHÒNG, CHỐNG TÁC HẠI CỦA RƯỢU, BIA",
                     "sub_clauses": []
                 }
             ]
@@ -864,7 +898,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định về xử phạt vi phạm hành chính trong phòng, chống tác hại của rượu, bia.",
+                    "text": "Chính phủ quy định về xử phạt vi phạm hành chính trong phòng, chống tác hại của rượu, bia. Chương VI QUẢN LÝ NHÀ NƯỚC VÀ TRÁCH NHIỆM CỦA CƠ QUAN, TỔ CHỨC, CÁ NHÂN TRONG PHÒNG, CHỐNG TÁC HẠI CỦA RƯỢU, BIA",
                     "sub_clauses": []
                 }
             ]
@@ -1074,7 +1108,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Tham gia với các cơ quan, tổ chức và cộng đồng thực hiện phòng, chống tác hại của rượu, bia.",
+                    "text": "Tham gia với các cơ quan, tổ chức và cộng đồng thực hiện phòng, chống tác hại của rượu, bia. Chương VII ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1085,17 +1119,17 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Sửa đổi, bổ sung khoản 8 Điều 8 của Luật Giao thông đường bộ số 23/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 8 Điều 8 của Luật Giao thông đường bộ số 23/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 như sau: “8. Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn”.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Sửa đổi, bổ sung khoản 8 Điều 8 của Luật Giao thông đường thủy nội địa số 23/2004/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 48/2014/QH13, Luật số 97/2015/QH13 và Luật số 35/2018/QH14 như sau:",
+                    "text": "Sửa đổi, bổ sung khoản 8 Điều 8 của Luật Giao thông đường thủy nội địa số 23/2004/QH11 đã được sửa đổi, bổ sung một số điều theo Luật số 48/2014/QH13, Luật số 97/2015/QH13 và Luật số 35/2018/QH14 như sau: “8. Thuyền viên, người lái phương tiện đang làm việc trên phương tiện mà trong máu hoặc hơi thở có nồng độ cồn hoặc có các chất kích thích khác mà luật cấm sử dụng.”.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Thay thế một số cụm từ tại một số điều của Luật Thương mại số 36/2005/QH11 đã dược sửa đổi, bổ sung một số điều theo Luật số 05/2017/QH14 như sau:",
+                    "text": "Thay thế một số cụm từ tại một số điều của Luật Thương mại số 36/2005/QH11 đã dược sửa đổi, bổ sung một số điều theo Luật số 05/2017/QH14 như sau: Điền 36. Hiệu lực thi hành",
                     "sub_clauses": [
                         {
                             "letter": "a",
@@ -1114,11 +1148,15 @@
                 },
                 {
                     "number": "2",
-                    "text": "Kể từ ngày Luật này có hiệu lực đến ngày 01 tháng 01 năm 2022, việc cấp phép sản xuất rượu thủ công quy định tại khoản 2 Điều 15 của Luật này và việc đăng ký sản xuất rượu thủ công quy định tại khoản 3 Điều 15 của Luật này không phải nộp phí, lệ phí.",
+                    "text": "Kể từ ngày Luật này có hiệu lực đến ngày 01 tháng 01 năm 2022, việc cấp phép sản xuất rượu thủ công quy định tại khoản 2 Điều 15 của Luật này và việc đăng ký sản xuất rượu thủ công quy định tại khoản 3 Điều 15 của Luật này không phải nộp phí, lệ phí. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 14 tháng 6 năm 2019. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
                     "sub_clauses": []
                 }
             ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 14 tháng 6 năm 2019.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

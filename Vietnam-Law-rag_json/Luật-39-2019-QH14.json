@@ -1,5 +1,19 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định việc quản lý nhà nước về đầu tư công; quản lý và sử dụng vốn đầu tư công; quyền, nghĩa vụ và trách nhiệm của cơ quan, đơn vị, tổ chức, cá nhân liên quan đến hoạt động đầu tư công."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với cơ quan, đơn vị, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động đầu tư công, quản lý và sử dụng vốn đầu tư công."
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -26,6 +40,13 @@
         "clause": "4",
         "title": "Áp dụng Luật Đầu tư công, điều ước quốc tế, thỏa thuận quốc tế",
         "text": "Việc quản lý, sử dụng vốn đầu tư của Nhà nước tại doanh nghiệp thực hiện theo quy định của pháp luật về quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp."
+    },
+    {
+        "id": "Điều 4.0",
+        "article": "Điều 4",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
     },
     {
         "id": "Điều 4.1",
@@ -294,6 +315,13 @@
         "text": "Căn cứ mức độ quan trọng và quy mô, dự án đầu tư công được phân loại thành dự án quan trọng quốc gia, dự án nhóm A, dự án nhóm B, dự án nhóm C theo tiêu chí quy định tại các điều 7, 8, 9 và 10 của Luật này."
     },
     {
+        "id": "Điều 7.0",
+        "article": "Điều 7",
+        "clause": "0",
+        "title": "Tiêu chí phân loại dự án quan trọng quốc gia",
+        "text": "Dự án quan trọng quốc gia là dự án đầu tư độc lập hoặc cụm công trình liên kết chặt chẽ với nhau thuộc một trong các tiêu chí sau đây:"
+    },
+    {
         "id": "Điều 7.1",
         "article": "Điều 7",
         "clause": "1",
@@ -341,6 +369,13 @@
         "clause": "5",
         "title": "Tiêu chí phân loại dự án quan trọng quốc gia",
         "text": "Dự án đòi hỏi phải áp dụng cơ chế, chính sách đặc biệt cần được Quốc hội quyết định."
+    },
+    {
+        "id": "Điều 8.0",
+        "article": "Điều 8",
+        "clause": "0",
+        "title": "Tiêu chí phân loại dự án nhóm A",
+        "text": "Trừ dự án quan trọng quốc gia quy định tại Điều 7 của Luật này, dự án thuộc một trong các tiêu chí sau đây là dự án nhóm A:"
     },
     {
         "id": "Điều 8.1",
@@ -1624,6 +1659,13 @@
         "text": "Nguyên tắc, thẩm quyền, trình tự, thủ tục quyết định chủ trương đầu tư dự án đầu tư theo phương thức đối tác công tư thực hiện theo quy định của pháp luật về đầu tư theo phương thức đối tác công tư."
     },
     {
+        "id": "Điều 29.0",
+        "article": "Điều 29",
+        "clause": "0",
+        "title": "Nội dung báo cáo đề xuất chủ trương đầu tư chương trình đầu tư công",
+        "text": "Nội dung chủ yếu của báo cáo đề xuất chủ trương đầu tư chương trình đầu tư công bao gồm:"
+    },
+    {
         "id": "Điều 29.1",
         "article": "Điều 29",
         "clause": "1",
@@ -1785,6 +1827,13 @@
         "text": "Giải pháp tổ chức thực hiện."
     },
     {
+        "id": "Điều 31.0",
+        "article": "Điều 31",
+        "clause": "0",
+        "title": "Nội dung báo cáo đề xuất chủ trương đầu tư dự án nhóm B, nhóm C",
+        "text": "Nội dung chủ yếu của báo cáo đề xuất chủ trương đầu tư dự án nhóm B, nhóm C bao gồm:"
+    },
+    {
         "id": "Điều 31.1",
         "article": "Điều 31",
         "clause": "1",
@@ -1839,6 +1888,13 @@
         "clause": "8",
         "title": "Nội dung báo cáo đề xuất chủ trương đầu tư dự án nhóm B, nhóm C",
         "text": "Giải pháp tổ chức thực hiện."
+    },
+    {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Hồ sơ, nội dung và thời gian thẩm định, quyết định chủ trương đầu tư chương trình, dự án",
+        "text": "Hồ sơ, nội dung và thời gian thẩm định, quyết định chủ trương đầu tư chương trình, dự án thực hiện theo quy định của Chính phủ."
     },
     {
         "id": "Điều 33.1",
@@ -3113,6 +3169,13 @@
         "clause": "6",
         "title": "Nguyên tắc bố trí vốn kế hoạch đầu tư công trung hạn và hằng năm cho chương trình, dự án",
         "text": "Quốc hội quyết định mức vốn, việc sử dụng, thời điểm sử dụng dự phòng chung nguồn ngân sách trung ương của kế hoạch đầu tư công trung hạn quốc gia. Hội đồng nhân dân các cấp quyết định mức vốn, việc sử dụng, thời điểm sử dụng dự phòng chung kế hoạch đầu tư công trung hạn nguồn ngân sách cấp mình quản lý."
+    },
+    {
+        "id": "Điều 52.0",
+        "article": "Điều 52",
+        "clause": "0",
+        "title": "Điều kiện để chương trình, dự án, nhiệm vụ, đối tượng đầu tư công khác được đưa vào kế hoạch đầu tư công trung hạn",
+        "text": "Chương trình, dự án, nhiệm vụ, đối tượng đầu tư công khác được đưa vào kế hoạch đầu tư công trung hạn phải bảo đảm tuân thủ quy định của pháp luật về nguyên tắc, tiêu chí phân bổ vốn đầu tư công và đáp ứng một trong các điều kiện sau đây:"
     },
     {
         "id": "Điều 52.1",
@@ -4571,6 +4634,13 @@
         "text": "Tổ chức kiểm tra, thanh tra việc thực hiện kế hoạch đầu tư công trung hạn và hằng năm; kiểm tra thực hiện chương trình, dự án sử dụng vốn ngân sách trung ương, vốn từ nguồn thu hợp pháp của các cơ quan nhà nước, đơn vị sự nghiệp công lập dành để đầu tư, kiểm tra việc thực hiện các mục tiêu, chính sách đầu tư công của các địa phương."
     },
     {
+        "id": "Điều 80.0",
+        "article": "Điều 80",
+        "clause": "0",
+        "title": "Nhiệm vụ, quyền hạn của Bộ Kế hoạch và Đầu tư",
+        "text": "Bộ Kế hoạch và Đầu tư là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về đầu tư công và có nhiệm vụ, quyền hạn sau đây:"
+    },
+    {
         "id": "Điều 80.1",
         "article": "Điều 80",
         "clause": "1",
@@ -5145,6 +5215,20 @@
         "text": "Chính phủ quy định chi tiết Điều này."
     },
     {
+        "id": "Điều 98.0",
+        "article": "Điều 98",
+        "clause": "0",
+        "title": "Xử lý vi phạm",
+        "text": "Cơ quan, tổ chức, cá nhân có hành vi vi phạm quy định của Luật này thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật. Chương VI ĐIỀU KHOẢN THI HÀNH"
+    },
+    {
+        "id": "Điều 99.0",
+        "article": "Điều 99",
+        "clause": "0",
+        "title": "Sửa đổi điểm a khoản 2 Điều 25 của Luật Bảo vệ môi trường số 55/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14",
+        "text": "Sửa đổi điểm a khoản 2 Điều 25 của Luật Bảo vệ môi trường như sau: “a) Quyết định chủ trương đầu tư dự án đối với các đối tượng quy định tại Điều 18 của Luật này trong trường hợp pháp luật quy định dự án phải quyết định chủ trương đầu tư. Đối với dự án đầu tư công, cấp có thẩm quyền căn cứ đánh giá sơ bộ tác động môi trường để quyết định chủ trương đầu tư; căn cứ đánh giá tác động môi trường để quyết định đầu tư đối với các đối tượng quy định tại Điều 18 của Luật này. Chính phủ quy định chi tiết đối tượng, nội dung đánh giá sơ bộ tác động môi trường;”."
+    },
+    {
         "id": "Điều 100.1",
         "article": "Điều 100",
         "clause": "1",
@@ -5191,6 +5275,6 @@
         "article": "Điều 101",
         "clause": "5",
         "title": "Quy định chuyển tiếp",
-        "text": "Đối với kế hoạch vốn đầu tư công năm 2019 và năm 2020, các Bộ, cơ quan trung ương, địa phương được phép thực hiện và giải ngân theo quy định của Luật Đầu tư công số 49/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và các văn bản quy định chi tiết, hướng dẫn thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 13 tháng 6 năm 2019."
+        "text": "Đối với kế hoạch vốn đầu tư công năm 2019 và năm 2020, các Bộ, cơ quan trung ương, địa phương được phép thực hiện và giải ngân theo quy định của Luật Đầu tư công số 49/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 28/2018/QH14 và các văn bản quy định chi tiết, hướng dẫn thi hành. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 7 thông qua ngày 13 tháng 6 năm 2019. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân"
     }
 ]

@@ -33,6 +33,11 @@
             "title": "Giải thích từ ngữ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Tín ngưỡng là niềm tin của con người được thể hiện thông qua những lễ nghi gắn liền với phong tục, tập quán truyền thống để mang lại sự bình an về tinh thần cho cá nhân và cộng đồng.",
                     "sub_clauses": []
@@ -209,7 +214,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Lợi dụng hoạt động tín ngưỡng, hoạt động tôn giáo để trục lợi.",
+                    "text": "Lợi dụng hoạt động tín ngưỡng, hoạt động tôn giáo để trục lợi. Chương II QUYỀN TỰ DO TÍN NGƯỠNG, TÔN GIÁO",
                     "sub_clauses": []
                 }
             ]
@@ -344,7 +349,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chức sắc, chức việc, nhà tu hành, người đại diện, ban quản lý cơ sở tín ngưỡng có trách nhiệm hướng dẫn tín đồ, người tham gia hoạt động tín ngưỡng, hoạt động tôn giáo thực hiện hoạt động tín ngưỡng, hoạt động tôn giáo đúng quy định của pháp luật.",
+                    "text": "Chức sắc, chức việc, nhà tu hành, người đại diện, ban quản lý cơ sở tín ngưỡng có trách nhiệm hướng dẫn tín đồ, người tham gia hoạt động tín ngưỡng, hoạt động tôn giáo thực hiện hoạt động tín ngưỡng, hoạt động tôn giáo đúng quy định của pháp luật. Chương III HOẠT ĐỘNG TÍN NGƯỠNG",
                     "sub_clauses": []
                 }
             ]
@@ -407,7 +412,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Người đại diện hoặc ban quản lý cơ sở tín ngưỡng có trách nhiệm gửi văn bản đăng ký đến Ủy ban nhân dân cấp xã nơi có cơ sở tín ngưỡng chậm nhất là 30 ngày trước ngày cơ sở tín ngưỡng bắt đầu hoạt động tín ngưỡng, trừ trường hợp quy định tại Điều 14 của Luật này.",
+                    "text": "Người đại diện hoặc ban quản lý cơ sở tín ngưỡng có trách nhiệm gửi văn bản đăng ký đến Ủy ban nhân dân cấp xã nơi có cơ sở tín ngưỡng chậm nhất là 30 ngày trước ngày cơ sở tín ngưỡng bắt đầu hoạt động tín ngưỡng, trừ trường hợp quy định tại Điều 14 của Luật này. Văn bản đăng ký nêu rõ tên cơ sở tín ngưỡng, các hoạt động tín ngưỡng, nội dung, quy mô, thời gian, địa điểm diễn ra hoạt động. Ủy ban nhân dân cấp xã có trách nhiệm trả lời bằng văn bản trong thời hạn 15 ngày kể từ ngày nhận được văn bản đăng ký hợp lệ; trường hợp từ chối đăng ký phải nêu rõ lý do.",
                     "sub_clauses": []
                 },
                 {
@@ -462,7 +467,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trước khi tổ chức lễ hội tín ngưỡng lần đầu, lễ hội tín ngưỡng được khôi phục sau thời gian gián đoạn hoặc lễ hội tín ngưỡng được tổ chức định kỳ nhưng có thay đổi về quy mô, nội dung, thời gian, địa điểm thì người đại diện hoặc ban quản lý cơ sở tín ngưỡng có trách nhiệm gửi văn bản đăng ký đến Ủy ban nhân dân cấp tỉnh nơi tổ chức lễ hội.",
+                    "text": "Trước khi tổ chức lễ hội tín ngưỡng lần đầu, lễ hội tín ngưỡng được khôi phục sau thời gian gián đoạn hoặc lễ hội tín ngưỡng được tổ chức định kỳ nhưng có thay đổi về quy mô, nội dung, thời gian, địa điểm thì người đại diện hoặc ban quản lý cơ sở tín ngưỡng có trách nhiệm gửi văn bản đăng ký đến Ủy ban nhân dân cấp tỉnh nơi tổ chức lễ hội. Văn bản đăng ký nêu rõ tên lễ hội, nội dung lễ hội hoặc nội dung thay đổi so với trước, quy mô, thời gian, địa điểm tổ chức, dự kiến thành viên ban tổ chức và các điều kiện cần thiết để bảo đảm trật tự, an toàn xã hội, bảo vệ môi trường trong lễ hội.",
                     "sub_clauses": []
                 },
                 {
@@ -483,7 +488,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chậm nhất là 20 ngày kể từ ngày kết thúc lễ hội, người đại diện hoặc ban quản lý cơ sở tín ngưỡng có trách nhiệm thông báo bằng văn bản về khoản thu, mục đích sử dụng khoản thu đến cơ quan nhà nước có thẩm quyền quy định tại khoản 1 Điều 13 của Luật này.",
+                    "text": "Chậm nhất là 20 ngày kể từ ngày kết thúc lễ hội, người đại diện hoặc ban quản lý cơ sở tín ngưỡng có trách nhiệm thông báo bằng văn bản về khoản thu, mục đích sử dụng khoản thu đến cơ quan nhà nước có thẩm quyền quy định tại khoản 1 Điều 13 của Luật này. Chương IV ĐĂNG KÝ SINH HOẠT TÔN GIÁO TẬP TRUNG, ĐĂNG KÝ HOẠT ĐỘNG TÔN GIÁO",
                     "sub_clauses": []
                 }
             ]
@@ -568,6 +573,11 @@
             "id": "Điều 18",
             "title": "Điều kiện để tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo khi đáp ứng đủ các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Có giáo lý, giáo luật, lễ nghi;",
@@ -683,7 +693,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Khi thực hiện hoạt động quy định tại khoản 1 Điều này, tổ chức phải tuân thủ quy định của Luật này, quy định khác của pháp luật có liên quan.",
+                    "text": "Khi thực hiện hoạt động quy định tại khoản 1 Điều này, tổ chức phải tuân thủ quy định của Luật này, quy định khác của pháp luật có liên quan. Chương V TỔ CHỨC TÔN GIÁO Mục 1. CÔNG NHẬN TỔ CHỨC TÔN GIÁO; THÀNH LẬP, CHIA, TÁCH, SÁP NHẬP, HỢP NHẤT TỔ CHỨC TÔN GIÁO TRỰC THUỘC",
                     "sub_clauses": []
                 }
             ]
@@ -692,6 +702,11 @@
             "id": "Điều 21",
             "title": "Điều kiện công nhận tổ chức tôn giáo",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức đã được cấp chứng nhận đăng ký hoạt động tôn giáo được công nhận là tổ chức tôn giáo khi đáp ứng đủ các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Hoạt động ổn định, liên tục từ đủ 05 năm trở lên kể từ ngày được cấp chứng nhận đăng ký hoạt động tôn giáo;",
@@ -787,6 +802,11 @@
             "id": "Điều 23",
             "title": "Hiến chương của tổ chức tôn giáo",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Hiến chương của tổ chức tôn giáo có những nội dung cơ bản sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Tên của tổ chức;",
@@ -953,6 +973,11 @@
             "title": "Điều kiện thành lập, chia, tách, sáp nhập, hợp nhất tổ chức tôn giáo trực thuộc",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc được thành lập, chia, tách, sáp nhập, hợp nhất tổ chức tôn giáo trực thuộc khi đáp ứng đủ các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Hiến chương của tổ chức tôn giáo có quy định về việc thành lập, chia, tách, sáp nhập, hợp nhất tổ chức tôn giáo trực thuộc;",
                     "sub_clauses": []
@@ -1024,7 +1049,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Sau khi được cơ quan nhà nước có thẩm quyền chấp thuận, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc có văn bản thành lập, chia, tách, sáp nhập, hợp nhất tổ chức tôn giáo trực thuộc.",
+                    "text": "Sau khi được cơ quan nhà nước có thẩm quyền chấp thuận, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc có văn bản thành lập, chia, tách, sáp nhập, hợp nhất tổ chức tôn giáo trực thuộc. Hết thời hạn 01 năm kể từ ngày được cơ quan nhà nước có thẩm quyền chấp thuận, nếu tổ chức tôn giáo, tổ chức tôn giáo trực thuộc không thành lập, chia, tách, sáp nhập, hợp nhất tổ chức tôn giáo trực thuộc thì văn bản chấp thuận hết hiệu lực.",
                     "sub_clauses": []
                 }
             ]
@@ -1074,17 +1099,17 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cơ quan nhà nước có thẩm quyền công nhận tổ chức tôn giáo có quyền giải thể tổ chức tôn giáo.",
+                    "text": "Cơ quan nhà nước có thẩm quyền công nhận tổ chức tôn giáo có quyền giải thể tổ chức tôn giáo. Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc có quyền giải thể tổ chức tôn giáo trực thuộc. Cơ quan nhà nước có thẩm quyền quy định tại khoản 3 Điều 29 của Luật này có quyền giải thể hoặc yêu cầu tổ chức tôn giáo, tổ chức tôn giáo trực thuộc giải thể tổ chức tôn giáo trực thuộc trong các trường hợp quy định tại điểm b và điểm c khoản 1 Điều này.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Trước khi giải thể, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc phải thực hiện đầy đủ các nghĩa vụ về tài sản. Tài sản của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc bị giải thể được giải quyết theo quy định của pháp luật về dân sự.",
+                    "text": "Trước khi giải thể, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc phải thực hiện đầy đủ các nghĩa vụ về tài sản. Tài sản của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc bị giải thể được giải quyết theo quy định của pháp luật về dân sự. Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc có trách nhiệm thông báo về việc giải thể tổ chức tôn giáo trực thuộc đến cơ quan nhà nước có thẩm quyền quy định tại khoản 3 Điều 29 của Luật này chậm nhất là 20 ngày kể từ ngày tổ chức tôn giáo trực thuộc bị giải thể.",
                     "sub_clauses": []
                 },
                 {
                     "number": "4",
-                    "text": "Chính phủ quy định chi tiết trình tự, thủ tục giải thể tổ chức tôn giáo, tổ chức tôn giáo trực thuộc.",
+                    "text": "Chính phủ quy định chi tiết trình tự, thủ tục giải thể tổ chức tôn giáo, tổ chức tôn giáo trực thuộc. Mục 2. PHONG PHẨM, BỔ NHIỆM, BẦU CỬ, SUY CỬ, THUYÊN CHUYỂN, CÁCH CHỨC, BÃI NHIỆM CHỨC SẮC, CHỨC VIỆC, NHÀ TU HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -1131,7 +1156,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Trường hợp người được phong phẩm hoặc suy cử làm chức sắc không đáp ứng quy định tại khoản 2 Điều 32 của Luật này, cơ quan nhà nước có thẩm quyền có văn bản yêu cầu tổ chức tôn giáo hủy kết quả phong phẩm hoặc suy cử chức sắc.",
+                    "text": "Trường hợp người được phong phẩm hoặc suy cử làm chức sắc không đáp ứng quy định tại khoản 2 Điều 32 của Luật này, cơ quan nhà nước có thẩm quyền có văn bản yêu cầu tổ chức tôn giáo hủy kết quả phong phẩm hoặc suy cử chức sắc. Trong thời hạn 20 ngày kể từ ngày nhận được văn bản yêu cầu, tổ chức tôn giáo có trách nhiệm hủy kết quả phong phẩm hoặc suy cử chức sắc và có trách nhiệm thông báo bằng văn bản về việc hủy kết quả phong phẩm hoặc suy cử đến cơ quan nhà nước có thẩm quyền quy định tại khoản 1 và khoản 2 Điều này.",
                     "sub_clauses": []
                 }
             ]
@@ -1209,12 +1234,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc trước khi thuyên chuyển chức sắc, chức việc, nhà tu hành có trách nhiệm thông báo bằng văn bản đến cơ quan chuyên môn về tín ngưỡng, tôn giáo cấp tỉnh nơi đi và nơi đến chậm nhất là 20 ngày.",
+                    "text": "Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc trước khi thuyên chuyển chức sắc, chức việc, nhà tu hành có trách nhiệm thông báo bằng văn bản đến cơ quan chuyên môn về tín ngưỡng, tôn giáo cấp tỉnh nơi đi và nơi đến chậm nhất là 20 ngày. Văn bản thông báo nêu rõ tên tổ chức thông báo, họ và tên, phẩm vị, chức vụ của người được thuyên chuyển, lý do thuyên chuyển, địa bàn hoạt động tôn giáo trước khi thuyên chuyển, địa bàn hoạt động sau khi được thuyên chuyển đến.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Trước khi thuyên chuyển chức sắc, chức việc, nhà tu hành là người đang bị buộc tội hoặc chưa được xóa án tích, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc có trách nhiệm gửi văn bản đăng ký đến Ủy ban nhân dân cấp tỉnh nơi dự kiến thuyên chuyển đến.",
+                    "text": "Trước khi thuyên chuyển chức sắc, chức việc, nhà tu hành là người đang bị buộc tội hoặc chưa được xóa án tích, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc có trách nhiệm gửi văn bản đăng ký đến Ủy ban nhân dân cấp tỉnh nơi dự kiến thuyên chuyển đến. Văn bản đăng ký nêu rõ tên tổ chức đăng ký, họ và tên, phẩm vị, chức vụ của người được thuyên chuyển, lý do thuyên chuyển, địa bàn hoạt động tôn giáo trước khi thuyên chuyển, địa bàn hoạt động sau khi được thuyên chuyển đến. Ủy ban nhân dân cấp tỉnh có trách nhiệm trả lời bằng văn bản trong thời hạn 30 ngày kể từ ngày nhận được văn bản đăng ký; trường hợp từ chối đăng ký phải nêu rõ lý do.",
                     "sub_clauses": []
                 }
             ]
@@ -1230,12 +1255,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Chậm nhất là 20 ngày kể từ ngày có văn bản về việc cách chức, bãi nhiệm chức sắc, chức việc, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc có trách nhiệm thông báo bằng văn bản đến cơ quan nhà nước có thẩm quyền quy định tại khoản 1 và khoản 2 Điều 33, khoản 1 và khoản 2 Điều 34 của Luật này.",
+                    "text": "Chậm nhất là 20 ngày kể từ ngày có văn bản về việc cách chức, bãi nhiệm chức sắc, chức việc, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc có trách nhiệm thông báo bằng văn bản đến cơ quan nhà nước có thẩm quyền quy định tại khoản 1 và khoản 2 Điều 33, khoản 1 và khoản 2 Điều 34 của Luật này. Văn bản thông báo nêu rõ họ và tên, phẩm vị, chức vụ của người bị cách chức, bãi nhiệm; lý do cách chức, bãi nhiệm kèm theo văn bản của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc về việc cách chức, bãi nhiệm.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo có trách nhiệm thông báo bằng văn bản theo quy định tại khoản 2 Điều này đến cơ quan nhà nước có thẩm quyền quy định tại khoản 3 Điều 19 của Luật này.",
+                    "text": "Tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo có trách nhiệm thông báo bằng văn bản theo quy định tại khoản 2 Điều này đến cơ quan nhà nước có thẩm quyền quy định tại khoản 3 Điều 19 của Luật này. Mục 3. CƠ SỞ ĐÀO TẠO TÔN GIÁO, LỚP BỒI DƯỠNG TÔN GIÁO",
                     "sub_clauses": []
                 }
             ]
@@ -1244,6 +1269,11 @@
             "id": "Điều 37",
             "title": "Điều kiện thành lập cơ sở đào tạo tôn giáo",
             "content": [
+                {
+                    "number": "0",
+                    "text": "Tổ chức tôn giáo được thành lập cơ sở đào tạo tôn giáo khi đáp ứng đủ các điều kiện sau đây:",
+                    "sub_clauses": []
+                },
                 {
                     "number": "1",
                     "text": "Có cơ sở vật chất bảo đảm cho việc đào tạo;",
@@ -1308,7 +1338,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Sau khi được cơ quan nhà nước có thẩm quyền chấp thuận, tổ chức tôn giáo có văn bản thành lập cơ sở đào tạo tôn giáo.",
+                    "text": "Sau khi được cơ quan nhà nước có thẩm quyền chấp thuận, tổ chức tôn giáo có văn bản thành lập cơ sở đào tạo tôn giáo. Hết thời hạn 03 năm kể từ ngày được cơ quan nhà nước có thẩm quyền chấp thuận, nếu tổ chức tôn giáo không thành lập cơ sở đào tạo thì văn bản chấp thuận hết hiệu lực.",
                     "sub_clauses": []
                 },
                 {
@@ -1334,7 +1364,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Cơ sở đào tạo tôn giáo khi sửa đổi quy chế tổ chức và hoạt động, quy chế tuyển sinh phải đăng ký với cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương. Văn bản đăng ký nêu rõ lý do, nội dung thay đổi kèm theo quy chế sửa đổi.",
+                    "text": "Cơ sở đào tạo tôn giáo khi sửa đổi quy chế tổ chức và hoạt động, quy chế tuyển sinh phải đăng ký với cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương. Văn bản đăng ký nêu rõ lý do, nội dung thay đổi kèm theo quy chế sửa đổi. Cơ quan nhà nước có thẩm quyền có trách nhiệm trả lời bằng văn bản trong thời hạn 45 ngày kể từ ngày nhận được văn bản đăng ký hợp lệ; trường hợp không chấp thuận phải nêu rõ lý do. Cơ sở đào tạo tôn giáo được hoạt động theo quy chế sửa đổi sau khi được cơ quan nhà nước có thẩm quyền chấp thuận.",
                     "sub_clauses": []
                 },
                 {
@@ -1352,7 +1382,13 @@
         {
             "id": "Điều 40",
             "title": "Hướng dẫn chương trình, nội dung giảng dạy môn học về lịch sử Việt Nam và pháp luật Việt Nam",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương chủ trì, phối hợp với Bộ Giáo dục và Đào tạo, Bộ Tư pháp, các cơ quan liên quan hướng dẫn chương trình, nội dung giảng dạy môn học về lịch sử Việt Nam và pháp luật Việt Nam.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 41",
@@ -1360,12 +1396,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc mở lớp bồi dưỡng người chuyên hoạt động tôn giáo có trách nhiệm gửi văn bản đăng ký đến cơ quan chuyên môn về tín ngưỡng, tôn giáo cấp tỉnh nơi mở lớp. Văn bản đăng ký nêu rõ tên lớp, địa điểm, lý do, thời gian học, nội dung, chương trình, thành phần tham dự, danh sách giảng viên.",
+                    "text": "Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc mở lớp bồi dưỡng người chuyên hoạt động tôn giáo có trách nhiệm gửi văn bản đăng ký đến cơ quan chuyên môn về tín ngưỡng, tôn giáo cấp tỉnh nơi mở lớp. Văn bản đăng ký nêu rõ tên lớp, địa điểm, lý do, thời gian học, nội dung, chương trình, thành phần tham dự, danh sách giảng viên. Cơ quan chuyên môn về tín ngưỡng, tôn giáo cấp tỉnh có trách nhiệm trả lời bằng văn bản trong thời hạn 30 ngày kể từ ngày nhận được văn bản đăng ký hợp lệ; trường hợp từ chối đăng ký phải nêu rõ lý do.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc mở lớp bồi dưỡng về tôn giáo không thuộc quy định tại khoản 1 Điều này có trách nhiệm thông báo bằng văn bản đến Ủy ban nhân dân cấp huyện nơi mở lớp chậm nhất là 20 ngày trước ngày khai giảng. Văn bản thông báo nêu rõ tên lớp, địa điểm, lý do, thời gian học, nội dung, chương trình, thành phần tham dự, danh sách giảng viên.",
+                    "text": "Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc mở lớp bồi dưỡng về tôn giáo không thuộc quy định tại khoản 1 Điều này có trách nhiệm thông báo bằng văn bản đến Ủy ban nhân dân cấp huyện nơi mở lớp chậm nhất là 20 ngày trước ngày khai giảng. Văn bản thông báo nêu rõ tên lớp, địa điểm, lý do, thời gian học, nội dung, chương trình, thành phần tham dự, danh sách giảng viên. Trường hợp việc mở lớp bồi dưỡng về tôn giáo có hành vi quy định tại Điều 5 của Luật này, Ủy ban nhân dân cấp huyện có văn bản yêu cầu tổ chức tôn giáo, tổ chức tôn giáo trực thuộc không tổ chức hoặc dừng việc mở lớp bồi dưỡng.",
                     "sub_clauses": []
                 }
             ]
@@ -1394,12 +1430,12 @@
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức tôn giáo có quyền giải thể cơ sở đào tạo tôn giáo. Cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương có quyền giải thể hoặc yêu cầu tổ chức tôn giáo giải thể cơ sở đào tạo tôn giáo trong trường hợp quy định tại điểm b và điểm c khoản 1 Điều này.",
+                    "text": "Tổ chức tôn giáo có quyền giải thể cơ sở đào tạo tôn giáo. Cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương có quyền giải thể hoặc yêu cầu tổ chức tôn giáo giải thể cơ sở đào tạo tôn giáo trong trường hợp quy định tại điểm b và điểm c khoản 1 Điều này. Tổ chức tôn giáo có trách nhiệm thông báo về việc giải thể cơ sở đào tạo tôn giáo đến cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương chậm nhất là 20 ngày kể từ ngày giải thể.",
                     "sub_clauses": []
                 },
                 {
                     "number": "3",
-                    "text": "Chính phủ quy định chi tiết trình tự, thủ tục giải thể cơ sở đào tạo tôn giáo.",
+                    "text": "Chính phủ quy định chi tiết trình tự, thủ tục giải thể cơ sở đào tạo tôn giáo. Chương VI HOẠT ĐỘNG TÔN GIÁO; HOẠT ĐỘNG XUẤT BẢN, GIÁO DỤC, Y TẾ, BẢO TRỢ XÃ HỘI, TỪ THIỆN, NHÂN ĐẠO CỦA TỔ CHỨC TÔN GIÁO Mục 1. HOẠT ĐỘNG TÔN GIÁO",
                     "sub_clauses": []
                 }
             ]
@@ -1448,12 +1484,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc tổ chức hội nghị thường niên có trách nhiệm thông báo bằng văn bản đến cơ quan nhà nước có thẩm quyền quy định tại khoản 3 Điều 45 của Luật này chậm nhất là 20 ngày trước ngày tổ chức hội nghị.",
+                    "text": "Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc tổ chức hội nghị thường niên có trách nhiệm thông báo bằng văn bản đến cơ quan nhà nước có thẩm quyền quy định tại khoản 3 Điều 45 của Luật này chậm nhất là 20 ngày trước ngày tổ chức hội nghị. Văn bản thông báo nêu rõ tên tổ chức; dự kiến thành phần, số lượng người tham dự; nội dung, chương trình, thời gian, địa điểm tổ chức hội nghị.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc tổ chức hội nghị liên tôn giáo, hội nghị có yếu tố nước ngoài có trách nhiệm gửi văn bản đề nghị đến cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương. Văn bản đề nghị nêu rõ tên tổ chức; lý do tổ chức; dự kiến thành phần, số lượng người tham dự; nội dung, chương trình, thời gian, địa điểm tổ chức hội nghị.",
+                    "text": "Tổ chức tôn giáo, tổ chức tôn giáo trực thuộc tổ chức hội nghị liên tôn giáo, hội nghị có yếu tố nước ngoài có trách nhiệm gửi văn bản đề nghị đến cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương. Văn bản đề nghị nêu rõ tên tổ chức; lý do tổ chức; dự kiến thành phần, số lượng người tham dự; nội dung, chương trình, thời gian, địa điểm tổ chức hội nghị. Cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương có trách nhiệm trả lời bằng văn bản trong thời hạn 45 ngày kể từ ngày nhận được văn bản đề nghị hợp lệ; trường hợp không chấp thuận phải nêu rõ lý do.",
                     "sub_clauses": []
                 }
             ]
@@ -1511,12 +1547,12 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Trước khi tổ chức cuộc lễ ngoài cơ sở tôn giáo, địa điểm hợp pháp đã đăng ký, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo có trách nhiệm gửi văn bản đề nghị đến cơ quan nhà nước có thẩm quyền quy định tại khoản 3 Điều này.",
+                    "text": "Trước khi tổ chức cuộc lễ ngoài cơ sở tôn giáo, địa điểm hợp pháp đã đăng ký, tổ chức tôn giáo, tổ chức tôn giáo trực thuộc, tổ chức được cấp chứng nhận đăng ký hoạt động tôn giáo có trách nhiệm gửi văn bản đề nghị đến cơ quan nhà nước có thẩm quyền quy định tại khoản 3 Điều này. Văn bản đề nghị nêu rõ tên tổ chức đề nghị, tên cuộc lễ, người chủ trì, nội dung, chương trình, thời gian, địa điểm thực hiện, quy mô, thành phần tham dự cuộc lễ.",
                     "sub_clauses": []
                 },
                 {
                     "number": "2",
-                    "text": "Trước khi giảng đạo ngoài địa bàn phụ trách, cơ sở tôn giáo, địa điểm hợp pháp đã đăng ký, chức sắc, chức việc, nhà tu hành có trách nhiệm gửi văn bản đề nghị đến cơ quan nhà nước có thẩm quyền quy định tại khoản 3 Điều này.",
+                    "text": "Trước khi giảng đạo ngoài địa bàn phụ trách, cơ sở tôn giáo, địa điểm hợp pháp đã đăng ký, chức sắc, chức việc, nhà tu hành có trách nhiệm gửi văn bản đề nghị đến cơ quan nhà nước có thẩm quyền quy định tại khoản 3 Điều này. Văn bản đề nghị nêu rõ họ và tên người đề nghị, nội dung, lý do, chương trình, thời gian, địa điểm thực hiện, thành phần tham dự.",
                     "sub_clauses": []
                 },
                 {
@@ -1535,7 +1571,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Cơ quan nhà nước có thẩm quyền nơi tổ chức cuộc lễ, giảng đạo có trách nhiệm hỗ trợ bảo đảm an ninh, trật tự cho cuộc lễ, giảng đạo.",
+                    "text": "Cơ quan nhà nước có thẩm quyền nơi tổ chức cuộc lễ, giảng đạo có trách nhiệm hỗ trợ bảo đảm an ninh, trật tự cho cuộc lễ, giảng đạo. Mục 2. HOẠT ĐỘNG TÔN GIÁO CÓ YẾU TỐ NƯỚC NGOÀI",
                     "sub_clauses": []
                 }
             ]
@@ -1622,7 +1658,7 @@
                 },
                 {
                     "number": "5",
-                    "text": "Nhóm người nước ngoài sinh hoạt tôn giáo tập trung mời chức sắc, nhà tu hành là người nước ngoài đến giảng đạo có trách nhiệm gửi hồ sơ đề nghị theo quy định tại khoản 2 Điều này đến cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương.",
+                    "text": "Nhóm người nước ngoài sinh hoạt tôn giáo tập trung mời chức sắc, nhà tu hành là người nước ngoài đến giảng đạo có trách nhiệm gửi hồ sơ đề nghị theo quy định tại khoản 2 Điều này đến cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương. Cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương có trách nhiệm trả lời bằng văn bản trong thời hạn 45 ngày kể từ ngày nhận đủ hồ sơ hợp lệ; trường hợp không chấp thuận phải nêu rõ lý do.",
                     "sub_clauses": []
                 },
                 {
@@ -1786,7 +1822,7 @@
                 },
                 {
                     "number": "4",
-                    "text": "Khi chấm dứt tham gia tổ chức tôn giáo nước ngoài, tổ chức tôn giáo có trách nhiệm thông báo bằng văn bản đến cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương chậm nhất là 20 ngày kể từ ngày chấm dứt.",
+                    "text": "Khi chấm dứt tham gia tổ chức tôn giáo nước ngoài, tổ chức tôn giáo có trách nhiệm thông báo bằng văn bản đến cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương chậm nhất là 20 ngày kể từ ngày chấm dứt. Văn bản thông báo nêu rõ tên tổ chức tôn giáo, tên tổ chức tôn giáo nước ngoài đã gia nhập, lý do chấm dứt, thời điểm bắt đầu chấm dứt. Mục 3. HOẠT ĐỘNG TRONG LĨNH VỰC XUẤT BẢN, GIÁO DỤC, Y TẾ, BẢO TRỢ XÃ HỘI, TỪ THIỆN, NHÂN ĐẠO",
                     "sub_clauses": []
                 }
             ]
@@ -1794,12 +1830,24 @@
         {
             "id": "Điều 54",
             "title": "Hoạt động xuất bản, sản xuất, xuất khẩu, nhập khẩu văn hóa phẩm",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Được thực hiện hoạt động xuất bản kinh sách và xuất bản phẩm khác về tín ngưỡng, tôn giáo; sản xuất, xuất khẩu, nhập khẩu văn hóa phẩm tín ngưỡng, tôn giáo, đồ dùng tôn giáo theo quy định của pháp luật về xuất bản và quy định khác của pháp luật.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 55",
             "title": "Hoạt động giáo dục, y tế, bảo trợ xã hội, từ thiện, nhân đạo",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Được tham gia các hoạt động giáo dục, đào tạo, y tế, bảo trợ xã hội, từ thiện, nhân đạo theo quy định của pháp luật có liên quan. Chương VII TÀI SẢN CỦA CƠ SỞ TÍN NGƯỠNG, TỔ CHỨC TÔN GIÁO",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 56",
@@ -1835,7 +1883,13 @@
         {
             "id": "Điều 57",
             "title": "Đất cơ sở tín ngưỡng, đất cơ sở tôn giáo",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Đất cơ sở tín ngưỡng, đất cơ sở tôn giáo được quản lý và sử dụng theo quy định của pháp luật về đất đai.",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 58",
@@ -1861,7 +1915,13 @@
         {
             "id": "Điều 59",
             "title": "Di dời công trình tín ngưỡng, công trình tôn giáo",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Việc di dời công trình tín ngưỡng, công trình tôn giáo vì mục đích quốc phòng, an ninh, phát triển kinh tế - xã hội, vì lợi ích quốc gia, công cộng thực hiện theo quy định của pháp luật về đất đai và pháp luật về xây dựng. Chương VIII QUẢN LÝ NHÀ NƯỚC VÀ XỬ LÝ VI PHẠM PHÁP LUẬT TRONG LĨNH VỰC TÍN NGƯỠNG, TÔN GIÁO Mục 1. QUẢN LÝ NHÀ NƯỚC VỀ TÍN NGƯỠNG, TÔN GIÁO",
+                    "sub_clauses": []
+                }
+            ]
         },
         {
             "id": "Điều 60",
@@ -1920,7 +1980,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Bộ, cơ quan ngang bộ, Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về tín ngưỡng, tôn giáo.",
+                    "text": "Bộ, cơ quan ngang bộ, Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về tín ngưỡng, tôn giáo. Đối với huyện không có đơn vị hành chính xã, thị trấn thì Ủy ban nhân dân huyện đồng thời thực hiện nhiệm vụ, quyền hạn của Ủy ban nhân dân cấp xã quy định tại Luật này.",
                     "sub_clauses": []
                 }
             ]
@@ -1931,7 +1991,7 @@
             "content": [
                 {
                     "number": "1",
-                    "text": "Thanh tra chuyên ngành về tín ngưỡng, tôn giáo là hoạt động thanh tra của cơ quan nhà nước có thẩm quyền đối với cơ quan, tổ chức, cá nhân trong việc chấp hành pháp luật về tín ngưỡng, tôn giáo.",
+                    "text": "Thanh tra chuyên ngành về tín ngưỡng, tôn giáo là hoạt động thanh tra của cơ quan nhà nước có thẩm quyền đối với cơ quan, tổ chức, cá nhân trong việc chấp hành pháp luật về tín ngưỡng, tôn giáo. Cơ quan quản lý nhà nước về tín ngưỡng, tôn giáo ở trung ương chịu trách nhiệm chỉ đạo, tổ chức thực hiện thanh tra chuyên ngành về tín ngưỡng, tôn giáo trong phạm vi cả nước.",
                     "sub_clauses": []
                 },
                 {
@@ -1961,7 +2021,7 @@
                 },
                 {
                     "number": "2",
-                    "text": "Cá nhân có quyền tố cáo hành vi vi phạm pháp luật về tín ngưỡng, tôn giáo. Việc giải quyết tố cáo vi phạm pháp luật về tín ngưỡng, tôn giáo thực hiện theo quy định của pháp luật về tố cáo.",
+                    "text": "Cá nhân có quyền tố cáo hành vi vi phạm pháp luật về tín ngưỡng, tôn giáo. Việc giải quyết tố cáo vi phạm pháp luật về tín ngưỡng, tôn giáo thực hiện theo quy định của pháp luật về tố cáo. Mục 2. XỬ LÝ VI PHẠM PHÁP LUẬT TRONG LĨNH VỰC TÍN NGƯỠNG, TÔN GIÁO",
                     "sub_clauses": []
                 }
             ]
@@ -1987,6 +2047,11 @@
             "title": "Xử lý cán bộ, công chức vi phạm pháp luật về tín ngưỡng, tôn giáo khi thi hành công vụ",
             "content": [
                 {
+                    "number": "0",
+                    "text": "Cán bộ, công chức có hành vi vi phạm pháp luật về tín ngưỡng, tôn giáo khi thi hành công vụ thì tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật đối với hành vi vi phạm sau đây:",
+                    "sub_clauses": []
+                },
+                {
                     "number": "1",
                     "text": "Lợi dụng chức vụ, quyền hạn làm trái quy định của Luật này và pháp luật có liên quan;",
                     "sub_clauses": []
@@ -1998,7 +2063,7 @@
                 },
                 {
                     "number": "3",
-                    "text": "Vi phạm quy định về trình tự, thủ tục hành chính trong quản lý nhà nước đối với hoạt động tín ngưỡng, hoạt động tôn giáo.",
+                    "text": "Vi phạm quy định về trình tự, thủ tục hành chính trong quản lý nhà nước đối với hoạt động tín ngưỡng, hoạt động tôn giáo. Chương IX ĐIỀU KHOẢN THI HÀNH",
                     "sub_clauses": []
                 }
             ]
@@ -2058,8 +2123,18 @@
         {
             "id": "Điều 68",
             "title": "Quy định chi tiết",
-            "content": []
+            "content": [
+                {
+                    "number": "0",
+                    "text": "Chính phủ quy định chi tiết các điều, khoản được giao trong Luật. Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 2 thông qua ngày 18 tháng 11 năm 2016. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân",
+                    "sub_clauses": []
+                }
+            ]
         }
     ],
-    "footer": []
+    "footer": [
+        "Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 2 thông qua ngày 18 tháng 11 năm 2016.",
+        "CHỦ TỊCH QUỐC HỘI",
+        "Nguyễn Thị Kim Ngân"
+    ]
 }

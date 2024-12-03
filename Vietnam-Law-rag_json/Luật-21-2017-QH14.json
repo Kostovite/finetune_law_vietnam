@@ -1,5 +1,26 @@
 [
     {
+        "id": "Điều 1.0",
+        "article": "Điều 1",
+        "clause": "0",
+        "title": "Phạm vi điều chỉnh",
+        "text": "Luật này quy định việc lập, thẩm định, quyết định hoặc phê duyệt, công bố, thực hiện, đánh giá, điều chỉnh quy hoạch trong hệ thống quy hoạch quốc gia; trách nhiệm quản lý nhà nước về quy hoạch."
+    },
+    {
+        "id": "Điều 2.0",
+        "article": "Điều 2",
+        "clause": "0",
+        "title": "Đối tượng áp dụng",
+        "text": "Luật này áp dụng đối với cơ quan, tổ chức, cá nhân tham gia lập, thẩm định, quyết định hoặc phê duyệt, công bố, thực hiện, đánh giá, điều chỉnh quy hoạch trong hệ thống quy hoạch quốc gia và cơ quan, tổ chức, cá nhân khác có liên quan."
+    },
+    {
+        "id": "Điều 3.0",
+        "article": "Điều 3",
+        "clause": "0",
+        "title": "Giải thích từ ngữ",
+        "text": "Trong Luật này, các từ ngữ dưới đây được hiểu như sau:"
+    },
+    {
         "id": "Điều 3.1",
         "article": "Điều 3",
         "clause": "1",
@@ -1617,6 +1638,13 @@
         "text": "Chính phủ quy định chi tiết nội dung quy hoạch tỉnh tại khoản 2 Điều này; quy định việc tích hợp quy hoạch vào quy hoạch tỉnh. Việc lập, thẩm định, phê duyệt và điều chỉnh quy hoạch có tính chất kỹ thuật, chuyên ngành để triển khai các nội dung quy định tại khoản 2 Điều này được thực hiện theo quy định của pháp luật có liên quan."
     },
     {
+        "id": "Điều 28.0",
+        "article": "Điều 28",
+        "clause": "0",
+        "title": "Nội dung quy hoạch đô thị, quy hoạch nông thôn",
+        "text": "Nội dung quy hoạch đô thị, quy hoạch nông thôn và việc lập, thẩm định, phê duyệt, thực hiện, điều chỉnh quy hoạch đô thị, quy hoạch nông thôn thực hiện theo quy định của pháp luật về quy hoạch đô thị và pháp luật về xây dựng. Việc công bố, công khai quy hoạch đô thị, quy hoạch nông thôn thực hiện theo quy định của Luật này, pháp luật về quy hoạch đô thị và pháp luật về xây dựng. Chương III THẨM ĐỊNH, QUYẾT ĐỊNH HOẶC PHÊ DUYỆT, CÔNG BỐ VÀ CUNG CẤP THÔNG TIN QUY HOẠCH Mục 1. THẨM ĐỊNH QUY HOẠCH"
+    },
+    {
         "id": "Điều 29.1",
         "article": "Điều 29",
         "clause": "1",
@@ -1715,6 +1743,13 @@
         "text": "Hội đồng thẩm định quy hoạch chỉ tổ chức thẩm định khi nhận đủ hồ sơ quy định tại khoản 1 Điều này. Trường hợp cần thiết, Hội đồng thẩm định có quyền yêu cầu cơ quan trình thẩm định quy hoạch cung cấp thêm thông tin, giải trình về các nội dung liên quan."
     },
     {
+        "id": "Điều 32.0",
+        "article": "Điều 32",
+        "clause": "0",
+        "title": "Nội dung thẩm định quy hoạch",
+        "text": "Nội dung thẩm định quy hoạch tập trung vào các vấn đề sau đây:"
+    },
+    {
         "id": "Điều 32.1",
         "article": "Điều 32",
         "clause": "1",
@@ -1776,6 +1811,13 @@
         "clause": "2",
         "title": "Thẩm quyền quyết định hoặc phê duyệt quy hoạch",
         "text": "Thủ tướng Chính phủ phê duyệt quy hoạch ngành quốc gia, quy hoạch vùng, quy hoạch tỉnh. Đối với quy hoạch Thủ đô, Thủ tướng Chính phủ phê duyệt sau khi có ý kiến của Quốc hội."
+    },
+    {
+        "id": "Điều 35.0",
+        "article": "Điều 35",
+        "clause": "0",
+        "title": "Hồ sơ trình quyết định hoặc phê duyệt quy hoạch",
+        "text": "Hồ sơ trình quyết định hoặc phê duyệt quy hoạch bao gồm các tài liệu chủ yếu sau đây:"
     },
     {
         "id": "Điều 35.1",
@@ -1881,6 +1923,13 @@
         "clause": "4",
         "title": "Trình tự, thủ tục quyết định quy hoạch tổng thể quốc gia, quy hoạch không gian biển quốc gia, quy hoạch sử dụng đất quốc gia",
         "text": "Quốc hội xem xét, thông qua nghị quyết về quy hoạch tổng thể quốc gia, quy hoạch không gian biển quốc gia, quy hoạch sử dụng đất quốc gia."
+    },
+    {
+        "id": "Điều 37.0",
+        "article": "Điều 37",
+        "clause": "0",
+        "title": "Nội dung quyết định hoặc phê duyệt quy hoạch",
+        "text": "Nội dung quyết định hoặc phê duyệt quy hoạch bao gồm các nội dung chủ yếu quy định tại khoản 2 Điều 22, khoản 2 Điều 23, khoản 2 Điều 24, các khoản 3, 4, 5 và 6 Điều 25, khoản 2 Điều 26 và khoản 2 Điều 27 của Luật này tương ứng với từng loại quy hoạch. Mục 3. CÔNG BỐ VÀ CUNG CẤP THÔNG TIN QUY HOẠCH"
     },
     {
         "id": "Điều 38.1",
@@ -2170,6 +2219,13 @@
         "text": "Xác định các nguồn lực và việc sử dụng nguồn lực để thực hiện quy hoạch."
     },
     {
+        "id": "Điều 46.0",
+        "article": "Điều 46",
+        "clause": "0",
+        "title": "Chính sách, giải pháp thực hiện quy hoạch",
+        "text": "Chính sách, giải pháp thực hiện quy hoạch được ban hành phù hợp với kế hoạch thực hiện quy hoạch bao gồm các nội dung chủ yếu sau đây:"
+    },
+    {
         "id": "Điều 46.1",
         "article": "Điều 46",
         "clause": "1",
@@ -2364,6 +2420,13 @@
         "clause": "3",
         "title": "Rà soát quy hoạch",
         "text": "Kết quả rà soát quy hoạch phải được báo cáo bằng văn bản với cơ quan có thẩm quyền quyết định hoặc phê duyệt quy hoạch."
+    },
+    {
+        "id": "Điều 53.0",
+        "article": "Điều 53",
+        "clause": "0",
+        "title": "Căn cứ điều chỉnh quy hoạch",
+        "text": "Việc điều chỉnh quy hoạch được thực hiện khi có một trong các căn cứ sau đây:"
     },
     {
         "id": "Điều 53.1",
@@ -2595,6 +2658,13 @@
         "clause": "6b",
         "title": "Trách nhiệm quản lý nhà nước về quy hoạch của Chính phủ, Bộ, cơ quan ngang Bộ",
         "text": "Ban hành quy định về giá trong hoạt động quy hoạch."
+    },
+    {
+        "id": "Điều 56.0",
+        "article": "Điều 56",
+        "clause": "0",
+        "title": "Trách nhiệm quản lý nhà nước về quy hoạch của Ủy ban nhân dân cấp tỉnh",
+        "text": "Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về quy hoạch tại địa phương và có nhiệm vụ, quyền hạn sau đây:"
     },
     {
         "id": "Điều 56.1",
@@ -3014,6 +3084,727 @@
         "article": "Điều 59",
         "clause": "5",
         "title": "Quy định chuyển tiếp",
-        "text": "Chính phủ rà soát, trình Quốc hội sửa đổi, bổ sung các quy định liên quan đến quy hoạch trong các bộ luật, luật thuộc danh mục quy định tại Phụ lục 3 của Luật này và các văn bản quy phạm pháp luật khác bảo đảm phù hợp với Luật Quy hoạch và có hiệu lực thi hành chậm nhất là ngày 01 tháng 01 năm 2019. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 4 thông qua ngày 24 tháng 11 năm 2017."
+        "text": "Chính phủ rà soát, trình Quốc hội sửa đổi, bổ sung các quy định liên quan đến quy hoạch trong các bộ luật, luật thuộc danh mục quy định tại Phụ lục 3 của Luật này và các văn bản quy phạm pháp luật khác bảo đảm phù hợp với Luật Quy hoạch và có hiệu lực thi hành chậm nhất là ngày 01 tháng 01 năm 2019. Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 4 thông qua ngày 24 tháng 11 năm 2017. CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân PHỤ LỤC (Ban hành kèm theo Luật Quy hoạch số 21/2017/QH14) PHỤ LỤC I DANH MỤC CÁC QUY HOẠCH NGÀNH QUỐC GIA TT TÊN QUY HOẠCH I KẾT CẤU HẠ TẦNG"
+    },
+    {
+        "id": "Điều 59.1.",
+        "article": "Điều 59",
+        "clause": "1.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch mạng lưới đường bộ"
+    },
+    {
+        "id": "Điều 59.2.",
+        "article": "Điều 59",
+        "clause": "2.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch mạng lưới đường sắt"
+    },
+    {
+        "id": "Điều 59.3.",
+        "article": "Điều 59",
+        "clause": "3.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch tổng thể phát triển hệ thống cảng biển"
+    },
+    {
+        "id": "Điều 59.4.",
+        "article": "Điều 59",
+        "clause": "4.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch tổng thể phát triển hệ thống cảng hàng không, sân bay toàn quốc"
+    },
+    {
+        "id": "Điều 59.5.",
+        "article": "Điều 59",
+        "clause": "5.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch kết cấu hạ tầng đường thủy nội địa"
+    },
+    {
+        "id": "Điều 59.6.",
+        "article": "Điều 59",
+        "clause": "6.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch mạng lưới trạm khí tượng thủy văn quốc gia"
+    },
+    {
+        "id": "Điều 59.7.",
+        "article": "Điều 59",
+        "clause": "7.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch tổng thể về năng lượng"
+    },
+    {
+        "id": "Điều 59.8.",
+        "article": "Điều 59",
+        "clause": "8.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch phát triển điện lực"
+    },
+    {
+        "id": "Điều 59.9.",
+        "article": "Điều 59",
+        "clause": "9.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch hạ tầng dự trữ, cung ứng xăng dầu, khí đốt"
+    },
+    {
+        "id": "Điều 59.10.",
+        "article": "Điều 59",
+        "clause": "10.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch hạ tầng thông tin và truyền thông"
+    },
+    {
+        "id": "Điều 59.11.",
+        "article": "Điều 59",
+        "clause": "11.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch phát triển mạng lưới cơ sở báo chí, phát thanh, truyền hình, thông tin điện tử, cơ sở xuất bản"
+    },
+    {
+        "id": "Điều 59.12.",
+        "article": "Điều 59",
+        "clause": "12.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch phòng, chống thiên tai và thủy lợi"
+    },
+    {
+        "id": "Điều 59.13.",
+        "article": "Điều 59",
+        "clause": "13.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch hệ thống du lịch"
+    },
+    {
+        "id": "Điều 59.14.",
+        "article": "Điều 59",
+        "clause": "14.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch mạng lưới cơ sở văn hóa và thể thao"
+    },
+    {
+        "id": "Điều 59.15.",
+        "article": "Điều 59",
+        "clause": "15.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch mạng lưới tổ chức khoa học và công nghệ công lập"
+    },
+    {
+        "id": "Điều 59.16.",
+        "article": "Điều 59",
+        "clause": "16.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch mạng lưới cơ sở giáo dục đại học và sư phạm"
+    },
+    {
+        "id": "Điều 59.17.",
+        "article": "Điều 59",
+        "clause": "17.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch hệ thống cơ sở giáo dục chuyên biệt đối với người khuyết tật và hệ thống trung tâm hỗ trợ phát triển giáo dục hòa nhập"
+    },
+    {
+        "id": "Điều 59.18.",
+        "article": "Điều 59",
+        "clause": "18.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp"
+    },
+    {
+        "id": "Điều 59.19.",
+        "article": "Điều 59",
+        "clause": "19.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch mạng lưới cơ sở trợ giúp xã hội"
+    },
+    {
+        "id": "Điều 59.20.",
+        "article": "Điều 59",
+        "clause": "20.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch hệ thống cơ sở xã hội nuôi dưỡng, điều dưỡng người có công với cách mạng"
+    },
+    {
+        "id": "Điều 59.21.",
+        "article": "Điều 59",
+        "clause": "21.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch hệ thống cảng cá, khu neo đậu tránh trú bão cho tàu cá"
+    },
+    {
+        "id": "Điều 59.22.",
+        "article": "Điều 59",
+        "clause": "22.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch mạng lưới cơ sở y tế"
+    },
+    {
+        "id": "Điều 59.23.",
+        "article": "Điều 59",
+        "clause": "23.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch tổng thể hệ thống kho dự trữ quốc gia"
+    },
+    {
+        "id": "Điều 59.24.",
+        "article": "Điều 59",
+        "clause": "24.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch hệ thống các công trình quốc phòng, khu quân sự, kho đạn dược, công nghiệp quốc phòng"
+    },
+    {
+        "id": "Điều 59.25.",
+        "article": "Điều 59",
+        "clause": "25.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch hạ tầng phòng cháy và chữa cháy"
+    },
+    {
+        "id": "Điều 59.26.",
+        "article": "Điều 59",
+        "clause": "26.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch hệ thống đô thị và nông thôn"
+    },
+    {
+        "id": "Điều 59.27.",
+        "article": "Điều 59",
+        "clause": "27.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch hệ thống trung tâm giáo dục quốc phòng và an ninh II SỬ DỤNG TÀI NGUYÊN"
+    },
+    {
+        "id": "Điều 59.28.",
+        "article": "Điều 59",
+        "clause": "28.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch tổng thể khai thác, sử dụng bền vững tài nguyên vùng bờ"
+    },
+    {
+        "id": "Điều 59.29.",
+        "article": "Điều 59",
+        "clause": "29.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch điều tra cơ bản địa chất về khoáng sản"
+    },
+    {
+        "id": "Điều 59.30.",
+        "article": "Điều 59",
+        "clause": "30.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch tài nguyên nước"
+    },
+    {
+        "id": "Điều 59.31.",
+        "article": "Điều 59",
+        "clause": "31.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch thăm dò, khai thác, chế biến và sử dụng quặng phóng xạ"
+    },
+    {
+        "id": "Điều 59.32.",
+        "article": "Điều 59",
+        "clause": "32.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch thăm dò, khai thác, chế biến và sử dụng các loại khoáng sản"
+    },
+    {
+        "id": "Điều 59.33.",
+        "article": "Điều 59",
+        "clause": "33.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch thăm dò, khai thác, chế biến và sử dụng các loại khoáng sản làm vật liệu xây dựng"
+    },
+    {
+        "id": "Điều 59.34.",
+        "article": "Điều 59",
+        "clause": "34.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch lâm nghiệp"
+    },
+    {
+        "id": "Điều 59.35.",
+        "article": "Điều 59",
+        "clause": "35.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch bảo vệ và khai thác nguồn lợi thủy sản"
+    },
+    {
+        "id": "Điều 59.36.",
+        "article": "Điều 59",
+        "clause": "36.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch sử dụng đất quốc phòng"
+    },
+    {
+        "id": "Điều 59.37.",
+        "article": "Điều 59",
+        "clause": "37.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch sử dụng đất an ninh III BẢO VỆ MÔI TRƯỜNG"
+    },
+    {
+        "id": "Điều 59.38.",
+        "article": "Điều 59",
+        "clause": "38.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch bảo vệ môi trường IV BẢO TỒN ĐA DẠNG SINH HỌC"
+    },
+    {
+        "id": "Điều 59.39.",
+        "article": "Điều 59",
+        "clause": "39.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch tổng thể bảo tồn đa dạng sinh học PHỤ LỤC II DANH MỤC CÁC QUY HOẠCH CÓ TÍNH CHẤT KỸ THUẬT, CHUYÊN NGÀNH STT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH"
+    },
+    {
+        "id": "Điều 59.1.",
+        "article": "Điều 59",
+        "clause": "1.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch sử dụng đất cấp huyện Luật Đất đai số 45/2013/QH13"
+    },
+    {
+        "id": "Điều 59.2.",
+        "article": "Điều 59",
+        "clause": "2.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch tổng thể quan trắc môi trường quốc gia Luật Bảo vệ môi trường số 55/2014/QH13"
+    },
+    {
+        "id": "Điều 59.3.",
+        "article": "Điều 59",
+        "clause": "3.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch tổng hợp lưu vực sông liên tỉnh, nguồn nước liên tỉnh Luật Tài nguyên nước số 17/2012/QH13"
+    },
+    {
+        "id": "Điều 59.4.",
+        "article": "Điều 59",
+        "clause": "4.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch bảo vệ, khai thác, sử dụng nguồn nước liên quốc gia Luật Tài nguyên nước số 17/2012/QH13"
+    },
+    {
+        "id": "Điều 59.5.",
+        "article": "Điều 59",
+        "clause": "5.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch tổng thể điều tra cơ bản tài nguyên nước Luật Tài nguyên nước số 17/2012/QH13"
+    },
+    {
+        "id": "Điều 59.6.",
+        "article": "Điều 59",
+        "clause": "6.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch vùng không nhiễm sinh vật gây hại Luật Bảo vệ và kiểm dịch thực vật số 41/2013/QH13"
+    },
+    {
+        "id": "Điều 59.7.",
+        "article": "Điều 59",
+        "clause": "7.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch thủy lợi Luật Thủy lợi số 08/2017/QH14"
+    },
+    {
+        "id": "Điều 59.8.",
+        "article": "Điều 59",
+        "clause": "8.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch phòng, chống lũ của tuyến sông có đê Luật Đê điều số 79/2006/QH11"
+    },
+    {
+        "id": "Điều 59.9.",
+        "article": "Điều 59",
+        "clause": "9.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch đê điều Luật Đê điều số 79/2006/QH11"
+    },
+    {
+        "id": "Điều 59.10.",
+        "article": "Điều 59",
+        "clause": "10.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch vùng dân cư và tổ chức sản xuất thích ứng với thiên tai Luật Phòng, chống thiên tai số 33/2013/QH13"
+    },
+    {
+        "id": "Điều 59.11.",
+        "article": "Điều 59",
+        "clause": "11.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch xây dựng Luật Xây dựng số 50/2014/QH13"
+    },
+    {
+        "id": "Điều 59.12.",
+        "article": "Điều 59",
+        "clause": "12.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch bảo quản, tu bổ, phục hồi di tích Luật Di sản văn hóa số 28/2001/QH10 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật Di sản văn hóa số 32/2009/QH12"
+    },
+    {
+        "id": "Điều 59.13.",
+        "article": "Điều 59",
+        "clause": "13.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch khảo cổ Luật Di sản văn hóa số 28/2001/QH10 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật Di sản văn hóa số 32/2009/QH12"
+    },
+    {
+        "id": "Điều 59.14.",
+        "article": "Điều 59",
+        "clause": "14.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch hệ thống cơ sở chỉnh hình, phục hồi chức năng và cơ sở chăm sóc người khuyết tật Luật Người khuyết tật số 51/2010/QH12"
+    },
+    {
+        "id": "Điều 59.15.",
+        "article": "Điều 59",
+        "clause": "15.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch cơ sở chăm sóc người cao tuổi Luật Người cao tuổi số 39/2009/QH12"
+    },
+    {
+        "id": "Điều 59.16.",
+        "article": "Điều 59",
+        "clause": "16.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch mạng lưới cơ sở giáo dục đại học Luật Giáo dục đại học số 08/2012/QH13"
+    },
+    {
+        "id": "Điều 59.17.",
+        "article": "Điều 59",
+        "clause": "17.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp cấp tỉnh, của Bộ, cơ quan ngang Bộ Luật Giáo dục nghề nghiệp số 74/2014/QH13"
+    },
+    {
+        "id": "Điều 59.18.",
+        "article": "Điều 59",
+        "clause": "18.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch cửa khẩu; quy hoạch tuyến, ga đường sắt; quy hoạch cảng hàng không, sân bay Luật Biên giới quốc gia số 06/2003/QH11; Luật Đường sắt số 06/2017/QH14; Luật Hàng không dân dụng Việt Nam số 66/2006/QH11 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật hàng không dân dụng Việt Nam số 61/2014/QH13"
+    },
+    {
+        "id": "Điều 59.19.",
+        "article": "Điều 59",
+        "clause": "19.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch vùng thông báo bay Luật Hàng không dân dụng Việt Nam số 66/2006/QH11 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật hàng không dân dụng Việt Nam số 61/2014/QH13"
+    },
+    {
+        "id": "Điều 59.20.",
+        "article": "Điều 59",
+        "clause": "20.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch chi tiết nhóm cảng biển, bến cảng, cầu cảng, bến phao, khu nước, vùng nước Bộ luật Hàng hải Việt Nam số 95/2015/QH13"
+    },
+    {
+        "id": "Điều 59.21.",
+        "article": "Điều 59",
+        "clause": "21.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch chi tiết phát triển vùng đất, vùng nước cảng biển Bộ luật Hàng hải Việt Nam số 95/2015/QH13"
+    },
+    {
+        "id": "Điều 59.22.",
+        "article": "Điều 59",
+        "clause": "22.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch phát triển hệ thống cảng cạn Bộ luật Hàng hải Việt Nam số 95/2015/QH13"
+    },
+    {
+        "id": "Điều 59.23.",
+        "article": "Điều 59",
+        "clause": "23.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch kết cấu hạ tầng giao thông đường bộ Luật Giao thông đường bộ số 23/2008/QH12"
+    },
+    {
+        "id": "Điều 59.24.",
+        "article": "Điều 59",
+        "clause": "24.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch phát triển, ứng dụng năng lượng nguyên tử Luật Năng lượng nguyên tử số 18/2008/QH12"
+    },
+    {
+        "id": "Điều 59.25.",
+        "article": "Điều 59",
+        "clause": "25.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch phát triển điện hạt nhân Luật Năng lượng nguyên tử số 18/2008/QH12"
+    },
+    {
+        "id": "Điều 59.26.",
+        "article": "Điều 59",
+        "clause": "26.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch hệ thống cơ sở khám bệnh, chữa bệnh Luật Khám bệnh, chữa bệnh số 40/2009/QH12"
+    },
+    {
+        "id": "Điều 59.27.",
+        "article": "Điều 59",
+        "clause": "27.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch phát triển viễn thông quốc gia Luật Viễn thông số 41/2009/QH12"
+    },
+    {
+        "id": "Điều 59.28.",
+        "article": "Điều 59",
+        "clause": "28.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch kho số viễn thông Luật Viễn thông số 41/2009/QH12"
+    },
+    {
+        "id": "Điều 59.29.",
+        "article": "Điều 59",
+        "clause": "29.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch tài nguyên Internet Luật Viễn thông số 41/2009/QH12"
+    },
+    {
+        "id": "Điều 59.30.",
+        "article": "Điều 59",
+        "clause": "30.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch hạ tầng kỹ thuật viễn thông thụ động Luật Viễn thông số 41/2009/QH12"
+    },
+    {
+        "id": "Điều 59.31.",
+        "article": "Điều 59",
+        "clause": "31.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch tần số vô tuyến điện Luật Tần số vô tuyến điện số 42/2009/QH12"
+    },
+    {
+        "id": "Điều 59.32.",
+        "article": "Điều 59",
+        "clause": "32.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch phát triển mạng bưu chính công cộng Luật Bưu chính số 49/2010/QH12"
+    },
+    {
+        "id": "Điều 59.33.",
+        "article": "Điều 59",
+        "clause": "33.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch chi tiết mạng lưới kho dự trữ quốc gia Luật Dự trữ quốc gia số 22/2012/QH13"
+    },
+    {
+        "id": "Điều 59.34.",
+        "article": "Điều 59",
+        "clause": "34.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch các công trình quốc phòng, khu quân sự Luật Quốc phòng số 39/2005/QH11"
+    },
+    {
+        "id": "Điều 59.35.",
+        "article": "Điều 59",
+        "clause": "35.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch sử dụng biển của cả nước Luật Biển Việt Nam số 18/2012/QH13"
+    },
+    {
+        "id": "Điều 59.36.",
+        "article": "Điều 59",
+        "clause": "36.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch quảng cáo ngoài trời Luật Quảng cáo số 16/2012/QH13"
+    },
+    {
+        "id": "Điều 59.37.",
+        "article": "Điều 59",
+        "clause": "37.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch vùng và cơ sở an toàn dịch bệnh động vật Luật Thú y số 79/2015/QH13"
+    },
+    {
+        "id": "Điều 59.38.",
+        "article": "Điều 59",
+        "clause": "38.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch hệ thống kiểm nghiệm của Nhà nước Luật Dược số 105/2016/QH13"
+    },
+    {
+        "id": "Điều 59.39.",
+        "article": "Điều 59",
+        "clause": "39.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Quy hoạch khác có tính chất kỹ thuật, chuyên ngành để tích hợp vào hệ thống quy hoạch quốc gia PHỤ LỤC III DANH MỤC CÁC BỘ LUẬT, LUẬT CÓ QUY ĐỊNH LIÊN QUAN ĐẾN QUY HOẠCH CẦN SỬA ĐỔI, BỔ SUNG TT TÊN BỘ LUẬT, LUẬT CÁC ĐIỂM, KHOẢN, ĐIỀU CẦN SỬA ĐỔI, BỔ SUNG"
+    },
+    {
+        "id": "Điều 59.1.",
+        "article": "Điều 59",
+        "clause": "1.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Bộ luật Hàng hải Việt Nam số 95/2015/QH13 Khoản 2 Điều 7, khoản 12 Điều 12, Điều 44, Điều 46, khoản 1 Điều 48, Điều 81, điểm a và điểm b khoản 1 Điều 82, khoản 1 Điều 88, khoản 1 Điều 92, điểm đ khoản 1 Điều 126"
+    },
+    {
+        "id": "Điều 59.2.",
+        "article": "Điều 59",
+        "clause": "2.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Luật Giao thông đường thủy nội địa số 23/2004/QH11 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật Giao thông đường thủy nội địa số 48/2014/QH13 Khoản 1 Điều 3, Điều 10, khoản 3 Điều 13, khoản 4 Điều 99, khoản 2 Điều 100"
+    },
+    {
+        "id": "Điều 59.3.",
+        "article": "Điều 59",
+        "clause": "3.",
+        "title": "Quy định chuyển tiếp",
+        "text": " Luật Giao thông đường bộ số 23/2008/QH12"
+    },
+    {
+        "id": "Điều 6, khoản 2 Điều 46, khoản 3 Điều 64, khoản 1 Điều 84.4.",
+        "article": "Điều 6, khoản 2 Điều 46, khoản 3 Điều 64, khoản 1 Điều 84",
+        "clause": "4.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Hóa chất số 06/2007/QH12"
+    },
+    {
+        "id": "Điều 8, Điều 9, khoản 3 Điều 49.5.",
+        "article": "Điều 8, Điều 9, khoản 3 Điều 49",
+        "clause": "5.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Đa dạng sinh học số 20/2008/QH12"
+    },
+    {
+        "id": "Điều 8, Điều 10, Điều 11, Điều 12, Điều 13, Điều 14, Điều 15, khoản 1 Điều 24.6.",
+        "article": "Điều 8, Điều 10, Điều 11, Điều 12, Điều 13, Điều 14, Điều 15, khoản 1 Điều 24",
+        "clause": "6.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Phòng, chống tác hại của thuốc lá số 09/2012/QH13 Khoản 3 Điều 4, Điều 20, khoản 1 Điều 21"
+    },
+    {
+        "id": "Điều 8, Điều 10, Điều 11, Điều 12, Điều 13, Điều 14, Điều 15, khoản 1 Điều 24.7.",
+        "article": "Điều 8, Điều 10, Điều 11, Điều 12, Điều 13, Điều 14, Điều 15, khoản 1 Điều 24",
+        "clause": "7.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Bảo vệ môi trường số 55/2014/QH13 Khoản 21 Điều 3, Điều 8, Điều 9, khoản 2 Điều 10, Điều 11, Điều 12, khoản 1 Điều 13, Điều 40, khoản 1 và khoản 5 Điều 49, khoản 1 Điều 52, Điều 94, Điều 98, điểm a khoản 3 Điều 142"
+    },
+    {
+        "id": "Điều 8, Điều 10, Điều 11, Điều 12, Điều 13, Điều 14, Điều 15, khoản 1 Điều 24.8.",
+        "article": "Điều 8, Điều 10, Điều 11, Điều 12, Điều 13, Điều 14, Điều 15, khoản 1 Điều 24",
+        "clause": "8.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Tài nguyên, môi trường biển và hải đảo số 82/2015/QH13"
+    },
+    {
+        "id": "Điều 26, Điều 27, Điều 28, Điều 29, Điều 30, Điều 31, Điều 32.9.",
+        "article": "Điều 26, Điều 27, Điều 28, Điều 29, Điều 30, Điều 31, Điều 32",
+        "clause": "9.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Đất đai số 45/2013/QH13"
+    },
+    {
+        "id": "Điều 35, khoản 1 và khoản 2 Điều 38, khoản 1 Điều 39, khoản 1 Điều 40, Điều 41, Điều 42, Điều 43, Điều 44, Điều 45, Điều 46, Điều 48, khoản 1 Điều 151.10.",
+        "article": "Điều 35, khoản 1 và khoản 2 Điều 38, khoản 1 Điều 39, khoản 1 Điều 40, Điều 41, Điều 42, Điều 43, Điều 44, Điều 45, Điều 46, Điều 48, khoản 1 Điều 151",
+        "clause": "10.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Khoáng sản số 60/2010/QH12 Khoản 1 và khoản 3 Điều 3, khoản 1 Điều 4, Điều 10, khoản 1 Điều 11, Điều 12, Điều 13, Điều 14, Điều 15, khoản 1 Điều 26, điểm b khoản 2 Điều 40, điểm b khoản 1 Điều 47, điểm a khoản 2 Điều 53, điểm b khoản 2 và khoản 3 Điều 80, điểm c khoản 1 Điều 81"
+    },
+    {
+        "id": "Điều 35, khoản 1 và khoản 2 Điều 38, khoản 1 Điều 39, khoản 1 Điều 40, Điều 41, Điều 42, Điều 43, Điều 44, Điều 45, Điều 46, Điều 48, khoản 1 Điều 151.11.",
+        "article": "Điều 35, khoản 1 và khoản 2 Điều 38, khoản 1 Điều 39, khoản 1 Điều 40, Điều 41, Điều 42, Điều 43, Điều 44, Điều 45, Điều 46, Điều 48, khoản 1 Điều 151",
+        "clause": "11.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Tài nguyên nước số 17/2012/QH13 Khoản 2 Điều 10, Điều 11, điểm a khoản 1 Điều 14, Điều 15, Điều 16, Điều 17, Điều 18, Điều 20, Điều 21, Điều 22, Điều 24, khoản 3 Điều 50, điểm b khoản 1 Điều 55, điểm a và điểm b khoản 2 Điều 70"
+    },
+    {
+        "id": "Điều 35, khoản 1 và khoản 2 Điều 38, khoản 1 Điều 39, khoản 1 Điều 40, Điều 41, Điều 42, Điều 43, Điều 44, Điều 45, Điều 46, Điều 48, khoản 1 Điều 151.12.",
+        "article": "Điều 35, khoản 1 và khoản 2 Điều 38, khoản 1 Điều 39, khoản 1 Điều 40, Điều 41, Điều 42, Điều 43, Điều 44, Điều 45, Điều 46, Điều 48, khoản 1 Điều 151",
+        "clause": "12.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Khí tượng thủy văn số 90/2015/QH13"
+    },
+    {
+        "id": "Điều 11.13.",
+        "article": "Điều 11",
+        "clause": "13.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Điện lực số 28/2004/QH11 đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Luật điện lực số 24/2012/QH13"
+    },
+    {
+        "id": "Điều 8, Điều 8a, Điều 9, Điều 10.14.",
+        "article": "Điều 8, Điều 8a, Điều 9, Điều 10",
+        "clause": "14.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Khoa học và công nghệ số 29/2013/QH13"
+    },
+    {
+        "id": "Điều 10, khoản 2 và khoản 3 Điều 67.15.",
+        "article": "Điều 10, khoản 2 và khoản 3 Điều 67",
+        "clause": "15.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Giáo dục đại học số 08/2012/QH13"
+    },
+    {
+        "id": "Điều 11, điểm a khoản 1 Điều 22.16.",
+        "article": "Điều 11, điểm a khoản 1 Điều 22",
+        "clause": "16.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Xây dựng số 50/2014/QH13 Điểm a khoản 1 và điểm a khoản 2 Điều 14, Điều 16, Điều 20, khoản 5 Điều 34, Điều 35, Điều 40, Điều 41, Điều 42, Điều 43"
+    },
+    {
+        "id": "Điều 11, điểm a khoản 1 Điều 22.17.",
+        "article": "Điều 11, điểm a khoản 1 Điều 22",
+        "clause": "17.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Quy hoạch đô thị số 30/2009/QH12 Khoản 2 Điều 17, khoản 1 Điều 24, khoản 1 Điều 47, Điều 53, Điều 54, Điều 55"
+    },
+    {
+        "id": "Điều 11, điểm a khoản 1 Điều 22.18.",
+        "article": "Điều 11, điểm a khoản 1 Điều 22",
+        "clause": "18.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Công chứng số 53/2014/QH13 Khoản 1 Điều 18, khoản 1 Điều 24, điểm b và điểm c khoản 2 Điều 69, điểm b khoản 1 Điều 70"
+    },
+    {
+        "id": "Điều 11, điểm a khoản 1 Điều 22.19.",
+        "article": "Điều 11, điểm a khoản 1 Điều 22",
+        "clause": "19.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Đê điều số 79/2006/QH11"
+    },
+    {
+        "id": "Điều 12, Điều 13, Điều 14, Điều 16, Điều 17, Điều 18, Điều 19.20.",
+        "article": "Điều 12, Điều 13, Điều 14, Điều 16, Điều 17, Điều 18, Điều 19",
+        "clause": "20.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Trẻ em số 102/2016/QH13 Khoản 2 Điều 45, khoản 1 và khoản 2 Điều 57"
+    },
+    {
+        "id": "Điều 12, Điều 13, Điều 14, Điều 16, Điều 17, Điều 18, Điều 19.21.",
+        "article": "Điều 12, Điều 13, Điều 14, Điều 16, Điều 17, Điều 18, Điều 19",
+        "clause": "21.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Đầu tư số 67/2014/QH13 Khoản 1 Điều 20, Điều 21"
+    },
+    {
+        "id": "Điều 12, Điều 13, Điều 14, Điều 16, Điều 17, Điều 18, Điều 19.22.",
+        "article": "Điều 12, Điều 13, Điều 14, Điều 16, Điều 17, Điều 18, Điều 19",
+        "clause": "22.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Đầu tư công số 49/2014/QH13"
+    },
+    {
+        "id": "Điều 8, Điều 9, Điều 10, điểm d khoản 2 Điều 21, khoản 2 Điều 40, điểm b khoản 2 Điều 47.23.",
+        "article": "Điều 8, Điều 9, Điều 10, điểm d khoản 2 Điều 21, khoản 2 Điều 40, điểm b khoản 2 Điều 47",
+        "clause": "23.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Dược số 105/2016/QH13 Điểm c khoản 1 Điều 10"
+    },
+    {
+        "id": "Điều 8, Điều 9, Điều 10, điểm d khoản 2 Điều 21, khoản 2 Điều 40, điểm b khoản 2 Điều 47.24.",
+        "article": "Điều 8, Điều 9, Điều 10, điểm d khoản 2 Điều 21, khoản 2 Điều 40, điểm b khoản 2 Điều 47",
+        "clause": "24.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Sử dụng năng lượng tiết kiệm và hiệu quả số 50/2010/QH12 Điểm b khoản 1 và khoản 2 Điều 6"
+    },
+    {
+        "id": "Điều 8, Điều 9, Điều 10, điểm d khoản 2 Điều 21, khoản 2 Điều 40, điểm b khoản 2 Điều 47.25.",
+        "article": "Điều 8, Điều 9, Điều 10, điểm d khoản 2 Điều 21, khoản 2 Điều 40, điểm b khoản 2 Điều 47",
+        "clause": "25.",
+        "title": "Không có tiêu đề",
+        "text": " Luật Thủy lợi số 08/2017/QH14 Khoản 5 Điều 11, Điều 12, Điều 13, Điều 14, điểm b khoản 1 Điều 57"
     }
 ]
