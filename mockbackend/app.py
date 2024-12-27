@@ -25,27 +25,52 @@ class MessageRequest(BaseModel):
     message: str
 
 # Define a response model
+class SourceDocument(BaseModel):
+    content: str
+    metadata: dict
+
 class MessageResponse(BaseModel):
-    message: str
+    answer: str
+    source_documents: list[SourceDocument]
 
 # Define a mock AI response function
-def get_mock_ai_response(user_message: str) -> str:
-    # You can use any logic here for your mock response
-    responses = [
-        "Hello! How can I assist you today?",
-        "I'm here to help you with your questions!",
-        "Let's chat! What can I do for you?",
-        "Tell me more about what you're looking for!"
+def get_mock_ai_response(user_message: str) -> dict:
+    # Mock AI response
+    answer = "This is a mock answer to your question."
+
+    # Mock source documents
+    source_documents = [
+        {
+            "content": "Cơ quan quản lý nhà nước về trẻ em;",
+            "metadata": {
+                "article": "Điều 10",
+                "clause": "2c",
+                "file_id": "Luật-52-2014-QH13",
+                "id": "Điều 10.2c",
+                "title": "Người có quyền yêu cầu hủy việc kết hôn trái pháp luật"
+            }
+        },
+        {
+            "content": "Cơ quan quản lý nhà nước về trẻ em;",
+            "metadata": {
+                "article": "Điều 84",
+                "clause": "5c",
+                "file_id": "Luật-52-2014-QH13",
+                "id": "Điều 84.5c",
+                "title": "Thay đổi người trực tiếp nuôi con sau khi ly hôn"
+            }
+        }
     ]
-    return random.choice(responses)
+
+    return {"answer": answer, "source_documents": source_documents}
 
 # Create an endpoint for receiving messages
 @app.post("/send-message", response_model=MessageResponse)
 async def send_message(request: MessageRequest):
     # Get the AI response based on the user input
     ai_response = get_mock_ai_response(request.message)
-    return MessageResponse(message=ai_response)
+    return MessageResponse(**ai_response)
 
 # Run the app (this allows the script to run with 'python app.py')
 if __name__ == "__main__":
-    uvicorn.run(app, host="127.0.0.1", port=8000)
+    uvicorn.run(app, host="127.0.0.1", port=1111)
