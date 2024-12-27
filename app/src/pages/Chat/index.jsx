@@ -12,14 +12,7 @@ import {
   DialogContent,
 } from "@mui/material";
 import axios from "axios";
-import law52 from '../../utils/law/Luật-52-2014-QH13.json';
-import law91 from '../../utils/law/Bộ luật-91-2015-QH13.json';
 
-
-const jsonFile = {
-  "Bộ luật-91-2015-QH13" : law91,
-  "Luật-52-2014-QH13": law52
-}
 
 const ChatPage = () => {
   const [messages, setMessages] = useState([]);
@@ -65,14 +58,12 @@ const ChatPage = () => {
       // console.log(a);
       // const lawContenta = a.data[article];
       // console.log(lawContenta); 
-      // const response = await import(`../../utils/law/${fileId}.json`);
 
       const content = data["content"]
       const metadata = data["metadata"]
       console.log("content", content)
       console.log("metadata", metadata)
-
-      const currentLaw = jsonFile[metadata.file_id]
+      const currentLaw =  await import(`../../utils/law/${metadata.file_id}.json`);
       console.log(currentLaw)
 
       const articleContent = currentLaw.content.find(
@@ -80,19 +71,6 @@ const ChatPage = () => {
       )
 
       console.log(articleContent)
-
-      
-      // console.log(fileId)
-      // const law = jsonFile[fileId]
-      // console.log(law)
-      // console.log(law52["content"])
-      // console.log(article)
-
-      // const articleContent = law.content.find(
-      //   (item) => item.id === article
-      // );
-      // console.log(articleContent)
-      // console.log(articleContent.title)
       
       setPopupContent(articleContent.title || "No content found.");
       setIsPopupOpen(true);

@@ -45,7 +45,7 @@ def get_mock_ai_response(user_message: str) -> dict:
             "metadata": {
                 "article": "Điều 10",
                 "clause": "2c",
-                "file_id": "Luật-52-2014-QH13",
+                "file_id": "52-2014-QH13",
                 "id": "Điều 10.2c",
                 "title": "Người có quyền yêu cầu hủy việc kết hôn trái pháp luật"
             }
@@ -55,7 +55,7 @@ def get_mock_ai_response(user_message: str) -> dict:
             "metadata": {
                 "article": "Điều 84",
                 "clause": "5c",
-                "file_id": "Luật-52-2014-QH13",
+                "file_id": "52-2014-QH13",
                 "id": "Điều 84.5c",
                 "title": "Thay đổi người trực tiếp nuôi con sau khi ly hôn"
             }
