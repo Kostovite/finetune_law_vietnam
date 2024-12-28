@@ -12,8 +12,8 @@ import {
   DialogContent,
 } from "@mui/material";
 import axios from "axios";
-import law52 from '../../utils/law/Luật-52-2014-QH13.json';
-import law91 from '../../utils/law/Bộ luật-91-2015-QH13.json';
+import law52 from '../../utils/law/Rule52.json';
+import law91 from '../../utils/law/Rule91.json';
 
 
 const jsonFile = {
