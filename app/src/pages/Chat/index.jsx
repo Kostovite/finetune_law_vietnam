@@ -1,172 +1,74 @@
-import { useState } from "react";
-import {
-  Box,
-  TextField,
-  Button,
-  Typography,
-  Paper,
-  Divider,
-  Link,
-  Dialog,
-  DialogTitle,
-  DialogContent,
-} from "@mui/material";
-import axios from "axios";
+import React, { useState } from 'react';
+import { Box, Paper, Typography, ThemeProvider } from '@mui/material';
+import MessageBubble from './MessageBubble';
+import MessageInput from './MessageInput';
+import theme from '../../theme/theme';
 
+const ChatWindow = () => {
+  const [messages, setMessages] = useState([
+    { sender: 'bot', text: 'Chào mừng! Tôi có thể giúp gì cho bạn?' },
+  ]);
 
-const ChatPage = () => {
-  const [messages, setMessages] = useState([]);
-  const [input, setInput] = useState("");
-  const [popupContent, setPopupContent] = useState(null);
-  const [isPopupOpen, setIsPopupOpen] = useState(false);
-
-  const handleSendMessage = async () => {
-    if (input.trim() === "") return;
-
-    // User message
-    const userMessage = { text: input, sender: "user" };
-    setMessages((prev) => [...prev, userMessage]);
-    setInput("");
-
-    // Call API
-    const aiMessage = await getAIResponse(input);
-    if (aiMessage) {
-      setMessages((prev) => [
-        ...prev,
-        { text: aiMessage.answer, sender: "ai", sourceDocuments: aiMessage.source_documents },
-      ]);
-    }
-  };
-
-  const getAIResponse = async (userInput) => {
-    try {
-      const response = await axios.post(
-        "http://127.0.0.1:1111/send-message",
-        { message: userInput },
-        { headers: { "Content-Type": "application/json" } }
-      );
-      return response.data;
-    } catch (error) {
-      console.error("Error:", error);
-      return null;
-    }
-  };
-
-  const fetchDocumentContent = async (data) => {
-    try {
-      // const a = await axios.get(`../../utils/law/${fileId}.json`);
-      // console.log(a);
-      // const lawContenta = a.data[article];
-      // console.log(lawContenta); 
-
-      const content = data["content"]
-      const metadata = data["metadata"]
-      console.log("content", content)
-      console.log("metadata", metadata)
-      const currentLaw =  await import(`../../utils/law/${metadata.file_id}.json`);
-      console.log(currentLaw)
-
-      const articleContent = currentLaw.content.find(
-        (item) => item.id === metadata.article
-      )
-
-      console.log(articleContent)
-      
-      setPopupContent(articleContent.title || "No content found.");
-      setIsPopupOpen(true);
-    } catch (error) {
-      console.error("Error fetching law content:", error);
-      setPopupContent("Failed to load content.");
-      setIsPopupOpen(true);
-    }
+  const handleSendMessage = (message) => {
+    setMessages([...messages, { sender: 'user', text: message }]);
+    setTimeout(() => {
+      setMessages((prev) => [...prev, { sender: 'bot', text: 'Đây là câu trả lời mẫu.' }]);
+    }, 1000);
   };
 
   return (
-    <Box
-      display="flex"
-      flexDirection="column"
-      justifyContent="space-between"
-      alignItems="center"
-      height="100vh"
-      bgcolor="background.default"
-      padding={2}
-    >
-      {/* Header */}
-      <Typography variant="h5" color="primary" gutterBottom>
-        Chat with GPT
-      </Typography>
-
-      {/* Chat Box */}
-      <Paper
-        elevation={3}
-        style={{
-          flex: 1,
-          width: "100%",
-          maxWidth: 600,
-          overflowY: "auto",
-          marginBottom: 16,
-          padding: 16,
+    <ThemeProvider theme={theme}> {/* Sử dụng ThemeProvider để áp dụng theme */}
+      <Box
+        sx={{
+          width: '100%',
+          height: '100vh',
+          display: 'flex',
+          flexDirection: 'column',
+          backgroundColor: theme.palette.background.default,
         }}
       >
-        {messages.map((message, index) => (
-          <Box key={index} marginBottom={2}>
-            {/* Display User or AI Message */}
-            <Typography
-              style={{
-                color: message.sender === "user" ? "primary.main" : "black",
-                fontWeight: message.sender === "user" ? "bold" : "normal",
-              }}
-            >
-              {message.text}
-            </Typography>
-
-            {/* Display Source Documents */}
-            {message.sender === "ai" &&
-              message.sourceDocuments &&
-              message.sourceDocuments.map((doc, i) => (
-                <Box key={i} marginTop={1}>
-                  <Link
-                    href="#"
-                    onClick={(e) => {
-                      e.preventDefault();
-                      fetchDocumentContent(doc);
-                    }}
-                  >
-                    {doc.metadata.title}
-                  </Link>
-                </Box>
-              ))}
-          </Box>
-        ))}
-      </Paper>
-
-      {/* Input Box */}
-      <Divider style={{ width: "100%", maxWidth: 600, marginBottom: 8 }} />
-      <Box display="flex" alignItems="center" width="100%" maxWidth={600} padding={1}>
-        <TextField
-          fullWidth
-          variant="outlined"
-          placeholder="Type your message..."
-          value={input}
-          onChange={(e) => setInput(e.target.value)}
-          onKeyPress={(e) => {
-            if (e.key === "Enter") handleSendMessage();
+        {/* <Box
+          sx={{
+            padding: 3,
+            backgroundColor: 'linear-gradient(145deg, #60A5FA, #3B82F6)', // Gradient màu sắc mới
+            color: '#FFFFFF', // Màu chữ trắng để tương phản tốt với nền gradient
+            textAlign: 'center',
+            borderRadius: '10px', // Thêm bo góc để mềm mại hơn
+            boxShadow: '0 4px 10px rgba(0, 0, 0, 0.2)', // Thêm bóng đổ cho tiêu đề
           }}
-        />
-        <Button variant="contained" color="primary" style={{ marginLeft: 8 }} onClick={handleSendMessage}>
-          Send
-        </Button>
-      </Box>
+        >
+          <Typography
+            variant="h3"
+            component="h1"
+            sx={{
+              fontFamily: "'Poppins', sans-serif", // Sử dụng font Poppins cho tiêu đề
+              fontWeight: '600', // Kiểu chữ đậm
+              letterSpacing: '1px', // Thêm khoảng cách giữa các chữ
+              textTransform: 'uppercase', // Chữ hoa cho tiêu đề
+            }}
+          >
+            Lawwise
+          </Typography>
+        </Box> */}
 
-      {/* Popup Dialog */}
-      <Dialog open={isPopupOpen} onClose={() => setIsPopupOpen(false)} maxWidth="sm" fullWidth>
-        <DialogTitle>Law Document Content</DialogTitle>
-        <DialogContent>
-          <Typography>{popupContent}</Typography>
-        </DialogContent>
-      </Dialog>
-    </Box>
+
+        <Paper
+          elevation={3}
+          sx={{
+            flex: 1,
+            overflowY: 'auto',
+            padding: 2,
+            backgroundColor: theme.palette.background.paper, 
+          }}
+        >
+          {messages.map((msg, index) => (
+            <MessageBubble key={index} sender={msg.sender} text={msg.text} />
+          ))}
+        </Paper>
+        <MessageInput onSend={handleSendMessage} />
+      </Box>
+    </ThemeProvider>
   );
 };
 
-export default ChatPage;
+export default ChatWindow;
