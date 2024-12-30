@@ -1,23 +1,68 @@
-import React, { useState } from 'react';
-import { Box, Paper, Typography, ThemeProvider } from '@mui/material';
+import { useState } from 'react';
 import MessageBubble from './MessageBubble';
 import MessageInput from './MessageInput';
 import theme from '../../theme/theme';
+import {
+  Box,
+  Paper,
+  ThemeProvider,
+} from "@mui/material";
+import axios from "axios";
 
-const ChatWindow = () => {
+const ChatPage = () => {
   const [messages, setMessages] = useState([
     { sender: 'bot', text: 'Chào mừng! Tôi có thể giúp gì cho bạn?' },
   ]);
 
-  const handleSendMessage = (message) => {
-    setMessages([...messages, { sender: 'user', text: message }]);
-    setTimeout(() => {
-      setMessages((prev) => [...prev, { sender: 'bot', text: 'Đây là câu trả lời mẫu.' }]);
-    }, 1000);
+  const handleSendMessage = async (message) => {
+    if (!message || message.trim() === "") return;
+  
+    // User message
+    const userMessage = { sender: "user", text: message };
+    setMessages((prev) => [...prev, userMessage]);
+  
+    // Call API
+    try {
+      const aiMessage = await getAIResponse(message);
+      if (aiMessage) {
+        setMessages((prev) => [
+          ...prev,
+          { sender: "ai", text: aiMessage.answer, sourceDocuments: aiMessage.source_documents },
+        ]);
+      } else {
+        // Fallback for cases where the AI doesn't return a valid response
+        setMessages((prev) => [
+          ...prev,
+          { sender: "bot", text: "Đây là câu trả lời mẫu." },
+        ]);
+      }
+    } catch (error) {
+      console.error("Error while fetching AI response:", error);
+      // Handle API errors gracefully
+      setMessages((prev) => [
+        ...prev,
+        { sender: "bot", text: "Đã xảy ra lỗi, vui lòng thử lại sau." },
+      ]);
+    }
+  };
+  
+
+  const getAIResponse = async (userInput) => {
+    try {
+      const response = await axios.post(
+        "http://127.0.0.1:1111/send-message",
+        { message: userInput },
+        { headers: { "Content-Type": "application/json" } }
+      );
+      return response.data;
+    } catch (error) {
+      console.error("Error:", error);
+      return null;
+    }
   };
 
   return (
-    <ThemeProvider theme={theme}> {/* Sử dụng ThemeProvider để áp dụng theme */}
+    <ThemeProvider theme={theme}>
       <Box
         sx={{
           width: '100%',
@@ -27,38 +72,13 @@ const ChatWindow = () => {
           backgroundColor: theme.palette.background.default,
         }}
       >
-        {/* <Box
-          sx={{
-            padding: 3,
-            backgroundColor: 'linear-gradient(145deg, #60A5FA, #3B82F6)', // Gradient màu sắc mới
-            color: '#FFFFFF', // Màu chữ trắng để tương phản tốt với nền gradient
-            textAlign: 'center',
-            borderRadius: '10px', // Thêm bo góc để mềm mại hơn
-            boxShadow: '0 4px 10px rgba(0, 0, 0, 0.2)', // Thêm bóng đổ cho tiêu đề
-          }}
-        >
-          <Typography
-            variant="h3"
-            component="h1"
-            sx={{
-              fontFamily: "'Poppins', sans-serif", // Sử dụng font Poppins cho tiêu đề
-              fontWeight: '600', // Kiểu chữ đậm
-              letterSpacing: '1px', // Thêm khoảng cách giữa các chữ
-              textTransform: 'uppercase', // Chữ hoa cho tiêu đề
-            }}
-          >
-            Lawwise
-          </Typography>
-        </Box> */}
-
-
         <Paper
           elevation={3}
           sx={{
             flex: 1,
             overflowY: 'auto',
             padding: 2,
-            backgroundColor: theme.palette.background.paper, 
+            backgroundColor: theme.palette.background.paper,
           }}
         >
           {messages.map((msg, index) => (
@@ -71,4 +91,4 @@ const ChatWindow = () => {
   );
 };
 
-export default ChatWindow;
+export default ChatPage;
