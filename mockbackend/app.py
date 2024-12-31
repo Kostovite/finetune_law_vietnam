@@ -36,7 +36,7 @@ class MessageResponse(BaseModel):
 # Define a mock AI response function
 def get_mock_ai_response(user_message: str) -> dict:
     # Mock AI response
-    answer = "This is a mock answer to your question."
+    answer = "Trẻ em là người tuyệt vời nhất thế giới."
 
     # Mock source documents
     source_documents = [

@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import MessageBubble from './MessageBubble';
-import MessageInput from './MessageInput';
+import MessageBubble from './components/MessageBubble';
+import MessageInput from './components/MessageInput';
 import theme from '../../theme/theme';
 import {
   Box,
@@ -11,7 +11,7 @@ import axios from "axios";
 
 const ChatPage = () => {
   const [messages, setMessages] = useState([
-    { sender: 'bot', text: 'Chào mừng! Tôi có thể giúp gì cho bạn?' },
+    { sender: 'bot', text: 'Chào mừng! Tôi có thể giúp gì cho bạn?', sourceDocuments: [] },
   ]);
 
   const handleSendMessage = async (message) => {
@@ -24,6 +24,7 @@ const ChatPage = () => {
     // Call API
     try {
       const aiMessage = await getAIResponse(message);
+      console.log("aiMessage", aiMessage);
       if (aiMessage) {
         setMessages((prev) => [
           ...prev,
@@ -82,7 +83,7 @@ const ChatPage = () => {
           }}
         >
           {messages.map((msg, index) => (
-            <MessageBubble key={index} sender={msg.sender} text={msg.text} />
+            <MessageBubble key={index} sender={msg.sender} text={msg.text} sourceDocuments={msg.sourceDocuments}/>
           ))}
         </Paper>
         <MessageInput onSend={handleSendMessage} />
