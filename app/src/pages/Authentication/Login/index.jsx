@@ -26,8 +26,9 @@ const LoginPage = () => {
   const handleLogin = async (e) => {
     e.preventDefault();
     try {
-      await signInWithEmailAndPassword(auth, email, password);
-      navigate("/chat");
+      const token = await signInWithEmailAndPassword(auth, email, password);
+      console.log(token);
+      navigate("/");
     } catch (err) {
       setError(
         err.code === 'auth/invalid-credential' 

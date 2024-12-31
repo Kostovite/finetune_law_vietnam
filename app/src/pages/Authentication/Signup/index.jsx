@@ -29,6 +29,7 @@ const SignupPage = () => {
       await createUserWithEmailAndPassword(auth, email, password);
       navigate("/login");
     } catch (err) {
+      console.log(err);
       setError(
         err.code === 'auth/email-already-in-use'
           ? 'This email is already registered. Please login instead.'
