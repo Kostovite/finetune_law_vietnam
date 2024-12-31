@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { signInWithEmailAndPassword } from "firebase/auth";
 import { auth } from "../../../firebase/firebase";
 import { useNavigate } from "react-router-dom";
@@ -21,14 +21,14 @@ const LoginPage = () => {
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const [showPassword, setShowPassword] = useState(false);
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
   const navigate = useNavigate();
 
   const handleLogin = async (e) => {
     e.preventDefault();
     try {
-      const token = await signInWithEmailAndPassword(auth, email, password);
-      console.log(token);
-      navigate("/");
+      await signInWithEmailAndPassword(auth, email, password);
+      setIsLoggedIn(true);
     } catch (err) {
       setError(
         err.code === 'auth/invalid-credential' 
@@ -38,12 +38,18 @@ const LoginPage = () => {
     }
   };
 
+  useEffect(() => {
+    if (isLoggedIn) {
+      navigate("/");
+    }
+  }, [isLoggedIn, navigate]);
+
   return (
     <AuthFormLayout title={
       <Typography variant="h3" align="center" sx={{ 
-        fontWeight: 800,  // Increased from 600 to 800 for extra boldness
-        letterSpacing: '-0.5px',  // Added slight letter spacing adjustment
-        color: 'primary.light'  // Makes it stand out more
+        fontWeight: 800,
+        letterSpacing: '-0.5px',
+        color: 'primary.light'
       }}>
         Welcome Back
       </Typography>
