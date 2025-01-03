@@ -27,46 +27,57 @@ const MessageBubble = ({ sender, text, sourceDocuments }) => {
         try {
             const content = data["content"];
             const metadata = data["metadata"];
-        
+
             console.log("content", content);
             console.log("metadata", metadata);
-        
+
             const currentLaw = await import(`../../../utils/law/${metadata.file_id}.json`);
             console.log("currentLaw", currentLaw);
-        
+
             const articleContent = currentLaw.content.find(
                 (item) => item.id === metadata.article
             );
-        
+
             // Add the appropriate key based on metadata.file_id
             if (metadata.file_id === "52-2014-QH13") {
                 articleContent.lawName = "Luật hôn nhân gia đình";
             } else if (metadata.file_id === "91-2015-QH13") {
                 articleContent.lawName = "Luật dân sự";
             }
-        
+
             console.log("articleContent", articleContent);
-        
+
             if (articleContent) {
                 const highlightPart = metadata.clause; // e.g., "2c"
-        
+
                 // Use a regular expression to capture the number part and the letter part
-                const sectionPattern = new RegExp(`(\\d+)([a-zA-Z]+)`, 'i'); // Captures number and letter
-        
+                const sectionPattern = new RegExp(`(\\d+)([a-zA-Z]*)`, 'i'); // Phần chữ cái có thể không có
+
+
                 const match = highlightPart.match(sectionPattern);
-        
+
                 if (match) {
                     const numberPart = match[1]; // e.g., "2"
                     const letterPart = match[2]; // e.g., "c"
-        
-                    // Go through content and highlight if matches number and letter part
+
+                    // Reset all highlights before applying new highlight
+                    articleContent.content = articleContent.content.map((item) => ({
+                        ...item,
+                        highlighted: false, // Reset highlight
+                        sub_clauses: item.sub_clauses.map(subClause => ({
+                            ...subClause,
+                            highlighted: false, // Reset sub-clause highlight
+                        })),
+                    }));
+
+                    // Apply highlight to the matched clause
                     articleContent.content = articleContent.content.map((item) => {
                         // Check if the number part matches
                         const numberMatch = item.number === numberPart;
-        
+
                         // Now handle sub_clauses: if letterPart matches any sub_clause letter, highlight it
                         const subClauseMatch = item.sub_clauses.some(subClause => subClause.letter === letterPart);
-        
+
                         if (numberMatch && (letterPart ? subClauseMatch : true)) {
                             return {
                                 ...item,
@@ -84,7 +95,8 @@ const MessageBubble = ({ sender, text, sourceDocuments }) => {
                     });
                 }
             }
-        
+
+
             setPopupContent(articleContent || { title: "No content found", content: [] });
             setIsPopupOpen(true);
         } catch (error) {
@@ -93,8 +105,6 @@ const MessageBubble = ({ sender, text, sourceDocuments }) => {
             setIsPopupOpen(true);
         }
     };
-    
-    
 
 
 
@@ -183,13 +193,30 @@ const MessageBubble = ({ sender, text, sourceDocuments }) => {
                             Tài liệu liên quan:
                         </Typography>
                         <List>
-                            {sourceDocuments.map((doc, index) => (
-                                <ListItem key={index}>
-                                    <Button onClick={() => handleOpenDialog(doc)}>
-                                        {doc.metadata?.title || `Tài liệu ${index + 1}`}
-                                    </Button>
-                                </ListItem>
-                            ))}
+                            {sourceDocuments.map((doc, index) => {
+                                // Lấy thông tin file_id
+                                const fileId = doc.metadata?.file_id;
+
+                                // Xác định tiền tố dựa trên file_id
+                                let prefix = "";
+                                if (fileId === "91-2015-QH13") {
+                                    prefix = "Luật dân sự - ";
+                                } else if (fileId === "52-2014-QH13") {
+                                    prefix = "Luật hôn nhân gia đình - ";
+                                }
+
+                                // Hiển thị ID với tiền tố hoặc mặc định
+                                const displayText = prefix + (doc.metadata?.id || `Tài liệu ${index + 1}`);
+
+                                return (
+                                    <ListItem key={index}>
+                                        <Button onClick={() => handleOpenDialog(doc)}>
+                                            {displayText}
+                                        </Button>
+                                    </ListItem>
+                                );
+                            })}
+
                         </List>
                     </Box>
                 )}
@@ -218,41 +245,41 @@ const MessageBubble = ({ sender, text, sourceDocuments }) => {
                 </DialogTitle>
 
                 <DialogContent>
-    {popupContent?.content && popupContent.content.length > 0 ? (
-        popupContent.content.map((item, index) => (
-            <Box key={index} sx={{ mb: 2 }}>
-                <Typography variant="subtitle1">
-                    {item.number !== "0" ? `Khoản ${item.number}:` : "Điều khoản chính:"}
-                </Typography>
-                <Typography
-                    sx={{
-                        backgroundColor: item.highlighted ? '#60A5FA' : 'transparent', // Highlighted sections
-                        fontWeight: item.highlighted ? 'bold' : 'normal', // Bold for highlighted parts
-                    }}
-                >
-                    {item.text}
-                </Typography>
-                {item.sub_clauses && item.sub_clauses.length > 0 && (
-                    <Box sx={{ pl: 2, mt: 1 }}>
-                        {item.sub_clauses.map((sub, subIndex) => (
-                            <Typography
-                                key={subIndex}
-                                sx={{
-                                    backgroundColor: sub.highlighted ? '#60A5FA' : 'transparent',
-                                    fontWeight: sub.highlighted ? 'bold' : 'normal',
-                                }}
-                            >
-                                {sub.letter}. {sub.text}
-                            </Typography>
-                        ))}
-                    </Box>
-                )}
-            </Box>
-        ))
-    ) : (
-        <Typography>Không có nội dung để hiển thị.</Typography>
-    )}
-</DialogContent>
+                    {popupContent?.content && popupContent.content.length > 0 ? (
+                        popupContent.content.map((item, index) => (
+                            <Box key={index} sx={{ mb: 2 }}>
+                                <Typography variant="subtitle1">
+                                    {item.number !== "0" ? `Khoản ${item.number}:` : "Điều khoản chính:"}
+                                </Typography>
+                                <Typography
+                                    sx={{
+                                        backgroundColor: item.highlighted ? '#60A5FA' : 'transparent', // Highlighted sections
+                                        fontWeight: item.highlighted ? 'bold' : 'normal', // Bold for highlighted parts
+                                    }}
+                                >
+                                    {item.text}
+                                </Typography>
+                                {item.sub_clauses && item.sub_clauses.length > 0 && (
+                                    <Box sx={{ pl: 2, mt: 1 }}>
+                                        {item.sub_clauses.map((sub, subIndex) => (
+                                            <Typography
+                                                key={subIndex}
+                                                sx={{
+                                                    backgroundColor: sub.highlighted ? '#60A5FA' : 'transparent',
+                                                    fontWeight: sub.highlighted ? 'bold' : 'normal',
+                                                }}
+                                            >
+                                                {sub.letter}. {sub.text}
+                                            </Typography>
+                                        ))}
+                                    </Box>
+                                )}
+                            </Box>
+                        ))
+                    ) : (
+                        <Typography>Không có nội dung để hiển thị.</Typography>
+                    )}
+                </DialogContent>
 
             </Dialog>
 

@@ -8,9 +8,7 @@ const AppRouter = () => {
     <Router>
       <Routes>
         < Route path="/" element={
-
             <ChatPage />
-
         } />
         <Route path="/login" element={<LoginPage />} />
         <Route path="/signup" element={<SignupPage />} />
