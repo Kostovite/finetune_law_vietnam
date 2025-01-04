@@ -155,6 +155,14 @@ const MessageBubble = ({ sender, text, sourceDocuments }) => {
 
             if (response.ok && result.error === 0 && result.async) {
                 setAudioUrl(result.async);
+            } else if (result.message.includes('The content will be returned')) {
+                // Nếu file âm thanh chưa sẵn sàng, cần chờ và thử lại
+                const audioUrl = await waitForAudio(result.async);
+                if (audioUrl) {
+                    setAudioUrl(audioUrl);
+                } else {
+                    alert('Không thể tải file âm thanh sau khi chờ.');
+                }
             } else {
                 console.error('API không trả về URL hợp lệ:', result);
                 alert('API không trả về URL hợp lệ.');
@@ -165,6 +173,23 @@ const MessageBubble = ({ sender, text, sourceDocuments }) => {
         } finally {
             setIsLoading(false);
         }
+    };
+
+    const waitForAudio = async (asyncUrl) => {
+        const maxRetries = 10; // Số lần thử tối đa
+        const delay = 5000; // Thời gian chờ giữa các lần thử (ms)
+        for (let i = 0; i < maxRetries; i++) {
+            try {
+                const response = await fetch(asyncUrl);
+                if (response.ok) {
+                    return asyncUrl; // URL sẵn sàng
+                }
+            } catch {
+                console.log('File chưa sẵn sàng, thử lại...');
+            }
+            await new Promise((resolve) => setTimeout(resolve, delay)); // Chờ trước khi thử lại
+        }
+        return null; // Thất bại sau khi thử nhiều lần
     };
 
     const handleStopAudio = () => {
